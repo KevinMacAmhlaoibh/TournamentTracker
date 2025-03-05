@@ -13,7 +13,7 @@ Poker tournament and hand analyzer project
 ### Secondary Metrics
 
     - (All In) EV BB/100
-    - Hand BBs (Most Won /Most Lost)
+    - Hand BBs (Most Won / Most Lost)
 
 ### Process
 
