@@ -1,0 +1,5367 @@
+﻿PokerStars Hand #254971480914: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 16:29:57 WET [2025/02/21 11:29:57 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: slpandev (5000 in chips, $5 bounty) 
+Seat 2: Fantom453 (5000 in chips, $5 bounty) 
+Seat 3: imstalker (5000 in chips, $5 bounty) 
+Seat 4: iwillkillset (5000 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (5000 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (5000 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5000 in chips, $5 bounty) 
+Seat 8: Catbui1973 (5000 in chips, $5 bounty) is sitting out
+slpandev: posts the ante 8
+Fantom453: posts the ante 8
+imstalker: posts the ante 8
+iwillkillset: posts the ante 8
+Vitaly Khd: posts the ante 8
+7Dredzik7: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Catbui1973: posts the ante 8
+Fantom453: posts small blind 25
+imstalker: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 3d]
+iwillkillset: folds 
+Vitaly Khd: raises 100 to 150
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+slpandev: calls 150
+Fantom453: folds 
+imstalker: calls 100
+*** FLOP *** [9h 5c 7h]
+imstalker: checks 
+Vitaly Khd: checks 
+slpandev: checks 
+*** TURN *** [9h 5c 7h] [7s]
+7Dredzik7 is disconnected 
+imstalker: checks 
+Vitaly Khd: bets 162
+Catbui1973 is disconnected 
+Catbui1973 has returned
+slpandev: calls 162
+imstalker: folds 
+*** RIVER *** [9h 5c 7h 7s] [4s]
+Vitaly Khd: bets 540
+slpandev: calls 540
+*** SHOW DOWN ***
+Vitaly Khd: shows [Qd Qs] (two pair, Queens and Sevens)
+slpandev: mucks hand 
+Vitaly Khd collected 1943 from pot
+*** SUMMARY ***
+Total pot 1943 | Rake 0 
+Board [9h 5c 7h 7s 4s]
+Seat 1: slpandev (button) mucked [Ks As]
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: imstalker (big blind) folded on the Turn
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd showed [Qd Qs] and won (1943) with two pair, Queens and Sevens
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971506323: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 16:31:52 WET [2025/02/21 11:31:52 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: slpandev (4140 in chips, $5 bounty) 
+Seat 2: Fantom453 (4967 in chips, $5 bounty) 
+Seat 3: imstalker (4842 in chips, $5 bounty) 
+Seat 4: iwillkillset (4992 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6083 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4992 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4992 in chips, $5 bounty) 
+Seat 8: Catbui1973 (4992 in chips, $5 bounty) 
+slpandev: posts the ante 8
+Fantom453: posts the ante 8
+imstalker: posts the ante 8
+iwillkillset: posts the ante 8
+Vitaly Khd: posts the ante 8
+7Dredzik7: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Catbui1973: posts the ante 8
+imstalker: posts small blind 25
+iwillkillset: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d As]
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: raises 100 to 150
+slpandev: calls 150
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+*** FLOP *** [4s Qd 6h]
+Catbui1973: bets 150
+slpandev: calls 150
+*** TURN *** [4s Qd 6h] [Jd]
+Catbui1973: bets 200
+slpandev: calls 200
+*** RIVER *** [4s Qd 6h Jd] [Js]
+Catbui1973: checks 
+slpandev: bets 500
+Catbui1973: raises 900 to 1400
+slpandev: calls 900
+*** SHOW DOWN ***
+Catbui1973: shows [Td Ah] (a pair of Jacks)
+slpandev: shows [Ts Qs] (two pair, Queens and Jacks)
+slpandev collected 3939 from pot
+*** SUMMARY ***
+Total pot 3939 | Rake 0 
+Board [4s Qd 6h Jd Js]
+Seat 1: slpandev showed [Ts Qs] and won (3939) with two pair, Queens and Jacks
+Seat 2: Fantom453 (button) folded before Flop (didn't bet)
+Seat 3: imstalker (small blind) folded before Flop
+Seat 4: iwillkillset (big blind) folded before Flop
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 showed [Td Ah] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254971529924: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 16:33:38 WET [2025/02/21 11:33:38 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 1: slpandev (6171 in chips, $5 bounty) 
+Seat 2: Fantom453 (4959 in chips, $5 bounty) 
+Seat 3: imstalker (4809 in chips, $5 bounty) 
+Seat 4: iwillkillset (4934 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6075 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4984 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4984 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3084 in chips, $5 bounty) 
+slpandev: posts the ante 8
+Fantom453: posts the ante 8
+imstalker: posts the ante 8
+iwillkillset: posts the ante 8
+Vitaly Khd: posts the ante 8
+7Dredzik7: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Catbui1973: posts the ante 8
+iwillkillset: posts small blind 25
+Vitaly Khd: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Jd]
+7Dredzik7: folds 
+Kevin12345Mc: raises 65 to 115
+Catbui1973: calls 115
+slpandev: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: calls 65
+*** FLOP *** [9s Tc 4c]
+Vitaly Khd: checks 
+Kevin12345Mc: bets 217
+Catbui1973: calls 217
+Vitaly Khd: folds 
+*** TURN *** [9s Tc 4c] [Kc]
+Kevin12345Mc: checks 
+Catbui1973: bets 150
+Kevin12345Mc: calls 150
+*** RIVER *** [9s Tc 4c Kc] [Ad]
+Kevin12345Mc: checks 
+Catbui1973: bets 650
+Kevin12345Mc: folds 
+Uncalled bet (650) returned to Catbui1973
+Catbui1973 collected 1168 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 1168 | Rake 0 
+Board [9s Tc 4c Kc Ad]
+Seat 1: slpandev folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker (button) folded before Flop (didn't bet)
+Seat 4: iwillkillset (small blind) folded before Flop
+Seat 5: Vitaly Khd (big blind) folded on the Flop
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded on the River
+Seat 8: Catbui1973 collected (1168)
+
+
+
+PokerStars Hand #254971548206: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 16:35:00 WET [2025/02/21 11:35:00 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: slpandev (6163 in chips, $5 bounty) 
+Seat 2: Fantom453 (4951 in chips, $5 bounty) 
+Seat 3: imstalker (4801 in chips, $5 bounty) 
+Seat 4: iwillkillset (4901 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (5952 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4976 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4494 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3762 in chips, $5 bounty) 
+slpandev: posts the ante 8
+Fantom453: posts the ante 8
+imstalker: posts the ante 8
+iwillkillset: posts the ante 8
+Vitaly Khd: posts the ante 8
+7Dredzik7: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Catbui1973: posts the ante 8
+Vitaly Khd: posts small blind 25
+7Dredzik7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks Td]
+Kevin12345Mc: folds 
+Catbui1973: raises 100 to 150
+slpandev: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: calls 150
+Vitaly Khd: calls 125
+7Dredzik7: folds 
+*** FLOP *** [7c Qd 4h]
+Vitaly Khd: checks 
+Catbui1973: bets 150
+iwillkillset: calls 150
+Vitaly Khd: raises 304 to 454
+Catbui1973: folds 
+iwillkillset: raises 487 to 941
+Vitaly Khd: calls 487
+*** TURN *** [7c Qd 4h] [6s]
+Vitaly Khd: checks 
+iwillkillset: bets 1298
+Vitaly Khd: folds 
+Uncalled bet (1298) returned to iwillkillset
+iwillkillset collected 2596 from pot
+*** SUMMARY ***
+Total pot 2596 | Rake 0 
+Board [7c Qd 4h 6s]
+Seat 1: slpandev folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset (button) collected (2596)
+Seat 5: Vitaly Khd (small blind) folded on the Turn
+Seat 6: 7Dredzik7 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded on the Flop
+
+
+
+PokerStars Hand #254971587579: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 16:37:56 WET [2025/02/21 11:37:56 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: slpandev (6155 in chips, $5 bounty) 
+Seat 2: Fantom453 (4943 in chips, $5 bounty) 
+Seat 3: imstalker (4793 in chips, $5 bounty) 
+Seat 4: iwillkillset (6398 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (4853 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4918 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4486 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3454 in chips, $5 bounty) 
+slpandev: posts the ante 8
+Fantom453: posts the ante 8
+imstalker: posts the ante 8
+iwillkillset: posts the ante 8
+Vitaly Khd: posts the ante 8
+7Dredzik7: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Catbui1973: posts the ante 8
+7Dredzik7: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 4s]
+Catbui1973: folds 
+slpandev: raises 65 to 115
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 345 to 460
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+slpandev: calls 345
+*** FLOP *** [7d 3d 7h]
+slpandev: checks 
+Vitaly Khd: bets 318
+slpandev: calls 318
+*** TURN *** [7d 3d 7h] [5s]
+slpandev: checks 
+Vitaly Khd: checks 
+*** RIVER *** [7d 3d 7h 5s] [Tc]
+slpandev: checks 
+Vitaly Khd: bets 1250
+slpandev: folds 
+Uncalled bet (1250) returned to Vitaly Khd
+Vitaly Khd collected 1695 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 1695 | Rake 0 
+Board [7d 3d 7h 5s Tc]
+Seat 1: slpandev folded on the River
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (button) collected (1695)
+Seat 6: 7Dredzik7 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971611533: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 16:39:42 WET [2025/02/21 11:39:42 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: slpandev (5369 in chips, $5 bounty) 
+Seat 2: Fantom453 (4935 in chips, $5 bounty) 
+Seat 3: imstalker (4785 in chips, $5 bounty) 
+Seat 4: iwillkillset (6390 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (5762 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4885 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4428 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3446 in chips, $5 bounty) 
+slpandev: posts the ante 9
+Fantom453: posts the ante 9
+imstalker: posts the ante 9
+iwillkillset: posts the ante 9
+Vitaly Khd: posts the ante 9
+7Dredzik7: posts the ante 9
+Kevin12345Mc: posts the ante 9
+Catbui1973: posts the ante 9
+Kevin12345Mc: posts small blind 30
+Catbui1973: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts Js]
+slpandev: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: raises 60 to 120
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: raises 360 to 480
+Catbui1973: folds 
+iwillkillset: calls 360
+*** FLOP *** [Kd 9d 3s]
+Kevin12345Mc: bets 360
+iwillkillset: calls 360
+*** TURN *** [Kd 9d 3s] [6h]
+Kevin12345Mc: bets 1076
+iwillkillset: calls 1076
+*** RIVER *** [Kd 9d 3s 6h] [7h]
+Kevin12345Mc: bets 2503 and is all-in
+iwillkillset: folds 
+Uncalled bet (2503) returned to Kevin12345Mc
+Kevin12345Mc collected 3964 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 3964 | Rake 0 
+Board [Kd 9d 3s 6h 7h]
+Seat 1: slpandev folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded on the River
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) collected (3964)
+Seat 8: Catbui1973 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254971634021: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 16:41:21 WET [2025/02/21 11:41:21 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: slpandev (5360 in chips, $5 bounty) 
+Seat 2: Fantom453 (4926 in chips, $5 bounty) 
+Seat 3: imstalker (4776 in chips, $5 bounty) 
+Seat 4: iwillkillset (4465 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (5753 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4876 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6467 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3377 in chips, $5 bounty) 
+slpandev: posts the ante 9
+Fantom453: posts the ante 9
+imstalker: posts the ante 9
+iwillkillset: posts the ante 9
+Vitaly Khd: posts the ante 9
+7Dredzik7: posts the ante 9
+Kevin12345Mc: posts the ante 9
+Catbui1973: posts the ante 9
+Catbui1973: posts small blind 30
+slpandev: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 3s]
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 60 to 120
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 90
+slpandev: folds 
+*** FLOP *** [7s Ks 4s]
+Catbui1973: checks 
+Vitaly Khd: bets 190
+Catbui1973: folds 
+Uncalled bet (190) returned to Vitaly Khd
+Vitaly Khd collected 372 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 372 | Rake 0 
+Board [7s Ks 4s]
+Seat 1: slpandev (big blind) folded before Flop
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd collected (372)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Catbui1973 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254971650383: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 16:42:33 WET [2025/02/21 11:42:33 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: slpandev (5291 in chips, $5 bounty) 
+Seat 2: Fantom453 (4917 in chips, $5 bounty) 
+Seat 3: imstalker (4767 in chips, $5 bounty) 
+Seat 4: iwillkillset (4456 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (5996 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4867 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6458 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3248 in chips, $5 bounty) 
+slpandev: posts the ante 9
+Fantom453: posts the ante 9
+imstalker: posts the ante 9
+iwillkillset: posts the ante 9
+Vitaly Khd: posts the ante 9
+7Dredzik7: posts the ante 9
+Kevin12345Mc: posts the ante 9
+Catbui1973: posts the ante 9
+slpandev: posts small blind 30
+Fantom453: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 2h]
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+slpandev: raises 78 to 138
+Fantom453: calls 78
+*** FLOP *** [2c Jd Ac]
+slpandev: bets 115
+Fantom453: calls 115
+*** TURN *** [2c Jd Ac] [7h]
+slpandev: checks 
+Fantom453: bets 420
+slpandev: calls 420
+*** RIVER *** [2c Jd Ac 7h] [3s]
+slpandev: checks 
+Fantom453: bets 720
+slpandev: calls 720
+*** SHOW DOWN ***
+Fantom453: shows [8h Ah] (a pair of Aces)
+slpandev: mucks hand 
+Fantom453 collected 2858 from pot
+*** SUMMARY ***
+Total pot 2858 | Rake 0 
+Board [2c Jd Ac 7h 3s]
+Seat 1: slpandev (small blind) mucked [9s Js]
+Seat 2: Fantom453 (big blind) showed [8h Ah] and won (2858) with a pair of Aces
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971668356: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 16:43:53 WET [2025/02/21 11:43:53 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: slpandev (3889 in chips, $5 bounty) 
+Seat 2: Fantom453 (6373 in chips, $5 bounty) 
+Seat 3: imstalker (4758 in chips, $5 bounty) 
+Seat 4: iwillkillset (4447 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (5987 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4858 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6449 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3239 in chips, $5 bounty) 
+slpandev: posts the ante 9
+Fantom453: posts the ante 9
+imstalker: posts the ante 9
+iwillkillset: posts the ante 9
+Vitaly Khd: posts the ante 9
+7Dredzik7: posts the ante 9
+Kevin12345Mc: posts the ante 9
+Catbui1973: posts the ante 9
+Fantom453: posts small blind 30
+imstalker: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 4c]
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 60
+slpandev: folds 
+Fantom453: folds 
+imstalker: checks 
+*** FLOP *** [Ah Jd 3c]
+imstalker: checks 
+Catbui1973: checks 
+*** TURN *** [Ah Jd 3c] [Jh]
+imstalker: checks 
+Catbui1973: bets 120
+imstalker: folds 
+Uncalled bet (120) returned to Catbui1973
+Catbui1973 collected 222 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Board [Ah Jd 3c Jh]
+Seat 1: slpandev (button) folded before Flop (didn't bet)
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: imstalker (big blind) folded on the Turn
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 collected (222)
+
+
+
+PokerStars Hand #254971680708: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 16:44:48 WET [2025/02/21 11:44:48 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: slpandev (3880 in chips, $5 bounty) 
+Seat 2: Fantom453 (6334 in chips, $5 bounty) 
+Seat 3: imstalker (4689 in chips, $5 bounty) 
+Seat 4: iwillkillset (4438 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (5978 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4849 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6440 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3392 in chips, $5 bounty) 
+slpandev: posts the ante 9
+Fantom453: posts the ante 9
+imstalker: posts the ante 9
+iwillkillset: posts the ante 9
+Vitaly Khd: posts the ante 9
+7Dredzik7: posts the ante 9
+Kevin12345Mc: posts the ante 9
+Catbui1973: posts the ante 9
+imstalker: posts small blind 30
+iwillkillset: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 3h]
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: raises 78 to 138
+Catbui1973: folds 
+slpandev: raises 372 to 510
+Fantom453: folds 
+imstalker: raises 4170 to 4680 and is all-in
+iwillkillset: folds 
+Kevin12345Mc: folds 
+slpandev: calls 3361 and is all-in
+Uncalled bet (809) returned to imstalker
+*** FLOP *** [4c 2c 9h]
+*** TURN *** [4c 2c 9h] [2h]
+*** RIVER *** [4c 2c 9h 2h] [Kd]
+*** SHOW DOWN ***
+imstalker: shows [Kh Ac] (two pair, Kings and Deuces)
+slpandev: shows [Qs Qd] (two pair, Queens and Deuces)
+imstalker collected 8012 from pot
+imstalker wins $2.50 for eliminating slpandev and their own bounty increases by $2.50 to $7.50
+slpandev finished the tournament
+*** SUMMARY ***
+Total pot 8012 | Rake 0 
+Board [4c 2c 9h 2h Kd]
+Seat 1: slpandev showed [Qs Qd] and lost with two pair, Queens and Deuces
+Seat 2: Fantom453 (button) folded before Flop (didn't bet)
+Seat 3: imstalker (small blind) showed [Kh Ac] and won (8012) with two pair, Kings and Deuces
+Seat 4: iwillkillset (big blind) folded before Flop
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971689899: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 16:45:29 WET [2025/02/21 11:45:29 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 2: Fantom453 (6325 in chips, $5 bounty) 
+Seat 3: imstalker (8821 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (4369 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (5969 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4840 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6293 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3383 in chips, $5 bounty) 
+Fantom453: posts the ante 9
+imstalker: posts the ante 9
+iwillkillset: posts the ante 9
+Vitaly Khd: posts the ante 9
+7Dredzik7: posts the ante 9
+Kevin12345Mc: posts the ante 9
+Catbui1973: posts the ante 9
+iwillkillset: posts small blind 30
+Vitaly Khd: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Js]
+7Dredzik7: folds 
+Kevin12345Mc: raises 78 to 138
+Catbui1973: folds 
+Fantom453: folds 
+imstalker: folds 
+emi_nico09 is disconnected 
+iwillkillset: folds 
+Vitaly Khd: calls 78
+*** FLOP *** [6h 9c 5d]
+Vitaly Khd: checks 
+Kevin12345Mc: bets 122
+Vitaly Khd: raises 358 to 480
+Kevin12345Mc: folds 
+Uncalled bet (358) returned to Vitaly Khd
+Vitaly Khd collected 613 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 613 | Rake 0 
+Board [6h 9c 5d]
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker (button) folded before Flop (didn't bet)
+Seat 4: iwillkillset (small blind) folded before Flop
+Seat 5: Vitaly Khd (big blind) collected (613)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded on the Flop
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971705388: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/21 16:46:38 WET [2025/02/21 11:46:38 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (5000 in chips, $5 bounty) 
+Seat 2: Fantom453 (6316 in chips, $5 bounty) 
+Seat 3: imstalker (8812 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (4330 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6313 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4831 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6024 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3374 in chips, $5 bounty) 
+emi_nico09: posts the ante 11
+Fantom453: posts the ante 11
+imstalker: posts the ante 11
+iwillkillset: posts the ante 11
+Vitaly Khd: posts the ante 11
+7Dredzik7: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Catbui1973: posts the ante 11
+Vitaly Khd: posts small blind 35
+7Dredzik7: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Js]
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: raises 70 to 140
+Vitaly Khd: raises 420 to 560
+7Dredzik7: folds 
+iwillkillset: folds 
+Uncalled bet (420) returned to Vitaly Khd
+Vitaly Khd collected 438 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 438 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset (button) folded before Flop
+Seat 5: Vitaly Khd (small blind) collected (438)
+Seat 6: 7Dredzik7 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971711204: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/21 16:47:04 WET [2025/02/21 11:47:04 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (4989 in chips, $5 bounty) 
+Seat 2: Fantom453 (6305 in chips, $5 bounty) 
+Seat 3: imstalker (8801 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (4179 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6600 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4750 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6013 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3363 in chips, $5 bounty) 
+emi_nico09: posts the ante 11
+Fantom453: posts the ante 11
+imstalker: posts the ante 11
+iwillkillset: posts the ante 11
+Vitaly Khd: posts the ante 11
+7Dredzik7: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Catbui1973: posts the ante 11
+7Dredzik7: posts small blind 35
+Kevin12345Mc: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Ad]
+Catbui1973: raises 70 to 140
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: calls 70
+*** FLOP *** [Jh 6s 6h]
+Kevin12345Mc: checks 
+Catbui1973: bets 140
+Kevin12345Mc: folds 
+Uncalled bet (140) returned to Catbui1973
+Catbui1973 collected 403 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 403 | Rake 0 
+Board [Jh 6s 6h]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (button) folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Flop
+Seat 8: Catbui1973 collected (403)
+
+
+
+PokerStars Hand #254971719384: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/21 16:47:41 WET [2025/02/21 11:47:41 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (4978 in chips, $5 bounty) 
+Seat 2: Fantom453 (6294 in chips, $5 bounty) 
+Seat 3: imstalker (8790 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (4168 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6589 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4704 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5862 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3615 in chips, $5 bounty) 
+emi_nico09: posts the ante 11
+Fantom453: posts the ante 11
+imstalker: posts the ante 11
+iwillkillset: posts the ante 11
+Vitaly Khd: posts the ante 11
+7Dredzik7: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Catbui1973: posts the ante 11
+Kevin12345Mc: posts small blind 35
+Catbui1973: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 7s]
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: raises 70 to 140
+iwillkillset: folds 
+Vitaly Khd: raises 420 to 560
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+imstalker: calls 420
+*** FLOP *** [6h 8d 5d]
+imstalker: checks 
+Vitaly Khd: bets 670
+imstalker: folds 
+Uncalled bet (670) returned to Vitaly Khd
+Vitaly Khd collected 1313 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 1313 | Rake 0 
+Board [6h 8d 5d]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded on the Flop
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd collected (1313)
+Seat 6: 7Dredzik7 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Catbui1973 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254971736249: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/21 16:48:55 WET [2025/02/21 11:48:55 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (4967 in chips, $5 bounty) 
+Seat 2: Fantom453 (6283 in chips, $5 bounty) 
+Seat 3: imstalker (8219 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (4157 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7331 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4693 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5816 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3534 in chips, $5 bounty) 
+emi_nico09: posts the ante 11
+Fantom453: posts the ante 11
+imstalker: posts the ante 11
+iwillkillset: posts the ante 11
+Vitaly Khd: posts the ante 11
+7Dredzik7: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Catbui1973: posts the ante 11
+Catbui1973: posts small blind 35
+emi_nico09: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 9h]
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 70 to 140
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Uncalled bet (70) returned to Vitaly Khd
+Vitaly Khd collected 263 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 263 | Rake 0 
+Seat 1: emi_nico09 (big blind) folded before Flop
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd collected (263)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Catbui1973 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254971742341: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/21 16:49:22 WET [2025/02/21 11:49:22 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: emi_nico09 (4886 in chips, $5 bounty) 
+Seat 2: Fantom453 (6272 in chips, $5 bounty) 
+Seat 3: imstalker (8208 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (4146 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7513 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4682 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5805 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3488 in chips, $5 bounty) 
+emi_nico09: posts the ante 11
+Fantom453: posts the ante 11
+imstalker: posts the ante 11
+iwillkillset: posts the ante 11
+Vitaly Khd: posts the ante 11
+7Dredzik7: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Catbui1973: posts the ante 11
+emi_nico09: posts small blind 35
+Fantom453: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h Ad]
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: calls 35
+Fantom453: checks 
+*** FLOP *** [7h 5d 7c]
+emi_nico09: checks 
+Fantom453: bets 70
+emi_nico09: calls 70
+*** TURN *** [7h 5d 7c] [8c]
+emi_nico09: checks 
+Fantom453: bets 210
+emi_nico09: calls 210
+*** RIVER *** [7h 5d 7c 8c] [Ac]
+emi_nico09: checks 
+Fantom453: checks 
+*** SHOW DOWN ***
+emi_nico09: shows [Qd 7d] (three of a kind, Sevens)
+Fantom453: mucks hand 
+emi_nico09 collected 788 from pot
+*** SUMMARY ***
+Total pot 788 | Rake 0 
+Board [7h 5d 7c 8c Ac]
+Seat 1: emi_nico09 (small blind) showed [Qd 7d] and won (788) with three of a kind, Sevens
+Seat 2: Fantom453 (big blind) mucked [5c 6s]
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971760814: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/21 16:50:43 WET [2025/02/21 11:50:43 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: emi_nico09 (5313 in chips, $5 bounty) 
+Seat 2: Fantom453 (5911 in chips, $5 bounty) 
+Seat 3: imstalker (8197 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (4135 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7502 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4671 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5794 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3477 in chips, $5 bounty) 
+emi_nico09: posts the ante 11
+Fantom453: posts the ante 11
+imstalker: posts the ante 11
+iwillkillset: posts the ante 11
+Vitaly Khd: posts the ante 11
+7Dredzik7: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Catbui1973: posts the ante 11
+Fantom453: posts small blind 35
+imstalker: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Jh]
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 70
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: raises 105 to 175
+Fantom453: folds 
+imstalker: calls 105
+7Dredzik7: calls 105
+*** FLOP *** [Qs 8c 3s]
+imstalker: checks 
+7Dredzik7: checks 
+emi_nico09: checks 
+*** TURN *** [Qs 8c 3s] [Jd]
+imstalker: checks 
+7Dredzik7: checks 
+emi_nico09: checks 
+*** RIVER *** [Qs 8c 3s Jd] [3h]
+imstalker: checks 
+7Dredzik7: checks 
+emi_nico09: checks 
+*** SHOW DOWN ***
+imstalker: shows [8d As] (two pair, Eights and Threes)
+7Dredzik7: shows [Js 9h] (two pair, Jacks and Threes)
+emi_nico09: mucks hand 
+7Dredzik7 collected 648 from pot
+*** SUMMARY ***
+Total pot 648 | Rake 0 
+Board [Qs 8c 3s Jd 3h]
+Seat 1: emi_nico09 (button) mucked [4d 5d]
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: imstalker (big blind) showed [8d As] and lost with two pair, Eights and Threes
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 showed [Js 9h] and won (648) with two pair, Jacks and Threes
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971772510: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/21 16:51:34 WET [2025/02/21 11:51:34 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: emi_nico09 (5127 in chips, $5 bounty) 
+Seat 2: Fantom453 (5865 in chips, $5 bounty) 
+Seat 3: imstalker (8011 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (4124 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7491 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (5133 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5783 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3466 in chips, $5 bounty) 
+emi_nico09: posts the ante 11
+Fantom453: posts the ante 11
+imstalker: posts the ante 11
+iwillkillset: posts the ante 11
+Vitaly Khd: posts the ante 11
+7Dredzik7: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Catbui1973: posts the ante 11
+imstalker: posts small blind 35
+iwillkillset: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 8c]
+Vitaly Khd: folds 
+7Dredzik7: calls 70
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: raises 210 to 280
+iwillkillset: folds 
+7Dredzik7: folds 
+Uncalled bet (210) returned to imstalker
+imstalker collected 298 from pot
+imstalker: doesn't show hand 
+*** SUMMARY ***
+Total pot 298 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 (button) folded before Flop (didn't bet)
+Seat 3: imstalker (small blind) collected (298)
+Seat 4: iwillkillset (big blind) folded before Flop
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971777923: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/21 16:51:58 WET [2025/02/21 11:51:58 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 1: emi_nico09 (5116 in chips, $5 bounty) 
+Seat 2: Fantom453 (5854 in chips, $5 bounty) 
+Seat 3: imstalker (8228 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (4043 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7480 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (5052 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5772 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3455 in chips, $5 bounty) 
+emi_nico09: posts the ante 11
+Fantom453: posts the ante 11
+imstalker: posts the ante 11
+iwillkillset: posts the ante 11
+Vitaly Khd: posts the ante 11
+7Dredzik7: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Catbui1973: posts the ante 11
+iwillkillset: posts small blind 35
+Vitaly Khd: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 7s]
+7Dredzik7: calls 70
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: raises 175 to 245
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 175
+*** FLOP *** [Js 6h 7d]
+7Dredzik7: checks 
+Fantom453: bets 212
+7Dredzik7: folds 
+Uncalled bet (212) returned to Fantom453
+Fantom453 collected 683 from pot
+Fantom453: doesn't show hand 
+*** SUMMARY ***
+Total pot 683 | Rake 0 
+Board [Js 6h 7d]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 collected (683)
+Seat 3: imstalker (button) folded before Flop (didn't bet)
+Seat 4: iwillkillset (small blind) folded before Flop
+Seat 5: Vitaly Khd (big blind) folded before Flop
+Seat 6: 7Dredzik7 folded on the Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971792220: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/21 16:53:01 WET [2025/02/21 11:53:01 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (5105 in chips, $5 bounty) 
+Seat 2: Fantom453 (6281 in chips, $5 bounty) 
+Seat 3: imstalker (8217 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3997 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7399 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4796 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5761 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3444 in chips, $5 bounty) 
+emi_nico09: posts the ante 11
+Fantom453: posts the ante 11
+imstalker: posts the ante 11
+iwillkillset: posts the ante 11
+Vitaly Khd: posts the ante 11
+7Dredzik7: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Catbui1973: posts the ante 11
+Vitaly Khd: posts small blind 35
+7Dredzik7: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s As]
+Kevin12345Mc: raises 91 to 161
+Catbui1973: calls 161
+emi_nico09: raises 487 to 648
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+Uncalled bet (487) returned to emi_nico09
+emi_nico09 collected 676 from pot
+emi_nico09: doesn't show hand 
+*** SUMMARY ***
+Total pot 676 | Rake 0 
+Seat 1: emi_nico09 collected (676)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset (button) folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (small blind) folded before Flop
+Seat 6: 7Dredzik7 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop
+Seat 8: Catbui1973 folded before Flop
+
+
+
+PokerStars Hand #254971803725: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/21 16:53:52 WET [2025/02/21 11:53:52 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (5609 in chips, $5 bounty) 
+Seat 2: Fantom453 (6270 in chips, $5 bounty) 
+Seat 3: imstalker (8206 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3986 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7353 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4715 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5589 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3272 in chips, $5 bounty) 
+emi_nico09: posts the ante 11
+Fantom453: posts the ante 11
+imstalker: posts the ante 11
+iwillkillset: posts the ante 11
+Vitaly Khd: posts the ante 11
+7Dredzik7: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Catbui1973: posts the ante 11
+7Dredzik7: posts small blind 35
+Kevin12345Mc: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 3h]
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: raises 70 to 140
+Vitaly Khd: raises 336 to 476
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+iwillkillset: folds 
+Uncalled bet (336) returned to Vitaly Khd
+Vitaly Khd collected 473 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 473 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop
+Seat 5: Vitaly Khd (button) collected (473)
+Seat 6: 7Dredzik7 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971814490: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/21 16:54:39 WET [2025/02/21 11:54:39 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (5598 in chips, $5 bounty) 
+Seat 2: Fantom453 (6259 in chips, $5 bounty) 
+Seat 3: imstalker (8195 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3835 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7675 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4669 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5508 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3261 in chips, $5 bounty) 
+emi_nico09: posts the ante 12
+Fantom453: posts the ante 12
+imstalker: posts the ante 12
+iwillkillset: posts the ante 12
+Vitaly Khd: posts the ante 12
+7Dredzik7: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Catbui1973: posts the ante 12
+Kevin12345Mc: posts small blind 40
+Catbui1973: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 6d]
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 80
+Kevin12345Mc: calls 40
+Catbui1973: checks 
+*** FLOP *** [9c 8c 7s]
+Kevin12345Mc: checks 
+Catbui1973: bets 336
+7Dredzik7: folds 
+Kevin12345Mc: calls 336
+*** TURN *** [9c 8c 7s] [3d]
+Kevin12345Mc: checks 
+Catbui1973: bets 1008
+Kevin12345Mc: folds 
+Uncalled bet (1008) returned to Catbui1973
+Catbui1973 collected 1008 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 1008 | Rake 0 
+Board [9c 8c 7s 3d]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (button) folded on the Flop
+Seat 7: Kevin12345Mc (small blind) folded on the Turn
+Seat 8: Catbui1973 (big blind) collected (1008)
+
+
+
+PokerStars Hand #254971911454: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/21 17:03:10 WET [2025/02/21 12:03:10 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (5586 in chips, $5 bounty) 
+Seat 2: Fantom453 (6247 in chips, $5 bounty) 
+Seat 3: imstalker (8183 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3823 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7663 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4577 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5080 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3841 in chips, $5 bounty) 
+emi_nico09: posts the ante 12
+Fantom453: posts the ante 12
+imstalker: posts the ante 12
+iwillkillset: posts the ante 12
+Vitaly Khd: posts the ante 12
+7Dredzik7: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Catbui1973: posts the ante 12
+Catbui1973: posts small blind 40
+emi_nico09: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 9s]
+Fantom453: raises 80 to 160
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 160
+Kevin12345Mc: folds 
+Catbui1973: calls 120
+emi_nico09: folds 
+*** FLOP *** [4c Ac 6h]
+Catbui1973: checks 
+Fantom453: bets 560
+7Dredzik7: calls 560
+Catbui1973: folds 
+*** TURN *** [4c Ac 6h] [8s]
+Fantom453: bets 1760
+7Dredzik7: calls 1760
+*** RIVER *** [4c Ac 6h 8s] [5d]
+Fantom453: bets 2489
+7Dredzik7: calls 2085 and is all-in
+Uncalled bet (404) returned to Fantom453
+*** SHOW DOWN ***
+Fantom453: shows [Jd Ah] (a pair of Aces)
+7Dredzik7: shows [8c 6c] (two pair, Eights and Sixes)
+7Dredzik7 collected 9466 from pot
+*** SUMMARY ***
+Total pot 9466 | Rake 0 
+Board [4c Ac 6h 8s 5d]
+Seat 1: emi_nico09 (big blind) folded before Flop
+Seat 2: Fantom453 showed [Jd Ah] and lost with a pair of Aces
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 showed [8c 6c] and won (9466) with two pair, Eights and Sixes
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Catbui1973 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254971929553: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/21 17:04:28 WET [2025/02/21 12:04:28 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: emi_nico09 (5494 in chips, $5 bounty) 
+Seat 2: Fantom453 (1670 in chips, $5 bounty) 
+Seat 3: imstalker (8171 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3811 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7651 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9466 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5068 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3669 in chips, $5 bounty) 
+emi_nico09: posts the ante 12
+Fantom453: posts the ante 12
+imstalker: posts the ante 12
+iwillkillset: posts the ante 12
+Vitaly Khd: posts the ante 12
+7Dredzik7: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Catbui1973: posts the ante 12
+emi_nico09: posts small blind 40
+Fantom453: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Kc]
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 80
+Kevin12345Mc: raises 184 to 264
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+7Dredzik7: folds 
+Uncalled bet (184) returned to Kevin12345Mc
+Kevin12345Mc collected 376 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 376 | Rake 0 
+Seat 1: emi_nico09 (small blind) folded before Flop
+Seat 2: Fantom453 (big blind) folded before Flop
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop
+Seat 7: Kevin12345Mc collected (376)
+Seat 8: Catbui1973 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971939694: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/21 17:05:12 WET [2025/02/21 12:05:12 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: emi_nico09 (5442 in chips, $5 bounty) 
+Seat 2: Fantom453 (1578 in chips, $5 bounty) 
+Seat 3: imstalker (8159 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3799 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7639 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9374 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5352 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3657 in chips, $5 bounty) 
+emi_nico09: posts the ante 12
+Fantom453: posts the ante 12
+imstalker: posts the ante 12
+iwillkillset: posts the ante 12
+Vitaly Khd: posts the ante 12
+7Dredzik7: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Catbui1973: posts the ante 12
+Fantom453: posts small blind 40
+imstalker: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah Qs]
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: raises 104 to 184
+Catbui1973: calls 184
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: calls 104
+*** FLOP *** [2s 7d 2c]
+imstalker: checks 
+Kevin12345Mc: bets 227
+Catbui1973: folds 
+imstalker: folds 
+Uncalled bet (227) returned to Kevin12345Mc
+Kevin12345Mc collected 688 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 688 | Rake 0 
+Board [2s 7d 2c]
+Seat 1: emi_nico09 (button) folded before Flop (didn't bet)
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: imstalker (big blind) folded on the Flop
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (688)
+Seat 8: Catbui1973 folded on the Flop
+
+
+
+PokerStars Hand #254971954441: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/21 17:06:16 WET [2025/02/21 12:06:16 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: emi_nico09 (5430 in chips, $5 bounty) 
+Seat 2: Fantom453 (1526 in chips, $5 bounty) 
+Seat 3: imstalker (7963 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3787 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7627 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9362 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5844 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3461 in chips, $5 bounty) 
+emi_nico09: posts the ante 12
+Fantom453: posts the ante 12
+imstalker: posts the ante 12
+iwillkillset: posts the ante 12
+Vitaly Khd: posts the ante 12
+7Dredzik7: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Catbui1973: posts the ante 12
+imstalker: posts small blind 40
+iwillkillset: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d Ac]
+Vitaly Khd: raises 80 to 160
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Uncalled bet (80) returned to Vitaly Khd
+Vitaly Khd collected 296 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 296 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 (button) folded before Flop (didn't bet)
+Seat 3: imstalker (small blind) folded before Flop
+Seat 4: iwillkillset (big blind) folded before Flop
+Seat 5: Vitaly Khd collected (296)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971964551: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/21 17:06:59 WET [2025/02/21 12:06:59 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 1: emi_nico09 (5418 in chips, $5 bounty) 
+Seat 2: Fantom453 (1514 in chips, $5 bounty) 
+Seat 3: imstalker (7911 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3695 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7831 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9350 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5832 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3449 in chips, $5 bounty) 
+emi_nico09: posts the ante 12
+Fantom453: posts the ante 12
+imstalker: posts the ante 12
+iwillkillset: posts the ante 12
+Vitaly Khd: posts the ante 12
+7Dredzik7: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Catbui1973: posts the ante 12
+iwillkillset: posts small blind 40
+Vitaly Khd: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 2c]
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: raises 84 to 164
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: calls 84
+*** FLOP *** [5s As 3c]
+Vitaly Khd: checks 
+emi_nico09: bets 107
+Vitaly Khd: raises 377 to 484
+emi_nico09: calls 377
+*** TURN *** [5s As 3c] [9h]
+Vitaly Khd: bets 1104
+emi_nico09: calls 1104
+*** RIVER *** [5s As 3c 9h] [7s]
+Vitaly Khd: bets 6067 and is all-in
+emi_nico09: calls 3654 and is all-in
+Uncalled bet (2413) returned to Vitaly Khd
+*** SHOW DOWN ***
+Vitaly Khd: shows [8h 4c] (high card Ace)
+emi_nico09: shows [Ts Ks] (a flush, Ace high)
+emi_nico09 collected 10948 from pot
+*** SUMMARY ***
+Total pot 10948 | Rake 0 
+Board [5s As 3c 9h 7s]
+Seat 1: emi_nico09 showed [Ts Ks] and won (10948) with a flush, Ace high
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker (button) folded before Flop (didn't bet)
+Seat 4: iwillkillset (small blind) folded before Flop
+Seat 5: Vitaly Khd (big blind) showed [8h 4c] and lost with high card Ace
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971991591: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/21 17:08:56 WET [2025/02/21 12:08:56 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (10948 in chips, $5 bounty) 
+Seat 2: Fantom453 (1502 in chips, $5 bounty) 
+Seat 3: imstalker (7899 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3643 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2413 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9338 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5820 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3437 in chips, $5 bounty) 
+emi_nico09: posts the ante 12
+Fantom453: posts the ante 12
+imstalker: posts the ante 12
+iwillkillset: posts the ante 12
+Vitaly Khd: posts the ante 12
+7Dredzik7: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Catbui1973: posts the ante 12
+Vitaly Khd: posts small blind 40
+7Dredzik7: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 4d]
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: raises 80 to 160
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Uncalled bet (80) returned to imstalker
+imstalker collected 296 from pot
+imstalker: doesn't show hand 
+*** SUMMARY ***
+Total pot 296 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker collected (296)
+Seat 4: iwillkillset (button) folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (small blind) folded before Flop
+Seat 6: 7Dredzik7 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972000251: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/21 17:09:34 WET [2025/02/21 12:09:34 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (10936 in chips, $5 bounty) 
+Seat 2: Fantom453 (1490 in chips, $5 bounty) 
+Seat 3: imstalker (8103 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3631 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2361 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9246 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5808 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3425 in chips, $5 bounty) 
+emi_nico09: posts the ante 12
+Fantom453: posts the ante 12
+imstalker: posts the ante 12
+iwillkillset: posts the ante 12
+Vitaly Khd: posts the ante 12
+7Dredzik7: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Catbui1973: posts the ante 12
+7Dredzik7: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 6s]
+Catbui1973: folds 
+emi_nico09: raises 84 to 164
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: calls 84
+*** FLOP *** [4d 2d 5h]
+Kevin12345Mc: checks 
+emi_nico09: checks 
+*** TURN *** [4d 2d 5h] [9d]
+Kevin12345Mc: checks 
+emi_nico09: checks 
+*** RIVER *** [4d 2d 5h 9d] [6d]
+Kevin12345Mc: checks 
+emi_nico09: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [5s 6s] (two pair, Sixes and Fives)
+emi_nico09: mucks hand 
+Kevin12345Mc collected 464 from pot
+*** SUMMARY ***
+Total pot 464 | Rake 0 
+Board [4d 2d 5h 9d 6d]
+Seat 1: emi_nico09 mucked [7c Ac]
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (button) folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) showed [5s 6s] and won (464) with two pair, Sixes and Fives
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972014614: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/21 17:10:35 WET [2025/02/21 12:10:35 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (10760 in chips, $5 bounty) 
+Seat 2: Fantom453 (1478 in chips, $5 bounty) 
+Seat 3: imstalker (8091 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3619 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2349 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9194 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6096 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3413 in chips, $5 bounty) 
+emi_nico09: posts the ante 14
+Fantom453: posts the ante 14
+imstalker: posts the ante 14
+iwillkillset: posts the ante 14
+Vitaly Khd: posts the ante 14
+7Dredzik7: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Catbui1973: posts the ante 14
+Kevin12345Mc: posts small blind 45
+Catbui1973: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 9c]
+emi_nico09: raises 95 to 185
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 95
+*** FLOP *** [Ks Tc 7h]
+Catbui1973: checks 
+emi_nico09: checks 
+*** TURN *** [Ks Tc 7h] [5h]
+Catbui1973: bets 264
+emi_nico09: folds 
+Uncalled bet (264) returned to Catbui1973
+Catbui1973 collected 527 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 527 | Rake 0 
+Board [Ks Tc 7h 5h]
+Seat 1: emi_nico09 folded on the Turn
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Catbui1973 (big blind) collected (527)
+
+
+
+PokerStars Hand #254972027162: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/21 17:11:27 WET [2025/02/21 12:11:27 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (10561 in chips, $5 bounty) 
+Seat 2: Fantom453 (1464 in chips, $5 bounty) 
+Seat 3: imstalker (8077 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3605 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2335 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9180 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6037 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3741 in chips, $5 bounty) 
+emi_nico09: posts the ante 14
+Fantom453: posts the ante 14
+imstalker: posts the ante 14
+iwillkillset: posts the ante 14
+Vitaly Khd: posts the ante 14
+7Dredzik7: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Catbui1973: posts the ante 14
+Catbui1973: posts small blind 45
+emi_nico09: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 8d]
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 90 to 180
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Uncalled bet (90) returned to Vitaly Khd
+Vitaly Khd collected 337 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Seat 1: emi_nico09 (big blind) folded before Flop
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd collected (337)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Catbui1973 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254972036665: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/21 17:12:06 WET [2025/02/21 12:12:06 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: emi_nico09 (10457 in chips, $5 bounty) 
+Seat 2: Fantom453 (1450 in chips, $5 bounty) 
+Seat 3: imstalker (8063 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3591 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2568 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9166 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6023 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3682 in chips, $5 bounty) 
+emi_nico09: posts the ante 14
+Fantom453: posts the ante 14
+imstalker: posts the ante 14
+iwillkillset: posts the ante 14
+Vitaly Khd: posts the ante 14
+7Dredzik7: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Catbui1973: posts the ante 14
+emi_nico09: posts small blind 45
+Fantom453: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 7s]
+imstalker: folds 
+iwillkillset: raises 90 to 180
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 180
+emi_nico09: folds 
+Fantom453: folds 
+*** FLOP *** [Jd 4c 6s]
+iwillkillset: checks 
+Catbui1973: checks 
+*** TURN *** [Jd 4c 6s] [3d]
+iwillkillset: bets 304
+Catbui1973: folds 
+Uncalled bet (304) returned to iwillkillset
+iwillkillset collected 607 from pot
+*** SUMMARY ***
+Total pot 607 | Rake 0 
+Board [Jd 4c 6s 3d]
+Seat 1: emi_nico09 (small blind) folded before Flop
+Seat 2: Fantom453 (big blind) folded before Flop
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset collected (607)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 (button) folded on the Turn
+
+
+
+PokerStars Hand #254972050864: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/21 17:13:04 WET [2025/02/21 12:13:04 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: emi_nico09 (10398 in chips, $5 bounty) 
+Seat 2: Fantom453 (1346 in chips, $5 bounty) 
+Seat 3: imstalker (8049 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (4004 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2554 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9152 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6009 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3488 in chips, $5 bounty) 
+emi_nico09: posts the ante 14
+Fantom453: posts the ante 14
+imstalker: posts the ante 14
+iwillkillset: posts the ante 14
+Vitaly Khd: posts the ante 14
+7Dredzik7: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Catbui1973: posts the ante 14
+Fantom453: posts small blind 45
+imstalker: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Ac]
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: raises 117 to 207
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: calls 117
+*** FLOP *** [Ks Tc Th]
+imstalker: checks 
+Kevin12345Mc: bets 188
+imstalker: calls 188
+*** TURN *** [Ks Tc Th] [4h]
+imstalker: checks 
+Kevin12345Mc: bets 715
+imstalker: calls 715
+*** RIVER *** [Ks Tc Th 4h] [8s]
+imstalker: checks 
+Kevin12345Mc: bets 1189
+imstalker: calls 1189
+*** SHOW DOWN ***
+Kevin12345Mc: shows [As Ac] (two pair, Aces and Tens)
+imstalker: mucks hand 
+Kevin12345Mc collected 4755 from pot
+*** SUMMARY ***
+Total pot 4755 | Rake 0 
+Board [Ks Tc Th 4h 8s]
+Seat 1: emi_nico09 (button) folded before Flop (didn't bet)
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: imstalker (big blind) mucked [9h Kh]
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc showed [As Ac] and won (4755) with two pair, Aces and Tens
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972065885: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/21 17:14:06 WET [2025/02/21 12:14:06 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: emi_nico09 (10384 in chips, $5 bounty) 
+Seat 2: Fantom453 (1287 in chips, $5 bounty) 
+Seat 3: imstalker (5736 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (3990 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2540 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9138 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (8451 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3474 in chips, $5 bounty) 
+emi_nico09: posts the ante 14
+Fantom453: posts the ante 14
+imstalker: posts the ante 14
+iwillkillset: posts the ante 14
+Vitaly Khd: posts the ante 14
+7Dredzik7: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Catbui1973: posts the ante 14
+imstalker: posts small blind 45
+iwillkillset: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 7c]
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 90
+emi_nico09: raises 270 to 360
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: calls 270
+Catbui1973: calls 270
+*** FLOP *** [Tc Js Ac]
+iwillkillset: checks 
+Catbui1973: bets 270
+emi_nico09: raises 790 to 1060
+iwillkillset: raises 2556 to 3616 and is all-in
+Catbui1973: folds 
+emi_nico09: calls 2556
+*** TURN *** [Tc Js Ac] [4s]
+*** RIVER *** [Tc Js Ac 4s] [6d]
+*** SHOW DOWN ***
+iwillkillset: shows [Kd Qd] (a straight, Ten to Ace)
+emi_nico09: shows [As Jh] (two pair, Aces and Jacks)
+iwillkillset collected 8739 from pot
+*** SUMMARY ***
+Total pot 8739 | Rake 0 
+Board [Tc Js Ac 4s 6d]
+Seat 1: emi_nico09 showed [As Jh] and lost with two pair, Aces and Jacks
+Seat 2: Fantom453 (button) folded before Flop (didn't bet)
+Seat 3: imstalker (small blind) folded before Flop
+Seat 4: iwillkillset (big blind) showed [Kd Qd] and won (8739) with a straight, Ten to Ace
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded on the Flop
+
+
+
+PokerStars Hand #254972082080: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/21 17:15:12 WET [2025/02/21 12:15:12 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 1: emi_nico09 (6394 in chips, $5 bounty) 
+Seat 2: Fantom453 (1273 in chips, $5 bounty) 
+Seat 3: imstalker (5677 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (8739 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2526 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9124 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (8437 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2830 in chips, $5 bounty) 
+emi_nico09: posts the ante 14
+Fantom453: posts the ante 14
+imstalker: posts the ante 14
+iwillkillset: posts the ante 14
+Vitaly Khd: posts the ante 14
+7Dredzik7: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Catbui1973: posts the ante 14
+iwillkillset: posts small blind 45
+Vitaly Khd: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 6h]
+7Dredzik7: folds 
+Kevin12345Mc: raises 117 to 207
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: calls 207
+iwillkillset: folds 
+Vitaly Khd: calls 117
+*** FLOP *** [9h Qc 2s]
+Vitaly Khd: checks 
+Kevin12345Mc: checks 
+imstalker: bets 257
+Vitaly Khd: folds 
+Kevin12345Mc: calls 257
+*** TURN *** [9h Qc 2s] [Ks]
+Kevin12345Mc: checks 
+imstalker: bets 426
+Kevin12345Mc: folds 
+Uncalled bet (426) returned to imstalker
+imstalker collected 1292 from pot
+imstalker: doesn't show hand 
+*** SUMMARY ***
+Total pot 1292 | Rake 0 
+Board [9h Qc 2s Ks]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker (button) collected (1292)
+Seat 4: iwillkillset (small blind) folded before Flop
+Seat 5: Vitaly Khd (big blind) folded on the Flop
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded on the Turn
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972105468: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/21 17:16:47 WET [2025/02/21 12:16:47 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (6380 in chips, $5 bounty) 
+Seat 2: Fantom453 (1259 in chips, $5 bounty) 
+Seat 3: imstalker (6491 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (8680 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2305 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9110 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (7959 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2816 in chips, $5 bounty) 
+emi_nico09: posts the ante 14
+Fantom453: posts the ante 14
+imstalker: posts the ante 14
+iwillkillset: posts the ante 14
+Vitaly Khd: posts the ante 14
+7Dredzik7: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Catbui1973: posts the ante 14
+Vitaly Khd: posts small blind 45
+7Dredzik7: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Ks]
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: raises 90 to 180
+Vitaly Khd: raises 2111 to 2291 and is all-in
+7Dredzik7: folds 
+iwillkillset: folds 
+Uncalled bet (2111) returned to Vitaly Khd
+Vitaly Khd collected 562 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 562 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset (button) folded before Flop
+Seat 5: Vitaly Khd (small blind) collected (562)
+Seat 6: 7Dredzik7 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972114320: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/21 17:17:23 WET [2025/02/21 12:17:23 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (6366 in chips, $5 bounty) 
+Seat 2: Fantom453 (1245 in chips, $5 bounty) 
+Seat 3: imstalker (6477 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (8486 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2673 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9006 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (7945 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2802 in chips, $5 bounty) 
+emi_nico09: posts the ante 14
+Fantom453: posts the ante 14
+imstalker: posts the ante 14
+iwillkillset: posts the ante 14
+Vitaly Khd: posts the ante 14
+7Dredzik7: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Catbui1973: posts the ante 14
+7Dredzik7: posts small blind 45
+Kevin12345Mc: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Qc]
+Catbui1973: raises 180 to 270
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: calls 180
+*** FLOP *** [Ah 2h Qh]
+Kevin12345Mc: checks 
+Catbui1973: bets 697
+Kevin12345Mc: folds 
+Uncalled bet (697) returned to Catbui1973
+Catbui1973 collected 697 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 697 | Rake 0 
+Board [Ah 2h Qh]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (button) folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Flop
+Seat 8: Catbui1973 collected (697)
+
+
+
+PokerStars Hand #254972127195: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:18:15 WET [2025/02/21 12:18:15 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (6352 in chips, $5 bounty) 
+Seat 2: Fantom453 (1231 in chips, $5 bounty) 
+Seat 3: imstalker (6463 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (8472 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2659 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8947 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (7661 in chips, $5 bounty) 
+Seat 8: Catbui1973 (3215 in chips, $5 bounty) 
+emi_nico09: posts the ante 15
+Fantom453: posts the ante 15
+imstalker: posts the ante 15
+iwillkillset: posts the ante 15
+Vitaly Khd: posts the ante 15
+7Dredzik7: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Catbui1973: posts the ante 15
+Kevin12345Mc: posts small blind 50
+Catbui1973: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 6d]
+emi_nico09: raises 106 to 206
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: calls 206
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 106
+*** FLOP *** [3h 8s 9c]
+Catbui1973: checks 
+emi_nico09: bets 441
+iwillkillset has timed out
+iwillkillset: folds 
+iwillkillset is sitting out
+iwillkillset has returned
+Catbui1973: calls 441
+*** TURN *** [3h 8s 9c] [5s]
+Catbui1973: checks 
+emi_nico09: bets 935
+Catbui1973: folds 
+Uncalled bet (935) returned to emi_nico09
+emi_nico09 collected 1670 from pot
+emi_nico09: doesn't show hand 
+*** SUMMARY ***
+Total pot 1670 | Rake 0 
+Board [3h 8s 9c 5s]
+Seat 1: emi_nico09 collected (1670)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded on the Flop
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Catbui1973 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254972150158: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:19:47 WET [2025/02/21 12:19:47 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (7360 in chips, $5 bounty) 
+Seat 2: Fantom453 (1216 in chips, $5 bounty) 
+Seat 3: imstalker (6448 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (8251 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2644 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8932 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (7596 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2553 in chips, $5 bounty) 
+emi_nico09: posts the ante 15
+Fantom453: posts the ante 15
+imstalker: posts the ante 15
+iwillkillset: posts the ante 15
+Vitaly Khd: posts the ante 15
+7Dredzik7: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Catbui1973: posts the ante 15
+Catbui1973: posts small blind 50
+emi_nico09: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac Jc]
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: raises 100 to 200
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: raises 500 to 700
+Catbui1973: folds 
+emi_nico09: folds 
+iwillkillset has timed out
+iwillkillset: folds 
+iwillkillset is sitting out
+Uncalled bet (500) returned to Kevin12345Mc
+iwillkillset has returned
+Kevin12345Mc collected 670 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Seat 1: emi_nico09 (big blind) folded before Flop
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) collected (670)
+Seat 8: Catbui1973 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254972161708: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:20:34 WET [2025/02/21 12:20:34 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: emi_nico09 (7245 in chips, $5 bounty) 
+Seat 2: Fantom453 (1201 in chips, $5 bounty) 
+Seat 3: imstalker (6433 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (8036 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2629 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8917 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (8051 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2488 in chips, $5 bounty) 
+emi_nico09: posts the ante 15
+Fantom453: posts the ante 15
+imstalker: posts the ante 15
+iwillkillset: posts the ante 15
+Vitaly Khd: posts the ante 15
+7Dredzik7: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Catbui1973: posts the ante 15
+emi_nico09: posts small blind 50
+Fantom453: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 4d]
+imstalker: raises 100 to 200
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: calls 100
+*** FLOP *** [Ah Kd 9s]
+Fantom453: checks 
+imstalker: bets 188
+Fantom453: calls 188
+*** TURN *** [Ah Kd 9s] [9c]
+Fantom453: checks 
+imstalker: bets 312
+Fantom453: raises 486 to 798 and is all-in
+imstalker: calls 486
+*** RIVER *** [Ah Kd 9s 9c] [2s]
+*** SHOW DOWN ***
+Fantom453: shows [9d Jd] (three of a kind, Nines)
+imstalker: shows [Tc Kc] (two pair, Kings and Nines)
+Fantom453 collected 2542 from pot
+*** SUMMARY ***
+Total pot 2542 | Rake 0 
+Board [Ah Kd 9s 9c 2s]
+Seat 1: emi_nico09 (small blind) folded before Flop
+Seat 2: Fantom453 (big blind) showed [9d Jd] and won (2542) with three of a kind, Nines
+Seat 3: imstalker showed [Tc Kc] and lost with two pair, Kings and Nines
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972177376: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:21:39 WET [2025/02/21 12:21:39 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: emi_nico09 (7180 in chips, $5 bounty) 
+Seat 2: Fantom453 (2542 in chips, $5 bounty) 
+Seat 3: imstalker (5232 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (8021 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2614 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8902 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (8036 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2473 in chips, $5 bounty) 
+emi_nico09: posts the ante 15
+Fantom453: posts the ante 15
+imstalker: posts the ante 15
+iwillkillset: posts the ante 15
+Vitaly Khd: posts the ante 15
+7Dredzik7: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Catbui1973: posts the ante 15
+Fantom453: posts small blind 50
+imstalker: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 4c]
+iwillkillset: raises 100 to 200
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: calls 150
+imstalker: folds 
+*** FLOP *** [Jh Qh 7h]
+Fantom453: checks 
+iwillkillset has timed out
+iwillkillset: checks 
+*** TURN *** [Jh Qh 7h] [Td]
+Fantom453: bets 200
+iwillkillset: calls 200
+*** RIVER *** [Jh Qh 7h Td] [5c]
+Fantom453: bets 316
+iwillkillset: folds 
+Uncalled bet (316) returned to Fantom453
+Fantom453 collected 1020 from pot
+Fantom453: doesn't show hand 
+*** SUMMARY ***
+Total pot 1020 | Rake 0 
+Board [Jh Qh 7h Td 5c]
+Seat 1: emi_nico09 (button) folded before Flop (didn't bet)
+Seat 2: Fantom453 (small blind) collected (1020)
+Seat 3: imstalker (big blind) folded before Flop
+Seat 4: iwillkillset folded on the River
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972195294: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:22:52 WET [2025/02/21 12:22:52 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: emi_nico09 (7165 in chips, $5 bounty) 
+Seat 2: Fantom453 (3147 in chips, $5 bounty) 
+Seat 3: imstalker (5117 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (7606 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2599 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8887 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (8021 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2458 in chips, $5 bounty) 
+emi_nico09: posts the ante 15
+Fantom453: posts the ante 15
+imstalker: posts the ante 15
+iwillkillset: posts the ante 15
+Vitaly Khd: posts the ante 15
+7Dredzik7: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Catbui1973: posts the ante 15
+imstalker: posts small blind 50
+iwillkillset: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 4c]
+Vitaly Khd: raises 100 to 200
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: calls 100
+*** FLOP *** [Qh 3c 5d]
+iwillkillset: checks 
+Vitaly Khd: bets 171
+iwillkillset: folds 
+Uncalled bet (171) returned to Vitaly Khd
+Vitaly Khd collected 570 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Qh 3c 5d]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 (button) folded before Flop (didn't bet)
+Seat 3: imstalker (small blind) folded before Flop
+Seat 4: iwillkillset (big blind) folded on the Flop
+Seat 5: Vitaly Khd collected (570)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972209625: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:23:50 WET [2025/02/21 12:23:50 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 1: emi_nico09 (7150 in chips, $5 bounty) 
+Seat 2: Fantom453 (3132 in chips, $5 bounty) 
+Seat 3: imstalker (5052 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (7391 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2954 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8872 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (8006 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2443 in chips, $5 bounty) 
+emi_nico09: posts the ante 15
+Fantom453: posts the ante 15
+imstalker: posts the ante 15
+iwillkillset: posts the ante 15
+Vitaly Khd: posts the ante 15
+7Dredzik7: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Catbui1973: posts the ante 15
+iwillkillset: posts small blind 50
+Vitaly Khd: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Kd]
+7Dredzik7: folds 
+Kevin12345Mc: raises 130 to 230
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+Uncalled bet (130) returned to Kevin12345Mc
+Kevin12345Mc collected 370 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker (button) folded before Flop (didn't bet)
+Seat 4: iwillkillset (small blind) folded before Flop
+Seat 5: Vitaly Khd (big blind) folded before Flop
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (370)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972217181: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:24:21 WET [2025/02/21 12:24:21 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (7135 in chips, $5 bounty) 
+Seat 2: Fantom453 (3117 in chips, $5 bounty) 
+Seat 3: imstalker (5037 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (7326 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2839 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8857 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (8261 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2428 in chips, $5 bounty) 
+emi_nico09: posts the ante 15
+Fantom453: posts the ante 15
+imstalker: posts the ante 15
+iwillkillset: posts the ante 15
+Vitaly Khd: posts the ante 15
+7Dredzik7: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Catbui1973: posts the ante 15
+Vitaly Khd: posts small blind 50
+7Dredzik7: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 2h]
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: raises 106 to 206
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 106
+*** FLOP *** [3d Jh Jc]
+7Dredzik7: checks 
+emi_nico09: bets 134
+7Dredzik7: folds 
+Uncalled bet (134) returned to emi_nico09
+emi_nico09 collected 582 from pot
+emi_nico09: doesn't show hand 
+*** SUMMARY ***
+Total pot 582 | Rake 0 
+Board [3d Jh Jc]
+Seat 1: emi_nico09 collected (582)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset (button) folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (small blind) folded before Flop
+Seat 6: 7Dredzik7 (big blind) folded on the Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972228241: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:25:06 WET [2025/02/21 12:25:06 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (7496 in chips, $5 bounty) 
+Seat 2: Fantom453 (3102 in chips, $5 bounty) 
+Seat 3: imstalker (5022 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (7311 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (2774 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8636 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (8246 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2413 in chips, $5 bounty) 
+emi_nico09: posts the ante 15
+Fantom453: posts the ante 15
+imstalker: posts the ante 15
+iwillkillset: posts the ante 15
+Vitaly Khd: posts the ante 15
+7Dredzik7: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Catbui1973: posts the ante 15
+7Dredzik7: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 9s]
+Catbui1973: calls 100
+emi_nico09: folds 
+Fantom453: raises 200 to 300
+imstalker: calls 300
+iwillkillset has timed out
+iwillkillset: folds 
+iwillkillset is sitting out
+iwillkillset has returned
+Vitaly Khd: raises 2459 to 2759 and is all-in
+7Dredzik7: folds 
+Kevin12345Mc: raises 5472 to 8231 and is all-in
+Catbui1973: folds 
+Fantom453: folds 
+imstalker: folds 
+Uncalled bet (5472) returned to Kevin12345Mc
+*** FLOP *** [Tc 7d 5h]
+*** TURN *** [Tc 7d 5h] [6c]
+*** RIVER *** [Tc 7d 5h 6c] [2h]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9d 9s] (a pair of Nines)
+Vitaly Khd: shows [Jh Jd] (a pair of Jacks)
+Vitaly Khd collected 6388 from pot
+*** SUMMARY ***
+Total pot 6388 | Rake 0 
+Board [Tc 7d 5h 6c 2h]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop
+Seat 3: imstalker folded before Flop
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (button) showed [Jh Jd] and won (6388) with a pair of Jacks
+Seat 6: 7Dredzik7 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) showed [9d 9s] and lost with a pair of Nines
+Seat 8: Catbui1973 folded before Flop
+
+
+
+PokerStars Hand #254972243956: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 17:26:10 WET [2025/02/21 12:26:10 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (7481 in chips, $5 bounty) 
+Seat 2: Fantom453 (2787 in chips, $5 bounty) 
+Seat 3: imstalker (4707 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (7296 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6388 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8571 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5472 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2298 in chips, $5 bounty) 
+emi_nico09: posts the ante 18
+Fantom453: posts the ante 18
+imstalker: posts the ante 18
+iwillkillset: posts the ante 18
+Vitaly Khd: posts the ante 18
+7Dredzik7: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Catbui1973: posts the ante 18
+Kevin12345Mc: posts small blind 60
+Catbui1973: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Kc]
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: raises 120 to 240
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+Uncalled bet (120) returned to imstalker
+imstalker collected 444 from pot
+imstalker: doesn't show hand 
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker collected (444)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Catbui1973 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254972248068: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 17:26:27 WET [2025/02/21 12:26:27 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (7463 in chips, $5 bounty) 
+Seat 2: Fantom453 (2769 in chips, $5 bounty) 
+Seat 3: imstalker (5013 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (7278 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6370 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8553 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5394 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2160 in chips, $5 bounty) 
+emi_nico09: posts the ante 18
+Fantom453: posts the ante 18
+imstalker: posts the ante 18
+iwillkillset: posts the ante 18
+Vitaly Khd: posts the ante 18
+7Dredzik7: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Catbui1973: posts the ante 18
+Catbui1973: posts small blind 60
+emi_nico09: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 7c]
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: raises 120 to 240
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Uncalled bet (120) returned to iwillkillset
+iwillkillset collected 444 from pot
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Seat 1: emi_nico09 (big blind) folded before Flop
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset collected (444)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Catbui1973 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254972254924: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 17:26:55 WET [2025/02/21 12:26:55 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: emi_nico09 (7325 in chips, $5 bounty) 
+Seat 2: Fantom453 (2751 in chips, $5 bounty) 
+Seat 3: imstalker (4995 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (7584 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6352 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8535 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5376 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2082 in chips, $5 bounty) 
+emi_nico09: posts the ante 18
+Fantom453: posts the ante 18
+imstalker: posts the ante 18
+iwillkillset: posts the ante 18
+Vitaly Khd: posts the ante 18
+7Dredzik7: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Catbui1973: posts the ante 18
+emi_nico09: posts small blind 60
+Fantom453: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td As]
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: raises 156 to 276
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+Uncalled bet (156) returned to Kevin12345Mc
+Kevin12345Mc collected 444 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Seat 1: emi_nico09 (small blind) folded before Flop
+Seat 2: Fantom453 (big blind) folded before Flop
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (444)
+Seat 8: Catbui1973 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972261583: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 17:27:22 WET [2025/02/21 12:27:22 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: emi_nico09 (7247 in chips, $5 bounty) 
+Seat 2: Fantom453 (2613 in chips, $5 bounty) 
+Seat 3: imstalker (4977 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (7566 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6334 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8517 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5682 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2064 in chips, $5 bounty) 
+emi_nico09: posts the ante 18
+Fantom453: posts the ante 18
+imstalker: posts the ante 18
+iwillkillset: posts the ante 18
+Vitaly Khd: posts the ante 18
+7Dredzik7: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Catbui1973: posts the ante 18
+Fantom453: posts small blind 60
+imstalker: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Jh]
+iwillkillset: folds 
+Vitaly Khd: raises 120 to 240
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: calls 120
+*** FLOP *** [Ks 4d Ac]
+imstalker: checks 
+Vitaly Khd: bets 513
+imstalker: calls 513
+*** TURN *** [Ks 4d Ac] [3c]
+imstalker: checks 
+Vitaly Khd: bets 1283
+imstalker: folds 
+Uncalled bet (1283) returned to Vitaly Khd
+Vitaly Khd collected 1710 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 1710 | Rake 0 
+Board [Ks 4d Ac 3c]
+Seat 1: emi_nico09 (button) folded before Flop (didn't bet)
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: imstalker (big blind) folded on the Turn
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd collected (1710)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972283458: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 17:28:52 WET [2025/02/21 12:28:52 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: emi_nico09 (7229 in chips, $5 bounty) 
+Seat 2: Fantom453 (2535 in chips, $5 bounty) 
+Seat 3: imstalker (4206 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (7548 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7273 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8499 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5664 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2046 in chips, $5 bounty) 
+emi_nico09: posts the ante 18
+Fantom453: posts the ante 18
+imstalker: posts the ante 18
+iwillkillset: posts the ante 18
+Vitaly Khd: posts the ante 18
+7Dredzik7: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Catbui1973: posts the ante 18
+imstalker: posts small blind 60
+iwillkillset: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 8d]
+Vitaly Khd: folds 
+7Dredzik7: calls 120
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: raises 120 to 240
+imstalker: folds 
+iwillkillset: calls 120
+7Dredzik7: calls 120
+*** FLOP *** [4s Kc Qs]
+iwillkillset: checks 
+7Dredzik7: checks 
+Fantom453: bets 240
+iwillkillset: raises 702 to 942
+7Dredzik7: folds 
+Fantom453: folds 
+Uncalled bet (702) returned to iwillkillset
+iwillkillset collected 1404 from pot
+*** SUMMARY ***
+Total pot 1404 | Rake 0 
+Board [4s Kc Qs]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 (button) folded on the Flop
+Seat 3: imstalker (small blind) folded before Flop
+Seat 4: iwillkillset (big blind) collected (1404)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded on the Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972297269: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 17:29:47 WET [2025/02/21 12:29:47 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 1: emi_nico09 (7211 in chips, $5 bounty) 
+Seat 2: Fantom453 (2037 in chips, $5 bounty) 
+Seat 3: imstalker (4128 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (8454 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7255 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8241 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5646 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2028 in chips, $5 bounty) 
+emi_nico09: posts the ante 18
+Fantom453: posts the ante 18
+imstalker: posts the ante 18
+iwillkillset: posts the ante 18
+Vitaly Khd: posts the ante 18
+7Dredzik7: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Catbui1973: posts the ante 18
+iwillkillset: posts small blind 60
+Vitaly Khd: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 2d]
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: raises 444 to 564
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: calls 444
+*** FLOP *** [4s 3h Ts]
+Vitaly Khd: checks 
+Catbui1973: bets 1446 and is all-in
+Vitaly Khd: folds 
+Uncalled bet (1446) returned to Catbui1973
+Catbui1973 collected 1332 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 1332 | Rake 0 
+Board [4s 3h Ts]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker (button) folded before Flop (didn't bet)
+Seat 4: iwillkillset (small blind) folded before Flop
+Seat 5: Vitaly Khd (big blind) folded on the Flop
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 collected (1332)
+
+
+
+PokerStars Hand #254972308839: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 17:30:33 WET [2025/02/21 12:30:33 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (7193 in chips, $5 bounty) 
+Seat 2: Fantom453 (2019 in chips, $5 bounty) 
+Seat 3: imstalker (4110 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (8376 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6673 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8223 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5628 in chips, $5 bounty) 
+Seat 8: Catbui1973 (2778 in chips, $5 bounty) 
+emi_nico09: posts the ante 18
+Fantom453: posts the ante 18
+imstalker: posts the ante 18
+iwillkillset: posts the ante 18
+Vitaly Khd: posts the ante 18
+7Dredzik7: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Catbui1973: posts the ante 18
+Vitaly Khd: posts small blind 60
+7Dredzik7: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h Jd]
+Kevin12345Mc: folds 
+Catbui1973: raises 480 to 600
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: calls 600
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+*** FLOP *** [8s 5h 4c]
+Catbui1973: bets 2160 and is all-in
+imstalker: calls 2160
+*** TURN *** [8s 5h 4c] [3s]
+*** RIVER *** [8s 5h 4c 3s] [5s]
+*** SHOW DOWN ***
+Catbui1973: shows [Ah Ks] (a pair of Fives)
+imstalker: shows [Ac Jc] (a pair of Fives - lower kicker)
+Catbui1973 collected 5844 from pot
+*** SUMMARY ***
+Total pot 5844 | Rake 0 
+Board [8s 5h 4c 3s 5s]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker showed [Ac Jc] and lost with a pair of Fives
+Seat 4: iwillkillset (button) folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (small blind) folded before Flop
+Seat 6: 7Dredzik7 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 showed [Ah Ks] and won (5844) with a pair of Fives
+
+
+
+PokerStars Hand #254972322647: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 17:31:29 WET [2025/02/21 12:31:29 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (7175 in chips, $5 bounty) 
+Seat 2: Fantom453 (2001 in chips, $5 bounty) 
+Seat 3: imstalker (1332 in chips, $7.50 bounty) 
+Seat 4: iwillkillset (8358 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6595 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8085 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5610 in chips, $5 bounty) 
+Seat 8: Catbui1973 (5844 in chips, $5 bounty) 
+emi_nico09: posts the ante 18
+Fantom453: posts the ante 18
+imstalker: posts the ante 18
+iwillkillset: posts the ante 18
+Vitaly Khd: posts the ante 18
+7Dredzik7: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Catbui1973: posts the ante 18
+7Dredzik7: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 6d]
+Catbui1973: raises 480 to 600
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: raises 714 to 1314 and is all-in
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 714
+*** FLOP *** [Jh Ah 8h]
+*** TURN *** [Jh Ah 8h] [8d]
+*** RIVER *** [Jh Ah 8h 8d] [6c]
+*** SHOW DOWN ***
+Catbui1973: shows [Tc Th] (two pair, Tens and Eights)
+imstalker: shows [9s 9c] (two pair, Nines and Eights)
+Catbui1973 collected 2952 from pot
+Catbui1973 wins $3.75 for eliminating imstalker and their own bounty increases by $3.75 to $8.75
+imstalker finished the tournament
+*** SUMMARY ***
+Total pot 2952 | Rake 0 
+Board [Jh Ah 8h 8d 6c]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker showed [9s 9c] and lost with two pair, Nines and Eights
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (button) folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: Catbui1973 showed [Tc Th] and won (2952) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #254972334637: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 17:32:18 WET [2025/02/21 12:32:18 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (7157 in chips, $5 bounty) 
+Seat 2: Fantom453 (1983 in chips, $5 bounty) 
+Seat 4: iwillkillset (8340 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6577 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8007 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5472 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7464 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 18
+Fantom453: posts the ante 18
+iwillkillset: posts the ante 18
+Vitaly Khd: posts the ante 18
+7Dredzik7: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Catbui1973: posts the ante 18
+Kevin12345Mc: posts small blind 60
+Catbui1973: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 2d]
+emi_nico09: folds 
+imstalker is disconnected 
+Fantom453: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 120 to 240
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 120
+*** FLOP *** [Kc Tc Kd]
+Catbui1973: checks 
+Vitaly Khd: bets 200
+Catbui1973: folds 
+Uncalled bet (200) returned to Vitaly Khd
+Vitaly Khd collected 666 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Board [Kc Tc Kd]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd collected (666)
+Seat 6: 7Dredzik7 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Catbui1973 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254972346884: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 17:33:07 WET [2025/02/21 12:33:07 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (7139 in chips, $5 bounty) 
+Seat 2: Fantom453 (1965 in chips, $5 bounty) 
+Seat 3: imstalker (5000 in chips, $5 bounty) 
+Seat 4: iwillkillset (8322 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6985 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7989 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5394 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7206 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 18
+Fantom453: posts the ante 18
+imstalker: posts the ante 18
+iwillkillset: posts the ante 18
+Vitaly Khd: posts the ante 18
+7Dredzik7: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Catbui1973: posts the ante 18
+Catbui1973: posts small blind 60
+emi_nico09: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 3s]
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 120 to 240
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: raises 780 to 1020
+Vitaly Khd: folds 
+Uncalled bet (780) returned to emi_nico09
+emi_nico09 collected 684 from pot
+emi_nico09: doesn't show hand 
+*** SUMMARY ***
+Total pot 684 | Rake 0 
+Seat 1: emi_nico09 (big blind) collected (684)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Catbui1973 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254972358923: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 17:33:56 WET [2025/02/21 12:33:56 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: emi_nico09 (7565 in chips, $5 bounty) 
+Seat 2: Fantom453 (1947 in chips, $5 bounty) 
+Seat 3: imstalker (4982 in chips, $5 bounty) 
+Seat 4: iwillkillset (8304 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6727 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7971 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5376 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7128 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 18
+Fantom453: posts the ante 18
+imstalker: posts the ante 18
+iwillkillset: posts the ante 18
+Vitaly Khd: posts the ante 18
+7Dredzik7: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Catbui1973: posts the ante 18
+emi_nico09: posts small blind 60
+Fantom453: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 8h]
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 120
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: calls 60
+Fantom453: raises 1809 to 1929 and is all-in
+7Dredzik7: folds 
+emi_nico09: folds 
+Uncalled bet (1809) returned to Fantom453
+Fantom453 collected 504 from pot
+Fantom453: doesn't show hand 
+*** SUMMARY ***
+Total pot 504 | Rake 0 
+Seat 1: emi_nico09 (small blind) folded before Flop
+Seat 2: Fantom453 (big blind) collected (504)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972366651: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/21 17:34:27 WET [2025/02/21 12:34:27 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: emi_nico09 (7427 in chips, $5 bounty) 
+Seat 2: Fantom453 (2313 in chips, $5 bounty) 
+Seat 3: imstalker (4964 in chips, $5 bounty) 
+Seat 4: iwillkillset (8286 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6709 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7833 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5358 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7110 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 21
+Fantom453: posts the ante 21
+imstalker: posts the ante 21
+iwillkillset: posts the ante 21
+Vitaly Khd: posts the ante 21
+7Dredzik7: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Catbui1973: posts the ante 21
+Fantom453: posts small blind 70
+imstalker: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Tc]
+iwillkillset: raises 140 to 280
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: calls 280
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: calls 140
+*** FLOP *** [Kc 2c 2d]
+imstalker: checks 
+iwillkillset: checks 
+Kevin12345Mc: bets 356
+imstalker: folds 
+iwillkillset: folds 
+Uncalled bet (356) returned to Kevin12345Mc
+Kevin12345Mc collected 1078 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1078 | Rake 0 
+Board [Kc 2c 2d]
+Seat 1: emi_nico09 (button) folded before Flop (didn't bet)
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: imstalker (big blind) folded on the Flop
+Seat 4: iwillkillset folded on the Flop
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (1078)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972379240: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/21 17:35:17 WET [2025/02/21 12:35:17 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: emi_nico09 (7406 in chips, $5 bounty) 
+Seat 2: Fantom453 (2222 in chips, $5 bounty) 
+Seat 3: imstalker (4663 in chips, $5 bounty) 
+Seat 4: iwillkillset (7985 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6688 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7812 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (6135 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7089 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 21
+Fantom453: posts the ante 21
+imstalker: posts the ante 21
+iwillkillset: posts the ante 21
+Vitaly Khd: posts the ante 21
+7Dredzik7: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Catbui1973: posts the ante 21
+imstalker: posts small blind 70
+iwillkillset: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th Kh]
+Vitaly Khd: folds 
+7Dredzik7: calls 140
+Kevin12345Mc: raises 182 to 322
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: calls 322
+imstalker: folds 
+iwillkillset: folds 
+7Dredzik7: calls 182
+*** FLOP *** [As 2d 9c]
+7Dredzik7: checks 
+Kevin12345Mc: checks 
+Fantom453: checks 
+*** TURN *** [As 2d 9c] [2c]
+7Dredzik7: bets 140
+Kevin12345Mc: folds 
+Fantom453: folds 
+Uncalled bet (140) returned to 7Dredzik7
+7Dredzik7 collected 1344 from pot
+*** SUMMARY ***
+Total pot 1344 | Rake 0 
+Board [As 2d 9c 2c]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 (button) folded on the Turn
+Seat 3: imstalker (small blind) folded before Flop
+Seat 4: iwillkillset (big blind) folded before Flop
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 collected (1344)
+Seat 7: Kevin12345Mc folded on the Turn
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972389377: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/21 17:35:58 WET [2025/02/21 12:35:58 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 1: emi_nico09 (7385 in chips, $5 bounty) 
+Seat 2: Fantom453 (1879 in chips, $5 bounty) 
+Seat 3: imstalker (4572 in chips, $5 bounty) 
+Seat 4: iwillkillset (7824 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6667 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8813 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5792 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7068 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 21
+Fantom453: posts the ante 21
+imstalker: posts the ante 21
+iwillkillset: posts the ante 21
+Vitaly Khd: posts the ante 21
+7Dredzik7: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Catbui1973: posts the ante 21
+iwillkillset: posts small blind 70
+Vitaly Khd: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 5s]
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 140
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset has timed out
+iwillkillset: folds 
+iwillkillset is sitting out
+iwillkillset has returned
+Vitaly Khd: checks 
+*** FLOP *** [Kc 4h 2c]
+Vitaly Khd: checks 
+Catbui1973: checks 
+*** TURN *** [Kc 4h 2c] [6h]
+Vitaly Khd: bets 183
+Catbui1973: raises 237 to 420
+Vitaly Khd: folds 
+Uncalled bet (237) returned to Catbui1973
+Catbui1973 collected 884 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 884 | Rake 0 
+Board [Kc 4h 2c 6h]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker (button) folded before Flop (didn't bet)
+Seat 4: iwillkillset (small blind) folded before Flop
+Seat 5: Vitaly Khd (big blind) folded on the Turn
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 collected (884)
+
+
+
+PokerStars Hand #254972408996: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/21 17:37:18 WET [2025/02/21 12:37:18 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (7364 in chips, $5 bounty) 
+Seat 2: Fantom453 (1858 in chips, $5 bounty) 
+Seat 3: imstalker (4551 in chips, $5 bounty) 
+Seat 4: iwillkillset (7733 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6323 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (8792 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5771 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7608 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 21
+Fantom453: posts the ante 21
+imstalker: posts the ante 21
+iwillkillset: posts the ante 21
+Vitaly Khd: posts the ante 21
+7Dredzik7: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Catbui1973: posts the ante 21
+Vitaly Khd: posts small blind 70
+7Dredzik7: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Td]
+Kevin12345Mc: raises 140 to 280
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 140
+*** FLOP *** [7h Ac 6c]
+7Dredzik7: checks 
+Kevin12345Mc: bets 263
+7Dredzik7: calls 263
+*** TURN *** [7h Ac 6c] [8d]
+7Dredzik7: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [7h Ac 6c 8d] [Jh]
+7Dredzik7: bets 280
+Kevin12345Mc: folds 
+Uncalled bet (280) returned to 7Dredzik7
+7Dredzik7 collected 1324 from pot
+*** SUMMARY ***
+Total pot 1324 | Rake 0 
+Board [7h Ac 6c 8d Jh]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset (button) folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (small blind) folded before Flop
+Seat 6: 7Dredzik7 (big blind) collected (1324)
+Seat 7: Kevin12345Mc folded on the River
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972422952: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/21 17:38:15 WET [2025/02/21 12:38:15 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (7343 in chips, $5 bounty) 
+Seat 2: Fantom453 (1837 in chips, $5 bounty) 
+Seat 3: imstalker (4530 in chips, $5 bounty) 
+Seat 4: iwillkillset (7712 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6232 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9552 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5207 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7587 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 21
+Fantom453: posts the ante 21
+imstalker: posts the ante 21
+iwillkillset: posts the ante 21
+Vitaly Khd: posts the ante 21
+7Dredzik7: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Catbui1973: posts the ante 21
+7Dredzik7: posts small blind 70
+Kevin12345Mc: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 4s]
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: raises 140 to 280
+iwillkillset has timed out
+iwillkillset: folds 
+iwillkillset is sitting out
+iwillkillset has returned
+Vitaly Khd: calls 280
+7Dredzik7: folds 
+Kevin12345Mc: calls 140
+*** FLOP *** [9c Kd Qd]
+Kevin12345Mc: checks 
+imstalker: checks 
+Vitaly Khd: checks 
+*** TURN *** [9c Kd Qd] [5h]
+Kevin12345Mc: checks 
+imstalker: checks 
+Vitaly Khd: bets 809
+Kevin12345Mc: folds 
+imstalker: folds 
+Uncalled bet (809) returned to Vitaly Khd
+Vitaly Khd collected 1078 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 1078 | Rake 0 
+Board [9c Kd Qd 5h]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded on the Turn
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (button) collected (1078)
+Seat 6: 7Dredzik7 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Turn
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972442779: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/21 17:39:35 WET [2025/02/21 12:39:35 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (7322 in chips, $5 bounty) 
+Seat 2: Fantom453 (1816 in chips, $5 bounty) 
+Seat 3: imstalker (4229 in chips, $5 bounty) 
+Seat 4: iwillkillset (7691 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7009 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9461 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4906 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7566 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 21
+Fantom453: posts the ante 21
+imstalker: posts the ante 21
+iwillkillset: posts the ante 21
+Vitaly Khd: posts the ante 21
+7Dredzik7: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Catbui1973: posts the ante 21
+Kevin12345Mc: posts small blind 70
+Catbui1973: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 9s]
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: calls 70
+Catbui1973: checks 
+*** FLOP *** [Qd Td 7d]
+Kevin12345Mc: bets 296
+Catbui1973: folds 
+Uncalled bet (296) returned to Kevin12345Mc
+Kevin12345Mc collected 448 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 448 | Rake 0 
+Board [Qd Td 7d]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) collected (448)
+Seat 8: Catbui1973 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254972453600: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/21 17:40:18 WET [2025/02/21 12:40:18 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (7301 in chips, $5 bounty) 
+Seat 2: Fantom453 (1795 in chips, $5 bounty) 
+Seat 3: imstalker (4208 in chips, $5 bounty) 
+Seat 4: iwillkillset (7670 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6988 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9440 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5193 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7405 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 21
+Fantom453: posts the ante 21
+imstalker: posts the ante 21
+iwillkillset: posts the ante 21
+Vitaly Khd: posts the ante 21
+7Dredzik7: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Catbui1973: posts the ante 21
+Catbui1973: posts small blind 70
+emi_nico09: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 7d]
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 140 to 280
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: calls 140
+*** FLOP *** [8h 6c Qh]
+emi_nico09: checks 
+Vitaly Khd: bets 407
+emi_nico09: folds 
+Uncalled bet (407) returned to Vitaly Khd
+Vitaly Khd collected 798 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 798 | Rake 0 
+Board [8h 6c Qh]
+Seat 1: emi_nico09 (big blind) folded on the Flop
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd collected (798)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Catbui1973 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254972470541: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/21 17:41:26 WET [2025/02/21 12:41:26 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: emi_nico09 (7000 in chips, $5 bounty) 
+Seat 2: Fantom453 (1774 in chips, $5 bounty) 
+Seat 3: imstalker (4187 in chips, $5 bounty) 
+Seat 4: iwillkillset (7649 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7485 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9419 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5172 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7314 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 21
+Fantom453: posts the ante 21
+imstalker: posts the ante 21
+iwillkillset: posts the ante 21
+Vitaly Khd: posts the ante 21
+7Dredzik7: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Catbui1973: posts the ante 21
+emi_nico09: posts small blind 70
+Fantom453: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 9h]
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 140 to 280
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 280
+emi_nico09: folds 
+Fantom453: calls 140
+*** FLOP *** [As 7d Ts]
+Fantom453: checks 
+Vitaly Khd: checks 
+Catbui1973: bets 140
+Fantom453: folds 
+Vitaly Khd: calls 140
+*** TURN *** [As 7d Ts] [7s]
+Vitaly Khd: checks 
+Catbui1973: bets 280
+Vitaly Khd: calls 280
+*** RIVER *** [As 7d Ts 7s] [5d]
+Vitaly Khd: checks 
+Catbui1973: checks 
+*** SHOW DOWN ***
+Vitaly Khd: shows [Th Qh] (two pair, Tens and Sevens)
+Catbui1973: shows [Jd Td] (two pair, Tens and Sevens)
+Vitaly Khd collected 959 from pot
+Catbui1973 collected 959 from pot
+*** SUMMARY ***
+Total pot 1918 | Rake 0 
+Board [As 7d Ts 7s 5d]
+Seat 1: emi_nico09 (small blind) folded before Flop
+Seat 2: Fantom453 (big blind) folded on the Flop
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd showed [Th Qh] and won (959) with two pair, Tens and Sevens
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 (button) showed [Jd Td] and won (959) with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #254972490212: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/21 17:42:45 WET [2025/02/21 12:42:45 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: emi_nico09 (6909 in chips, $5 bounty) 
+Seat 2: Fantom453 (1473 in chips, $5 bounty) 
+Seat 3: imstalker (4166 in chips, $5 bounty) 
+Seat 4: iwillkillset (7628 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7723 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (9398 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5151 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7552 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 24
+Fantom453: posts the ante 24
+imstalker: posts the ante 24
+iwillkillset: posts the ante 24
+Vitaly Khd: posts the ante 24
+7Dredzik7: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Catbui1973: posts the ante 24
+Fantom453: posts small blind 80
+imstalker: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Tc]
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 160
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: raises 320 to 480
+Fantom453: folds 
+imstalker: folds 
+7Dredzik7: calls 320
+*** FLOP *** [Td 7c 5c]
+7Dredzik7: checks 
+emi_nico09: bets 445
+7Dredzik7: calls 445
+*** TURN *** [Td 7c 5c] [4c]
+7Dredzik7: checks 
+emi_nico09: bets 958
+7Dredzik7: calls 958
+*** RIVER *** [Td 7c 5c 4c] [5d]
+7Dredzik7: bets 1280
+emi_nico09: raises 3722 to 5002 and is all-in
+7Dredzik7: folds 
+Uncalled bet (3722) returned to emi_nico09
+emi_nico09 collected 6758 from pot
+emi_nico09: doesn't show hand 
+*** SUMMARY ***
+Total pot 6758 | Rake 0 
+Board [Td 7c 5c 4c 5d]
+Seat 1: emi_nico09 (button) collected (6758)
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: imstalker (big blind) folded before Flop
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded on the River
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972509346: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/21 17:44:02 WET [2025/02/21 12:44:02 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: emi_nico09 (10480 in chips, $5 bounty) 
+Seat 2: Fantom453 (1369 in chips, $5 bounty) 
+Seat 3: imstalker (3982 in chips, $5 bounty) 
+Seat 4: iwillkillset (7604 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7699 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (6211 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5127 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7528 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 24
+Fantom453: posts the ante 24
+imstalker: posts the ante 24
+iwillkillset: posts the ante 24
+Vitaly Khd: posts the ante 24
+7Dredzik7: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Catbui1973: posts the ante 24
+imstalker: posts small blind 80
+iwillkillset: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 3c]
+Vitaly Khd: folds 
+7Dredzik7: calls 160
+Kevin12345Mc: folds 
+Catbui1973: calls 160
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: calls 80
+iwillkillset: checks 
+*** FLOP *** [Kd 5h 5c]
+imstalker: checks 
+iwillkillset: checks 
+7Dredzik7: checks 
+Catbui1973: checks 
+*** TURN *** [Kd 5h 5c] [6h]
+imstalker: checks 
+iwillkillset: bets 416
+7Dredzik7: folds 
+Catbui1973: calls 416
+imstalker: folds 
+*** RIVER *** [Kd 5h 5c 6h] [8c]
+iwillkillset: checks 
+Catbui1973: bets 832
+iwillkillset: calls 832
+*** SHOW DOWN ***
+Catbui1973: shows [Ac 5s] (three of a kind, Fives)
+iwillkillset: mucks hand 
+Catbui1973 collected 3328 from pot
+*** SUMMARY ***
+Total pot 3328 | Rake 0 
+Board [Kd 5h 5c 6h 8c]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 (button) folded before Flop (didn't bet)
+Seat 3: imstalker (small blind) folded on the Turn
+Seat 4: iwillkillset (big blind) mucked [Ks 3s]
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded on the Turn
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 showed [Ac 5s] and won (3328) with three of a kind, Fives
+
+
+
+PokerStars Hand #254972536021: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/21 17:45:47 WET [2025/02/21 12:45:47 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 1: emi_nico09 (10456 in chips, $5 bounty) 
+Seat 2: Fantom453 (1345 in chips, $5 bounty) 
+Seat 3: imstalker (3798 in chips, $5 bounty) 
+Seat 4: iwillkillset (6172 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7675 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (6027 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5103 in chips, $5 bounty) 
+Seat 8: Catbui1973 (9424 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 24
+Fantom453: posts the ante 24
+imstalker: posts the ante 24
+iwillkillset: posts the ante 24
+Vitaly Khd: posts the ante 24
+7Dredzik7: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Catbui1973: posts the ante 24
+iwillkillset: posts small blind 80
+Vitaly Khd: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 7s]
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: raises 400 to 560
+Vitaly Khd: calls 400
+*** FLOP *** [Ac Jh 7c]
+iwillkillset: bets 394
+Vitaly Khd: folds 
+Uncalled bet (394) returned to iwillkillset
+iwillkillset collected 1312 from pot
+*** SUMMARY ***
+Total pot 1312 | Rake 0 
+Board [Ac Jh 7c]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker (button) folded before Flop (didn't bet)
+Seat 4: iwillkillset (small blind) collected (1312)
+Seat 5: Vitaly Khd (big blind) folded on the Flop
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972552607: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/21 17:46:53 WET [2025/02/21 12:46:53 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (10432 in chips, $5 bounty) 
+Seat 2: Fantom453 (1321 in chips, $5 bounty) 
+Seat 3: imstalker (3774 in chips, $5 bounty) 
+Seat 4: iwillkillset (6900 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7091 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (6003 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5079 in chips, $5 bounty) 
+Seat 8: Catbui1973 (9400 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 24
+Fantom453: posts the ante 24
+imstalker: posts the ante 24
+iwillkillset: posts the ante 24
+Vitaly Khd: posts the ante 24
+7Dredzik7: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Catbui1973: posts the ante 24
+Vitaly Khd: posts small blind 80
+7Dredzik7: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac Kh]
+Kevin12345Mc: raises 192 to 352
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: raises 945 to 1297 and is all-in
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: calls 945
+*** FLOP *** [6s 6h 5d]
+*** TURN *** [6s 6h 5d] [5h]
+*** RIVER *** [6s 6h 5d 5h] [7d]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ac Kh] (two pair, Sixes and Fives)
+Fantom453: shows [Td Ad] (two pair, Sixes and Fives)
+Kevin12345Mc collected 1513 from pot
+Fantom453 collected 1513 from pot
+*** SUMMARY ***
+Total pot 3026 | Rake 0 
+Board [6s 6h 5d 5h 7d]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 showed [Td Ad] and won (1513) with two pair, Sixes and Fives
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset (button) folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (small blind) folded before Flop
+Seat 6: 7Dredzik7 (big blind) folded before Flop
+Seat 7: Kevin12345Mc showed [Ac Kh] and won (1513) with two pair, Sixes and Fives
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972560576: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/21 17:47:25 WET [2025/02/21 12:47:25 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (10408 in chips, $5 bounty) 
+Seat 2: Fantom453 (1513 in chips, $5 bounty) 
+Seat 3: imstalker (3750 in chips, $5 bounty) 
+Seat 4: iwillkillset (6876 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6987 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (5819 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5271 in chips, $5 bounty) 
+Seat 8: Catbui1973 (9376 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 24
+Fantom453: posts the ante 24
+imstalker: posts the ante 24
+iwillkillset: posts the ante 24
+Vitaly Khd: posts the ante 24
+7Dredzik7: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Catbui1973: posts the ante 24
+7Dredzik7: posts small blind 80
+Kevin12345Mc: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 2c]
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: raises 160 to 320
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: calls 160
+*** FLOP *** [8s Jc Td]
+Kevin12345Mc: checks 
+iwillkillset: bets 274
+Kevin12345Mc: folds 
+Uncalled bet (274) returned to iwillkillset
+iwillkillset collected 912 from pot
+*** SUMMARY ***
+Total pot 912 | Rake 0 
+Board [8s Jc Td]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset collected (912)
+Seat 5: Vitaly Khd (button) folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Flop
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972573716: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/21 17:48:17 WET [2025/02/21 12:48:17 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (10384 in chips, $5 bounty) 
+Seat 2: Fantom453 (1489 in chips, $5 bounty) 
+Seat 3: imstalker (3726 in chips, $5 bounty) 
+Seat 4: iwillkillset (7444 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6963 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (5715 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4927 in chips, $5 bounty) 
+Seat 8: Catbui1973 (9352 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 24
+Fantom453: posts the ante 24
+imstalker: posts the ante 24
+iwillkillset: posts the ante 24
+Vitaly Khd: posts the ante 24
+7Dredzik7: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Catbui1973: posts the ante 24
+Kevin12345Mc: posts small blind 80
+Catbui1973: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 6c]
+emi_nico09: raises 169 to 329
+Fantom453: folds 
+imstalker: calls 329
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: calls 249
+Catbui1973: folds 
+*** FLOP *** [Jd Td 2s]
+Kevin12345Mc: checks 
+emi_nico09: checks 
+imstalker: checks 
+*** TURN *** [Jd Td 2s] [8h]
+Kevin12345Mc: checks 
+emi_nico09: bets 750
+imstalker: folds 
+Kevin12345Mc: folds 
+Uncalled bet (750) returned to emi_nico09
+emi_nico09 collected 1339 from pot
+emi_nico09: doesn't show hand 
+*** SUMMARY ***
+Total pot 1339 | Rake 0 
+Board [Jd Td 2s 8h]
+Seat 1: emi_nico09 collected (1339)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded on the Turn
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded on the Turn
+Seat 8: Catbui1973 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254972590154: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/21 17:49:23 WET [2025/02/21 12:49:23 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (11370 in chips, $5 bounty) 
+Seat 2: Fantom453 (1465 in chips, $5 bounty) 
+Seat 3: imstalker (3373 in chips, $5 bounty) 
+Seat 4: iwillkillset (7420 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6939 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (5691 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4574 in chips, $5 bounty) 
+Seat 8: Catbui1973 (9168 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 24
+Fantom453: posts the ante 24
+imstalker: posts the ante 24
+iwillkillset: posts the ante 24
+Vitaly Khd: posts the ante 24
+7Dredzik7: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Catbui1973: posts the ante 24
+Catbui1973: posts small blind 80
+emi_nico09: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Ks]
+Fantom453: folds 
+imstalker: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 160 to 320
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Uncalled bet (160) returned to Vitaly Khd
+Vitaly Khd collected 592 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: emi_nico09 (big blind) folded before Flop
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: imstalker folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd collected (592)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Catbui1973 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254972600783: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/21 17:50:05 WET [2025/02/21 12:50:05 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: emi_nico09 (11186 in chips, $5 bounty) 
+Seat 2: Fantom453 (1441 in chips, $5 bounty) 
+Seat 3: imstalker (3349 in chips, $5 bounty) 
+Seat 4: iwillkillset (7396 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7347 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (5667 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4550 in chips, $5 bounty) 
+Seat 8: Catbui1973 (9064 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 27
+Fantom453: posts the ante 27
+imstalker: posts the ante 27
+iwillkillset: posts the ante 27
+Vitaly Khd: posts the ante 27
+7Dredzik7: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Catbui1973: posts the ante 27
+emi_nico09: posts small blind 90
+Fantom453: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 6c]
+imstalker: raises 180 to 360
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 360
+Kevin12345Mc: calls 360
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+*** FLOP *** [Js Kd 4d]
+imstalker: checks 
+7Dredzik7: bets 180
+Kevin12345Mc: folds 
+imstalker: calls 180
+*** TURN *** [Js Kd 4d] [2c]
+imstalker: checks 
+7Dredzik7: bets 360
+imstalker: calls 360
+*** RIVER *** [Js Kd 4d 2c] [2d]
+imstalker: checks 
+7Dredzik7: bets 720
+imstalker: folds 
+Uncalled bet (720) returned to 7Dredzik7
+7Dredzik7 collected 2646 from pot
+*** SUMMARY ***
+Total pot 2646 | Rake 0 
+Board [Js Kd 4d 2c 2d]
+Seat 1: emi_nico09 (small blind) folded before Flop
+Seat 2: Fantom453 (big blind) folded before Flop
+Seat 3: imstalker folded on the River
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 collected (2646)
+Seat 7: Kevin12345Mc folded on the Flop
+Seat 8: Catbui1973 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972615811: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/21 17:51:06 WET [2025/02/21 12:51:06 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: emi_nico09 (11069 in chips, $5 bounty) 
+Seat 2: Fantom453 (1234 in chips, $5 bounty) 
+Seat 3: imstalker (2422 in chips, $5 bounty) 
+Seat 4: iwillkillset (7369 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7320 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7386 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4163 in chips, $5 bounty) 
+Seat 8: Catbui1973 (9037 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 27
+Fantom453: posts the ante 27
+imstalker: posts the ante 27
+iwillkillset: posts the ante 27
+Vitaly Khd: posts the ante 27
+7Dredzik7: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Catbui1973: posts the ante 27
+Fantom453: posts small blind 90
+imstalker: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 6d]
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: raises 10862 to 11042 and is all-in
+Fantom453: folds 
+imstalker: calls 2215 and is all-in
+Uncalled bet (8647) returned to emi_nico09
+*** FLOP *** [3c 2s Tc]
+*** TURN *** [3c 2s Tc] [7h]
+*** RIVER *** [3c 2s Tc 7h] [Jc]
+*** SHOW DOWN ***
+imstalker: shows [Ad Qc] (high card Ace)
+emi_nico09: shows [2c Kd] (a pair of Deuces)
+emi_nico09 collected 5096 from pot
+emi_nico09 wins $2.50 for eliminating imstalker and their own bounty increases by $2.50 to $7.50
+imstalker finished the tournament
+*** SUMMARY ***
+Total pot 5096 | Rake 0 
+Board [3c 2s Tc 7h Jc]
+Seat 1: emi_nico09 (button) showed [2c Kd] and won (5096) with a pair of Deuces
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: imstalker (big blind) showed [Ad Qc] and lost with high card Ace
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972627016: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/21 17:51:51 WET [2025/02/21 12:51:51 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: emi_nico09 (13743 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1117 in chips, $5 bounty) 
+Seat 4: iwillkillset (7342 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7293 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7359 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4136 in chips, $5 bounty) 
+Seat 8: Catbui1973 (9010 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 27
+Fantom453: posts the ante 27
+iwillkillset: posts the ante 27
+Vitaly Khd: posts the ante 27
+7Dredzik7: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Catbui1973: posts the ante 27
+iwillkillset: posts small blind 90
+Vitaly Khd: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 4s]
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+hiran bass is disconnected 
+Catbui1973: raises 360 to 540
+emi_nico09: folds 
+Fantom453: raises 550 to 1090 and is all-in
+iwillkillset: folds 
+Vitaly Khd: folds 
+Catbui1973: calls 550
+*** FLOP *** [Ad 6c 9h]
+*** TURN *** [Ad 6c 9h] [3d]
+*** RIVER *** [Ad 6c 9h 3d] [Qd]
+*** SHOW DOWN ***
+Catbui1973: shows [Jc Jd] (a pair of Jacks)
+Fantom453: shows [Ah Kc] (a pair of Aces)
+Fantom453 collected 2639 from pot
+*** SUMMARY ***
+Total pot 2639 | Rake 0 
+Board [Ad 6c 9h 3d Qd]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 (button) showed [Ah Kc] and won (2639) with a pair of Aces
+Seat 4: iwillkillset (small blind) folded before Flop
+Seat 5: Vitaly Khd (big blind) folded before Flop
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 showed [Jc Jd] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254972638112: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/21 17:52:35 WET [2025/02/21 12:52:35 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (13716 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (2639 in chips, $5 bounty) 
+Seat 3: hiran bass (5000 in chips, $5 bounty) 
+Seat 4: iwillkillset (7225 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7086 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7332 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4109 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7893 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 27
+Fantom453: posts the ante 27
+hiran bass: posts the ante 27
+iwillkillset: posts the ante 27
+Vitaly Khd: posts the ante 27
+7Dredzik7: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Catbui1973: posts the ante 27
+Vitaly Khd: posts small blind 90
+7Dredzik7: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 6d]
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: raises 180 to 360
+iwillkillset: raises 540 to 900
+Vitaly Khd: folds 
+7Dredzik7: folds 
+hiran bass: raises 4073 to 4973 and is all-in
+iwillkillset: folds 
+Uncalled bet (4073) returned to hiran bass
+hiran bass collected 2286 from pot
+hiran bass: doesn't show hand 
+*** SUMMARY ***
+Total pot 2286 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass collected (2286)
+Seat 4: iwillkillset (button) folded before Flop
+Seat 5: Vitaly Khd (small blind) folded before Flop
+Seat 6: 7Dredzik7 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972654049: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/21 17:53:38 WET [2025/02/21 12:53:38 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (13689 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (2612 in chips, $5 bounty) 
+Seat 3: hiran bass (6359 in chips, $5 bounty) 
+Seat 4: iwillkillset (6298 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6969 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7125 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4082 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7866 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 27
+Fantom453: posts the ante 27
+hiran bass: posts the ante 27
+iwillkillset: posts the ante 27
+Vitaly Khd: posts the ante 27
+7Dredzik7: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Catbui1973: posts the ante 27
+7Dredzik7: posts small blind 90
+Kevin12345Mc: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 3s]
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 90
+Kevin12345Mc: checks 
+*** FLOP *** [7d Qs Ah]
+7Dredzik7: checks 
+Kevin12345Mc: checks 
+*** TURN *** [7d Qs Ah] [Td]
+7Dredzik7: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [7d Qs Ah Td] [Ad]
+7Dredzik7: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+7Dredzik7: shows [2h 8h] (a pair of Aces)
+Kevin12345Mc: mucks hand 
+7Dredzik7 collected 576 from pot
+*** SUMMARY ***
+Total pot 576 | Rake 0 
+Board [7d Qs Ah Td Ad]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (button) folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (small blind) showed [2h 8h] and won (576) with a pair of Aces
+Seat 7: Kevin12345Mc (big blind) mucked [4h 3s]
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972667455: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/21 17:54:33 WET [2025/02/21 12:54:33 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (13662 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (2585 in chips, $5 bounty) 
+Seat 3: hiran bass (6332 in chips, $5 bounty) 
+Seat 4: iwillkillset (6271 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6942 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7494 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (3875 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7839 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 27
+Fantom453: posts the ante 27
+hiran bass: posts the ante 27
+iwillkillset: posts the ante 27
+Vitaly Khd: posts the ante 27
+7Dredzik7: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Catbui1973: posts the ante 27
+Kevin12345Mc: posts small blind 90
+Catbui1973: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Th]
+emi_nico09: raises 190 to 370
+Fantom453: folds 
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+Uncalled bet (190) returned to emi_nico09
+emi_nico09 collected 666 from pot
+emi_nico09: doesn't show hand 
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: emi_nico09 collected (666)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Catbui1973 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254972676125: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/21 17:55:07 WET [2025/02/21 12:55:07 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (14121 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (2558 in chips, $5 bounty) 
+Seat 3: hiran bass (6305 in chips, $5 bounty) 
+Seat 4: iwillkillset (6244 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6915 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7467 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (3758 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7632 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 27
+Fantom453: posts the ante 27
+hiran bass: posts the ante 27
+iwillkillset: posts the ante 27
+Vitaly Khd: posts the ante 27
+7Dredzik7: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Catbui1973: posts the ante 27
+Catbui1973: posts small blind 90
+emi_nico09: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Td]
+Fantom453: folds 
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 90
+emi_nico09: checks 
+*** FLOP *** [6d 9c 9h]
+Catbui1973: checks 
+emi_nico09: checks 
+*** TURN *** [6d 9c 9h] [7d]
+Catbui1973: bets 288
+emi_nico09: calls 288
+*** RIVER *** [6d 9c 9h 7d] [4s]
+Catbui1973: bets 576
+emi_nico09: calls 576
+*** SHOW DOWN ***
+Catbui1973: shows [8d Jh] (a pair of Nines)
+emi_nico09: shows [5d Ac] (a pair of Nines - Ace kicker)
+emi_nico09 collected 2304 from pot
+*** SUMMARY ***
+Total pot 2304 | Rake 0 
+Board [6d 9c 9h 7d 4s]
+Seat 1: emi_nico09 (big blind) showed [5d Ac] and won (2304) with a pair of Nines
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Catbui1973 (small blind) showed [8d Jh] and lost with a pair of Nines
+
+
+
+PokerStars Hand #254972765565: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/21 18:02:43 WET [2025/02/21 13:02:43 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: emi_nico09 (15354 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (2531 in chips, $5 bounty) 
+Seat 3: hiran bass (6278 in chips, $5 bounty) 
+Seat 4: iwillkillset (6217 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6888 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7440 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (3731 in chips, $5 bounty) 
+Seat 8: Catbui1973 (6561 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 27
+Fantom453: posts the ante 27
+hiran bass: posts the ante 27
+iwillkillset: posts the ante 27
+Vitaly Khd: posts the ante 27
+7Dredzik7: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Catbui1973: posts the ante 27
+emi_nico09: posts small blind 90
+Fantom453: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Ad]
+hiran bass: folds 
+iwillkillset: raises 180 to 360
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 360
+emi_nico09: folds 
+Fantom453: calls 180
+*** FLOP *** [3h 4c As]
+Fantom453: checks 
+iwillkillset: checks 
+Catbui1973: bets 540
+Fantom453: folds 
+iwillkillset: folds 
+Uncalled bet (540) returned to Catbui1973
+Catbui1973 collected 1386 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 1386 | Rake 0 
+Board [3h 4c As]
+Seat 1: emi_nico09 (small blind) folded before Flop
+Seat 2: Fantom453 (big blind) folded on the Flop
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded on the Flop
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 (button) collected (1386)
+
+
+
+PokerStars Hand #254972779373: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/21 18:03:37 WET [2025/02/21 13:03:37 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: emi_nico09 (15237 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (2144 in chips, $5 bounty) 
+Seat 3: hiran bass (6251 in chips, $5 bounty) 
+Seat 4: iwillkillset (5830 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6861 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7413 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (3704 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7560 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 27
+Fantom453: posts the ante 27
+hiran bass: posts the ante 27
+iwillkillset: posts the ante 27
+Vitaly Khd: posts the ante 27
+7Dredzik7: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Catbui1973: posts the ante 27
+Fantom453: posts small blind 90
+hiran bass: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 9s]
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: raises 180 to 360
+Catbui1973: calls 360
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: calls 180
+*** FLOP *** [Kh 7h Tc]
+hiran bass: checks 
+Kevin12345Mc: bets 457
+Catbui1973: folds 
+hiran bass: raises 2603 to 3060
+Kevin12345Mc: folds 
+Uncalled bet (2603) returned to hiran bass
+hiran bass collected 2300 from pot
+hiran bass: doesn't show hand 
+*** SUMMARY ***
+Total pot 2300 | Rake 0 
+Board [Kh 7h Tc]
+Seat 1: emi_nico09 (button) folded before Flop (didn't bet)
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: hiran bass (big blind) collected (2300)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded on the Flop
+Seat 8: Catbui1973 folded on the Flop
+
+
+
+PokerStars Hand #254972799870: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/21 18:04:58 WET [2025/02/21 13:04:58 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: emi_nico09 (15210 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (2027 in chips, $5 bounty) 
+Seat 3: hiran bass (7707 in chips, $5 bounty) 
+Seat 4: iwillkillset (5803 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6834 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7386 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (2860 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7173 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 27
+Fantom453: posts the ante 27
+hiran bass: posts the ante 27
+iwillkillset: posts the ante 27
+Vitaly Khd: posts the ante 27
+7Dredzik7: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Catbui1973: posts the ante 27
+hiran bass: posts small blind 90
+iwillkillset: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 2h]
+Vitaly Khd: folds 
+7Dredzik7: calls 180
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: calls 90
+iwillkillset: checks 
+*** FLOP *** [3s 6d Kd]
+hiran bass: checks 
+iwillkillset: checks 
+7Dredzik7: checks 
+*** TURN *** [3s 6d Kd] [Qd]
+hiran bass: checks 
+iwillkillset: checks 
+7Dredzik7: checks 
+*** RIVER *** [3s 6d Kd Qd] [Kh]
+hiran bass: checks 
+iwillkillset: checks 
+7Dredzik7: checks 
+*** SHOW DOWN ***
+hiran bass: shows [7c 2c] (a pair of Kings)
+iwillkillset: shows [6h 2s] (two pair, Kings and Sixes)
+7Dredzik7: mucks hand 
+iwillkillset collected 756 from pot
+*** SUMMARY ***
+Total pot 756 | Rake 0 
+Board [3s 6d Kd Qd Kh]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 (button) folded before Flop (didn't bet)
+Seat 3: hiran bass (small blind) showed [7c 2c] and lost with a pair of Kings
+Seat 4: iwillkillset (big blind) showed [6h 2s] and won (756) with two pair, Kings and Sixes
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 mucked [8d As]
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972819903: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/21 18:06:17 WET [2025/02/21 13:06:17 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 1: emi_nico09 (15183 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (2000 in chips, $5 bounty) 
+Seat 3: hiran bass (7500 in chips, $5 bounty) 
+Seat 4: iwillkillset (6352 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6807 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7179 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (2833 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7146 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 30
+Fantom453: posts the ante 30
+hiran bass: posts the ante 30
+iwillkillset: posts the ante 30
+Vitaly Khd: posts the ante 30
+7Dredzik7: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Catbui1973: posts the ante 30
+iwillkillset: posts small blind 100
+Vitaly Khd: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 3d]
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: raises 212 to 412
+Fantom453: folds 
+hiran bass: calls 412
+iwillkillset: folds 
+Vitaly Khd: folds 
+*** FLOP *** [2d 6c Kc]
+emi_nico09: bets 375
+hiran bass: folds 
+Uncalled bet (375) returned to emi_nico09
+emi_nico09 collected 1364 from pot
+emi_nico09: doesn't show hand 
+*** SUMMARY ***
+Total pot 1364 | Rake 0 
+Board [2d 6c Kc]
+Seat 1: emi_nico09 collected (1364)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass (button) folded on the Flop
+Seat 4: iwillkillset (small blind) folded before Flop
+Seat 5: Vitaly Khd (big blind) folded before Flop
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972829790: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/21 18:06:55 WET [2025/02/21 13:06:55 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (16105 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1970 in chips, $5 bounty) 
+Seat 3: hiran bass (7058 in chips, $5 bounty) 
+Seat 4: iwillkillset (6222 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6577 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (7149 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (2803 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7116 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 30
+Fantom453: posts the ante 30
+hiran bass: posts the ante 30
+iwillkillset: posts the ante 30
+Vitaly Khd: posts the ante 30
+7Dredzik7: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Catbui1973: posts the ante 30
+Vitaly Khd: posts small blind 100
+7Dredzik7: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 7s]
+Kevin12345Mc: folds 
+Catbui1973: calls 200
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: calls 100
+7Dredzik7: checks 
+*** FLOP *** [2c Qh 2d]
+Vitaly Khd: checks 
+7Dredzik7: checks 
+Catbui1973: bets 400
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Uncalled bet (400) returned to Catbui1973
+Catbui1973 collected 840 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [2c Qh 2d]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset (button) folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (small blind) folded on the Flop
+Seat 6: 7Dredzik7 (big blind) folded on the Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 collected (840)
+
+
+
+PokerStars Hand #254972843078: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/21 18:07:48 WET [2025/02/21 13:07:48 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (16075 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1940 in chips, $5 bounty) 
+Seat 3: hiran bass (7028 in chips, $5 bounty) 
+Seat 4: iwillkillset (6192 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6347 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (6919 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (2773 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7726 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 30
+Fantom453: posts the ante 30
+hiran bass: posts the ante 30
+iwillkillset: posts the ante 30
+Vitaly Khd: posts the ante 30
+7Dredzik7: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Catbui1973: posts the ante 30
+7Dredzik7: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 9d]
+Catbui1973: folds 
+emi_nico09: raises 212 to 412
+Fantom453: folds 
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 312
+Kevin12345Mc: folds 
+*** FLOP *** [8h Th 2s]
+7Dredzik7: checks 
+emi_nico09: bets 404
+7Dredzik7: folds 
+Uncalled bet (404) returned to emi_nico09
+emi_nico09 collected 1264 from pot
+emi_nico09: doesn't show hand 
+*** SUMMARY ***
+Total pot 1264 | Rake 0 
+Board [8h Th 2s]
+Seat 1: emi_nico09 collected (1264)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (button) folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (small blind) folded on the Flop
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972856285: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/21 18:08:39 WET [2025/02/21 13:08:39 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (16897 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1910 in chips, $5 bounty) 
+Seat 3: hiran bass (6998 in chips, $5 bounty) 
+Seat 4: iwillkillset (6162 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6317 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (6477 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (2543 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7696 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 30
+Fantom453: posts the ante 30
+hiran bass: posts the ante 30
+iwillkillset: posts the ante 30
+Vitaly Khd: posts the ante 30
+7Dredzik7: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Catbui1973: posts the ante 30
+Kevin12345Mc: posts small blind 100
+Catbui1973: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Kd]
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: raises 200 to 400
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: raises 2113 to 2513 and is all-in
+Catbui1973: folds 
+hiran bass: calls 2113
+*** FLOP *** [Ts Kh Th]
+*** TURN *** [Ts Kh Th] [7h]
+*** RIVER *** [Ts Kh Th 7h] [As]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Kc Kd] (a full house, Kings full of Tens)
+hiran bass: shows [Tc Ac] (a full house, Tens full of Aces)
+Kevin12345Mc collected 5466 from pot
+*** SUMMARY ***
+Total pot 5466 | Rake 0 
+Board [Ts Kh Th 7h As]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass showed [Tc Ac] and lost with a full house, Tens full of Aces
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) showed [Kc Kd] and won (5466) with a full house, Kings full of Tens
+Seat 8: Catbui1973 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254972866405: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/21 18:09:19 WET [2025/02/21 13:09:19 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (16867 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1880 in chips, $5 bounty) 
+Seat 3: hiran bass (4455 in chips, $5 bounty) 
+Seat 4: iwillkillset (6132 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6287 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (6447 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5466 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7466 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 30
+Fantom453: posts the ante 30
+hiran bass: posts the ante 30
+iwillkillset: posts the ante 30
+Vitaly Khd: posts the ante 30
+7Dredzik7: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Catbui1973: posts the ante 30
+Catbui1973: posts small blind 100
+emi_nico09: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 3c]
+Fantom453: folds 
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 200 to 400
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Uncalled bet (200) returned to Vitaly Khd
+Vitaly Khd collected 740 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Seat 1: emi_nico09 (big blind) folded before Flop
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd collected (740)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Catbui1973 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254972872305: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/21 18:09:42 WET [2025/02/21 13:09:42 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: emi_nico09 (16637 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1850 in chips, $5 bounty) 
+Seat 3: hiran bass (4425 in chips, $5 bounty) 
+Seat 4: iwillkillset (6102 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6797 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (6417 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5436 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7336 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 30
+Fantom453: posts the ante 30
+hiran bass: posts the ante 30
+iwillkillset: posts the ante 30
+Vitaly Khd: posts the ante 30
+7Dredzik7: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Catbui1973: posts the ante 30
+emi_nico09: posts small blind 100
+Fantom453: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 2s]
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Uncalled bet (100) returned to Fantom453
+Fantom453 collected 440 from pot
+Fantom453: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Seat 1: emi_nico09 (small blind) folded before Flop
+Seat 2: Fantom453 (big blind) collected (440)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972879484: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/21 18:10:10 WET [2025/02/21 13:10:10 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: emi_nico09 (16507 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (2160 in chips, $5 bounty) 
+Seat 3: hiran bass (4395 in chips, $5 bounty) 
+Seat 4: iwillkillset (6072 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6767 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (6387 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5406 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7306 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 30
+Fantom453: posts the ante 30
+hiran bass: posts the ante 30
+iwillkillset: posts the ante 30
+Vitaly Khd: posts the ante 30
+7Dredzik7: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Catbui1973: posts the ante 30
+Fantom453: posts small blind 100
+hiran bass: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 9c]
+iwillkillset has timed out
+iwillkillset: folds 
+iwillkillset is sitting out
+iwillkillset has returned
+Vitaly Khd: folds 
+7Dredzik7: calls 200
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: raises 500 to 700
+7Dredzik7: calls 500
+*** FLOP *** [2d 9s 8s]
+hiran bass: bets 574
+7Dredzik7: folds 
+Uncalled bet (574) returned to hiran bass
+hiran bass collected 1740 from pot
+hiran bass: doesn't show hand 
+*** SUMMARY ***
+Total pot 1740 | Rake 0 
+Board [2d 9s 8s]
+Seat 1: emi_nico09 (button) folded before Flop (didn't bet)
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: hiran bass (big blind) collected (1740)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded on the Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972891974: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/21 18:10:58 WET [2025/02/21 13:10:58 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: emi_nico09 (16477 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (2030 in chips, $5 bounty) 
+Seat 3: hiran bass (5405 in chips, $5 bounty) 
+Seat 4: iwillkillset (6042 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6737 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (5657 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5376 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7276 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 30
+Fantom453: posts the ante 30
+hiran bass: posts the ante 30
+iwillkillset: posts the ante 30
+Vitaly Khd: posts the ante 30
+7Dredzik7: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Catbui1973: posts the ante 30
+hiran bass: posts small blind 100
+iwillkillset: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 4s]
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: folds 
+Uncalled bet (100) returned to iwillkillset
+iwillkillset collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 (button) folded before Flop (didn't bet)
+Seat 3: hiran bass (small blind) folded before Flop
+Seat 4: iwillkillset (big blind) collected (440)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972897508: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/21 18:11:20 WET [2025/02/21 13:11:20 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 1: emi_nico09 (16447 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (2000 in chips, $5 bounty) 
+Seat 3: hiran bass (5275 in chips, $5 bounty) 
+Seat 4: iwillkillset (6352 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6707 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (5627 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5346 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7246 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 30
+Fantom453: posts the ante 30
+hiran bass: posts the ante 30
+iwillkillset: posts the ante 30
+Vitaly Khd: posts the ante 30
+7Dredzik7: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Catbui1973: posts the ante 30
+iwillkillset: posts small blind 100
+Vitaly Khd: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 2c]
+7Dredzik7: calls 200
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: calls 200
+iwillkillset: calls 100
+Vitaly Khd: checks 
+*** FLOP *** [5h 9s Jh]
+iwillkillset: checks 
+Vitaly Khd: checks 
+7Dredzik7: checks 
+hiran bass: checks 
+*** TURN *** [5h 9s Jh] [9h]
+iwillkillset: bets 780
+Vitaly Khd: folds 
+7Dredzik7: calls 780
+hiran bass: folds 
+*** RIVER *** [5h 9s Jh 9h] [Ts]
+iwillkillset: bets 1300
+7Dredzik7: folds 
+Uncalled bet (1300) returned to iwillkillset
+iwillkillset collected 2600 from pot
+*** SUMMARY ***
+Total pot 2600 | Rake 0 
+Board [5h 9s Jh 9h Ts]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass (button) folded on the Turn
+Seat 4: iwillkillset (small blind) collected (2600)
+Seat 5: Vitaly Khd (big blind) folded on the Turn
+Seat 6: 7Dredzik7 folded on the River
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972922047: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/21 18:12:55 WET [2025/02/21 13:12:55 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (16417 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1970 in chips, $5 bounty) 
+Seat 3: hiran bass (5045 in chips, $5 bounty) 
+Seat 4: iwillkillset (7942 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (6477 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4617 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5316 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7216 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 30
+Fantom453: posts the ante 30
+hiran bass: posts the ante 30
+iwillkillset: posts the ante 30
+Vitaly Khd: posts the ante 30
+7Dredzik7: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Catbui1973: posts the ante 30
+Vitaly Khd: posts small blind 100
+7Dredzik7: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 8d]
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: folds 
+iwillkillset: raises 200 to 400
+Vitaly Khd: raises 6047 to 6447 and is all-in
+7Dredzik7: folds 
+iwillkillset: folds 
+Uncalled bet (6047) returned to Vitaly Khd
+Vitaly Khd collected 1240 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset (button) folded before Flop
+Seat 5: Vitaly Khd (small blind) collected (1240)
+Seat 6: 7Dredzik7 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972937763: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/21 18:13:56 WET [2025/02/21 13:13:56 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (16387 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1940 in chips, $5 bounty) 
+Seat 3: hiran bass (5015 in chips, $5 bounty) 
+Seat 4: iwillkillset (7512 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7287 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4387 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5286 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7186 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 36
+Fantom453: posts the ante 36
+hiran bass: posts the ante 36
+iwillkillset: posts the ante 36
+Vitaly Khd: posts the ante 36
+7Dredzik7: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Catbui1973: posts the ante 36
+7Dredzik7: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 4s]
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Uncalled bet (125) returned to Kevin12345Mc
+Kevin12345Mc collected 538 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 538 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (button) folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) collected (538)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972948334: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/21 18:14:38 WET [2025/02/21 13:14:38 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (16351 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1904 in chips, $5 bounty) 
+Seat 3: hiran bass (4979 in chips, $5 bounty) 
+Seat 4: iwillkillset (7476 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7251 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4226 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5663 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7150 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 36
+Fantom453: posts the ante 36
+hiran bass: posts the ante 36
+iwillkillset: posts the ante 36
+Vitaly Khd: posts the ante 36
+7Dredzik7: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Catbui1973: posts the ante 36
+Kevin12345Mc: posts small blind 125
+Catbui1973: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Kh]
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: folds 
+iwillkillset has timed out
+iwillkillset: folds 
+iwillkillset is sitting out
+Vitaly Khd: folds 
+iwillkillset has returned
+7Dredzik7: calls 250
+Kevin12345Mc: calls 125
+Catbui1973: checks 
+*** FLOP *** [Qh As 2d]
+Kevin12345Mc: checks 
+Catbui1973: checks 
+7Dredzik7: bets 250
+Kevin12345Mc: folds 
+Catbui1973: folds 
+Uncalled bet (250) returned to 7Dredzik7
+7Dredzik7 collected 1038 from pot
+*** SUMMARY ***
+Total pot 1038 | Rake 0 
+Board [Qh As 2d]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (button) collected (1038)
+Seat 7: Kevin12345Mc (small blind) folded on the Flop
+Seat 8: Catbui1973 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254972959668: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/21 18:15:22 WET [2025/02/21 13:15:22 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (16315 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1868 in chips, $5 bounty) 
+Seat 3: hiran bass (4943 in chips, $5 bounty) 
+Seat 4: iwillkillset (7440 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7215 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4978 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5377 in chips, $5 bounty) 
+Seat 8: Catbui1973 (6864 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 36
+Fantom453: posts the ante 36
+hiran bass: posts the ante 36
+iwillkillset: posts the ante 36
+Vitaly Khd: posts the ante 36
+7Dredzik7: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Catbui1973: posts the ante 36
+Catbui1973: posts small blind 125
+emi_nico09: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 3c]
+Fantom453: folds 
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 250
+Kevin12345Mc: folds 
+Catbui1973: raises 1038 to 1288
+emi_nico09: folds 
+7Dredzik7: folds 
+Uncalled bet (1038) returned to Catbui1973
+Catbui1973 collected 1038 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 1038 | Rake 0 
+Seat 1: emi_nico09 (big blind) folded before Flop
+Seat 2: Fantom453 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Catbui1973 (small blind) collected (1038)
+
+
+
+PokerStars Hand #254972968224: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/21 18:15:55 WET [2025/02/21 13:15:55 ET]
+Table '3860676549 68' 8-max Seat #8 is the button
+Seat 1: emi_nico09 (16029 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1832 in chips, $5 bounty) 
+Seat 3: hiran bass (4907 in chips, $5 bounty) 
+Seat 4: iwillkillset (7404 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7179 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4692 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5341 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7616 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 36
+Fantom453: posts the ante 36
+hiran bass: posts the ante 36
+iwillkillset: posts the ante 36
+Vitaly Khd: posts the ante 36
+7Dredzik7: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Catbui1973: posts the ante 36
+emi_nico09: posts small blind 125
+Fantom453: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 6s]
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: raises 250 to 500
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+Uncalled bet (250) returned to Kevin12345Mc
+Kevin12345Mc collected 913 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 913 | Rake 0 
+Seat 1: emi_nico09 (small blind) folded before Flop
+Seat 2: Fantom453 (big blind) folded before Flop
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (913)
+Seat 8: Catbui1973 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972977190: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/21 18:16:30 WET [2025/02/21 13:16:30 ET]
+Table '3860676549 68' 8-max Seat #1 is the button
+Seat 1: emi_nico09 (15868 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1546 in chips, $5 bounty) 
+Seat 3: hiran bass (4871 in chips, $5 bounty) 
+Seat 4: iwillkillset (7368 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7143 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4656 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5968 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7580 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 36
+Fantom453: posts the ante 36
+hiran bass: posts the ante 36
+iwillkillset: posts the ante 36
+Vitaly Khd: posts the ante 36
+7Dredzik7: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Catbui1973: posts the ante 36
+Fantom453: posts small blind 125
+hiran bass: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh Ts]
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: raises 250 to 500
+Fantom453: folds 
+hiran bass: calls 250
+*** FLOP *** [Td Th 2h]
+hiran bass: checks 
+emi_nico09: bets 325
+hiran bass: folds 
+Uncalled bet (325) returned to emi_nico09
+emi_nico09 collected 1413 from pot
+emi_nico09: doesn't show hand 
+*** SUMMARY ***
+Total pot 1413 | Rake 0 
+Board [Td Th 2h]
+Seat 1: emi_nico09 (button) collected (1413)
+Seat 2: Fantom453 (small blind) folded before Flop
+Seat 3: hiran bass (big blind) folded on the Flop
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972986021: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/21 18:17:04 WET [2025/02/21 13:17:04 ET]
+Table '3860676549 68' 8-max Seat #2 is the button
+Seat 1: emi_nico09 (16745 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1385 in chips, $5 bounty) 
+Seat 3: hiran bass (4335 in chips, $5 bounty) 
+Seat 4: iwillkillset (7332 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7107 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4620 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5932 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7544 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 36
+Fantom453: posts the ante 36
+hiran bass: posts the ante 36
+iwillkillset: posts the ante 36
+Vitaly Khd: posts the ante 36
+7Dredzik7: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Catbui1973: posts the ante 36
+hiran bass: posts small blind 125
+iwillkillset: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 2h]
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: folds 
+Fantom453: folds 
+hiran bass: folds 
+Uncalled bet (125) returned to iwillkillset
+iwillkillset collected 538 from pot
+*** SUMMARY ***
+Total pot 538 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: Fantom453 (button) folded before Flop (didn't bet)
+Seat 3: hiran bass (small blind) folded before Flop
+Seat 4: iwillkillset (big blind) collected (538)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972989477: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/21 18:17:17 WET [2025/02/21 13:17:17 ET]
+Table '3860676549 68' 8-max Seat #3 is the button
+Seat 1: emi_nico09 (16709 in chips, $7.50 bounty) 
+Seat 2: Fantom453 (1349 in chips, $5 bounty) 
+Seat 3: hiran bass (4174 in chips, $5 bounty) 
+Seat 4: iwillkillset (7709 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (7071 in chips, $5 bounty) 
+Seat 6: 7Dredzik7 (4584 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5896 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7508 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 36
+Fantom453: posts the ante 36
+hiran bass: posts the ante 36
+iwillkillset: posts the ante 36
+Vitaly Khd: posts the ante 36
+7Dredzik7: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Catbui1973: posts the ante 36
+iwillkillset: posts small blind 125
+Vitaly Khd: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 3h]
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: raises 265 to 515
+Fantom453: raises 798 to 1313 and is all-in
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 5722 to 7035 and is all-in
+emi_nico09: folds 
+Uncalled bet (5722) returned to Vitaly Khd
+*** FLOP *** [8d Jh Qd]
+*** TURN *** [8d Jh Qd] [7h]
+*** RIVER *** [8d Jh Qd 7h] [4c]
+*** SHOW DOWN ***
+Vitaly Khd: shows [Kh Ks] (a pair of Kings)
+Fantom453: shows [Qs Kd] (a pair of Queens)
+Vitaly Khd collected 3554 from pot
+Vitaly Khd wins $2.50 for eliminating Fantom453 and their own bounty increases by $2.50 to $7.50
+Fantom453 finished the tournament
+*** SUMMARY ***
+Total pot 3554 | Rake 0 
+Board [8d Jh Qd 7h 4c]
+Seat 1: emi_nico09 folded before Flop
+Seat 2: Fantom453 showed [Qs Kd] and lost with a pair of Queens
+Seat 3: hiran bass (button) folded before Flop (didn't bet)
+Seat 4: iwillkillset (small blind) folded before Flop
+Seat 5: Vitaly Khd (big blind) showed [Kh Ks] and won (3554) with a pair of Kings
+Seat 6: 7Dredzik7 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972998407: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/21 18:17:52 WET [2025/02/21 13:17:52 ET]
+Table '3860676549 68' 8-max Seat #4 is the button
+Seat 1: emi_nico09 (16158 in chips, $7.50 bounty) 
+Seat 3: hiran bass (4138 in chips, $5 bounty) 
+Seat 4: iwillkillset (7548 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (9276 in chips, $7.50 bounty) 
+Seat 6: 7Dredzik7 (4548 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5860 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7472 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 36
+hiran bass: posts the ante 36
+iwillkillset: posts the ante 36
+Vitaly Khd: posts the ante 36
+7Dredzik7: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Catbui1973: posts the ante 36
+Vitaly Khd: posts small blind 125
+7Dredzik7: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 6c]
+Kevin12345Mc: folds 
+Catbui1973: folds 
+emi_nico09: raises 265 to 515
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 1485 to 2000
+7Dredzik7: folds 
+emi_nico09: folds 
+Uncalled bet (1485) returned to Vitaly Khd
+Vitaly Khd collected 1532 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 1532 | Rake 0 
+Seat 1: emi_nico09 folded before Flop
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset (button) folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (small blind) collected (1532)
+Seat 6: 7Dredzik7 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Catbui1973 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973010945: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/21 18:18:41 WET [2025/02/21 13:18:41 ET]
+Table '3860676549 68' 8-max Seat #5 is the button
+Seat 1: emi_nico09 (15607 in chips, $7.50 bounty) 
+Seat 2: sanuk7 (13703 in chips, $10 bounty) 
+Seat 3: hiran bass (4102 in chips, $5 bounty) 
+Seat 4: iwillkillset (7512 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (10257 in chips, $7.50 bounty) 
+Seat 6: 7Dredzik7 (4262 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5824 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7436 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 36
+sanuk7: posts the ante 36
+hiran bass: posts the ante 36
+iwillkillset: posts the ante 36
+Vitaly Khd: posts the ante 36
+7Dredzik7: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Catbui1973: posts the ante 36
+7Dredzik7: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Jd]
+Catbui1973: raises 913 to 1163
+emi_nico09: folds 
+sanuk7: folds 
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Uncalled bet (913) returned to Catbui1973
+Catbui1973 collected 913 from pot
+Catbui1973: doesn't show hand 
+*** SUMMARY ***
+Total pot 913 | Rake 0 
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: sanuk7 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd (button) folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: Catbui1973 collected (913)
+
+
+
+PokerStars Hand #254973017744: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/21 18:19:07 WET [2025/02/21 13:19:07 ET]
+Table '3860676549 68' 8-max Seat #6 is the button
+Seat 1: emi_nico09 (15571 in chips, $7.50 bounty) 
+Seat 2: sanuk7 (13667 in chips, $10 bounty) 
+Seat 3: hiran bass (4066 in chips, $5 bounty) 
+Seat 4: iwillkillset (7476 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (10221 in chips, $7.50 bounty) 
+Seat 6: 7Dredzik7 (4101 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5538 in chips, $5 bounty) 
+Seat 8: Catbui1973 (8063 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 36
+sanuk7: posts the ante 36
+hiran bass: posts the ante 36
+iwillkillset: posts the ante 36
+Vitaly Khd: posts the ante 36
+7Dredzik7: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Catbui1973: posts the ante 36
+Kevin12345Mc: posts small blind 125
+Catbui1973: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 8c]
+emi_nico09: folds 
+sanuk7: folds 
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: raises 250 to 500
+7Dredzik7: folds 
+Kevin12345Mc: folds 
+Catbui1973: calls 250
+*** FLOP *** [7s Tc Td]
+Catbui1973: checks 
+Vitaly Khd: bets 424
+Catbui1973: folds 
+Uncalled bet (424) returned to Vitaly Khd
+Vitaly Khd collected 1413 from pot
+Vitaly Khd: doesn't show hand 
+*** SUMMARY ***
+Total pot 1413 | Rake 0 
+Board [7s Tc Td]
+Seat 1: emi_nico09 folded before Flop (didn't bet)
+Seat 2: sanuk7 folded before Flop (didn't bet)
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd collected (1413)
+Seat 6: 7Dredzik7 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Catbui1973 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254973028526: Tournament #3860676549, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/21 18:19:49 WET [2025/02/21 13:19:49 ET]
+Table '3860676549 68' 8-max Seat #7 is the button
+Seat 1: emi_nico09 (15535 in chips, $7.50 bounty) 
+Seat 2: sanuk7 (13631 in chips, $10 bounty) 
+Seat 3: hiran bass (4030 in chips, $5 bounty) 
+Seat 4: iwillkillset (7440 in chips, $5 bounty) 
+Seat 5: Vitaly Khd (11098 in chips, $7.50 bounty) 
+Seat 6: 7Dredzik7 (4065 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5377 in chips, $5 bounty) 
+Seat 8: Catbui1973 (7527 in chips, $8.75 bounty) 
+emi_nico09: posts the ante 36
+sanuk7: posts the ante 36
+hiran bass: posts the ante 36
+iwillkillset: posts the ante 36
+Vitaly Khd: posts the ante 36
+7Dredzik7: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Catbui1973: posts the ante 36
+Catbui1973: posts small blind 125
+emi_nico09: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Ts]
+sanuk7: calls 250
+hiran bass: folds 
+iwillkillset: folds 
+Vitaly Khd: folds 
+7Dredzik7: calls 250
+Kevin12345Mc: calls 250
+Catbui1973: calls 125
+emi_nico09: checks 
+*** FLOP *** [Kd 5s 9s]
+Catbui1973: checks 
+emi_nico09: checks 
+sanuk7: bets 750
+7Dredzik7: folds 
+Kevin12345Mc: raises 1003 to 1753
+Catbui1973: folds 
+emi_nico09: folds 
+sanuk7: raises 6247 to 8000
+Kevin12345Mc: calls 3338 and is all-in
+Uncalled bet (2909) returned to sanuk7
+*** TURN *** [Kd 5s 9s] [4h]
+*** RIVER *** [Kd 5s 9s 4h] [2s]
+*** SHOW DOWN ***
+sanuk7: shows [3s As] (a flush, Ace high)
+Kevin12345Mc: shows [Qs Ts] (a flush, Queen high)
+sanuk7 collected 11720 from pot
+sanuk7 wins $2.50 for eliminating Kevin12345Mc and their own bounty increases by $2.50 to $12.50
+Kevin12345Mc finished the tournament in 1074th place
+allehayax is disconnected 
+*** SUMMARY ***
+Total pot 11720 | Rake 0 
+Board [Kd 5s 9s 4h 2s]
+Seat 1: emi_nico09 (big blind) folded on the Flop
+Seat 2: sanuk7 showed [3s As] and won (11720) with a flush, Ace high
+Seat 3: hiran bass folded before Flop (didn't bet)
+Seat 4: iwillkillset folded before Flop (didn't bet)
+Seat 5: Vitaly Khd folded before Flop (didn't bet)
+Seat 6: 7Dredzik7 folded on the Flop
+Seat 7: Kevin12345Mc (button) showed [Qs Ts] and lost with a flush, Queen high
+Seat 8: Catbui1973 (small blind) folded on the Flop
+
+
+

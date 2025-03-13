@@ -1,0 +1,945 @@
+﻿PokerStars Hand #254973188425: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 18:29:56 WET [2025/02/21 13:29:56 ET]
+Table '3860676572 19' 8-max Seat #1 is the button
+Seat 1: rosa2067 (5000 in chips, $2 bounty) 
+Seat 2: madalin_gfys (5000 in chips, $2 bounty) 
+Seat 3: Kevin12345Mc (5000 in chips, $2 bounty) 
+Seat 4: Ivanmorosov (5000 in chips, $2 bounty) is sitting out
+Seat 5: ativann (5000 in chips, $2 bounty) 
+Seat 6: dave_eba (5000 in chips, $2 bounty) 
+Seat 7: dejanbugarin (5000 in chips, $2 bounty) 
+Seat 8: Laupedersen06 (5000 in chips, $2 bounty) 
+rosa2067: posts the ante 8
+madalin_gfys: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Ivanmorosov: posts the ante 8
+ativann: posts the ante 8
+dave_eba: posts the ante 8
+dejanbugarin: posts the ante 8
+Laupedersen06: posts the ante 8
+madalin_gfys: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Jh]
+Ivanmorosov: folds 
+ativann: folds 
+dave_eba: folds 
+dejanbugarin: folds 
+Laupedersen06: folds 
+rosa2067: raises 50 to 100
+madalin_gfys: folds 
+Kevin12345Mc: calls 50
+*** FLOP *** [Tc Qs 4d]
+Ivanmorosov has returned
+Ivanmorosov is sitting out
+Kevin12345Mc: checks 
+Ivanmorosov has returned
+rosa2067: bets 217
+Kevin12345Mc: folds 
+Uncalled bet (217) returned to rosa2067
+rosa2067 collected 289 from pot
+rosa2067: doesn't show hand 
+*** SUMMARY ***
+Total pot 289 | Rake 0 
+Board [Tc Qs 4d]
+Seat 1: rosa2067 (button) collected (289)
+Seat 2: madalin_gfys (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded on the Flop
+Seat 4: Ivanmorosov folded before Flop (didn't bet)
+Seat 5: ativann folded before Flop (didn't bet)
+Seat 6: dave_eba folded before Flop (didn't bet)
+Seat 7: dejanbugarin folded before Flop (didn't bet)
+Seat 8: Laupedersen06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973202247: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 18:30:48 WET [2025/02/21 13:30:48 ET]
+Table '3860676572 19' 8-max Seat #2 is the button
+Seat 1: rosa2067 (5181 in chips, $2 bounty) 
+Seat 2: madalin_gfys (4967 in chips, $2 bounty) 
+Seat 3: Kevin12345Mc (4892 in chips, $2 bounty) 
+Seat 4: Ivanmorosov (4992 in chips, $2 bounty) 
+Seat 5: ativann (4992 in chips, $2 bounty) 
+Seat 6: dave_eba (4992 in chips, $2 bounty) 
+Seat 7: dejanbugarin (4992 in chips, $2 bounty) 
+Seat 8: Laupedersen06 (4992 in chips, $2 bounty) 
+rosa2067: posts the ante 8
+madalin_gfys: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Ivanmorosov: posts the ante 8
+ativann: posts the ante 8
+dave_eba: posts the ante 8
+dejanbugarin: posts the ante 8
+Laupedersen06: posts the ante 8
+Kevin12345Mc: posts small blind 25
+Ivanmorosov: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 4h]
+ativann: folds 
+dave_eba: folds 
+dejanbugarin: calls 50
+Laupedersen06: folds 
+rosa2067: folds 
+madalin_gfys: raises 50 to 100
+Kevin12345Mc: folds 
+Ivanmorosov: folds 
+dejanbugarin: calls 50
+*** FLOP *** [4c Ks Td]
+dejanbugarin: checks 
+madalin_gfys: bets 85
+dejanbugarin: folds 
+Uncalled bet (85) returned to madalin_gfys
+madalin_gfys collected 339 from pot
+madalin_gfys: doesn't show hand 
+*** SUMMARY ***
+Total pot 339 | Rake 0 
+Board [4c Ks Td]
+Seat 1: rosa2067 folded before Flop (didn't bet)
+Seat 2: madalin_gfys (button) collected (339)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: Ivanmorosov (big blind) folded before Flop
+Seat 5: ativann folded before Flop (didn't bet)
+Seat 6: dave_eba folded before Flop (didn't bet)
+Seat 7: dejanbugarin folded on the Flop
+Seat 8: Laupedersen06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973210405: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 18:31:18 WET [2025/02/21 13:31:18 ET]
+Table '3860676572 19' 8-max Seat #3 is the button
+Seat 1: rosa2067 (5173 in chips, $2 bounty) 
+Seat 2: madalin_gfys (5198 in chips, $2 bounty) 
+Seat 3: Kevin12345Mc (4859 in chips, $2 bounty) 
+Seat 4: Ivanmorosov (4934 in chips, $2 bounty) 
+Seat 5: ativann (4984 in chips, $2 bounty) 
+Seat 6: dave_eba (4984 in chips, $2 bounty) 
+Seat 7: dejanbugarin (4884 in chips, $2 bounty) 
+Seat 8: Laupedersen06 (4984 in chips, $2 bounty) 
+rosa2067: posts the ante 8
+madalin_gfys: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Ivanmorosov: posts the ante 8
+ativann: posts the ante 8
+dave_eba: posts the ante 8
+dejanbugarin: posts the ante 8
+Laupedersen06: posts the ante 8
+Ivanmorosov: posts small blind 25
+ativann: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 3s]
+dave_eba: folds 
+dejanbugarin: calls 50
+Laupedersen06: folds 
+rosa2067: calls 50
+madalin_gfys: folds 
+Kevin12345Mc: calls 50
+Ivanmorosov: folds 
+ativann: raises 325 to 375
+dejanbugarin: calls 325
+rosa2067: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [6c Ad Qs]
+ativann: bets 516
+dejanbugarin: folds 
+Uncalled bet (516) returned to ativann
+ativann collected 939 from pot
+ativann: doesn't show hand 
+*** SUMMARY ***
+Total pot 939 | Rake 0 
+Board [6c Ad Qs]
+Seat 1: rosa2067 folded before Flop
+Seat 2: madalin_gfys folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop
+Seat 4: Ivanmorosov (small blind) folded before Flop
+Seat 5: ativann (big blind) collected (939)
+Seat 6: dave_eba folded before Flop (didn't bet)
+Seat 7: dejanbugarin folded on the Flop
+Seat 8: Laupedersen06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973220852: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 18:31:57 WET [2025/02/21 13:31:57 ET]
+Table '3860676572 19' 8-max Seat #4 is the button
+Seat 1: rosa2067 (5115 in chips, $2 bounty) 
+Seat 2: madalin_gfys (5190 in chips, $2 bounty) 
+Seat 3: Kevin12345Mc (4801 in chips, $2 bounty) 
+Seat 4: Ivanmorosov (4901 in chips, $2 bounty) 
+Seat 5: ativann (5540 in chips, $2 bounty) 
+Seat 6: dave_eba (4976 in chips, $2 bounty) 
+Seat 7: dejanbugarin (4501 in chips, $2 bounty) 
+Seat 8: Laupedersen06 (4976 in chips, $2 bounty) 
+rosa2067: posts the ante 8
+madalin_gfys: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Ivanmorosov: posts the ante 8
+ativann: posts the ante 8
+dave_eba: posts the ante 8
+dejanbugarin: posts the ante 8
+Laupedersen06: posts the ante 8
+ativann: posts small blind 25
+dave_eba: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 3h]
+dejanbugarin: calls 50
+Laupedersen06: folds 
+rosa2067: folds 
+madalin_gfys: raises 75 to 125
+Kevin12345Mc: folds 
+Ivanmorosov: folds 
+ativann: folds 
+dave_eba: raises 362 to 487
+dejanbugarin: calls 437
+madalin_gfys: calls 362
+*** FLOP *** [Th As 6s]
+dave_eba: bets 512
+dejanbugarin: calls 512
+madalin_gfys: calls 512
+*** TURN *** [Th As 6s] [5h]
+dave_eba: checks 
+dejanbugarin: checks 
+madalin_gfys: bets 1518
+dave_eba: raises 2451 to 3969 and is all-in
+dejanbugarin: folds 
+madalin_gfys: calls 2451
+*** RIVER *** [Th As 6s 5h] [8c]
+*** SHOW DOWN ***
+dave_eba: shows [Ah Qc] (a pair of Aces)
+madalin_gfys: shows [Ts Tc] (three of a kind, Tens)
+madalin_gfys collected 11024 from pot
+madalin_gfys wins $1 for eliminating dave_eba and their own bounty increases by $1 to $3
+dave_eba finished the tournament
+*** SUMMARY ***
+Total pot 11024 | Rake 0 
+Board [Th As 6s 5h 8c]
+Seat 1: rosa2067 folded before Flop (didn't bet)
+Seat 2: madalin_gfys showed [Ts Tc] and won (11024) with three of a kind, Tens
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Ivanmorosov (button) folded before Flop (didn't bet)
+Seat 5: ativann (small blind) folded before Flop
+Seat 6: dave_eba (big blind) showed [Ah Qc] and lost with a pair of Aces
+Seat 7: dejanbugarin folded on the Turn
+Seat 8: Laupedersen06 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973249488: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 18:33:44 WET [2025/02/21 13:33:44 ET]
+Table '3860676572 19' 8-max Seat #5 is the button
+Seat 1: rosa2067 (5107 in chips, $2 bounty) 
+Seat 2: madalin_gfys (11238 in chips, $3 bounty) 
+Seat 3: Kevin12345Mc (4793 in chips, $2 bounty) 
+Seat 4: Ivanmorosov (4893 in chips, $2 bounty) 
+Seat 5: ativann (5507 in chips, $2 bounty) 
+Seat 7: dejanbugarin (3494 in chips, $2 bounty) 
+Seat 8: Laupedersen06 (4968 in chips, $2 bounty) 
+rosa2067: posts the ante 8
+madalin_gfys: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Ivanmorosov: posts the ante 8
+ativann: posts the ante 8
+dejanbugarin: posts the ante 8
+Laupedersen06: posts the ante 8
+dejanbugarin: posts small blind 25
+Laupedersen06: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 7c]
+blackk_killer is disconnected 
+rosa2067: folds 
+madalin_gfys: raises 75 to 125
+Kevin12345Mc: folds 
+Ivanmorosov: folds 
+ativann: folds 
+dejanbugarin: calls 100
+Laupedersen06: calls 75
+*** FLOP *** [Ts 5s 4s]
+dejanbugarin: checks 
+Laupedersen06: checks 
+madalin_gfys: checks 
+*** TURN *** [Ts 5s 4s] [Ah]
+dejanbugarin: checks 
+Laupedersen06: checks 
+madalin_gfys: bets 166
+dejanbugarin: folds 
+Laupedersen06: folds 
+Uncalled bet (166) returned to madalin_gfys
+madalin_gfys collected 431 from pot
+madalin_gfys: doesn't show hand 
+*** SUMMARY ***
+Total pot 431 | Rake 0 
+Board [Ts 5s 4s Ah]
+Seat 1: rosa2067 folded before Flop (didn't bet)
+Seat 2: madalin_gfys collected (431)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Ivanmorosov folded before Flop (didn't bet)
+Seat 5: ativann (button) folded before Flop (didn't bet)
+Seat 7: dejanbugarin (small blind) folded on the Turn
+Seat 8: Laupedersen06 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254973268189: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 18:34:54 WET [2025/02/21 13:34:54 ET]
+Table '3860676572 19' 8-max Seat #7 is the button
+Seat 1: rosa2067 (5099 in chips, $2 bounty) 
+Seat 2: madalin_gfys (11536 in chips, $3 bounty) 
+Seat 3: Kevin12345Mc (4785 in chips, $2 bounty) 
+Seat 4: Ivanmorosov (4885 in chips, $2 bounty) 
+Seat 5: ativann (5499 in chips, $2 bounty) 
+Seat 6: blackk_killer (5000 in chips, $2 bounty) 
+Seat 7: dejanbugarin (3361 in chips, $2 bounty) 
+Seat 8: Laupedersen06 (4835 in chips, $2 bounty) 
+rosa2067: posts the ante 8
+madalin_gfys: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Ivanmorosov: posts the ante 8
+ativann: posts the ante 8
+blackk_killer: posts the ante 8
+dejanbugarin: posts the ante 8
+Laupedersen06: posts the ante 8
+Laupedersen06: posts small blind 25
+rosa2067: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 9s]
+madalin_gfys: folds 
+Kevin12345Mc: folds 
+Ivanmorosov: folds 
+ativann: folds 
+blackk_killer: folds 
+dejanbugarin: calls 50
+Laupedersen06: calls 25
+rosa2067: raises 150 to 200
+dejanbugarin: calls 150
+Laupedersen06: folds 
+*** FLOP *** [9c 3d Tc]
+rosa2067: checks 
+dejanbugarin: bets 514
+rosa2067: folds 
+Uncalled bet (514) returned to dejanbugarin
+dejanbugarin collected 514 from pot
+dejanbugarin: doesn't show hand 
+*** SUMMARY ***
+Total pot 514 | Rake 0 
+Board [9c 3d Tc]
+Seat 1: rosa2067 (big blind) folded on the Flop
+Seat 2: madalin_gfys folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Ivanmorosov folded before Flop (didn't bet)
+Seat 5: ativann folded before Flop (didn't bet)
+Seat 6: blackk_killer folded before Flop (didn't bet)
+Seat 7: dejanbugarin (button) collected (514)
+Seat 8: Laupedersen06 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254973291162: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/21 18:36:20 WET [2025/02/21 13:36:20 ET]
+Table '3860676572 19' 8-max Seat #8 is the button
+Seat 1: rosa2067 (4891 in chips, $2 bounty) 
+Seat 2: madalin_gfys (11528 in chips, $3 bounty) 
+Seat 3: Kevin12345Mc (4777 in chips, $2 bounty) 
+Seat 4: Ivanmorosov (4877 in chips, $2 bounty) 
+Seat 5: ativann (5491 in chips, $2 bounty) 
+Seat 6: blackk_killer (4992 in chips, $2 bounty) 
+Seat 7: dejanbugarin (3667 in chips, $2 bounty) 
+Seat 8: Laupedersen06 (4777 in chips, $2 bounty) 
+rosa2067: posts the ante 8
+madalin_gfys: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Ivanmorosov: posts the ante 8
+ativann: posts the ante 8
+blackk_killer: posts the ante 8
+dejanbugarin: posts the ante 8
+Laupedersen06: posts the ante 8
+rosa2067: posts small blind 25
+madalin_gfys: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Ah]
+Kevin12345Mc: folds 
+Ivanmorosov: folds 
+ativann: folds 
+blackk_killer: raises 100 to 150
+dejanbugarin: folds 
+Laupedersen06: folds 
+rosa2067: folds 
+madalin_gfys: calls 100
+*** FLOP *** [3s Jd Kh]
+madalin_gfys: checks 
+blackk_killer: bets 128
+madalin_gfys: calls 128
+*** TURN *** [3s Jd Kh] [6h]
+madalin_gfys: checks 
+blackk_killer: bets 323
+madalin_gfys: raises 477 to 800
+blackk_killer: folds 
+Uncalled bet (477) returned to madalin_gfys
+madalin_gfys collected 1291 from pot
+*** SUMMARY ***
+Total pot 1291 | Rake 0 
+Board [3s Jd Kh 6h]
+Seat 1: rosa2067 (small blind) folded before Flop
+Seat 2: madalin_gfys (big blind) collected (1291)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Ivanmorosov folded before Flop (didn't bet)
+Seat 5: ativann folded before Flop (didn't bet)
+Seat 6: blackk_killer folded on the Turn
+Seat 7: dejanbugarin folded before Flop (didn't bet)
+Seat 8: Laupedersen06 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973317421: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 18:37:59 WET [2025/02/21 13:37:59 ET]
+Table '3860676572 90' 8-max Seat #1 is the button
+Seat 1: MYSTICAL-CALL (5000 in chips, $2 bounty) 
+Seat 2: Calvinesk16 (5297 in chips, $2 bounty) 
+Seat 3: Bastyishere (4656 in chips, $2 bounty) 
+Seat 4: ReapD (5814 in chips, $2 bounty) 
+Seat 5: Kevin12345Mc (4769 in chips, $2 bounty) 
+Seat 6: LuKKAAs_23 (5000 in chips, $2 bounty) 
+MYSTICAL-CALL: posts the ante 9
+Calvinesk16: posts the ante 9
+Bastyishere: posts the ante 9
+ReapD: posts the ante 9
+Kevin12345Mc: posts the ante 9
+LuKKAAs_23: posts the ante 9
+Calvinesk16: posts small blind 30
+Bastyishere: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 7c]
+Kevin12345Mc is disconnected 
+ReapD is disconnected 
+ReapD is connected 
+MiúdoMaravilha is disconnected 
+LuKKAAs_23 is disconnected 
+ReapD: raises 60 to 120
+Kevin12345Mc: folds 
+LuKKAAs_23: folds 
+MYSTICAL-CALL: folds 
+Calvinesk16: calls 90
+Bastyishere: folds 
+*** FLOP *** [4s 2h 3c]
+Calvinesk16: checks 
+ReapD: bets 180
+Calvinesk16: folds 
+Uncalled bet (180) returned to ReapD
+ReapD collected 354 from pot
+ReapD: doesn't show hand 
+*** SUMMARY ***
+Total pot 354 | Rake 0 
+Board [4s 2h 3c]
+Seat 1: MYSTICAL-CALL (button) folded before Flop (didn't bet)
+Seat 2: Calvinesk16 (small blind) folded on the Flop
+Seat 3: Bastyishere (big blind) folded before Flop
+Seat 4: ReapD collected (354)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: LuKKAAs_23 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973326263: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 18:38:31 WET [2025/02/21 13:38:31 ET]
+Table '3860676572 90' 8-max Seat #2 is the button
+Seat 1: MYSTICAL-CALL (4991 in chips, $2 bounty) 
+Seat 2: Calvinesk16 (5168 in chips, $2 bounty) 
+Seat 3: Bastyishere (4587 in chips, $2 bounty) 
+Seat 4: ReapD (6039 in chips, $2 bounty) 
+Seat 5: Kevin12345Mc (4760 in chips, $2 bounty) 
+Seat 6: LuKKAAs_23 (4991 in chips, $2 bounty) 
+Seat 7: MiúdoMaravilha (4984 in chips, $2 bounty) 
+Seat 8: melli270691 (5000 in chips, $2 bounty) 
+MYSTICAL-CALL: posts the ante 9
+Calvinesk16: posts the ante 9
+Bastyishere: posts the ante 9
+ReapD: posts the ante 9
+Kevin12345Mc: posts the ante 9
+LuKKAAs_23: posts the ante 9
+MiúdoMaravilha: posts the ante 9
+melli270691: posts the ante 9
+Bastyishere: posts small blind 30
+ReapD: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 9c]
+Kevin12345Mc: folds 
+LuKKAAs_23: folds 
+MiúdoMaravilha: folds 
+melli270691: folds 
+MYSTICAL-CALL: folds 
+Calvinesk16: raises 72 to 132
+Bastyishere: folds 
+ReapD: folds 
+Uncalled bet (72) returned to Calvinesk16
+Calvinesk16 collected 222 from pot
+Calvinesk16: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Seat 1: MYSTICAL-CALL folded before Flop (didn't bet)
+Seat 2: Calvinesk16 (button) collected (222)
+Seat 3: Bastyishere (small blind) folded before Flop
+Seat 4: ReapD (big blind) folded before Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: LuKKAAs_23 folded before Flop (didn't bet)
+Seat 7: MiúdoMaravilha folded before Flop (didn't bet)
+Seat 8: melli270691 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973332860: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 18:38:56 WET [2025/02/21 13:38:56 ET]
+Table '3860676572 90' 8-max Seat #3 is the button
+Seat 1: MYSTICAL-CALL (4982 in chips, $2 bounty) 
+Seat 2: Calvinesk16 (5321 in chips, $2 bounty) 
+Seat 3: Bastyishere (4548 in chips, $2 bounty) 
+Seat 4: ReapD (5970 in chips, $2 bounty) 
+Seat 5: Kevin12345Mc (4751 in chips, $2 bounty) 
+Seat 6: LuKKAAs_23 (4982 in chips, $2 bounty) 
+Seat 7: MiúdoMaravilha (4975 in chips, $2 bounty) 
+Seat 8: melli270691 (4991 in chips, $2 bounty) 
+MYSTICAL-CALL: posts the ante 9
+Calvinesk16: posts the ante 9
+Bastyishere: posts the ante 9
+ReapD: posts the ante 9
+Kevin12345Mc: posts the ante 9
+LuKKAAs_23: posts the ante 9
+MiúdoMaravilha: posts the ante 9
+melli270691: posts the ante 9
+ReapD: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 4d]
+LuKKAAs_23: folds 
+MiúdoMaravilha: folds 
+melli270691: folds 
+MYSTICAL-CALL: folds 
+Calvinesk16: folds 
+Bastyishere: folds 
+ReapD: folds 
+Uncalled bet (30) returned to Kevin12345Mc
+Kevin12345Mc collected 132 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 132 | Rake 0 
+Seat 1: MYSTICAL-CALL folded before Flop (didn't bet)
+Seat 2: Calvinesk16 folded before Flop (didn't bet)
+Seat 3: Bastyishere (button) folded before Flop (didn't bet)
+Seat 4: ReapD (small blind) folded before Flop
+Seat 5: Kevin12345Mc (big blind) collected (132)
+Seat 6: LuKKAAs_23 folded before Flop (didn't bet)
+Seat 7: MiúdoMaravilha folded before Flop (didn't bet)
+Seat 8: melli270691 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973339495: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 18:39:21 WET [2025/02/21 13:39:21 ET]
+Table '3860676572 90' 8-max Seat #4 is the button
+Seat 1: MYSTICAL-CALL (4973 in chips, $2 bounty) 
+Seat 2: Calvinesk16 (5312 in chips, $2 bounty) 
+Seat 3: Bastyishere (4539 in chips, $2 bounty) 
+Seat 4: ReapD (5931 in chips, $2 bounty) 
+Seat 5: Kevin12345Mc (4844 in chips, $2 bounty) 
+Seat 6: LuKKAAs_23 (4973 in chips, $2 bounty) 
+Seat 7: MiúdoMaravilha (4966 in chips, $2 bounty) 
+Seat 8: melli270691 (4982 in chips, $2 bounty) 
+MYSTICAL-CALL: posts the ante 9
+Calvinesk16: posts the ante 9
+Bastyishere: posts the ante 9
+ReapD: posts the ante 9
+Kevin12345Mc: posts the ante 9
+LuKKAAs_23: posts the ante 9
+MiúdoMaravilha: posts the ante 9
+melli270691: posts the ante 9
+Kevin12345Mc: posts small blind 30
+LuKKAAs_23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 2d]
+MiúdoMaravilha: folds 
+melli270691: folds 
+MYSTICAL-CALL: folds 
+Calvinesk16: folds 
+Bastyishere: folds 
+ReapD: folds 
+Kevin12345Mc: calls 30
+LuKKAAs_23: raises 150 to 210
+Kevin12345Mc: folds 
+Uncalled bet (150) returned to LuKKAAs_23
+LuKKAAs_23 collected 192 from pot
+LuKKAAs_23: doesn't show hand 
+*** SUMMARY ***
+Total pot 192 | Rake 0 
+Seat 1: MYSTICAL-CALL folded before Flop (didn't bet)
+Seat 2: Calvinesk16 folded before Flop (didn't bet)
+Seat 3: Bastyishere folded before Flop (didn't bet)
+Seat 4: ReapD (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) folded before Flop
+Seat 6: LuKKAAs_23 (big blind) collected (192)
+Seat 7: MiúdoMaravilha folded before Flop (didn't bet)
+Seat 8: melli270691 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973347800: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 18:39:52 WET [2025/02/21 13:39:52 ET]
+Table '3860676572 90' 8-max Seat #5 is the button
+Seat 1: MYSTICAL-CALL (4964 in chips, $2 bounty) 
+Seat 2: Calvinesk16 (5303 in chips, $2 bounty) 
+Seat 3: Bastyishere (4530 in chips, $2 bounty) 
+Seat 4: ReapD (5922 in chips, $2 bounty) 
+Seat 5: Kevin12345Mc (4775 in chips, $2 bounty) 
+Seat 6: LuKKAAs_23 (5096 in chips, $2 bounty) 
+Seat 7: MiúdoMaravilha (4957 in chips, $2 bounty) 
+Seat 8: melli270691 (4973 in chips, $2 bounty) 
+MYSTICAL-CALL: posts the ante 9
+Calvinesk16: posts the ante 9
+Bastyishere: posts the ante 9
+ReapD: posts the ante 9
+Kevin12345Mc: posts the ante 9
+LuKKAAs_23: posts the ante 9
+MiúdoMaravilha: posts the ante 9
+melli270691: posts the ante 9
+LuKKAAs_23: posts small blind 30
+MiúdoMaravilha: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd Ac]
+melli270691: folds 
+MYSTICAL-CALL: folds 
+Calvinesk16: folds 
+Bastyishere: folds 
+ReapD: folds 
+Kevin12345Mc: raises 78 to 138
+LuKKAAs_23: folds 
+MiúdoMaravilha: calls 78
+*** FLOP *** [5s 9h Kh]
+MiúdoMaravilha: checks 
+Kevin12345Mc: bets 125
+MiúdoMaravilha: folds 
+Uncalled bet (125) returned to Kevin12345Mc
+Kevin12345Mc collected 378 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 378 | Rake 0 
+Board [5s 9h Kh]
+Seat 1: MYSTICAL-CALL folded before Flop (didn't bet)
+Seat 2: Calvinesk16 folded before Flop (didn't bet)
+Seat 3: Bastyishere folded before Flop (didn't bet)
+Seat 4: ReapD folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (button) collected (378)
+Seat 6: LuKKAAs_23 (small blind) folded before Flop
+Seat 7: MiúdoMaravilha (big blind) folded on the Flop
+Seat 8: melli270691 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973359016: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 18:40:34 WET [2025/02/21 13:40:34 ET]
+Table '3860676572 90' 8-max Seat #6 is the button
+Seat 1: MYSTICAL-CALL (4955 in chips, $2 bounty) 
+Seat 2: Calvinesk16 (5294 in chips, $2 bounty) 
+Seat 3: Bastyishere (4521 in chips, $2 bounty) 
+Seat 4: ReapD (5913 in chips, $2 bounty) 
+Seat 5: Kevin12345Mc (5006 in chips, $2 bounty) 
+Seat 6: LuKKAAs_23 (5057 in chips, $2 bounty) 
+Seat 7: MiúdoMaravilha (4810 in chips, $2 bounty) 
+Seat 8: melli270691 (4964 in chips, $2 bounty) 
+MYSTICAL-CALL: posts the ante 9
+Calvinesk16: posts the ante 9
+Bastyishere: posts the ante 9
+ReapD: posts the ante 9
+Kevin12345Mc: posts the ante 9
+LuKKAAs_23: posts the ante 9
+MiúdoMaravilha: posts the ante 9
+melli270691: posts the ante 9
+MiúdoMaravilha: posts small blind 30
+melli270691: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 5c]
+MYSTICAL-CALL: raises 60 to 120
+Calvinesk16: calls 120
+Bastyishere: folds 
+ReapD: folds 
+Kevin12345Mc: folds 
+LuKKAAs_23: folds 
+MiúdoMaravilha: folds 
+melli270691: folds 
+*** FLOP *** [Ad 2h Js]
+MYSTICAL-CALL: bets 113
+Calvinesk16: folds 
+Uncalled bet (113) returned to MYSTICAL-CALL
+MYSTICAL-CALL collected 402 from pot
+*** SUMMARY ***
+Total pot 402 | Rake 0 
+Board [Ad 2h Js]
+Seat 1: MYSTICAL-CALL collected (402)
+Seat 2: Calvinesk16 folded on the Flop
+Seat 3: Bastyishere folded before Flop (didn't bet)
+Seat 4: ReapD folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: LuKKAAs_23 (button) folded before Flop (didn't bet)
+Seat 7: MiúdoMaravilha (small blind) folded before Flop
+Seat 8: melli270691 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254973367368: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 18:41:05 WET [2025/02/21 13:41:05 ET]
+Table '3860676572 90' 8-max Seat #7 is the button
+Seat 1: MYSTICAL-CALL (5228 in chips, $2 bounty) 
+Seat 2: Calvinesk16 (5165 in chips, $2 bounty) 
+Seat 3: Bastyishere (4512 in chips, $2 bounty) 
+Seat 4: ReapD (5904 in chips, $2 bounty) 
+Seat 5: Kevin12345Mc (4997 in chips, $2 bounty) 
+Seat 6: LuKKAAs_23 (5048 in chips, $2 bounty) 
+Seat 7: MiúdoMaravilha (4771 in chips, $2 bounty) 
+Seat 8: melli270691 (4895 in chips, $2 bounty) 
+MYSTICAL-CALL: posts the ante 9
+Calvinesk16: posts the ante 9
+Bastyishere: posts the ante 9
+ReapD: posts the ante 9
+Kevin12345Mc: posts the ante 9
+LuKKAAs_23: posts the ante 9
+MiúdoMaravilha: posts the ante 9
+melli270691: posts the ante 9
+melli270691: posts small blind 30
+MYSTICAL-CALL: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Ks]
+Calvinesk16: folds 
+Bastyishere: folds 
+ReapD: folds 
+Kevin12345Mc: folds 
+LuKKAAs_23: folds 
+MiúdoMaravilha: folds 
+melli270691: folds 
+Uncalled bet (30) returned to MYSTICAL-CALL
+MYSTICAL-CALL collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | Rake 0 
+Seat 1: MYSTICAL-CALL (big blind) collected (132)
+Seat 2: Calvinesk16 folded before Flop (didn't bet)
+Seat 3: Bastyishere folded before Flop (didn't bet)
+Seat 4: ReapD folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: LuKKAAs_23 folded before Flop (didn't bet)
+Seat 7: MiúdoMaravilha (button) folded before Flop (didn't bet)
+Seat 8: melli270691 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254973381945: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 18:42:00 WET [2025/02/21 13:42:00 ET]
+Table '3860676572 90' 8-max Seat #8 is the button
+Seat 1: MYSTICAL-CALL (5321 in chips, $2 bounty) 
+Seat 2: Calvinesk16 (5156 in chips, $2 bounty) 
+Seat 3: Bastyishere (4503 in chips, $2 bounty) 
+Seat 4: ReapD (5895 in chips, $2 bounty) 
+Seat 5: Kevin12345Mc (4988 in chips, $2 bounty) 
+Seat 6: LuKKAAs_23 (5039 in chips, $2 bounty) 
+Seat 7: MiúdoMaravilha (4762 in chips, $2 bounty) 
+Seat 8: melli270691 (4856 in chips, $2 bounty) 
+MYSTICAL-CALL: posts the ante 9
+Calvinesk16: posts the ante 9
+Bastyishere: posts the ante 9
+ReapD: posts the ante 9
+Kevin12345Mc: posts the ante 9
+LuKKAAs_23: posts the ante 9
+MiúdoMaravilha: posts the ante 9
+melli270691: posts the ante 9
+MYSTICAL-CALL: posts small blind 30
+Calvinesk16: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 6h]
+Bastyishere: folds 
+ReapD: folds 
+Kevin12345Mc: folds 
+LuKKAAs_23: raises 60 to 120
+MiúdoMaravilha: folds 
+melli270691: folds 
+MYSTICAL-CALL: folds 
+Calvinesk16: calls 60
+*** FLOP *** [As Qc Ad]
+Calvinesk16: checks 
+LuKKAAs_23: bets 60
+Calvinesk16: calls 60
+*** TURN *** [As Qc Ad] [Kd]
+Calvinesk16: bets 231
+LuKKAAs_23: calls 231
+*** RIVER *** [As Qc Ad Kd] [4d]
+Calvinesk16: bets 924
+LuKKAAs_23: raises 3695 to 4619 and is all-in
+Calvinesk16: calls 3695
+*** SHOW DOWN ***
+LuKKAAs_23: shows [Ah Qh] (a full house, Aces full of Queens)
+Calvinesk16: shows [Jc Td] (a straight, Ten to Ace)
+LuKKAAs_23 collected 10162 from pot
+*** SUMMARY ***
+Total pot 10162 | Rake 0 
+Board [As Qc Ad Kd 4d]
+Seat 1: MYSTICAL-CALL (small blind) folded before Flop
+Seat 2: Calvinesk16 (big blind) showed [Jc Td] and lost with a straight, Ten to Ace
+Seat 3: Bastyishere folded before Flop (didn't bet)
+Seat 4: ReapD folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: LuKKAAs_23 showed [Ah Qh] and won (10162) with a full house, Aces full of Queens
+Seat 7: MiúdoMaravilha folded before Flop (didn't bet)
+Seat 8: melli270691 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973403527: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 18:43:20 WET [2025/02/21 13:43:20 ET]
+Table '3860676572 90' 8-max Seat #1 is the button
+Seat 1: MYSTICAL-CALL (5282 in chips, $2 bounty) 
+Seat 2: Calvinesk16 (117 in chips, $2 bounty) 
+Seat 3: Bastyishere (4494 in chips, $2 bounty) 
+Seat 4: ReapD (5886 in chips, $2 bounty) 
+Seat 5: Kevin12345Mc (4979 in chips, $2 bounty) 
+Seat 6: LuKKAAs_23 (10162 in chips, $2 bounty) 
+Seat 7: MiúdoMaravilha (4753 in chips, $2 bounty) 
+Seat 8: melli270691 (4847 in chips, $2 bounty) 
+MYSTICAL-CALL: posts the ante 9
+Calvinesk16: posts the ante 9
+Bastyishere: posts the ante 9
+ReapD: posts the ante 9
+Kevin12345Mc: posts the ante 9
+LuKKAAs_23: posts the ante 9
+MiúdoMaravilha: posts the ante 9
+melli270691: posts the ante 9
+Calvinesk16: posts small blind 30
+Bastyishere: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 3c]
+ReapD: folds 
+Kevin12345Mc: folds 
+LuKKAAs_23: folds 
+MiúdoMaravilha: folds 
+melli270691: folds 
+MYSTICAL-CALL: raises 60 to 120
+Calvinesk16: calls 78 and is all-in
+Bastyishere: calls 60
+*** FLOP *** [4d As 3h]
+Bastyishere: checks 
+MYSTICAL-CALL: bets 210
+Bastyishere: calls 210
+*** TURN *** [4d As 3h] [Td]
+Bastyishere: checks 
+MYSTICAL-CALL: bets 630
+Bastyishere: calls 630
+*** RIVER *** [4d As 3h Td] [Tc]
+Bastyishere: checks 
+MYSTICAL-CALL: bets 4313 and is all-in
+Bastyishere: folds 
+Uncalled bet (4313) returned to MYSTICAL-CALL
+*** SHOW DOWN ***
+MYSTICAL-CALL: shows [5d Ad] (two pair, Aces and Tens)
+MYSTICAL-CALL collected 1704 from side pot
+Calvinesk16: shows [7c Ac] (two pair, Aces and Tens - Seven kicker)
+Calvinesk16 collected 396 from main pot
+*** SUMMARY ***
+Total pot 2100 Main pot 396. Side pot 1704. | Rake 0 
+Board [4d As 3h Td Tc]
+Seat 1: MYSTICAL-CALL (button) showed [5d Ad] and won (1704) with two pair, Aces and Tens
+Seat 2: Calvinesk16 (small blind) showed [7c Ac] and won (396) with two pair, Aces and Tens
+Seat 3: Bastyishere (big blind) folded on the River
+Seat 4: ReapD folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: LuKKAAs_23 folded before Flop (didn't bet)
+Seat 7: MiúdoMaravilha folded before Flop (didn't bet)
+Seat 8: melli270691 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973423622: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 18:44:36 WET [2025/02/21 13:44:36 ET]
+Table '3860676572 90' 8-max Seat #2 is the button
+Seat 1: MYSTICAL-CALL (6017 in chips, $2 bounty) 
+Seat 2: Calvinesk16 (396 in chips, $2 bounty) 
+Seat 3: Bastyishere (3525 in chips, $2 bounty) 
+Seat 4: ReapD (5877 in chips, $2 bounty) 
+Seat 5: Kevin12345Mc (4970 in chips, $2 bounty) 
+Seat 6: LuKKAAs_23 (10153 in chips, $2 bounty) 
+Seat 7: MiúdoMaravilha (4744 in chips, $2 bounty) 
+Seat 8: melli270691 (4838 in chips, $2 bounty) 
+MYSTICAL-CALL: posts the ante 9
+Calvinesk16: posts the ante 9
+Bastyishere: posts the ante 9
+ReapD: posts the ante 9
+Kevin12345Mc: posts the ante 9
+LuKKAAs_23: posts the ante 9
+MiúdoMaravilha: posts the ante 9
+melli270691: posts the ante 9
+Bastyishere: posts small blind 30
+ReapD: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Th]
+Kevin12345Mc: folds 
+LuKKAAs_23: folds 
+MiúdoMaravilha: folds 
+melli270691: folds 
+MYSTICAL-CALL: folds 
+Calvinesk16: raises 327 to 387 and is all-in
+Bastyishere: folds 
+ReapD: calls 327
+*** FLOP *** [2h 9d 3d]
+*** TURN *** [2h 9d 3d] [Qh]
+*** RIVER *** [2h 9d 3d Qh] [6c]
+*** SHOW DOWN ***
+ReapD: shows [8c Ah] (high card Ace)
+Calvinesk16: shows [Kc 7h] (high card King)
+ReapD collected 876 from pot
+ReapD wins $1 for eliminating Calvinesk16 and their own bounty increases by $1 to $3
+Calvinesk16 finished the tournament
+*** SUMMARY ***
+Total pot 876 | Rake 0 
+Board [2h 9d 3d Qh 6c]
+Seat 1: MYSTICAL-CALL folded before Flop (didn't bet)
+Seat 2: Calvinesk16 (button) showed [Kc 7h] and lost with high card King
+Seat 3: Bastyishere (small blind) folded before Flop
+Seat 4: ReapD (big blind) showed [8c Ah] and won (876) with high card Ace
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: LuKKAAs_23 folded before Flop (didn't bet)
+Seat 7: MiúdoMaravilha folded before Flop (didn't bet)
+Seat 8: melli270691 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973432203: Tournament #3860676572, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/21 18:45:09 WET [2025/02/21 13:45:09 ET]
+Table '3860676572 90' 8-max Seat #3 is the button
+Seat 1: MYSTICAL-CALL (6008 in chips, $2 bounty) 
+Seat 3: Bastyishere (3486 in chips, $2 bounty) 
+Seat 4: ReapD (6357 in chips, $3 bounty) 
+Seat 5: Kevin12345Mc (4961 in chips, $2 bounty) 
+Seat 6: LuKKAAs_23 (10144 in chips, $2 bounty) 
+Seat 7: MiúdoMaravilha (4735 in chips, $2 bounty) 
+Seat 8: melli270691 (4829 in chips, $2 bounty) 
+MYSTICAL-CALL: posts the ante 9
+Bastyishere: posts the ante 9
+ReapD: posts the ante 9
+Kevin12345Mc: posts the ante 9
+LuKKAAs_23: posts the ante 9
+MiúdoMaravilha: posts the ante 9
+melli270691: posts the ante 9
+ReapD: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Qs]
+BruPhi12 is disconnected 
+LuKKAAs_23: folds 
+MiúdoMaravilha: folds 
+melli270691: folds 
+MYSTICAL-CALL: folds 
+Bastyishere: folds 
+ReapD: calls 30
+Kevin12345Mc: raises 138 to 198
+ReapD: calls 138
+*** FLOP *** [Js 9d Ts]
+ReapD: bets 240
+Kevin12345Mc: raises 620 to 860
+ReapD: raises 5290 to 6150 and is all-in
+Kevin12345Mc: calls 3894 and is all-in
+Uncalled bet (1396) returned to ReapD
+*** TURN *** [Js 9d Ts] [Ah]
+*** RIVER *** [Js 9d Ts Ah] [6d]
+*** SHOW DOWN ***
+ReapD: shows [Qd 8d] (a straight, Eight to Queen)
+Kevin12345Mc: shows [Qc Qs] (a pair of Queens)
+ReapD collected 9967 from pot
+ReapD wins $1 for eliminating Kevin12345Mc and their own bounty increases by $1 to $4
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 9967 | Rake 0 
+Board [Js 9d Ts Ah 6d]
+Seat 1: MYSTICAL-CALL folded before Flop (didn't bet)
+Seat 3: Bastyishere (button) folded before Flop (didn't bet)
+Seat 4: ReapD (small blind) showed [Qd 8d] and won (9967) with a straight, Eight to Queen
+Seat 5: Kevin12345Mc (big blind) showed [Qc Qs] and lost with a pair of Queens
+Seat 6: LuKKAAs_23 folded before Flop (didn't bet)
+Seat 7: MiúdoMaravilha folded before Flop (didn't bet)
+Seat 8: melli270691 folded before Flop (didn't bet)
+
+
+

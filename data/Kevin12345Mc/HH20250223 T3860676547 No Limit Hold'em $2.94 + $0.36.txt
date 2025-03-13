@@ -1,0 +1,5548 @@
+﻿PokerStars Hand #255003576831: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level I (25/50) - 2025/02/23 16:32:58 WET [2025/02/23 11:32:58 ET]
+Table '3860676547 58' 8-max Seat #5 is the button
+Seat 1: Skriw (5526 in chips, $1.50 bounty) 
+Seat 2: marceloprj (4943 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (4893 in chips, $1.50 bounty) 
+Seat 4: makemyfuday (4693 in chips, $1.50 bounty) 
+Seat 5: vino1974 (6052 in chips, $1.50 bounty) 
+Seat 6: Tiago 281211 (4918 in chips, $1.50 bounty) 
+Seat 7: MyAngel1011 (5000 in chips, $1.50 bounty) 
+Seat 8: lemur4iks5 (4763 in chips, $1.50 bounty) 
+Skriw: posts the ante 8
+marceloprj: posts the ante 8
+Kevin12345Mc: posts the ante 8
+makemyfuday: posts the ante 8
+vino1974: posts the ante 8
+Tiago 281211: posts the ante 8
+MyAngel1011: posts the ante 8
+lemur4iks5: posts the ante 8
+Tiago 281211: posts small blind 25
+MyAngel1011: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 7s]
+Kevin12345Mc is disconnected 
+lemur4iks5: folds 
+Skriw: folds 
+marceloprj: raises 60 to 110
+Kevin12345Mc: folds 
+makemyfuday: folds 
+vino1974: folds 
+Tiago 281211: raises 240 to 350
+MyAngel1011: folds 
+marceloprj: calls 240
+*** FLOP *** [Js 7d 6d]
+Tiago 281211: bets 228
+marceloprj: calls 228
+*** TURN *** [Js 7d 6d] [Qh]
+Tiago 281211: bets 964
+marceloprj: calls 964
+*** RIVER *** [Js 7d 6d Qh] [Ts]
+Tiago 281211: bets 3368 and is all-in
+marceloprj: calls 3368
+*** SHOW DOWN ***
+Tiago 281211: shows [Ad Ac] (a pair of Aces)
+marceloprj: shows [Qd Ah] (a pair of Queens)
+Tiago 281211 collected 9934 from pot
+*** SUMMARY ***
+Total pot 9934 | Rake 0 
+Board [Js 7d 6d Qh Ts]
+Seat 1: Skriw folded before Flop (didn't bet)
+Seat 2: marceloprj showed [Qd Ah] and lost with a pair of Queens
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: makemyfuday folded before Flop (didn't bet)
+Seat 5: vino1974 (button) folded before Flop (didn't bet)
+Seat 6: Tiago 281211 (small blind) showed [Ad Ac] and won (9934) with a pair of Aces
+Seat 7: MyAngel1011 (big blind) folded before Flop
+Seat 8: lemur4iks5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003599702: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level I (25/50) - 2025/02/23 16:34:23 WET [2025/02/23 11:34:23 ET]
+Table '3860676547 58' 8-max Seat #6 is the button
+Seat 1: Skriw (5518 in chips, $1.50 bounty) 
+Seat 2: marceloprj (25 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (4885 in chips, $1.50 bounty) 
+Seat 4: makemyfuday (4685 in chips, $1.50 bounty) 
+Seat 5: vino1974 (6044 in chips, $1.50 bounty) 
+Seat 6: Tiago 281211 (9934 in chips, $1.50 bounty) 
+Seat 7: MyAngel1011 (4942 in chips, $1.50 bounty) 
+Seat 8: lemur4iks5 (4755 in chips, $1.50 bounty) 
+Skriw: posts the ante 8
+marceloprj: posts the ante 8
+Kevin12345Mc: posts the ante 8
+makemyfuday: posts the ante 8
+vino1974: posts the ante 8
+Tiago 281211: posts the ante 8
+MyAngel1011: posts the ante 8
+lemur4iks5: posts the ante 8
+MyAngel1011: posts small blind 25
+lemur4iks5: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 7s]
+Skriw: folds 
+marceloprj: calls 17 and is all-in
+Kevin12345Mc: folds 
+makemyfuday: raises 75 to 125
+vino1974: folds 
+Tiago 281211: folds 
+MyAngel1011: calls 100
+lemur4iks5: calls 75
+*** FLOP *** [5d Kd Qd]
+MyAngel1011: checks 
+lemur4iks5: checks 
+makemyfuday: checks 
+*** TURN *** [5d Kd Qd] [Ah]
+MyAngel1011: bets 160
+lemur4iks5: calls 160
+makemyfuday: calls 160
+*** RIVER *** [5d Kd Qd Ah] [9c]
+MyAngel1011: bets 655
+lemur4iks5: calls 655
+makemyfuday: folds 
+*** SHOW DOWN ***
+MyAngel1011: shows [Ad 3h] (a pair of Aces)
+lemur4iks5: shows [9d 5s] (two pair, Nines and Fives)
+lemur4iks5 collected 2114 from side pot
+marceloprj: mucks hand 
+lemur4iks5 collected 132 from main pot
+lemur4iks5 wins $0.75 for eliminating marceloprj and their own bounty increases by $0.75 to $2.25
+marceloprj finished the tournament
+*** SUMMARY ***
+Total pot 2246 Main pot 132. Side pot 2114. | Rake 0 
+Board [5d Kd Qd Ah 9c]
+Seat 1: Skriw folded before Flop (didn't bet)
+Seat 2: marceloprj mucked [4c Jc]
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: makemyfuday folded on the River
+Seat 5: vino1974 folded before Flop (didn't bet)
+Seat 6: Tiago 281211 (button) folded before Flop (didn't bet)
+Seat 7: MyAngel1011 (small blind) showed [Ad 3h] and lost with a pair of Aces
+Seat 8: lemur4iks5 (big blind) showed [9d 5s] and won (2246) with two pair, Nines and Fives
+
+
+
+PokerStars Hand #255003621373: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level I (25/50) - 2025/02/23 16:35:44 WET [2025/02/23 11:35:44 ET]
+Table '3860676547 58' 8-max Seat #7 is the button
+Seat 3: Kevin12345Mc (4877 in chips, $1.50 bounty) 
+Seat 4: makemyfuday (4392 in chips, $1.50 bounty) 
+Seat 5: vino1974 (6036 in chips, $1.50 bounty) 
+Seat 6: Tiago 281211 (9926 in chips, $1.50 bounty) 
+Seat 7: MyAngel1011 (3994 in chips, $1.50 bounty) 
+Seat 8: lemur4iks5 (6053 in chips, $2.25 bounty) 
+Kevin12345Mc: posts the ante 8
+makemyfuday: posts the ante 8
+vino1974: posts the ante 8
+Tiago 281211: posts the ante 8
+MyAngel1011: posts the ante 8
+lemur4iks5: posts the ante 8
+lemur4iks5: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 3c]
+Skybidybidy is disconnected 
+Melchase_1 is disconnected 
+makemyfuday: folds 
+vino1974: folds 
+Tiago 281211: folds 
+MyAngel1011: folds 
+lemur4iks5: folds 
+Uncalled bet (25) returned to Kevin12345Mc
+Kevin12345Mc collected 98 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 3: Kevin12345Mc (big blind) collected (98)
+Seat 4: makemyfuday folded before Flop (didn't bet)
+Seat 5: vino1974 folded before Flop (didn't bet)
+Seat 6: Tiago 281211 folded before Flop (didn't bet)
+Seat 7: MyAngel1011 (button) folded before Flop (didn't bet)
+Seat 8: lemur4iks5 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255003629642: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level I (25/50) - 2025/02/23 16:36:15 WET [2025/02/23 11:36:15 ET]
+Table '3860676547 58' 8-max Seat #8 is the button
+Seat 1: Skybidybidy (4869 in chips) out of hand (moved from another table into small blind)
+Seat 2: Melchase_1 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 3: Kevin12345Mc (4942 in chips, $1.50 bounty) 
+Seat 4: makemyfuday (4384 in chips, $1.50 bounty) 
+Seat 5: vino1974 (6028 in chips, $1.50 bounty) 
+Seat 6: Tiago 281211 (9918 in chips, $1.50 bounty) 
+Seat 7: MyAngel1011 (3986 in chips, $1.50 bounty) 
+Seat 8: lemur4iks5 (6020 in chips, $2.25 bounty) 
+Skybidybidy will be allowed to play after the button
+Melchase_1 will be allowed to play after the button
+Kevin12345Mc: posts the ante 8
+makemyfuday: posts the ante 8
+vino1974: posts the ante 8
+Tiago 281211: posts the ante 8
+MyAngel1011: posts the ante 8
+lemur4iks5: posts the ante 8
+Kevin12345Mc: posts small blind 25
+makemyfuday: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 2d]
+vino1974: folds 
+Tiago 281211: folds 
+MyAngel1011: folds 
+lemur4iks5: raises 55 to 105
+Kevin12345Mc: folds 
+makemyfuday: calls 55
+*** FLOP *** [Tc Qc 4h]
+makemyfuday: checks 
+lemur4iks5: bets 65
+makemyfuday: folds 
+Uncalled bet (65) returned to lemur4iks5
+lemur4iks5 collected 283 from pot
+lemur4iks5: doesn't show hand 
+*** SUMMARY ***
+Total pot 283 | Rake 0 
+Board [Tc Qc 4h]
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: makemyfuday (big blind) folded on the Flop
+Seat 5: vino1974 folded before Flop (didn't bet)
+Seat 6: Tiago 281211 folded before Flop (didn't bet)
+Seat 7: MyAngel1011 folded before Flop (didn't bet)
+Seat 8: lemur4iks5 (button) collected (283)
+
+
+
+PokerStars Hand #255003639967: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level I (25/50) - 2025/02/23 16:36:53 WET [2025/02/23 11:36:53 ET]
+Table '3860676547 58' 8-max Seat #3 is the button
+Seat 1: Skybidybidy (4869 in chips, $1.50 bounty) 
+Seat 2: Melchase_1 (5000 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (4909 in chips, $1.50 bounty) 
+Seat 4: makemyfuday (4271 in chips, $1.50 bounty) 
+Seat 5: vino1974 (6020 in chips, $1.50 bounty) 
+Seat 6: Tiago 281211 (9910 in chips, $1.50 bounty) 
+Seat 7: MyAngel1011 (3978 in chips, $1.50 bounty) 
+Seat 8: lemur4iks5 (6190 in chips, $2.25 bounty) 
+Skybidybidy: posts the ante 8
+Melchase_1: posts the ante 8
+Kevin12345Mc: posts the ante 8
+makemyfuday: posts the ante 8
+vino1974: posts the ante 8
+Tiago 281211: posts the ante 8
+MyAngel1011: posts the ante 8
+lemur4iks5: posts the ante 8
+makemyfuday: posts small blind 25
+vino1974: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 8s]
+Tiago 281211: folds 
+MyAngel1011: folds 
+lemur4iks5: folds 
+Skybidybidy: raises 50 to 100
+Melchase_1: folds 
+Kevin12345Mc: calls 100
+makemyfuday: folds 
+vino1974: calls 50
+*** FLOP *** [Kh 6s Td]
+vino1974: checks 
+Skybidybidy: checks 
+Kevin12345Mc: checks 
+*** TURN *** [Kh 6s Td] [Js]
+vino1974: checks 
+Skybidybidy: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Kh 6s Td Js] [Kc]
+vino1974: checks 
+Skybidybidy: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+vino1974: shows [4d Jc] (two pair, Kings and Jacks)
+Skybidybidy: mucks hand 
+Kevin12345Mc: mucks hand 
+vino1974 collected 389 from pot
+*** SUMMARY ***
+Total pot 389 | Rake 0 
+Board [Kh 6s Td Js Kc]
+Seat 1: Skybidybidy mucked [6c 5c]
+Seat 2: Melchase_1 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) mucked [7s 8s]
+Seat 4: makemyfuday (small blind) folded before Flop
+Seat 5: vino1974 (big blind) showed [4d Jc] and won (389) with two pair, Kings and Jacks
+Seat 6: Tiago 281211 folded before Flop (didn't bet)
+Seat 7: MyAngel1011 folded before Flop (didn't bet)
+Seat 8: lemur4iks5 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003663030: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:38:18 WET [2025/02/23 11:38:18 ET]
+Table '3860676547 58' 8-max Seat #4 is the button
+Seat 1: Skybidybidy (4761 in chips, $1.50 bounty) 
+Seat 2: Melchase_1 (4992 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (4801 in chips, $1.50 bounty) 
+Seat 4: makemyfuday (4238 in chips, $1.50 bounty) 
+Seat 5: vino1974 (6301 in chips, $1.50 bounty) 
+Seat 6: Tiago 281211 (9902 in chips, $1.50 bounty) 
+Seat 7: MyAngel1011 (3970 in chips, $1.50 bounty) 
+Skybidybidy: posts the ante 9
+Melchase_1: posts the ante 9
+Kevin12345Mc: posts the ante 9
+makemyfuday: posts the ante 9
+vino1974: posts the ante 9
+Tiago 281211: posts the ante 9
+MyAngel1011: posts the ante 9
+vino1974: posts small blind 30
+Tiago 281211: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Ad]
+sison76 is disconnected 
+MyAngel1011: folds 
+Skybidybidy: folds 
+Melchase_1: folds 
+Kevin12345Mc: raises 78 to 138
+makemyfuday: folds 
+vino1974: calls 108
+Tiago 281211: calls 78
+*** FLOP *** [As 7s Qh]
+vino1974: checks 
+Tiago 281211: checks 
+Kevin12345Mc: bets 157
+vino1974: folds 
+Tiago 281211: folds 
+Uncalled bet (157) returned to Kevin12345Mc
+Kevin12345Mc collected 477 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 477 | Rake 0 
+Board [As 7s Qh]
+Seat 1: Skybidybidy folded before Flop (didn't bet)
+Seat 2: Melchase_1 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc collected (477)
+Seat 4: makemyfuday (button) folded before Flop (didn't bet)
+Seat 5: vino1974 (small blind) folded on the Flop
+Seat 6: Tiago 281211 (big blind) folded on the Flop
+Seat 7: MyAngel1011 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003681511: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:39:26 WET [2025/02/23 11:39:26 ET]
+Table '3860676547 58' 8-max Seat #5 is the button
+Seat 1: Skybidybidy (4752 in chips, $1.50 bounty) 
+Seat 2: Melchase_1 (4983 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (5131 in chips, $1.50 bounty) 
+Seat 4: makemyfuday (4229 in chips, $1.50 bounty) 
+Seat 5: vino1974 (6154 in chips, $1.50 bounty) 
+Seat 6: Tiago 281211 (9755 in chips, $1.50 bounty) 
+Seat 7: MyAngel1011 (3961 in chips, $1.50 bounty) 
+Seat 8: sison76 (5000 in chips, $1.50 bounty) 
+Skybidybidy: posts the ante 9
+Melchase_1: posts the ante 9
+Kevin12345Mc: posts the ante 9
+makemyfuday: posts the ante 9
+vino1974: posts the ante 9
+Tiago 281211: posts the ante 9
+MyAngel1011: posts the ante 9
+sison76: posts the ante 9
+Tiago 281211: posts small blind 30
+MyAngel1011: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 5d]
+sison76: folds 
+Skybidybidy: raises 60 to 120
+Melchase_1: folds 
+Kevin12345Mc: folds 
+makemyfuday: calls 120
+vino1974: folds 
+Tiago 281211: raises 360 to 480
+MyAngel1011: folds 
+Skybidybidy: calls 360
+makemyfuday: calls 360
+*** FLOP *** [Tc Th 2s]
+Tiago 281211: bets 440
+Skybidybidy: folds 
+makemyfuday: calls 440
+*** TURN *** [Tc Th 2s] [Jc]
+Tiago 281211: checks 
+makemyfuday: bets 809
+Tiago 281211: raises 8017 to 8826 and is all-in
+makemyfuday: calls 2491 and is all-in
+Uncalled bet (5526) returned to Tiago 281211
+*** RIVER *** [Tc Th 2s Jc] [6d]
+*** SHOW DOWN ***
+Tiago 281211: shows [Qh Qs] (two pair, Queens and Tens)
+makemyfuday: shows [Jh Ah] (two pair, Jacks and Tens)
+Tiago 281211 collected 9052 from pot
+Tiago 281211 wins $0.75 for eliminating makemyfuday and their own bounty increases by $0.75 to $2.25
+makemyfuday finished the tournament
+*** SUMMARY ***
+Total pot 9052 | Rake 0 
+Board [Tc Th 2s Jc 6d]
+Seat 1: Skybidybidy folded on the Flop
+Seat 2: Melchase_1 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: makemyfuday showed [Jh Ah] and lost with two pair, Jacks and Tens
+Seat 5: vino1974 (button) folded before Flop (didn't bet)
+Seat 6: Tiago 281211 (small blind) showed [Qh Qs] and won (9052) with two pair, Queens and Tens
+Seat 7: MyAngel1011 (big blind) folded before Flop
+Seat 8: sison76 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003708895: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:41:08 WET [2025/02/23 11:41:08 ET]
+Table '3860676547 58' 8-max Seat #6 is the button
+Seat 1: Skybidybidy (4263 in chips, $1.50 bounty) 
+Seat 2: Melchase_1 (4974 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (5122 in chips, $1.50 bounty) 
+Seat 5: vino1974 (6145 in chips, $1.50 bounty) 
+Seat 6: Tiago 281211 (14578 in chips, $2.25 bounty) 
+Seat 7: MyAngel1011 (3892 in chips, $1.50 bounty) 
+Seat 8: sison76 (4991 in chips, $1.50 bounty) 
+Skybidybidy: posts the ante 9
+Melchase_1: posts the ante 9
+Kevin12345Mc: posts the ante 9
+vino1974: posts the ante 9
+Tiago 281211: posts the ante 9
+MyAngel1011: posts the ante 9
+sison76: posts the ante 9
+MyAngel1011: posts small blind 30
+sison76: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 7h]
+Skybidybidy: raises 60 to 120
+1313SaTaN1313 is disconnected 
+Melchase_1: folds 
+Kevin12345Mc: folds 
+vino1974: folds 
+Tiago 281211: folds 
+MyAngel1011: raises 300 to 420
+sison76: folds 
+Skybidybidy: calls 300
+*** FLOP *** [Ks Jc Kc]
+MyAngel1011: bets 241
+Skybidybidy: raises 361 to 602
+MyAngel1011: calls 361
+*** TURN *** [Ks Jc Kc] [Js]
+MyAngel1011: checks 
+Skybidybidy: bets 823
+MyAngel1011: raises 2038 to 2861 and is all-in
+Skybidybidy: folds 
+Uncalled bet (2038) returned to MyAngel1011
+MyAngel1011 collected 3813 from pot
+MyAngel1011: doesn't show hand 
+*** SUMMARY ***
+Total pot 3813 | Rake 0 
+Board [Ks Jc Kc Js]
+Seat 1: Skybidybidy folded on the Turn
+Seat 2: Melchase_1 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: vino1974 folded before Flop (didn't bet)
+Seat 6: Tiago 281211 (button) folded before Flop (didn't bet)
+Seat 7: MyAngel1011 (small blind) collected (3813)
+Seat 8: sison76 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255003738495: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:42:57 WET [2025/02/23 11:42:57 ET]
+Table '3860676547 58' 8-max Seat #7 is the button
+Seat 1: Skybidybidy (2409 in chips, $1.50 bounty) 
+Seat 2: Melchase_1 (4965 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (5113 in chips, $1.50 bounty) 
+Seat 4: 1313SaTaN1313 (5000 in chips, $1.50 bounty) 
+Seat 5: vino1974 (6136 in chips, $1.50 bounty) 
+Seat 6: Tiago 281211 (14569 in chips, $2.25 bounty) 
+Seat 7: MyAngel1011 (5851 in chips, $1.50 bounty) 
+Seat 8: sison76 (4922 in chips, $1.50 bounty) 
+Skybidybidy: posts the ante 9
+Melchase_1: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1313SaTaN1313: posts the ante 9
+vino1974: posts the ante 9
+Tiago 281211: posts the ante 9
+MyAngel1011: posts the ante 9
+sison76: posts the ante 9
+sison76: posts small blind 30
+Skybidybidy: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Qc]
+Melchase_1: raises 120 to 180
+Kevin12345Mc: calls 180
+1313SaTaN1313: folds 
+vino1974: calls 180
+Tiago 281211: folds 
+MyAngel1011: folds 
+sison76: folds 
+Skybidybidy: folds 
+*** FLOP *** [5h 3d 2s]
+Melchase_1: bets 702
+Kevin12345Mc: folds 
+vino1974: folds 
+Uncalled bet (702) returned to Melchase_1
+Melchase_1 collected 702 from pot
+Melchase_1: doesn't show hand 
+*** SUMMARY ***
+Total pot 702 | Rake 0 
+Board [5h 3d 2s]
+Seat 1: Skybidybidy (big blind) folded before Flop
+Seat 2: Melchase_1 collected (702)
+Seat 3: Kevin12345Mc folded on the Flop
+Seat 4: 1313SaTaN1313 folded before Flop (didn't bet)
+Seat 5: vino1974 folded on the Flop
+Seat 6: Tiago 281211 folded before Flop (didn't bet)
+Seat 7: MyAngel1011 (button) folded before Flop (didn't bet)
+Seat 8: sison76 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255003756422: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:44:04 WET [2025/02/23 11:44:04 ET]
+Table '3860676547 58' 8-max Seat #8 is the button
+Seat 1: Skybidybidy (2340 in chips, $1.50 bounty) 
+Seat 2: Melchase_1 (5478 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (4924 in chips, $1.50 bounty) 
+Seat 4: 1313SaTaN1313 (4991 in chips, $1.50 bounty) 
+Seat 5: vino1974 (5947 in chips, $1.50 bounty) 
+Seat 6: Tiago 281211 (14560 in chips, $2.25 bounty) 
+Seat 7: MyAngel1011 (5842 in chips, $1.50 bounty) 
+Seat 8: sison76 (4883 in chips, $1.50 bounty) 
+Skybidybidy: posts the ante 9
+Melchase_1: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1313SaTaN1313: posts the ante 9
+vino1974: posts the ante 9
+Tiago 281211: posts the ante 9
+MyAngel1011: posts the ante 9
+sison76: posts the ante 9
+Skybidybidy: posts small blind 30
+Melchase_1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 5h]
+Kevin12345Mc: folds 
+1313SaTaN1313: folds 
+vino1974: folds 
+Tiago 281211: folds 
+MyAngel1011: raises 72 to 132
+sison76: calls 132
+Skybidybidy: folds 
+Melchase_1: calls 72
+*** FLOP *** [Th 4h 2h]
+Melchase_1: checks 
+MyAngel1011: bets 125
+sison76: folds 
+Melchase_1: folds 
+Uncalled bet (125) returned to MyAngel1011
+MyAngel1011 collected 498 from pot
+*** SUMMARY ***
+Total pot 498 | Rake 0 
+Board [Th 4h 2h]
+Seat 1: Skybidybidy (small blind) folded before Flop
+Seat 2: Melchase_1 (big blind) folded on the Flop
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: 1313SaTaN1313 folded before Flop (didn't bet)
+Seat 5: vino1974 folded before Flop (didn't bet)
+Seat 6: Tiago 281211 folded before Flop (didn't bet)
+Seat 7: MyAngel1011 collected (498)
+Seat 8: sison76 (button) folded on the Flop
+
+
+
+PokerStars Hand #255003769739: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:44:53 WET [2025/02/23 11:44:53 ET]
+Table '3860676547 146' 8-max Seat #1 is the button
+Seat 1: mrocco93 (4973 in chips, $1.50 bounty) 
+Seat 2: skrivnost85 (6081 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (4915 in chips, $1.50 bounty) 
+Seat 4: denyels31 (5000 in chips, $1.50 bounty) 
+Seat 5: Ludn34 (4573 in chips, $1.50 bounty) 
+mrocco93: posts the ante 9
+skrivnost85: posts the ante 9
+Kevin12345Mc: posts the ante 9
+denyels31: posts the ante 9
+Ludn34: posts the ante 9
+skrivnost85: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 3c]
+Ludn34 is disconnected 
+mrocco93 is disconnected 
+oldgit13 is disconnected 
+denyels31: folds 
+Ludn34: folds 
+mrocco93: folds 
+rooftopallen is disconnected 
+skrivnost85: calls 30
+Kevin12345Mc: checks 
+*** FLOP *** [8h 5c 3d]
+skrivnost85: checks 
+Kevin12345Mc: bets 109
+skrivnost85: folds 
+Uncalled bet (109) returned to Kevin12345Mc
+Kevin12345Mc collected 165 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Board [8h 5c 3d]
+Seat 1: mrocco93 (button) folded before Flop (didn't bet)
+Seat 2: skrivnost85 (small blind) folded on the Flop
+Seat 3: Kevin12345Mc (big blind) collected (165)
+Seat 4: denyels31 folded before Flop (didn't bet)
+Seat 5: Ludn34 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003788393: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:46:01 WET [2025/02/23 11:46:01 ET]
+Table '3860676547 146' 8-max Seat #2 is the button
+Seat 1: mrocco93 (4964 in chips, $1.50 bounty) 
+Seat 2: skrivnost85 (6012 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (5011 in chips, $1.50 bounty) 
+Seat 4: denyels31 (4991 in chips, $1.50 bounty) 
+Seat 5: Ludn34 (4564 in chips, $1.50 bounty) 
+Seat 6: LFelipe_34 (3296 in chips, $1.50 bounty) 
+Seat 7: oldgit13 (4780 in chips, $1.50 bounty) 
+Seat 8: rooftopallen (5000 in chips, $1.50 bounty) 
+mrocco93: posts the ante 11
+skrivnost85: posts the ante 11
+Kevin12345Mc: posts the ante 11
+denyels31: posts the ante 11
+Ludn34: posts the ante 11
+LFelipe_34: posts the ante 11
+oldgit13: posts the ante 11
+rooftopallen: posts the ante 11
+Kevin12345Mc: posts small blind 35
+denyels31: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 7h]
+Ludn34: folds 
+LFelipe_34: folds 
+oldgit13: folds 
+rooftopallen: calls 70
+mrocco93: folds 
+skrivnost85: folds 
+Kevin12345Mc: folds 
+denyels31: checks 
+*** FLOP *** [Qh Qd 7d]
+Ludn34 is disconnected 
+denyels31: checks 
+rooftopallen: checks 
+*** TURN *** [Qh Qd 7d] [Kh]
+denyels31: checks 
+rooftopallen: bets 140
+denyels31: folds 
+Uncalled bet (140) returned to rooftopallen
+rooftopallen collected 263 from pot
+rooftopallen: doesn't show hand 
+*** SUMMARY ***
+Total pot 263 | Rake 0 
+Board [Qh Qd 7d Kh]
+Seat 1: mrocco93 folded before Flop (didn't bet)
+Seat 2: skrivnost85 (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: denyels31 (big blind) folded on the Turn
+Seat 5: Ludn34 folded before Flop (didn't bet)
+Seat 6: LFelipe_34 folded before Flop (didn't bet)
+Seat 7: oldgit13 folded before Flop (didn't bet)
+Seat 8: rooftopallen collected (263)
+
+
+
+PokerStars Hand #255003799113: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:46:41 WET [2025/02/23 11:46:41 ET]
+Table '3860676547 146' 8-max Seat #3 is the button
+Seat 1: mrocco93 (4953 in chips, $1.50 bounty) 
+Seat 2: skrivnost85 (6001 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (4965 in chips, $1.50 bounty) 
+Seat 4: denyels31 (4910 in chips, $1.50 bounty) 
+Seat 5: Ludn34 (4553 in chips, $1.50 bounty) 
+Seat 6: LFelipe_34 (3285 in chips, $1.50 bounty) 
+Seat 7: oldgit13 (4769 in chips, $1.50 bounty) 
+Seat 8: rooftopallen (5182 in chips, $1.50 bounty) 
+mrocco93: posts the ante 11
+skrivnost85: posts the ante 11
+Kevin12345Mc: posts the ante 11
+denyels31: posts the ante 11
+Ludn34: posts the ante 11
+LFelipe_34: posts the ante 11
+oldgit13: posts the ante 11
+rooftopallen: posts the ante 11
+denyels31: posts small blind 35
+Ludn34: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 8h]
+LFelipe_34: folds 
+oldgit13: folds 
+rooftopallen: folds 
+mrocco93: folds 
+skrivnost85: raises 70 to 140
+Kevin12345Mc: calls 140
+denyels31: calls 105
+Ludn34: folds 
+*** FLOP *** [As Td 9c]
+denyels31: checks 
+skrivnost85: checks 
+Kevin12345Mc: checks 
+*** TURN *** [As Td 9c] [Qc]
+denyels31: checks 
+skrivnost85: checks 
+Kevin12345Mc: bets 289
+denyels31: folds 
+skrivnost85: folds 
+Uncalled bet (289) returned to Kevin12345Mc
+Kevin12345Mc collected 578 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 578 | Rake 0 
+Board [As Td 9c Qc]
+Seat 1: mrocco93 folded before Flop (didn't bet)
+Seat 2: skrivnost85 folded on the Turn
+Seat 3: Kevin12345Mc (button) collected (578)
+Seat 4: denyels31 (small blind) folded on the Turn
+Seat 5: Ludn34 (big blind) folded before Flop
+Seat 6: LFelipe_34 folded before Flop (didn't bet)
+Seat 7: oldgit13 folded before Flop (didn't bet)
+Seat 8: rooftopallen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003813144: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:47:32 WET [2025/02/23 11:47:32 ET]
+Table '3860676547 146' 8-max Seat #4 is the button
+Seat 1: mrocco93 (4942 in chips, $1.50 bounty) 
+Seat 2: skrivnost85 (5850 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (5392 in chips, $1.50 bounty) 
+Seat 4: denyels31 (4759 in chips, $1.50 bounty) 
+Seat 5: Ludn34 (4472 in chips, $1.50 bounty) 
+Seat 6: LFelipe_34 (3274 in chips, $1.50 bounty) 
+Seat 7: oldgit13 (4758 in chips, $1.50 bounty) 
+Seat 8: rooftopallen (5171 in chips, $1.50 bounty) 
+mrocco93: posts the ante 11
+skrivnost85: posts the ante 11
+Kevin12345Mc: posts the ante 11
+denyels31: posts the ante 11
+Ludn34: posts the ante 11
+LFelipe_34: posts the ante 11
+oldgit13: posts the ante 11
+rooftopallen: posts the ante 11
+Ludn34: posts small blind 35
+LFelipe_34: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Kd]
+oldgit13: folds 
+rooftopallen: folds 
+mrocco93: raises 70 to 140
+skrivnost85: folds 
+Kevin12345Mc: calls 140
+denyels31: calls 140
+Ludn34: calls 105
+LFelipe_34: folds 
+*** FLOP *** [4d 7d 8c]
+Ludn34: checks 
+mrocco93: bets 140
+Kevin12345Mc: folds 
+denyels31: folds 
+Ludn34: calls 140
+*** TURN *** [4d 7d 8c] [7s]
+Ludn34: checks 
+mrocco93: checks 
+*** RIVER *** [4d 7d 8c 7s] [9s]
+Ludn34: bets 980
+mrocco93: folds 
+Uncalled bet (980) returned to Ludn34
+Ludn34 collected 998 from pot
+Ludn34: doesn't show hand 
+*** SUMMARY ***
+Total pot 998 | Rake 0 
+Board [4d 7d 8c 7s 9s]
+Seat 1: mrocco93 folded on the River
+Seat 2: skrivnost85 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded on the Flop
+Seat 4: denyels31 (button) folded on the Flop
+Seat 5: Ludn34 (small blind) collected (998)
+Seat 6: LFelipe_34 (big blind) folded before Flop
+Seat 7: oldgit13 folded before Flop (didn't bet)
+Seat 8: rooftopallen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003831041: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:48:38 WET [2025/02/23 11:48:38 ET]
+Table '3860676547 146' 8-max Seat #5 is the button
+Seat 1: mrocco93 (4651 in chips, $1.50 bounty) 
+Seat 2: skrivnost85 (5839 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (5241 in chips, $1.50 bounty) 
+Seat 4: denyels31 (4608 in chips, $1.50 bounty) 
+Seat 5: Ludn34 (5179 in chips, $1.50 bounty) 
+Seat 6: LFelipe_34 (3193 in chips, $1.50 bounty) 
+Seat 7: oldgit13 (4747 in chips, $1.50 bounty) 
+Seat 8: rooftopallen (5160 in chips, $1.50 bounty) 
+mrocco93: posts the ante 11
+skrivnost85: posts the ante 11
+Kevin12345Mc: posts the ante 11
+denyels31: posts the ante 11
+Ludn34: posts the ante 11
+LFelipe_34: posts the ante 11
+oldgit13: posts the ante 11
+rooftopallen: posts the ante 11
+LFelipe_34: posts small blind 35
+oldgit13: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd Th]
+rooftopallen: folds 
+mrocco93: folds 
+skrivnost85: folds 
+Kevin12345Mc: folds 
+denyels31: folds 
+Ludn34: folds 
+LFelipe_34: calls 35
+oldgit13: checks 
+*** FLOP *** [Jh 5h 9s]
+LFelipe_34: bets 70
+oldgit13: folds 
+Uncalled bet (70) returned to LFelipe_34
+LFelipe_34 collected 228 from pot
+LFelipe_34: doesn't show hand 
+*** SUMMARY ***
+Total pot 228 | Rake 0 
+Board [Jh 5h 9s]
+Seat 1: mrocco93 folded before Flop (didn't bet)
+Seat 2: skrivnost85 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: denyels31 folded before Flop (didn't bet)
+Seat 5: Ludn34 (button) folded before Flop (didn't bet)
+Seat 6: LFelipe_34 (small blind) collected (228)
+Seat 7: oldgit13 (big blind) folded on the Flop
+Seat 8: rooftopallen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003840535: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:49:12 WET [2025/02/23 11:49:12 ET]
+Table '3860676547 146' 8-max Seat #6 is the button
+Seat 1: mrocco93 (4640 in chips, $1.50 bounty) 
+Seat 2: skrivnost85 (5828 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (5230 in chips, $1.50 bounty) 
+Seat 4: denyels31 (4597 in chips, $1.50 bounty) 
+Seat 5: Ludn34 (5168 in chips, $1.50 bounty) 
+Seat 6: LFelipe_34 (3340 in chips, $1.50 bounty) 
+Seat 7: oldgit13 (4666 in chips, $1.50 bounty) 
+Seat 8: rooftopallen (5149 in chips, $1.50 bounty) 
+mrocco93: posts the ante 11
+skrivnost85: posts the ante 11
+Kevin12345Mc: posts the ante 11
+denyels31: posts the ante 11
+Ludn34: posts the ante 11
+LFelipe_34: posts the ante 11
+oldgit13: posts the ante 11
+rooftopallen: posts the ante 11
+oldgit13: posts small blind 35
+rooftopallen: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 6h]
+mrocco93: folds 
+skrivnost85: folds 
+Kevin12345Mc: folds 
+denyels31: folds 
+Ludn34 is disconnected 
+Ludn34 is connected 
+Ludn34 is connected 
+Ludn34: folds 
+LFelipe_34: folds 
+oldgit13: folds 
+Uncalled bet (35) returned to rooftopallen
+rooftopallen collected 158 from pot
+*** SUMMARY ***
+Total pot 158 | Rake 0 
+Seat 1: mrocco93 folded before Flop (didn't bet)
+Seat 2: skrivnost85 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: denyels31 folded before Flop (didn't bet)
+Seat 5: Ludn34 folded before Flop (didn't bet)
+Seat 6: LFelipe_34 (button) folded before Flop (didn't bet)
+Seat 7: oldgit13 (small blind) folded before Flop
+Seat 8: rooftopallen (big blind) collected (158)
+
+
+
+PokerStars Hand #255003851590: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:49:53 WET [2025/02/23 11:49:53 ET]
+Table '3860676547 146' 8-max Seat #7 is the button
+Seat 1: mrocco93 (4629 in chips, $1.50 bounty) 
+Seat 2: skrivnost85 (5817 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (5219 in chips, $1.50 bounty) 
+Seat 4: denyels31 (4586 in chips, $1.50 bounty) 
+Seat 5: Ludn34 (5157 in chips, $1.50 bounty) 
+Seat 6: LFelipe_34 (3329 in chips, $1.50 bounty) 
+Seat 7: oldgit13 (4620 in chips, $1.50 bounty) 
+Seat 8: rooftopallen (5261 in chips, $1.50 bounty) 
+mrocco93: posts the ante 11
+skrivnost85: posts the ante 11
+Kevin12345Mc: posts the ante 11
+denyels31: posts the ante 11
+Ludn34: posts the ante 11
+LFelipe_34: posts the ante 11
+oldgit13: posts the ante 11
+rooftopallen: posts the ante 11
+rooftopallen: posts small blind 35
+mrocco93: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Qh]
+skrivnost85: raises 70 to 140
+Kevin12345Mc: folds 
+denyels31: raises 4435 to 4575 and is all-in
+Ludn34: folds 
+LFelipe_34: folds 
+oldgit13: folds 
+rooftopallen: folds 
+mrocco93: folds 
+skrivnost85: folds 
+Uncalled bet (4435) returned to denyels31
+denyels31 collected 473 from pot
+*** SUMMARY ***
+Total pot 473 | Rake 0 
+Seat 1: mrocco93 (big blind) folded before Flop
+Seat 2: skrivnost85 folded before Flop
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: denyels31 collected (473)
+Seat 5: Ludn34 folded before Flop (didn't bet)
+Seat 6: LFelipe_34 folded before Flop (didn't bet)
+Seat 7: oldgit13 (button) folded before Flop (didn't bet)
+Seat 8: rooftopallen (small blind) folded before Flop
+
+
+
+PokerStars Hand #255003858059: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:50:16 WET [2025/02/23 11:50:16 ET]
+Table '3860676547 146' 8-max Seat #8 is the button
+Seat 1: mrocco93 (4548 in chips, $1.50 bounty) 
+Seat 2: skrivnost85 (5666 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (5208 in chips, $1.50 bounty) 
+Seat 4: denyels31 (4908 in chips, $1.50 bounty) 
+Seat 5: Ludn34 (5146 in chips, $1.50 bounty) 
+Seat 6: LFelipe_34 (3318 in chips, $1.50 bounty) 
+Seat 7: oldgit13 (4609 in chips, $1.50 bounty) 
+Seat 8: rooftopallen (5215 in chips, $1.50 bounty) 
+mrocco93: posts the ante 11
+skrivnost85: posts the ante 11
+Kevin12345Mc: posts the ante 11
+denyels31: posts the ante 11
+Ludn34: posts the ante 11
+LFelipe_34: posts the ante 11
+oldgit13: posts the ante 11
+rooftopallen: posts the ante 11
+mrocco93: posts small blind 35
+skrivnost85: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 7h]
+Kevin12345Mc: folds 
+denyels31: raises 263 to 333
+Ludn34: folds 
+LFelipe_34: folds 
+oldgit13: folds 
+rooftopallen: folds 
+mrocco93: folds 
+skrivnost85: calls 263
+*** FLOP *** [9s 9d 2h]
+skrivnost85: checks 
+denyels31: bets 789
+skrivnost85: folds 
+Uncalled bet (789) returned to denyels31
+denyels31 collected 789 from pot
+*** SUMMARY ***
+Total pot 789 | Rake 0 
+Board [9s 9d 2h]
+Seat 1: mrocco93 (small blind) folded before Flop
+Seat 2: skrivnost85 (big blind) folded on the Flop
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: denyels31 collected (789)
+Seat 5: Ludn34 folded before Flop (didn't bet)
+Seat 6: LFelipe_34 folded before Flop (didn't bet)
+Seat 7: oldgit13 folded before Flop (didn't bet)
+Seat 8: rooftopallen (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003867514: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:50:51 WET [2025/02/23 11:50:51 ET]
+Table '3860676547 146' 8-max Seat #1 is the button
+Seat 1: mrocco93 (4502 in chips, $1.50 bounty) 
+Seat 2: skrivnost85 (5322 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (5197 in chips, $1.50 bounty) 
+Seat 4: denyels31 (5353 in chips, $1.50 bounty) 
+Seat 5: Ludn34 (5135 in chips, $1.50 bounty) 
+Seat 6: LFelipe_34 (3307 in chips, $1.50 bounty) 
+Seat 7: oldgit13 (4598 in chips, $1.50 bounty) 
+Seat 8: rooftopallen (5204 in chips, $1.50 bounty) 
+mrocco93: posts the ante 11
+skrivnost85: posts the ante 11
+Kevin12345Mc: posts the ante 11
+denyels31: posts the ante 11
+Ludn34: posts the ante 11
+LFelipe_34: posts the ante 11
+oldgit13: posts the ante 11
+rooftopallen: posts the ante 11
+skrivnost85: posts small blind 35
+Kevin12345Mc: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 3c]
+denyels31: folds 
+Ludn34: folds 
+LFelipe_34: raises 70 to 140
+oldgit13: folds 
+rooftopallen is disconnected 
+rooftopallen is connected 
+rooftopallen is connected 
+rooftopallen: folds 
+mrocco93: folds 
+skrivnost85: folds 
+Kevin12345Mc: calls 70
+*** FLOP *** [Ks 7d 8c]
+Kevin12345Mc: checks 
+LFelipe_34: bets 101
+Kevin12345Mc: calls 101
+*** TURN *** [Ks 7d 8c] [Td]
+Kevin12345Mc: checks 
+LFelipe_34: bets 303
+Kevin12345Mc: calls 303
+*** RIVER *** [Ks 7d 8c Td] [As]
+Kevin12345Mc: checks 
+LFelipe_34: bets 735
+Kevin12345Mc: folds 
+Uncalled bet (735) returned to LFelipe_34
+LFelipe_34 collected 1211 from pot
+LFelipe_34: doesn't show hand 
+*** SUMMARY ***
+Total pot 1211 | Rake 0 
+Board [Ks 7d 8c Td As]
+Seat 1: mrocco93 (button) folded before Flop (didn't bet)
+Seat 2: skrivnost85 (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded on the River
+Seat 4: denyels31 folded before Flop (didn't bet)
+Seat 5: Ludn34 folded before Flop (didn't bet)
+Seat 6: LFelipe_34 collected (1211)
+Seat 7: oldgit13 folded before Flop (didn't bet)
+Seat 8: rooftopallen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003899575: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:52:49 WET [2025/02/23 11:52:49 ET]
+Table '3860676547 146' 8-max Seat #2 is the button
+Seat 1: mrocco93 (4491 in chips, $1.50 bounty) 
+Seat 2: skrivnost85 (5276 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (4642 in chips, $1.50 bounty) 
+Seat 4: denyels31 (5342 in chips, $1.50 bounty) 
+Seat 5: Ludn34 (5124 in chips, $1.50 bounty) 
+Seat 6: LFelipe_34 (3963 in chips, $1.50 bounty) 
+Seat 7: oldgit13 (4587 in chips, $1.50 bounty) 
+Seat 8: rooftopallen (5193 in chips, $1.50 bounty) 
+mrocco93: posts the ante 11
+skrivnost85: posts the ante 11
+Kevin12345Mc: posts the ante 11
+denyels31: posts the ante 11
+Ludn34: posts the ante 11
+LFelipe_34: posts the ante 11
+oldgit13: posts the ante 11
+rooftopallen: posts the ante 11
+Kevin12345Mc: posts small blind 35
+denyels31: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 6d]
+Ludn34: folds 
+LFelipe_34: folds 
+oldgit13: folds 
+rooftopallen: folds 
+mrocco93: folds 
+skrivnost85: calls 70
+Kevin12345Mc: calls 35
+denyels31: checks 
+*** FLOP *** [5h Ah 4c]
+Kevin12345Mc: checks 
+denyels31: checks 
+skrivnost85: bets 140
+Kevin12345Mc: folds 
+denyels31: folds 
+Uncalled bet (140) returned to skrivnost85
+skrivnost85 collected 298 from pot
+*** SUMMARY ***
+Total pot 298 | Rake 0 
+Board [5h Ah 4c]
+Seat 1: mrocco93 folded before Flop (didn't bet)
+Seat 2: skrivnost85 (button) collected (298)
+Seat 3: Kevin12345Mc (small blind) folded on the Flop
+Seat 4: denyels31 (big blind) folded on the Flop
+Seat 5: Ludn34 folded before Flop (didn't bet)
+Seat 6: LFelipe_34 folded before Flop (didn't bet)
+Seat 7: oldgit13 folded before Flop (didn't bet)
+Seat 8: rooftopallen folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003911238: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:53:32 WET [2025/02/23 11:53:32 ET]
+Table '3860676547 146' 8-max Seat #3 is the button
+Seat 1: mrocco93 (4480 in chips, $1.50 bounty) 
+Seat 2: skrivnost85 (5493 in chips, $1.50 bounty) 
+Seat 3: Kevin12345Mc (4561 in chips, $1.50 bounty) 
+Seat 4: denyels31 (5261 in chips, $1.50 bounty) 
+Seat 5: Ludn34 (5113 in chips, $1.50 bounty) 
+Seat 6: LFelipe_34 (3952 in chips, $1.50 bounty) 
+Seat 7: oldgit13 (4576 in chips, $1.50 bounty) 
+Seat 8: rooftopallen (5182 in chips, $1.50 bounty) 
+mrocco93: posts the ante 11
+skrivnost85: posts the ante 11
+Kevin12345Mc: posts the ante 11
+denyels31: posts the ante 11
+Ludn34: posts the ante 11
+LFelipe_34: posts the ante 11
+oldgit13: posts the ante 11
+rooftopallen: posts the ante 11
+denyels31: posts small blind 35
+Ludn34: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd Qd]
+LFelipe_34: folds 
+oldgit13: folds 
+rooftopallen: raises 70 to 140
+mrocco93: calls 140
+skrivnost85: folds 
+Kevin12345Mc: raises 420 to 560
+denyels31: calls 525
+Ludn34: folds 
+rooftopallen: calls 420
+mrocco93: folds 
+*** FLOP *** [Jh Jc 6c]
+denyels31: checks 
+rooftopallen: bets 4611 and is all-in
+Kevin12345Mc: calls 3990 and is all-in
+denyels31: folds 
+Uncalled bet (621) returned to rooftopallen
+*** TURN *** [Jh Jc 6c] [Ts]
+*** RIVER *** [Jh Jc 6c Ts] [3c]
+*** SHOW DOWN ***
+rooftopallen: shows [Ac Tc] (a flush, Ace high)
+Kevin12345Mc: shows [Jd Qd] (three of a kind, Jacks)
+rooftopallen collected 9958 from pot
+rooftopallen wins $0.75 for eliminating Kevin12345Mc and their own bounty increases by $0.75 to $2.25
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 9958 | Rake 0 
+Board [Jh Jc 6c Ts 3c]
+Seat 1: mrocco93 folded before Flop
+Seat 2: skrivnost85 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) showed [Jd Qd] and lost with three of a kind, Jacks
+Seat 4: denyels31 (small blind) folded on the Flop
+Seat 5: Ludn34 (big blind) folded before Flop
+Seat 6: LFelipe_34 folded before Flop (didn't bet)
+Seat 7: oldgit13 folded before Flop (didn't bet)
+Seat 8: rooftopallen showed [Ac Tc] and won (9958) with a flush, Ace high
+
+
+
+PokerStars Hand #255004013822: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:02:00 WET [2025/02/23 12:02:00 ET]
+Table '3860676547 76' 8-max Seat #6 is the button
+Seat 1: icuis (5000 in chips, $1.50 bounty) 
+Seat 2: magumal (4690 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8807 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5000 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (1259 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (4041 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (5581 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (8736 in chips, $2.25 bounty) 
+icuis: posts the ante 12
+magumal: posts the ante 12
+hoopielexx: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kolotulo258: posts the ante 12
+JoZe BoB: posts the ante 12
+Nihilus1337: posts the ante 12
+oreg 1949: posts the ante 12
+Nihilus1337: posts small blind 40
+oreg 1949: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Ah]
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: raises 104 to 184
+kolotulo258: folds 
+JoZe BoB: folds 
+Nihilus1337: folds 
+oreg 1949: calls 104
+*** FLOP *** [Ks 5d Ts]
+oreg 1949: checks 
+Kevin12345Mc: bets 166
+oreg 1949: folds 
+Uncalled bet (166) returned to Kevin12345Mc
+Kevin12345Mc collected 504 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 504 | Rake 0 
+Board [Ks 5d Ts]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (504)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: JoZe BoB (button) folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (small blind) folded before Flop
+Seat 8: oreg 1949 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255004023505: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:02:36 WET [2025/02/23 12:02:36 ET]
+Table '3860676547 76' 8-max Seat #7 is the button
+Seat 1: icuis (4988 in chips, $1.50 bounty) 
+Seat 2: magumal (4678 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8795 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5308 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (1247 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (4029 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (5529 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (8540 in chips, $2.25 bounty) 
+icuis: posts the ante 12
+magumal: posts the ante 12
+hoopielexx: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kolotulo258: posts the ante 12
+JoZe BoB: posts the ante 12
+Nihilus1337: posts the ante 12
+oreg 1949: posts the ante 12
+oreg 1949: posts small blind 40
+icuis: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 3s]
+magumal: raises 80 to 160
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: calls 160
+JoZe BoB: folds 
+Nihilus1337: folds 
+oreg 1949: calls 120
+icuis: calls 80
+*** FLOP *** [4d 8c Kd]
+oreg 1949: checks 
+icuis: checks 
+magumal: checks 
+kolotulo258: checks 
+*** TURN *** [4d 8c Kd] [5s]
+oreg 1949: bets 400
+icuis: calls 400
+magumal: folds 
+kolotulo258: folds 
+*** RIVER *** [4d 8c Kd 5s] [4s]
+oreg 1949: checks 
+icuis: checks 
+*** SHOW DOWN ***
+oreg 1949: shows [Kh 7h] (two pair, Kings and Fours)
+icuis: mucks hand 
+oreg 1949 collected 1536 from pot
+*** SUMMARY ***
+Total pot 1536 | Rake 0 
+Board [4d 8c Kd 5s 4s]
+Seat 1: icuis (big blind) mucked [9s 9d]
+Seat 2: magumal folded on the Turn
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded on the Turn
+Seat 6: JoZe BoB folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (button) folded before Flop (didn't bet)
+Seat 8: oreg 1949 (small blind) showed [Kh 7h] and won (1536) with two pair, Kings and Fours
+
+
+
+PokerStars Hand #255004034574: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:03:18 WET [2025/02/23 12:03:18 ET]
+Table '3860676547 76' 8-max Seat #8 is the button
+Seat 1: icuis (4416 in chips, $1.50 bounty) 
+Seat 2: magumal (4506 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8783 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5296 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (1075 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (4017 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (5517 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (9504 in chips, $2.25 bounty) 
+icuis: posts the ante 12
+magumal: posts the ante 12
+hoopielexx: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kolotulo258: posts the ante 12
+JoZe BoB: posts the ante 12
+Nihilus1337: posts the ante 12
+oreg 1949: posts the ante 12
+icuis: posts small blind 40
+magumal: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 6c]
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+JoZe BoB: raises 80 to 160
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: calls 80
+*** FLOP *** [7c 9c Kc]
+magumal: checks 
+JoZe BoB: bets 146
+magumal: calls 146
+*** TURN *** [7c 9c Kc] [Qs]
+magumal: checks 
+JoZe BoB: checks 
+*** RIVER *** [7c 9c Kc Qs] [3h]
+magumal: checks 
+JoZe BoB: checks 
+*** SHOW DOWN ***
+magumal: shows [Kh Tc] (a pair of Kings)
+JoZe BoB: mucks hand 
+magumal collected 748 from pot
+*** SUMMARY ***
+Total pot 748 | Rake 0 
+Board [7c 9c Kc Qs 3h]
+Seat 1: icuis (small blind) folded before Flop
+Seat 2: magumal (big blind) showed [Kh Tc] and won (748) with a pair of Kings
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: JoZe BoB mucked [9s Ah]
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004045912: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:03:59 WET [2025/02/23 12:03:59 ET]
+Table '3860676547 76' 8-max Seat #1 is the button
+Seat 1: icuis (4364 in chips, $1.50 bounty) 
+Seat 2: magumal (4936 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8771 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5284 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (1063 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (3699 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (5505 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (9492 in chips, $2.25 bounty) 
+icuis: posts the ante 12
+magumal: posts the ante 12
+hoopielexx: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kolotulo258: posts the ante 12
+JoZe BoB: posts the ante 12
+Nihilus1337: posts the ante 12
+oreg 1949: posts the ante 12
+magumal: posts small blind 40
+hoopielexx: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 3d]
+Kevin12345Mc: folds 
+kolotulo258: folds 
+JoZe BoB: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: raises 104 to 184
+magumal: folds 
+hoopielexx: folds 
+Uncalled bet (104) returned to icuis
+icuis collected 296 from pot
+icuis: doesn't show hand 
+*** SUMMARY ***
+Total pot 296 | Rake 0 
+Seat 1: icuis (button) collected (296)
+Seat 2: magumal (small blind) folded before Flop
+Seat 3: hoopielexx (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: JoZe BoB folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004055135: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:04:31 WET [2025/02/23 12:04:31 ET]
+Table '3860676547 76' 8-max Seat #2 is the button
+Seat 1: icuis (4568 in chips, $1.50 bounty) 
+Seat 2: magumal (4884 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8679 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5272 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (1051 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (3687 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (5493 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (9480 in chips, $2.25 bounty) 
+icuis: posts the ante 12
+magumal: posts the ante 12
+hoopielexx: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kolotulo258: posts the ante 12
+JoZe BoB: posts the ante 12
+Nihilus1337: posts the ante 12
+oreg 1949: posts the ante 12
+hoopielexx: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 8c]
+kolotulo258: raises 959 to 1039 and is all-in
+JoZe BoB: folds 
+Nihilus1337: folds 
+oreg 1949: calls 1039
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [2h Th 2d]
+*** TURN *** [2h Th 2d] [8s]
+*** RIVER *** [2h Th 2d 8s] [Ac]
+*** SHOW DOWN ***
+kolotulo258: shows [2c 2s] (four of a kind, Deuces)
+oreg 1949: shows [Kd Qd] (a pair of Deuces)
+kolotulo258 collected 2294 from pot
+*** SUMMARY ***
+Total pot 2294 | Rake 0 
+Board [2h Th 2d 8s Ac]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal (button) folded before Flop (didn't bet)
+Seat 3: hoopielexx (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: kolotulo258 showed [2c 2s] and won (2294) with four of a kind, Deuces
+Seat 6: JoZe BoB folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 showed [Kd Qd] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #255004064035: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:05:02 WET [2025/02/23 12:05:02 ET]
+Table '3860676547 76' 8-max Seat #3 is the button
+Seat 1: icuis (4556 in chips, $1.50 bounty) 
+Seat 2: magumal (4872 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8627 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5180 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2294 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (3675 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (5481 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (8429 in chips, $2.25 bounty) 
+icuis: posts the ante 12
+magumal: posts the ante 12
+hoopielexx: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kolotulo258: posts the ante 12
+JoZe BoB: posts the ante 12
+Nihilus1337: posts the ante 12
+oreg 1949: posts the ante 12
+Kevin12345Mc: posts small blind 40
+kolotulo258: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 8h]
+JoZe BoB: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: raises 80 to 160
+hoopielexx: raises 360 to 520
+Kevin12345Mc: folds 
+kolotulo258: folds 
+magumal: calls 360
+*** FLOP *** [5d 8s As]
+magumal: checks 
+hoopielexx: bets 414
+magumal: calls 414
+*** TURN *** [5d 8s As] [3c]
+magumal: checks 
+hoopielexx: bets 1250
+magumal: calls 1250
+*** RIVER *** [5d 8s As 3c] [4h]
+magumal: checks 
+hoopielexx: bets 1513
+magumal: folds 
+Uncalled bet (1513) returned to hoopielexx
+hoopielexx collected 4584 from pot
+hoopielexx: doesn't show hand 
+*** SUMMARY ***
+Total pot 4584 | Rake 0 
+Board [5d 8s As 3c 4h]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded on the River
+Seat 3: hoopielexx (button) collected (4584)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: kolotulo258 (big blind) folded before Flop
+Seat 6: JoZe BoB folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004083193: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:06:10 WET [2025/02/23 12:06:10 ET]
+Table '3860676547 76' 8-max Seat #4 is the button
+Seat 1: icuis (4544 in chips, $1.50 bounty) 
+Seat 2: magumal (2676 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (11015 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5128 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2202 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (3663 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (5469 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (8417 in chips, $2.25 bounty) 
+icuis: posts the ante 12
+magumal: posts the ante 12
+hoopielexx: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kolotulo258: posts the ante 12
+JoZe BoB: posts the ante 12
+Nihilus1337: posts the ante 12
+oreg 1949: posts the ante 12
+kolotulo258: posts small blind 40
+JoZe BoB: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Qd]
+Nihilus1337: folds 
+oreg 1949: calls 80
+icuis: folds 
+magumal: calls 80
+hoopielexx: raises 200 to 280
+Kevin12345Mc: folds 
+kolotulo258: folds 
+JoZe BoB: folds 
+oreg 1949: calls 200
+magumal: calls 200
+*** FLOP *** [3h 5s Jc]
+oreg 1949: checks 
+magumal: checks 
+hoopielexx: checks 
+*** TURN *** [3h 5s Jc] [7c]
+oreg 1949: checks 
+magumal: bets 368
+hoopielexx: calls 368
+oreg 1949: folds 
+*** RIVER *** [3h 5s Jc 7c] [7d]
+magumal: bets 656
+hoopielexx: folds 
+Uncalled bet (656) returned to magumal
+magumal collected 1792 from pot
+magumal: doesn't show hand 
+*** SUMMARY ***
+Total pot 1792 | Rake 0 
+Board [3h 5s Jc 7c 7d]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal collected (1792)
+Seat 3: hoopielexx folded on the River
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: kolotulo258 (small blind) folded before Flop
+Seat 6: JoZe BoB (big blind) folded before Flop
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded on the Turn
+
+
+
+PokerStars Hand #255004101693: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:07:15 WET [2025/02/23 12:07:15 ET]
+Table '3860676547 76' 8-max Seat #5 is the button
+Seat 1: icuis (4532 in chips, $1.50 bounty) 
+Seat 2: magumal (3808 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (10355 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5116 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2150 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (3571 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (5457 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (8125 in chips, $2.25 bounty) 
+icuis: posts the ante 12
+magumal: posts the ante 12
+hoopielexx: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kolotulo258: posts the ante 12
+JoZe BoB: posts the ante 12
+Nihilus1337: posts the ante 12
+oreg 1949: posts the ante 12
+JoZe BoB: posts small blind 40
+Nihilus1337: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 4s]
+oreg 1949: folds 
+icuis: folds 
+magumal: raises 80 to 160
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: calls 160
+JoZe BoB: raises 640 to 800
+Nihilus1337: folds 
+magumal: folds 
+kolotulo258: calls 640
+*** FLOP *** [2d 2s 8c]
+JoZe BoB: bets 320
+kolotulo258: calls 320
+*** TURN *** [2d 2s 8c] [7s]
+JoZe BoB: bets 2439 and is all-in
+kolotulo258: folds 
+Uncalled bet (2439) returned to JoZe BoB
+JoZe BoB collected 2576 from pot
+*** SUMMARY ***
+Total pot 2576 | Rake 0 
+Board [2d 2s 8c 7s]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 (button) folded on the Turn
+Seat 6: JoZe BoB (small blind) collected (2576)
+Seat 7: Nihilus1337 (big blind) folded before Flop
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004118733: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:08:15 WET [2025/02/23 12:08:15 ET]
+Table '3860676547 76' 8-max Seat #6 is the button
+Seat 1: icuis (4520 in chips, $1.50 bounty) 
+Seat 2: magumal (3636 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (10343 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5104 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (1018 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (5015 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (5365 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (8113 in chips, $2.25 bounty) 
+icuis: posts the ante 12
+magumal: posts the ante 12
+hoopielexx: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kolotulo258: posts the ante 12
+JoZe BoB: posts the ante 12
+Nihilus1337: posts the ante 12
+oreg 1949: posts the ante 12
+Nihilus1337: posts small blind 40
+oreg 1949: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 6h]
+icuis: folds 
+magumal: calls 80
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: raises 926 to 1006 and is all-in
+JoZe BoB: folds 
+Nihilus1337: folds 
+oreg 1949: calls 926
+magumal: folds 
+*** FLOP *** [3d 4c 8h]
+*** TURN *** [3d 4c 8h] [7c]
+*** RIVER *** [3d 4c 8h 7c] [Ks]
+*** SHOW DOWN ***
+oreg 1949: shows [5c 5d] (a pair of Fives)
+kolotulo258: shows [Jd Kd] (a pair of Kings)
+kolotulo258 collected 2228 from pot
+*** SUMMARY ***
+Total pot 2228 | Rake 0 
+Board [3d 4c 8h 7c Ks]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 showed [Jd Kd] and won (2228) with a pair of Kings
+Seat 6: JoZe BoB (button) folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (small blind) folded before Flop
+Seat 8: oreg 1949 (big blind) showed [5c 5d] and lost with a pair of Fives
+
+
+
+PokerStars Hand #255004134444: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:09:11 WET [2025/02/23 12:09:11 ET]
+Table '3860676547 76' 8-max Seat #7 is the button
+Seat 1: icuis (4508 in chips, $1.50 bounty) 
+Seat 2: magumal (3544 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (10331 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5092 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2228 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (5003 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (5313 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (7095 in chips, $2.25 bounty) 
+icuis: posts the ante 14
+magumal: posts the ante 14
+hoopielexx: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kolotulo258: posts the ante 14
+JoZe BoB: posts the ante 14
+Nihilus1337: posts the ante 14
+oreg 1949: posts the ante 14
+oreg 1949: posts small blind 45
+icuis: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 8s]
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: raises 90 to 180
+JoZe BoB: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+Uncalled bet (90) returned to kolotulo258
+kolotulo258 collected 337 from pot
+kolotulo258: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Seat 1: icuis (big blind) folded before Flop
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 collected (337)
+Seat 6: JoZe BoB folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (button) folded before Flop (didn't bet)
+Seat 8: oreg 1949 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255004141255: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:09:35 WET [2025/02/23 12:09:35 ET]
+Table '3860676547 76' 8-max Seat #8 is the button
+Seat 1: icuis (4404 in chips, $1.50 bounty) 
+Seat 2: magumal (3530 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (10317 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5078 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2461 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (4989 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (5299 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (7036 in chips, $2.25 bounty) 
+icuis: posts the ante 14
+magumal: posts the ante 14
+hoopielexx: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kolotulo258: posts the ante 14
+JoZe BoB: posts the ante 14
+Nihilus1337: posts the ante 14
+oreg 1949: posts the ante 14
+icuis: posts small blind 45
+magumal: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Kd]
+hoopielexx: folds 
+Kevin12345Mc: raises 117 to 207
+kolotulo258: folds 
+JoZe BoB: folds 
+Nihilus1337: calls 207
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+*** FLOP *** [As 4d 8h]
+Kevin12345Mc: bets 218
+Nihilus1337: calls 218
+*** TURN *** [As 4d 8h] [Qd]
+Kevin12345Mc: checks 
+Nihilus1337: bets 779
+Kevin12345Mc: calls 779
+*** RIVER *** [As 4d 8h Qd] [Kc]
+Kevin12345Mc: checks 
+Nihilus1337: bets 2025
+Kevin12345Mc: calls 2025
+*** SHOW DOWN ***
+Nihilus1337: shows [Td Jd] (a straight, Ten to Ace)
+Kevin12345Mc: mucks hand 
+Nihilus1337 collected 6705 from pot
+*** SUMMARY ***
+Total pot 6705 | Rake 0 
+Board [As 4d 8h Qd Kc]
+Seat 1: icuis (small blind) folded before Flop
+Seat 2: magumal (big blind) folded before Flop
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc mucked [Qh Kd]
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: JoZe BoB folded before Flop (didn't bet)
+Seat 7: Nihilus1337 showed [Td Jd] and won (6705) with a straight, Ten to Ace
+Seat 8: oreg 1949 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004166842: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:11:03 WET [2025/02/23 12:11:03 ET]
+Table '3860676547 76' 8-max Seat #1 is the button
+Seat 1: icuis (4345 in chips, $1.50 bounty) 
+Seat 2: magumal (3426 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (10303 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (1835 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2447 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (4975 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (8761 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (7022 in chips, $2.25 bounty) 
+icuis: posts the ante 14
+magumal: posts the ante 14
+hoopielexx: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kolotulo258: posts the ante 14
+JoZe BoB: posts the ante 14
+Nihilus1337: posts the ante 14
+oreg 1949: posts the ante 14
+magumal: posts small blind 45
+hoopielexx: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Jc]
+Kevin12345Mc: raises 90 to 180
+kolotulo258: folds 
+JoZe BoB: folds 
+Nihilus1337: raises 360 to 540
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: raises 1281 to 1821 and is all-in
+Nihilus1337: calls 1281
+*** FLOP *** [7h 5c Th]
+*** TURN *** [7h 5c Th] [8c]
+*** RIVER *** [7h 5c Th 8c] [Tc]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [As Jc] (a pair of Tens)
+Nihilus1337: shows [Kd Qc] (a pair of Tens - lower kicker)
+Kevin12345Mc collected 3889 from pot
+*** SUMMARY ***
+Total pot 3889 | Rake 0 
+Board [7h 5c Th 8c Tc]
+Seat 1: icuis (button) folded before Flop (didn't bet)
+Seat 2: magumal (small blind) folded before Flop
+Seat 3: hoopielexx (big blind) folded before Flop
+Seat 4: Kevin12345Mc showed [As Jc] and won (3889) with a pair of Tens
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: JoZe BoB folded before Flop (didn't bet)
+Seat 7: Nihilus1337 showed [Kd Qc] and lost with a pair of Tens
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004186216: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:12:09 WET [2025/02/23 12:12:09 ET]
+Table '3860676547 76' 8-max Seat #2 is the button
+Seat 1: icuis (4331 in chips, $1.50 bounty) 
+Seat 2: magumal (3367 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (10199 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3889 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2433 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (4961 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (6926 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (7008 in chips, $2.25 bounty) 
+icuis: posts the ante 14
+magumal: posts the ante 14
+hoopielexx: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kolotulo258: posts the ante 14
+JoZe BoB: posts the ante 14
+Nihilus1337: posts the ante 14
+oreg 1949: posts the ante 14
+hoopielexx: posts small blind 45
+Kevin12345Mc: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Js]
+kolotulo258: folds 
+JoZe BoB: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: calls 90
+hoopielexx: calls 45
+Kevin12345Mc: checks 
+*** FLOP *** [Ks 8h 7s]
+hoopielexx: checks 
+Kevin12345Mc: checks 
+magumal: checks 
+*** TURN *** [Ks 8h 7s] [9h]
+hoopielexx: checks 
+Kevin12345Mc: checks 
+magumal: bets 191
+hoopielexx: calls 191
+Kevin12345Mc: folds 
+*** RIVER *** [Ks 8h 7s 9h] [Th]
+hoopielexx: checks 
+magumal: checks 
+*** SHOW DOWN ***
+hoopielexx: shows [2s 3s] (high card King)
+magumal: shows [Qh 9d] (a pair of Nines)
+magumal collected 764 from pot
+*** SUMMARY ***
+Total pot 764 | Rake 0 
+Board [Ks 8h 7s 9h Th]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal (button) showed [Qh 9d] and won (764) with a pair of Nines
+Seat 3: hoopielexx (small blind) showed [2s 3s] and lost with high card King
+Seat 4: Kevin12345Mc (big blind) folded on the Turn
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: JoZe BoB folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004212830: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:13:40 WET [2025/02/23 12:13:40 ET]
+Table '3860676547 76' 8-max Seat #3 is the button
+Seat 1: icuis (4317 in chips, $1.50 bounty) 
+Seat 2: magumal (3836 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (9904 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3785 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2419 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (4947 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (6912 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (6994 in chips, $2.25 bounty) 
+icuis: posts the ante 14
+magumal: posts the ante 14
+hoopielexx: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kolotulo258: posts the ante 14
+JoZe BoB: posts the ante 14
+Nihilus1337: posts the ante 14
+oreg 1949: posts the ante 14
+Kevin12345Mc: posts small blind 45
+kolotulo258: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 7d]
+JoZe BoB: folds 
+Nihilus1337: folds 
+oreg 1949: calls 90
+icuis: folds 
+magumal: calls 90
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: checks 
+*** FLOP *** [As Js 7h]
+kolotulo258: checks 
+oreg 1949: bets 180
+magumal: folds 
+kolotulo258: calls 180
+*** TURN *** [As Js 7h] [Ac]
+kolotulo258: checks 
+oreg 1949: bets 270
+kolotulo258: calls 270
+*** RIVER *** [As Js 7h Ac] [Jd]
+kolotulo258: checks 
+oreg 1949: bets 664
+kolotulo258: folds 
+Uncalled bet (664) returned to oreg 1949
+oreg 1949 collected 1327 from pot
+*** SUMMARY ***
+Total pot 1327 | Rake 0 
+Board [As Js 7h Ac Jd]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded on the Flop
+Seat 3: hoopielexx (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: kolotulo258 (big blind) folded on the River
+Seat 6: JoZe BoB folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 collected (1327)
+
+
+
+PokerStars Hand #255004228087: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:14:31 WET [2025/02/23 12:14:31 ET]
+Table '3860676547 76' 8-max Seat #4 is the button
+Seat 1: icuis (4303 in chips, $1.50 bounty) 
+Seat 2: magumal (3732 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (9890 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3726 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (1865 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (4933 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (6898 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (7767 in chips, $2.25 bounty) 
+icuis: posts the ante 14
+magumal: posts the ante 14
+hoopielexx: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kolotulo258: posts the ante 14
+JoZe BoB: posts the ante 14
+Nihilus1337: posts the ante 14
+oreg 1949: posts the ante 14
+kolotulo258: posts small blind 45
+JoZe BoB: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 3d]
+Nihilus1337: folds 
+oreg 1949: calls 90
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: raises 1761 to 1851 and is all-in
+JoZe BoB: folds 
+oreg 1949: folds 
+Uncalled bet (1761) returned to kolotulo258
+kolotulo258 collected 382 from pot
+kolotulo258: doesn't show hand 
+*** SUMMARY ***
+Total pot 382 | Rake 0 
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: kolotulo258 (small blind) collected (382)
+Seat 6: JoZe BoB (big blind) folded before Flop
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop
+
+
+
+PokerStars Hand #255004236552: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:15:00 WET [2025/02/23 12:15:00 ET]
+Table '3860676547 76' 8-max Seat #5 is the button
+Seat 1: icuis (4289 in chips, $1.50 bounty) 
+Seat 2: magumal (3718 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (9876 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3712 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2143 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (4829 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (6884 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (7663 in chips, $2.25 bounty) 
+icuis: posts the ante 14
+magumal: posts the ante 14
+hoopielexx: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kolotulo258: posts the ante 14
+JoZe BoB: posts the ante 14
+Nihilus1337: posts the ante 14
+oreg 1949: posts the ante 14
+JoZe BoB: posts small blind 45
+Nihilus1337: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah Td]
+oreg 1949: folds 
+icuis: folds 
+magumal: calls 90
+hoopielexx: folds 
+Kevin12345Mc: raises 117 to 207
+kolotulo258: folds 
+JoZe BoB: folds 
+Nihilus1337: folds 
+magumal: calls 117
+*** FLOP *** [Qd Kh As]
+magumal: checks 
+Kevin12345Mc: bets 218
+magumal: folds 
+Uncalled bet (218) returned to Kevin12345Mc
+Kevin12345Mc collected 661 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 661 | Rake 0 
+Board [Qd Kh As]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded on the Flop
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (661)
+Seat 5: kolotulo258 (button) folded before Flop (didn't bet)
+Seat 6: JoZe BoB (small blind) folded before Flop
+Seat 7: Nihilus1337 (big blind) folded before Flop
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004245486: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:15:29 WET [2025/02/23 12:15:29 ET]
+Table '3860676547 76' 8-max Seat #6 is the button
+Seat 1: icuis (4275 in chips, $1.50 bounty) 
+Seat 2: magumal (3497 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (9862 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4152 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2129 in chips, $1.50 bounty) 
+Seat 6: JoZe BoB (4770 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (6780 in chips, $1.50 bounty) 
+Seat 8: oreg 1949 (7649 in chips, $2.25 bounty) 
+icuis: posts the ante 14
+magumal: posts the ante 14
+hoopielexx: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kolotulo258: posts the ante 14
+JoZe BoB: posts the ante 14
+Nihilus1337: posts the ante 14
+oreg 1949: posts the ante 14
+Nihilus1337: posts small blind 45
+oreg 1949: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 5c]
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+JoZe BoB: raises 90 to 180
+Nihilus1337: raises 562 to 742
+oreg 1949: folds 
+JoZe BoB: calls 562
+*** FLOP *** [Qh 7s 9h]
+Nihilus1337: bets 809
+JoZe BoB: calls 809
+*** TURN *** [Qh 7s 9h] [3d]
+Nihilus1337: bets 1586
+JoZe BoB: calls 1586
+*** RIVER *** [Qh 7s 9h 3d] [2c]
+Nihilus1337: bets 3629 and is all-in
+JoZe BoB: calls 1619 and is all-in
+Uncalled bet (2010) returned to Nihilus1337
+*** SHOW DOWN ***
+Nihilus1337: shows [Kh Ks] (a pair of Kings)
+JoZe BoB: shows [Qc Ah] (a pair of Queens)
+Nihilus1337 collected 9714 from pot
+Nihilus1337 wins $0.75 for eliminating JoZe BoB and their own bounty increases by $0.75 to $2.25
+JoZe BoB finished the tournament
+dtp1967 is disconnected 
+*** SUMMARY ***
+Total pot 9714 | Rake 0 
+Board [Qh 7s 9h 3d 2c]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: JoZe BoB (button) showed [Qc Ah] and lost with a pair of Queens
+Seat 7: Nihilus1337 (small blind) showed [Kh Ks] and won (9714) with a pair of Kings
+Seat 8: oreg 1949 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004270139: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:16:52 WET [2025/02/23 12:16:52 ET]
+Table '3860676547 76' 8-max Seat #7 is the button
+Seat 1: icuis (4261 in chips, $1.50 bounty) 
+Seat 2: magumal (3483 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (9848 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4138 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2115 in chips, $1.50 bounty) 
+Seat 6: dtp1967 (5000 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11724 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (7545 in chips, $2.25 bounty) 
+icuis: posts the ante 15
+magumal: posts the ante 15
+hoopielexx: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kolotulo258: posts the ante 15
+dtp1967: posts the ante 15
+Nihilus1337: posts the ante 15
+oreg 1949: posts the ante 15
+oreg 1949: posts small blind 50
+icuis: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s Ah]
+magumal: folds 
+hoopielexx: raises 100 to 200
+Kevin12345Mc: folds 
+kolotulo258: folds 
+dtp1967: raises 300 to 500
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+hoopielexx: calls 300
+*** FLOP *** [9c Kd Js]
+hoopielexx: bets 419
+dtp1967: calls 419
+*** TURN *** [9c Kd Js] [Ks]
+hoopielexx: checks 
+dtp1967: bets 1265
+hoopielexx: calls 1265
+*** RIVER *** [9c Kd Js Ks] [Td]
+hoopielexx: bets 2850
+dtp1967: folds 
+Uncalled bet (2850) returned to hoopielexx
+hoopielexx collected 4638 from pot
+hoopielexx: doesn't show hand 
+*** SUMMARY ***
+Total pot 4638 | Rake 0 
+Board [9c Kd Js Ks Td]
+Seat 1: icuis (big blind) folded before Flop
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx collected (4638)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: dtp1967 folded on the River
+Seat 7: Nihilus1337 (button) folded before Flop (didn't bet)
+Seat 8: oreg 1949 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255004292495: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:18:07 WET [2025/02/23 12:18:07 ET]
+Table '3860676547 76' 8-max Seat #8 is the button
+Seat 1: icuis (4146 in chips, $1.50 bounty) 
+Seat 2: magumal (3468 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (12287 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4123 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2100 in chips, $1.50 bounty) 
+Seat 6: dtp1967 (2801 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11709 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (7480 in chips, $2.25 bounty) 
+icuis: posts the ante 15
+magumal: posts the ante 15
+hoopielexx: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kolotulo258: posts the ante 15
+dtp1967: posts the ante 15
+Nihilus1337: posts the ante 15
+oreg 1949: posts the ante 15
+icuis: posts small blind 50
+magumal: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 4h]
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+dtp1967: raises 150 to 250
+Nihilus1337: folds 
+oreg 1949: calls 250
+icuis: folds 
+magumal: calls 150
+*** FLOP *** [Qs 7c 4s]
+magumal: checks 
+dtp1967: checks 
+oreg 1949: checks 
+*** TURN *** [Qs 7c 4s] [Ad]
+magumal: checks 
+dtp1967: checks 
+oreg 1949: bets 920
+magumal: folds 
+dtp1967: folds 
+Uncalled bet (920) returned to oreg 1949
+oreg 1949 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [Qs 7c 4s Ad]
+Seat 1: icuis (small blind) folded before Flop
+Seat 2: magumal (big blind) folded on the Turn
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: dtp1967 folded on the Turn
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 (button) collected (920)
+
+
+
+PokerStars Hand #255004308781: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:19:02 WET [2025/02/23 12:19:02 ET]
+Table '3860676547 76' 8-max Seat #1 is the button
+Seat 1: icuis (4081 in chips, $1.50 bounty) 
+Seat 2: magumal (3203 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (12272 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4108 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2085 in chips, $1.50 bounty) 
+Seat 6: dtp1967 (2536 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11694 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (8135 in chips, $2.25 bounty) 
+icuis: posts the ante 15
+magumal: posts the ante 15
+hoopielexx: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kolotulo258: posts the ante 15
+dtp1967: posts the ante 15
+Nihilus1337: posts the ante 15
+oreg 1949: posts the ante 15
+magumal: posts small blind 50
+hoopielexx: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Th]
+Kevin12345Mc: folds 
+kolotulo258: folds 
+dtp1967: calls 100
+Nihilus1337: folds 
+oreg 1949: raises 100 to 200
+icuis: folds 
+magumal: calls 150
+hoopielexx: calls 100
+dtp1967: calls 100
+*** FLOP *** [As 6s 2s]
+magumal: checks 
+hoopielexx: checks 
+dtp1967: checks 
+oreg 1949: bets 400
+magumal: folds 
+hoopielexx: folds 
+dtp1967: folds 
+Uncalled bet (400) returned to oreg 1949
+oreg 1949 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [As 6s 2s]
+Seat 1: icuis (button) folded before Flop (didn't bet)
+Seat 2: magumal (small blind) folded on the Flop
+Seat 3: hoopielexx (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: dtp1967 folded on the Flop
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 collected (920)
+
+
+
+PokerStars Hand #255004332939: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:20:23 WET [2025/02/23 12:20:23 ET]
+Table '3860676547 76' 8-max Seat #2 is the button
+Seat 1: icuis (4066 in chips, $1.50 bounty) 
+Seat 2: magumal (2988 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (12057 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4093 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (2070 in chips, $1.50 bounty) 
+Seat 6: dtp1967 (2321 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11679 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (8840 in chips, $2.25 bounty) 
+icuis: posts the ante 15
+magumal: posts the ante 15
+hoopielexx: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kolotulo258: posts the ante 15
+dtp1967: posts the ante 15
+Nihilus1337: posts the ante 15
+oreg 1949: posts the ante 15
+hoopielexx: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Qh]
+kolotulo258: raises 1955 to 2055 and is all-in
+dtp1967: raises 251 to 2306 and is all-in
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+Uncalled bet (251) returned to dtp1967
+*** FLOP *** [Js 2h Ts]
+*** TURN *** [Js 2h Ts] [7s]
+*** RIVER *** [Js 2h Ts 7s] [As]
+*** SHOW DOWN ***
+kolotulo258: shows [8d 8s] (a flush, Ace high)
+dtp1967: shows [3c 3d] (a pair of Threes)
+kolotulo258 collected 4380 from pot
+*** SUMMARY ***
+Total pot 4380 | Rake 0 
+Board [Js 2h Ts 7s As]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal (button) folded before Flop (didn't bet)
+Seat 3: hoopielexx (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: kolotulo258 showed [8d 8s] and won (4380) with a flush, Ace high
+Seat 6: dtp1967 showed [3c 3d] and lost with a pair of Threes
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004341632: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:20:52 WET [2025/02/23 12:20:52 ET]
+Table '3860676547 76' 8-max Seat #3 is the button
+Seat 1: icuis (4051 in chips, $1.50 bounty) 
+Seat 2: magumal (2973 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (11992 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3978 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (4380 in chips, $1.50 bounty) 
+Seat 6: dtp1967 (251 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11664 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (8825 in chips, $2.25 bounty) 
+icuis: posts the ante 15
+magumal: posts the ante 15
+hoopielexx: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kolotulo258: posts the ante 15
+dtp1967: posts the ante 15
+Nihilus1337: posts the ante 15
+oreg 1949: posts the ante 15
+Kevin12345Mc: posts small blind 50
+kolotulo258: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d Kh]
+dtp1967: raises 100 to 200
+Nihilus1337: folds 
+oreg 1949: calls 200
+icuis: folds 
+magumal: calls 200
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: calls 100
+*** FLOP *** [Qh 5s Td]
+kolotulo258: checks 
+dtp1967: bets 36 and is all-in
+oreg 1949: calls 36
+magumal: calls 36
+kolotulo258: calls 36
+*** TURN *** [Qh 5s Td] [6s]
+kolotulo258: checks 
+oreg 1949: checks 
+magumal: checks 
+*** RIVER *** [Qh 5s Td 6s] [7s]
+kolotulo258: checks 
+oreg 1949: checks 
+magumal: checks 
+*** SHOW DOWN ***
+kolotulo258: shows [8s 7c] (a pair of Sevens)
+dtp1967: shows [Tc 6c] (two pair, Tens and Sixes)
+oreg 1949: mucks hand 
+magumal: mucks hand 
+dtp1967 collected 1114 from pot
+*** SUMMARY ***
+Total pot 1114 | Rake 0 
+Board [Qh 5s Td 6s 7s]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal mucked [6h Jh]
+Seat 3: hoopielexx (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: kolotulo258 (big blind) showed [8s 7c] and lost with a pair of Sevens
+Seat 6: dtp1967 showed [Tc 6c] and won (1114) with two pair, Tens and Sixes
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 mucked [4d 4c]
+
+
+
+PokerStars Hand #255004356758: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:21:42 WET [2025/02/23 12:21:42 ET]
+Table '3860676547 76' 8-max Seat #4 is the button
+Seat 1: icuis (4036 in chips, $1.50 bounty) 
+Seat 2: magumal (2722 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (11977 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3913 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (4129 in chips, $1.50 bounty) 
+Seat 6: dtp1967 (1114 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11649 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (8574 in chips, $2.25 bounty) 
+icuis: posts the ante 15
+magumal: posts the ante 15
+hoopielexx: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kolotulo258: posts the ante 15
+dtp1967: posts the ante 15
+Nihilus1337: posts the ante 15
+oreg 1949: posts the ante 15
+kolotulo258: posts small blind 50
+dtp1967: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Ts]
+Nihilus1337: folds 
+oreg 1949: calls 100
+icuis: raises 130 to 230
+magumal: folds 
+hoopielexx: calls 230
+Kevin12345Mc: folds 
+kolotulo258: folds 
+dtp1967: calls 130
+oreg 1949: calls 130
+*** FLOP *** [3h Js Ad]
+dtp1967: checks 
+oreg 1949: bets 400
+icuis: folds 
+hoopielexx: folds 
+dtp1967: folds 
+Uncalled bet (400) returned to oreg 1949
+oreg 1949 collected 1090 from pot
+*** SUMMARY ***
+Total pot 1090 | Rake 0 
+Board [3h Js Ad]
+Seat 1: icuis folded on the Flop
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded on the Flop
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: kolotulo258 (small blind) folded before Flop
+Seat 6: dtp1967 (big blind) folded on the Flop
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 collected (1090)
+
+
+
+PokerStars Hand #255004372683: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:22:35 WET [2025/02/23 12:22:35 ET]
+Table '3860676547 76' 8-max Seat #5 is the button
+Seat 1: icuis (3791 in chips, $1.50 bounty) 
+Seat 2: magumal (2707 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (11732 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3898 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (4064 in chips, $1.50 bounty) 
+Seat 6: dtp1967 (869 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11634 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9419 in chips, $2.25 bounty) 
+icuis: posts the ante 15
+magumal: posts the ante 15
+hoopielexx: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kolotulo258: posts the ante 15
+dtp1967: posts the ante 15
+Nihilus1337: posts the ante 15
+oreg 1949: posts the ante 15
+dtp1967: posts small blind 50
+Nihilus1337: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Ac]
+oreg 1949: calls 100
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: raises 100 to 200
+dtp1967: calls 150
+Nihilus1337: folds 
+oreg 1949: calls 100
+*** FLOP *** [Kc 5c Ah]
+dtp1967: checks 
+oreg 1949: checks 
+kolotulo258: bets 410
+dtp1967: folds 
+oreg 1949: folds 
+Uncalled bet (410) returned to kolotulo258
+kolotulo258 collected 820 from pot
+kolotulo258: doesn't show hand 
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Kc 5c Ah]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 (button) collected (820)
+Seat 6: dtp1967 (small blind) folded on the Flop
+Seat 7: Nihilus1337 (big blind) folded before Flop
+Seat 8: oreg 1949 folded on the Flop
+
+
+
+PokerStars Hand #255004386145: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:23:20 WET [2025/02/23 12:23:20 ET]
+Table '3860676547 76' 8-max Seat #6 is the button
+Seat 1: icuis (3776 in chips, $1.50 bounty) 
+Seat 2: magumal (2692 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (11717 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3883 in chips, $1.50 bounty) 
+Seat 5: kolotulo258 (4669 in chips, $1.50 bounty) 
+Seat 6: dtp1967 (654 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11519 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9204 in chips, $2.25 bounty) 
+icuis: posts the ante 15
+magumal: posts the ante 15
+hoopielexx: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kolotulo258: posts the ante 15
+dtp1967: posts the ante 15
+Nihilus1337: posts the ante 15
+oreg 1949: posts the ante 15
+Nihilus1337: posts small blind 50
+oreg 1949: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 4h]
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: raises 120 to 220
+kolotulo258: raises 120 to 340
+dtp1967: raises 120 to 460
+Nihilus1337: folds 
+oreg 1949: folds 
+Kevin12345Mc: calls 240
+kolotulo258: raises 420 to 880
+dtp1967: calls 179 and is all-in
+Kevin12345Mc: calls 420
+*** FLOP *** [2d 9h 2h]
+Kevin12345Mc: checks 
+kolotulo258: checks 
+*** TURN *** [2d 9h 2h] [Qh]
+Kevin12345Mc: checks 
+kolotulo258: checks 
+*** RIVER *** [2d 9h 2h Qh] [Ah]
+Kevin12345Mc: checks 
+kolotulo258: bets 435
+Kevin12345Mc: calls 435
+*** SHOW DOWN ***
+kolotulo258: shows [Ad Td] (two pair, Aces and Deuces)
+Kevin12345Mc: shows [4c 4h] (a flush, Ace high)
+Kevin12345Mc collected 1352 from side pot
+dtp1967: mucks hand 
+Kevin12345Mc collected 2187 from main pot
+Kevin12345Mc wins $0.75 for eliminating dtp1967 and their own bounty increases by $0.75 to $2.25
+dtp1967 finished the tournament
+*** SUMMARY ***
+Total pot 3539 Main pot 2187. Side pot 1352. | Rake 0 
+Board [2d 9h 2h Qh Ah]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc showed [4c 4h] and won (3539) with a flush, Ace high
+Seat 5: kolotulo258 showed [Ad Td] and lost with two pair, Aces and Deuces
+Seat 6: dtp1967 (button) mucked [Kd Qd]
+Seat 7: Nihilus1337 (small blind) folded before Flop
+Seat 8: oreg 1949 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004409948: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:24:39 WET [2025/02/23 12:24:39 ET]
+Table '3860676547 76' 8-max Seat #7 is the button
+Seat 1: icuis (3761 in chips, $1.50 bounty) 
+Seat 2: magumal (2677 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (11702 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6092 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (3339 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11454 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9089 in chips, $2.25 bounty) 
+icuis: posts the ante 15
+magumal: posts the ante 15
+hoopielexx: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kolotulo258: posts the ante 15
+Nihilus1337: posts the ante 15
+oreg 1949: posts the ante 15
+oreg 1949: posts small blind 50
+icuis: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 7d]
+Alda156 is disconnected 
+magumal: folds 
+hoopielexx: raises 100 to 200
+Kevin12345Mc: calls 200
+kolotulo258: folds 
+Nihilus1337: folds 
+oreg 1949: calls 150
+icuis: folds 
+*** FLOP *** [5c 8d 8s]
+oreg 1949: bets 600
+hoopielexx: folds 
+Kevin12345Mc: calls 600
+*** TURN *** [5c 8d 8s] [3s]
+oreg 1949: bets 800
+Kevin12345Mc: folds 
+Uncalled bet (800) returned to oreg 1949
+oreg 1949 collected 2005 from pot
+*** SUMMARY ***
+Total pot 2005 | Rake 0 
+Board [5c 8d 8s 3s]
+Seat 1: icuis (big blind) folded before Flop
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded on the Flop
+Seat 4: Kevin12345Mc folded on the Turn
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (button) folded before Flop (didn't bet)
+Seat 8: oreg 1949 (small blind) collected (2005)
+
+
+
+PokerStars Hand #255004429298: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:25:43 WET [2025/02/23 12:25:43 ET]
+Table '3860676547 76' 8-max Seat #8 is the button
+Seat 1: icuis (3646 in chips, $1.50 bounty) 
+Seat 2: magumal (2662 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (11487 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5277 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (3324 in chips, $1.50 bounty) 
+Seat 6: Alda156 (5000 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11439 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10279 in chips, $2.25 bounty) 
+icuis: posts the ante 18
+magumal: posts the ante 18
+hoopielexx: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kolotulo258: posts the ante 18
+Alda156: posts the ante 18
+Nihilus1337: posts the ante 18
+oreg 1949: posts the ante 18
+icuis: posts small blind 60
+magumal: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Kh]
+hoopielexx: folds 
+Kevin12345Mc: raises 156 to 276
+kolotulo258: folds 
+Alda156: folds 
+Nihilus1337: folds 
+oreg 1949: calls 276
+icuis: folds 
+magumal: calls 156
+*** FLOP *** [Th 6s Qh]
+magumal: checks 
+Kevin12345Mc: bets 341
+oreg 1949: folds 
+magumal: folds 
+Uncalled bet (341) returned to Kevin12345Mc
+Kevin12345Mc collected 1032 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1032 | Rake 0 
+Board [Th 6s Qh]
+Seat 1: icuis (small blind) folded before Flop
+Seat 2: magumal (big blind) folded on the Flop
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (1032)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Alda156 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 (button) folded on the Flop
+
+
+
+PokerStars Hand #255004441515: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:26:24 WET [2025/02/23 12:26:24 ET]
+Table '3860676547 76' 8-max Seat #1 is the button
+Seat 1: icuis (3568 in chips, $1.50 bounty) 
+Seat 2: magumal (2368 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (11469 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6015 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (3306 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4982 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11421 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9985 in chips, $2.25 bounty) 
+icuis: posts the ante 18
+magumal: posts the ante 18
+hoopielexx: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kolotulo258: posts the ante 18
+Alda156: posts the ante 18
+Nihilus1337: posts the ante 18
+oreg 1949: posts the ante 18
+magumal: posts small blind 60
+hoopielexx: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 9h]
+Kevin12345Mc: folds 
+kolotulo258: raises 120 to 240
+Alda156: folds 
+Nihilus1337: folds 
+oreg 1949: calls 240
+icuis: folds 
+magumal: calls 180
+hoopielexx: raises 1200 to 1440
+kolotulo258: raises 1848 to 3288 and is all-in
+oreg 1949: folds 
+magumal: folds 
+hoopielexx: calls 1848
+*** FLOP *** [3c Jc Jh]
+*** TURN *** [3c Jc Jh] [9d]
+*** RIVER *** [3c Jc Jh 9d] [Ah]
+*** SHOW DOWN ***
+hoopielexx: shows [Ad Ks] (two pair, Aces and Jacks)
+kolotulo258: shows [As Js] (a full house, Jacks full of Aces)
+kolotulo258 collected 7200 from pot
+*** SUMMARY ***
+Total pot 7200 | Rake 0 
+Board [3c Jc Jh 9d Ah]
+Seat 1: icuis (button) folded before Flop (didn't bet)
+Seat 2: magumal (small blind) folded before Flop
+Seat 3: hoopielexx (big blind) showed [Ad Ks] and lost with two pair, Aces and Jacks
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 showed [As Js] and won (7200) with a full house, Jacks full of Aces
+Seat 6: Alda156 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop
+
+
+
+PokerStars Hand #255004453160: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:27:03 WET [2025/02/23 12:27:03 ET]
+Table '3860676547 76' 8-max Seat #2 is the button
+Seat 1: icuis (3550 in chips, $1.50 bounty) 
+Seat 2: magumal (2110 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8163 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5997 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (7200 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4964 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11403 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9727 in chips, $2.25 bounty) 
+icuis: posts the ante 18
+magumal: posts the ante 18
+hoopielexx: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kolotulo258: posts the ante 18
+Alda156: posts the ante 18
+Nihilus1337: posts the ante 18
+oreg 1949: posts the ante 18
+hoopielexx: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 7s]
+kolotulo258: folds 
+Alda156: folds 
+Nihilus1337: folds 
+oreg 1949: calls 120
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [As 3h 5d]
+Kevin12345Mc: checks 
+oreg 1949: checks 
+*** TURN *** [As 3h 5d] [2d]
+Kevin12345Mc: checks 
+oreg 1949: checks 
+*** RIVER *** [As 3h 5d 2d] [Ah]
+Kevin12345Mc: checks 
+oreg 1949: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Kc 7s] (a pair of Aces)
+oreg 1949: shows [Js Kh] (a pair of Aces - King+Jack kicker)
+oreg 1949 collected 444 from pot
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Board [As 3h 5d 2d Ah]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal (button) folded before Flop (didn't bet)
+Seat 3: hoopielexx (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) showed [Kc 7s] and lost with a pair of Aces
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Alda156 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 showed [Js Kh] and won (444) with a pair of Aces
+
+
+
+PokerStars Hand #255004464408: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:27:40 WET [2025/02/23 12:27:40 ET]
+Table '3860676547 76' 8-max Seat #3 is the button
+Seat 1: icuis (3532 in chips, $1.50 bounty) 
+Seat 2: magumal (2092 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8085 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5859 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (7182 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4946 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11385 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10033 in chips, $2.25 bounty) 
+icuis: posts the ante 18
+magumal: posts the ante 18
+hoopielexx: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kolotulo258: posts the ante 18
+Alda156: posts the ante 18
+Nihilus1337: posts the ante 18
+oreg 1949: posts the ante 18
+Kevin12345Mc: posts small blind 60
+kolotulo258: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Jc]
+Alda156: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: raises 120 to 240
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Uncalled bet (120) returned to hoopielexx
+hoopielexx collected 444 from pot
+hoopielexx: doesn't show hand 
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx (button) collected (444)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: kolotulo258 (big blind) folded before Flop
+Seat 6: Alda156 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004472759: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:28:07 WET [2025/02/23 12:28:07 ET]
+Table '3860676547 76' 8-max Seat #4 is the button
+Seat 1: icuis (3514 in chips, $1.50 bounty) 
+Seat 2: magumal (2074 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8391 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5781 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (7044 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4928 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11367 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10015 in chips, $2.25 bounty) 
+icuis: posts the ante 18
+magumal: posts the ante 18
+hoopielexx: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kolotulo258: posts the ante 18
+Alda156: posts the ante 18
+Nihilus1337: posts the ante 18
+oreg 1949: posts the ante 18
+kolotulo258: posts small blind 60
+Alda156: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 4s]
+Nihilus1337: folds 
+oreg 1949: calls 120
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Alda156: checks 
+*** FLOP *** [7c Qd 9c]
+Alda156: checks 
+oreg 1949: bets 480
+Alda156: folds 
+Uncalled bet (480) returned to oreg 1949
+oreg 1949 collected 444 from pot
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Board [7c Qd 9c]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: kolotulo258 (small blind) folded before Flop
+Seat 6: Alda156 (big blind) folded on the Flop
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 collected (444)
+
+
+
+PokerStars Hand #255004496598: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:29:28 WET [2025/02/23 12:29:28 ET]
+Table '3860676547 76' 8-max Seat #5 is the button
+Seat 1: icuis (3496 in chips, $1.50 bounty) 
+Seat 2: magumal (2056 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8373 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5763 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (6966 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4790 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11349 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10321 in chips, $2.25 bounty) 
+icuis: posts the ante 18
+magumal: posts the ante 18
+hoopielexx: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kolotulo258: posts the ante 18
+Alda156: posts the ante 18
+Nihilus1337: posts the ante 18
+oreg 1949: posts the ante 18
+Alda156: posts small blind 60
+Nihilus1337: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 6h]
+oreg 1949: calls 120
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: calls 120
+Alda156: folds 
+Nihilus1337: checks 
+*** FLOP *** [Ah 3d As]
+Nihilus1337: checks 
+oreg 1949: checks 
+kolotulo258: checks 
+*** TURN *** [Ah 3d As] [2h]
+Nihilus1337: bets 271
+oreg 1949: folds 
+kolotulo258: folds 
+Uncalled bet (271) returned to Nihilus1337
+Nihilus1337 collected 564 from pot
+Nihilus1337: doesn't show hand 
+*** SUMMARY ***
+Total pot 564 | Rake 0 
+Board [Ah 3d As 2h]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 (button) folded on the Turn
+Seat 6: Alda156 (small blind) folded before Flop
+Seat 7: Nihilus1337 (big blind) collected (564)
+Seat 8: oreg 1949 folded on the Turn
+
+
+
+PokerStars Hand #255004508317: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:30:05 WET [2025/02/23 12:30:05 ET]
+Table '3860676547 76' 8-max Seat #6 is the button
+Seat 1: icuis (3478 in chips, $1.50 bounty) 
+Seat 2: magumal (2038 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8355 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5745 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (6828 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4712 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11775 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10183 in chips, $2.25 bounty) 
+icuis: posts the ante 18
+magumal: posts the ante 18
+hoopielexx: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kolotulo258: posts the ante 18
+Alda156: posts the ante 18
+Nihilus1337: posts the ante 18
+oreg 1949: posts the ante 18
+Nihilus1337: posts small blind 60
+oreg 1949: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Qs]
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Alda156: folds 
+Nihilus1337: raises 240 to 360
+oreg 1949: folds 
+Uncalled bet (240) returned to Nihilus1337
+Nihilus1337 collected 384 from pot
+Nihilus1337: doesn't show hand 
+*** SUMMARY ***
+Total pot 384 | Rake 0 
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Alda156 (button) folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (small blind) collected (384)
+Seat 8: oreg 1949 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004516266: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:30:31 WET [2025/02/23 12:30:31 ET]
+Table '3860676547 76' 8-max Seat #7 is the button
+Seat 1: icuis (3460 in chips, $1.50 bounty) 
+Seat 2: magumal (2020 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8337 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5727 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (6810 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4694 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (12021 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10045 in chips, $2.25 bounty) 
+icuis: posts the ante 18
+magumal: posts the ante 18
+hoopielexx: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kolotulo258: posts the ante 18
+Alda156: posts the ante 18
+Nihilus1337: posts the ante 18
+oreg 1949: posts the ante 18
+oreg 1949: posts small blind 60
+icuis: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 3c]
+magumal: folds 
+hoopielexx: raises 120 to 240
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Alda156: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+Uncalled bet (120) returned to hoopielexx
+hoopielexx collected 444 from pot
+hoopielexx: doesn't show hand 
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Seat 1: icuis (big blind) folded before Flop
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx collected (444)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Alda156 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (button) folded before Flop (didn't bet)
+Seat 8: oreg 1949 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255004522870: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:30:52 WET [2025/02/23 12:30:52 ET]
+Table '3860676547 76' 8-max Seat #8 is the button
+Seat 1: icuis (3322 in chips, $1.50 bounty) 
+Seat 2: magumal (2002 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8643 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5709 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (6792 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4676 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (12003 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9967 in chips, $2.25 bounty) 
+icuis: posts the ante 18
+magumal: posts the ante 18
+hoopielexx: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kolotulo258: posts the ante 18
+Alda156: posts the ante 18
+Nihilus1337: posts the ante 18
+oreg 1949: posts the ante 18
+icuis: posts small blind 60
+magumal: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 5d]
+hoopielexx: raises 120 to 240
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Alda156: folds 
+Nihilus1337: raises 720 to 960
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: calls 720
+*** FLOP *** [8d 2h 7c]
+hoopielexx: checks 
+Nihilus1337: bets 494
+hoopielexx: raises 1006 to 1500
+Nihilus1337: calls 1006
+*** TURN *** [8d 2h 7c] [Ts]
+hoopielexx: checks 
+Nihilus1337: bets 2517
+hoopielexx: folds 
+Uncalled bet (2517) returned to Nihilus1337
+Nihilus1337 collected 5244 from pot
+Nihilus1337: doesn't show hand 
+*** SUMMARY ***
+Total pot 5244 | Rake 0 
+Board [8d 2h 7c Ts]
+Seat 1: icuis (small blind) folded before Flop
+Seat 2: magumal (big blind) folded before Flop
+Seat 3: hoopielexx folded on the Turn
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Alda156 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 collected (5244)
+Seat 8: oreg 1949 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004550770: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:32:22 WET [2025/02/23 12:32:22 ET]
+Table '3860676547 76' 8-max Seat #1 is the button
+Seat 1: icuis (3244 in chips, $1.50 bounty) 
+Seat 2: magumal (1864 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (6165 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5691 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (6774 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4658 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (14769 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9949 in chips, $2.25 bounty) 
+icuis: posts the ante 18
+magumal: posts the ante 18
+hoopielexx: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kolotulo258: posts the ante 18
+Alda156: posts the ante 18
+Nihilus1337: posts the ante 18
+oreg 1949: posts the ante 18
+magumal: posts small blind 60
+hoopielexx: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 5d]
+Kevin12345Mc: folds 
+kolotulo258: raises 120 to 240
+Alda156: folds 
+Nihilus1337: folds 
+oreg 1949: calls 240
+icuis: folds 
+magumal: folds 
+hoopielexx: calls 120
+*** FLOP *** [3s 6d 7d]
+hoopielexx: checks 
+kolotulo258: checks 
+oreg 1949: checks 
+*** TURN *** [3s 6d 7d] [9d]
+hoopielexx: bets 420
+kolotulo258: calls 420
+oreg 1949: folds 
+*** RIVER *** [3s 6d 7d 9d] [Js]
+hoopielexx: bets 1020
+kolotulo258: calls 1020
+*** SHOW DOWN ***
+hoopielexx: shows [9s 6s] (two pair, Nines and Sixes)
+kolotulo258: mucks hand 
+hoopielexx collected 3804 from pot
+*** SUMMARY ***
+Total pot 3804 | Rake 0 
+Board [3s 6d 7d 9d Js]
+Seat 1: icuis (button) folded before Flop (didn't bet)
+Seat 2: magumal (small blind) folded before Flop
+Seat 3: hoopielexx (big blind) showed [9s 6s] and won (3804) with two pair, Nines and Sixes
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 mucked [Kd Ah]
+Seat 6: Alda156 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded on the Turn
+
+
+
+PokerStars Hand #255004568867: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:33:20 WET [2025/02/23 12:33:20 ET]
+Table '3860676547 76' 8-max Seat #2 is the button
+Seat 1: icuis (3226 in chips, $1.50 bounty) 
+Seat 2: magumal (1786 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8271 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5673 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (5076 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4640 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (14751 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9691 in chips, $2.25 bounty) 
+icuis: posts the ante 21
+magumal: posts the ante 21
+hoopielexx: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kolotulo258: posts the ante 21
+Alda156: posts the ante 21
+Nihilus1337: posts the ante 21
+oreg 1949: posts the ante 21
+hoopielexx: posts small blind 70
+Kevin12345Mc: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 4s]
+kolotulo258: raises 140 to 280
+Alda156: folds 
+Nihilus1337: folds 
+oreg 1949: calls 280
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [9h Qh Ac]
+kolotulo258: checks 
+oreg 1949: bets 140
+kolotulo258: calls 140
+*** TURN *** [9h Qh Ac] [Ad]
+kolotulo258: checks 
+oreg 1949: bets 280
+kolotulo258: folds [Jc Js]
+Uncalled bet (280) returned to oreg 1949
+oreg 1949 collected 1218 from pot
+*** SUMMARY ***
+Total pot 1218 | Rake 0 
+Board [9h Qh Ac Ad]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal (button) folded before Flop (didn't bet)
+Seat 3: hoopielexx (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: kolotulo258 folded on the Turn
+Seat 6: Alda156 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 collected (1218)
+
+
+
+PokerStars Hand #255004581929: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:34:02 WET [2025/02/23 12:34:02 ET]
+Table '3860676547 76' 8-max Seat #3 is the button
+Seat 1: icuis (3205 in chips, $1.50 bounty) 
+Seat 2: magumal (1765 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8180 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5512 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (4635 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4619 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (14730 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10468 in chips, $2.25 bounty) 
+icuis: posts the ante 21
+magumal: posts the ante 21
+hoopielexx: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kolotulo258: posts the ante 21
+Alda156: posts the ante 21
+Nihilus1337: posts the ante 21
+oreg 1949: posts the ante 21
+Kevin12345Mc: posts small blind 70
+kolotulo258: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 6c]
+Alda156: folds 
+Nihilus1337: folds 
+oreg 1949: calls 140
+icuis: raises 3044 to 3184 and is all-in
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+oreg 1949: folds 
+Uncalled bet (3044) returned to icuis
+icuis collected 658 from pot
+icuis: doesn't show hand 
+*** SUMMARY ***
+Total pot 658 | Rake 0 
+Seat 1: icuis collected (658)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: kolotulo258 (big blind) folded before Flop
+Seat 6: Alda156 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop
+
+
+
+PokerStars Hand #255004589701: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:34:27 WET [2025/02/23 12:34:27 ET]
+Table '3860676547 76' 8-max Seat #4 is the button
+Seat 1: icuis (3702 in chips, $1.50 bounty) 
+Seat 2: magumal (1744 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8159 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5421 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (4474 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4598 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (14709 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10307 in chips, $2.25 bounty) 
+icuis: posts the ante 21
+magumal: posts the ante 21
+hoopielexx: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kolotulo258: posts the ante 21
+Alda156: posts the ante 21
+Nihilus1337: posts the ante 21
+oreg 1949: posts the ante 21
+kolotulo258: posts small blind 70
+Alda156: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 2d]
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: raises 147 to 287
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: calls 287
+kolotulo258: calls 217
+Alda156: folds 
+*** FLOP *** [4s 2c 2s]
+kolotulo258: checks 
+icuis: checks 
+Kevin12345Mc: bets 386
+kolotulo258: folds 
+icuis: folds 
+Uncalled bet (386) returned to Kevin12345Mc
+Kevin12345Mc collected 1169 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1169 | Rake 0 
+Board [4s 2c 2s]
+Seat 1: icuis folded on the Flop
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) collected (1169)
+Seat 5: kolotulo258 (small blind) folded on the Flop
+Seat 6: Alda156 (big blind) folded before Flop
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004603443: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:35:11 WET [2025/02/23 12:35:11 ET]
+Table '3860676547 76' 8-max Seat #5 is the button
+Seat 1: icuis (3394 in chips, $1.50 bounty) 
+Seat 2: magumal (1723 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8138 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6282 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (4166 in chips, $1.50 bounty) 
+Seat 6: Alda156 (4437 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (14688 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10286 in chips, $2.25 bounty) 
+icuis: posts the ante 21
+magumal: posts the ante 21
+hoopielexx: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kolotulo258: posts the ante 21
+Alda156: posts the ante 21
+Nihilus1337: posts the ante 21
+oreg 1949: posts the ante 21
+Alda156: posts small blind 70
+Nihilus1337: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 5h]
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Alda156: calls 70
+Nihilus1337: raises 420 to 560
+Alda156: calls 420
+*** FLOP *** [6s 5c 3c]
+Alda156: checks 
+Nihilus1337: bets 425
+Alda156: folds 
+Uncalled bet (425) returned to Nihilus1337
+Nihilus1337 collected 1288 from pot
+Nihilus1337: doesn't show hand 
+*** SUMMARY ***
+Total pot 1288 | Rake 0 
+Board [6s 5c 3c]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 (button) folded before Flop (didn't bet)
+Seat 6: Alda156 (small blind) folded on the Flop
+Seat 7: Nihilus1337 (big blind) collected (1288)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004624553: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:36:18 WET [2025/02/23 12:36:18 ET]
+Table '3860676547 76' 8-max Seat #6 is the button
+Seat 1: icuis (3373 in chips, $1.50 bounty) 
+Seat 2: magumal (1702 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8117 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6261 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (4145 in chips, $1.50 bounty) 
+Seat 6: Alda156 (3856 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15395 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10265 in chips, $2.25 bounty) 
+icuis: posts the ante 21
+magumal: posts the ante 21
+hoopielexx: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kolotulo258: posts the ante 21
+Alda156: posts the ante 21
+Nihilus1337: posts the ante 21
+oreg 1949: posts the ante 21
+Nihilus1337: posts small blind 70
+oreg 1949: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Js]
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Alda156: folds 
+Nihilus1337: raises 280 to 420
+oreg 1949: folds 
+Uncalled bet (280) returned to Nihilus1337
+Nihilus1337 collected 448 from pot
+Nihilus1337: doesn't show hand 
+*** SUMMARY ***
+Total pot 448 | Rake 0 
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Alda156 (button) folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (small blind) collected (448)
+Seat 8: oreg 1949 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004630160: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:36:36 WET [2025/02/23 12:36:36 ET]
+Table '3860676547 76' 8-max Seat #7 is the button
+Seat 1: icuis (3352 in chips, $1.50 bounty) 
+Seat 2: magumal (1681 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8096 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6240 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (4124 in chips, $1.50 bounty) 
+Seat 6: Alda156 (3835 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15682 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10104 in chips, $2.25 bounty) 
+icuis: posts the ante 21
+magumal: posts the ante 21
+hoopielexx: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kolotulo258: posts the ante 21
+Alda156: posts the ante 21
+Nihilus1337: posts the ante 21
+oreg 1949: posts the ante 21
+oreg 1949: posts small blind 70
+icuis: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Td]
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Alda156: folds 
+Nihilus1337: raises 140 to 280
+oreg 1949: calls 210
+icuis: folds 
+*** FLOP *** [5d 6h Ks]
+oreg 1949: checks 
+Nihilus1337: bets 286
+oreg 1949: raises 720 to 1006
+Nihilus1337: folds 
+Uncalled bet (720) returned to oreg 1949
+oreg 1949 collected 1440 from pot
+*** SUMMARY ***
+Total pot 1440 | Rake 0 
+Board [5d 6h Ks]
+Seat 1: icuis (big blind) folded before Flop
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Alda156 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (button) folded on the Flop
+Seat 8: oreg 1949 (small blind) collected (1440)
+
+
+
+PokerStars Hand #255004646783: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:37:29 WET [2025/02/23 12:37:29 ET]
+Table '3860676547 76' 8-max Seat #8 is the button
+Seat 1: icuis (3191 in chips, $1.50 bounty) 
+Seat 2: magumal (1660 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8075 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6219 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (4103 in chips, $1.50 bounty) 
+Seat 6: Alda156 (3814 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15095 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10957 in chips, $2.25 bounty) 
+icuis: posts the ante 21
+magumal: posts the ante 21
+hoopielexx: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kolotulo258: posts the ante 21
+Alda156: posts the ante 21
+Nihilus1337: posts the ante 21
+oreg 1949: posts the ante 21
+icuis: posts small blind 70
+magumal: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 4s]
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Alda156: raises 140 to 280
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: raises 2890 to 3170 and is all-in
+magumal: folds 
+Alda156: calls 2890
+*** FLOP *** [Js 2c 9c]
+*** TURN *** [Js 2c 9c] [3h]
+*** RIVER *** [Js 2c 9c 3h] [2d]
+*** SHOW DOWN ***
+icuis: shows [8s 8h] (two pair, Eights and Deuces)
+Alda156: shows [Ah Qc] (a pair of Deuces)
+icuis collected 6648 from pot
+*** SUMMARY ***
+Total pot 6648 | Rake 0 
+Board [Js 2c 9c 3h 2d]
+Seat 1: icuis (small blind) showed [8s 8h] and won (6648) with two pair, Eights and Deuces
+Seat 2: magumal (big blind) folded before Flop
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Alda156 showed [Ah Qc] and lost with a pair of Deuces
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004659241: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:38:08 WET [2025/02/23 12:38:08 ET]
+Table '3860676547 76' 8-max Seat #1 is the button
+Seat 1: icuis (6648 in chips, $1.50 bounty) 
+Seat 2: magumal (1499 in chips, $1.50 bounty) 
+Seat 3: hoopielexx (8054 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6198 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (4082 in chips, $1.50 bounty) 
+Seat 6: Alda156 (623 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15074 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10936 in chips, $2.25 bounty) 
+icuis: posts the ante 21
+magumal: posts the ante 21
+hoopielexx: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kolotulo258: posts the ante 21
+Alda156: posts the ante 21
+Nihilus1337: posts the ante 21
+oreg 1949: posts the ante 21
+magumal: posts small blind 70
+hoopielexx: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 9h]
+Kevin12345Mc: raises 182 to 322
+kolotulo258: calls 322
+Alda156: calls 322
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: calls 252
+hoopielexx: calls 182
+*** FLOP *** [Qh 6h 2c]
+magumal: bets 1156 and is all-in
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Alda156: calls 280 and is all-in
+Uncalled bet (876) returned to magumal
+*** TURN *** [Qh 6h 2c] [Kh]
+*** RIVER *** [Qh 6h 2c Kh] [Ad]
+*** SHOW DOWN ***
+magumal: shows [Ah 3h] (a flush, Ace high)
+Alda156: shows [5c 4c] (high card Ace)
+magumal collected 2338 from pot
+Alda156 is sitting out
+magumal wins $0.75 for eliminating Alda156 and their own bounty increases by $0.75 to $2.25
+Alda156 finished the tournament
+*** SUMMARY ***
+Total pot 2338 | Rake 0 
+Board [Qh 6h 2c Kh Ad]
+Seat 1: icuis (button) folded before Flop (didn't bet)
+Seat 2: magumal (small blind) showed [Ah 3h] and won (2338) with a flush, Ace high
+Seat 3: hoopielexx (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded on the Flop
+Seat 5: kolotulo258 folded on the Flop
+Seat 6: Alda156 showed [5c 4c] and lost with high card Ace
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004675391: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:39:01 WET [2025/02/23 12:39:01 ET]
+Table '3860676547 76' 8-max Seat #2 is the button
+Seat 1: icuis (6627 in chips, $1.50 bounty) 
+Seat 2: magumal (3214 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (7711 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5855 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (3739 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (5000 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15053 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10915 in chips, $2.25 bounty) 
+icuis: posts the ante 21
+magumal: posts the ante 21
+hoopielexx: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kolotulo258: posts the ante 21
+Wartimebob: posts the ante 21
+Nihilus1337: posts the ante 21
+oreg 1949: posts the ante 21
+hoopielexx: posts small blind 70
+Kevin12345Mc: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Jh]
+kolotulo258: folds 
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: raises 182 to 322
+magumal: folds 
+hoopielexx: calls 252
+Kevin12345Mc: calls 182
+*** FLOP *** [9d 7c 3h]
+hoopielexx: bets 560
+Kevin12345Mc: folds 
+icuis: calls 560
+*** TURN *** [9d 7c 3h] [4d]
+hoopielexx: bets 1352
+icuis: folds 
+Uncalled bet (1352) returned to hoopielexx
+hoopielexx collected 2254 from pot
+hoopielexx: doesn't show hand 
+*** SUMMARY ***
+Total pot 2254 | Rake 0 
+Board [9d 7c 3h 4d]
+Seat 1: icuis folded on the Turn
+Seat 2: magumal (button) folded before Flop (didn't bet)
+Seat 3: hoopielexx (small blind) collected (2254)
+Seat 4: Kevin12345Mc (big blind) folded on the Flop
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004698373: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:40:15 WET [2025/02/23 12:40:15 ET]
+Table '3860676547 76' 8-max Seat #3 is the button
+Seat 1: icuis (5724 in chips, $1.50 bounty) 
+Seat 2: magumal (3193 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (9062 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5512 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (3718 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (4979 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15032 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10894 in chips, $2.25 bounty) 
+icuis: posts the ante 21
+magumal: posts the ante 21
+hoopielexx: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kolotulo258: posts the ante 21
+Wartimebob: posts the ante 21
+Nihilus1337: posts the ante 21
+oreg 1949: posts the ante 21
+Kevin12345Mc: posts small blind 70
+kolotulo258: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 6h]
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: calls 140
+icuis: calls 140
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: calls 70
+kolotulo258: checks 
+*** FLOP *** [2d Jd Kh]
+Kevin12345Mc: checks 
+kolotulo258: checks 
+oreg 1949: checks 
+icuis: bets 240
+Kevin12345Mc: folds 
+kolotulo258: folds 
+oreg 1949: calls 240
+*** TURN *** [2d Jd Kh] [Th]
+oreg 1949: checks 
+icuis: checks 
+*** RIVER *** [2d Jd Kh Th] [9s]
+oreg 1949: checks 
+icuis: checks 
+*** SHOW DOWN ***
+oreg 1949: shows [As Tc] (a pair of Tens)
+icuis: mucks hand 
+oreg 1949 collected 1208 from pot
+*** SUMMARY ***
+Total pot 1208 | Rake 0 
+Board [2d Jd Kh Th 9s]
+Seat 1: icuis mucked [6d 5d]
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded on the Flop
+Seat 5: kolotulo258 (big blind) folded on the Flop
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 showed [As Tc] and won (1208) with a pair of Tens
+
+
+
+PokerStars Hand #255004715327: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:41:09 WET [2025/02/23 12:41:09 ET]
+Table '3860676547 76' 8-max Seat #4 is the button
+Seat 1: icuis (5323 in chips, $1.50 bounty) 
+Seat 2: magumal (3172 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (9041 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5351 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (3557 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (4958 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15011 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (11701 in chips, $2.25 bounty) 
+icuis: posts the ante 24
+magumal: posts the ante 24
+hoopielexx: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kolotulo258: posts the ante 24
+Wartimebob: posts the ante 24
+Nihilus1337: posts the ante 24
+oreg 1949: posts the ante 24
+kolotulo258: posts small blind 80
+Wartimebob: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Qh]
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: raises 160 to 320
+Wartimebob: calls 160
+*** FLOP *** [7h Tc 4c]
+kolotulo258: bets 416
+Wartimebob: calls 416
+*** TURN *** [7h Tc 4c] [Ad]
+kolotulo258: checks 
+Wartimebob: bets 832
+kolotulo258: folds 
+Uncalled bet (832) returned to Wartimebob
+Wartimebob collected 1664 from pot
+*** SUMMARY ***
+Total pot 1664 | Rake 0 
+Board [7h Tc 4c Ad]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: kolotulo258 (small blind) folded on the Turn
+Seat 6: Wartimebob (big blind) collected (1664)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004728359: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:41:51 WET [2025/02/23 12:41:51 ET]
+Table '3860676547 76' 8-max Seat #5 is the button
+Seat 1: icuis (5299 in chips, $1.50 bounty) 
+Seat 2: magumal (3148 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (9017 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5327 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (2797 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (5862 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (14987 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (11677 in chips, $2.25 bounty) 
+icuis: posts the ante 24
+magumal: posts the ante 24
+hoopielexx: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kolotulo258: posts the ante 24
+Wartimebob: posts the ante 24
+Nihilus1337: posts the ante 24
+oreg 1949: posts the ante 24
+Wartimebob: posts small blind 80
+Nihilus1337: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Kd]
+oreg 1949: folds 
+icuis: folds 
+magumal: calls 160
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Wartimebob: calls 80
+Nihilus1337: checks 
+*** FLOP *** [7s 6s As]
+Wartimebob: checks 
+Nihilus1337: bets 222
+magumal: folds 
+Wartimebob: folds 
+Uncalled bet (222) returned to Nihilus1337
+Nihilus1337 collected 672 from pot
+Nihilus1337: doesn't show hand 
+*** SUMMARY ***
+Total pot 672 | Rake 0 
+Board [7s 6s As]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded on the Flop
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 (button) folded before Flop (didn't bet)
+Seat 6: Wartimebob (small blind) folded on the Flop
+Seat 7: Nihilus1337 (big blind) collected (672)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004738391: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:42:23 WET [2025/02/23 12:42:23 ET]
+Table '3860676547 76' 8-max Seat #6 is the button
+Seat 1: icuis (5275 in chips, $1.50 bounty) 
+Seat 2: magumal (2964 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (8993 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5303 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (2773 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (5678 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15475 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (11653 in chips, $2.25 bounty) 
+icuis: posts the ante 24
+magumal: posts the ante 24
+hoopielexx: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kolotulo258: posts the ante 24
+Wartimebob: posts the ante 24
+Nihilus1337: posts the ante 24
+oreg 1949: posts the ante 24
+Nihilus1337: posts small blind 80
+oreg 1949: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th Kc]
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: raises 192 to 352
+kolotulo258: folds 
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: calls 192
+*** FLOP *** [4d 5s Kh]
+oreg 1949: checks 
+Kevin12345Mc: bets 322
+oreg 1949: calls 322
+*** TURN *** [4d 5s Kh] [2c]
+oreg 1949: bets 480
+Kevin12345Mc: calls 480
+*** RIVER *** [4d 5s Kh 2c] [5c]
+oreg 1949: bets 480
+Kevin12345Mc: calls 480
+*** SHOW DOWN ***
+oreg 1949: shows [8c 8d] (two pair, Eights and Fives)
+Kevin12345Mc: shows [Th Kc] (two pair, Kings and Fives)
+Kevin12345Mc collected 3540 from pot
+*** SUMMARY ***
+Total pot 3540 | Rake 0 
+Board [4d 5s Kh 2c 5c]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc showed [Th Kc] and won (3540) with two pair, Kings and Fives
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Wartimebob (button) folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (small blind) folded before Flop
+Seat 8: oreg 1949 (big blind) showed [8c 8d] and lost with two pair, Eights and Fives
+
+
+
+PokerStars Hand #255004762502: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:43:41 WET [2025/02/23 12:43:41 ET]
+Table '3860676547 76' 8-max Seat #7 is the button
+Seat 1: icuis (5251 in chips, $1.50 bounty) 
+Seat 2: magumal (2940 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (8969 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7185 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (2749 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (5654 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15371 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9995 in chips, $2.25 bounty) 
+icuis: posts the ante 24
+magumal: posts the ante 24
+hoopielexx: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kolotulo258: posts the ante 24
+Wartimebob: posts the ante 24
+Nihilus1337: posts the ante 24
+oreg 1949: posts the ante 24
+oreg 1949: posts small blind 80
+icuis: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 8d]
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Wartimebob: folds 
+Nihilus1337: raises 160 to 320
+oreg 1949: calls 240
+icuis: folds 
+*** FLOP *** [4c 5s 3c]
+oreg 1949: checks 
+Nihilus1337: bets 476
+oreg 1949: folds 
+Uncalled bet (476) returned to Nihilus1337
+Nihilus1337 collected 992 from pot
+Nihilus1337: doesn't show hand 
+*** SUMMARY ***
+Total pot 992 | Rake 0 
+Board [4c 5s 3c]
+Seat 1: icuis (big blind) folded before Flop
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (button) collected (992)
+Seat 8: oreg 1949 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #255004775281: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:44:22 WET [2025/02/23 12:44:22 ET]
+Table '3860676547 76' 8-max Seat #8 is the button
+Seat 1: icuis (5067 in chips, $1.50 bounty) 
+Seat 2: magumal (2916 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (8945 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7161 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (2725 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (5630 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (16019 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9651 in chips, $2.25 bounty) 
+icuis: posts the ante 24
+magumal: posts the ante 24
+hoopielexx: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kolotulo258: posts the ante 24
+Wartimebob: posts the ante 24
+Nihilus1337: posts the ante 24
+oreg 1949: posts the ante 24
+icuis: posts small blind 80
+magumal: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh As]
+hoopielexx: folds 
+Kevin12345Mc: raises 208 to 368
+kolotulo258: folds 
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+Uncalled bet (208) returned to Kevin12345Mc
+Kevin12345Mc collected 592 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: icuis (small blind) folded before Flop
+Seat 2: magumal (big blind) folded before Flop
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (592)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004779323: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:44:35 WET [2025/02/23 12:44:35 ET]
+Table '3860676547 76' 8-max Seat #1 is the button
+Seat 1: icuis (4963 in chips, $1.50 bounty) 
+Seat 2: magumal (2732 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (8921 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7569 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (2701 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (5606 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15995 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9627 in chips, $2.25 bounty) 
+icuis: posts the ante 24
+magumal: posts the ante 24
+hoopielexx: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kolotulo258: posts the ante 24
+Wartimebob: posts the ante 24
+Nihilus1337: posts the ante 24
+oreg 1949: posts the ante 24
+magumal: posts small blind 80
+hoopielexx: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 4s]
+Kevin12345Mc: folds 
+kolotulo258: raises 2517 to 2677 and is all-in
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: raises 31 to 2708 and is all-in
+hoopielexx: folds 
+Uncalled bet (31) returned to magumal
+*** FLOP *** [Th Ts 6d]
+*** TURN *** [Th Ts 6d] [6c]
+*** RIVER *** [Th Ts 6d 6c] [8d]
+*** SHOW DOWN ***
+magumal: shows [Ac Qd] (two pair, Tens and Sixes)
+kolotulo258: shows [Ah 9c] (two pair, Tens and Sixes)
+magumal collected 2853 from pot
+kolotulo258 collected 2853 from pot
+*** SUMMARY ***
+Total pot 5706 | Rake 0 
+Board [Th Ts 6d 6c 8d]
+Seat 1: icuis (button) folded before Flop (didn't bet)
+Seat 2: magumal (small blind) showed [Ac Qd] and won (2853) with two pair, Tens and Sixes
+Seat 3: hoopielexx (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 showed [Ah 9c] and won (2853) with two pair, Tens and Sixes
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004787345: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:45:00 WET [2025/02/23 12:45:00 ET]
+Table '3860676547 76' 8-max Seat #2 is the button
+Seat 1: icuis (4939 in chips, $1.50 bounty) 
+Seat 2: magumal (2884 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (8737 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7545 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (2853 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (5582 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15971 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9603 in chips, $2.25 bounty) 
+icuis: posts the ante 24
+magumal: posts the ante 24
+hoopielexx: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kolotulo258: posts the ante 24
+Wartimebob: posts the ante 24
+Nihilus1337: posts the ante 24
+oreg 1949: posts the ante 24
+hoopielexx: posts small blind 80
+Kevin12345Mc: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 5s]
+kolotulo258: raises 160 to 320
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+Uncalled bet (160) returned to kolotulo258
+kolotulo258 collected 592 from pot
+kolotulo258: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal (button) folded before Flop (didn't bet)
+Seat 3: hoopielexx (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: kolotulo258 collected (592)
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004800230: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:45:42 WET [2025/02/23 12:45:42 ET]
+Table '3860676547 76' 8-max Seat #3 is the button
+Seat 1: icuis (4915 in chips, $1.50 bounty) 
+Seat 2: magumal (2860 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (8633 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7361 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (3261 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (5558 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15947 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9579 in chips, $2.25 bounty) 
+icuis: posts the ante 24
+magumal: posts the ante 24
+hoopielexx: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kolotulo258: posts the ante 24
+Wartimebob: posts the ante 24
+Nihilus1337: posts the ante 24
+oreg 1949: posts the ante 24
+Kevin12345Mc: posts small blind 80
+kolotulo258: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 6h]
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: calls 160
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: calls 80
+kolotulo258: checks 
+*** FLOP *** [5d Kh 5h]
+Kevin12345Mc: checks 
+kolotulo258: bets 336
+oreg 1949: folds 
+Kevin12345Mc: calls 336
+*** TURN *** [5d Kh 5h] [3c]
+Kevin12345Mc: checks 
+kolotulo258: checks 
+*** RIVER *** [5d Kh 5h 3c] [As]
+Kevin12345Mc: checks 
+kolotulo258: bets 672
+Kevin12345Mc: folds 
+Uncalled bet (672) returned to kolotulo258
+kolotulo258 collected 1344 from pot
+kolotulo258: doesn't show hand 
+*** SUMMARY ***
+Total pot 1344 | Rake 0 
+Board [5d Kh 5h 3c As]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded on the River
+Seat 5: kolotulo258 (big blind) collected (1344)
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded on the Flop
+
+
+
+PokerStars Hand #255004818368: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:46:39 WET [2025/02/23 12:46:39 ET]
+Table '3860676547 76' 8-max Seat #4 is the button
+Seat 1: icuis (4891 in chips, $1.50 bounty) 
+Seat 2: magumal (2836 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (8609 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6841 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (4085 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (5534 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15923 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9395 in chips, $2.25 bounty) 
+icuis: posts the ante 24
+magumal: posts the ante 24
+hoopielexx: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kolotulo258: posts the ante 24
+Wartimebob: posts the ante 24
+Nihilus1337: posts the ante 24
+oreg 1949: posts the ante 24
+kolotulo258: posts small blind 80
+Wartimebob: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 3c]
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: raises 160 to 320
+Kevin12345Mc: folds 
+kolotulo258: calls 240
+Wartimebob: calls 160
+*** FLOP *** [Qd Ac 9d]
+kolotulo258: checks 
+Wartimebob: checks 
+hoopielexx: bets 288
+kolotulo258: folds 
+Wartimebob: calls 288
+*** TURN *** [Qd Ac 9d] [Kh]
+Wartimebob: checks 
+hoopielexx: checks 
+*** RIVER *** [Qd Ac 9d Kh] [4c]
+Wartimebob: bets 320
+hoopielexx: calls 320
+*** SHOW DOWN ***
+Wartimebob: shows [Qh 5d] (a pair of Queens)
+hoopielexx: shows [Jc Qc] (a pair of Queens - Ace+King+Jack kicker)
+hoopielexx collected 2368 from pot
+*** SUMMARY ***
+Total pot 2368 | Rake 0 
+Board [Qd Ac 9d Kh 4c]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx showed [Jc Qc] and won (2368) with a pair of Queens
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: kolotulo258 (small blind) folded on the Flop
+Seat 6: Wartimebob (big blind) showed [Qh 5d] and lost with a pair of Queens
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004832782: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:47:24 WET [2025/02/23 12:47:24 ET]
+Table '3860676547 76' 8-max Seat #5 is the button
+Seat 1: icuis (4867 in chips, $1.50 bounty) 
+Seat 2: magumal (2812 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (10025 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6817 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (3741 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (4582 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15899 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9371 in chips, $2.25 bounty) 
+icuis: posts the ante 24
+magumal: posts the ante 24
+hoopielexx: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kolotulo258: posts the ante 24
+Wartimebob: posts the ante 24
+Nihilus1337: posts the ante 24
+oreg 1949: posts the ante 24
+Wartimebob: posts small blind 80
+Nihilus1337: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 9d]
+oreg 1949: folds 
+icuis: folds 
+magumal: calls 160
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Wartimebob: raises 320 to 480
+Nihilus1337: calls 320
+magumal: calls 320
+*** FLOP *** [9c 5d Ks]
+Wartimebob: checks 
+Nihilus1337: checks 
+magumal: checks 
+*** TURN *** [9c 5d Ks] [3h]
+Wartimebob: bets 1136
+Nihilus1337: folds 
+magumal: folds 
+Uncalled bet (1136) returned to Wartimebob
+Wartimebob collected 1632 from pot
+*** SUMMARY ***
+Total pot 1632 | Rake 0 
+Board [9c 5d Ks 3h]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded on the Turn
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 (button) folded before Flop (didn't bet)
+Seat 6: Wartimebob (small blind) collected (1632)
+Seat 7: Nihilus1337 (big blind) folded on the Turn
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004849032: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:48:15 WET [2025/02/23 12:48:15 ET]
+Table '3860676547 76' 8-max Seat #6 is the button
+Seat 1: icuis (4843 in chips, $1.50 bounty) 
+Seat 2: magumal (2308 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (10001 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6793 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (3717 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (5710 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15395 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9347 in chips, $2.25 bounty) 
+icuis: posts the ante 24
+magumal: posts the ante 24
+hoopielexx: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kolotulo258: posts the ante 24
+Wartimebob: posts the ante 24
+Nihilus1337: posts the ante 24
+oreg 1949: posts the ante 24
+Nihilus1337: posts small blind 80
+oreg 1949: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 3c]
+icuis: folds 
+magumal: calls 160
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: calls 160
+Wartimebob: raises 480 to 640
+Nihilus1337: folds 
+oreg 1949: folds 
+magumal: calls 480
+kolotulo258: folds 
+*** FLOP *** [3s Qs As]
+magumal: checks 
+Wartimebob: checks 
+*** TURN *** [3s Qs As] [9d]
+magumal: checks 
+Wartimebob: bets 936
+magumal: folds 
+Uncalled bet (936) returned to Wartimebob
+Wartimebob collected 1872 from pot
+*** SUMMARY ***
+Total pot 1872 | Rake 0 
+Board [3s Qs As 9d]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded on the Turn
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop
+Seat 6: Wartimebob (button) collected (1872)
+Seat 7: Nihilus1337 (small blind) folded before Flop
+Seat 8: oreg 1949 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004864718: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:49:06 WET [2025/02/23 12:49:06 ET]
+Table '3860676547 76' 8-max Seat #7 is the button
+Seat 1: icuis (4819 in chips, $1.50 bounty) 
+Seat 2: magumal (1644 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (9977 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6769 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (3533 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (6918 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15291 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9163 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+kolotulo258: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+oreg 1949: posts small blind 90
+icuis: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 6h]
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+kolotulo258: folds 
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: calls 90
+icuis: checks 
+*** FLOP *** [9d Th 2c]
+oreg 1949: bets 360
+icuis: folds 
+Uncalled bet (360) returned to oreg 1949
+oreg 1949 collected 576 from pot
+*** SUMMARY ***
+Total pot 576 | Rake 0 
+Board [9d Th 2c]
+Seat 1: icuis (big blind) folded on the Flop
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (button) folded before Flop (didn't bet)
+Seat 8: oreg 1949 (small blind) collected (576)
+
+
+
+PokerStars Hand #255004870905: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:49:25 WET [2025/02/23 12:49:25 ET]
+Table '3860676547 76' 8-max Seat #8 is the button
+Seat 1: icuis (4612 in chips, $1.50 bounty) 
+Seat 2: magumal (1617 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (9950 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6742 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (3506 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (6891 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15264 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9532 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+kolotulo258: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+icuis: posts small blind 90
+magumal: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Ah]
+hoopielexx: folds 
+Kevin12345Mc: raises 216 to 396
+kolotulo258: calls 396
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: calls 216
+*** FLOP *** [Qc Jd Qd]
+magumal: bets 1194 and is all-in
+Kevin12345Mc: folds 
+kolotulo258: calls 1194
+*** TURN *** [Qc Jd Qd] [Jc]
+*** RIVER *** [Qc Jd Qd Jc] [4h]
+*** SHOW DOWN ***
+magumal: shows [9d Jh] (a full house, Jacks full of Queens)
+kolotulo258: shows [5s 5d] (two pair, Queens and Jacks)
+magumal collected 3882 from pot
+*** SUMMARY ***
+Total pot 3882 | Rake 0 
+Board [Qc Jd Qd Jc 4h]
+Seat 1: icuis (small blind) folded before Flop
+Seat 2: magumal (big blind) showed [9d Jh] and won (3882) with a full house, Jacks full of Queens
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded on the Flop
+Seat 5: kolotulo258 showed [5s 5d] and lost with two pair, Queens and Jacks
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004885387: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:50:11 WET [2025/02/23 12:50:11 ET]
+Table '3860676547 76' 8-max Seat #1 is the button
+Seat 1: icuis (4495 in chips, $1.50 bounty) 
+Seat 2: magumal (3882 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (9923 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6319 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (1889 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (6864 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15237 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9505 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+kolotulo258: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+magumal: posts small blind 90
+hoopielexx: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Jc]
+Kevin12345Mc: raises 216 to 396
+kolotulo258: folds 
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: calls 216
+*** FLOP *** [6h 9d Ac]
+hoopielexx: checks 
+Kevin12345Mc: bets 362
+hoopielexx: calls 362
+*** TURN *** [6h 9d Ac] [Jd]
+hoopielexx: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [6h 9d Ac Jd] [9h]
+hoopielexx: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+hoopielexx: shows [Tc 8h] (a pair of Nines)
+Kevin12345Mc: shows [Qc Jc] (two pair, Jacks and Nines)
+Kevin12345Mc collected 1822 from pot
+*** SUMMARY ***
+Total pot 1822 | Rake 0 
+Board [6h 9d Ac Jd 9h]
+Seat 1: icuis (button) folded before Flop (didn't bet)
+Seat 2: magumal (small blind) folded before Flop
+Seat 3: hoopielexx (big blind) showed [Tc 8h] and lost with a pair of Nines
+Seat 4: Kevin12345Mc showed [Qc Jc] and won (1822) with two pair, Jacks and Nines
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004903241: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:51:08 WET [2025/02/23 12:51:08 ET]
+Table '3860676547 76' 8-max Seat #2 is the button
+Seat 1: icuis (4468 in chips, $1.50 bounty) 
+Seat 2: magumal (3765 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (9138 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7356 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (1862 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (6837 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15210 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9478 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+kolotulo258: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+hoopielexx: posts small blind 90
+Kevin12345Mc: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 6s]
+kolotulo258: folds 
+Wartimebob: raises 666 to 846
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+Uncalled bet (666) returned to Wartimebob
+Wartimebob collected 666 from pot
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal (button) folded before Flop (didn't bet)
+Seat 3: hoopielexx (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: kolotulo258 folded before Flop (didn't bet)
+Seat 6: Wartimebob collected (666)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004913104: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:51:40 WET [2025/02/23 12:51:40 ET]
+Table '3860676547 76' 8-max Seat #3 is the button
+Seat 1: icuis (4441 in chips, $1.50 bounty) 
+Seat 2: magumal (3738 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (9021 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7149 in chips, $2.25 bounty) 
+Seat 5: kolotulo258 (1835 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (7296 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15183 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9451 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+kolotulo258: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+Kevin12345Mc: posts small blind 90
+kolotulo258: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Kc]
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: raises 180 to 360
+Kevin12345Mc: folds 
+kolotulo258: raises 1448 to 1808 and is all-in
+hoopielexx: calls 1448
+*** FLOP *** [4h 6h 6c]
+*** TURN *** [4h 6h 6c] [8h]
+*** RIVER *** [4h 6h 6c 8h] [Jc]
+*** SHOW DOWN ***
+kolotulo258: shows [Ks Th] (a pair of Sixes)
+hoopielexx: shows [7c Js] (two pair, Jacks and Sixes)
+hoopielexx collected 3922 from pot
+hoopielexx wins $0.75 for eliminating kolotulo258 and their own bounty increases by $0.75 to $2.25
+kolotulo258 finished the tournament
+*** SUMMARY ***
+Total pot 3922 | Rake 0 
+Board [4h 6h 6c 8h Jc]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx (button) showed [7c Js] and won (3922) with two pair, Jacks and Sixes
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: kolotulo258 (big blind) showed [Ks Th] and lost with a pair of Sixes
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004923216: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:52:12 WET [2025/02/23 12:52:12 ET]
+Table '3860676547 76' 8-max Seat #4 is the button
+Seat 1: icuis (4414 in chips, $1.50 bounty) 
+Seat 2: magumal (3711 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (11108 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (7032 in chips, $2.25 bounty) 
+Seat 6: Wartimebob (7269 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15156 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (9424 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+Wartimebob: posts small blind 90
+Nihilus1337: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 6c]
+Ignorant_Hippo is disconnected 
+oreg 1949: raises 180 to 360
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+Wartimebob: calls 270
+Nihilus1337: calls 180
+*** FLOP *** [3h Kc Ks]
+Wartimebob: checks 
+Nihilus1337: checks 
+oreg 1949: bets 360
+Wartimebob: calls 360
+Nihilus1337: folds 
+*** TURN *** [3h Kc Ks] [Th]
+Wartimebob: checks 
+oreg 1949: bets 540
+Wartimebob: calls 540
+*** RIVER *** [3h Kc Ks Th] [2d]
+Wartimebob: checks 
+oreg 1949: checks 
+*** SHOW DOWN ***
+Wartimebob: shows [7c 7s] (two pair, Kings and Sevens)
+oreg 1949: shows [9d 9s] (two pair, Kings and Nines)
+oreg 1949 collected 3069 from pot
+*** SUMMARY ***
+Total pot 3069 | Rake 0 
+Board [3h Kc Ks Th 2d]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: Wartimebob (small blind) showed [7c 7s] and lost with two pair, Kings and Sevens
+Seat 7: Nihilus1337 (big blind) folded on the Flop
+Seat 8: oreg 1949 showed [9d 9s] and won (3069) with two pair, Kings and Nines
+
+
+
+PokerStars Hand #255004940653: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:53:08 WET [2025/02/23 12:53:08 ET]
+Table '3860676547 76' 8-max Seat #6 is the button
+Seat 1: icuis (4387 in chips, $1.50 bounty) 
+Seat 2: magumal (3684 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (11081 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (7005 in chips, $2.25 bounty) 
+Seat 5: Ignorant_Hippo (5000 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (5982 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (14769 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (11206 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Ignorant_Hippo: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+Nihilus1337: posts small blind 90
+oreg 1949: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 4d]
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+Ignorant_Hippo: folds 
+Wartimebob: raises 360 to 540
+Nihilus1337: folds 
+oreg 1949: folds 
+Uncalled bet (360) returned to Wartimebob
+Wartimebob collected 666 from pot
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Ignorant_Hippo folded before Flop (didn't bet)
+Seat 6: Wartimebob (button) collected (666)
+Seat 7: Nihilus1337 (small blind) folded before Flop
+Seat 8: oreg 1949 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004950433: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:53:40 WET [2025/02/23 12:53:40 ET]
+Table '3860676547 76' 8-max Seat #7 is the button
+Seat 1: icuis (4360 in chips, $1.50 bounty) 
+Seat 2: magumal (3657 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (11054 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (6978 in chips, $2.25 bounty) 
+Seat 5: Ignorant_Hippo (4973 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (6441 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (14652 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10999 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Ignorant_Hippo: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+oreg 1949: posts small blind 90
+icuis: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Ac]
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+Ignorant_Hippo: raises 216 to 396
+Wartimebob: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+Uncalled bet (216) returned to Ignorant_Hippo
+Ignorant_Hippo collected 666 from pot
+Ignorant_Hippo: doesn't show hand 
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: icuis (big blind) folded before Flop
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Ignorant_Hippo collected (666)
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (button) folded before Flop (didn't bet)
+Seat 8: oreg 1949 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255004957068: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:54:01 WET [2025/02/23 12:54:01 ET]
+Table '3860676547 76' 8-max Seat #8 is the button
+Seat 1: icuis (4153 in chips, $1.50 bounty) 
+Seat 2: magumal (3630 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (11027 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (6951 in chips, $2.25 bounty) 
+Seat 5: Ignorant_Hippo (5432 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (6414 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (14625 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10882 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Ignorant_Hippo: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+icuis: posts small blind 90
+magumal: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Qs]
+hoopielexx: folds 
+Kevin12345Mc: folds 
+Ignorant_Hippo: folds 
+Wartimebob: folds 
+Nihilus1337: raises 180 to 360
+oreg 1949: calls 360
+icuis: folds 
+magumal: folds 
+*** FLOP *** [6h 3h 2d]
+Nihilus1337: bets 398
+oreg 1949: folds 
+Uncalled bet (398) returned to Nihilus1337
+Nihilus1337 collected 1206 from pot
+Nihilus1337: doesn't show hand 
+*** SUMMARY ***
+Total pot 1206 | Rake 0 
+Board [6h 3h 2d]
+Seat 1: icuis (small blind) folded before Flop
+Seat 2: magumal (big blind) folded before Flop
+Seat 3: hoopielexx folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Ignorant_Hippo folded before Flop (didn't bet)
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 collected (1206)
+Seat 8: oreg 1949 (button) folded on the Flop
+
+
+
+PokerStars Hand #255004973274: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:54:53 WET [2025/02/23 12:54:53 ET]
+Table '3860676547 76' 8-max Seat #1 is the button
+Seat 1: icuis (4036 in chips, $1.50 bounty) 
+Seat 2: magumal (3423 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (11000 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (6924 in chips, $2.25 bounty) 
+Seat 5: Ignorant_Hippo (5405 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (6387 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (15444 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (10495 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Ignorant_Hippo: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+magumal: posts small blind 90
+hoopielexx: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 2s]
+Kevin12345Mc: folds 
+Ignorant_Hippo: folds 
+Wartimebob: folds 
+Nihilus1337: raises 180 to 360
+oreg 1949: calls 360
+icuis: folds 
+magumal: folds 
+hoopielexx: calls 180
+*** FLOP *** [8c 3d Jd]
+hoopielexx: checks 
+Nihilus1337: bets 457
+oreg 1949: calls 457
+Ignorant_Hippo is sitting out
+hoopielexx: raises 1654 to 2111
+Nihilus1337: folds 
+oreg 1949: calls 1654
+*** TURN *** [8c 3d Jd] [5h]
+hoopielexx: bets 8502 and is all-in
+oreg 1949: calls 7997 and is all-in
+Uncalled bet (505) returned to hoopielexx
+*** RIVER *** [8c 3d Jd 5h] [Kd]
+Ignorant_Hippo has returned
+*** SHOW DOWN ***
+hoopielexx: shows [8h 3h] (two pair, Eights and Threes)
+oreg 1949: shows [Ks Jc] (two pair, Kings and Jacks)
+oreg 1949 collected 22059 from pot
+*** SUMMARY ***
+Total pot 22059 | Rake 0 
+Board [8c 3d Jd 5h Kd]
+Seat 1: icuis (button) folded before Flop (didn't bet)
+Seat 2: magumal (small blind) folded before Flop
+Seat 3: hoopielexx (big blind) showed [8h 3h] and lost with two pair, Eights and Threes
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Ignorant_Hippo folded before Flop (didn't bet)
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded on the Flop
+Seat 8: oreg 1949 showed [Ks Jc] and won (22059) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #255005065832: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 18:02:06 WET [2025/02/23 13:02:06 ET]
+Table '3860676547 76' 8-max Seat #2 is the button
+Seat 1: icuis (4009 in chips, $1.50 bounty) 
+Seat 2: magumal (3306 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (505 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (6897 in chips, $2.25 bounty) 
+Seat 5: Ignorant_Hippo (5378 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (6360 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (14600 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (22059 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Ignorant_Hippo: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+hoopielexx: posts small blind 90
+Kevin12345Mc: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 8d]
+Ignorant_Hippo: raises 216 to 396
+Wartimebob: folds 
+Nihilus1337: raises 684 to 1080
+oreg 1949: folds 
+icuis: folds 
+magumal: folds 
+hoopielexx: folds 
+Kevin12345Mc: folds 
+Ignorant_Hippo: calls 684
+*** FLOP *** [7s 8s 8h]
+Ignorant_Hippo: checks 
+Nihilus1337: bets 873
+Ignorant_Hippo: raises 3398 to 4271 and is all-in
+Nihilus1337: folds 
+Uncalled bet (3398) returned to Ignorant_Hippo
+Ignorant_Hippo collected 4392 from pot
+Ignorant_Hippo: doesn't show hand 
+*** SUMMARY ***
+Total pot 4392 | Rake 0 
+Board [7s 8s 8h]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal (button) folded before Flop (didn't bet)
+Seat 3: hoopielexx (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: Ignorant_Hippo collected (4392)
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded on the Flop
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005089878: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 18:03:24 WET [2025/02/23 13:03:24 ET]
+Table '3860676547 76' 8-max Seat #3 is the button
+Seat 1: icuis (3982 in chips, $1.50 bounty) 
+Seat 2: magumal (3279 in chips, $2.25 bounty) 
+Seat 3: hoopielexx (388 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (6690 in chips, $2.25 bounty) 
+Seat 5: Ignorant_Hippo (7790 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (6333 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (12620 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (22032 in chips, $2.25 bounty) 
+icuis: posts the ante 27
+magumal: posts the ante 27
+hoopielexx: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Ignorant_Hippo: posts the ante 27
+Wartimebob: posts the ante 27
+Nihilus1337: posts the ante 27
+oreg 1949: posts the ante 27
+Kevin12345Mc: posts small blind 90
+Ignorant_Hippo: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Js]
+Wartimebob: folds 
+Nihilus1337: raises 180 to 360
+oreg 1949: calls 360
+icuis: folds 
+magumal: folds 
+hoopielexx: raises 1 to 361 and is all-in
+Kevin12345Mc: folds 
+Ignorant_Hippo: calls 181
+Nihilus1337: calls 1
+oreg 1949: calls 1
+*** FLOP *** [Qh 2c 7d]
+Ignorant_Hippo: checks 
+Nihilus1337: bets 578
+oreg 1949: raises 578 to 1156
+Ignorant_Hippo: folds 
+Nihilus1337: folds 
+Uncalled bet (578) returned to oreg 1949
+*** TURN *** [Qh 2c 7d] [Th]
+*** RIVER *** [Qh 2c 7d Th] [4h]
+*** SHOW DOWN ***
+oreg 1949: shows [Qs As] (a pair of Queens)
+oreg 1949 collected 1156 from side pot
+hoopielexx: shows [9s Ks] (high card King)
+oreg 1949 collected 1750 from main pot
+oreg 1949 wins $1.13 for eliminating hoopielexx and their own bounty increases by $1.12 to $3.37
+hoopielexx finished the tournament
+*** SUMMARY ***
+Total pot 2906 Main pot 1750. Side pot 1156. | Rake 0 
+Board [Qh 2c 7d Th 4h]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 3: hoopielexx (button) showed [9s Ks] and lost with high card King
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Ignorant_Hippo (big blind) folded on the Flop
+Seat 6: Wartimebob folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded on the Flop
+Seat 8: oreg 1949 showed [Qs As] and won (2906) with a pair of Queens
+
+
+
+PokerStars Hand #255005115309: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:04:44 WET [2025/02/23 13:04:44 ET]
+Table '3860676547 76' 8-max Seat #4 is the button
+Seat 1: icuis (3955 in chips, $1.50 bounty) 
+Seat 2: magumal (3252 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (6573 in chips, $2.25 bounty) 
+Seat 5: Ignorant_Hippo (7402 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (6306 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11654 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (23972 in chips, $3.37 bounty) 
+icuis: posts the ante 30
+magumal: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Ignorant_Hippo: posts the ante 30
+Wartimebob: posts the ante 30
+Nihilus1337: posts the ante 30
+oreg 1949: posts the ante 30
+Ignorant_Hippo: posts small blind 100
+Wartimebob: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h As]
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: raises 210 to 410
+magumal: folds 
+Kevin12345Mc: folds 
+Ignorant_Hippo: folds 
+Wartimebob: folds 
+Uncalled bet (210) returned to icuis
+icuis collected 710 from pot
+icuis: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Seat 1: icuis collected (710)
+Seat 2: magumal folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: Ignorant_Hippo (small blind) folded before Flop
+Seat 6: Wartimebob (big blind) folded before Flop
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005127819: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:05:22 WET [2025/02/23 13:05:22 ET]
+Table '3860676547 76' 8-max Seat #5 is the button
+Seat 1: icuis (4435 in chips, $1.50 bounty) 
+Seat 2: magumal (3222 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (6543 in chips, $2.25 bounty) 
+Seat 5: Ignorant_Hippo (7272 in chips, $1.50 bounty) 
+Seat 6: Wartimebob (6076 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (11624 in chips, $2.25 bounty) 
+Seat 8: oreg 1949 (23942 in chips, $3.37 bounty) 
+icuis: posts the ante 30
+magumal: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Ignorant_Hippo: posts the ante 30
+Wartimebob: posts the ante 30
+Nihilus1337: posts the ante 30
+oreg 1949: posts the ante 30
+Wartimebob: posts small blind 100
+Nihilus1337: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s As]
+oreg 1949: folds 
+icuis: folds 
+magumal: calls 200
+Kevin12345Mc: calls 200
+Ignorant_Hippo: raises 300 to 500
+Wartimebob: calls 400
+Nihilus1337: calls 300
+crifs123 is disconnected 
+magumal: calls 300
+Kevin12345Mc: calls 300
+*** FLOP *** [4c 3s 6c]
+Wartimebob: checks 
+Nihilus1337: bets 1301
+magumal: raises 1391 to 2692 and is all-in
+Kevin12345Mc: folds 
+Ignorant_Hippo: calls 2692
+Wartimebob: raises 2854 to 5546 and is all-in
+Nihilus1337: raises 5548 to 11094 and is all-in
+Ignorant_Hippo: calls 4050 and is all-in
+Uncalled bet (4352) returned to Nihilus1337
+*** TURN *** [4c 3s 6c] [6h]
+*** RIVER *** [4c 3s 6c 6h] [9c]
+*** SHOW DOWN ***
+Nihilus1337: shows [4d 4s] (a full house, Fours full of Sixes)
+Ignorant_Hippo: shows [Qd Qc] (two pair, Queens and Sixes)
+Nihilus1337 collected 2392 from side pot-2 
+Wartimebob: shows [5c 5h] (two pair, Sixes and Fives)
+Nihilus1337 collected 8562 from side pot-1 
+magumal: shows [7d 7h] (two pair, Sevens and Sixes)
+Nihilus1337 collected 13478 from main pot
+Nihilus1337 wins $1.13 for eliminating magumal and their own bounty increases by $1.12 to $3.37
+Nihilus1337 wins $0.75 for eliminating Ignorant_Hippo and their own bounty increases by $0.75 to $4.12
+Nihilus1337 wins $0.75 for eliminating Wartimebob and their own bounty increases by $0.75 to $4.87
+Ignorant_Hippo finished the tournament
+Wartimebob finished the tournament
+magumal finished the tournament
+rosfroyal is disconnected 
+matycarp32 is disconnected 
+*** SUMMARY ***
+Total pot 24432 Main pot 13478. Side pot-1 8562. Side pot-2 2392. | Rake 0 
+Board [4c 3s 6c 6h 9c]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: magumal showed [7d 7h] and lost with two pair, Sevens and Sixes
+Seat 4: Kevin12345Mc folded on the Flop
+Seat 5: Ignorant_Hippo (button) showed [Qd Qc] and lost with two pair, Queens and Sixes
+Seat 6: Wartimebob (small blind) showed [5c 5h] and lost with two pair, Sixes and Fives
+Seat 7: Nihilus1337 (big blind) showed [4d 4s] and won (24432) with a full house, Fours full of Sixes
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005160775: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:07:04 WET [2025/02/23 13:07:04 ET]
+Table '3860676547 76' 8-max Seat #7 is the button
+Seat 1: icuis (4405 in chips, $1.50 bounty) 
+Seat 2: rosfroyal (36881 in chips, $5.25 bounty) 
+Seat 3: crifs123 (15103 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6013 in chips, $2.25 bounty) 
+Seat 5: DJB Dany (6379 in chips, $2.25 bounty) 
+Seat 6: matycarp32 (3303 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (28784 in chips, $4.87 bounty) 
+Seat 8: oreg 1949 (23912 in chips, $3.37 bounty) 
+icuis: posts the ante 30
+rosfroyal: posts the ante 30
+crifs123: posts the ante 30
+Kevin12345Mc: posts the ante 30
+DJB Dany: posts the ante 30
+matycarp32: posts the ante 30
+Nihilus1337: posts the ante 30
+oreg 1949: posts the ante 30
+oreg 1949: posts small blind 100
+icuis: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 2d]
+rosfroyal: folds 
+crifs123: folds 
+Kevin12345Mc: folds 
+DJB Dany: raises 200 to 400
+matycarp32: folds 
+Nihilus1337: folds 
+oreg 1949: calls 300
+icuis: folds 
+*** FLOP *** [5h 7s Td]
+oreg 1949: checks 
+DJB Dany: checks 
+*** TURN *** [5h 7s Td] [Kd]
+oreg 1949: checks 
+DJB Dany: bets 620
+oreg 1949: calls 620
+*** RIVER *** [5h 7s Td Kd] [Th]
+oreg 1949: bets 800
+DJB Dany: calls 800
+*** SHOW DOWN ***
+oreg 1949: shows [7c 7d] (a full house, Sevens full of Tens)
+DJB Dany: mucks hand 
+oreg 1949 collected 4080 from pot
+*** SUMMARY ***
+Total pot 4080 | Rake 0 
+Board [5h 7s Td Kd Th]
+Seat 1: icuis (big blind) folded before Flop
+Seat 2: rosfroyal folded before Flop (didn't bet)
+Seat 3: crifs123 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: DJB Dany mucked [9h Kc]
+Seat 6: matycarp32 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 (button) folded before Flop (didn't bet)
+Seat 8: oreg 1949 (small blind) showed [7c 7d] and won (4080) with a full house, Sevens full of Tens
+
+
+
+PokerStars Hand #255005183237: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:08:14 WET [2025/02/23 13:08:14 ET]
+Table '3860676547 76' 8-max Seat #8 is the button
+Seat 1: icuis (4175 in chips, $1.50 bounty) 
+Seat 2: rosfroyal (36851 in chips, $5.25 bounty) 
+Seat 3: crifs123 (15073 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (5983 in chips, $2.25 bounty) 
+Seat 5: DJB Dany (4529 in chips, $2.25 bounty) 
+Seat 6: matycarp32 (3273 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (28754 in chips, $4.87 bounty) 
+Seat 8: oreg 1949 (26142 in chips, $3.37 bounty) 
+icuis: posts the ante 30
+rosfroyal: posts the ante 30
+crifs123: posts the ante 30
+Kevin12345Mc: posts the ante 30
+DJB Dany: posts the ante 30
+matycarp32: posts the ante 30
+Nihilus1337: posts the ante 30
+oreg 1949: posts the ante 30
+icuis: posts small blind 100
+rosfroyal: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 5c]
+crifs123 has timed out
+crifs123: folds 
+crifs123 is sitting out
+crifs123 has returned
+Kevin12345Mc: folds 
+DJB Dany: folds 
+matycarp32: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: raises 210 to 410
+rosfroyal: calls 210
+*** FLOP *** [3d Kh Ks]
+icuis: checks 
+rosfroyal: checks 
+*** TURN *** [3d Kh Ks] [Jd]
+icuis: bets 350
+rosfroyal: calls 350
+*** RIVER *** [3d Kh Ks Jd] [6h]
+icuis: checks 
+rosfroyal: checks 
+*** SHOW DOWN ***
+icuis: shows [8s Qs] (a pair of Kings)
+rosfroyal: shows [Jh 4h] (two pair, Kings and Jacks)
+rosfroyal collected 1760 from pot
+*** SUMMARY ***
+Total pot 1760 | Rake 0 
+Board [3d Kh Ks Jd 6h]
+Seat 1: icuis (small blind) showed [8s Qs] and lost with a pair of Kings
+Seat 2: rosfroyal (big blind) showed [Jh 4h] and won (1760) with two pair, Kings and Jacks
+Seat 3: crifs123 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: DJB Dany folded before Flop (didn't bet)
+Seat 6: matycarp32 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005219576: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:10:07 WET [2025/02/23 13:10:07 ET]
+Table '3860676547 76' 8-max Seat #1 is the button
+Seat 1: icuis (3385 in chips, $1.50 bounty) 
+Seat 2: rosfroyal (37821 in chips, $5.25 bounty) 
+Seat 3: crifs123 (15043 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (5953 in chips, $2.25 bounty) 
+Seat 5: DJB Dany (4499 in chips, $2.25 bounty) 
+Seat 6: matycarp32 (3243 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (28724 in chips, $4.87 bounty) 
+Seat 8: oreg 1949 (26112 in chips, $3.37 bounty) 
+icuis: posts the ante 30
+rosfroyal: posts the ante 30
+crifs123: posts the ante 30
+Kevin12345Mc: posts the ante 30
+DJB Dany: posts the ante 30
+matycarp32: posts the ante 30
+Nihilus1337: posts the ante 30
+oreg 1949: posts the ante 30
+rosfroyal: posts small blind 100
+crifs123: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 2s]
+Kevin12345Mc: folds 
+DJB Dany: folds 
+matycarp32: folds 
+Nihilus1337: folds 
+oreg 1949: raises 200 to 400
+icuis: folds 
+rosfroyal: folds 
+crifs123: calls 200
+*** FLOP *** [4s Jc 5s]
+crifs123: checks 
+oreg 1949: bets 400
+crifs123: calls 400
+*** TURN *** [4s Jc 5s] [5h]
+crifs123: checks 
+oreg 1949: bets 1000
+crifs123: folds 
+Uncalled bet (1000) returned to oreg 1949
+oreg 1949 collected 1940 from pot
+*** SUMMARY ***
+Total pot 1940 | Rake 0 
+Board [4s Jc 5s 5h]
+Seat 1: icuis (button) folded before Flop (didn't bet)
+Seat 2: rosfroyal (small blind) folded before Flop
+Seat 3: crifs123 (big blind) folded on the Turn
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: DJB Dany folded before Flop (didn't bet)
+Seat 6: matycarp32 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 collected (1940)
+
+
+
+PokerStars Hand #255005235267: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:10:55 WET [2025/02/23 13:10:55 ET]
+Table '3860676547 76' 8-max Seat #2 is the button
+Seat 1: icuis (3355 in chips, $1.50 bounty) 
+Seat 2: rosfroyal (37691 in chips, $5.25 bounty) 
+Seat 3: crifs123 (14213 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (5923 in chips, $2.25 bounty) 
+Seat 5: DJB Dany (4469 in chips, $2.25 bounty) 
+Seat 6: matycarp32 (3213 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (28694 in chips, $4.87 bounty) 
+Seat 8: oreg 1949 (27222 in chips, $3.37 bounty) 
+icuis: posts the ante 30
+rosfroyal: posts the ante 30
+crifs123: posts the ante 30
+Kevin12345Mc: posts the ante 30
+DJB Dany: posts the ante 30
+matycarp32: posts the ante 30
+Nihilus1337: posts the ante 30
+oreg 1949: posts the ante 30
+crifs123: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Js]
+DJB Dany: raises 200 to 400
+matycarp32: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+rosfroyal: folds 
+crifs123: folds 
+Kevin12345Mc: calls 200
+*** FLOP *** [7c 4s Qs]
+Kevin12345Mc: checks 
+DJB Dany: bets 570
+Kevin12345Mc: calls 570
+*** TURN *** [7c 4s Qs] [6c]
+Kevin12345Mc: checks 
+DJB Dany: checks 
+*** RIVER *** [7c 4s Qs 6c] [8h]
+Kevin12345Mc: checks 
+DJB Dany: bets 1140
+Kevin12345Mc: calls 1140
+*** SHOW DOWN ***
+DJB Dany: shows [As 8c] (a pair of Eights)
+Kevin12345Mc: mucks hand 
+DJB Dany collected 4560 from pot
+*** SUMMARY ***
+Total pot 4560 | Rake 0 
+Board [7c 4s Qs 6c 8h]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: rosfroyal (button) folded before Flop (didn't bet)
+Seat 3: crifs123 (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) mucked [8s Js]
+Seat 5: DJB Dany showed [As 8c] and won (4560) with a pair of Eights
+Seat 6: matycarp32 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005251235: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:11:44 WET [2025/02/23 13:11:44 ET]
+Table '3860676547 76' 8-max Seat #3 is the button
+Seat 1: icuis (3325 in chips, $1.50 bounty) 
+Seat 2: rosfroyal (37661 in chips, $5.25 bounty) 
+Seat 3: crifs123 (14083 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (3783 in chips, $2.25 bounty) 
+Seat 5: DJB Dany (6889 in chips, $2.25 bounty) 
+Seat 6: matycarp32 (3183 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (28664 in chips, $4.87 bounty) 
+Seat 8: oreg 1949 (27192 in chips, $3.37 bounty) 
+icuis: posts the ante 30
+rosfroyal: posts the ante 30
+crifs123: posts the ante 30
+Kevin12345Mc: posts the ante 30
+DJB Dany: posts the ante 30
+matycarp32: posts the ante 30
+Nihilus1337: posts the ante 30
+oreg 1949: posts the ante 30
+Kevin12345Mc: posts small blind 100
+DJB Dany: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 3c]
+matycarp32: folds 
+Nihilus1337: raises 200 to 400
+oreg 1949: calls 400
+icuis: folds 
+rosfroyal: folds 
+crifs123: folds 
+Kevin12345Mc: folds 
+DJB Dany: raises 6459 to 6859 and is all-in
+Nihilus1337: folds 
+oreg 1949: folds 
+Uncalled bet (6459) returned to DJB Dany
+DJB Dany collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: rosfroyal folded before Flop (didn't bet)
+Seat 3: crifs123 (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: DJB Dany (big blind) collected (1540)
+Seat 6: matycarp32 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop
+Seat 8: oreg 1949 folded before Flop
+
+
+
+PokerStars Hand #255005261905: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:12:17 WET [2025/02/23 13:12:17 ET]
+Table '3860676547 76' 8-max Seat #4 is the button
+Seat 1: icuis (3295 in chips, $1.50 bounty) 
+Seat 2: rosfroyal (37631 in chips, $5.25 bounty) 
+Seat 3: crifs123 (14053 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (3653 in chips, $2.25 bounty) 
+Seat 5: DJB Dany (7999 in chips, $2.25 bounty) 
+Seat 6: matycarp32 (3153 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (28234 in chips, $4.87 bounty) 
+Seat 8: oreg 1949 (26762 in chips, $3.37 bounty) 
+icuis: posts the ante 36
+rosfroyal: posts the ante 36
+crifs123: posts the ante 36
+Kevin12345Mc: posts the ante 36
+DJB Dany: posts the ante 36
+matycarp32: posts the ante 36
+Nihilus1337: posts the ante 36
+oreg 1949: posts the ante 36
+DJB Dany: posts small blind 125
+matycarp32: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s As]
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+rosfroyal: folds 
+crifs123: raises 250 to 500
+Kevin12345Mc: raises 3117 to 3617 and is all-in
+DJB Dany: folds 
+matycarp32: folds 
+crifs123: calls 3117
+*** FLOP *** [Jd 6c 3h]
+*** TURN *** [Jd 6c 3h] [Qs]
+*** RIVER *** [Jd 6c 3h Qs] [Kc]
+*** SHOW DOWN ***
+crifs123: shows [7c Ac] (high card Ace)
+Kevin12345Mc: shows [7s As] (high card Ace)
+crifs123 collected 3949 from pot
+Kevin12345Mc collected 3948 from pot
+*** SUMMARY ***
+Total pot 7897 | Rake 0 
+Board [Jd 6c 3h Qs Kc]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: rosfroyal folded before Flop (didn't bet)
+Seat 3: crifs123 showed [7c Ac] and won (3949) with high card Ace
+Seat 4: Kevin12345Mc (button) showed [7s As] and won (3948) with high card Ace
+Seat 5: DJB Dany (small blind) folded before Flop
+Seat 6: matycarp32 (big blind) folded before Flop
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005278001: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:13:07 WET [2025/02/23 13:13:07 ET]
+Table '3860676547 76' 8-max Seat #5 is the button
+Seat 1: icuis (3259 in chips, $1.50 bounty) 
+Seat 2: rosfroyal (37595 in chips, $5.25 bounty) 
+Seat 3: crifs123 (14349 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (3948 in chips, $2.25 bounty) 
+Seat 5: DJB Dany (7838 in chips, $2.25 bounty) 
+Seat 6: matycarp32 (2867 in chips, $1.50 bounty) 
+Seat 7: Nihilus1337 (28198 in chips, $4.87 bounty) 
+Seat 8: oreg 1949 (26726 in chips, $3.37 bounty) 
+icuis: posts the ante 36
+rosfroyal: posts the ante 36
+crifs123: posts the ante 36
+Kevin12345Mc: posts the ante 36
+DJB Dany: posts the ante 36
+matycarp32: posts the ante 36
+Nihilus1337: posts the ante 36
+oreg 1949: posts the ante 36
+matycarp32: posts small blind 125
+Nihilus1337: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th Qd]
+oreg 1949: calls 250
+icuis: folds 
+rosfroyal: folds 
+crifs123 has timed out
+crifs123: folds 
+crifs123 is sitting out
+Kevin12345Mc: folds 
+DJB Dany: folds 
+crifs123 has returned
+matycarp32: calls 125
+Nihilus1337: checks 
+*** FLOP *** [3c 4h Ac]
+matycarp32: bets 2581 and is all-in
+Nihilus1337: folds 
+oreg 1949: calls 2581
+*** TURN *** [3c 4h Ac] [Td]
+*** RIVER *** [3c 4h Ac Td] [7h]
+*** SHOW DOWN ***
+matycarp32: shows [6c 2c] (high card Ace)
+oreg 1949: shows [7c Ah] (two pair, Aces and Sevens)
+oreg 1949 collected 6200 from pot
+oreg 1949 wins $0.75 for eliminating matycarp32 and their own bounty increases by $0.75 to $4.12
+matycarp32 finished the tournament
+*** SUMMARY ***
+Total pot 6200 | Rake 0 
+Board [3c 4h Ac Td 7h]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: rosfroyal folded before Flop (didn't bet)
+Seat 3: crifs123 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: DJB Dany (button) folded before Flop (didn't bet)
+Seat 6: matycarp32 (small blind) showed [6c 2c] and lost with high card Ace
+Seat 7: Nihilus1337 (big blind) folded on the Flop
+Seat 8: oreg 1949 showed [7c Ah] and won (6200) with two pair, Aces and Sevens
+
+
+
+PokerStars Hand #255005295953: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:14:03 WET [2025/02/23 13:14:03 ET]
+Table '3860676547 76' 8-max Seat #7 is the button
+Seat 1: icuis (3223 in chips, $1.50 bounty) 
+Seat 2: rosfroyal (37559 in chips, $5.25 bounty) 
+Seat 3: crifs123 (14313 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (3912 in chips, $2.25 bounty) 
+Seat 5: DJB Dany (7802 in chips, $2.25 bounty) 
+Seat 7: Nihilus1337 (27912 in chips, $4.87 bounty) 
+Seat 8: oreg 1949 (30059 in chips, $4.12 bounty) 
+icuis: posts the ante 36
+rosfroyal: posts the ante 36
+crifs123: posts the ante 36
+Kevin12345Mc: posts the ante 36
+DJB Dany: posts the ante 36
+Nihilus1337: posts the ante 36
+oreg 1949: posts the ante 36
+oreg 1949: posts small blind 125
+icuis: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 4d]
+rosfroyal: folds 
+crifs123: folds 
+Kevin12345Mc: folds 
+DJB Dany: calls 250
+Nihilus1337: raises 625 to 875
+oreg 1949: folds 
+icuis: raises 2312 to 3187 and is all-in
+DJB Dany: calls 2937
+Nihilus1337: calls 2312
+*** FLOP *** [3c 9s 9c]
+DJB Dany: checks 
+zotyaba100 is disconnected 
+Nihilus1337: bets 7056
+DJB Dany: folds 
+Uncalled bet (7056) returned to Nihilus1337
+*** TURN *** [3c 9s 9c] [5d]
+*** RIVER *** [3c 9s 9c 5d] [Qc]
+*** SHOW DOWN ***
+icuis: shows [Qd Ah] (two pair, Queens and Nines)
+Nihilus1337: shows [Th Qh] (two pair, Queens and Nines - lower kicker)
+icuis collected 9938 from pot
+*** SUMMARY ***
+Total pot 9938 | Rake 0 
+Board [3c 9s 9c 5d Qc]
+Seat 1: icuis (big blind) showed [Qd Ah] and won (9938) with two pair, Queens and Nines
+Seat 2: rosfroyal folded before Flop (didn't bet)
+Seat 3: crifs123 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: DJB Dany folded on the Flop
+Seat 7: Nihilus1337 (button) showed [Th Qh] and lost with two pair, Queens and Nines
+Seat 8: oreg 1949 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255005311696: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:14:51 WET [2025/02/23 13:14:51 ET]
+Table '3860676547 76' 8-max Seat #8 is the button
+Seat 1: icuis (9938 in chips, $1.50 bounty) 
+Seat 2: rosfroyal (37523 in chips, $5.25 bounty) 
+Seat 3: crifs123 (14277 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (3876 in chips, $2.25 bounty) 
+Seat 5: DJB Dany (4579 in chips, $2.25 bounty) 
+Seat 6: zotyaba100 (19773 in chips, $2.25 bounty) 
+Seat 7: Nihilus1337 (24689 in chips, $4.87 bounty) 
+Seat 8: oreg 1949 (29898 in chips, $4.12 bounty) 
+icuis: posts the ante 36
+rosfroyal: posts the ante 36
+crifs123: posts the ante 36
+Kevin12345Mc: posts the ante 36
+DJB Dany: posts the ante 36
+zotyaba100: posts the ante 36
+Nihilus1337: posts the ante 36
+oreg 1949: posts the ante 36
+icuis: posts small blind 125
+rosfroyal: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Qc]
+crifs123 has timed out
+crifs123: folds 
+crifs123 is sitting out
+Kevin12345Mc: folds 
+crifs123 has returned
+DJB Dany: folds 
+zotyaba100: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+Uncalled bet (125) returned to rosfroyal
+rosfroyal collected 538 from pot
+*** SUMMARY ***
+Total pot 538 | Rake 0 
+Seat 1: icuis (small blind) folded before Flop
+Seat 2: rosfroyal (big blind) collected (538)
+Seat 3: crifs123 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: DJB Dany folded before Flop (didn't bet)
+Seat 6: zotyaba100 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005318698: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:15:12 WET [2025/02/23 13:15:12 ET]
+Table '3860676547 76' 8-max Seat #1 is the button
+Seat 1: icuis (9777 in chips, $1.50 bounty) 
+Seat 2: rosfroyal (37900 in chips, $5.25 bounty) 
+Seat 3: crifs123 (14241 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (3840 in chips, $2.25 bounty) 
+Seat 5: DJB Dany (4543 in chips, $2.25 bounty) 
+Seat 6: zotyaba100 (19737 in chips, $2.25 bounty) 
+Seat 7: Nihilus1337 (24653 in chips, $4.87 bounty) 
+Seat 8: oreg 1949 (29862 in chips, $4.12 bounty) 
+icuis: posts the ante 36
+rosfroyal: posts the ante 36
+crifs123: posts the ante 36
+Kevin12345Mc: posts the ante 36
+DJB Dany: posts the ante 36
+zotyaba100: posts the ante 36
+Nihilus1337: posts the ante 36
+oreg 1949: posts the ante 36
+rosfroyal: posts small blind 125
+crifs123: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Qh]
+Kevin12345Mc: folds 
+DJB Dany: folds 
+zotyaba100: folds 
+Nihilus1337: raises 250 to 500
+oreg 1949: folds 
+icuis: folds 
+rosfroyal: folds 
+crifs123: folds 
+Uncalled bet (250) returned to Nihilus1337
+Nihilus1337 collected 913 from pot
+Nihilus1337: doesn't show hand 
+*** SUMMARY ***
+Total pot 913 | Rake 0 
+Seat 1: icuis (button) folded before Flop (didn't bet)
+Seat 2: rosfroyal (small blind) folded before Flop
+Seat 3: crifs123 (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: DJB Dany folded before Flop (didn't bet)
+Seat 6: zotyaba100 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 collected (913)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005324246: Tournament #3860676547, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:15:29 WET [2025/02/23 13:15:29 ET]
+Table '3860676547 76' 8-max Seat #2 is the button
+Seat 1: icuis (9741 in chips, $1.50 bounty) 
+Seat 2: rosfroyal (37739 in chips, $5.25 bounty) 
+Seat 3: crifs123 (13955 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (3804 in chips, $2.25 bounty) 
+Seat 5: DJB Dany (4507 in chips, $2.25 bounty) 
+Seat 6: zotyaba100 (19701 in chips, $2.25 bounty) 
+Seat 7: Nihilus1337 (25280 in chips, $4.87 bounty) 
+Seat 8: oreg 1949 (29826 in chips, $4.12 bounty) 
+icuis: posts the ante 36
+rosfroyal: posts the ante 36
+crifs123: posts the ante 36
+Kevin12345Mc: posts the ante 36
+DJB Dany: posts the ante 36
+zotyaba100: posts the ante 36
+Nihilus1337: posts the ante 36
+oreg 1949: posts the ante 36
+crifs123: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Qc]
+DJB Dany: calls 250
+zotyaba100: folds 
+Nihilus1337: folds 
+oreg 1949: folds 
+icuis: folds 
+rosfroyal: calls 250
+crifs123 has timed out
+crifs123: folds 
+crifs123 is sitting out
+crifs123 has returned
+Kevin12345Mc: raises 3518 to 3768 and is all-in
+DJB Dany: raises 703 to 4471 and is all-in
+rosfroyal: folds 
+Uncalled bet (703) returned to DJB Dany
+*** FLOP *** [2h 6c 8c]
+*** TURN *** [2h 6c 8c] [6h]
+*** RIVER *** [2h 6c 8c 6h] [5d]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Tc Qc] (a pair of Sixes)
+DJB Dany: shows [8d As] (two pair, Eights and Sixes)
+DJB Dany collected 8199 from pot
+DJB Dany wins $1.13 for eliminating Kevin12345Mc and their own bounty increases by $1.12 to $3.37
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 8199 | Rake 0 
+Board [2h 6c 8c 6h 5d]
+Seat 1: icuis folded before Flop (didn't bet)
+Seat 2: rosfroyal (button) folded before Flop
+Seat 3: crifs123 (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) showed [Tc Qc] and lost with a pair of Sixes
+Seat 5: DJB Dany showed [8d As] and won (8199) with two pair, Eights and Sixes
+Seat 6: zotyaba100 folded before Flop (didn't bet)
+Seat 7: Nihilus1337 folded before Flop (didn't bet)
+Seat 8: oreg 1949 folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,3592 @@
+﻿PokerStars Hand #255242277716: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IV (50/100) - 2025/03/11 18:07:25 WET [2025/03/11 14:07:25 ET]
+Table '3866282093 40' 8-max Seat #8 is the button
+Seat 1: Brito.Aces (8875 in chips) 
+Seat 2: Kompanowsky (10910 in chips) 
+Seat 3: JF_Souza (9548 in chips) 
+Seat 4: Beto Macedo CCH (9490 in chips) 
+Seat 5: DBow101 (9660 in chips) 
+Seat 6: Badinho1989 (18572 in chips) 
+Seat 7: Kevin12345Mc (10000 in chips) 
+Seat 8: Ianmmcc (11729 in chips) 
+Brito.Aces: posts the ante 12
+Kompanowsky: posts the ante 12
+JF_Souza: posts the ante 12
+Beto Macedo CCH: posts the ante 12
+DBow101: posts the ante 12
+Badinho1989: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Ianmmcc: posts the ante 12
+Brito.Aces: posts small blind 50
+Kompanowsky: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Qc]
+JF_Souza: folds 
+Beto Macedo CCH: raises 100 to 200
+DBow101: folds 
+Badinho1989: folds 
+Kevin12345Mc: folds 
+Ianmmcc: folds 
+Brito.Aces: folds 
+Kompanowsky: folds 
+Uncalled bet (100) returned to Beto Macedo CCH
+Beto Macedo CCH collected 346 from pot
+Beto Macedo CCH: doesn't show hand 
+*** SUMMARY ***
+Total pot 346 | Rake 0 
+Seat 1: Brito.Aces (small blind) folded before Flop
+Seat 2: Kompanowsky (big blind) folded before Flop
+Seat 3: JF_Souza folded before Flop (didn't bet)
+Seat 4: Beto Macedo CCH collected (346)
+Seat 5: DBow101 folded before Flop (didn't bet)
+Seat 6: Badinho1989 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Ianmmcc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242282676: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IV (50/100) - 2025/03/11 18:07:46 WET [2025/03/11 14:07:46 ET]
+Table '3866282093 40' 8-max Seat #1 is the button
+Seat 1: Brito.Aces (8813 in chips) 
+Seat 2: Kompanowsky (10798 in chips) 
+Seat 3: JF_Souza (9536 in chips) 
+Seat 4: Beto Macedo CCH (9724 in chips) 
+Seat 5: DBow101 (9648 in chips) 
+Seat 6: Badinho1989 (18560 in chips) 
+Seat 7: Kevin12345Mc (9988 in chips) 
+Seat 8: Ianmmcc (11717 in chips) 
+Brito.Aces: posts the ante 12
+Kompanowsky: posts the ante 12
+JF_Souza: posts the ante 12
+Beto Macedo CCH: posts the ante 12
+DBow101: posts the ante 12
+Badinho1989: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Ianmmcc: posts the ante 12
+Kompanowsky: posts small blind 50
+JF_Souza: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 6c]
+Beto Macedo CCH: raises 100 to 200
+DBow101: folds 
+Badinho1989: folds 
+Kevin12345Mc: calls 200
+Ianmmcc: folds 
+Brito.Aces: folds 
+Kompanowsky: folds 
+JF_Souza: calls 100
+*** FLOP *** [Jh Ts Ac]
+JF_Souza: checks 
+Beto Macedo CCH: checks 
+Kevin12345Mc: checks 
+*** TURN *** [Jh Ts Ac] [4d]
+JF_Souza: checks 
+Beto Macedo CCH: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Jh Ts Ac 4d] [7d]
+JF_Souza: checks 
+Beto Macedo CCH: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+JF_Souza: shows [9h As] (a pair of Aces)
+Beto Macedo CCH: mucks hand 
+Kevin12345Mc: mucks hand 
+JF_Souza collected 746 from pot
+*** SUMMARY ***
+Total pot 746 | Rake 0 
+Board [Jh Ts Ac 4d 7d]
+Seat 1: Brito.Aces (button) folded before Flop (didn't bet)
+Seat 2: Kompanowsky (small blind) folded before Flop
+Seat 3: JF_Souza (big blind) showed [9h As] and won (746) with a pair of Aces
+Seat 4: Beto Macedo CCH mucked [3h 3c]
+Seat 5: DBow101 folded before Flop (didn't bet)
+Seat 6: Badinho1989 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc mucked [6d 6c]
+Seat 8: Ianmmcc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242299211: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IV (50/100) - 2025/03/11 18:08:57 WET [2025/03/11 14:08:57 ET]
+Table '3866282093 40' 8-max Seat #2 is the button
+Seat 1: Brito.Aces (8801 in chips) 
+Seat 2: Kompanowsky (10736 in chips) 
+Seat 3: JF_Souza (10070 in chips) 
+Seat 4: Beto Macedo CCH (9512 in chips) 
+Seat 5: DBow101 (9636 in chips) 
+Seat 6: Badinho1989 (18548 in chips) 
+Seat 7: Kevin12345Mc (9776 in chips) 
+Seat 8: Ianmmcc (11705 in chips) 
+Brito.Aces: posts the ante 12
+Kompanowsky: posts the ante 12
+JF_Souza: posts the ante 12
+Beto Macedo CCH: posts the ante 12
+DBow101: posts the ante 12
+Badinho1989: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Ianmmcc: posts the ante 12
+JF_Souza: posts small blind 50
+Beto Macedo CCH: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 7h]
+DBow101: folds 
+Badinho1989: raises 100 to 200
+Kevin12345Mc: folds 
+Ianmmcc: folds 
+Brito.Aces: raises 570 to 770
+Kompanowsky: raises 1530 to 2300
+JF_Souza: folds 
+Beto Macedo CCH: folds 
+Badinho1989: folds 
+Brito.Aces: raises 6489 to 8789 and is all-in
+Kompanowsky: calls 6489
+*** FLOP *** [Qc 8c 2c]
+*** TURN *** [Qc 8c 2c] [6d]
+*** RIVER *** [Qc 8c 2c 6d] [3h]
+*** SHOW DOWN ***
+Brito.Aces: shows [As Ah] (a pair of Aces)
+Kompanowsky: shows [Qs Qd] (three of a kind, Queens)
+Kompanowsky collected 18024 from pot
+Brito.Aces finished the tournament
+*** SUMMARY ***
+Total pot 18024 | Rake 0 
+Board [Qc 8c 2c 6d 3h]
+Seat 1: Brito.Aces showed [As Ah] and lost with a pair of Aces
+Seat 2: Kompanowsky (button) showed [Qs Qd] and won (18024) with three of a kind, Queens
+Seat 3: JF_Souza (small blind) folded before Flop
+Seat 4: Beto Macedo CCH (big blind) folded before Flop
+Seat 5: DBow101 folded before Flop (didn't bet)
+Seat 6: Badinho1989 folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Ianmmcc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242314890: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IV (50/100) - 2025/03/11 18:10:03 WET [2025/03/11 14:10:03 ET]
+Table '3866282093 40' 8-max Seat #3 is the button
+Seat 2: Kompanowsky (19959 in chips) 
+Seat 3: JF_Souza (10008 in chips) 
+Seat 4: Beto Macedo CCH (9400 in chips) 
+Seat 6: Badinho1989 (18336 in chips) 
+Seat 7: Kevin12345Mc (9764 in chips) 
+Seat 8: Ianmmcc (11693 in chips) 
+Kompanowsky: posts the ante 12
+JF_Souza: posts the ante 12
+Beto Macedo CCH: posts the ante 12
+Badinho1989: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Ianmmcc: posts the ante 12
+Beto Macedo CCH: posts small blind 50
+Badinho1989: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 6h]
+DOOOOITTTT is disconnected 
+Kevin12345Mc: folds 
+Ianmmcc: folds 
+Kompanowsky: folds 
+Kamikaze217 is disconnected 
+JF_Souza: folds 
+Beto Macedo CCH: calls 50
+Badinho1989: raises 300 to 400
+Beto Macedo CCH: calls 300
+*** FLOP *** [2s 2h Js]
+Beto Macedo CCH: checks 
+Badinho1989: bets 288
+Beto Macedo CCH: calls 288
+*** TURN *** [2s 2h Js] [4h]
+Beto Macedo CCH: checks 
+Badinho1989: bets 1086
+Beto Macedo CCH: calls 1086
+*** RIVER *** [2s 2h Js 4h] [4s]
+Beto Macedo CCH: checks 
+Badinho1989: bets 16550 and is all-in
+Beto Macedo CCH: folds 
+Uncalled bet (16550) returned to Badinho1989
+Badinho1989 collected 3620 from pot
+Badinho1989: doesn't show hand 
+*** SUMMARY ***
+Total pot 3620 | Rake 0 
+Board [2s 2h Js 4h 4s]
+Seat 2: Kompanowsky folded before Flop (didn't bet)
+Seat 3: JF_Souza (button) folded before Flop (didn't bet)
+Seat 4: Beto Macedo CCH (small blind) folded on the River
+Seat 6: Badinho1989 (big blind) collected (3620)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Ianmmcc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242343739: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IV (50/100) - 2025/03/11 18:12:03 WET [2025/03/11 14:12:03 ET]
+Table '3866282093 40' 8-max Seat #4 is the button
+Seat 1: Kamikaze217 (10000 in chips) 
+Seat 2: Kompanowsky (19947 in chips) 
+Seat 3: JF_Souza (9996 in chips) 
+Seat 4: Beto Macedo CCH (7614 in chips) 
+Seat 5: DOOOOITTTT (9838 in chips) out of hand (moved from another table into small blind)
+Seat 6: Badinho1989 (20170 in chips) 
+Seat 7: Kevin12345Mc (9752 in chips) 
+Seat 8: Ianmmcc (11681 in chips) 
+DOOOOITTTT will be allowed to play after the button
+Kamikaze217: posts the ante 12
+Kompanowsky: posts the ante 12
+JF_Souza: posts the ante 12
+Beto Macedo CCH: posts the ante 12
+Badinho1989: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Ianmmcc: posts the ante 12
+Badinho1989: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 6d]
+Ianmmcc: raises 100 to 200
+Kamikaze217: folds 
+Kompanowsky: folds 
+JF_Souza: folds 
+Beto Macedo CCH: calls 200
+Badinho1989: folds 
+Kevin12345Mc: calls 100
+*** FLOP *** [Ah Qd Kc]
+Kevin12345Mc: checks 
+Ianmmcc: bets 300
+Beto Macedo CCH: folds 
+Kevin12345Mc: calls 300
+*** TURN *** [Ah Qd Kc] [2h]
+Kevin12345Mc: checks 
+Ianmmcc: bets 867
+Kevin12345Mc: folds 
+Uncalled bet (867) returned to Ianmmcc
+Ianmmcc collected 1334 from pot
+*** SUMMARY ***
+Total pot 1334 | Rake 0 
+Board [Ah Qd Kc 2h]
+Seat 1: Kamikaze217 folded before Flop (didn't bet)
+Seat 2: Kompanowsky folded before Flop (didn't bet)
+Seat 3: JF_Souza folded before Flop (didn't bet)
+Seat 4: Beto Macedo CCH (button) folded on the Flop
+Seat 6: Badinho1989 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Turn
+Seat 8: Ianmmcc collected (1334)
+
+
+
+PokerStars Hand #255242358364: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IV (50/100) - 2025/03/11 18:13:05 WET [2025/03/11 14:13:05 ET]
+Table '3866282093 40' 8-max Seat #6 is the button
+Seat 1: Kamikaze217 (9988 in chips) 
+Seat 2: Kompanowsky (19935 in chips) 
+Seat 3: JF_Souza (9984 in chips) 
+Seat 4: Beto Macedo CCH (7402 in chips) 
+Seat 5: DOOOOITTTT (9838 in chips) 
+Seat 6: Badinho1989 (20108 in chips) 
+Seat 7: Kevin12345Mc (9240 in chips) 
+Seat 8: Ianmmcc (12503 in chips) 
+Kamikaze217: posts the ante 12
+Kompanowsky: posts the ante 12
+JF_Souza: posts the ante 12
+Beto Macedo CCH: posts the ante 12
+DOOOOITTTT: posts the ante 12
+Badinho1989: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Ianmmcc: posts the ante 12
+Kevin12345Mc: posts small blind 50
+Ianmmcc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 7s]
+Kamikaze217: folds 
+Kompanowsky: raises 100 to 200
+JF_Souza: raises 400 to 600
+Beto Macedo CCH: folds 
+DOOOOITTTT: calls 600
+Badinho1989: folds 
+Kevin12345Mc: folds 
+Ianmmcc: folds 
+Kompanowsky: folds 
+*** FLOP *** [4s 5h Jh]
+JF_Souza: bets 329
+DOOOOITTTT: calls 329
+*** TURN *** [4s 5h Jh] [6h]
+JF_Souza: checks 
+DOOOOITTTT: checks 
+*** RIVER *** [4s 5h Jh 6h] [5c]
+JF_Souza: checks 
+DOOOOITTTT: checks 
+*** SHOW DOWN ***
+JF_Souza: shows [Ac Kd] (a pair of Fives)
+DOOOOITTTT: shows [Th Td] (two pair, Tens and Fives)
+DOOOOITTTT collected 2304 from pot
+*** SUMMARY ***
+Total pot 2304 | Rake 0 
+Board [4s 5h Jh 6h 5c]
+Seat 1: Kamikaze217 folded before Flop (didn't bet)
+Seat 2: Kompanowsky folded before Flop
+Seat 3: JF_Souza showed [Ac Kd] and lost with a pair of Fives
+Seat 4: Beto Macedo CCH folded before Flop (didn't bet)
+Seat 5: DOOOOITTTT showed [Th Td] and won (2304) with two pair, Tens and Fives
+Seat 6: Badinho1989 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Ianmmcc (big blind) folded before Flop
+
+
+
+PokerStars Hand #255242373840: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IV (50/100) - 2025/03/11 18:14:11 WET [2025/03/11 14:14:11 ET]
+Table '3866282093 40' 8-max Seat #7 is the button
+Seat 1: Kamikaze217 (9976 in chips) 
+Seat 2: Kompanowsky (19723 in chips) 
+Seat 3: JF_Souza (9043 in chips) 
+Seat 4: Beto Macedo CCH (7390 in chips) 
+Seat 5: DOOOOITTTT (11201 in chips) 
+Seat 6: Badinho1989 (20096 in chips) 
+Seat 7: Kevin12345Mc (9178 in chips) 
+Seat 8: Ianmmcc (12391 in chips) 
+Kamikaze217: posts the ante 12
+Kompanowsky: posts the ante 12
+JF_Souza: posts the ante 12
+Beto Macedo CCH: posts the ante 12
+DOOOOITTTT: posts the ante 12
+Badinho1989: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Ianmmcc: posts the ante 12
+Ianmmcc: posts small blind 50
+Kamikaze217: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 4c]
+Kompanowsky: folds 
+JF_Souza: folds 
+Beto Macedo CCH: folds 
+DOOOOITTTT: raises 200 to 300
+Badinho1989: folds 
+Kevin12345Mc: folds 
+Ianmmcc: calls 250
+Kamikaze217: folds 
+*** FLOP *** [2d 4s 9c]
+Ianmmcc: checks 
+DOOOOITTTT: bets 438
+Ianmmcc: calls 438
+*** TURN *** [2d 4s 9c] [As]
+Ianmmcc: checks 
+DOOOOITTTT: bets 920
+Ianmmcc: folds 
+Uncalled bet (920) returned to DOOOOITTTT
+DOOOOITTTT collected 1672 from pot
+*** SUMMARY ***
+Total pot 1672 | Rake 0 
+Board [2d 4s 9c As]
+Seat 1: Kamikaze217 (big blind) folded before Flop
+Seat 2: Kompanowsky folded before Flop (didn't bet)
+Seat 3: JF_Souza folded before Flop (didn't bet)
+Seat 4: Beto Macedo CCH folded before Flop (didn't bet)
+Seat 5: DOOOOITTTT collected (1672)
+Seat 6: Badinho1989 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Ianmmcc (small blind) folded on the Turn
+
+
+
+PokerStars Hand #255242386521: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IV (50/100) - 2025/03/11 18:15:04 WET [2025/03/11 14:15:04 ET]
+Table '3866282093 40' 8-max Seat #8 is the button
+Seat 1: Kamikaze217 (9864 in chips) 
+Seat 3: JF_Souza (9031 in chips) 
+Seat 4: Beto Macedo CCH (7378 in chips) 
+Seat 5: DOOOOITTTT (12123 in chips) 
+Seat 6: Badinho1989 (20084 in chips) 
+Seat 7: Kevin12345Mc (9166 in chips) 
+Seat 8: Ianmmcc (11641 in chips) 
+Kamikaze217: posts the ante 12
+JF_Souza: posts the ante 12
+Beto Macedo CCH: posts the ante 12
+DOOOOITTTT: posts the ante 12
+Badinho1989: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Ianmmcc: posts the ante 12
+Kamikaze217: posts small blind 50
+JF_Souza: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 7d]
+Beto Macedo CCH: folds 
+DOOOOITTTT: folds 
+Badinho1989: raises 100 to 200
+Kevin12345Mc: folds 
+Ianmmcc: folds 
+StorStrut is disconnected 
+Kamikaze217: folds 
+JF_Souza: calls 100
+*** FLOP *** [Tc Kh Ad]
+JF_Souza: checks 
+Badinho1989: bets 358
+JF_Souza: folds 
+Uncalled bet (358) returned to Badinho1989
+Badinho1989 collected 534 from pot
+Badinho1989: doesn't show hand 
+*** SUMMARY ***
+Total pot 534 | Rake 0 
+Board [Tc Kh Ad]
+Seat 1: Kamikaze217 (small blind) folded before Flop
+Seat 3: JF_Souza (big blind) folded on the Flop
+Seat 4: Beto Macedo CCH folded before Flop (didn't bet)
+Seat 5: DOOOOITTTT folded before Flop (didn't bet)
+Seat 6: Badinho1989 collected (534)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Ianmmcc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242401763: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IV (50/100) - 2025/03/11 18:16:08 WET [2025/03/11 14:16:08 ET]
+Table '3866282093 40' 8-max Seat #1 is the button
+Seat 1: Kamikaze217 (9802 in chips) 
+Seat 2: StorStrut (10000 in chips) out of hand (moved from another table into small blind)
+Seat 3: JF_Souza (8819 in chips) 
+Seat 4: Beto Macedo CCH (7366 in chips) 
+Seat 5: DOOOOITTTT (12111 in chips) 
+Seat 6: Badinho1989 (20406 in chips) 
+Seat 7: Kevin12345Mc (9154 in chips) 
+Seat 8: Ianmmcc (11629 in chips) 
+StorStrut will be allowed to play after the button
+Kamikaze217: posts the ante 12
+JF_Souza: posts the ante 12
+Beto Macedo CCH: posts the ante 12
+DOOOOITTTT: posts the ante 12
+Badinho1989: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Ianmmcc: posts the ante 12
+JF_Souza: posts small blind 50
+Beto Macedo CCH: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 9c]
+DOOOOITTTT: folds 
+Badinho1989: folds 
+Kevin12345Mc: folds 
+Ianmmcc: raises 100 to 200
+Kamikaze217: calls 200
+JF_Souza: folds 
+Beto Macedo CCH: raises 800 to 1000
+Ianmmcc: folds 
+Kamikaze217: folds 
+Uncalled bet (800) returned to Beto Macedo CCH
+Beto Macedo CCH collected 734 from pot
+*** SUMMARY ***
+Total pot 734 | Rake 0 
+Seat 1: Kamikaze217 (button) folded before Flop
+Seat 3: JF_Souza (small blind) folded before Flop
+Seat 4: Beto Macedo CCH (big blind) collected (734)
+Seat 5: DOOOOITTTT folded before Flop (didn't bet)
+Seat 6: Badinho1989 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Ianmmcc folded before Flop
+
+
+
+PokerStars Hand #255242419164: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level V (60/120) - 2025/03/11 18:17:22 WET [2025/03/11 14:17:22 ET]
+Table '3866282093 82' 8-max Seat #2 is the button
+Seat 1: ralphfarra (9624 in chips) 
+Seat 2: scottan86 (9078 in chips) 
+Seat 3: hecke74 (9308 in chips) 
+Seat 4: aleometto (11665 in chips) 
+Seat 5: Mm Food17 (21103 in chips) 
+Seat 6: Kevin12345Mc (9142 in chips) 
+Seat 7: chad2429 (12597 in chips) 
+Seat 8: Juvituu (10000 in chips) 
+ralphfarra: posts the ante 16
+scottan86: posts the ante 16
+hecke74: posts the ante 16
+aleometto: posts the ante 16
+Mm Food17: posts the ante 16
+Kevin12345Mc: posts the ante 16
+chad2429: posts the ante 16
+Juvituu: posts the ante 16
+hecke74: posts small blind 60
+aleometto: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts Kd]
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+Juvituu: folds 
+ralphfarra: folds 
+scottan86: raises 144 to 264
+hecke74: folds 
+aleometto: calls 144
+*** FLOP *** [5c Kc 9s]
+aleometto: checks 
+scottan86: bets 179
+aleometto: folds 
+Uncalled bet (179) returned to scottan86
+scottan86 collected 716 from pot
+scottan86: doesn't show hand 
+*** SUMMARY ***
+Total pot 716 | Rake 0 
+Board [5c Kc 9s]
+Seat 1: ralphfarra folded before Flop (didn't bet)
+Seat 2: scottan86 (button) collected (716)
+Seat 3: hecke74 (small blind) folded before Flop
+Seat 4: aleometto (big blind) folded on the Flop
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: Juvituu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242430334: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level V (60/120) - 2025/03/11 18:18:09 WET [2025/03/11 14:18:09 ET]
+Table '3866282093 82' 8-max Seat #3 is the button
+Seat 1: ralphfarra (9608 in chips) 
+Seat 2: scottan86 (9514 in chips) 
+Seat 3: hecke74 (9232 in chips) 
+Seat 4: aleometto (11385 in chips) 
+Seat 5: Mm Food17 (21087 in chips) 
+Seat 6: Kevin12345Mc (9126 in chips) 
+Seat 7: chad2429 (12581 in chips) 
+Seat 8: Juvituu (9984 in chips) 
+ralphfarra: posts the ante 16
+scottan86: posts the ante 16
+hecke74: posts the ante 16
+aleometto: posts the ante 16
+Mm Food17: posts the ante 16
+Kevin12345Mc: posts the ante 16
+chad2429: posts the ante 16
+Juvituu: posts the ante 16
+aleometto: posts small blind 60
+Mm Food17: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Qh]
+Kevin12345Mc: folds 
+chad2429: folds 
+Juvituu: folds 
+ralphfarra: folds 
+scottan86: folds 
+hecke74: folds 
+aleometto: calls 60
+Mm Food17: raises 300 to 420
+aleometto: folds 
+Uncalled bet (300) returned to Mm Food17
+Mm Food17 collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | Rake 0 
+Seat 1: ralphfarra folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 (button) folded before Flop (didn't bet)
+Seat 4: aleometto (small blind) folded before Flop
+Seat 5: Mm Food17 (big blind) collected (368)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: Juvituu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242437388: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level V (60/120) - 2025/03/11 18:18:38 WET [2025/03/11 14:18:38 ET]
+Table '3866282093 82' 8-max Seat #4 is the button
+Seat 1: ralphfarra (9592 in chips) 
+Seat 2: scottan86 (9498 in chips) 
+Seat 3: hecke74 (9216 in chips) 
+Seat 4: aleometto (11249 in chips) 
+Seat 5: Mm Food17 (21319 in chips) 
+Seat 6: Kevin12345Mc (9110 in chips) 
+Seat 7: chad2429 (12565 in chips) 
+Seat 8: Juvituu (9968 in chips) 
+ralphfarra: posts the ante 16
+scottan86: posts the ante 16
+hecke74: posts the ante 16
+aleometto: posts the ante 16
+Mm Food17: posts the ante 16
+Kevin12345Mc: posts the ante 16
+chad2429: posts the ante 16
+Juvituu: posts the ante 16
+Mm Food17: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Kh]
+chad2429: raises 120 to 240
+Juvituu: folds 
+ralphfarra: calls 240
+scottan86: folds 
+hecke74: calls 240
+aleometto: folds 
+Mm Food17: folds 
+Kevin12345Mc: calls 120
+*** FLOP *** [Th Qs Qd]
+Kevin12345Mc: checks 
+chad2429: checks 
+ralphfarra: checks 
+hecke74: checks 
+*** TURN *** [Th Qs Qd] [3s]
+Kevin12345Mc: checks 
+chad2429: checks 
+ralphfarra: checks 
+hecke74: checks 
+*** RIVER *** [Th Qs Qd 3s] [9s]
+Kevin12345Mc: checks 
+chad2429: checks 
+ralphfarra: checks 
+hecke74: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9h Kh] (two pair, Queens and Nines)
+chad2429: mucks hand 
+ralphfarra: shows [Js Td] (two pair, Queens and Tens)
+hecke74: mucks hand 
+ralphfarra collected 1148 from pot
+*** SUMMARY ***
+Total pot 1148 | Rake 0 
+Board [Th Qs Qd 3s 9s]
+Seat 1: ralphfarra showed [Js Td] and won (1148) with two pair, Queens and Tens
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 mucked [8d 9d]
+Seat 4: aleometto (button) folded before Flop (didn't bet)
+Seat 5: Mm Food17 (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) showed [9h Kh] and lost with two pair, Queens and Nines
+Seat 7: chad2429 mucked [8c 7c]
+Seat 8: Juvituu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242450696: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level V (60/120) - 2025/03/11 18:19:33 WET [2025/03/11 14:19:33 ET]
+Table '3866282093 82' 8-max Seat #5 is the button
+Seat 1: ralphfarra (10484 in chips) 
+Seat 2: scottan86 (9482 in chips) 
+Seat 3: hecke74 (8960 in chips) 
+Seat 4: aleometto (11233 in chips) 
+Seat 5: Mm Food17 (21243 in chips) 
+Seat 6: Kevin12345Mc (8854 in chips) 
+Seat 7: chad2429 (12309 in chips) 
+Seat 8: Juvituu (9952 in chips) 
+ralphfarra: posts the ante 16
+scottan86: posts the ante 16
+hecke74: posts the ante 16
+aleometto: posts the ante 16
+Mm Food17: posts the ante 16
+Kevin12345Mc: posts the ante 16
+chad2429: posts the ante 16
+Juvituu: posts the ante 16
+Kevin12345Mc: posts small blind 60
+chad2429: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Js]
+Juvituu: raises 120 to 240
+ralphfarra: calls 240
+scottan86: folds 
+hecke74: folds 
+aleometto: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: calls 120
+*** FLOP *** [3d 8d 3s]
+chad2429: bets 318
+Juvituu: calls 318
+ralphfarra: folds 
+*** TURN *** [3d 8d 3s] [7c]
+chad2429: checks 
+Juvituu: checks 
+*** RIVER *** [3d 8d 3s 7c] [Ks]
+chad2429: bets 772
+Juvituu: calls 772
+*** SHOW DOWN ***
+chad2429: shows [8h Ah] (two pair, Eights and Threes)
+Juvituu: shows [As Kc] (two pair, Kings and Threes)
+Juvituu collected 3088 from pot
+*** SUMMARY ***
+Total pot 3088 | Rake 0 
+Board [3d 8d 3s 7c Ks]
+Seat 1: ralphfarra folded on the Flop
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: aleometto folded before Flop (didn't bet)
+Seat 5: Mm Food17 (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: chad2429 (big blind) showed [8h Ah] and lost with two pair, Eights and Threes
+Seat 8: Juvituu showed [As Kc] and won (3088) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #255242466389: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level V (60/120) - 2025/03/11 18:20:38 WET [2025/03/11 14:20:38 ET]
+Table '3866282093 82' 8-max Seat #6 is the button
+Seat 1: ralphfarra (10228 in chips) 
+Seat 2: scottan86 (9466 in chips) 
+Seat 3: hecke74 (8944 in chips) 
+Seat 4: aleometto (11217 in chips) 
+Seat 5: Mm Food17 (21227 in chips) 
+Seat 6: Kevin12345Mc (8778 in chips) 
+Seat 7: chad2429 (10963 in chips) 
+ralphfarra: posts the ante 16
+scottan86: posts the ante 16
+hecke74: posts the ante 16
+aleometto: posts the ante 16
+Mm Food17: posts the ante 16
+Kevin12345Mc: posts the ante 16
+chad2429: posts the ante 16
+chad2429: posts small blind 60
+ralphfarra: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th Qd]
+scottan86: raises 144 to 264
+hecke74: folds 
+LLEVENOMA is disconnected 
+aleometto: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+ralphfarra: calls 144
+*** FLOP *** [8s 7h 5d]
+ralphfarra: checks 
+scottan86: bets 295
+ralphfarra: calls 295
+*** TURN *** [8s 7h 5d] [2d]
+ralphfarra: checks 
+scottan86: bets 791
+ralphfarra: calls 791
+*** RIVER *** [8s 7h 5d 2d] [4d]
+ralphfarra: checks 
+scottan86: bets 8100 and is all-in
+ralphfarra: calls 8100
+*** SHOW DOWN ***
+scottan86: shows [9d 8d] (a flush, Nine high)
+ralphfarra: shows [6d 5h] (a straight, Four to Eight)
+scottan86 collected 19072 from pot
+*** SUMMARY ***
+Total pot 19072 | Rake 0 
+Board [8s 7h 5d 2d 4d]
+Seat 1: ralphfarra (big blind) showed [6d 5h] and lost with a straight, Four to Eight
+Seat 2: scottan86 showed [9d 8d] and won (19072) with a flush, Nine high
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: aleometto folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: chad2429 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255242489678: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level V (60/120) - 2025/03/11 18:22:15 WET [2025/03/11 14:22:15 ET]
+Table '3866282093 82' 8-max Seat #7 is the button
+Seat 1: ralphfarra (762 in chips) 
+Seat 2: scottan86 (19072 in chips) 
+Seat 3: hecke74 (8928 in chips) 
+Seat 4: aleometto (11201 in chips) 
+Seat 5: Mm Food17 (21211 in chips) 
+Seat 6: Kevin12345Mc (8762 in chips) 
+Seat 7: chad2429 (10887 in chips) 
+Seat 8: LLEVENOMA (10000 in chips) out of hand (moved from another table into small blind)
+LLEVENOMA will be allowed to play after the button
+ralphfarra: posts the ante 16
+scottan86: posts the ante 16
+hecke74: posts the ante 16
+aleometto: posts the ante 16
+Mm Food17: posts the ante 16
+Kevin12345Mc: posts the ante 16
+chad2429: posts the ante 16
+ralphfarra: posts small blind 60
+scottan86: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 6h]
+hecke74: raises 204 to 324
+aleometto: calls 324
+Mm Food17: raises 636 to 960
+Kevin12345Mc: folds 
+chad2429: folds 
+ralphfarra: calls 686 and is all-in
+scottan86: folds 
+hecke74: calls 636
+aleometto: calls 636
+*** FLOP *** [5d Jd Ad]
+hecke74: checks 
+aleometto: checks 
+Mm Food17: checks 
+*** TURN *** [5d Jd Ad] [9c]
+hecke74: checks 
+aleometto: checks 
+Mm Food17: bets 1320
+hecke74: calls 1320
+aleometto: calls 1320
+*** RIVER *** [5d Jd Ad 9c] [Qd]
+hecke74: checks 
+aleometto: checks 
+Mm Food17: checks 
+*** SHOW DOWN ***
+hecke74: shows [Kd Ks] (a flush, Ace high)
+aleometto: mucks hand 
+Mm Food17: mucks hand 
+hecke74 collected 4602 from side pot
+ralphfarra: mucks hand 
+hecke74 collected 3216 from main pot
+ralphfarra finished the tournament
+*** SUMMARY ***
+Total pot 7818 Main pot 3216. Side pot 4602. | Rake 0 
+Board [5d Jd Ad 9c Qd]
+Seat 1: ralphfarra (small blind) mucked [6s 5h]
+Seat 2: scottan86 (big blind) folded before Flop
+Seat 3: hecke74 showed [Kd Ks] and won (7818) with a flush, Ace high
+Seat 4: aleometto mucked [As Kc]
+Seat 5: Mm Food17 mucked [Qs Ac]
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242517002: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level V (60/120) - 2025/03/11 18:24:09 WET [2025/03/11 14:24:09 ET]
+Table '3866282093 82' 8-max Seat #2 is the button
+Seat 2: scottan86 (18936 in chips) 
+Seat 3: hecke74 (14450 in chips) 
+Seat 4: aleometto (8905 in chips) 
+Seat 5: Mm Food17 (18915 in chips) 
+Seat 6: Kevin12345Mc (8746 in chips) 
+Seat 7: chad2429 (10871 in chips) 
+Seat 8: LLEVENOMA (10000 in chips) 
+scottan86: posts the ante 16
+hecke74: posts the ante 16
+aleometto: posts the ante 16
+Mm Food17: posts the ante 16
+Kevin12345Mc: posts the ante 16
+chad2429: posts the ante 16
+LLEVENOMA: posts the ante 16
+hecke74: posts small blind 60
+aleometto: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Kc]
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: calls 120
+LLEVENOMA: folds 
+scottan86: folds 
+mullric6 is disconnected 
+hecke74: folds 
+aleometto: checks 
+*** FLOP *** [7s 9h Qs]
+aleometto: checks 
+chad2429: checks 
+*** TURN *** [7s 9h Qs] [9s]
+aleometto: checks 
+chad2429: checks 
+*** RIVER *** [7s 9h Qs 9s] [Jd]
+aleometto: checks 
+chad2429: checks 
+*** SHOW DOWN ***
+aleometto: shows [2d 6s] (a pair of Nines)
+chad2429: shows [7d As] (two pair, Nines and Sevens)
+chad2429 collected 412 from pot
+*** SUMMARY ***
+Total pot 412 | Rake 0 
+Board [7s 9h Qs 9s Jd]
+Seat 2: scottan86 (button) folded before Flop (didn't bet)
+Seat 3: hecke74 (small blind) folded before Flop
+Seat 4: aleometto (big blind) showed [2d 6s] and lost with a pair of Nines
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 showed [7d As] and won (412) with two pair, Nines and Sevens
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242537938: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level V (60/120) - 2025/03/11 18:25:36 WET [2025/03/11 14:25:36 ET]
+Table '3866282093 82' 8-max Seat #3 is the button
+Seat 1: mullric6 (10000 in chips) 
+Seat 2: scottan86 (18920 in chips) 
+Seat 3: hecke74 (14374 in chips) 
+Seat 4: aleometto (8769 in chips) 
+Seat 5: Mm Food17 (18899 in chips) 
+Seat 6: Kevin12345Mc (8730 in chips) 
+Seat 7: chad2429 (11147 in chips) 
+Seat 8: LLEVENOMA (9984 in chips) 
+mullric6: posts the ante 16
+scottan86: posts the ante 16
+hecke74: posts the ante 16
+aleometto: posts the ante 16
+Mm Food17: posts the ante 16
+Kevin12345Mc: posts the ante 16
+chad2429: posts the ante 16
+LLEVENOMA: posts the ante 16
+aleometto: posts small blind 60
+Mm Food17: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Tc]
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+mullric6: folds 
+scottan86: folds 
+hecke74: raises 204 to 324
+aleometto: folds 
+Mm Food17: folds 
+Uncalled bet (204) returned to hecke74
+hecke74 collected 428 from pot
+hecke74: doesn't show hand 
+*** SUMMARY ***
+Total pot 428 | Rake 0 
+Seat 1: mullric6 folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 (button) collected (428)
+Seat 4: aleometto (small blind) folded before Flop
+Seat 5: Mm Food17 (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242546318: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level V (60/120) - 2025/03/11 18:26:10 WET [2025/03/11 14:26:10 ET]
+Table '3866282093 82' 8-max Seat #4 is the button
+Seat 1: mullric6 (9984 in chips) 
+Seat 2: scottan86 (18904 in chips) 
+Seat 3: hecke74 (14666 in chips) 
+Seat 4: aleometto (8693 in chips) 
+Seat 5: Mm Food17 (18763 in chips) 
+Seat 6: Kevin12345Mc (8714 in chips) 
+Seat 7: chad2429 (11131 in chips) 
+Seat 8: LLEVENOMA (9968 in chips) 
+mullric6: posts the ante 16
+scottan86: posts the ante 16
+hecke74: posts the ante 16
+aleometto: posts the ante 16
+Mm Food17: posts the ante 16
+Kevin12345Mc: posts the ante 16
+chad2429: posts the ante 16
+LLEVENOMA: posts the ante 16
+Mm Food17: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 3s]
+chad2429: folds 
+LLEVENOMA: folds 
+mullric6: folds 
+scottan86: folds 
+hecke74: folds 
+aleometto: raises 120 to 240
+Mm Food17: folds 
+Kevin12345Mc: calls 120
+*** FLOP *** [Qs Th Kd]
+Kevin12345Mc: checks 
+aleometto: checks 
+*** TURN *** [Qs Th Kd] [Qh]
+Kevin12345Mc: checks 
+aleometto: checks 
+*** RIVER *** [Qs Th Kd Qh] [3c]
+Kevin12345Mc: bets 908
+aleometto: folds 
+Uncalled bet (908) returned to Kevin12345Mc
+Kevin12345Mc collected 668 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 668 | Rake 0 
+Board [Qs Th Kd Qh 3c]
+Seat 1: mullric6 folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: aleometto (button) folded on the River
+Seat 5: Mm Food17 (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) collected (668)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242567560: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VI (80/160) - 2025/03/11 18:27:38 WET [2025/03/11 14:27:38 ET]
+Table '3866282093 82' 8-max Seat #5 is the button
+Seat 1: mullric6 (9968 in chips) 
+Seat 2: scottan86 (18888 in chips) 
+Seat 3: hecke74 (14650 in chips) 
+Seat 4: aleometto (8437 in chips) 
+Seat 5: Mm Food17 (18687 in chips) 
+Seat 6: Kevin12345Mc (9126 in chips) 
+Seat 7: chad2429 (11115 in chips) 
+Seat 8: LLEVENOMA (9952 in chips) 
+mullric6: posts the ante 20
+scottan86: posts the ante 20
+hecke74: posts the ante 20
+aleometto: posts the ante 20
+Mm Food17: posts the ante 20
+Kevin12345Mc: posts the ante 20
+chad2429: posts the ante 20
+LLEVENOMA: posts the ante 20
+Kevin12345Mc: posts small blind 80
+chad2429: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 7d]
+LLEVENOMA: folds 
+mullric6: folds 
+scottan86: folds 
+hecke74: raises 272 to 432
+aleometto: calls 432
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+*** FLOP *** [3c 8d 6h]
+hecke74: checks 
+aleometto: bets 577
+hecke74: raises 577 to 1154
+aleometto: calls 577
+*** TURN *** [3c 8d 6h] [Ad]
+hecke74: bets 1120
+aleometto: calls 1120
+*** RIVER *** [3c 8d 6h Ad] [2d]
+hecke74: bets 3520
+aleometto: raises 2191 to 5711 and is all-in
+hecke74: calls 2191
+*** SHOW DOWN ***
+aleometto: shows [6c 6d] (three of a kind, Sixes)
+hecke74: shows [Jd 9d] (a flush, Ace high)
+hecke74 collected 17234 from pot
+aleometto finished the tournament
+*** SUMMARY ***
+Total pot 17234 | Rake 0 
+Board [3c 8d 6h Ad 2d]
+Seat 1: mullric6 folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 showed [Jd 9d] and won (17234) with a flush, Ace high
+Seat 4: aleometto showed [6c 6d] and lost with three of a kind, Sixes
+Seat 5: Mm Food17 (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: chad2429 (big blind) folded before Flop
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242591623: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VI (80/160) - 2025/03/11 18:29:19 WET [2025/03/11 14:29:19 ET]
+Table '3866282093 82' 8-max Seat #6 is the button
+Seat 1: mullric6 (9948 in chips) 
+Seat 2: scottan86 (18868 in chips) 
+Seat 3: hecke74 (23447 in chips) 
+Seat 5: Mm Food17 (18667 in chips) 
+Seat 6: Kevin12345Mc (9026 in chips) 
+Seat 7: chad2429 (10935 in chips) 
+Seat 8: LLEVENOMA (9932 in chips) 
+mullric6: posts the ante 20
+scottan86: posts the ante 20
+hecke74: posts the ante 20
+Mm Food17: posts the ante 20
+Kevin12345Mc: posts the ante 20
+chad2429: posts the ante 20
+LLEVENOMA: posts the ante 20
+chad2429: posts small blind 80
+LLEVENOMA: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 9c]
+eron profi is disconnected 
+mullric6: raises 176 to 336
+scottan86: folds 
+hecke74: calls 336
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: calls 256
+LLEVENOMA: folds 
+*** FLOP *** [Jd 6d 6s]
+chad2429: checks 
+mullric6: checks 
+hecke74: bets 654
+chad2429: calls 654
+mullric6: folds 
+*** TURN *** [Jd 6d 6s] [8s]
+chad2429: checks 
+hecke74: bets 1120
+chad2429: calls 1120
+*** RIVER *** [Jd 6d 6s 8s] [Js]
+chad2429: checks 
+hecke74: bets 2720
+chad2429: calls 2720
+*** SHOW DOWN ***
+hecke74: shows [Ad Jc] (a full house, Jacks full of Sixes)
+chad2429: mucks hand 
+hecke74 collected 10296 from pot
+*** SUMMARY ***
+Total pot 10296 | Rake 0 
+Board [Jd 6d 6s 8s Js]
+Seat 1: mullric6 folded on the Flop
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 showed [Ad Jc] and won (10296) with a full house, Jacks full of Sixes
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: chad2429 (small blind) mucked [6c Kc]
+Seat 8: LLEVENOMA (big blind) folded before Flop
+
+
+
+PokerStars Hand #255242613086: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VI (80/160) - 2025/03/11 18:30:48 WET [2025/03/11 14:30:48 ET]
+Table '3866282093 82' 8-max Seat #7 is the button
+Seat 1: mullric6 (9592 in chips) 
+Seat 2: scottan86 (18848 in chips) 
+Seat 3: hecke74 (28893 in chips) 
+Seat 4: eron profi (10000 in chips) 
+Seat 5: Mm Food17 (18647 in chips) 
+Seat 6: Kevin12345Mc (9006 in chips) 
+Seat 7: chad2429 (6085 in chips) 
+Seat 8: LLEVENOMA (9752 in chips) 
+mullric6: posts the ante 20
+scottan86: posts the ante 20
+hecke74: posts the ante 20
+eron profi: posts the ante 20
+Mm Food17: posts the ante 20
+Kevin12345Mc: posts the ante 20
+chad2429: posts the ante 20
+LLEVENOMA: posts the ante 20
+LLEVENOMA: posts small blind 80
+mullric6: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 9d]
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Mm Food17: raises 184 to 344
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+mullric6: raises 928 to 1272
+Mm Food17: calls 928
+*** FLOP *** [Qd 9c 8h]
+mullric6: bets 8300 and is all-in
+Mm Food17: folds 
+Uncalled bet (8300) returned to mullric6
+mullric6 collected 2784 from pot
+mullric6: doesn't show hand 
+*** SUMMARY ***
+Total pot 2784 | Rake 0 
+Board [Qd 9c 8h]
+Seat 1: mullric6 (big blind) collected (2784)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded on the Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 (button) folded before Flop (didn't bet)
+Seat 8: LLEVENOMA (small blind) folded before Flop
+
+
+
+PokerStars Hand #255242630479: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VI (80/160) - 2025/03/11 18:32:00 WET [2025/03/11 14:32:00 ET]
+Table '3866282093 82' 8-max Seat #8 is the button
+Seat 1: mullric6 (11084 in chips) 
+Seat 2: scottan86 (18828 in chips) 
+Seat 3: hecke74 (28873 in chips) 
+Seat 4: eron profi (9980 in chips) 
+Seat 5: Mm Food17 (17355 in chips) 
+Seat 6: Kevin12345Mc (8986 in chips) 
+Seat 7: chad2429 (6065 in chips) 
+Seat 8: LLEVENOMA (9652 in chips) 
+mullric6: posts the ante 20
+scottan86: posts the ante 20
+hecke74: posts the ante 20
+eron profi: posts the ante 20
+Mm Food17: posts the ante 20
+Kevin12345Mc: posts the ante 20
+chad2429: posts the ante 20
+LLEVENOMA: posts the ante 20
+mullric6: posts small blind 80
+scottan86: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 5d]
+hecke74: raises 272 to 432
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+mullric6: calls 352
+scottan86: calls 272
+*** FLOP *** [5s 6c Qc]
+mullric6: checks 
+scottan86: checks 
+hecke74: checks 
+*** TURN *** [5s 6c Qc] [8c]
+mullric6: bets 917
+scottan86: folds 
+hecke74: folds 
+Uncalled bet (917) returned to mullric6
+mullric6 collected 1456 from pot
+mullric6: doesn't show hand 
+*** SUMMARY ***
+Total pot 1456 | Rake 0 
+Board [5s 6c Qc 8c]
+Seat 1: mullric6 (small blind) collected (1456)
+Seat 2: scottan86 (big blind) folded on the Turn
+Seat 3: hecke74 folded on the Turn
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242646862: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VI (80/160) - 2025/03/11 18:33:06 WET [2025/03/11 14:33:06 ET]
+Table '3866282093 82' 8-max Seat #1 is the button
+Seat 1: mullric6 (12088 in chips) 
+Seat 2: scottan86 (18376 in chips) 
+Seat 3: hecke74 (28421 in chips) 
+Seat 4: eron profi (9960 in chips) 
+Seat 5: Mm Food17 (17335 in chips) 
+Seat 6: Kevin12345Mc (8966 in chips) 
+Seat 7: chad2429 (6045 in chips) 
+Seat 8: LLEVENOMA (9632 in chips) 
+mullric6: posts the ante 20
+scottan86: posts the ante 20
+hecke74: posts the ante 20
+eron profi: posts the ante 20
+Mm Food17: posts the ante 20
+Kevin12345Mc: posts the ante 20
+chad2429: posts the ante 20
+LLEVENOMA: posts the ante 20
+scottan86: posts small blind 80
+hecke74: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah Qc]
+eron profi: folds 
+Mm Food17: raises 160 to 320
+Kevin12345Mc: raises 800 to 1120
+chad2429: folds 
+LLEVENOMA: folds 
+mullric6: folds 
+scottan86: folds 
+hecke74: folds 
+Mm Food17: folds 
+Uncalled bet (800) returned to Kevin12345Mc
+Kevin12345Mc collected 1040 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Seat 1: mullric6 (button) folded before Flop (didn't bet)
+Seat 2: scottan86 (small blind) folded before Flop
+Seat 3: hecke74 (big blind) folded before Flop
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop
+Seat 6: Kevin12345Mc collected (1040)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242656654: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VI (80/160) - 2025/03/11 18:33:46 WET [2025/03/11 14:33:46 ET]
+Table '3866282093 82' 8-max Seat #2 is the button
+Seat 1: mullric6 (12068 in chips) 
+Seat 2: scottan86 (18276 in chips) 
+Seat 3: hecke74 (28241 in chips) 
+Seat 4: eron profi (9940 in chips) 
+Seat 5: Mm Food17 (16995 in chips) 
+Seat 6: Kevin12345Mc (9666 in chips) 
+Seat 7: chad2429 (6025 in chips) 
+Seat 8: LLEVENOMA (9612 in chips) 
+mullric6: posts the ante 20
+scottan86: posts the ante 20
+hecke74: posts the ante 20
+eron profi: posts the ante 20
+Mm Food17: posts the ante 20
+Kevin12345Mc: posts the ante 20
+chad2429: posts the ante 20
+LLEVENOMA: posts the ante 20
+hecke74: posts small blind 80
+eron profi: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Qs]
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+mullric6: raises 176 to 336
+scottan86: calls 336
+hecke74: calls 256
+eron profi: raises 1904 to 2240
+mullric6: folds 
+scottan86: folds 
+hecke74: folds 
+Uncalled bet (1904) returned to eron profi
+eron profi collected 1504 from pot
+eron profi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1504 | Rake 0 
+Seat 1: mullric6 folded before Flop
+Seat 2: scottan86 (button) folded before Flop
+Seat 3: hecke74 (small blind) folded before Flop
+Seat 4: eron profi (big blind) collected (1504)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242671304: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VI (80/160) - 2025/03/11 18:34:45 WET [2025/03/11 14:34:45 ET]
+Table '3866282093 82' 8-max Seat #3 is the button
+Seat 1: mullric6 (11712 in chips) 
+Seat 2: scottan86 (17920 in chips) 
+Seat 3: hecke74 (27885 in chips) 
+Seat 4: eron profi (11088 in chips) 
+Seat 5: Mm Food17 (16975 in chips) 
+Seat 6: Kevin12345Mc (9646 in chips) 
+Seat 7: chad2429 (6005 in chips) 
+Seat 8: LLEVENOMA (9592 in chips) 
+mullric6: posts the ante 20
+scottan86: posts the ante 20
+hecke74: posts the ante 20
+eron profi: posts the ante 20
+Mm Food17: posts the ante 20
+Kevin12345Mc: posts the ante 20
+chad2429: posts the ante 20
+LLEVENOMA: posts the ante 20
+eron profi: posts small blind 80
+Mm Food17: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s Qd]
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+mullric6: folds 
+scottan86: folds 
+hecke74: raises 272 to 432
+eron profi: calls 352
+Mm Food17: folds 
+*** FLOP *** [5s 4s 8c]
+eron profi: checks 
+hecke74: bets 592
+eron profi: calls 592
+*** TURN *** [5s 4s 8c] [Jh]
+eron profi: checks 
+hecke74: bets 1184
+eron profi: calls 1184
+*** RIVER *** [5s 4s 8c Jh] [Kd]
+eron profi: checks 
+hecke74: checks 
+*** SHOW DOWN ***
+eron profi: shows [Td 8d] (a pair of Eights)
+hecke74: shows [Jd Ac] (a pair of Jacks)
+hecke74 collected 4736 from pot
+*** SUMMARY ***
+Total pot 4736 | Rake 0 
+Board [5s 4s 8c Jh Kd]
+Seat 1: mullric6 folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 (button) showed [Jd Ac] and won (4736) with a pair of Jacks
+Seat 4: eron profi (small blind) showed [Td 8d] and lost with a pair of Eights
+Seat 5: Mm Food17 (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242697860: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VI (80/160) - 2025/03/11 18:36:31 WET [2025/03/11 14:36:31 ET]
+Table '3866282093 82' 8-max Seat #4 is the button
+Seat 1: mullric6 (11692 in chips) 
+Seat 2: scottan86 (17900 in chips) 
+Seat 3: hecke74 (30393 in chips) 
+Seat 4: eron profi (8860 in chips) 
+Seat 5: Mm Food17 (16795 in chips) 
+Seat 6: Kevin12345Mc (9626 in chips) 
+Seat 7: chad2429 (5985 in chips) 
+Seat 8: LLEVENOMA (9572 in chips) 
+mullric6: posts the ante 20
+scottan86: posts the ante 20
+hecke74: posts the ante 20
+eron profi: posts the ante 20
+Mm Food17: posts the ante 20
+Kevin12345Mc: posts the ante 20
+chad2429: posts the ante 20
+LLEVENOMA: posts the ante 20
+Mm Food17: posts small blind 80
+Kevin12345Mc: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Td]
+chad2429: folds 
+LLEVENOMA: folds 
+mullric6: folds 
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Mm Food17: raises 400 to 560
+Kevin12345Mc: calls 400
+*** FLOP *** [7h 3d 9c]
+Mm Food17: bets 560
+Kevin12345Mc: calls 560
+*** TURN *** [7h 3d 9c] [Qc]
+Mm Food17: bets 2240
+Kevin12345Mc: folds 
+Uncalled bet (2240) returned to Mm Food17
+Mm Food17 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [7h 3d 9c Qc]
+Seat 1: mullric6 folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi (button) folded before Flop (didn't bet)
+Seat 5: Mm Food17 (small blind) collected (2400)
+Seat 6: Kevin12345Mc (big blind) folded on the Turn
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242722337: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VI (80/160) - 2025/03/11 18:38:09 WET [2025/03/11 14:38:09 ET]
+Table '3866282093 82' 8-max Seat #5 is the button
+Seat 1: mullric6 (11672 in chips) 
+Seat 2: scottan86 (17880 in chips) 
+Seat 3: hecke74 (30373 in chips) 
+Seat 4: eron profi (8840 in chips) 
+Seat 5: Mm Food17 (18055 in chips) 
+Seat 6: Kevin12345Mc (8486 in chips) 
+Seat 7: chad2429 (5965 in chips) 
+Seat 8: LLEVENOMA (9552 in chips) 
+mullric6: posts the ante 20
+scottan86: posts the ante 20
+hecke74: posts the ante 20
+eron profi: posts the ante 20
+Mm Food17: posts the ante 20
+Kevin12345Mc: posts the ante 20
+chad2429: posts the ante 20
+LLEVENOMA: posts the ante 20
+Kevin12345Mc: posts small blind 80
+chad2429: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 2c]
+LLEVENOMA: folds 
+mullric6: folds 
+scottan86: folds 
+hecke74: raises 272 to 432
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: calls 352
+chad2429: calls 272
+*** FLOP *** [7h 7c Ts]
+Kevin12345Mc: checks 
+chad2429: checks 
+hecke74: bets 640
+Kevin12345Mc: folds 
+chad2429: folds 
+Uncalled bet (640) returned to hecke74
+hecke74 collected 1456 from pot
+hecke74: doesn't show hand 
+*** SUMMARY ***
+Total pot 1456 | Rake 0 
+Board [7h 7c Ts]
+Seat 1: mullric6 folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 collected (1456)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded on the Flop
+Seat 7: chad2429 (big blind) folded on the Flop
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242732749: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VI (80/160) - 2025/03/11 18:38:50 WET [2025/03/11 14:38:50 ET]
+Table '3866282093 82' 8-max Seat #6 is the button
+Seat 1: mullric6 (11652 in chips) 
+Seat 2: scottan86 (17860 in chips) 
+Seat 3: hecke74 (31377 in chips) 
+Seat 4: eron profi (8820 in chips) 
+Seat 5: Mm Food17 (18035 in chips) 
+Seat 6: Kevin12345Mc (8034 in chips) 
+Seat 7: chad2429 (5513 in chips) 
+Seat 8: LLEVENOMA (9532 in chips) 
+mullric6: posts the ante 20
+scottan86: posts the ante 20
+hecke74: posts the ante 20
+eron profi: posts the ante 20
+Mm Food17: posts the ante 20
+Kevin12345Mc: posts the ante 20
+chad2429: posts the ante 20
+LLEVENOMA: posts the ante 20
+chad2429: posts small blind 80
+LLEVENOMA: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 4s]
+mullric6: folds 
+scottan86: folds 
+hecke74: raises 272 to 432
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+Uncalled bet (272) returned to hecke74
+hecke74 collected 560 from pot
+hecke74: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: mullric6 folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 collected (560)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: chad2429 (small blind) folded before Flop
+Seat 8: LLEVENOMA (big blind) folded before Flop
+
+
+
+PokerStars Hand #255242742800: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:39:30 WET [2025/03/11 14:39:30 ET]
+Table '3866282093 82' 8-max Seat #7 is the button
+Seat 1: mullric6 (11632 in chips) 
+Seat 2: scottan86 (17840 in chips) 
+Seat 3: hecke74 (31757 in chips) 
+Seat 4: eron profi (8800 in chips) 
+Seat 5: Mm Food17 (18015 in chips) 
+Seat 6: Kevin12345Mc (8014 in chips) 
+Seat 7: chad2429 (5413 in chips) 
+Seat 8: LLEVENOMA (9352 in chips) 
+mullric6: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+LLEVENOMA: posts small blind 100
+mullric6: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 2h]
+scottan86: raises 240 to 440
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+mullric6: calls 240
+*** FLOP *** [Jh 8h Qs]
+mullric6: checks 
+scottan86: bets 495
+mullric6: folds 
+Uncalled bet (495) returned to scottan86
+scottan86 collected 1180 from pot
+scottan86: doesn't show hand 
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [Jh 8h Qs]
+Seat 1: mullric6 (big blind) folded on the Flop
+Seat 2: scottan86 collected (1180)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 (button) folded before Flop (didn't bet)
+Seat 8: LLEVENOMA (small blind) folded before Flop
+
+
+
+PokerStars Hand #255242755070: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:40:19 WET [2025/03/11 14:40:19 ET]
+Table '3866282093 82' 8-max Seat #8 is the button
+Seat 1: mullric6 (11167 in chips) 
+Seat 2: scottan86 (18555 in chips) 
+Seat 3: hecke74 (31732 in chips) 
+Seat 4: eron profi (8775 in chips) 
+Seat 5: Mm Food17 (17990 in chips) 
+Seat 6: Kevin12345Mc (7989 in chips) 
+Seat 7: chad2429 (5388 in chips) 
+Seat 8: LLEVENOMA (9227 in chips) 
+mullric6: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+mullric6: posts small blind 100
+scottan86: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s Ad]
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+mullric6: calls 100
+scottan86: checks 
+*** FLOP *** [8c Th 6h]
+mullric6: checks 
+scottan86: bets 200
+mullric6: raises 1780 to 1980
+scottan86: raises 1780 to 3760
+mullric6: raises 7182 to 10942 and is all-in
+scottan86: calls 7182
+*** TURN *** [8c Th 6h] [8s]
+*** RIVER *** [8c Th 6h 8s] [4c]
+*** SHOW DOWN ***
+mullric6: shows [Jd Jc] (two pair, Jacks and Eights)
+scottan86: shows [9c 7s] (a straight, Six to Ten)
+scottan86 collected 22484 from pot
+mullric6 finished the tournament
+*** SUMMARY ***
+Total pot 22484 | Rake 0 
+Board [8c Th 6h 8s 4c]
+Seat 1: mullric6 (small blind) showed [Jd Jc] and lost with two pair, Jacks and Eights
+Seat 2: scottan86 (big blind) showed [9c 7s] and won (22484) with a straight, Six to Ten
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242770854: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:41:21 WET [2025/03/11 14:41:21 ET]
+Table '3866282093 82' 8-max Seat #2 is the button
+Seat 2: scottan86 (29872 in chips) 
+Seat 3: hecke74 (31707 in chips) 
+Seat 4: eron profi (8750 in chips) 
+Seat 5: Mm Food17 (17965 in chips) 
+Seat 6: Kevin12345Mc (7964 in chips) 
+Seat 7: chad2429 (5363 in chips) 
+Seat 8: LLEVENOMA (9202 in chips) 
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+hecke74: posts small blind 100
+eron profi: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 6c]
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: raises 200 to 400
+LLEVENOMA: folds 
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Uncalled bet (200) returned to chad2429
+chad2429 collected 675 from pot
+chad2429: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 2: scottan86 (button) folded before Flop (didn't bet)
+Seat 3: hecke74 (small blind) folded before Flop
+Seat 4: eron profi (big blind) folded before Flop
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 collected (675)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242778907: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:41:52 WET [2025/03/11 14:41:52 ET]
+Table '3866282093 82' 8-max Seat #3 is the button
+Seat 2: scottan86 (29847 in chips) 
+Seat 3: hecke74 (31582 in chips) 
+Seat 4: eron profi (8525 in chips) 
+Seat 5: Mm Food17 (17940 in chips) 
+Seat 6: Kevin12345Mc (7939 in chips) 
+Seat 7: chad2429 (5813 in chips) 
+Seat 8: LLEVENOMA (9177 in chips) 
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+eron profi: posts small blind 100
+Mm Food17: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Th]
+GuGaGi is disconnected 
+Kevin12345Mc: folds 
+chad2429: raises 300 to 500
+LLEVENOMA: folds 
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Uncalled bet (300) returned to chad2429
+chad2429 collected 675 from pot
+chad2429: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 (button) folded before Flop (didn't bet)
+Seat 4: eron profi (small blind) folded before Flop
+Seat 5: Mm Food17 (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 collected (675)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242787178: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:42:24 WET [2025/03/11 14:42:24 ET]
+Table '3866282093 82' 8-max Seat #4 is the button
+Seat 1: GuGaGi (10000 in chips) 
+Seat 2: scottan86 (29822 in chips) 
+Seat 3: hecke74 (31557 in chips) 
+Seat 4: eron profi (8400 in chips) 
+Seat 5: Mm Food17 (17715 in chips) 
+Seat 6: Kevin12345Mc (7914 in chips) 
+Seat 7: chad2429 (6263 in chips) 
+Seat 8: LLEVENOMA (9152 in chips) 
+GuGaGi: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+Mm Food17: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 5d]
+chad2429: folds 
+LLEVENOMA: folds 
+GuGaGi: folds 
+scottan86: folds 
+hecke74: raises 340 to 540
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+Uncalled bet (340) returned to hecke74
+hecke74 collected 700 from pot
+hecke74: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: GuGaGi folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 collected (700)
+Seat 4: eron profi (button) folded before Flop (didn't bet)
+Seat 5: Mm Food17 (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242796069: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:42:59 WET [2025/03/11 14:42:59 ET]
+Table '3866282093 82' 8-max Seat #5 is the button
+Seat 1: GuGaGi (9975 in chips) 
+Seat 2: scottan86 (29797 in chips) 
+Seat 3: hecke74 (32032 in chips) 
+Seat 4: eron profi (8375 in chips) 
+Seat 5: Mm Food17 (17590 in chips) 
+Seat 6: Kevin12345Mc (7689 in chips) 
+Seat 7: chad2429 (6238 in chips) 
+Seat 8: LLEVENOMA (9127 in chips) 
+GuGaGi: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+Kevin12345Mc: posts small blind 100
+chad2429: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 6s]
+LLEVENOMA: folds 
+GuGaGi: folds 
+scottan86: raises 240 to 440
+hecke74: folds 
+eron profi: calls 440
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: raises 1620 to 2060
+scottan86: raises 27712 to 29772 and is all-in
+eron profi: folds 
+chad2429: calls 4153 and is all-in
+Uncalled bet (23559) returned to scottan86
+*** FLOP *** [Qd 5h Kc]
+*** TURN *** [Qd 5h Kc] [6h]
+*** RIVER *** [Qd 5h Kc 6h] [7d]
+*** SHOW DOWN ***
+chad2429: shows [Kd Ks] (three of a kind, Kings)
+scottan86: shows [Qh Qc] (three of a kind, Queens)
+chad2429 collected 13166 from pot
+*** SUMMARY ***
+Total pot 13166 | Rake 0 
+Board [Qd 5h Kc 6h 7d]
+Seat 1: GuGaGi folded before Flop (didn't bet)
+Seat 2: scottan86 showed [Qh Qc] and lost with three of a kind, Queens
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop
+Seat 5: Mm Food17 (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: chad2429 (big blind) showed [Kd Ks] and won (13166) with three of a kind, Kings
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242808147: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:43:46 WET [2025/03/11 14:43:46 ET]
+Table '3866282093 82' 8-max Seat #6 is the button
+Seat 1: GuGaGi (9950 in chips) 
+Seat 2: scottan86 (23559 in chips) 
+Seat 3: hecke74 (32007 in chips) 
+Seat 4: eron profi (7910 in chips) 
+Seat 5: Mm Food17 (17565 in chips) 
+Seat 6: Kevin12345Mc (7564 in chips) 
+Seat 7: chad2429 (13166 in chips) 
+Seat 8: LLEVENOMA (9102 in chips) 
+GuGaGi: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+chad2429: posts small blind 100
+LLEVENOMA: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Ts]
+GuGaGi: raises 200 to 400
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: calls 300
+LLEVENOMA: folds 
+*** FLOP *** [4c Jc 3d]
+chad2429: checks 
+GuGaGi: checks 
+*** TURN *** [4c Jc 3d] [Qs]
+chad2429: checks 
+GuGaGi: bets 700
+chad2429: folds 
+Uncalled bet (700) returned to GuGaGi
+GuGaGi collected 1200 from pot
+GuGaGi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [4c Jc 3d Qs]
+Seat 1: GuGaGi collected (1200)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: chad2429 (small blind) folded on the Turn
+Seat 8: LLEVENOMA (big blind) folded before Flop
+
+
+
+PokerStars Hand #255242821156: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:44:37 WET [2025/03/11 14:44:37 ET]
+Table '3866282093 82' 8-max Seat #7 is the button
+Seat 1: GuGaGi (10725 in chips) 
+Seat 2: scottan86 (23534 in chips) 
+Seat 3: hecke74 (31982 in chips) 
+Seat 4: eron profi (7885 in chips) 
+Seat 5: Mm Food17 (17540 in chips) 
+Seat 6: Kevin12345Mc (7539 in chips) 
+Seat 7: chad2429 (12741 in chips) 
+Seat 8: LLEVENOMA (8877 in chips) 
+GuGaGi: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+LLEVENOMA: posts small blind 100
+GuGaGi: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 2c]
+scottan86: raises 240 to 440
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: calls 340
+GuGaGi: calls 240
+*** FLOP *** [Th 3h 9d]
+LLEVENOMA: checks 
+GuGaGi: checks 
+scottan86: bets 380
+LLEVENOMA: raises 1117 to 1497
+GuGaGi: calls 1497
+scottan86: folds 
+*** TURN *** [Th 3h 9d] [8d]
+LLEVENOMA: bets 6915 and is all-in
+GuGaGi: calls 6915
+*** RIVER *** [Th 3h 9d 8d] [6s]
+*** SHOW DOWN ***
+LLEVENOMA: shows [3s 3d] (three of a kind, Threes)
+GuGaGi: shows [Td 8c] (two pair, Tens and Eights)
+LLEVENOMA collected 18724 from pot
+*** SUMMARY ***
+Total pot 18724 | Rake 0 
+Board [Th 3h 9d 8d 6s]
+Seat 1: GuGaGi (big blind) showed [Td 8c] and lost with two pair, Tens and Eights
+Seat 2: scottan86 folded on the Flop
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 (button) folded before Flop (didn't bet)
+Seat 8: LLEVENOMA (small blind) showed [3s 3d] and won (18724) with three of a kind, Threes
+
+
+
+PokerStars Hand #255242841698: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:45:55 WET [2025/03/11 14:45:55 ET]
+Table '3866282093 82' 8-max Seat #8 is the button
+Seat 1: GuGaGi (1848 in chips) 
+Seat 2: scottan86 (22689 in chips) 
+Seat 3: hecke74 (31957 in chips) 
+Seat 4: eron profi (7860 in chips) 
+Seat 5: Mm Food17 (17515 in chips) 
+Seat 6: Kevin12345Mc (7514 in chips) 
+Seat 7: chad2429 (12716 in chips) 
+Seat 8: LLEVENOMA (18724 in chips) 
+GuGaGi: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+GuGaGi: posts small blind 100
+scottan86: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 9c]
+hecke74: raises 340 to 540
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: calls 540
+chad2429: calls 540
+LLEVENOMA: folds 
+GuGaGi: folds 
+scottan86: folds 
+*** FLOP *** [Ks 4h Td]
+hecke74: checks 
+Kevin12345Mc: checks 
+chad2429: checks 
+*** TURN *** [Ks 4h Td] [6s]
+hecke74: checks 
+Kevin12345Mc: checks 
+chad2429: checks 
+*** RIVER *** [Ks 4h Td 6s] [3d]
+hecke74: bets 1060
+Kevin12345Mc: folds 
+chad2429: folds 
+Uncalled bet (1060) returned to hecke74
+hecke74 collected 2120 from pot
+hecke74: doesn't show hand 
+*** SUMMARY ***
+Total pot 2120 | Rake 0 
+Board [Ks 4h Td 6s 3d]
+Seat 1: GuGaGi (small blind) folded before Flop
+Seat 2: scottan86 (big blind) folded before Flop
+Seat 3: hecke74 collected (2120)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded on the River
+Seat 7: chad2429 folded on the River
+Seat 8: LLEVENOMA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242859827: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:47:05 WET [2025/03/11 14:47:05 ET]
+Table '3866282093 82' 8-max Seat #1 is the button
+Seat 1: GuGaGi (1723 in chips) 
+Seat 2: scottan86 (22464 in chips) 
+Seat 3: hecke74 (33512 in chips) 
+Seat 4: eron profi (7835 in chips) 
+Seat 5: Mm Food17 (17490 in chips) 
+Seat 6: Kevin12345Mc (6949 in chips) 
+Seat 7: chad2429 (12151 in chips) 
+Seat 8: LLEVENOMA (18699 in chips) 
+GuGaGi: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+scottan86: posts small blind 100
+hecke74: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Js]
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: raises 240 to 440
+chad2429: folds 
+LLEVENOMA: folds 
+GuGaGi: calls 440
+scottan86: folds 
+hecke74: folds 
+*** FLOP *** [As Jc 8h]
+Kevin12345Mc: checks 
+GuGaGi: checks 
+*** TURN *** [As Jc 8h] [Kd]
+Kevin12345Mc: checks 
+GuGaGi: checks 
+*** RIVER *** [As Jc 8h Kd] [5s]
+Kevin12345Mc: checks 
+GuGaGi: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Qs Js] (a pair of Jacks)
+GuGaGi: shows [Qc Jd] (a pair of Jacks)
+Kevin12345Mc collected 690 from pot
+GuGaGi collected 690 from pot
+*** SUMMARY ***
+Total pot 1380 | Rake 0 
+Board [As Jc 8h Kd 5s]
+Seat 1: GuGaGi (button) showed [Qc Jd] and won (690) with a pair of Jacks
+Seat 2: scottan86 (small blind) folded before Flop
+Seat 3: hecke74 (big blind) folded before Flop
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc showed [Qs Js] and won (690) with a pair of Jacks
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242877961: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:48:14 WET [2025/03/11 14:48:14 ET]
+Table '3866282093 82' 8-max Seat #2 is the button
+Seat 1: GuGaGi (1948 in chips) 
+Seat 2: scottan86 (22339 in chips) 
+Seat 3: hecke74 (33287 in chips) 
+Seat 4: eron profi (7810 in chips) 
+Seat 5: Mm Food17 (17465 in chips) 
+Seat 6: Kevin12345Mc (7174 in chips) 
+Seat 7: chad2429 (12126 in chips) 
+Seat 8: LLEVENOMA (18674 in chips) 
+GuGaGi: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+hecke74: posts small blind 100
+eron profi: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 2s]
+Mm Food17: raises 230 to 430
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+GuGaGi: folds 
+scottan86: folds 
+hecke74: calls 330
+eron profi: folds 
+*** FLOP *** [7d 6s 8d]
+hecke74: checks 
+Mm Food17: checks 
+*** TURN *** [7d 6s 8d] [9s]
+hecke74: checks 
+Mm Food17: checks 
+*** RIVER *** [7d 6s 8d 9s] [Js]
+hecke74: checks 
+Mm Food17: checks 
+*** SHOW DOWN ***
+hecke74: shows [Qc Jc] (a pair of Jacks)
+Mm Food17: mucks hand 
+hecke74 collected 1260 from pot
+*** SUMMARY ***
+Total pot 1260 | Rake 0 
+Board [7d 6s 8d 9s Js]
+Seat 1: GuGaGi folded before Flop (didn't bet)
+Seat 2: scottan86 (button) folded before Flop (didn't bet)
+Seat 3: hecke74 (small blind) showed [Qc Jc] and won (1260) with a pair of Jacks
+Seat 4: eron profi (big blind) folded before Flop
+Seat 5: Mm Food17 mucked [Kh Qh]
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242890793: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:49:04 WET [2025/03/11 14:49:04 ET]
+Table '3866282093 82' 8-max Seat #3 is the button
+Seat 1: GuGaGi (1923 in chips) 
+Seat 2: scottan86 (22314 in chips) 
+Seat 3: hecke74 (34092 in chips) 
+Seat 4: eron profi (7585 in chips) 
+Seat 5: Mm Food17 (17010 in chips) 
+Seat 6: Kevin12345Mc (7149 in chips) 
+Seat 7: chad2429 (12101 in chips) 
+Seat 8: LLEVENOMA (18649 in chips) 
+GuGaGi: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+eron profi: posts small blind 100
+Mm Food17: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 7s]
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: raises 240 to 440
+GuGaGi: folds 
+scottan86: calls 440
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+*** FLOP *** [2s 8c 7h]
+LLEVENOMA: bets 428
+scottan86: calls 428
+*** TURN *** [2s 8c 7h] [Ks]
+LLEVENOMA: bets 1200
+scottan86: calls 1200
+*** RIVER *** [2s 8c 7h Ks] [6h]
+LLEVENOMA: checks 
+scottan86: checks 
+*** SHOW DOWN ***
+LLEVENOMA: shows [9d 9c] (a pair of Nines)
+scottan86: mucks hand 
+LLEVENOMA collected 4636 from pot
+*** SUMMARY ***
+Total pot 4636 | Rake 0 
+Board [2s 8c 7h Ks 6h]
+Seat 1: GuGaGi folded before Flop (didn't bet)
+Seat 2: scottan86 mucked [8h Jh]
+Seat 3: hecke74 (button) folded before Flop (didn't bet)
+Seat 4: eron profi (small blind) folded before Flop
+Seat 5: Mm Food17 (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA showed [9d 9c] and won (4636) with a pair of Nines
+
+
+
+PokerStars Hand #255242907394: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:50:08 WET [2025/03/11 14:50:08 ET]
+Table '3866282093 82' 8-max Seat #4 is the button
+Seat 1: GuGaGi (1898 in chips) 
+Seat 2: scottan86 (20221 in chips) 
+Seat 3: hecke74 (34067 in chips) 
+Seat 4: eron profi (7460 in chips) 
+Seat 5: Mm Food17 (16785 in chips) 
+Seat 6: Kevin12345Mc (7124 in chips) 
+Seat 7: chad2429 (12076 in chips) 
+Seat 8: LLEVENOMA (21192 in chips) 
+GuGaGi: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+Mm Food17: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 8h]
+chad2429: folds 
+LLEVENOMA: folds 
+GuGaGi: folds 
+scottan86: raises 240 to 440
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: calls 240
+*** FLOP *** [Tc 3s 2d]
+Kevin12345Mc: checks 
+scottan86: bets 295
+Kevin12345Mc: folds 
+Uncalled bet (295) returned to scottan86
+scottan86 collected 1180 from pot
+scottan86: doesn't show hand 
+*** SUMMARY ***
+Total pot 1180 | Rake 0 
+Board [Tc 3s 2d]
+Seat 1: GuGaGi folded before Flop (didn't bet)
+Seat 2: scottan86 collected (1180)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi (button) folded before Flop (didn't bet)
+Seat 5: Mm Food17 (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded on the Flop
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242914943: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VII (100/200) - 2025/03/11 18:50:37 WET [2025/03/11 14:50:37 ET]
+Table '3866282093 82' 8-max Seat #5 is the button
+Seat 1: GuGaGi (1873 in chips) 
+Seat 2: scottan86 (20936 in chips) 
+Seat 3: hecke74 (34042 in chips) 
+Seat 4: eron profi (7435 in chips) 
+Seat 5: Mm Food17 (16660 in chips) 
+Seat 6: Kevin12345Mc (6659 in chips) 
+Seat 7: chad2429 (12051 in chips) 
+Seat 8: LLEVENOMA (21167 in chips) 
+GuGaGi: posts the ante 25
+scottan86: posts the ante 25
+hecke74: posts the ante 25
+eron profi: posts the ante 25
+Mm Food17: posts the ante 25
+Kevin12345Mc: posts the ante 25
+chad2429: posts the ante 25
+LLEVENOMA: posts the ante 25
+Kevin12345Mc: posts small blind 100
+chad2429: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Ad]
+LLEVENOMA: folds 
+GuGaGi: folds 
+scottan86: folds 
+hecke74: raises 340 to 540
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: calls 440
+chad2429: folds 
+*** FLOP *** [Jh 9c Jc]
+Kevin12345Mc: checks 
+hecke74: bets 400
+Kevin12345Mc: folds 
+Uncalled bet (400) returned to hecke74
+hecke74 collected 1480 from pot
+hecke74: doesn't show hand 
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Board [Jh 9c Jc]
+Seat 1: GuGaGi folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 collected (1480)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded on the Flop
+Seat 7: chad2429 (big blind) folded before Flop
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242927664: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VIII (125/250) - 2025/03/11 18:51:27 WET [2025/03/11 14:51:27 ET]
+Table '3866282093 82' 8-max Seat #6 is the button
+Seat 1: GuGaGi (1848 in chips) 
+Seat 2: scottan86 (20911 in chips) 
+Seat 3: hecke74 (34957 in chips) 
+Seat 4: eron profi (7410 in chips) 
+Seat 5: Mm Food17 (16635 in chips) 
+Seat 6: Kevin12345Mc (6094 in chips) 
+Seat 7: chad2429 (11826 in chips) 
+Seat 8: LLEVENOMA (21142 in chips) 
+GuGaGi: posts the ante 30
+scottan86: posts the ante 30
+hecke74: posts the ante 30
+eron profi: posts the ante 30
+Mm Food17: posts the ante 30
+Kevin12345Mc: posts the ante 30
+chad2429: posts the ante 30
+LLEVENOMA: posts the ante 30
+chad2429: posts small blind 125
+LLEVENOMA: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Kh]
+GuGaGi: folds 
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: raises 275 to 525
+chad2429: folds 
+LLEVENOMA: folds 
+Uncalled bet (275) returned to Kevin12345Mc
+Kevin12345Mc collected 865 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Seat 1: GuGaGi folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) collected (865)
+Seat 7: chad2429 (small blind) folded before Flop
+Seat 8: LLEVENOMA (big blind) folded before Flop
+
+
+
+PokerStars Hand #255242939064: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VIII (125/250) - 2025/03/11 18:52:12 WET [2025/03/11 14:52:12 ET]
+Table '3866282093 82' 8-max Seat #7 is the button
+Seat 1: GuGaGi (1818 in chips) 
+Seat 2: scottan86 (20881 in chips) 
+Seat 3: hecke74 (34927 in chips) 
+Seat 4: eron profi (7380 in chips) 
+Seat 5: Mm Food17 (16605 in chips) 
+Seat 6: Kevin12345Mc (6679 in chips) 
+Seat 7: chad2429 (11671 in chips) 
+Seat 8: LLEVENOMA (20862 in chips) 
+GuGaGi: posts the ante 30
+scottan86: posts the ante 30
+hecke74: posts the ante 30
+eron profi: posts the ante 30
+Mm Food17: posts the ante 30
+Kevin12345Mc: posts the ante 30
+chad2429: posts the ante 30
+LLEVENOMA: posts the ante 30
+LLEVENOMA: posts small blind 125
+GuGaGi: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 7d]
+scottan86: raises 300 to 550
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: raises 1200 to 1750
+LLEVENOMA: folds 
+GuGaGi: folds 
+scottan86: calls 1200
+*** FLOP *** [2c Qh Tc]
+scottan86: checks 
+chad2429: checks 
+*** TURN *** [2c Qh Tc] [7h]
+scottan86: checks 
+chad2429: checks 
+*** RIVER *** [2c Qh Tc 7h] [5c]
+scottan86: checks 
+chad2429: checks 
+*** SHOW DOWN ***
+scottan86: shows [Th 9h] (a pair of Tens)
+chad2429: mucks hand 
+scottan86 collected 4115 from pot
+*** SUMMARY ***
+Total pot 4115 | Rake 0 
+Board [2c Qh Tc 7h 5c]
+Seat 1: GuGaGi (big blind) folded before Flop
+Seat 2: scottan86 showed [Th 9h] and won (4115) with a pair of Tens
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 (button) mucked [As Kc]
+Seat 8: LLEVENOMA (small blind) folded before Flop
+
+
+
+PokerStars Hand #255242956100: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VIII (125/250) - 2025/03/11 18:53:18 WET [2025/03/11 14:53:18 ET]
+Table '3866282093 82' 8-max Seat #8 is the button
+Seat 1: GuGaGi (1538 in chips) 
+Seat 2: scottan86 (23216 in chips) 
+Seat 3: hecke74 (34897 in chips) 
+Seat 4: eron profi (7350 in chips) 
+Seat 5: Mm Food17 (16575 in chips) 
+Seat 6: Kevin12345Mc (6649 in chips) 
+Seat 7: chad2429 (9891 in chips) 
+Seat 8: LLEVENOMA (20707 in chips) 
+GuGaGi: posts the ante 30
+scottan86: posts the ante 30
+hecke74: posts the ante 30
+eron profi: posts the ante 30
+Mm Food17: posts the ante 30
+Kevin12345Mc: posts the ante 30
+chad2429: posts the ante 30
+LLEVENOMA: posts the ante 30
+GuGaGi: posts small blind 125
+scottan86: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 9h]
+hecke74: raises 425 to 675
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: calls 675
+LLEVENOMA: folds 
+GuGaGi: folds 
+scottan86: folds 
+*** FLOP *** [Ks Kh 2d]
+hecke74: checks 
+chad2429: checks 
+*** TURN *** [Ks Kh 2d] [5s]
+hecke74: bets 983
+chad2429: folds 
+Uncalled bet (983) returned to hecke74
+hecke74 collected 1965 from pot
+hecke74: doesn't show hand 
+*** SUMMARY ***
+Total pot 1965 | Rake 0 
+Board [Ks Kh 2d 5s]
+Seat 1: GuGaGi (small blind) folded before Flop
+Seat 2: scottan86 (big blind) folded before Flop
+Seat 3: hecke74 collected (1965)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded on the Turn
+Seat 8: LLEVENOMA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242970870: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VIII (125/250) - 2025/03/11 18:54:16 WET [2025/03/11 14:54:16 ET]
+Table '3866282093 82' 8-max Seat #1 is the button
+Seat 1: GuGaGi (1383 in chips) 
+Seat 2: scottan86 (22936 in chips) 
+Seat 3: hecke74 (36157 in chips) 
+Seat 4: eron profi (7320 in chips) 
+Seat 5: Mm Food17 (16545 in chips) 
+Seat 6: Kevin12345Mc (6619 in chips) 
+Seat 7: chad2429 (9186 in chips) 
+Seat 8: LLEVENOMA (20677 in chips) 
+GuGaGi: posts the ante 30
+scottan86: posts the ante 30
+hecke74: posts the ante 30
+eron profi: posts the ante 30
+Mm Food17: posts the ante 30
+Kevin12345Mc: posts the ante 30
+chad2429: posts the ante 30
+LLEVENOMA: posts the ante 30
+scottan86: posts small blind 125
+hecke74: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 6s]
+eron profi: folds 
+Mm Food17: raises 287 to 537
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+GuGaGi: folds 
+scottan86: calls 412
+hecke74: folds 
+*** FLOP *** [Kc Js 2s]
+scottan86: checks 
+Mm Food17: checks 
+*** TURN *** [Kc Js 2s] [3h]
+scottan86: bets 641
+Mm Food17: calls 641
+*** RIVER *** [Kc Js 2s 3h] [Ac]
+scottan86: bets 2328
+Mm Food17: folds 
+Uncalled bet (2328) returned to scottan86
+scottan86 collected 2846 from pot
+scottan86: doesn't show hand 
+*** SUMMARY ***
+Total pot 2846 | Rake 0 
+Board [Kc Js 2s 3h Ac]
+Seat 1: GuGaGi (button) folded before Flop (didn't bet)
+Seat 2: scottan86 (small blind) collected (2846)
+Seat 3: hecke74 (big blind) folded before Flop
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded on the River
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243066372: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VIII (125/250) - 2025/03/11 19:01:58 WET [2025/03/11 15:01:58 ET]
+Table '3866282093 82' 8-max Seat #2 is the button
+Seat 1: GuGaGi (1353 in chips) 
+Seat 2: scottan86 (24574 in chips) 
+Seat 3: hecke74 (35877 in chips) 
+Seat 4: eron profi (7290 in chips) 
+Seat 5: Mm Food17 (15337 in chips) 
+Seat 6: Kevin12345Mc (6589 in chips) 
+Seat 7: chad2429 (9156 in chips) 
+Seat 8: LLEVENOMA (20647 in chips) 
+GuGaGi: posts the ante 30
+scottan86: posts the ante 30
+hecke74: posts the ante 30
+eron profi: posts the ante 30
+Mm Food17: posts the ante 30
+Kevin12345Mc: posts the ante 30
+chad2429: posts the ante 30
+LLEVENOMA: posts the ante 30
+hecke74: posts small blind 125
+eron profi: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Jh]
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: calls 250
+LLEVENOMA: raises 625 to 875
+GuGaGi: raises 448 to 1323 and is all-in
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+chad2429: calls 1073
+LLEVENOMA: calls 448
+*** FLOP *** [6d 3d 8s]
+chad2429: bets 2292
+LLEVENOMA: folds 
+Uncalled bet (2292) returned to chad2429
+*** TURN *** [6d 3d 8s] [Kh]
+*** RIVER *** [6d 3d 8s Kh] [Tc]
+*** SHOW DOWN ***
+chad2429: shows [9c 8c] (a pair of Eights)
+GuGaGi: shows [2c 2s] (a pair of Deuces)
+chad2429 collected 4584 from pot
+GuGaGi finished the tournament
+*** SUMMARY ***
+Total pot 4584 | Rake 0 
+Board [6d 3d 8s Kh Tc]
+Seat 1: GuGaGi showed [2c 2s] and lost with a pair of Deuces
+Seat 2: scottan86 (button) folded before Flop (didn't bet)
+Seat 3: hecke74 (small blind) folded before Flop
+Seat 4: eron profi (big blind) folded before Flop
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 showed [9c 8c] and won (4584) with a pair of Eights
+Seat 8: LLEVENOMA folded on the Flop
+
+
+
+PokerStars Hand #255243102368: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VIII (125/250) - 2025/03/11 19:04:22 WET [2025/03/11 15:04:22 ET]
+Table '3866282093 82' 8-max Seat #3 is the button
+Seat 2: scottan86 (24544 in chips) 
+Seat 3: hecke74 (35722 in chips) 
+Seat 4: eron profi (7010 in chips) 
+Seat 5: Mm Food17 (15307 in chips) 
+Seat 6: Kevin12345Mc (6559 in chips) 
+Seat 7: chad2429 (12387 in chips) 
+Seat 8: LLEVENOMA (19294 in chips) 
+scottan86: posts the ante 30
+hecke74: posts the ante 30
+eron profi: posts the ante 30
+Mm Food17: posts the ante 30
+Kevin12345Mc: posts the ante 30
+chad2429: posts the ante 30
+LLEVENOMA: posts the ante 30
+eron profi: posts small blind 125
+Mm Food17: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 3h]
+rodrigovini is disconnected 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+scottan86: folds 
+hecke74: raises 425 to 675
+eron profi: folds 
+Mm Food17: calls 425
+*** FLOP *** [4c Ks 2h]
+Mm Food17: checks 
+hecke74: checks 
+*** TURN *** [4c Ks 2h] [Kd]
+Mm Food17: checks 
+hecke74: checks 
+*** RIVER *** [4c Ks 2h Kd] [4d]
+Mm Food17: checks 
+hecke74: checks 
+*** SHOW DOWN ***
+Mm Food17: shows [Ac 9h] (two pair, Kings and Fours)
+hecke74: mucks hand 
+Mm Food17 collected 1685 from pot
+*** SUMMARY ***
+Total pot 1685 | Rake 0 
+Board [4c Ks 2h Kd 4d]
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 (button) mucked [Tc 7c]
+Seat 4: eron profi (small blind) folded before Flop
+Seat 5: Mm Food17 (big blind) showed [Ac 9h] and won (1685) with two pair, Kings and Fours
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243117936: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VIII (125/250) - 2025/03/11 19:05:21 WET [2025/03/11 15:05:21 ET]
+Table '3866282093 82' 8-max Seat #4 is the button
+Seat 1: rodrigovini (10000 in chips) 
+Seat 2: scottan86 (24514 in chips) 
+Seat 3: hecke74 (35017 in chips) 
+Seat 4: eron profi (6855 in chips) 
+Seat 5: Mm Food17 (16287 in chips) 
+Seat 6: Kevin12345Mc (6529 in chips) 
+Seat 7: chad2429 (12357 in chips) 
+Seat 8: LLEVENOMA (19264 in chips) 
+rodrigovini: posts the ante 30
+scottan86: posts the ante 30
+hecke74: posts the ante 30
+eron profi: posts the ante 30
+Mm Food17: posts the ante 30
+Kevin12345Mc: posts the ante 30
+chad2429: posts the ante 30
+LLEVENOMA: posts the ante 30
+Mm Food17: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 9s]
+chad2429: folds 
+LLEVENOMA: folds 
+rodrigovini: folds 
+scottan86: raises 300 to 550
+hecke74: folds 
+eron profi: raises 825 to 1375
+Mm Food17: folds 
+Kevin12345Mc: folds 
+scottan86: folds 
+Uncalled bet (825) returned to eron profi
+eron profi collected 1715 from pot
+eron profi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1715 | Rake 0 
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi (button) collected (1715)
+Seat 5: Mm Food17 (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243130759: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VIII (125/250) - 2025/03/11 19:06:09 WET [2025/03/11 15:06:09 ET]
+Table '3866282093 82' 8-max Seat #5 is the button
+Seat 1: rodrigovini (9970 in chips) 
+Seat 2: scottan86 (23934 in chips) 
+Seat 3: hecke74 (34987 in chips) 
+Seat 4: eron profi (7990 in chips) 
+Seat 5: Mm Food17 (16132 in chips) 
+Seat 6: Kevin12345Mc (6249 in chips) 
+Seat 7: chad2429 (12327 in chips) 
+Seat 8: LLEVENOMA (19234 in chips) 
+rodrigovini: posts the ante 30
+scottan86: posts the ante 30
+hecke74: posts the ante 30
+eron profi: posts the ante 30
+Mm Food17: posts the ante 30
+Kevin12345Mc: posts the ante 30
+chad2429: posts the ante 30
+LLEVENOMA: posts the ante 30
+Kevin12345Mc: posts small blind 125
+chad2429: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 8d]
+LLEVENOMA: folds 
+rodrigovini: folds 
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Mm Food17: raises 287 to 537
+Kevin12345Mc: folds 
+chad2429: folds 
+Uncalled bet (287) returned to Mm Food17
+Mm Food17 collected 865 from pot
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 (button) collected (865)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: chad2429 (big blind) folded before Flop
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243138825: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VIII (125/250) - 2025/03/11 19:06:39 WET [2025/03/11 15:06:39 ET]
+Table '3866282093 82' 8-max Seat #6 is the button
+Seat 1: rodrigovini (9940 in chips) 
+Seat 2: scottan86 (23904 in chips) 
+Seat 3: hecke74 (34957 in chips) 
+Seat 4: eron profi (7960 in chips) 
+Seat 5: Mm Food17 (16717 in chips) 
+Seat 6: Kevin12345Mc (6094 in chips) 
+Seat 7: chad2429 (12047 in chips) 
+Seat 8: LLEVENOMA (19204 in chips) 
+rodrigovini: posts the ante 30
+scottan86: posts the ante 30
+hecke74: posts the ante 30
+eron profi: posts the ante 30
+Mm Food17: posts the ante 30
+Kevin12345Mc: posts the ante 30
+chad2429: posts the ante 30
+LLEVENOMA: posts the ante 30
+chad2429: posts small blind 125
+LLEVENOMA: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh Ad]
+rodrigovini: folds 
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Mm Food17: raises 287 to 537
+Kevin12345Mc: raises 5527 to 6064 and is all-in
+chad2429: folds 
+LLEVENOMA: folds 
+Mm Food17: folds 
+Uncalled bet (5527) returned to Kevin12345Mc
+Kevin12345Mc collected 1689 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1689 | Rake 0 
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop
+Seat 6: Kevin12345Mc (button) collected (1689)
+Seat 7: chad2429 (small blind) folded before Flop
+Seat 8: LLEVENOMA (big blind) folded before Flop
+
+
+
+PokerStars Hand #255243150899: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VIII (125/250) - 2025/03/11 19:07:24 WET [2025/03/11 15:07:24 ET]
+Table '3866282093 82' 8-max Seat #7 is the button
+Seat 1: rodrigovini (9910 in chips) 
+Seat 2: scottan86 (23874 in chips) 
+Seat 3: hecke74 (34927 in chips) 
+Seat 4: eron profi (7930 in chips) 
+Seat 5: Mm Food17 (16150 in chips) 
+Seat 6: Kevin12345Mc (7216 in chips) 
+Seat 7: chad2429 (11892 in chips) 
+Seat 8: LLEVENOMA (18924 in chips) 
+rodrigovini: posts the ante 30
+scottan86: posts the ante 30
+hecke74: posts the ante 30
+eron profi: posts the ante 30
+Mm Food17: posts the ante 30
+Kevin12345Mc: posts the ante 30
+chad2429: posts the ante 30
+LLEVENOMA: posts the ante 30
+LLEVENOMA: posts small blind 125
+rodrigovini: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s Jh]
+scottan86: raises 300 to 550
+hecke74: calls 550
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+rodrigovini: folds 
+*** FLOP *** [5s Kh Qh]
+scottan86: checks 
+hecke74: bets 858
+scottan86: folds 
+Uncalled bet (858) returned to hecke74
+hecke74 collected 1715 from pot
+hecke74: doesn't show hand 
+*** SUMMARY ***
+Total pot 1715 | Rake 0 
+Board [5s Kh Qh]
+Seat 1: rodrigovini (big blind) folded before Flop
+Seat 2: scottan86 folded on the Flop
+Seat 3: hecke74 collected (1715)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 (button) folded before Flop (didn't bet)
+Seat 8: LLEVENOMA (small blind) folded before Flop
+
+
+
+PokerStars Hand #255243166354: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level VIII (125/250) - 2025/03/11 19:08:21 WET [2025/03/11 15:08:21 ET]
+Table '3866282093 82' 8-max Seat #8 is the button
+Seat 1: rodrigovini (9630 in chips) 
+Seat 2: scottan86 (23294 in chips) 
+Seat 3: hecke74 (36062 in chips) 
+Seat 4: eron profi (7900 in chips) 
+Seat 5: Mm Food17 (16120 in chips) 
+Seat 6: Kevin12345Mc (7186 in chips) 
+Seat 7: chad2429 (11862 in chips) 
+Seat 8: LLEVENOMA (18769 in chips) 
+rodrigovini: posts the ante 30
+scottan86: posts the ante 30
+hecke74: posts the ante 30
+eron profi: posts the ante 30
+Mm Food17: posts the ante 30
+Kevin12345Mc: posts the ante 30
+chad2429: posts the ante 30
+LLEVENOMA: posts the ante 30
+rodrigovini: posts small blind 125
+scottan86: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 8h]
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+rodrigovini: calls 125
+scottan86: checks 
+*** FLOP *** [4h 6s 5c]
+rodrigovini: checks 
+scottan86: checks 
+*** TURN *** [4h 6s 5c] [6c]
+rodrigovini: bets 518
+scottan86: calls 518
+*** RIVER *** [4h 6s 5c 6c] [9h]
+rodrigovini: checks 
+scottan86: bets 1296
+rodrigovini: folds 
+Uncalled bet (1296) returned to scottan86
+scottan86 collected 1776 from pot
+scottan86: doesn't show hand 
+*** SUMMARY ***
+Total pot 1776 | Rake 0 
+Board [4h 6s 5c 6c 9h]
+Seat 1: rodrigovini (small blind) folded on the River
+Seat 2: scottan86 (big blind) collected (1776)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243189525: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:09:48 WET [2025/03/11 15:09:48 ET]
+Table '3866282093 82' 8-max Seat #1 is the button
+Seat 1: rodrigovini (8832 in chips) 
+Seat 2: scottan86 (24272 in chips) 
+Seat 3: hecke74 (36032 in chips) 
+Seat 4: eron profi (7870 in chips) 
+Seat 5: Mm Food17 (16090 in chips) 
+Seat 6: Kevin12345Mc (7156 in chips) 
+Seat 7: chad2429 (11832 in chips) 
+Seat 8: LLEVENOMA (18739 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+scottan86: posts small blind 150
+hecke74: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 8h]
+eron profi: raises 300 to 600
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+rodrigovini: folds 
+scottan86: calls 450
+hecke74: folds 
+*** FLOP *** [Td 6s Js]
+scottan86: checks 
+eron profi: bets 601
+scottan86: calls 601
+*** TURN *** [Td 6s Js] [Kh]
+scottan86: checks 
+eron profi: bets 1950
+scottan86: folds 
+Uncalled bet (1950) returned to eron profi
+eron profi collected 3022 from pot
+eron profi: doesn't show hand 
+*** SUMMARY ***
+Total pot 3022 | Rake 0 
+Board [Td 6s Js Kh]
+Seat 1: rodrigovini (button) folded before Flop (didn't bet)
+Seat 2: scottan86 (small blind) folded on the Turn
+Seat 3: hecke74 (big blind) folded before Flop
+Seat 4: eron profi collected (3022)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243207479: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:10:55 WET [2025/03/11 15:10:55 ET]
+Table '3866282093 82' 8-max Seat #2 is the button
+Seat 1: rodrigovini (8792 in chips) 
+Seat 2: scottan86 (23031 in chips) 
+Seat 3: hecke74 (35692 in chips) 
+Seat 4: eron profi (9651 in chips) 
+Seat 5: Mm Food17 (16050 in chips) 
+Seat 6: Kevin12345Mc (7116 in chips) 
+Seat 7: chad2429 (11792 in chips) 
+Seat 8: LLEVENOMA (18699 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+hecke74: posts small blind 150
+eron profi: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 5s]
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+rodrigovini: raises 300 to 600
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Uncalled bet (300) returned to rodrigovini
+rodrigovini collected 1070 from pot
+rodrigovini: doesn't show hand 
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Seat 1: rodrigovini collected (1070)
+Seat 2: scottan86 (button) folded before Flop (didn't bet)
+Seat 3: hecke74 (small blind) folded before Flop
+Seat 4: eron profi (big blind) folded before Flop
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243214327: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:11:20 WET [2025/03/11 15:11:20 ET]
+Table '3866282093 82' 8-max Seat #3 is the button
+Seat 1: rodrigovini (9522 in chips) 
+Seat 2: scottan86 (22991 in chips) 
+Seat 3: hecke74 (35502 in chips) 
+Seat 4: eron profi (9311 in chips) 
+Seat 5: Mm Food17 (16010 in chips) 
+Seat 6: Kevin12345Mc (7076 in chips) 
+Seat 7: chad2429 (11752 in chips) 
+Seat 8: LLEVENOMA (18659 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+eron profi: posts small blind 150
+Mm Food17: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 7d]
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+rodrigovini: folds 
+scottan86: folds 
+hecke74: raises 510 to 810
+eron profi: folds 
+Mm Food17: folds 
+Uncalled bet (510) returned to hecke74
+hecke74 collected 1070 from pot
+hecke74: doesn't show hand 
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 (button) collected (1070)
+Seat 4: eron profi (small blind) folded before Flop
+Seat 5: Mm Food17 (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243222846: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:11:52 WET [2025/03/11 15:11:52 ET]
+Table '3866282093 82' 8-max Seat #4 is the button
+Seat 1: rodrigovini (9482 in chips) 
+Seat 2: scottan86 (22951 in chips) 
+Seat 3: hecke74 (36232 in chips) 
+Seat 4: eron profi (9121 in chips) 
+Seat 5: Mm Food17 (15670 in chips) 
+Seat 6: Kevin12345Mc (7036 in chips) 
+Seat 7: chad2429 (11712 in chips) 
+Seat 8: LLEVENOMA (18619 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+Mm Food17: posts small blind 150
+Kevin12345Mc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 7h]
+chad2429: raises 450 to 750
+LLEVENOMA: folds 
+rodrigovini: folds 
+scottan86: calls 750
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [2h Tc 4d]
+chad2429: bets 900
+scottan86: calls 900
+*** TURN *** [2h Tc 4d] [Kd]
+chad2429: checks 
+scottan86: bets 2371
+chad2429: folds 
+Uncalled bet (2371) returned to scottan86
+scottan86 collected 4070 from pot
+scottan86: doesn't show hand 
+*** SUMMARY ***
+Total pot 4070 | Rake 0 
+Board [2h Tc 4d Kd]
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 collected (4070)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi (button) folded before Flop (didn't bet)
+Seat 5: Mm Food17 (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: chad2429 folded on the Turn
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243240738: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:12:58 WET [2025/03/11 15:12:58 ET]
+Table '3866282093 82' 8-max Seat #5 is the button
+Seat 1: rodrigovini (9442 in chips) 
+Seat 2: scottan86 (25331 in chips) 
+Seat 3: hecke74 (36192 in chips) 
+Seat 4: eron profi (9081 in chips) 
+Seat 5: Mm Food17 (15480 in chips) 
+Seat 6: Kevin12345Mc (6696 in chips) 
+Seat 7: chad2429 (10022 in chips) 
+Seat 8: LLEVENOMA (18579 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+Kevin12345Mc: posts small blind 150
+chad2429: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 6s]
+LLEVENOMA: folds 
+rodrigovini: folds 
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: calls 150
+chad2429: raises 920 to 1220
+Kevin12345Mc: folds 
+Uncalled bet (920) returned to chad2429
+chad2429 collected 920 from pot
+chad2429: doesn't show hand 
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: chad2429 (big blind) collected (920)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243251044: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:13:36 WET [2025/03/11 15:13:36 ET]
+Table '3866282093 82' 8-max Seat #6 is the button
+Seat 1: rodrigovini (9402 in chips) 
+Seat 2: scottan86 (25291 in chips) 
+Seat 3: hecke74 (36152 in chips) 
+Seat 4: eron profi (9041 in chips) 
+Seat 5: Mm Food17 (15440 in chips) 
+Seat 6: Kevin12345Mc (6356 in chips) 
+Seat 7: chad2429 (10602 in chips) 
+Seat 8: LLEVENOMA (18539 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+chad2429: posts small blind 150
+LLEVENOMA: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 7s]
+rodrigovini: folds 
+scottan86: raises 360 to 660
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: calls 360
+*** FLOP *** [Jd 5c Qc]
+LLEVENOMA: checks 
+scottan86: bets 448
+LLEVENOMA: calls 448
+*** TURN *** [Jd 5c Qc] [8c]
+LLEVENOMA: checks 
+scottan86: checks 
+*** RIVER *** [Jd 5c Qc 8c] [9s]
+LLEVENOMA: bets 900
+scottan86: folds 
+Uncalled bet (900) returned to LLEVENOMA
+LLEVENOMA collected 2686 from pot
+LLEVENOMA: doesn't show hand 
+*** SUMMARY ***
+Total pot 2686 | Rake 0 
+Board [Jd 5c Qc 8c 9s]
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 folded on the River
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: chad2429 (small blind) folded before Flop
+Seat 8: LLEVENOMA (big blind) collected (2686)
+
+
+
+PokerStars Hand #255243268621: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:14:41 WET [2025/03/11 15:14:41 ET]
+Table '3866282093 82' 8-max Seat #7 is the button
+Seat 1: rodrigovini (9362 in chips) 
+Seat 2: scottan86 (24143 in chips) 
+Seat 3: hecke74 (36112 in chips) 
+Seat 4: eron profi (9001 in chips) 
+Seat 5: Mm Food17 (15400 in chips) 
+Seat 6: Kevin12345Mc (6316 in chips) 
+Seat 7: chad2429 (10412 in chips) 
+Seat 8: LLEVENOMA (20077 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+LLEVENOMA: posts small blind 150
+rodrigovini: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 6h]
+scottan86: folds 
+hecke74: folds 
+eron profi: raises 300 to 600
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: folds 
+rodrigovini: folds 
+Uncalled bet (300) returned to eron profi
+eron profi collected 1070 from pot
+eron profi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Seat 1: rodrigovini (big blind) folded before Flop
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi collected (1070)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 (button) folded before Flop (didn't bet)
+Seat 8: LLEVENOMA (small blind) folded before Flop
+
+
+
+PokerStars Hand #255243280356: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:15:24 WET [2025/03/11 15:15:24 ET]
+Table '3866282093 82' 8-max Seat #8 is the button
+Seat 1: rodrigovini (9022 in chips) 
+Seat 2: scottan86 (24103 in chips) 
+Seat 3: hecke74 (36072 in chips) 
+Seat 4: eron profi (9731 in chips) 
+Seat 5: Mm Food17 (15360 in chips) 
+Seat 6: Kevin12345Mc (6276 in chips) 
+Seat 7: chad2429 (10372 in chips) 
+Seat 8: LLEVENOMA (19887 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+rodrigovini: posts small blind 150
+scottan86: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Ac]
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: raises 900 to 1200
+rodrigovini: folds 
+scottan86: folds 
+Uncalled bet (900) returned to LLEVENOMA
+LLEVENOMA collected 1070 from pot
+LLEVENOMA: doesn't show hand 
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Seat 1: rodrigovini (small blind) folded before Flop
+Seat 2: scottan86 (big blind) folded before Flop
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA (button) collected (1070)
+
+
+
+PokerStars Hand #255243290118: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:16:00 WET [2025/03/11 15:16:00 ET]
+Table '3866282093 82' 8-max Seat #1 is the button
+Seat 1: rodrigovini (8832 in chips) 
+Seat 2: scottan86 (23763 in chips) 
+Seat 3: hecke74 (36032 in chips) 
+Seat 4: eron profi (9691 in chips) 
+Seat 5: Mm Food17 (15320 in chips) 
+Seat 6: Kevin12345Mc (6236 in chips) 
+Seat 7: chad2429 (10332 in chips) 
+Seat 8: LLEVENOMA (20617 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+scottan86: posts small blind 150
+hecke74: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Jh]
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: folds 
+chad2429: raises 450 to 750
+LLEVENOMA: folds 
+rodrigovini: folds 
+scottan86: folds 
+hecke74: folds 
+Uncalled bet (450) returned to chad2429
+chad2429 collected 1070 from pot
+chad2429: doesn't show hand 
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Seat 1: rodrigovini (button) folded before Flop (didn't bet)
+Seat 2: scottan86 (small blind) folded before Flop
+Seat 3: hecke74 (big blind) folded before Flop
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 collected (1070)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243297195: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:16:26 WET [2025/03/11 15:16:26 ET]
+Table '3866282093 82' 8-max Seat #2 is the button
+Seat 1: rodrigovini (8792 in chips) 
+Seat 2: scottan86 (23573 in chips) 
+Seat 3: hecke74 (35692 in chips) 
+Seat 4: eron profi (9651 in chips) 
+Seat 5: Mm Food17 (15280 in chips) 
+Seat 6: Kevin12345Mc (6196 in chips) 
+Seat 7: chad2429 (11062 in chips) 
+Seat 8: LLEVENOMA (20577 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+hecke74: posts small blind 150
+eron profi: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd Ac]
+Mm Food17: folds 
+Kevin12345Mc: raises 300 to 600
+chad2429: folds 
+LLEVENOMA: folds 
+rodrigovini: folds 
+scottan86: folds 
+hecke74: folds 
+eron profi: calls 300
+*** FLOP *** [7c Qs Kh]
+eron profi: checks 
+Kevin12345Mc: bets 551
+eron profi: calls 551
+*** TURN *** [7c Qs Kh] [9c]
+eron profi: checks 
+Kevin12345Mc: bets 5005 and is all-in
+eron profi: folds 
+Uncalled bet (5005) returned to Kevin12345Mc
+Kevin12345Mc collected 2772 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2772 | Rake 0 
+Board [7c Qs Kh 9c]
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 (button) folded before Flop (didn't bet)
+Seat 3: hecke74 (small blind) folded before Flop
+Seat 4: eron profi (big blind) folded on the Turn
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc collected (2772)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243330015: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:18:26 WET [2025/03/11 15:18:26 ET]
+Table '3866282093 82' 8-max Seat #3 is the button
+Seat 1: rodrigovini (8752 in chips) 
+Seat 2: scottan86 (23533 in chips) 
+Seat 3: hecke74 (35502 in chips) 
+Seat 4: eron profi (8460 in chips) 
+Seat 5: Mm Food17 (15240 in chips) 
+Seat 6: Kevin12345Mc (7777 in chips) 
+Seat 7: chad2429 (11022 in chips) 
+Seat 8: LLEVENOMA (20537 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+eron profi: posts small blind 150
+Mm Food17: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Tc]
+Kevin12345Mc: folds 
+chad2429: folds 
+LLEVENOMA: raises 330 to 630
+rodrigovini: folds 
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Mm Food17: calls 330
+*** FLOP *** [8c 8h 6s]
+Mm Food17: checks 
+LLEVENOMA: checks 
+*** TURN *** [8c 8h 6s] [8s]
+Mm Food17: checks 
+LLEVENOMA: bets 600
+Mm Food17: calls 600
+*** RIVER *** [8c 8h 6s 8s] [Qd]
+Mm Food17: checks 
+LLEVENOMA: checks 
+*** SHOW DOWN ***
+Mm Food17: shows [2s Ks] (three of a kind, Eights)
+LLEVENOMA: shows [7c Ac] (three of a kind, Eights - Ace kicker)
+LLEVENOMA collected 2930 from pot
+*** SUMMARY ***
+Total pot 2930 | Rake 0 
+Board [8c 8h 6s 8s Qd]
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 (button) folded before Flop (didn't bet)
+Seat 4: eron profi (small blind) folded before Flop
+Seat 5: Mm Food17 (big blind) showed [2s Ks] and lost with three of a kind, Eights
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA showed [7c Ac] and won (2930) with three of a kind, Eights
+
+
+
+PokerStars Hand #255243355647: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level IX (150/300) - 2025/03/11 19:20:00 WET [2025/03/11 15:20:00 ET]
+Table '3866282093 82' 8-max Seat #4 is the button
+Seat 1: rodrigovini (8712 in chips) 
+Seat 2: scottan86 (23493 in chips) 
+Seat 3: hecke74 (35462 in chips) 
+Seat 4: eron profi (8270 in chips) 
+Seat 5: Mm Food17 (13970 in chips) 
+Seat 6: Kevin12345Mc (7737 in chips) 
+Seat 7: chad2429 (10982 in chips) 
+Seat 8: LLEVENOMA (22197 in chips) 
+rodrigovini: posts the ante 40
+scottan86: posts the ante 40
+hecke74: posts the ante 40
+eron profi: posts the ante 40
+Mm Food17: posts the ante 40
+Kevin12345Mc: posts the ante 40
+chad2429: posts the ante 40
+LLEVENOMA: posts the ante 40
+Mm Food17: posts small blind 150
+Kevin12345Mc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 3s]
+chad2429: folds 
+LLEVENOMA: folds 
+rodrigovini: folds 
+scottan86: raises 360 to 660
+hecke74: folds 
+eron profi: folds 
+Mm Food17: raises 1740 to 2400
+Kevin12345Mc: folds 
+scottan86: calls 1740
+*** FLOP *** [8c Ks 2s]
+Mm Food17: bets 1350
+scottan86: calls 1350
+*** TURN *** [8c Ks 2s] [Qc]
+Mm Food17: checks 
+scottan86: checks 
+*** RIVER *** [8c Ks 2s Qc] [4s]
+Mm Food17: bets 1050
+scottan86: raises 18653 to 19703 and is all-in
+Mm Food17: folds 
+Uncalled bet (18653) returned to scottan86
+scottan86 collected 10220 from pot
+scottan86: doesn't show hand 
+*** SUMMARY ***
+Total pot 10220 | Rake 0 
+Board [8c Ks 2s Qc 4s]
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 collected (10220)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi (button) folded before Flop (didn't bet)
+Seat 5: Mm Food17 (small blind) folded on the River
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: chad2429 folded before Flop (didn't bet)
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243396555: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level X (200/400) - 2025/03/11 19:22:30 WET [2025/03/11 15:22:30 ET]
+Table '3866282093 82' 8-max Seat #5 is the button
+Seat 1: rodrigovini (8672 in chips) 
+Seat 2: scottan86 (28873 in chips) 
+Seat 3: hecke74 (35422 in chips) 
+Seat 4: eron profi (8230 in chips) 
+Seat 5: Mm Food17 (9130 in chips) 
+Seat 6: Kevin12345Mc (7397 in chips) 
+Seat 7: chad2429 (10942 in chips) 
+Seat 8: LLEVENOMA (22157 in chips) 
+rodrigovini: posts the ante 50
+scottan86: posts the ante 50
+hecke74: posts the ante 50
+eron profi: posts the ante 50
+Mm Food17: posts the ante 50
+Kevin12345Mc: posts the ante 50
+chad2429: posts the ante 50
+LLEVENOMA: posts the ante 50
+Kevin12345Mc: posts small blind 200
+chad2429: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 8h]
+LLEVENOMA: folds 
+rodrigovini: folds 
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Mm Food17: raises 400 to 800
+Kevin12345Mc: folds 
+chad2429: calls 400
+*** FLOP *** [Kh Ac 4d]
+chad2429: checks 
+Mm Food17: bets 528
+chad2429: folds 
+Uncalled bet (528) returned to Mm Food17
+Mm Food17 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Board [Kh Ac 4d]
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 (button) collected (2200)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: chad2429 (big blind) folded on the Flop
+Seat 8: LLEVENOMA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255243412886: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level X (200/400) - 2025/03/11 19:23:31 WET [2025/03/11 15:23:31 ET]
+Table '3866282093 82' 8-max Seat #6 is the button
+Seat 1: rodrigovini (8622 in chips) 
+Seat 2: scottan86 (28823 in chips) 
+Seat 3: hecke74 (35372 in chips) 
+Seat 4: eron profi (8180 in chips) 
+Seat 5: Mm Food17 (10480 in chips) 
+Seat 6: Kevin12345Mc (7147 in chips) 
+Seat 7: chad2429 (10092 in chips) 
+Seat 8: LLEVENOMA (22107 in chips) 
+rodrigovini: posts the ante 50
+scottan86: posts the ante 50
+hecke74: posts the ante 50
+eron profi: posts the ante 50
+Mm Food17: posts the ante 50
+Kevin12345Mc: posts the ante 50
+chad2429: posts the ante 50
+LLEVENOMA: posts the ante 50
+chad2429: posts small blind 200
+LLEVENOMA: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 7d]
+rodrigovini: folds 
+scottan86: folds 
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: raises 400 to 800
+chad2429: calls 600
+LLEVENOMA: folds 
+*** FLOP *** [3h Kd 8s]
+chad2429: checks 
+Kevin12345Mc: checks 
+*** TURN *** [3h Kd 8s] [3d]
+chad2429: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [3h Kd 8s 3d] [4c]
+chad2429: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+chad2429: shows [6s 6d] (two pair, Sixes and Threes)
+Kevin12345Mc: mucks hand 
+chad2429 collected 2400 from pot
+chad2429 is sitting out
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [3h Kd 8s 3d 4c]
+Seat 1: rodrigovini folded before Flop (didn't bet)
+Seat 2: scottan86 folded before Flop (didn't bet)
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) mucked [Td 7d]
+Seat 7: chad2429 (small blind) showed [6s 6d] and won (2400) with two pair, Sixes and Threes
+Seat 8: LLEVENOMA (big blind) folded before Flop
+
+
+
+PokerStars Hand #255243431060: Tournament #3866282093, $9.80+$1.20 USD Hold'em No Limit - Level X (200/400) - 2025/03/11 19:24:38 WET [2025/03/11 15:24:38 ET]
+Table '3866282093 82' 8-max Seat #7 is the button
+Seat 1: rodrigovini (8572 in chips) 
+Seat 2: scottan86 (28773 in chips) 
+Seat 3: hecke74 (35322 in chips) 
+Seat 4: eron profi (8130 in chips) 
+Seat 5: Mm Food17 (10430 in chips) 
+Seat 6: Kevin12345Mc (6297 in chips) 
+Seat 7: chad2429 (11642 in chips) is sitting out
+Seat 8: LLEVENOMA (21657 in chips) 
+rodrigovini: posts the ante 50
+scottan86: posts the ante 50
+hecke74: posts the ante 50
+eron profi: posts the ante 50
+Mm Food17: posts the ante 50
+Kevin12345Mc: posts the ante 50
+chad2429: posts the ante 50
+LLEVENOMA: posts the ante 50
+LLEVENOMA: posts small blind 200
+rodrigovini: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 8h]
+scottan86: raises 480 to 880
+hecke74: folds 
+eron profi: folds 
+Mm Food17: folds 
+Kevin12345Mc: raises 5367 to 6247 and is all-in
+chad2429: folds 
+LLEVENOMA: folds 
+rodrigovini: folds 
+scottan86: calls 5367
+*** FLOP *** [4h 4d Ks]
+*** TURN *** [4h 4d Ks] [Qd]
+*** RIVER *** [4h 4d Ks Qd] [Kd]
+*** SHOW DOWN ***
+scottan86: shows [Jc Jd] (two pair, Kings and Jacks)
+Kevin12345Mc: shows [Ah 8h] (two pair, Kings and Fours)
+scottan86 collected 13494 from pot
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 13494 | Rake 0 
+Board [4h 4d Ks Qd Kd]
+Seat 1: rodrigovini (big blind) folded before Flop
+Seat 2: scottan86 showed [Jc Jd] and won (13494) with two pair, Kings and Jacks
+Seat 3: hecke74 folded before Flop (didn't bet)
+Seat 4: eron profi folded before Flop (didn't bet)
+Seat 5: Mm Food17 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc showed [Ah 8h] and lost with two pair, Kings and Fours
+Seat 7: chad2429 (button) folded before Flop (didn't bet)
+Seat 8: LLEVENOMA (small blind) folded before Flop
+
+
+

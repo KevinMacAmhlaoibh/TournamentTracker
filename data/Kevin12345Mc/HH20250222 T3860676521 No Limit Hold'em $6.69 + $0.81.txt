@@ -1,0 +1,3036 @@
+﻿PokerStars Hand #254984646217: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 13:29:55 WET [2025/02/22 8:29:55 ET]
+Table '3860676521 3' 8-max Seat #1 is the button
+Seat 1: Baars123 (5000 in chips, $5.10 bounty) 
+Seat 2: traff22 (5000 in chips, $5.10 bounty) 
+Seat 3: renkee27 (5000 in chips, $5.10 bounty) 
+Seat 4: Kevin12345Mc (5000 in chips, $5.10 bounty) 
+Seat 5: Heinonee (5000 in chips, $5.10 bounty) 
+Seat 6: zpedrao (5000 in chips, $5.10 bounty) 
+Seat 7: vistjescard (5000 in chips, $5.10 bounty) 
+Seat 8: shoxuk (5000 in chips, $5.10 bounty) 
+Baars123: posts the ante 8
+traff22: posts the ante 8
+renkee27: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Heinonee: posts the ante 8
+zpedrao: posts the ante 8
+vistjescard: posts the ante 8
+shoxuk: posts the ante 8
+traff22: posts small blind 25
+renkee27: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 9h]
+Kevin12345Mc: folds 
+Heinonee: folds 
+zpedrao: folds 
+vistjescard: folds 
+shoxuk: raises 60 to 110
+Baars123: folds 
+traff22: folds 
+renkee27: folds 
+Uncalled bet (60) returned to shoxuk
+shoxuk collected 189 from pot
+*** SUMMARY ***
+Total pot 189 | Rake 0 
+Seat 1: Baars123 (button) folded before Flop (didn't bet)
+Seat 2: traff22 (small blind) folded before Flop
+Seat 3: renkee27 (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Heinonee folded before Flop (didn't bet)
+Seat 6: zpedrao folded before Flop (didn't bet)
+Seat 7: vistjescard folded before Flop (didn't bet)
+Seat 8: shoxuk collected (189)
+
+
+
+PokerStars Hand #254984651779: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 13:30:25 WET [2025/02/22 8:30:25 ET]
+Table '3860676521 68' 8-max Seat #1 is the button
+Seat 1: RESIDENTOV (4992 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4992 in chips, $5.10 bounty) 
+Seat 3: allie4m (4992 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4992 in chips, $5.10 bounty) 
+Seat 6: dorog702 (5000 in chips, $5.10 bounty) 
+RESIDENTOV: posts the ante 8
+Kevin12345Mc: posts the ante 8
+allie4m: posts the ante 8
+SodaDrops: posts the ante 8
+dorog702: posts the ante 8
+Kevin12345Mc: posts small blind 25
+allie4m: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 7c]
+allie4m is disconnected 
+SodaDrops is disconnected 
+SodaDrops is connected 
+Jagz7 is disconnected 
+fubbies is disconnected 
+SodaDrops: folds 
+dorog702: raises 50 to 100
+RESIDENTOV: folds 
+Kevin12345Mc: folds 
+allie4m: folds 
+Uncalled bet (50) returned to dorog702
+dorog702 collected 165 from pot
+dorog702: doesn't show hand 
+*** SUMMARY ***
+Total pot 165 | Rake 0 
+Seat 1: RESIDENTOV (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: allie4m (big blind) folded before Flop
+Seat 4: SodaDrops folded before Flop (didn't bet)
+Seat 6: dorog702 collected (165)
+
+
+
+PokerStars Hand #254984657753: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 13:30:58 WET [2025/02/22 8:30:58 ET]
+Table '3860676521 68' 8-max Seat #2 is the button
+Seat 1: RESIDENTOV (4984 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4959 in chips, $5.10 bounty) 
+Seat 3: allie4m (4934 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4984 in chips, $5.10 bounty) 
+Seat 5: Jagz7 (4992 in chips, $5.10 bounty) 
+Seat 6: dorog702 (5107 in chips, $5.10 bounty) 
+Seat 7: fubbies (4992 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (5000 in chips, $5.10 bounty) 
+RESIDENTOV: posts the ante 8
+Kevin12345Mc: posts the ante 8
+allie4m: posts the ante 8
+SodaDrops: posts the ante 8
+Jagz7: posts the ante 8
+dorog702: posts the ante 8
+fubbies: posts the ante 8
+hawkie92: posts the ante 8
+allie4m: posts small blind 25
+SodaDrops: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 2s]
+Jagz7: folds 
+dorog702: raises 50 to 100
+fubbies: folds 
+hawkie92: calls 100
+RESIDENTOV: folds 
+Kevin12345Mc: folds 
+allie4m: folds 
+SodaDrops: calls 50
+*** FLOP *** [Ks Jd 8d]
+SodaDrops: checks 
+dorog702: checks 
+hawkie92: checks 
+*** TURN *** [Ks Jd 8d] [5h]
+SodaDrops: checks 
+dorog702: bets 128
+hawkie92: calls 128
+SodaDrops: folds 
+*** RIVER *** [Ks Jd 8d 5h] [8h]
+dorog702: bets 161
+hawkie92: calls 161
+*** SHOW DOWN ***
+dorog702: shows [7c 7s] (two pair, Eights and Sevens)
+hawkie92: shows [Jc Qh] (two pair, Jacks and Eights)
+hawkie92 collected 967 from pot
+*** SUMMARY ***
+Total pot 967 | Rake 0 
+Board [Ks Jd 8d 5h 8h]
+Seat 1: RESIDENTOV folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: allie4m (small blind) folded before Flop
+Seat 4: SodaDrops (big blind) folded on the Turn
+Seat 5: Jagz7 folded before Flop (didn't bet)
+Seat 6: dorog702 showed [7c 7s] and lost with two pair, Eights and Sevens
+Seat 7: fubbies folded before Flop (didn't bet)
+Seat 8: hawkie92 showed [Jc Qh] and won (967) with two pair, Jacks and Eights
+
+
+
+PokerStars Hand #254984673126: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 13:32:21 WET [2025/02/22 8:32:21 ET]
+Table '3860676521 68' 8-max Seat #3 is the button
+Seat 1: RESIDENTOV (4976 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4951 in chips, $5.10 bounty) 
+Seat 3: allie4m (4901 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4876 in chips, $5.10 bounty) 
+Seat 5: Jagz7 (4984 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4710 in chips, $5.10 bounty) 
+Seat 7: fubbies (4984 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (5570 in chips, $5.10 bounty) 
+RESIDENTOV: posts the ante 8
+Kevin12345Mc: posts the ante 8
+allie4m: posts the ante 8
+SodaDrops: posts the ante 8
+Jagz7: posts the ante 8
+dorog702: posts the ante 8
+fubbies: posts the ante 8
+hawkie92: posts the ante 8
+SodaDrops: posts small blind 25
+Jagz7: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 8s]
+dorog702: folds 
+fubbies: folds 
+hawkie92: folds 
+RESIDENTOV: folds 
+Kevin12345Mc: folds 
+allie4m: raises 75 to 125
+SodaDrops: calls 100
+Jagz7: calls 75
+*** FLOP *** [4h Kd As]
+SodaDrops: checks 
+Jagz7: checks 
+allie4m: bets 241
+SodaDrops: folds 
+Jagz7: folds 
+Uncalled bet (241) returned to allie4m
+allie4m collected 439 from pot
+allie4m: doesn't show hand 
+*** SUMMARY ***
+Total pot 439 | Rake 0 
+Board [4h Kd As]
+Seat 1: RESIDENTOV folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m (button) collected (439)
+Seat 4: SodaDrops (small blind) folded on the Flop
+Seat 5: Jagz7 (big blind) folded on the Flop
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: fubbies folded before Flop (didn't bet)
+Seat 8: hawkie92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254984681956: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 13:33:09 WET [2025/02/22 8:33:09 ET]
+Table '3860676521 68' 8-max Seat #4 is the button
+Seat 1: RESIDENTOV (4968 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4943 in chips, $5.10 bounty) 
+Seat 3: allie4m (5207 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4743 in chips, $5.10 bounty) 
+Seat 5: Jagz7 (4851 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4702 in chips, $5.10 bounty) 
+Seat 7: fubbies (4976 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (5562 in chips, $5.10 bounty) 
+RESIDENTOV: posts the ante 8
+Kevin12345Mc: posts the ante 8
+allie4m: posts the ante 8
+SodaDrops: posts the ante 8
+Jagz7: posts the ante 8
+dorog702: posts the ante 8
+fubbies: posts the ante 8
+hawkie92: posts the ante 8
+Jagz7: posts small blind 25
+dorog702: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Qd]
+fubbies: folds 
+hawkie92: raises 50 to 100
+RESIDENTOV: folds 
+Kevin12345Mc: folds 
+allie4m: folds 
+SodaDrops: calls 100
+Jagz7: folds 
+dorog702: folds 
+*** FLOP *** [3s Td 8c]
+hawkie92: bets 170
+SodaDrops: calls 170
+*** TURN *** [3s Td 8c] [2c]
+hawkie92: bets 340
+SodaDrops: calls 340
+*** RIVER *** [3s Td 8c 2c] [5d]
+hawkie92: bets 680
+SodaDrops: folds 
+Uncalled bet (680) returned to hawkie92
+hawkie92 collected 1359 from pot
+*** SUMMARY ***
+Total pot 1359 | Rake 0 
+Board [3s Td 8c 2c 5d]
+Seat 1: RESIDENTOV folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m folded before Flop (didn't bet)
+Seat 4: SodaDrops (button) folded on the River
+Seat 5: Jagz7 (small blind) folded before Flop
+Seat 6: dorog702 (big blind) folded before Flop
+Seat 7: fubbies folded before Flop (didn't bet)
+Seat 8: hawkie92 collected (1359)
+
+
+
+PokerStars Hand #254984691988: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 13:34:04 WET [2025/02/22 8:34:04 ET]
+Table '3860676521 68' 8-max Seat #5 is the button
+Seat 1: RESIDENTOV (4960 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4935 in chips, $5.10 bounty) 
+Seat 3: allie4m (5199 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4125 in chips, $5.10 bounty) 
+Seat 5: Jagz7 (4818 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4644 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6303 in chips, $5.10 bounty) 
+RESIDENTOV: posts the ante 8
+Kevin12345Mc: posts the ante 8
+allie4m: posts the ante 8
+SodaDrops: posts the ante 8
+Jagz7: posts the ante 8
+dorog702: posts the ante 8
+hawkie92: posts the ante 8
+dorog702: posts small blind 25
+hawkie92: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Qh]
+RESIDENTOV: folds 
+Kevin12345Mc: folds 
+allie4m: folds 
+SodaDrops: folds 
+Omaha Craig is disconnected 
+Jagz7: folds 
+dorog702: calls 25
+hawkie92: checks 
+*** FLOP *** [6s 5c Tc]
+dorog702: bets 50
+hawkie92: calls 50
+*** TURN *** [6s 5c Tc] [8s]
+dorog702: checks 
+hawkie92: bets 206
+dorog702: folds 
+Uncalled bet (206) returned to hawkie92
+hawkie92 collected 256 from pot
+*** SUMMARY ***
+Total pot 256 | Rake 0 
+Board [6s 5c Tc 8s]
+Seat 1: RESIDENTOV folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m folded before Flop (didn't bet)
+Seat 4: SodaDrops folded before Flop (didn't bet)
+Seat 5: Jagz7 (button) folded before Flop (didn't bet)
+Seat 6: dorog702 (small blind) folded on the Turn
+Seat 8: hawkie92 (big blind) collected (256)
+
+
+
+PokerStars Hand #254984701384: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 13:34:55 WET [2025/02/22 8:34:55 ET]
+Table '3860676521 68' 8-max Seat #6 is the button
+Seat 1: RESIDENTOV (4952 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4927 in chips, $5.10 bounty) 
+Seat 3: allie4m (5191 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4117 in chips, $5.10 bounty) 
+Seat 5: Jagz7 (4810 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4536 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (5000 in chips) out of hand (moved from another table into small blind)
+Seat 8: hawkie92 (6451 in chips, $5.10 bounty) 
+Omaha Craig will be allowed to play after the button
+RESIDENTOV: posts the ante 8
+Kevin12345Mc: posts the ante 8
+allie4m: posts the ante 8
+SodaDrops: posts the ante 8
+Jagz7: posts the ante 8
+dorog702: posts the ante 8
+hawkie92: posts the ante 8
+hawkie92: posts small blind 25
+RESIDENTOV: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 2s]
+Kevin12345Mc: folds 
+allie4m: raises 75 to 125
+SodaDrops: folds 
+Jagz7: folds 
+dorog702: folds 
+hawkie92: folds 
+RESIDENTOV: calls 75
+*** FLOP *** [3d 8h 5h]
+RESIDENTOV: checks 
+allie4m: bets 182
+RESIDENTOV: folds 
+Uncalled bet (182) returned to allie4m
+allie4m collected 331 from pot
+allie4m: doesn't show hand 
+*** SUMMARY ***
+Total pot 331 | Rake 0 
+Board [3d 8h 5h]
+Seat 1: RESIDENTOV (big blind) folded on the Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m collected (331)
+Seat 4: SodaDrops folded before Flop (didn't bet)
+Seat 5: Jagz7 folded before Flop (didn't bet)
+Seat 6: dorog702 (button) folded before Flop (didn't bet)
+Seat 8: hawkie92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254984712024: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 13:35:53 WET [2025/02/22 8:35:53 ET]
+Table '3860676521 68' 8-max Seat #8 is the button
+Seat 1: RESIDENTOV (4819 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4919 in chips, $5.10 bounty) 
+Seat 3: allie4m (5389 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4109 in chips, $5.10 bounty) 
+Seat 5: Jagz7 (4802 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4528 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (5000 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6418 in chips, $5.10 bounty) 
+RESIDENTOV: posts the ante 8
+Kevin12345Mc: posts the ante 8
+allie4m: posts the ante 8
+SodaDrops: posts the ante 8
+Jagz7: posts the ante 8
+dorog702: posts the ante 8
+Omaha Craig: posts the ante 8
+hawkie92: posts the ante 8
+RESIDENTOV: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 5h]
+allie4m: folds 
+SodaDrops: raises 50 to 100
+Jagz7: folds 
+dorog702: calls 100
+Omaha Craig: folds 
+hawkie92: folds 
+RESIDENTOV: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [Th 9d 6h]
+SodaDrops: bets 100
+dorog702: raises 225 to 325
+SodaDrops: calls 225
+*** TURN *** [Th 9d 6h] [Jc]
+SodaDrops: checks 
+dorog702: bets 500
+SodaDrops: folds 
+Uncalled bet (500) returned to dorog702
+dorog702 collected 989 from pot
+dorog702: doesn't show hand 
+*** SUMMARY ***
+Total pot 989 | Rake 0 
+Board [Th 9d 6h Jc]
+Seat 1: RESIDENTOV (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+Seat 3: allie4m folded before Flop (didn't bet)
+Seat 4: SodaDrops folded on the Turn
+Seat 5: Jagz7 folded before Flop (didn't bet)
+Seat 6: dorog702 collected (989)
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254984723868: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 13:36:58 WET [2025/02/22 8:36:58 ET]
+Table '3860676521 68' 8-max Seat #1 is the button
+Seat 1: RESIDENTOV (4786 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4861 in chips, $5.10 bounty) 
+Seat 3: allie4m (5381 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (3676 in chips, $5.10 bounty) 
+Seat 5: Jagz7 (4794 in chips, $5.10 bounty) 
+Seat 6: dorog702 (5084 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4992 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6410 in chips, $5.10 bounty) 
+RESIDENTOV: posts the ante 8
+Kevin12345Mc: posts the ante 8
+allie4m: posts the ante 8
+SodaDrops: posts the ante 8
+Jagz7: posts the ante 8
+dorog702: posts the ante 8
+Omaha Craig: posts the ante 8
+hawkie92: posts the ante 8
+Kevin12345Mc: posts small blind 25
+allie4m: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 5s]
+SodaDrops: folds 
+Jagz7: folds 
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: folds 
+RESIDENTOV: raises 50 to 100
+Kevin12345Mc: folds 
+allie4m: folds 
+Uncalled bet (50) returned to RESIDENTOV
+RESIDENTOV collected 189 from pot
+RESIDENTOV: doesn't show hand 
+*** SUMMARY ***
+Total pot 189 | Rake 0 
+Seat 1: RESIDENTOV (button) collected (189)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: allie4m (big blind) folded before Flop
+Seat 4: SodaDrops folded before Flop (didn't bet)
+Seat 5: Jagz7 folded before Flop (didn't bet)
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254984725988: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 13:37:09 WET [2025/02/22 8:37:09 ET]
+Table '3860676521 68' 8-max Seat #2 is the button
+Seat 1: RESIDENTOV (4917 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4828 in chips, $5.10 bounty) 
+Seat 3: allie4m (5323 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (3668 in chips, $5.10 bounty) 
+Seat 5: Jagz7 (4786 in chips, $5.10 bounty) 
+Seat 6: dorog702 (5076 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4984 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6402 in chips, $5.10 bounty) 
+RESIDENTOV: posts the ante 8
+Kevin12345Mc: posts the ante 8
+allie4m: posts the ante 8
+SodaDrops: posts the ante 8
+Jagz7: posts the ante 8
+dorog702: posts the ante 8
+Omaha Craig: posts the ante 8
+hawkie92: posts the ante 8
+allie4m: posts small blind 25
+SodaDrops: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Qd]
+Jagz7: folds 
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: folds 
+RESIDENTOV: raises 50 to 100
+Kevin12345Mc: folds 
+allie4m: calls 75
+SodaDrops: calls 50
+*** FLOP *** [3d Th 3s]
+allie4m: checks 
+SodaDrops: bets 100
+RESIDENTOV: folds 
+allie4m: folds 
+Uncalled bet (100) returned to SodaDrops
+SodaDrops collected 364 from pot
+SodaDrops: doesn't show hand 
+*** SUMMARY ***
+Total pot 364 | Rake 0 
+Board [3d Th 3s]
+Seat 1: RESIDENTOV folded on the Flop
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: allie4m (small blind) folded on the Flop
+Seat 4: SodaDrops (big blind) collected (364)
+Seat 5: Jagz7 folded before Flop (didn't bet)
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254984732738: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 13:37:46 WET [2025/02/22 8:37:46 ET]
+Table '3860676521 68' 8-max Seat #3 is the button
+Seat 1: RESIDENTOV (4809 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4820 in chips, $5.10 bounty) 
+Seat 3: allie4m (5215 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (3924 in chips, $5.10 bounty) 
+Seat 6: dorog702 (5068 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4976 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6394 in chips, $5.10 bounty) 
+RESIDENTOV: posts the ante 8
+Kevin12345Mc: posts the ante 8
+allie4m: posts the ante 8
+SodaDrops: posts the ante 8
+dorog702: posts the ante 8
+Omaha Craig: posts the ante 8
+hawkie92: posts the ante 8
+SodaDrops: posts small blind 25
+dorog702: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s Ac]
+scottym22 is disconnected 
+Omaha Craig has timed out
+Omaha Craig: folds 
+Omaha Craig is sitting out
+hawkie92: folds 
+RESIDENTOV: folds 
+Kevin12345Mc: folds 
+allie4m: folds 
+SodaDrops: calls 25
+dorog702: raises 100 to 150
+SodaDrops: calls 100
+*** FLOP *** [Td Jh Tc]
+Omaha Craig has returned
+SodaDrops: checks 
+dorog702: bets 100
+SodaDrops: calls 100
+*** TURN *** [Td Jh Tc] [Kh]
+SodaDrops: bets 200
+dorog702: calls 200
+*** RIVER *** [Td Jh Tc Kh] [3c]
+SodaDrops: bets 750
+dorog702: folds 
+Uncalled bet (750) returned to SodaDrops
+SodaDrops collected 956 from pot
+SodaDrops: doesn't show hand 
+*** SUMMARY ***
+Total pot 956 | Rake 0 
+Board [Td Jh Tc Kh 3c]
+Seat 1: RESIDENTOV folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m (button) folded before Flop (didn't bet)
+Seat 4: SodaDrops (small blind) collected (956)
+Seat 6: dorog702 (big blind) folded on the River
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254984752725: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 13:39:35 WET [2025/02/22 8:39:35 ET]
+Table '3860676521 68' 8-max Seat #4 is the button
+Seat 1: RESIDENTOV (4801 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4812 in chips, $5.10 bounty) 
+Seat 3: allie4m (5207 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4422 in chips, $5.10 bounty) 
+Seat 5: scottym22 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 6: dorog702 (4610 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4968 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6386 in chips, $5.10 bounty) 
+scottym22 will be allowed to play after the button
+RESIDENTOV: posts the ante 9
+Kevin12345Mc: posts the ante 9
+allie4m: posts the ante 9
+SodaDrops: posts the ante 9
+dorog702: posts the ante 9
+Omaha Craig: posts the ante 9
+hawkie92: posts the ante 9
+dorog702: posts small blind 30
+Omaha Craig: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 6d]
+hawkie92: raises 60 to 120
+RESIDENTOV: folds 
+Kevin12345Mc: folds 
+allie4m: folds 
+SodaDrops: folds 
+dorog702: folds 
+Omaha Craig: folds 
+Uncalled bet (60) returned to hawkie92
+hawkie92 collected 213 from pot
+*** SUMMARY ***
+Total pot 213 | Rake 0 
+Seat 1: RESIDENTOV folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m folded before Flop (didn't bet)
+Seat 4: SodaDrops (button) folded before Flop (didn't bet)
+Seat 6: dorog702 (small blind) folded before Flop
+Seat 7: Omaha Craig (big blind) folded before Flop
+Seat 8: hawkie92 collected (213)
+
+
+
+PokerStars Hand #254984759050: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 13:40:10 WET [2025/02/22 8:40:10 ET]
+Table '3860676521 68' 8-max Seat #6 is the button
+Seat 1: RESIDENTOV (4792 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4803 in chips, $5.10 bounty) 
+Seat 3: allie4m (5198 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4413 in chips, $5.10 bounty) 
+Seat 5: scottym22 (5000 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4571 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4899 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6530 in chips, $5.10 bounty) 
+RESIDENTOV: posts the ante 9
+Kevin12345Mc: posts the ante 9
+allie4m: posts the ante 9
+SodaDrops: posts the ante 9
+scottym22: posts the ante 9
+dorog702: posts the ante 9
+Omaha Craig: posts the ante 9
+hawkie92: posts the ante 9
+Omaha Craig: posts small blind 30
+hawkie92: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 7h]
+RESIDENTOV: folds 
+Kevin12345Mc: folds 
+allie4m: folds 
+SodaDrops: raises 222 to 282
+scottym22: folds 
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: folds 
+Uncalled bet (222) returned to SodaDrops
+SodaDrops collected 222 from pot
+SodaDrops: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Seat 1: RESIDENTOV folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m folded before Flop (didn't bet)
+Seat 4: SodaDrops collected (222)
+Seat 5: scottym22 folded before Flop (didn't bet)
+Seat 6: dorog702 (button) folded before Flop (didn't bet)
+Seat 7: Omaha Craig (small blind) folded before Flop
+Seat 8: hawkie92 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254984766538: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 13:40:51 WET [2025/02/22 8:40:51 ET]
+Table '3860676521 68' 8-max Seat #7 is the button
+Seat 2: Kevin12345Mc (4794 in chips, $5.10 bounty) 
+Seat 3: allie4m (5189 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4566 in chips, $5.10 bounty) 
+Seat 5: scottym22 (4991 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4562 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4860 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6461 in chips, $5.10 bounty) 
+Kevin12345Mc: posts the ante 9
+allie4m: posts the ante 9
+SodaDrops: posts the ante 9
+scottym22: posts the ante 9
+dorog702: posts the ante 9
+Omaha Craig: posts the ante 9
+hawkie92: posts the ante 9
+hawkie92: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Ad]
+allie4m: folds 
+SodaDrops: raises 60 to 120
+scottym22: calls 120
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: folds 
+Kevin12345Mc: calls 60
+*** FLOP *** [5c Qs 4s]
+BRENO_DUARTE is disconnected 
+Kevin12345Mc: checks 
+SodaDrops: bets 120
+scottym22: folds 
+Kevin12345Mc: folds 
+Uncalled bet (120) returned to SodaDrops
+SodaDrops collected 453 from pot
+SodaDrops: doesn't show hand 
+*** SUMMARY ***
+Total pot 453 | Rake 0 
+Board [5c Qs 4s]
+Seat 2: Kevin12345Mc (big blind) folded on the Flop
+Seat 3: allie4m folded before Flop (didn't bet)
+Seat 4: SodaDrops collected (453)
+Seat 5: scottym22 folded on the Flop
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig (button) folded before Flop (didn't bet)
+Seat 8: hawkie92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254984773923: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 13:41:31 WET [2025/02/22 8:41:31 ET]
+Table '3860676521 68' 8-max Seat #8 is the button
+Seat 1: BRENO_DUARTE (5000 in chips) out of hand (moved from another table into small blind)
+Seat 2: Kevin12345Mc (4665 in chips, $5.10 bounty) 
+Seat 3: allie4m (5180 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4890 in chips, $5.10 bounty) 
+Seat 5: scottym22 (4862 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4553 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4851 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6422 in chips, $5.10 bounty) 
+BRENO_DUARTE will be allowed to play after the button
+Kevin12345Mc: posts the ante 9
+allie4m: posts the ante 9
+SodaDrops: posts the ante 9
+scottym22: posts the ante 9
+dorog702: posts the ante 9
+Omaha Craig: posts the ante 9
+hawkie92: posts the ante 9
+Kevin12345Mc: posts small blind 30
+allie4m: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Td]
+SodaDrops: folds 
+scottym22: folds 
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: raises 60 to 120
+Kevin12345Mc: calls 90
+allie4m: folds 
+*** FLOP *** [3d 3s 2c]
+Kevin12345Mc: checks 
+hawkie92: bets 182
+Kevin12345Mc: folds 
+Uncalled bet (182) returned to hawkie92
+hawkie92 collected 363 from pot
+*** SUMMARY ***
+Total pot 363 | Rake 0 
+Board [3d 3s 2c]
+Seat 2: Kevin12345Mc (small blind) folded on the Flop
+Seat 3: allie4m (big blind) folded before Flop
+Seat 4: SodaDrops folded before Flop (didn't bet)
+Seat 5: scottym22 folded before Flop (didn't bet)
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 (button) collected (363)
+
+
+
+PokerStars Hand #254984779325: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 13:42:01 WET [2025/02/22 8:42:01 ET]
+Table '3860676521 68' 8-max Seat #2 is the button
+Seat 1: BRENO_DUARTE (5000 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4536 in chips, $5.10 bounty) 
+Seat 3: allie4m (5111 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4881 in chips, $5.10 bounty) 
+Seat 5: scottym22 (4853 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4544 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4842 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6656 in chips, $5.10 bounty) 
+BRENO_DUARTE: posts the ante 9
+Kevin12345Mc: posts the ante 9
+allie4m: posts the ante 9
+SodaDrops: posts the ante 9
+scottym22: posts the ante 9
+dorog702: posts the ante 9
+Omaha Craig: posts the ante 9
+hawkie92: posts the ante 9
+allie4m: posts small blind 30
+SodaDrops: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Ts]
+scottym22: raises 60 to 120
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: folds 
+BRENO_DUARTE: calls 120
+Kevin12345Mc: folds 
+allie4m: folds 
+SodaDrops: folds 
+*** FLOP *** [As 3h Qh]
+scottym22: bets 180
+BRENO_DUARTE: calls 180
+*** TURN *** [As 3h Qh] [8h]
+scottym22: checks 
+BRENO_DUARTE: bets 366
+scottym22: folds 
+Uncalled bet (366) returned to BRENO_DUARTE
+BRENO_DUARTE collected 762 from pot
+BRENO_DUARTE: doesn't show hand 
+*** SUMMARY ***
+Total pot 762 | Rake 0 
+Board [As 3h Qh 8h]
+Seat 1: BRENO_DUARTE collected (762)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: allie4m (small blind) folded before Flop
+Seat 4: SodaDrops (big blind) folded before Flop
+Seat 5: scottym22 folded on the Turn
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254984791995: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 13:43:11 WET [2025/02/22 8:43:11 ET]
+Table '3860676521 68' 8-max Seat #3 is the button
+Seat 1: BRENO_DUARTE (5453 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4527 in chips, $5.10 bounty) 
+Seat 3: allie4m (5072 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4812 in chips, $5.10 bounty) 
+Seat 5: scottym22 (4544 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4535 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4833 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6647 in chips, $5.10 bounty) 
+BRENO_DUARTE: posts the ante 9
+Kevin12345Mc: posts the ante 9
+allie4m: posts the ante 9
+SodaDrops: posts the ante 9
+scottym22: posts the ante 9
+dorog702: posts the ante 9
+Omaha Craig: posts the ante 9
+hawkie92: posts the ante 9
+SodaDrops: posts small blind 30
+scottym22: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s Qs]
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: raises 60 to 120
+BRENO_DUARTE: folds 
+Kevin12345Mc: folds 
+allie4m: folds 
+SodaDrops: folds 
+scottym22: calls 60
+*** FLOP *** [Jh Kd 4d]
+scottym22: bets 60
+hawkie92: calls 60
+*** TURN *** [Jh Kd 4d] [Qc]
+scottym22: checks 
+hawkie92: bets 582
+scottym22: folds 
+Uncalled bet (582) returned to hawkie92
+hawkie92 collected 462 from pot
+*** SUMMARY ***
+Total pot 462 | Rake 0 
+Board [Jh Kd 4d Qc]
+Seat 1: BRENO_DUARTE folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m (button) folded before Flop (didn't bet)
+Seat 4: SodaDrops (small blind) folded before Flop
+Seat 5: scottym22 (big blind) folded on the Turn
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 collected (462)
+
+
+
+PokerStars Hand #254984802803: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 13:44:11 WET [2025/02/22 8:44:11 ET]
+Table '3860676521 68' 8-max Seat #4 is the button
+Seat 1: BRENO_DUARTE (5444 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4518 in chips, $5.10 bounty) 
+Seat 3: allie4m (5063 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4773 in chips, $5.10 bounty) 
+Seat 5: scottym22 (4355 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4526 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4824 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6920 in chips, $5.10 bounty) 
+BRENO_DUARTE: posts the ante 9
+Kevin12345Mc: posts the ante 9
+allie4m: posts the ante 9
+SodaDrops: posts the ante 9
+scottym22: posts the ante 9
+dorog702: posts the ante 9
+Omaha Craig: posts the ante 9
+hawkie92: posts the ante 9
+scottym22: posts small blind 30
+dorog702: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 5s]
+Omaha Craig: folds 
+hawkie92: folds 
+BRENO_DUARTE: folds 
+Kevin12345Mc: folds 
+allie4m: raises 90 to 150
+SodaDrops: folds 
+scottym22: folds 
+dorog702: calls 90
+*** FLOP *** [Jc 7d Qd]
+dorog702: checks 
+allie4m: bets 221
+dorog702: folds 
+Uncalled bet (221) returned to allie4m
+allie4m collected 402 from pot
+allie4m: doesn't show hand 
+*** SUMMARY ***
+Total pot 402 | Rake 0 
+Board [Jc 7d Qd]
+Seat 1: BRENO_DUARTE folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m collected (402)
+Seat 4: SodaDrops (button) folded before Flop (didn't bet)
+Seat 5: scottym22 (small blind) folded before Flop
+Seat 6: dorog702 (big blind) folded on the Flop
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254984813760: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 13:45:11 WET [2025/02/22 8:45:11 ET]
+Table '3860676521 68' 8-max Seat #5 is the button
+Seat 1: BRENO_DUARTE (5435 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4509 in chips, $5.10 bounty) 
+Seat 3: allie4m (5306 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4764 in chips, $5.10 bounty) 
+Seat 5: scottym22 (4316 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4367 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4815 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6911 in chips, $5.10 bounty) 
+BRENO_DUARTE: posts the ante 9
+Kevin12345Mc: posts the ante 9
+allie4m: posts the ante 9
+SodaDrops: posts the ante 9
+scottym22: posts the ante 9
+dorog702: posts the ante 9
+Omaha Craig: posts the ante 9
+hawkie92: posts the ante 9
+dorog702: posts small blind 30
+Omaha Craig: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 8d]
+hawkie92: raises 60 to 120
+BRENO_DUARTE: folds 
+Kevin12345Mc: calls 120
+allie4m: folds 
+SodaDrops: calls 120
+scottym22: folds 
+dorog702: folds 
+Omaha Craig: calls 60
+*** FLOP *** [9d 9c 2s]
+Omaha Craig: checks 
+hawkie92: checks 
+Kevin12345Mc: checks 
+SodaDrops: checks 
+*** TURN *** [9d 9c 2s] [Qh]
+Omaha Craig: checks 
+hawkie92: bets 351
+Kevin12345Mc: folds 
+SodaDrops: calls 351
+Omaha Craig: folds 
+*** RIVER *** [9d 9c 2s Qh] [4c]
+hawkie92: checks 
+SodaDrops: bets 300
+hawkie92: folds 
+Uncalled bet (300) returned to SodaDrops
+SodaDrops collected 1284 from pot
+SodaDrops: doesn't show hand 
+*** SUMMARY ***
+Total pot 1284 | Rake 0 
+Board [9d 9c 2s Qh 4c]
+Seat 1: BRENO_DUARTE folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded on the Turn
+Seat 3: allie4m folded before Flop (didn't bet)
+Seat 4: SodaDrops collected (1284)
+Seat 5: scottym22 (button) folded before Flop (didn't bet)
+Seat 6: dorog702 (small blind) folded before Flop
+Seat 7: Omaha Craig (big blind) folded on the Turn
+Seat 8: hawkie92 folded on the River
+
+
+
+PokerStars Hand #254984829719: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 13:46:38 WET [2025/02/22 8:46:38 ET]
+Table '3860676521 68' 8-max Seat #6 is the button
+Seat 1: BRENO_DUARTE (5426 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4380 in chips, $5.10 bounty) 
+Seat 3: allie4m (5297 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (5568 in chips, $5.10 bounty) 
+Seat 5: scottym22 (4307 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4328 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4686 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6431 in chips, $5.10 bounty) 
+BRENO_DUARTE: posts the ante 11
+Kevin12345Mc: posts the ante 11
+allie4m: posts the ante 11
+SodaDrops: posts the ante 11
+scottym22: posts the ante 11
+dorog702: posts the ante 11
+Omaha Craig: posts the ante 11
+hawkie92: posts the ante 11
+Omaha Craig: posts small blind 35
+hawkie92: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 4s]
+BRENO_DUARTE: folds 
+Kevin12345Mc: folds 
+allie4m: folds 
+SodaDrops: raises 70 to 140
+scottym22: calls 140
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: calls 70
+*** FLOP *** [7c Kc 5h]
+hawkie92: checks 
+SodaDrops: bets 140
+scottym22: calls 140
+hawkie92: folds 
+*** TURN *** [7c Kc 5h] [Ks]
+SodaDrops: bets 350
+scottym22: calls 350
+*** RIVER *** [7c Kc 5h Ks] [2s]
+SodaDrops: checks 
+scottym22: bets 762
+hawkie92 is disconnected 
+SodaDrops: calls 762
+*** SHOW DOWN ***
+scottym22: shows [Kh 9s] (three of a kind, Kings)
+SodaDrops: mucks hand 
+scottym22 collected 3047 from pot
+*** SUMMARY ***
+Total pot 3047 | Rake 0 
+Board [7c Kc 5h Ks 2s]
+Seat 1: BRENO_DUARTE folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m folded before Flop (didn't bet)
+Seat 4: SodaDrops mucked [8c 8s]
+Seat 5: scottym22 showed [Kh 9s] and won (3047) with three of a kind, Kings
+Seat 6: dorog702 (button) folded before Flop (didn't bet)
+Seat 7: Omaha Craig (small blind) folded before Flop
+Seat 8: hawkie92 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254984842659: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 13:47:49 WET [2025/02/22 8:47:49 ET]
+Table '3860676521 68' 8-max Seat #7 is the button
+Seat 1: BRENO_DUARTE (5415 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4369 in chips, $5.10 bounty) 
+Seat 3: allie4m (5286 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4165 in chips, $5.10 bounty) 
+Seat 5: scottym22 (5951 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4317 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4640 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6280 in chips, $5.10 bounty) 
+BRENO_DUARTE: posts the ante 11
+Kevin12345Mc: posts the ante 11
+allie4m: posts the ante 11
+SodaDrops: posts the ante 11
+scottym22: posts the ante 11
+dorog702: posts the ante 11
+Omaha Craig: posts the ante 11
+hawkie92: posts the ante 11
+hawkie92: posts small blind 35
+BRENO_DUARTE: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 7d]
+Kevin12345Mc: folds 
+allie4m: folds 
+SodaDrops: folds 
+scottym22: calls 70
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: raises 298 to 368
+BRENO_DUARTE: folds 
+scottym22: folds 
+Uncalled bet (298) returned to hawkie92
+hawkie92 collected 298 from pot
+hawkie92: doesn't show hand 
+*** SUMMARY ***
+Total pot 298 | Rake 0 
+Seat 1: BRENO_DUARTE (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m folded before Flop (didn't bet)
+Seat 4: SodaDrops folded before Flop (didn't bet)
+Seat 5: scottym22 folded before Flop
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig (button) folded before Flop (didn't bet)
+Seat 8: hawkie92 (small blind) collected (298)
+
+
+
+PokerStars Hand #254984848303: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 13:48:20 WET [2025/02/22 8:48:20 ET]
+Table '3860676521 68' 8-max Seat #8 is the button
+Seat 1: BRENO_DUARTE (5334 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4358 in chips, $5.10 bounty) 
+Seat 3: allie4m (5275 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4154 in chips, $5.10 bounty) 
+Seat 5: scottym22 (5870 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4306 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4629 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6497 in chips, $5.10 bounty) 
+BRENO_DUARTE: posts the ante 11
+Kevin12345Mc: posts the ante 11
+allie4m: posts the ante 11
+SodaDrops: posts the ante 11
+scottym22: posts the ante 11
+dorog702: posts the ante 11
+Omaha Craig: posts the ante 11
+hawkie92: posts the ante 11
+BRENO_DUARTE: posts small blind 35
+Kevin12345Mc: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 6d]
+allie4m: folds 
+SodaDrops: raises 70 to 140
+scottym22: folds 
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: calls 140
+BRENO_DUARTE: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [6c 8c Tc]
+SodaDrops: bets 140
+hawkie92: calls 140
+*** TURN *** [6c 8c Tc] [8h]
+SodaDrops: bets 280
+hawkie92: folds 
+Uncalled bet (280) returned to SodaDrops
+SodaDrops collected 753 from pot
+SodaDrops: doesn't show hand 
+*** SUMMARY ***
+Total pot 753 | Rake 0 
+Board [6c 8c Tc 8h]
+Seat 1: BRENO_DUARTE (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+Seat 3: allie4m folded before Flop (didn't bet)
+Seat 4: SodaDrops collected (753)
+Seat 5: scottym22 folded before Flop (didn't bet)
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 (button) folded on the Turn
+
+
+
+PokerStars Hand #254984856489: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 13:49:05 WET [2025/02/22 8:49:05 ET]
+Table '3860676521 68' 8-max Seat #1 is the button
+Seat 1: BRENO_DUARTE (5288 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4277 in chips, $5.10 bounty) 
+Seat 3: allie4m (5264 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4616 in chips, $5.10 bounty) 
+Seat 5: scottym22 (5859 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4295 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4618 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6206 in chips, $5.10 bounty) 
+BRENO_DUARTE: posts the ante 11
+Kevin12345Mc: posts the ante 11
+allie4m: posts the ante 11
+SodaDrops: posts the ante 11
+scottym22: posts the ante 11
+dorog702: posts the ante 11
+Omaha Craig: posts the ante 11
+hawkie92: posts the ante 11
+Kevin12345Mc: posts small blind 35
+allie4m: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 5s]
+SodaDrops: folds 
+scottym22: folds 
+dorog702: folds 
+Omaha Craig: raises 70 to 140
+hawkie92: folds 
+BRENO_DUARTE: folds 
+Kevin12345Mc: folds 
+allie4m: calls 70
+*** FLOP *** [6h 9d 9c]
+allie4m: checks 
+Omaha Craig: bets 202
+allie4m: folds 
+Uncalled bet (202) returned to Omaha Craig
+Omaha Craig collected 403 from pot
+Omaha Craig: doesn't show hand 
+*** SUMMARY ***
+Total pot 403 | Rake 0 
+Board [6h 9d 9c]
+Seat 1: BRENO_DUARTE (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: allie4m (big blind) folded on the Flop
+Seat 4: SodaDrops folded before Flop (didn't bet)
+Seat 5: scottym22 folded before Flop (didn't bet)
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig collected (403)
+Seat 8: hawkie92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254984861175: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 13:49:31 WET [2025/02/22 8:49:31 ET]
+Table '3860676521 68' 8-max Seat #2 is the button
+Seat 1: BRENO_DUARTE (5277 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4231 in chips, $5.10 bounty) 
+Seat 3: allie4m (5113 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4605 in chips, $5.10 bounty) 
+Seat 5: scottym22 (5848 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4284 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4870 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6195 in chips, $5.10 bounty) 
+BRENO_DUARTE: posts the ante 11
+Kevin12345Mc: posts the ante 11
+allie4m: posts the ante 11
+SodaDrops: posts the ante 11
+scottym22: posts the ante 11
+dorog702: posts the ante 11
+Omaha Craig: posts the ante 11
+hawkie92: posts the ante 11
+allie4m: posts small blind 35
+SodaDrops: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 8d]
+scottym22: folds 
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: raises 70 to 140
+BRENO_DUARTE: folds 
+Kevin12345Mc: folds 
+allie4m: folds 
+SodaDrops: folds 
+Uncalled bet (70) returned to hawkie92
+hawkie92 collected 263 from pot
+hawkie92: doesn't show hand 
+*** SUMMARY ***
+Total pot 263 | Rake 0 
+Seat 1: BRENO_DUARTE folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: allie4m (small blind) folded before Flop
+Seat 4: SodaDrops (big blind) folded before Flop
+Seat 5: scottym22 folded before Flop (didn't bet)
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 collected (263)
+
+
+
+PokerStars Hand #254984865966: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 13:49:58 WET [2025/02/22 8:49:58 ET]
+Table '3860676521 68' 8-max Seat #3 is the button
+Seat 2: Kevin12345Mc (4220 in chips, $5.10 bounty) 
+Seat 3: allie4m (5067 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4524 in chips, $5.10 bounty) 
+Seat 5: scottym22 (5837 in chips, $5.10 bounty) 
+Seat 6: dorog702 (4273 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4859 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6377 in chips, $5.10 bounty) 
+Kevin12345Mc: posts the ante 11
+allie4m: posts the ante 11
+SodaDrops: posts the ante 11
+scottym22: posts the ante 11
+dorog702: posts the ante 11
+Omaha Craig: posts the ante 11
+hawkie92: posts the ante 11
+SodaDrops: posts small blind 35
+scottym22: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 9c]
+dorog702: folds 
+Omaha Craig: raises 70 to 140
+hawkie92: calls 140
+Kevin12345Mc: folds 
+allie4m: calls 140
+SodaDrops: folds 
+scottym22: calls 70
+*** FLOP *** [6h 8c 7d]
+scottym22: checks 
+Omaha Craig: bets 280
+hawkie92: calls 280
+vadoc42 is disconnected 
+allie4m: raises 745 to 1025
+scottym22: raises 4661 to 5686 and is all-in
+Omaha Craig: folds 
+hawkie92: folds 
+allie4m: calls 3891 and is all-in
+Uncalled bet (770) returned to scottym22
+*** TURN *** [6h 8c 7d] [Jh]
+*** RIVER *** [6h 8c 7d Jh] [9s]
+*** SHOW DOWN ***
+scottym22: shows [4s 5d] (a straight, Five to Nine)
+allie4m: shows [9d 9h] (three of a kind, Nines)
+scottym22 collected 11064 from pot
+scottym22 wins $2.55 for eliminating allie4m and their own bounty increases by $2.55 to $7.65
+allie4m finished the tournament
+*** SUMMARY ***
+Total pot 11064 | Rake 0 
+Board [6h 8c 7d Jh 9s]
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: allie4m (button) showed [9d 9h] and lost with three of a kind, Nines
+Seat 4: SodaDrops (small blind) folded before Flop
+Seat 5: scottym22 (big blind) showed [4s 5d] and won (11064) with a straight, Five to Nine
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig folded on the Flop
+Seat 8: hawkie92 folded on the Flop
+
+
+
+PokerStars Hand #254984877450: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 13:51:01 WET [2025/02/22 8:51:01 ET]
+Table '3860676521 68' 8-max Seat #4 is the button
+Seat 1: vadoc42 (5000 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4209 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4478 in chips, $5.10 bounty) 
+Seat 5: scottym22 (11834 in chips, $7.65 bounty) 
+Seat 6: dorog702 (4262 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4428 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (5946 in chips, $5.10 bounty) 
+vadoc42: posts the ante 11
+Kevin12345Mc: posts the ante 11
+SodaDrops: posts the ante 11
+scottym22: posts the ante 11
+dorog702: posts the ante 11
+Omaha Craig: posts the ante 11
+hawkie92: posts the ante 11
+scottym22: posts small blind 35
+dorog702: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 6s]
+Omaha Craig: folds 
+hawkie92: raises 70 to 140
+vadoc42: folds 
+Kevin12345Mc: folds 
+SodaDrops: folds 
+scottym22: calls 105
+spinaround777 is disconnected 
+dorog702: folds 
+*** FLOP *** [5h 2h Ad]
+scottym22: checks 
+hawkie92: bets 214
+scottym22: folds 
+Uncalled bet (214) returned to hawkie92
+hawkie92 collected 427 from pot
+hawkie92: doesn't show hand 
+*** SUMMARY ***
+Total pot 427 | Rake 0 
+Board [5h 2h Ad]
+Seat 1: vadoc42 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: SodaDrops (button) folded before Flop (didn't bet)
+Seat 5: scottym22 (small blind) folded on the Flop
+Seat 6: dorog702 (big blind) folded before Flop
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 collected (427)
+
+
+
+PokerStars Hand #254984884344: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 13:51:39 WET [2025/02/22 8:51:39 ET]
+Table '3860676521 68' 8-max Seat #5 is the button
+Seat 1: vadoc42 (4989 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4198 in chips, $5.10 bounty) 
+Seat 3: spinaround777 (5000 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4467 in chips, $5.10 bounty) 
+Seat 5: scottym22 (11683 in chips, $7.65 bounty) 
+Seat 6: dorog702 (4181 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4417 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (6222 in chips, $5.10 bounty) 
+vadoc42: posts the ante 11
+Kevin12345Mc: posts the ante 11
+spinaround777: posts the ante 11
+SodaDrops: posts the ante 11
+scottym22: posts the ante 11
+dorog702: posts the ante 11
+Omaha Craig: posts the ante 11
+hawkie92: posts the ante 11
+dorog702: posts small blind 35
+Omaha Craig: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 5c]
+hawkie92: raises 70 to 140
+vadoc42: calls 140
+Kevin12345Mc: folds 
+spinaround777: folds 
+SodaDrops: folds 
+scottym22: calls 140
+dorog702: calls 105
+Omaha Craig: folds 
+*** FLOP *** [4d Qc 9h]
+dorog702: checks 
+hawkie92: checks 
+vadoc42: checks 
+scottym22: checks 
+*** TURN *** [4d Qc 9h] [4c]
+dorog702: checks 
+hawkie92: bets 359
+vadoc42: calls 359
+scottym22: folds 
+dorog702: calls 359
+*** RIVER *** [4d Qc 9h 4c] [Kh]
+dorog702: checks 
+hawkie92: bets 1260
+vadoc42: folds 
+dorog702: folds 
+Uncalled bet (1260) returned to hawkie92
+hawkie92 collected 1795 from pot
+hawkie92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1795 | Rake 0 
+Board [4d Qc 9h 4c Kh]
+Seat 1: vadoc42 folded on the River
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: spinaround777 folded before Flop (didn't bet)
+Seat 4: SodaDrops folded before Flop (didn't bet)
+Seat 5: scottym22 (button) folded on the Turn
+Seat 6: dorog702 (small blind) folded on the River
+Seat 7: Omaha Craig (big blind) folded before Flop
+Seat 8: hawkie92 collected (1795)
+
+
+
+PokerStars Hand #254984900507: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 13:53:08 WET [2025/02/22 8:53:08 ET]
+Table '3860676521 68' 8-max Seat #6 is the button
+Seat 1: vadoc42 (4479 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (4187 in chips, $5.10 bounty) 
+Seat 3: spinaround777 (4989 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4456 in chips, $5.10 bounty) 
+Seat 5: scottym22 (11532 in chips, $7.65 bounty) 
+Seat 6: dorog702 (3671 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4336 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (7507 in chips, $5.10 bounty) 
+vadoc42: posts the ante 11
+Kevin12345Mc: posts the ante 11
+spinaround777: posts the ante 11
+SodaDrops: posts the ante 11
+scottym22: posts the ante 11
+dorog702: posts the ante 11
+Omaha Craig: posts the ante 11
+hawkie92: posts the ante 11
+Omaha Craig: posts small blind 35
+hawkie92: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc Js]
+vadoc42: folds 
+Kevin12345Mc: raises 91 to 161
+spinaround777: calls 161
+SodaDrops: folds 
+scottym22: calls 161
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: calls 91
+*** FLOP *** [5c 8s Kc]
+hawkie92: checks 
+Kevin12345Mc: bets 253
+spinaround777: folds 
+scottym22: calls 253
+hawkie92: folds 
+*** TURN *** [5c 8s Kc] [9d]
+Kevin12345Mc: checks 
+scottym22: bets 280
+Kevin12345Mc: calls 280
+*** RIVER *** [5c 8s Kc 9d] [9s]
+Kevin12345Mc: checks 
+scottym22: bets 10827 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (10827) returned to scottym22
+scottym22 collected 1833 from pot
+scottym22: doesn't show hand 
+*** SUMMARY ***
+Total pot 1833 | Rake 0 
+Board [5c 8s Kc 9d 9s]
+Seat 1: vadoc42 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded on the River
+Seat 3: spinaround777 folded on the Flop
+Seat 4: SodaDrops folded before Flop (didn't bet)
+Seat 5: scottym22 collected (1833)
+Seat 6: dorog702 (button) folded before Flop (didn't bet)
+Seat 7: Omaha Craig (small blind) folded before Flop
+Seat 8: hawkie92 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254984916379: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 13:54:37 WET [2025/02/22 8:54:37 ET]
+Table '3860676521 68' 8-max Seat #7 is the button
+Seat 1: vadoc42 (4468 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (3482 in chips, $5.10 bounty) 
+Seat 3: spinaround777 (4817 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4445 in chips, $5.10 bounty) 
+Seat 5: scottym22 (12660 in chips, $7.65 bounty) 
+Seat 6: dorog702 (3660 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4290 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (7335 in chips, $5.10 bounty) 
+vadoc42: posts the ante 12
+Kevin12345Mc: posts the ante 12
+spinaround777: posts the ante 12
+SodaDrops: posts the ante 12
+scottym22: posts the ante 12
+dorog702: posts the ante 12
+Omaha Craig: posts the ante 12
+hawkie92: posts the ante 12
+hawkie92: posts small blind 40
+vadoc42: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Ad]
+Kevin12345Mc: raises 104 to 184
+spinaround777: raises 376 to 560
+SodaDrops: folds 
+scottym22: folds 
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: folds 
+vadoc42: folds 
+Kevin12345Mc: calls 376
+*** FLOP *** [Jd 3d 4c]
+Kevin12345Mc: checks 
+spinaround777: bets 427
+Kevin12345Mc: calls 427
+*** TURN *** [Jd 3d 4c] [7s]
+Kevin12345Mc: checks 
+spinaround777: bets 3818 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (3818) returned to spinaround777
+spinaround777 collected 2190 from pot
+spinaround777: doesn't show hand 
+*** SUMMARY ***
+Total pot 2190 | Rake 0 
+Board [Jd 3d 4c 7s]
+Seat 1: vadoc42 (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded on the Turn
+Seat 3: spinaround777 collected (2190)
+Seat 4: SodaDrops folded before Flop (didn't bet)
+Seat 5: scottym22 folded before Flop (didn't bet)
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig (button) folded before Flop (didn't bet)
+Seat 8: hawkie92 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254984986422: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 14:02:32 WET [2025/02/22 9:02:32 ET]
+Table '3860676521 68' 8-max Seat #8 is the button
+Seat 2: Kevin12345Mc (2483 in chips, $5.10 bounty) 
+Seat 3: spinaround777 (6008 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4433 in chips, $5.10 bounty) 
+Seat 5: scottym22 (12648 in chips, $7.65 bounty) 
+Seat 6: dorog702 (3648 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4278 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (7283 in chips, $5.10 bounty) 
+Kevin12345Mc: posts the ante 12
+spinaround777: posts the ante 12
+SodaDrops: posts the ante 12
+scottym22: posts the ante 12
+dorog702: posts the ante 12
+Omaha Craig: posts the ante 12
+hawkie92: posts the ante 12
+Kevin12345Mc: posts small blind 40
+spinaround777: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 2d]
+SodaDrops: raises 80 to 160
+scottym22 has timed out while disconnected
+scottym22: folds 
+scottym22 is sitting out
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92: folds 
+Kevin12345Mc: folds 
+final09 is disconnected 
+spinaround777: calls 80
+*** FLOP *** [9h 7d 9c]
+spinaround777: checks 
+SodaDrops: checks 
+*** TURN *** [9h 7d 9c] [6h]
+scottym22 has returned
+spinaround777: bets 311
+SodaDrops: folds 
+Uncalled bet (311) returned to spinaround777
+spinaround777 collected 444 from pot
+spinaround777: doesn't show hand 
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Board [9h 7d 9c 6h]
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: spinaround777 (big blind) collected (444)
+Seat 4: SodaDrops folded on the Turn
+Seat 5: scottym22 folded before Flop (didn't bet)
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254984996923: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 14:03:30 WET [2025/02/22 9:03:30 ET]
+Table '3860676521 68' 8-max Seat #2 is the button
+Seat 1: final09 (5000 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (2431 in chips, $5.10 bounty) 
+Seat 3: spinaround777 (6280 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4261 in chips, $5.10 bounty) 
+Seat 5: scottym22 (12636 in chips, $7.65 bounty) 
+Seat 6: dorog702 (3636 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4266 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (7271 in chips, $5.10 bounty) 
+final09: posts the ante 12
+Kevin12345Mc: posts the ante 12
+spinaround777: posts the ante 12
+SodaDrops: posts the ante 12
+scottym22: posts the ante 12
+dorog702: posts the ante 12
+Omaha Craig: posts the ante 12
+hawkie92: posts the ante 12
+spinaround777: posts small blind 40
+SodaDrops: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs As]
+scottym22: folds 
+dorog702: folds 
+Omaha Craig: folds 
+hawkie92 is disconnected 
+hawkie92 is connected 
+hawkie92 is connected 
+hawkie92: folds 
+final09: folds 
+Kevin12345Mc: raises 88 to 168
+spinaround777: folds 
+SodaDrops: calls 88
+*** FLOP *** [5h 6h Kc]
+SodaDrops: checks 
+Kevin12345Mc: bets 156
+SodaDrops: calls 156
+*** TURN *** [5h 6h Kc] [6s]
+SodaDrops: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [5h 6h Kc 6s] [9d]
+SodaDrops: bets 160
+Kevin12345Mc: folds 
+Uncalled bet (160) returned to SodaDrops
+SodaDrops collected 784 from pot
+SodaDrops: doesn't show hand 
+*** SUMMARY ***
+Total pot 784 | Rake 0 
+Board [5h 6h Kc 6s 9d]
+Seat 1: final09 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded on the River
+Seat 3: spinaround777 (small blind) folded before Flop
+Seat 4: SodaDrops (big blind) collected (784)
+Seat 5: scottym22 folded before Flop (didn't bet)
+Seat 6: dorog702 folded before Flop (didn't bet)
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985011243: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 14:04:49 WET [2025/02/22 9:04:49 ET]
+Table '3860676521 68' 8-max Seat #3 is the button
+Seat 1: final09 (4988 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (2095 in chips, $5.10 bounty) 
+Seat 3: spinaround777 (6228 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4709 in chips, $5.10 bounty) 
+Seat 6: dorog702 (3624 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4254 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (7259 in chips, $5.10 bounty) 
+final09: posts the ante 12
+Kevin12345Mc: posts the ante 12
+spinaround777: posts the ante 12
+SodaDrops: posts the ante 12
+dorog702: posts the ante 12
+Omaha Craig: posts the ante 12
+hawkie92: posts the ante 12
+SodaDrops: posts small blind 40
+dorog702: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 7d]
+Omaha Craig: folds 
+hawkie92: raises 80 to 160
+final09: calls 160
+Kevin12345Mc: folds 
+spinaround777: folds 
+SodaDrops: folds 
+luiseven7 is disconnected 
+dorog702: folds 
+*** FLOP *** [9c 6h 7c]
+hawkie92: checks 
+final09: bets 240
+hawkie92: raises 1004 to 1244
+final09: calls 1004
+*** TURN *** [9c 6h 7c] [2c]
+hawkie92: bets 1506
+final09: folds 
+Uncalled bet (1506) returned to hawkie92
+hawkie92 collected 3012 from pot
+hawkie92: doesn't show hand 
+*** SUMMARY ***
+Total pot 3012 | Rake 0 
+Board [9c 6h 7c 2c]
+Seat 1: final09 folded on the Turn
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: spinaround777 (button) folded before Flop (didn't bet)
+Seat 4: SodaDrops (small blind) folded before Flop
+Seat 6: dorog702 (big blind) folded before Flop
+Seat 7: Omaha Craig folded before Flop (didn't bet)
+Seat 8: hawkie92 collected (3012)
+
+
+
+PokerStars Hand #254985024792: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 14:06:02 WET [2025/02/22 9:06:02 ET]
+Table '3860676521 68' 8-max Seat #4 is the button
+Seat 1: final09 (3572 in chips, $5.10 bounty) 
+Seat 2: Kevin12345Mc (2083 in chips, $5.10 bounty) 
+Seat 3: spinaround777 (6216 in chips, $5.10 bounty) 
+Seat 4: SodaDrops (4657 in chips, $5.10 bounty) 
+Seat 5: luiseven7 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 6: dorog702 (3532 in chips, $5.10 bounty) 
+Seat 7: Omaha Craig (4242 in chips, $5.10 bounty) 
+Seat 8: hawkie92 (8855 in chips, $5.10 bounty) 
+luiseven7 will be allowed to play after the button
+final09: posts the ante 12
+Kevin12345Mc: posts the ante 12
+spinaround777: posts the ante 12
+SodaDrops: posts the ante 12
+dorog702: posts the ante 12
+Omaha Craig: posts the ante 12
+hawkie92: posts the ante 12
+dorog702: posts small blind 40
+Omaha Craig: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 4s]
+hawkie92: raises 80 to 160
+final09: folds 
+Kevin12345Mc: raises 1911 to 2071 and is all-in
+spinaround777: folds 
+SodaDrops: folds 
+dorog702: raises 1449 to 3520 and is all-in
+Omaha Craig: folds 
+hawkie92: calls 3360
+*** FLOP *** [8s Kh 6h]
+*** TURN *** [8s Kh 6h] [3s]
+*** RIVER *** [8s Kh 6h 3s] [2d]
+*** SHOW DOWN ***
+dorog702: shows [Th Td] (a pair of Tens)
+hawkie92: shows [Kd Qs] (a pair of Kings)
+hawkie92 collected 2898 from side pot
+Kevin12345Mc: shows [4d 4s] (a pair of Fours)
+hawkie92 collected 6377 from main pot
+hawkie92 wins $2.55 for eliminating Kevin12345Mc and their own bounty increases by $2.55 to $7.65
+hawkie92 wins $2.55 for eliminating dorog702 and their own bounty increases by $2.55 to $10.20
+dorog702 finished the tournament
+Kevin12345Mc finished the tournament
+betelio2837 is disconnected 
+*** SUMMARY ***
+Total pot 9275 Main pot 6377. Side pot 2898. | Rake 0 
+Board [8s Kh 6h 3s 2d]
+Seat 1: final09 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc showed [4d 4s] and lost with a pair of Fours
+Seat 3: spinaround777 folded before Flop (didn't bet)
+Seat 4: SodaDrops (button) folded before Flop (didn't bet)
+Seat 6: dorog702 (small blind) showed [Th Td] and lost with a pair of Tens
+Seat 7: Omaha Craig (big blind) folded before Flop
+Seat 8: hawkie92 showed [Kd Qs] and won (9275) with a pair of Kings
+
+
+
+PokerStars Hand #254985041254: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 14:07:30 WET [2025/02/22 9:07:30 ET]
+Table '3860676521 22' 8-max Seat #7 is the button
+Seat 1: thro06 (14492 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (13421 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (5000 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14237 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (3060 in chips, $5.10 bounty) is sitting out
+Seat 6: edinho918 (14048 in chips, $10.20 bounty) 
+Seat 7: Billpokid70 (4826 in chips, $5.10 bounty) 
+Seat 8: zipatajs (3423 in chips, $5.10 bounty) 
+thro06: posts the ante 12
+TonyParkes: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Mr.Poker*Ak47: posts the ante 12
+flavius2810: posts the ante 12
+edinho918: posts the ante 12
+Billpokid70: posts the ante 12
+zipatajs: posts the ante 12
+zipatajs: posts small blind 40
+thro06: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 7c]
+TonyParkes: calls 80
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: calls 80
+Billpokid70: folds 
+zipatajs: calls 40
+thro06: checks 
+*** FLOP *** [5c Qd Js]
+zipatajs: checks 
+thro06: checks 
+TonyParkes: checks 
+edinho918: bets 208
+zipatajs: folds 
+thro06: folds 
+flavius2810 is disconnected 
+TonyParkes: folds 
+Uncalled bet (208) returned to edinho918
+edinho918 collected 416 from pot
+edinho918: doesn't show hand 
+*** SUMMARY ***
+Total pot 416 | Rake 0 
+Board [5c Qd Js]
+Seat 1: thro06 (big blind) folded on the Flop
+Seat 2: TonyParkes folded on the Flop
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 collected (416)
+Seat 7: Billpokid70 (button) folded before Flop (didn't bet)
+Seat 8: zipatajs (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254985048156: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 14:08:08 WET [2025/02/22 9:08:08 ET]
+Table '3860676521 22' 8-max Seat #8 is the button
+Seat 1: thro06 (14400 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (13329 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4988 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14225 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (3048 in chips, $5.10 bounty) is sitting out
+Seat 6: edinho918 (14372 in chips, $10.20 bounty) 
+Seat 7: Billpokid70 (4814 in chips, $5.10 bounty) 
+Seat 8: zipatajs (3331 in chips, $5.10 bounty) 
+thro06: posts the ante 12
+TonyParkes: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Mr.Poker*Ak47: posts the ante 12
+flavius2810: posts the ante 12
+edinho918: posts the ante 12
+Billpokid70: posts the ante 12
+zipatajs: posts the ante 12
+thro06: posts small blind 40
+TonyParkes: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac Ad]
+Kevin12345Mc: raises 104 to 184
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: folds 
+Billpokid70: folds 
+zipatajs: folds 
+thro06: folds 
+TonyParkes: calls 104
+*** FLOP *** [8c 5h 7s]
+TonyParkes: checks 
+Kevin12345Mc: bets 166
+TonyParkes: calls 166
+*** TURN *** [8c 5h 7s] [Jd]
+TonyParkes: checks 
+Kevin12345Mc: bets 632
+TonyParkes: folds 
+Uncalled bet (632) returned to Kevin12345Mc
+Kevin12345Mc collected 836 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 836 | Rake 0 
+Board [8c 5h 7s Jd]
+Seat 1: thro06 (small blind) folded before Flop
+Seat 2: TonyParkes (big blind) folded on the Turn
+Seat 3: Kevin12345Mc collected (836)
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 folded before Flop (didn't bet)
+Seat 7: Billpokid70 folded before Flop (didn't bet)
+Seat 8: zipatajs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985060169: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 14:09:13 WET [2025/02/22 9:09:13 ET]
+Table '3860676521 22' 8-max Seat #1 is the button
+Seat 1: thro06 (14348 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12967 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (5462 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14213 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (3036 in chips, $5.10 bounty) is sitting out
+Seat 6: edinho918 (14360 in chips, $10.20 bounty) 
+Seat 7: Billpokid70 (4802 in chips, $5.10 bounty) 
+Seat 8: zipatajs (3319 in chips, $5.10 bounty) 
+thro06: posts the ante 12
+TonyParkes: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Mr.Poker*Ak47: posts the ante 12
+flavius2810: posts the ante 12
+edinho918: posts the ante 12
+Billpokid70: posts the ante 12
+zipatajs: posts the ante 12
+TonyParkes: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 5s]
+Mr.Poker*Ak47: raises 96 to 176
+flavius2810: folds 
+edinho918: folds 
+Billpokid70: folds 
+zipatajs: folds 
+thro06: calls 176
+TonyParkes: calls 136
+Kevin12345Mc: folds 
+*** FLOP *** [2d 8c 7c]
+TonyParkes: checks 
+Mr.Poker*Ak47: checks 
+thro06: checks 
+*** TURN *** [2d 8c 7c] [Td]
+TonyParkes: checks 
+Mr.Poker*Ak47: bets 232
+thro06: folds 
+TonyParkes: calls 232
+*** RIVER *** [2d 8c 7c Td] [4s]
+TonyParkes: checks 
+Mr.Poker*Ak47: checks 
+*** SHOW DOWN ***
+TonyParkes: shows [9d Ac] (high card Ace)
+Mr.Poker*Ak47: shows [Ah Th] (a pair of Tens)
+Mr.Poker*Ak47 collected 1168 from pot
+*** SUMMARY ***
+Total pot 1168 | Rake 0 
+Board [2d 8c 7c Td 4s]
+Seat 1: thro06 (button) folded on the Turn
+Seat 2: TonyParkes (small blind) showed [9d Ac] and lost with high card Ace
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: Mr.Poker*Ak47 showed [Ah Th] and won (1168) with a pair of Tens
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 folded before Flop (didn't bet)
+Seat 7: Billpokid70 folded before Flop (didn't bet)
+Seat 8: zipatajs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985073605: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 14:10:26 WET [2025/02/22 9:10:26 ET]
+Table '3860676521 22' 8-max Seat #2 is the button
+Seat 1: thro06 (14160 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12547 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (5370 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14961 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (3024 in chips, $5.10 bounty) is sitting out
+Seat 6: edinho918 (14348 in chips, $10.20 bounty) 
+Seat 7: Billpokid70 (4790 in chips, $5.10 bounty) 
+Seat 8: zipatajs (3307 in chips, $5.10 bounty) 
+thro06: posts the ante 14
+TonyParkes: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Mr.Poker*Ak47: posts the ante 14
+flavius2810: posts the ante 14
+edinho918: posts the ante 14
+Billpokid70: posts the ante 14
+zipatajs: posts the ante 14
+Kevin12345Mc: posts small blind 45
+Mr.Poker*Ak47: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 2c]
+flavius2810: folds 
+edinho918: calls 90
+Billpokid70: raises 90 to 180
+zipatajs: folds 
+thro06: folds 
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: calls 90
+edinho918: calls 90
+*** FLOP *** [Ts Qs 4s]
+Mr.Poker*Ak47: checks 
+edinho918: checks 
+Billpokid70: bets 349
+Mr.Poker*Ak47: folds 
+edinho918: folds 
+Uncalled bet (349) returned to Billpokid70
+Billpokid70 collected 697 from pot
+*** SUMMARY ***
+Total pot 697 | Rake 0 
+Board [Ts Qs 4s]
+Seat 1: thro06 folded before Flop (didn't bet)
+Seat 2: TonyParkes (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: Mr.Poker*Ak47 (big blind) folded on the Flop
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 folded on the Flop
+Seat 7: Billpokid70 collected (697)
+Seat 8: zipatajs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985085154: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 14:11:29 WET [2025/02/22 9:11:29 ET]
+Table '3860676521 22' 8-max Seat #3 is the button
+Seat 1: thro06 (14146 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12533 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (5311 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14767 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (3010 in chips, $5.10 bounty) is sitting out
+Seat 6: edinho918 (14154 in chips, $10.20 bounty) 
+Seat 7: Billpokid70 (5293 in chips, $5.10 bounty) 
+Seat 8: zipatajs (3293 in chips, $5.10 bounty) 
+thro06: posts the ante 14
+TonyParkes: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Mr.Poker*Ak47: posts the ante 14
+flavius2810: posts the ante 14
+edinho918: posts the ante 14
+Billpokid70: posts the ante 14
+zipatajs: posts the ante 14
+Mr.Poker*Ak47: posts small blind 45
+flavius2810: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 2s]
+edinho918: folds 
+Billpokid70: raises 90 to 180
+zipatajs: folds 
+thro06: folds 
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+Uncalled bet (90) returned to Billpokid70
+Billpokid70 collected 337 from pot
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Seat 1: thro06 folded before Flop (didn't bet)
+Seat 2: TonyParkes folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 (small blind) folded before Flop
+Seat 5: flavius2810 (big blind) folded before Flop
+Seat 6: edinho918 folded before Flop (didn't bet)
+Seat 7: Billpokid70 collected (337)
+Seat 8: zipatajs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985090601: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 14:11:58 WET [2025/02/22 9:11:58 ET]
+Table '3860676521 22' 8-max Seat #4 is the button
+Seat 1: thro06 (14132 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12519 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (5297 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14708 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (2906 in chips, $5.10 bounty) is sitting out
+Seat 6: edinho918 (14140 in chips, $10.20 bounty) 
+Seat 7: Billpokid70 (5526 in chips, $5.10 bounty) 
+Seat 8: zipatajs (3279 in chips, $5.10 bounty) 
+thro06: posts the ante 14
+TonyParkes: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Mr.Poker*Ak47: posts the ante 14
+flavius2810: posts the ante 14
+edinho918: posts the ante 14
+Billpokid70: posts the ante 14
+zipatajs: posts the ante 14
+flavius2810: posts small blind 45
+edinho918: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Qc]
+Billpokid70: folds 
+zipatajs: folds 
+thro06: calls 90
+TonyParkes: folds 
+Kevin12345Mc: calls 90
+Mr.Poker*Ak47: calls 90
+flavius2810: folds 
+edinho918: raises 517 to 607
+thro06: calls 517
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+*** FLOP *** [2s Kd 8h]
+edinho918: bets 776
+thro06: folds 
+Uncalled bet (776) returned to edinho918
+edinho918 collected 1551 from pot
+edinho918: doesn't show hand 
+*** SUMMARY ***
+Total pot 1551 | Rake 0 
+Board [2s Kd 8h]
+Seat 1: thro06 folded on the Flop
+Seat 2: TonyParkes folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop
+Seat 4: Mr.Poker*Ak47 (button) folded before Flop
+Seat 5: flavius2810 (small blind) folded before Flop
+Seat 6: edinho918 (big blind) collected (1551)
+Seat 7: Billpokid70 folded before Flop (didn't bet)
+Seat 8: zipatajs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985099656: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 14:12:47 WET [2025/02/22 9:12:47 ET]
+Table '3860676521 22' 8-max Seat #5 is the button
+Seat 1: thro06 (13511 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12505 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (5193 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14604 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (2847 in chips, $5.10 bounty) is sitting out
+Seat 6: edinho918 (15070 in chips, $10.20 bounty) 
+Seat 7: Billpokid70 (5512 in chips, $5.10 bounty) 
+Seat 8: zipatajs (3265 in chips, $5.10 bounty) 
+thro06: posts the ante 14
+TonyParkes: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Mr.Poker*Ak47: posts the ante 14
+flavius2810: posts the ante 14
+edinho918: posts the ante 14
+Billpokid70: posts the ante 14
+zipatajs: posts the ante 14
+edinho918: posts small blind 45
+Billpokid70: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 3c]
+zipatajs: calls 90
+thro06: calls 90
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: raises 180 to 270
+Billpokid70: folds 
+zipatajs: calls 180
+thro06: calls 180
+*** FLOP *** [5h 6d 4s]
+edinho918: checks 
+zipatajs: checks 
+thro06: checks 
+*** TURN *** [5h 6d 4s] [Tc]
+edinho918: checks 
+flavius2810 has returned
+zipatajs: checks 
+thro06: checks 
+*** RIVER *** [5h 6d 4s Tc] [6h]
+edinho918: checks 
+zipatajs: checks 
+thro06: bets 1012
+edinho918: calls 1012
+zipatajs: folds 
+*** SHOW DOWN ***
+thro06: shows [Ts 9d] (two pair, Tens and Sixes)
+edinho918: mucks hand 
+thro06 collected 3036 from pot
+*** SUMMARY ***
+Total pot 3036 | Rake 0 
+Board [5h 6d 4s Tc 6h]
+Seat 1: thro06 showed [Ts 9d] and won (3036) with two pair, Tens and Sixes
+Seat 2: TonyParkes folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 (button) folded before Flop (didn't bet)
+Seat 6: edinho918 (small blind) mucked [As 5c]
+Seat 7: Billpokid70 (big blind) folded before Flop
+Seat 8: zipatajs folded on the River
+
+
+
+PokerStars Hand #254985111094: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 14:13:48 WET [2025/02/22 9:13:48 ET]
+Table '3860676521 22' 8-max Seat #6 is the button
+Seat 1: thro06 (15251 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12491 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (5179 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14590 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (2833 in chips, $5.10 bounty) 
+Seat 6: edinho918 (13774 in chips, $10.20 bounty) 
+Seat 7: Billpokid70 (5408 in chips, $5.10 bounty) 
+Seat 8: zipatajs (2981 in chips, $5.10 bounty) 
+thro06: posts the ante 14
+TonyParkes: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Mr.Poker*Ak47: posts the ante 14
+flavius2810: posts the ante 14
+edinho918: posts the ante 14
+Billpokid70: posts the ante 14
+zipatajs: posts the ante 14
+Billpokid70: posts small blind 45
+zipatajs: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 4d]
+thro06: folds 
+TonyParkes: calls 90
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: raises 180 to 270
+Billpokid70: calls 225
+zipatajs: calls 180
+TonyParkes: calls 180
+*** FLOP *** [Ah 2s Kc]
+Billpokid70: checks 
+zipatajs: checks 
+TonyParkes: checks 
+edinho918: bets 360
+Billpokid70: folds 
+zipatajs: calls 360
+TonyParkes: folds 
+*** TURN *** [Ah 2s Kc] [Tc]
+zipatajs: checks 
+edinho918: bets 450
+zipatajs: folds 
+Uncalled bet (450) returned to edinho918
+edinho918 collected 1912 from pot
+edinho918: doesn't show hand 
+*** SUMMARY ***
+Total pot 1912 | Rake 0 
+Board [Ah 2s Kc Tc]
+Seat 1: thro06 folded before Flop (didn't bet)
+Seat 2: TonyParkes folded on the Flop
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 (button) collected (1912)
+Seat 7: Billpokid70 (small blind) folded on the Flop
+Seat 8: zipatajs (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254985126546: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 14:15:11 WET [2025/02/22 9:15:11 ET]
+Table '3860676521 22' 8-max Seat #7 is the button
+Seat 1: thro06 (15237 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12207 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (5165 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14576 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (2819 in chips, $5.10 bounty) 
+Seat 6: edinho918 (15042 in chips, $10.20 bounty) 
+Seat 7: Billpokid70 (5124 in chips, $5.10 bounty) 
+Seat 8: zipatajs (2337 in chips, $5.10 bounty) 
+thro06: posts the ante 14
+TonyParkes: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Mr.Poker*Ak47: posts the ante 14
+flavius2810: posts the ante 14
+edinho918: posts the ante 14
+Billpokid70: posts the ante 14
+zipatajs: posts the ante 14
+zipatajs: posts small blind 45
+thro06: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 5h]
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: raises 180 to 270
+Billpokid70: calls 270
+zipatajs: calls 225
+thro06: folds 
+*** FLOP *** [2d 3s 9s]
+zipatajs: checks 
+edinho918: bets 270
+Billpokid70: calls 270
+zipatajs: folds 
+*** TURN *** [2d 3s 9s] [5c]
+edinho918: bets 776
+Billpokid70: calls 776
+*** RIVER *** [2d 3s 9s 5c] [2h]
+edinho918: bets 1552
+Billpokid70: raises 1552 to 3104
+edinho918: raises 1552 to 4656
+Billpokid70: calls 690 and is all-in
+Uncalled bet (862) returned to edinho918
+*** SHOW DOWN ***
+edinho918: shows [6c 4c] (a straight, Deuce to Six)
+Billpokid70: shows [As 2s] (three of a kind, Deuces)
+edinho918 collected 10692 from pot
+edinho918 wins $2.55 for eliminating Billpokid70 and their own bounty increases by $2.55 to $12.75
+Billpokid70 finished the tournament
+*** SUMMARY ***
+Total pot 10692 | Rake 0 
+Board [2d 3s 9s 5c 2h]
+Seat 1: thro06 (big blind) folded before Flop
+Seat 2: TonyParkes folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 showed [6c 4c] and won (10692) with a straight, Deuce to Six
+Seat 7: Billpokid70 (button) showed [As 2s] and lost with three of a kind, Deuces
+Seat 8: zipatajs (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254985137287: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 14:16:09 WET [2025/02/22 9:16:09 ET]
+Table '3860676521 22' 8-max Seat #8 is the button
+Seat 1: thro06 (15133 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12193 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (5151 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14562 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (2805 in chips, $5.10 bounty) 
+Seat 6: edinho918 (20610 in chips, $12.75 bounty) 
+Seat 8: zipatajs (2053 in chips, $5.10 bounty) 
+thro06: posts the ante 14
+TonyParkes: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Mr.Poker*Ak47: posts the ante 14
+flavius2810: posts the ante 14
+edinho918: posts the ante 14
+zipatajs: posts the ante 14
+thro06: posts small blind 45
+TonyParkes: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 2h]
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: calls 90
+zipatajs: folds 
+thro06: calls 45
+TonyParkes: checks 
+*** FLOP *** [8c 4s 4d]
+thro06: checks 
+TonyParkes: checks 
+edinho918: checks 
+*** TURN *** [8c 4s 4d] [Th]
+thro06: checks 
+TonyParkes: checks 
+edinho918: checks 
+*** RIVER *** [8c 4s 4d Th] [Js]
+thro06: checks 
+TonyParkes: checks 
+edinho918: checks 
+*** SHOW DOWN ***
+thro06: shows [Ah 6c] (a pair of Fours)
+TonyParkes: mucks hand 
+edinho918: mucks hand 
+thro06 collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | Rake 0 
+Board [8c 4s 4d Th Js]
+Seat 1: thro06 (small blind) showed [Ah 6c] and won (368) with a pair of Fours
+Seat 2: TonyParkes (big blind) mucked [2s 6s]
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 mucked [Ks 7s]
+Seat 8: zipatajs (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985146194: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 14:16:57 WET [2025/02/22 9:16:57 ET]
+Table '3860676521 22' 8-max Seat #1 is the button
+Seat 1: thro06 (15397 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12089 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (5137 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14548 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (2791 in chips, $5.10 bounty) 
+Seat 6: edinho918 (20506 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (5000 in chips, $5.10 bounty) 
+Seat 8: zipatajs (2039 in chips, $5.10 bounty) 
+thro06: posts the ante 14
+TonyParkes: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Mr.Poker*Ak47: posts the ante 14
+flavius2810: posts the ante 14
+edinho918: posts the ante 14
+bnscosmin95: posts the ante 14
+zipatajs: posts the ante 14
+TonyParkes: posts small blind 45
+Kevin12345Mc: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 2h]
+Mr.Poker*Ak47: raises 108 to 198
+flavius2810: folds 
+edinho918: folds 
+bnscosmin95: folds 
+zipatajs: folds 
+thro06: calls 198
+TonyParkes: calls 153
+Kevin12345Mc: folds 
+*** FLOP *** [8s 4s 6d]
+TonyParkes: checks 
+Mr.Poker*Ak47: checks 
+thro06: checks 
+*** TURN *** [8s 4s 6d] [8d]
+TonyParkes: checks 
+Mr.Poker*Ak47: checks 
+thro06: checks 
+*** RIVER *** [8s 4s 6d 8d] [Kc]
+TonyParkes: bets 488
+Mr.Poker*Ak47: folds 
+thro06: folds 
+Uncalled bet (488) returned to TonyParkes
+TonyParkes collected 796 from pot
+TonyParkes: doesn't show hand 
+*** SUMMARY ***
+Total pot 796 | Rake 0 
+Board [8s 4s 6d 8d Kc]
+Seat 1: thro06 (button) folded on the River
+Seat 2: TonyParkes (small blind) collected (796)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: Mr.Poker*Ak47 folded on the River
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 folded before Flop (didn't bet)
+Seat 7: bnscosmin95 folded before Flop (didn't bet)
+Seat 8: zipatajs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985160575: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 14:18:16 WET [2025/02/22 9:18:16 ET]
+Table '3860676521 22' 8-max Seat #2 is the button
+Seat 1: thro06 (15185 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12673 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (5033 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14336 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (2777 in chips, $5.10 bounty) 
+Seat 6: edinho918 (20492 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (4986 in chips, $5.10 bounty) 
+Seat 8: zipatajs (2025 in chips, $5.10 bounty) 
+thro06: posts the ante 15
+TonyParkes: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Mr.Poker*Ak47: posts the ante 15
+flavius2810: posts the ante 15
+edinho918: posts the ante 15
+bnscosmin95: posts the ante 15
+zipatajs: posts the ante 15
+Kevin12345Mc: posts small blind 50
+Mr.Poker*Ak47: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 5h]
+flavius2810: folds 
+edinho918: calls 100
+bnscosmin95: raises 670 to 770
+zipatajs: folds 
+thro06: calls 770
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+edinho918: calls 670
+*** FLOP *** [4c 3d 7s]
+edinho918: checks 
+bnscosmin95: checks 
+thro06: checks 
+*** TURN *** [4c 3d 7s] [Qd]
+edinho918: bets 2580
+bnscosmin95: folds 
+thro06: folds [9h]
+Uncalled bet (2580) returned to edinho918
+edinho918 collected 2580 from pot
+edinho918: doesn't show hand 
+*** SUMMARY ***
+Total pot 2580 | Rake 0 
+Board [4c 3d 7s Qd]
+Seat 1: thro06 folded on the Turn
+Seat 2: TonyParkes (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: Mr.Poker*Ak47 (big blind) folded before Flop
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 collected (2580)
+Seat 7: bnscosmin95 folded on the Turn
+Seat 8: zipatajs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985175097: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 14:19:36 WET [2025/02/22 9:19:36 ET]
+Table '3860676521 22' 8-max Seat #3 is the button
+Seat 1: thro06 (14400 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12658 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4968 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14221 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (2762 in chips, $5.10 bounty) 
+Seat 6: edinho918 (22287 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (4201 in chips, $5.10 bounty) 
+Seat 8: zipatajs (2010 in chips, $5.10 bounty) 
+thro06: posts the ante 15
+TonyParkes: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Mr.Poker*Ak47: posts the ante 15
+flavius2810: posts the ante 15
+edinho918: posts the ante 15
+bnscosmin95: posts the ante 15
+zipatajs: posts the ante 15
+Mr.Poker*Ak47: posts small blind 50
+flavius2810: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 6h]
+edinho918: folds 
+bnscosmin95: calls 100
+zipatajs: folds 
+thro06: calls 100
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: calls 50
+flavius2810: checks 
+*** FLOP *** [8c Tc 4s]
+Mr.Poker*Ak47: checks 
+flavius2810: checks 
+bnscosmin95: bets 260
+thro06: calls 260
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+*** TURN *** [8c Tc 4s] [Qs]
+bnscosmin95: checks 
+thro06: checks 
+*** RIVER *** [8c Tc 4s Qs] [Ah]
+bnscosmin95: checks 
+thro06: bets 1040
+bnscosmin95: folds 
+Uncalled bet (1040) returned to thro06
+thro06 collected 1040 from pot
+thro06: doesn't show hand 
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [8c Tc 4s Qs Ah]
+Seat 1: thro06 collected (1040)
+Seat 2: TonyParkes folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 (small blind) folded on the Flop
+Seat 5: flavius2810 (big blind) folded on the Flop
+Seat 6: edinho918 folded before Flop (didn't bet)
+Seat 7: bnscosmin95 folded on the River
+Seat 8: zipatajs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985184778: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 14:20:30 WET [2025/02/22 9:20:30 ET]
+Table '3860676521 22' 8-max Seat #4 is the button
+Seat 1: thro06 (15065 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12643 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4953 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14106 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (2647 in chips, $5.10 bounty) 
+Seat 6: edinho918 (22272 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (3826 in chips, $5.10 bounty) 
+Seat 8: zipatajs (1995 in chips, $5.10 bounty) 
+thro06: posts the ante 15
+TonyParkes: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Mr.Poker*Ak47: posts the ante 15
+flavius2810: posts the ante 15
+edinho918: posts the ante 15
+bnscosmin95: posts the ante 15
+zipatajs: posts the ante 15
+flavius2810: posts small blind 50
+edinho918: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 6h]
+bnscosmin95: raises 370 to 470
+zipatajs: folds 
+thro06: folds 
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: calls 370
+*** FLOP *** [6d Ad As]
+edinho918: checks 
+bnscosmin95: bets 1110
+edinho918: folds 
+Uncalled bet (1110) returned to bnscosmin95
+bnscosmin95 collected 1110 from pot
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [6d Ad As]
+Seat 1: thro06 folded before Flop (didn't bet)
+Seat 2: TonyParkes folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 (button) folded before Flop (didn't bet)
+Seat 5: flavius2810 (small blind) folded before Flop
+Seat 6: edinho918 (big blind) folded on the Flop
+Seat 7: bnscosmin95 collected (1110)
+Seat 8: zipatajs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985191945: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 14:21:09 WET [2025/02/22 9:21:09 ET]
+Table '3860676521 22' 8-max Seat #5 is the button
+Seat 1: thro06 (15050 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12628 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4938 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14091 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (2582 in chips, $5.10 bounty) 
+Seat 6: edinho918 (21787 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (4451 in chips, $5.10 bounty) 
+Seat 8: zipatajs (1980 in chips, $5.10 bounty) 
+thro06: posts the ante 15
+TonyParkes: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Mr.Poker*Ak47: posts the ante 15
+flavius2810: posts the ante 15
+edinho918: posts the ante 15
+bnscosmin95: posts the ante 15
+zipatajs: posts the ante 15
+edinho918: posts small blind 50
+bnscosmin95: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Ad]
+zipatajs: calls 100
+thro06: calls 100
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: raises 2467 to 2567 and is all-in
+edinho918: folds 
+bnscosmin95: folds 
+zipatajs: calls 1865 and is all-in
+thro06: calls 2467
+*** FLOP *** [Jd As Qs]
+*** TURN *** [Jd As Qs] [Kd]
+*** RIVER *** [Jd As Qs Kd] [2h]
+*** SHOW DOWN ***
+thro06: shows [5d 4h] (high card Ace)
+flavius2810: shows [Ac 7d] (a pair of Aces)
+flavius2810 collected 1204 from side pot
+zipatajs: shows [5s 5c] (a pair of Fives)
+flavius2810 collected 6165 from main pot
+flavius2810 wins $2.55 for eliminating zipatajs and their own bounty increases by $2.55 to $7.65
+zipatajs finished the tournament
+*** SUMMARY ***
+Total pot 7369 Main pot 6165. Side pot 1204. | Rake 0 
+Board [Jd As Qs Kd 2h]
+Seat 1: thro06 showed [5d 4h] and lost with high card Ace
+Seat 2: TonyParkes folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 (button) showed [Ac 7d] and won (7369) with a pair of Aces
+Seat 6: edinho918 (small blind) folded before Flop
+Seat 7: bnscosmin95 (big blind) folded before Flop
+Seat 8: zipatajs showed [5s 5c] and lost with a pair of Fives
+
+
+
+PokerStars Hand #254985198936: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 14:21:47 WET [2025/02/22 9:21:47 ET]
+Table '3860676521 22' 8-max Seat #6 is the button
+Seat 1: thro06 (12468 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (12613 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4923 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14076 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (7369 in chips, $7.65 bounty) 
+Seat 6: edinho918 (21722 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (4336 in chips, $5.10 bounty) 
+thro06: posts the ante 15
+TonyParkes: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Mr.Poker*Ak47: posts the ante 15
+flavius2810: posts the ante 15
+edinho918: posts the ante 15
+bnscosmin95: posts the ante 15
+bnscosmin95: posts small blind 50
+thro06: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 9c]
+TonyParkes: calls 100
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: raises 200 to 300
+bnscosmin95: folds 
+thro06: calls 200
+TonyParkes: calls 200
+*** FLOP *** [4s 8h 5s]
+thro06: checks 
+TonyParkes: checks 
+edinho918: checks 
+*** TURN *** [4s 8h 5s] [5c]
+thro06: checks 
+royal160 is disconnected 
+TonyParkes: bets 328
+edinho918: folds 
+thro06: calls 328
+*** RIVER *** [4s 8h 5s 5c] [9d]
+thro06: checks 
+TonyParkes: bets 1711
+thro06: calls 1711
+*** SHOW DOWN ***
+TonyParkes: shows [As 5d] (three of a kind, Fives)
+thro06: mucks hand 
+TonyParkes collected 5133 from pot
+*** SUMMARY ***
+Total pot 5133 | Rake 0 
+Board [4s 8h 5s 5c 9d]
+Seat 1: thro06 (big blind) mucked [8s 7s]
+Seat 2: TonyParkes showed [As 5d] and won (5133) with three of a kind, Fives
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 (button) folded on the Turn
+Seat 7: bnscosmin95 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254985212786: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 14:23:03 WET [2025/02/22 9:23:03 ET]
+Table '3860676521 22' 8-max Seat #7 is the button
+Seat 1: thro06 (10114 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (15392 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4908 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14061 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (7354 in chips, $7.65 bounty) 
+Seat 6: edinho918 (21407 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (4271 in chips, $5.10 bounty) 
+Seat 8: royal160 (14345 in chips) out of hand (moved from another table into small blind)
+royal160 will be allowed to play after the button
+thro06: posts the ante 15
+TonyParkes: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Mr.Poker*Ak47: posts the ante 15
+flavius2810: posts the ante 15
+edinho918: posts the ante 15
+bnscosmin95: posts the ante 15
+thro06: posts small blind 50
+TonyParkes: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Kh]
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: raises 100 to 200
+edinho918: calls 200
+bnscosmin95: folds 
+thro06: folds 
+TonyParkes: calls 100
+*** FLOP *** [Ts Js 3h]
+TonyParkes: checks 
+flavius2810: bets 555
+edinho918: folds 
+TonyParkes: folds 
+Uncalled bet (555) returned to flavius2810
+flavius2810 collected 755 from pot
+flavius2810: doesn't show hand 
+*** SUMMARY ***
+Total pot 755 | Rake 0 
+Board [Ts Js 3h]
+Seat 1: thro06 (small blind) folded before Flop
+Seat 2: TonyParkes (big blind) folded on the Flop
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 collected (755)
+Seat 6: edinho918 folded on the Flop
+Seat 7: bnscosmin95 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985224080: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 14:24:04 WET [2025/02/22 9:24:04 ET]
+Table '3860676521 22' 8-max Seat #1 is the button
+Seat 1: thro06 (10049 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (15177 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4893 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14046 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (7894 in chips, $7.65 bounty) 
+Seat 6: edinho918 (21192 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (4256 in chips, $5.10 bounty) 
+Seat 8: royal160 (14345 in chips, $10.20 bounty) 
+thro06: posts the ante 15
+TonyParkes: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Mr.Poker*Ak47: posts the ante 15
+flavius2810: posts the ante 15
+edinho918: posts the ante 15
+bnscosmin95: posts the ante 15
+royal160: posts the ante 15
+TonyParkes: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 9h]
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: calls 100
+bnscosmin95: raises 470 to 570
+royal160: folds 
+thro06: calls 570
+TonyParkes: folds 
+Kevin12345Mc: folds 
+edinho918: calls 470
+*** FLOP *** [As 7c Kd]
+edinho918: checks 
+bnscosmin95: bets 990
+thro06: folds 
+edinho918: calls 990
+*** TURN *** [As 7c Kd] [8s]
+edinho918: checks 
+bnscosmin95: bets 2681 and is all-in
+edinho918: folds 
+Uncalled bet (2681) returned to bnscosmin95
+bnscosmin95 collected 3960 from pot
+*** SUMMARY ***
+Total pot 3960 | Rake 0 
+Board [As 7c Kd 8s]
+Seat 1: thro06 (button) folded on the Flop
+Seat 2: TonyParkes (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 folded on the Turn
+Seat 7: bnscosmin95 collected (3960)
+Seat 8: royal160 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985232338: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 14:24:49 WET [2025/02/22 9:24:49 ET]
+Table '3860676521 22' 8-max Seat #2 is the button
+Seat 1: thro06 (9464 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (15112 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4778 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (14031 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (7879 in chips, $7.65 bounty) 
+Seat 6: edinho918 (19617 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (6641 in chips, $5.10 bounty) 
+Seat 8: royal160 (14330 in chips, $10.20 bounty) 
+thro06: posts the ante 15
+TonyParkes: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Mr.Poker*Ak47: posts the ante 15
+flavius2810: posts the ante 15
+edinho918: posts the ante 15
+bnscosmin95: posts the ante 15
+royal160: posts the ante 15
+Kevin12345Mc: posts small blind 50
+Mr.Poker*Ak47: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Ac]
+flavius2810: folds 
+edinho918: folds 
+bnscosmin95: folds 
+royal160: raises 100 to 200
+thro06: folds 
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+Uncalled bet (100) returned to royal160
+royal160 collected 370 from pot
+royal160: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: thro06 folded before Flop (didn't bet)
+Seat 2: TonyParkes (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: Mr.Poker*Ak47 (big blind) folded before Flop
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 folded before Flop (didn't bet)
+Seat 7: bnscosmin95 folded before Flop (didn't bet)
+Seat 8: royal160 collected (370)
+
+
+
+PokerStars Hand #254985238590: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 14:25:23 WET [2025/02/22 9:25:23 ET]
+Table '3860676521 22' 8-max Seat #3 is the button
+Seat 1: thro06 (9449 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (15097 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4713 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (13916 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (7864 in chips, $7.65 bounty) 
+Seat 6: edinho918 (19602 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (6626 in chips, $5.10 bounty) 
+Seat 8: royal160 (14585 in chips, $10.20 bounty) 
+thro06: posts the ante 18
+TonyParkes: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Mr.Poker*Ak47: posts the ante 18
+flavius2810: posts the ante 18
+edinho918: posts the ante 18
+bnscosmin95: posts the ante 18
+royal160: posts the ante 18
+Mr.Poker*Ak47: posts small blind 60
+flavius2810: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 2c]
+edinho918: calls 120
+bnscosmin95: calls 120
+royal160: folds 
+thro06: folds 
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: checks 
+*** FLOP *** [Qh 2d Ad]
+flavius2810: checks 
+edinho918: checks 
+bnscosmin95: checks 
+*** TURN *** [Qh 2d Ad] [3c]
+flavius2810: checks 
+edinho918: checks 
+bnscosmin95: checks 
+*** RIVER *** [Qh 2d Ad 3c] [As]
+flavius2810: checks 
+edinho918: checks 
+bnscosmin95: checks 
+*** SHOW DOWN ***
+flavius2810: shows [9d 4c] (a pair of Aces)
+edinho918: shows [9s 6c] (a pair of Aces - Queen+Nine+Six kicker)
+bnscosmin95: shows [7s Th] (a pair of Aces - Queen+Ten kicker)
+bnscosmin95 collected 564 from pot
+*** SUMMARY ***
+Total pot 564 | Rake 0 
+Board [Qh 2d Ad 3c As]
+Seat 1: thro06 folded before Flop (didn't bet)
+Seat 2: TonyParkes folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 (small blind) folded before Flop
+Seat 5: flavius2810 (big blind) showed [9d 4c] and lost with a pair of Aces
+Seat 6: edinho918 showed [9s 6c] and lost with a pair of Aces
+Seat 7: bnscosmin95 showed [7s Th] and won (564) with a pair of Aces
+Seat 8: royal160 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985249813: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 14:26:25 WET [2025/02/22 9:26:25 ET]
+Table '3860676521 22' 8-max Seat #4 is the button
+Seat 1: thro06 (9431 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (15079 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4695 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (13838 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (7726 in chips, $7.65 bounty) 
+Seat 6: edinho918 (19464 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (7052 in chips, $5.10 bounty) 
+Seat 8: royal160 (14567 in chips, $10.20 bounty) 
+thro06: posts the ante 18
+TonyParkes: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Mr.Poker*Ak47: posts the ante 18
+flavius2810: posts the ante 18
+edinho918: posts the ante 18
+bnscosmin95: posts the ante 18
+royal160: posts the ante 18
+flavius2810: posts small blind 60
+edinho918: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 5c]
+bnscosmin95: folds 
+royal160: folds 
+thro06: raises 444 to 564
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: calls 444
+*** FLOP *** [6h Ks 4h]
+edinho918: checks 
+thro06: checks 
+*** TURN *** [6h Ks 4h] [Qc]
+edinho918: checks 
+thro06: checks 
+*** RIVER *** [6h Ks 4h Qc] [2s]
+edinho918: checks 
+thro06: bets 1332
+edinho918: folds 
+Uncalled bet (1332) returned to thro06
+thro06 collected 1332 from pot
+thro06: doesn't show hand 
+*** SUMMARY ***
+Total pot 1332 | Rake 0 
+Board [6h Ks 4h Qc 2s]
+Seat 1: thro06 collected (1332)
+Seat 2: TonyParkes folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 (button) folded before Flop (didn't bet)
+Seat 5: flavius2810 (small blind) folded before Flop
+Seat 6: edinho918 (big blind) folded on the River
+Seat 7: bnscosmin95 folded before Flop (didn't bet)
+Seat 8: royal160 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985261158: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 14:27:27 WET [2025/02/22 9:27:27 ET]
+Table '3860676521 22' 8-max Seat #5 is the button
+Seat 1: thro06 (10181 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (15061 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4677 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (13820 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (7648 in chips, $7.65 bounty) 
+Seat 6: edinho918 (18882 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (7034 in chips, $5.10 bounty) 
+Seat 8: royal160 (14549 in chips, $10.20 bounty) 
+thro06: posts the ante 18
+TonyParkes: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Mr.Poker*Ak47: posts the ante 18
+flavius2810: posts the ante 18
+edinho918: posts the ante 18
+bnscosmin95: posts the ante 18
+royal160: posts the ante 18
+edinho918: posts small blind 60
+bnscosmin95: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 5c]
+royal160: folds 
+thro06: calls 120
+TonyParkes: folds 
+Kevin12345Mc: folds 
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: folds 
+bnscosmin95: checks 
+*** FLOP *** [Qd Ac 8d]
+bnscosmin95: checks 
+thro06: checks 
+*** TURN *** [Qd Ac 8d] [Ah]
+bnscosmin95: checks 
+thro06: checks 
+*** RIVER *** [Qd Ac 8d Ah] [Jh]
+bnscosmin95: checks 
+thro06: checks 
+*** SHOW DOWN ***
+bnscosmin95: shows [Ks 6c] (a pair of Aces)
+thro06: mucks hand 
+bnscosmin95 collected 444 from pot
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Board [Qd Ac 8d Ah Jh]
+Seat 1: thro06 mucked [7d 4c]
+Seat 2: TonyParkes folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 (button) folded before Flop (didn't bet)
+Seat 6: edinho918 (small blind) folded before Flop
+Seat 7: bnscosmin95 (big blind) showed [Ks 6c] and won (444) with a pair of Aces
+Seat 8: royal160 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254985269426: Tournament #3860676521, $1.59+$5.10+$0.81 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 14:28:12 WET [2025/02/22 9:28:12 ET]
+Table '3860676521 22' 8-max Seat #6 is the button
+Seat 1: thro06 (10043 in chips, $10.20 bounty) 
+Seat 2: TonyParkes (15043 in chips, $7.65 bounty) 
+Seat 3: Kevin12345Mc (4659 in chips, $5.10 bounty) 
+Seat 4: Mr.Poker*Ak47 (13802 in chips, $7.65 bounty) 
+Seat 5: flavius2810 (7630 in chips, $7.65 bounty) 
+Seat 6: edinho918 (18804 in chips, $12.75 bounty) 
+Seat 7: bnscosmin95 (7340 in chips, $5.10 bounty) 
+Seat 8: royal160 (14531 in chips, $10.20 bounty) 
+thro06: posts the ante 18
+TonyParkes: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Mr.Poker*Ak47: posts the ante 18
+flavius2810: posts the ante 18
+edinho918: posts the ante 18
+bnscosmin95: posts the ante 18
+royal160: posts the ante 18
+bnscosmin95: posts small blind 60
+royal160: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Qc]
+thro06: folds 
+TonyParkes: calls 120
+Kevin12345Mc: raises 156 to 276
+Mr.Poker*Ak47: folds 
+flavius2810: folds 
+edinho918: folds 
+bnscosmin95: calls 216
+royal160: calls 156
+TonyParkes: folds 
+*** FLOP *** [9s 7d 3c]
+bnscosmin95: checks 
+royal160: checks 
+Kevin12345Mc: bets 546
+bnscosmin95: folds 
+royal160: calls 546
+*** TURN *** [9s 7d 3c] [4s]
+royal160: checks 
+Kevin12345Mc: bets 972
+royal160: raises 972 to 1944
+Kevin12345Mc: raises 1875 to 3819 and is all-in
+royal160: calls 1875
+*** RIVER *** [9s 7d 3c 4s] [5d]
+*** SHOW DOWN ***
+royal160: shows [5c 6h] (a straight, Three to Seven)
+Kevin12345Mc: shows [Qs Qc] (a pair of Queens)
+royal160 collected 9822 from pot
+royal160 wins $2.55 for eliminating Kevin12345Mc and their own bounty increases by $2.55 to $12.75
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 9822 | Rake 0 
+Board [9s 7d 3c 4s 5d]
+Seat 1: thro06 folded before Flop (didn't bet)
+Seat 2: TonyParkes folded before Flop
+Seat 3: Kevin12345Mc showed [Qs Qc] and lost with a pair of Queens
+Seat 4: Mr.Poker*Ak47 folded before Flop (didn't bet)
+Seat 5: flavius2810 folded before Flop (didn't bet)
+Seat 6: edinho918 (button) folded before Flop (didn't bet)
+Seat 7: bnscosmin95 (small blind) folded on the Flop
+Seat 8: royal160 (big blind) showed [5c 6h] and won (9822) with a straight, Three to Seven
+
+
+

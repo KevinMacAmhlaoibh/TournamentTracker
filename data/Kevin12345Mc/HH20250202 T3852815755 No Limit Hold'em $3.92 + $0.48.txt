@@ -1,0 +1,2990 @@
+﻿PokerStars Hand #254673884152: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/02 18:33:48 WET [2025/02/02 13:33:48 ET]
+Table '3852815755 105' 8-max Seat #2 is the button
+Seat 1: XoleVAL (4976 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4626 in chips, $2 bounty) 
+Seat 3: Maagister77 (4826 in chips, $2 bounty) 
+Seat 4: MrGrumpyX (4642 in chips, $2 bounty) 
+Seat 5: MadsonTolentino (5000 in chips, $2 bounty) 
+Seat 6: BluffTrapper (5882 in chips, $2 bounty) 
+Seat 7: Kevin12345Mc (5000 in chips, $2 bounty) 
+Seat 8: Marco_Frei89 (5000 in chips, $2 bounty) 
+XoleVAL: posts the ante 8
+xxxisbxxx: posts the ante 8
+Maagister77: posts the ante 8
+MrGrumpyX: posts the ante 8
+MadsonTolentino: posts the ante 8
+BluffTrapper: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Marco_Frei89: posts the ante 8
+Maagister77: posts small blind 25
+MrGrumpyX: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 5h]
+MadsonTolentino: raises 50 to 100
+BluffTrapper: calls 100
+Kevin12345Mc: folds 
+Marco_Frei89: folds 
+XoleVAL: folds 
+xxxisbxxx: folds 
+Maagister77: folds 
+MrGrumpyX: calls 50
+*** FLOP *** [8h 4d 3c]
+MrGrumpyX: checks 
+MadsonTolentino: bets 128
+BluffTrapper: raises 323 to 451
+MrGrumpyX: calls 451
+MadsonTolentino: folds 
+*** TURN *** [8h 4d 3c] [As]
+MrGrumpyX: checks 
+BluffTrapper: bets 1010
+MrGrumpyX: folds 
+Uncalled bet (1010) returned to BluffTrapper
+BluffTrapper collected 1419 from pot
+BluffTrapper: doesn't show hand 
+*** SUMMARY ***
+Total pot 1419 | Rake 0 
+Board [8h 4d 3c As]
+Seat 1: XoleVAL folded before Flop (didn't bet)
+Seat 2: xxxisbxxx (button) folded before Flop (didn't bet)
+Seat 3: Maagister77 (small blind) folded before Flop
+Seat 4: MrGrumpyX (big blind) folded on the Turn
+Seat 5: MadsonTolentino folded on the Flop
+Seat 6: BluffTrapper collected (1419)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Marco_Frei89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673910312: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/02 18:35:03 WET [2025/02/02 13:35:03 ET]
+Table '3852815755 105' 8-max Seat #3 is the button
+Seat 1: XoleVAL (4968 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4618 in chips, $2 bounty) 
+Seat 3: Maagister77 (4793 in chips, $2 bounty) 
+Seat 4: MrGrumpyX (4083 in chips, $2 bounty) 
+Seat 5: MadsonTolentino (4764 in chips, $2 bounty) 
+Seat 6: BluffTrapper (6742 in chips, $2 bounty) 
+Seat 7: Kevin12345Mc (4992 in chips, $2 bounty) 
+Seat 8: Marco_Frei89 (4992 in chips, $2 bounty) 
+XoleVAL: posts the ante 8
+xxxisbxxx: posts the ante 8
+Maagister77: posts the ante 8
+MrGrumpyX: posts the ante 8
+MadsonTolentino: posts the ante 8
+BluffTrapper: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Marco_Frei89: posts the ante 8
+MrGrumpyX: posts small blind 25
+MadsonTolentino: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 4c]
+BluffTrapper: calls 50
+Kevin12345Mc: folds 
+Marco_Frei89: folds 
+XoleVAL: raises 100 to 150
+xxxisbxxx: folds 
+Maagister77: folds 
+MrGrumpyX: folds 
+MadsonTolentino: raises 300 to 450
+BluffTrapper: folds 
+XoleVAL: raises 575 to 1025
+MadsonTolentino: raises 3731 to 4756 and is all-in
+XoleVAL: calls 3731
+*** FLOP *** [9s Tc 5c]
+*** TURN *** [9s Tc 5c] [Ts]
+*** RIVER *** [9s Tc 5c Ts] [2d]
+*** SHOW DOWN ***
+MadsonTolentino: shows [Js Jh] (two pair, Jacks and Tens)
+XoleVAL: shows [Kd Kh] (two pair, Kings and Tens)
+XoleVAL collected 9651 from pot
+XoleVAL wins $1 for eliminating MadsonTolentino and their own bounty increases by $1 to $3
+MadsonTolentino finished the tournament
+berdewinner is disconnected 
+*** SUMMARY ***
+Total pot 9651 | Rake 0 
+Board [9s Tc 5c Ts 2d]
+Seat 1: XoleVAL showed [Kd Kh] and won (9651) with two pair, Kings and Tens
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 (button) folded before Flop (didn't bet)
+Seat 4: MrGrumpyX (small blind) folded before Flop
+Seat 5: MadsonTolentino (big blind) showed [Js Jh] and lost with two pair, Jacks and Tens
+Seat 6: BluffTrapper folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Marco_Frei89 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673933430: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/02 18:36:09 WET [2025/02/02 13:36:09 ET]
+Table '3852815755 105' 8-max Seat #4 is the button
+Seat 1: XoleVAL (9855 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (4610 in chips, $2 bounty) 
+Seat 3: Maagister77 (4785 in chips, $2 bounty) 
+Seat 4: MrGrumpyX (4050 in chips, $2 bounty) 
+Seat 6: BluffTrapper (6684 in chips, $2 bounty) 
+Seat 7: Kevin12345Mc (4984 in chips, $2 bounty) 
+Seat 8: berdewinner (4984 in chips, $2 bounty) 
+XoleVAL: posts the ante 8
+xxxisbxxx: posts the ante 8
+Maagister77: posts the ante 8
+MrGrumpyX: posts the ante 8
+BluffTrapper: posts the ante 8
+Kevin12345Mc: posts the ante 8
+berdewinner: posts the ante 8
+BluffTrapper: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 6c]
+berdewinner: raises 50 to 100
+XoleVAL: folds 
+xxxisbxxx: folds 
+Maagister77: folds 
+MrGrumpyX: folds 
+Bilá is disconnected 
+BluffTrapper: calls 75
+Kevin12345Mc: calls 50
+*** FLOP *** [5d 3s 7h]
+BluffTrapper: checks 
+Kevin12345Mc: checks 
+berdewinner: bets 178
+BluffTrapper: raises 228 to 406
+Kevin12345Mc: folds 
+berdewinner: calls 228
+*** TURN *** [5d 3s 7h] [Ks]
+BluffTrapper: bets 584
+berdewinner: folds 
+Uncalled bet (584) returned to BluffTrapper
+BluffTrapper collected 1168 from pot
+BluffTrapper: doesn't show hand 
+*** SUMMARY ***
+Total pot 1168 | Rake 0 
+Board [5d 3s 7h Ks]
+Seat 1: XoleVAL folded before Flop (didn't bet)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: MrGrumpyX (button) folded before Flop (didn't bet)
+Seat 6: BluffTrapper (small blind) collected (1168)
+Seat 7: Kevin12345Mc (big blind) folded on the Flop
+Seat 8: berdewinner folded on the Turn
+
+
+
+PokerStars Hand #254673956214: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/02 18:37:14 WET [2025/02/02 13:37:14 ET]
+Table '3852815755 105' 8-max Seat #6 is the button
+Seat 1: XoleVAL (9847 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (4602 in chips, $2 bounty) 
+Seat 3: Maagister77 (4777 in chips, $2 bounty) 
+Seat 4: MrGrumpyX (4042 in chips, $2 bounty) 
+Seat 5: Bilá (5000 in chips, $2 bounty) 
+Seat 6: BluffTrapper (7338 in chips, $2 bounty) 
+Seat 7: Kevin12345Mc (4876 in chips, $2 bounty) 
+Seat 8: berdewinner (4470 in chips, $2 bounty) 
+XoleVAL: posts the ante 8
+xxxisbxxx: posts the ante 8
+Maagister77: posts the ante 8
+MrGrumpyX: posts the ante 8
+Bilá: posts the ante 8
+BluffTrapper: posts the ante 8
+Kevin12345Mc: posts the ante 8
+berdewinner: posts the ante 8
+Kevin12345Mc: posts small blind 25
+berdewinner: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 7s]
+XoleVAL: folds 
+xxxisbxxx: folds 
+Maagister77: folds 
+MrGrumpyX: raises 50 to 100
+Bilá: folds 
+BluffTrapper: raises 100 to 200
+Kevin12345Mc: folds 
+berdewinner: calls 150
+MrGrumpyX: calls 100
+*** FLOP *** [Th Jd Ts]
+berdewinner: checks 
+MrGrumpyX: checks 
+BluffTrapper: checks 
+*** TURN *** [Th Jd Ts] [Qc]
+berdewinner: bets 450
+MrGrumpyX: folds 
+BluffTrapper: calls 450
+*** RIVER *** [Th Jd Ts Qc] [Js]
+berdewinner: bets 900
+BluffTrapper: calls 900
+*** SHOW DOWN ***
+berdewinner: shows [9s Td] (a full house, Tens full of Jacks)
+BluffTrapper: mucks hand 
+berdewinner collected 3389 from pot
+*** SUMMARY ***
+Total pot 3389 | Rake 0 
+Board [Th Jd Ts Qc Js]
+Seat 1: XoleVAL folded before Flop (didn't bet)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: MrGrumpyX folded on the Turn
+Seat 5: Bilá folded before Flop (didn't bet)
+Seat 6: BluffTrapper (button) mucked [Ks Qh]
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: berdewinner (big blind) showed [9s Td] and won (3389) with a full house, Tens full of Jacks
+
+
+
+PokerStars Hand #254673979351: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/02 18:38:20 WET [2025/02/02 13:38:20 ET]
+Table '3852815755 105' 8-max Seat #7 is the button
+Seat 2: xxxisbxxx (4594 in chips, $2 bounty) 
+Seat 3: Maagister77 (4769 in chips, $2 bounty) 
+Seat 4: MrGrumpyX (3834 in chips, $2 bounty) 
+Seat 5: Bilá (4992 in chips, $2 bounty) 
+Seat 6: BluffTrapper (5780 in chips, $2 bounty) 
+Seat 7: Kevin12345Mc (4843 in chips, $2 bounty) 
+Seat 8: berdewinner (6301 in chips, $2 bounty) 
+xxxisbxxx: posts the ante 9
+Maagister77: posts the ante 9
+MrGrumpyX: posts the ante 9
+Bilá: posts the ante 9
+BluffTrapper: posts the ante 9
+Kevin12345Mc: posts the ante 9
+berdewinner: posts the ante 9
+berdewinner: posts small blind 30
+xxxisbxxx: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 3d]
+Maagister77: folds 
+MrGrumpyX: raises 60 to 120
+APL 03 is disconnected 
+Bilá: folds 
+BluffTrapper: raises 240 to 360
+Kevin12345Mc: folds 
+berdewinner: folds 
+xxxisbxxx: folds 
+MrGrumpyX: calls 240
+*** FLOP *** [2h Kh Ad]
+MrGrumpyX: checks 
+BluffTrapper: bets 317
+MrGrumpyX: calls 317
+*** TURN *** [2h Kh Ad] [8h]
+MrGrumpyX: checks 
+BluffTrapper: bets 1020
+MrGrumpyX: raises 2128 to 3148 and is all-in
+BluffTrapper: calls 2128
+*** RIVER *** [2h Kh Ad 8h] [Qs]
+*** SHOW DOWN ***
+MrGrumpyX: shows [Kd Js] (a pair of Kings)
+BluffTrapper: shows [Ks Ah] (two pair, Aces and Kings)
+BluffTrapper collected 7803 from pot
+BluffTrapper wins $1 for eliminating MrGrumpyX and their own bounty increases by $1 to $3
+MrGrumpyX finished the tournament
+*** SUMMARY ***
+Total pot 7803 | Rake 0 
+Board [2h Kh Ad 8h Qs]
+Seat 2: xxxisbxxx (big blind) folded before Flop
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: MrGrumpyX showed [Kd Js] and lost with a pair of Kings
+Seat 5: Bilá folded before Flop (didn't bet)
+Seat 6: BluffTrapper showed [Ks Ah] and won (7803) with two pair, Aces and Kings
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: berdewinner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254674000927: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/02 18:39:22 WET [2025/02/02 13:39:22 ET]
+Table '3852815755 105' 8-max Seat #8 is the button
+Seat 1: APL 03 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 2: xxxisbxxx (4525 in chips, $2 bounty) 
+Seat 3: Maagister77 (4760 in chips, $2 bounty) 
+Seat 5: Bilá (4983 in chips, $2 bounty) 
+Seat 6: BluffTrapper (9749 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (4834 in chips, $2 bounty) 
+Seat 8: berdewinner (6262 in chips, $2 bounty) 
+APL 03 will be allowed to play after the button
+xxxisbxxx: posts the ante 9
+Maagister77: posts the ante 9
+Bilá: posts the ante 9
+BluffTrapper: posts the ante 9
+Kevin12345Mc: posts the ante 9
+berdewinner: posts the ante 9
+xxxisbxxx: posts small blind 30
+Maagister77: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 3d]
+robertodk862 is disconnected 
+Bilá: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+berdewinner: folds 
+xxxisbxxx: calls 30
+Maagister77: checks 
+*** FLOP *** [2h 9s Qd]
+xxxisbxxx: bets 87
+Maagister77: calls 87
+*** TURN *** [2h 9s Qd] [Kh]
+xxxisbxxx: checks 
+Maagister77: checks 
+*** RIVER *** [2h 9s Qd Kh] [6h]
+xxxisbxxx: checks 
+Maagister77: checks 
+*** SHOW DOWN ***
+xxxisbxxx: shows [8c 5h] (high card King)
+Maagister77: shows [4c 2s] (a pair of Deuces)
+Maagister77 collected 348 from pot
+*** SUMMARY ***
+Total pot 348 | Rake 0 
+Board [2h 9s Qd Kh 6h]
+Seat 2: xxxisbxxx (small blind) showed [8c 5h] and lost with high card King
+Seat 3: Maagister77 (big blind) showed [4c 2s] and won (348) with a pair of Deuces
+Seat 5: Bilá folded before Flop (didn't bet)
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: berdewinner (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674016036: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/02 18:40:05 WET [2025/02/02 13:40:05 ET]
+Table '3852815755 105' 8-max Seat #2 is the button
+Seat 1: APL 03 (5000 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4369 in chips, $2 bounty) 
+Seat 3: Maagister77 (4952 in chips, $2 bounty) 
+Seat 4: robertodk862 (5000 in chips, $2 bounty) 
+Seat 5: Bilá (4974 in chips, $2 bounty) 
+Seat 6: BluffTrapper (9740 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (4825 in chips, $2 bounty) 
+Seat 8: berdewinner (6253 in chips, $2 bounty) 
+APL 03: posts the ante 9
+xxxisbxxx: posts the ante 9
+Maagister77: posts the ante 9
+robertodk862: posts the ante 9
+Bilá: posts the ante 9
+BluffTrapper: posts the ante 9
+Kevin12345Mc: posts the ante 9
+berdewinner: posts the ante 9
+Maagister77: posts small blind 30
+robertodk862: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 7d]
+Bilá: folds 
+BluffTrapper: raises 120 to 180
+Kevin12345Mc: calls 180
+berdewinner: folds 
+APL 03: folds 
+xxxisbxxx: folds 
+Maagister77: folds 
+robertodk862: calls 120
+*** FLOP *** [8h Tc 2d]
+robertodk862: checks 
+BluffTrapper: bets 240
+Kevin12345Mc: calls 240
+robertodk862: calls 240
+*** TURN *** [8h Tc 2d] [7h]
+robertodk862: checks 
+BluffTrapper: bets 1080
+Kevin12345Mc: calls 1080
+robertodk862: folds 
+*** RIVER *** [8h Tc 2d 7h] [Jc]
+BluffTrapper: bets 1761
+Kevin12345Mc: raises 1555 to 3316 and is all-in
+BluffTrapper: calls 1555
+*** SHOW DOWN ***
+Kevin12345Mc: shows [8d 7d] (two pair, Eights and Sevens)
+BluffTrapper: shows [Ad Ah] (a pair of Aces)
+Kevin12345Mc collected 10154 from pot
+*** SUMMARY ***
+Total pot 10154 | Rake 0 
+Board [8h Tc 2d 7h Jc]
+Seat 1: APL 03 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx (button) folded before Flop (didn't bet)
+Seat 3: Maagister77 (small blind) folded before Flop
+Seat 4: robertodk862 (big blind) folded on the Turn
+Seat 5: Bilá folded before Flop (didn't bet)
+Seat 6: BluffTrapper showed [Ad Ah] and lost with a pair of Aces
+Seat 7: Kevin12345Mc showed [8d 7d] and won (10154) with two pair, Eights and Sevens
+Seat 8: berdewinner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674061204: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/02 18:42:14 WET [2025/02/02 13:42:14 ET]
+Table '3852815755 105' 8-max Seat #3 is the button
+Seat 1: APL 03 (4991 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4360 in chips, $2 bounty) 
+Seat 3: Maagister77 (4913 in chips, $2 bounty) 
+Seat 4: robertodk862 (4571 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4915 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (10154 in chips, $2 bounty) 
+Seat 8: berdewinner (6244 in chips, $2 bounty) 
+APL 03: posts the ante 9
+xxxisbxxx: posts the ante 9
+Maagister77: posts the ante 9
+robertodk862: posts the ante 9
+BluffTrapper: posts the ante 9
+Kevin12345Mc: posts the ante 9
+berdewinner: posts the ante 9
+robertodk862: posts small blind 30
+BluffTrapper: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Qd]
+Kevin12345Mc: folds 
+berdewinner: folds 
+APL 03: folds 
+xxxisbxxx: calls 60
+Maagister77: folds 
+robertodk862: calls 30
+BluffTrapper: checks 
+*** FLOP *** [Js 4c 4d]
+robertodk862: checks 
+BluffTrapper: checks 
+xxxisbxxx: checks 
+*** TURN *** [Js 4c 4d] [Ah]
+robertodk862: checks 
+BluffTrapper: checks 
+xxxisbxxx: checks 
+*** RIVER *** [Js 4c 4d Ah] [7s]
+robertodk862: checks 
+BluffTrapper: checks 
+xxxisbxxx: checks 
+*** SHOW DOWN ***
+robertodk862: shows [Qh Ts] (a pair of Fours)
+BluffTrapper: shows [3s Qc] (a pair of Fours)
+xxxisbxxx: shows [Kh Qs] (a pair of Fours - Ace+King kicker)
+xxxisbxxx collected 243 from pot
+*** SUMMARY ***
+Total pot 243 | Rake 0 
+Board [Js 4c 4d Ah 7s]
+Seat 1: APL 03 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx showed [Kh Qs] and won (243) with a pair of Fours
+Seat 3: Maagister77 (button) folded before Flop (didn't bet)
+Seat 4: robertodk862 (small blind) showed [Qh Ts] and lost with a pair of Fours
+Seat 6: BluffTrapper (big blind) showed [3s Qc] and lost with a pair of Fours
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: berdewinner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674082398: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/02 18:43:14 WET [2025/02/02 13:43:14 ET]
+Table '3852815755 105' 8-max Seat #4 is the button
+Seat 1: APL 03 (4982 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4534 in chips, $2 bounty) 
+Seat 3: Maagister77 (4904 in chips, $2 bounty) 
+Seat 4: robertodk862 (4502 in chips, $2 bounty) 
+Seat 5: jum_gui (5000 in chips) out of hand (moved from another table into small blind)
+Seat 6: BluffTrapper (4846 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (10145 in chips, $2 bounty) 
+Seat 8: berdewinner (6235 in chips, $2 bounty) 
+jum_gui will be allowed to play after the button
+APL 03: posts the ante 9
+xxxisbxxx: posts the ante 9
+Maagister77: posts the ante 9
+robertodk862: posts the ante 9
+BluffTrapper: posts the ante 9
+Kevin12345Mc: posts the ante 9
+berdewinner: posts the ante 9
+BluffTrapper: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 2s]
+berdewinner: folds 
+APL 03: folds 
+xxxisbxxx: raises 60 to 120
+Maagister77: folds 
+robertodk862: folds 
+BluffTrapper: folds 
+Kevin12345Mc: calls 60
+*** FLOP *** [Ah 5h 5d]
+Kevin12345Mc: checks 
+xxxisbxxx: checks 
+*** TURN *** [Ah 5h 5d] [8d]
+Kevin12345Mc: checks 
+xxxisbxxx: checks 
+*** RIVER *** [Ah 5h 5d 8d] [6h]
+Kevin12345Mc: checks 
+xxxisbxxx: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [2h 2s] (two pair, Fives and Deuces)
+xxxisbxxx: mucks hand 
+Kevin12345Mc collected 333 from pot
+*** SUMMARY ***
+Total pot 333 | Rake 0 
+Board [Ah 5h 5d 8d 6h]
+Seat 1: APL 03 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx mucked [9s Kc]
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: robertodk862 (button) folded before Flop (didn't bet)
+Seat 6: BluffTrapper (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) showed [2h 2s] and won (333) with two pair, Fives and Deuces
+Seat 8: berdewinner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674092329: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/02 18:43:43 WET [2025/02/02 13:43:43 ET]
+Table '3852815755 105' 8-max Seat #6 is the button
+Seat 1: APL 03 (4973 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4405 in chips, $2 bounty) 
+Seat 3: Maagister77 (4895 in chips, $2 bounty) 
+Seat 4: robertodk862 (4493 in chips, $2 bounty) 
+Seat 5: jum_gui (5000 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4807 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (10349 in chips, $2 bounty) 
+Seat 8: berdewinner (6226 in chips, $2 bounty) 
+APL 03: posts the ante 9
+xxxisbxxx: posts the ante 9
+Maagister77: posts the ante 9
+robertodk862: posts the ante 9
+jum_gui: posts the ante 9
+BluffTrapper: posts the ante 9
+Kevin12345Mc: posts the ante 9
+berdewinner: posts the ante 9
+Kevin12345Mc: posts small blind 30
+berdewinner: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 6h]
+APL 03: folds 
+xxxisbxxx: raises 60 to 120
+Maagister77: raises 210 to 330
+robertodk862: folds 
+jum_gui: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+berdewinner: folds 
+xxxisbxxx: calls 210
+*** FLOP *** [8c 3h 2c]
+xxxisbxxx: checks 
+Maagister77: bets 312
+xxxisbxxx: folds 
+Uncalled bet (312) returned to Maagister77
+Maagister77 collected 822 from pot
+Maagister77: doesn't show hand 
+*** SUMMARY ***
+Total pot 822 | Rake 0 
+Board [8c 3h 2c]
+Seat 1: APL 03 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx folded on the Flop
+Seat 3: Maagister77 collected (822)
+Seat 4: robertodk862 folded before Flop (didn't bet)
+Seat 5: jum_gui folded before Flop (didn't bet)
+Seat 6: BluffTrapper (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: berdewinner (big blind) folded before Flop
+
+
+
+PokerStars Hand #254674105183: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/02 18:44:19 WET [2025/02/02 13:44:19 ET]
+Table '3852815755 105' 8-max Seat #7 is the button
+Seat 2: xxxisbxxx (4066 in chips, $2 bounty) 
+Seat 3: Maagister77 (5378 in chips, $2 bounty) 
+Seat 4: robertodk862 (4484 in chips, $2 bounty) 
+Seat 5: jum_gui (4991 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4798 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (10310 in chips, $2 bounty) 
+Seat 8: berdewinner (6157 in chips, $2 bounty) 
+xxxisbxxx: posts the ante 9
+Maagister77: posts the ante 9
+robertodk862: posts the ante 9
+jum_gui: posts the ante 9
+BluffTrapper: posts the ante 9
+Kevin12345Mc: posts the ante 9
+berdewinner: posts the ante 9
+berdewinner: posts small blind 30
+xxxisbxxx: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 6d]
+Maagister77: calls 60
+robertodk862: folds 
+jum_gui: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+berdewinner: raises 60 to 120
+xxxisbxxx: calls 60
+Maagister77: calls 60
+*** FLOP *** [2h Jd 7c]
+berdewinner: checks 
+xxxisbxxx: checks 
+Maagister77: checks 
+*** TURN *** [2h Jd 7c] [Kc]
+berdewinner: checks 
+xxxisbxxx: checks 
+Maagister77: checks 
+*** RIVER *** [2h Jd 7c Kc] [4d]
+berdewinner: checks 
+xxxisbxxx: checks 
+Maagister77: checks 
+*** SHOW DOWN ***
+berdewinner: shows [Qh 9h] (high card King)
+xxxisbxxx: mucks hand 
+Maagister77: mucks hand 
+berdewinner collected 423 from pot
+*** SUMMARY ***
+Total pot 423 | Rake 0 
+Board [2h Jd 7c Kc 4d]
+Seat 2: xxxisbxxx (big blind) mucked [5d 8s]
+Seat 3: Maagister77 mucked [Tc 9c]
+Seat 4: robertodk862 folded before Flop (didn't bet)
+Seat 5: jum_gui folded before Flop (didn't bet)
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: berdewinner (small blind) showed [Qh 9h] and won (423) with high card King
+
+
+
+PokerStars Hand #254674121331: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/02 18:45:06 WET [2025/02/02 13:45:06 ET]
+Table '3852815755 105' 8-max Seat #8 is the button
+Seat 1: Orozco117 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 2: xxxisbxxx (3937 in chips, $2 bounty) 
+Seat 3: Maagister77 (5249 in chips, $2 bounty) 
+Seat 4: robertodk862 (4475 in chips, $2 bounty) 
+Seat 5: jum_gui (4982 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4789 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (10301 in chips, $2 bounty) 
+Seat 8: berdewinner (6451 in chips, $2 bounty) 
+Orozco117 will be allowed to play after the button
+xxxisbxxx: posts the ante 9
+Maagister77: posts the ante 9
+robertodk862: posts the ante 9
+jum_gui: posts the ante 9
+BluffTrapper: posts the ante 9
+Kevin12345Mc: posts the ante 9
+berdewinner: posts the ante 9
+xxxisbxxx: posts small blind 30
+Maagister77: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Jc]
+robertodk862: folds 
+jum_gui: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+berdewinner: folds 
+xxxisbxxx: calls 30
+Maagister77: checks 
+*** FLOP *** [6d 2h 5h]
+xxxisbxxx: bets 183
+Maagister77: folds 
+Uncalled bet (183) returned to xxxisbxxx
+xxxisbxxx collected 183 from pot
+xxxisbxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 183 | Rake 0 
+Board [6d 2h 5h]
+Seat 2: xxxisbxxx (small blind) collected (183)
+Seat 3: Maagister77 (big blind) folded on the Flop
+Seat 4: robertodk862 folded before Flop (didn't bet)
+Seat 5: jum_gui folded before Flop (didn't bet)
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: berdewinner (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674130338: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/02 18:45:31 WET [2025/02/02 13:45:31 ET]
+Table '3852815755 105' 8-max Seat #2 is the button
+Seat 1: Orozco117 (5000 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4051 in chips, $2 bounty) 
+Seat 3: Maagister77 (5180 in chips, $2 bounty) 
+Seat 4: robertodk862 (4466 in chips, $2 bounty) 
+Seat 5: jum_gui (4973 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4780 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (10292 in chips, $2 bounty) 
+Seat 8: berdewinner (6442 in chips, $2 bounty) 
+Orozco117: posts the ante 9
+xxxisbxxx: posts the ante 9
+Maagister77: posts the ante 9
+robertodk862: posts the ante 9
+jum_gui: posts the ante 9
+BluffTrapper: posts the ante 9
+Kevin12345Mc: posts the ante 9
+berdewinner: posts the ante 9
+Maagister77: posts small blind 30
+robertodk862: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 7d]
+jum_gui: folds 
+BluffTrapper: raises 60 to 120
+Kevin12345Mc: calls 120
+berdewinner: folds 
+Orozco117: calls 120
+xxxisbxxx: folds 
+Maagister77: folds 
+robertodk862: calls 60
+*** FLOP *** [4d Qd Tc]
+robertodk862: checks 
+BluffTrapper: checks 
+Kevin12345Mc: checks 
+Orozco117: checks 
+*** TURN *** [4d Qd Tc] [6c]
+robertodk862: checks 
+BluffTrapper: bets 240
+Kevin12345Mc: calls 240
+Orozco117: folds 
+robertodk862: folds 
+*** RIVER *** [4d Qd Tc 6c] [Jh]
+BluffTrapper: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+BluffTrapper: shows [9c 7c] (high card Queen)
+Kevin12345Mc: shows [6d 7d] (a pair of Sixes)
+Kevin12345Mc collected 1062 from pot
+*** SUMMARY ***
+Total pot 1062 | Rake 0 
+Board [4d Qd Tc 6c Jh]
+Seat 1: Orozco117 folded on the Turn
+Seat 2: xxxisbxxx (button) folded before Flop (didn't bet)
+Seat 3: Maagister77 (small blind) folded before Flop
+Seat 4: robertodk862 (big blind) folded on the Turn
+Seat 5: jum_gui folded before Flop (didn't bet)
+Seat 6: BluffTrapper showed [9c 7c] and lost with high card Queen
+Seat 7: Kevin12345Mc showed [6d 7d] and won (1062) with a pair of Sixes
+Seat 8: berdewinner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674154152: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/02 18:46:39 WET [2025/02/02 13:46:39 ET]
+Table '3852815755 105' 8-max Seat #3 is the button
+Seat 1: Orozco117 (4871 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4042 in chips, $2 bounty) 
+Seat 3: Maagister77 (5141 in chips, $2 bounty) 
+Seat 4: robertodk862 (4337 in chips, $2 bounty) 
+Seat 5: jum_gui (4964 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4411 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (10985 in chips, $2 bounty) 
+Seat 8: berdewinner (6433 in chips, $2 bounty) 
+Orozco117: posts the ante 11
+xxxisbxxx: posts the ante 11
+Maagister77: posts the ante 11
+robertodk862: posts the ante 11
+jum_gui: posts the ante 11
+BluffTrapper: posts the ante 11
+Kevin12345Mc: posts the ante 11
+berdewinner: posts the ante 11
+robertodk862: posts small blind 35
+jum_gui: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Jh]
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+berdewinner: folds 
+Orozco117: raises 140 to 210
+xxxisbxxx: folds 
+Maagister77: folds 
+robertodk862: folds 
+jum_gui: raises 315 to 525
+Orozco117: raises 1173 to 1698
+jum_gui: raises 3255 to 4953 and is all-in
+Orozco117: calls 3162 and is all-in
+Uncalled bet (93) returned to jum_gui
+*** FLOP *** [8c 9s Th]
+*** TURN *** [8c 9s Th] [7d]
+*** RIVER *** [8c 9s Th 7d] [9d]
+*** SHOW DOWN ***
+jum_gui: shows [As Ks] (a pair of Nines)
+Orozco117: shows [Qs Qc] (two pair, Queens and Nines)
+Orozco117 collected 9843 from pot
+*** SUMMARY ***
+Total pot 9843 | Rake 0 
+Board [8c 9s Th 7d 9d]
+Seat 1: Orozco117 showed [Qs Qc] and won (9843) with two pair, Queens and Nines
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 (button) folded before Flop (didn't bet)
+Seat 4: robertodk862 (small blind) folded before Flop
+Seat 5: jum_gui (big blind) showed [As Ks] and lost with a pair of Nines
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: berdewinner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674172709: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/02 18:47:33 WET [2025/02/02 13:47:33 ET]
+Table '3852815755 105' 8-max Seat #4 is the button
+Seat 1: Orozco117 (9843 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4031 in chips, $2 bounty) 
+Seat 3: Maagister77 (5130 in chips, $2 bounty) 
+Seat 4: robertodk862 (4291 in chips, $2 bounty) 
+Seat 5: jum_gui (93 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4400 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (10974 in chips, $2 bounty) 
+Seat 8: berdewinner (6422 in chips, $2 bounty) 
+Orozco117: posts the ante 11
+xxxisbxxx: posts the ante 11
+Maagister77: posts the ante 11
+robertodk862: posts the ante 11
+jum_gui: posts the ante 11
+BluffTrapper: posts the ante 11
+Kevin12345Mc: posts the ante 11
+berdewinner: posts the ante 11
+jum_gui: posts small blind 35
+BluffTrapper: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 3d]
+Kevin12345Mc: folds 
+berdewinner: raises 140 to 210
+Orozco117: calls 210
+xxxisbxxx: calls 210
+Maagister77: folds 
+robertodk862: folds 
+jum_gui: folds 
+BluffTrapper: folds 
+*** FLOP *** [Qs 9c Tc]
+berdewinner: checks 
+Orozco117: checks 
+xxxisbxxx: bets 412
+berdewinner: folds 
+Orozco117: folds 
+Uncalled bet (412) returned to xxxisbxxx
+xxxisbxxx collected 823 from pot
+xxxisbxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 823 | Rake 0 
+Board [Qs 9c Tc]
+Seat 1: Orozco117 folded on the Flop
+Seat 2: xxxisbxxx collected (823)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: robertodk862 (button) folded before Flop (didn't bet)
+Seat 5: jum_gui (small blind) folded before Flop
+Seat 6: BluffTrapper (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: berdewinner folded on the Flop
+
+
+
+PokerStars Hand #254674192401: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/02 18:48:29 WET [2025/02/02 13:48:29 ET]
+Table '3852815755 105' 8-max Seat #5 is the button
+Seat 1: Orozco117 (9622 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4633 in chips, $2 bounty) 
+Seat 3: Maagister77 (5119 in chips, $2 bounty) 
+Seat 4: robertodk862 (4280 in chips, $2 bounty) 
+Seat 5: jum_gui (47 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4319 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (10963 in chips, $2 bounty) 
+Seat 8: berdewinner (6201 in chips, $2 bounty) 
+Orozco117: posts the ante 11
+xxxisbxxx: posts the ante 11
+Maagister77: posts the ante 11
+robertodk862: posts the ante 11
+jum_gui: posts the ante 11
+BluffTrapper: posts the ante 11
+Kevin12345Mc: posts the ante 11
+berdewinner: posts the ante 11
+BluffTrapper: posts small blind 35
+Kevin12345Mc: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 4d]
+berdewinner: raises 70 to 140
+Orozco117: calls 140
+xxxisbxxx: calls 140
+Maagister77: calls 140
+robertodk862: folds 
+jum_gui: calls 36 and is all-in
+BluffTrapper: folds 
+Kevin12345Mc: calls 70
+*** FLOP *** [9d 8h 3d]
+Kevin12345Mc: checks 
+berdewinner: bets 859
+Orozco117: calls 859
+xxxisbxxx: folds 
+Maagister77: calls 859
+Kevin12345Mc: calls 859
+*** TURN *** [9d 8h 3d] [8c]
+Kevin12345Mc: checks 
+berdewinner: checks 
+Orozco117: checks 
+Maagister77: checks 
+*** RIVER *** [9d 8h 3d 8c] [2c]
+Kevin12345Mc: checks 
+berdewinner: checks 
+Orozco117: checks 
+Maagister77: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [7d 4d] (a pair of Eights)
+berdewinner: shows [2d Qd] (two pair, Eights and Deuces)
+Orozco117: mucks hand 
+Maagister77: shows [Ac 9c] (two pair, Nines and Eights)
+Maagister77 collected 3956 from side pot
+jum_gui: mucks hand 
+Maagister77 collected 339 from main pot
+Maagister77 wins $1 for eliminating jum_gui and their own bounty increases by $1 to $3
+jum_gui finished the tournament
+*** SUMMARY ***
+Total pot 4295 Main pot 339. Side pot 3956. | Rake 0 
+Board [9d 8h 3d 8c 2c]
+Seat 1: Orozco117 mucked [Jd Th]
+Seat 2: xxxisbxxx folded on the Flop
+Seat 3: Maagister77 showed [Ac 9c] and won (4295) with two pair, Nines and Eights
+Seat 4: robertodk862 folded before Flop (didn't bet)
+Seat 5: jum_gui (button) mucked [6h 4s]
+Seat 6: BluffTrapper (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) showed [7d 4d] and lost with a pair of Eights
+Seat 8: berdewinner showed [2d Qd] and lost with two pair, Eights and Deuces
+
+
+
+PokerStars Hand #254674215795: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/02 18:49:36 WET [2025/02/02 13:49:36 ET]
+Table '3852815755 105' 8-max Seat #6 is the button
+Seat 1: Orozco117 (8612 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4482 in chips, $2 bounty) 
+Seat 3: Maagister77 (8404 in chips, $3 bounty) 
+Seat 4: robertodk862 (4269 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4273 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (9953 in chips, $2 bounty) 
+Seat 8: berdewinner (5191 in chips, $2 bounty) 
+Orozco117: posts the ante 11
+xxxisbxxx: posts the ante 11
+Maagister77: posts the ante 11
+robertodk862: posts the ante 11
+BluffTrapper: posts the ante 11
+Kevin12345Mc: posts the ante 11
+berdewinner: posts the ante 11
+Kevin12345Mc: posts small blind 35
+berdewinner: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s Ah]
+Orozco117: raises 70 to 140
+xxxisbxxx: folds 
+Maagister77: folds 
+robertodk862: folds 
+BluffTrapper: calls 140
+Kevin12345Mc: folds 
+berdewinner: folds 
+*** FLOP *** [4d Th As]
+Orozco117: bets 231
+BluffTrapper: calls 231
+*** TURN *** [4d Th As] [Qd]
+Orozco117: bets 462
+BluffTrapper: calls 462
+*** RIVER *** [4d Th As Qd] [3c]
+Orozco117: bets 700
+BluffTrapper: folds 
+Uncalled bet (700) returned to Orozco117
+Orozco117 collected 1848 from pot
+Orozco117: doesn't show hand 
+*** SUMMARY ***
+Total pot 1848 | Rake 0 
+Board [4d Th As Qd 3c]
+Seat 1: Orozco117 collected (1848)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: robertodk862 folded before Flop (didn't bet)
+Seat 6: BluffTrapper (button) folded on the River
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: berdewinner (big blind) folded before Flop
+
+
+
+PokerStars Hand #254674242894: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/02 18:50:54 WET [2025/02/02 13:50:54 ET]
+Table '3852815755 105' 8-max Seat #7 is the button
+Seat 1: Orozco117 (9616 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (4471 in chips, $2 bounty) 
+Seat 3: Maagister77 (8393 in chips, $3 bounty) 
+Seat 4: robertodk862 (4258 in chips, $2 bounty) 
+Seat 5: elisa03011978 (5000 in chips, $2 bounty) 
+Seat 6: BluffTrapper (3429 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (9907 in chips, $2 bounty) 
+Seat 8: berdewinner (5110 in chips, $2 bounty) 
+Orozco117: posts the ante 11
+xxxisbxxx: posts the ante 11
+Maagister77: posts the ante 11
+robertodk862: posts the ante 11
+elisa03011978: posts the ante 11
+BluffTrapper: posts the ante 11
+Kevin12345Mc: posts the ante 11
+berdewinner: posts the ante 11
+berdewinner: posts small blind 35
+Orozco117: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Js]
+xxxisbxxx: raises 70 to 140
+Maagister77: folds 
+robertodk862: folds 
+elisa03011978: raises 280 to 420
+BluffTrapper: calls 420
+Kevin12345Mc: folds 
+berdewinner: folds 
+Orozco117: folds 
+xxxisbxxx: calls 280
+*** FLOP *** [4d 8c Jh]
+xxxisbxxx: checks 
+elisa03011978: checks 
+BluffTrapper: bets 420
+xxxisbxxx: calls 420
+elisa03011978: folds 
+*** TURN *** [4d 8c Jh] [6c]
+xxxisbxxx: checks 
+BluffTrapper: bets 1147
+xxxisbxxx: folds 
+Uncalled bet (1147) returned to BluffTrapper
+BluffTrapper collected 2293 from pot
+BluffTrapper: doesn't show hand 
+*** SUMMARY ***
+Total pot 2293 | Rake 0 
+Board [4d 8c Jh 6c]
+Seat 1: Orozco117 (big blind) folded before Flop
+Seat 2: xxxisbxxx folded on the Turn
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: robertodk862 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded on the Flop
+Seat 6: BluffTrapper collected (2293)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: berdewinner (small blind) folded before Flop
+
+
+
+PokerStars Hand #254674265325: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/02 18:51:59 WET [2025/02/02 13:51:59 ET]
+Table '3852815755 105' 8-max Seat #8 is the button
+Seat 1: Orozco117 (9535 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (3620 in chips, $2 bounty) 
+Seat 3: Maagister77 (8382 in chips, $3 bounty) 
+Seat 4: robertodk862 (4247 in chips, $2 bounty) 
+Seat 5: elisa03011978 (4569 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4871 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (9896 in chips, $2 bounty) 
+Seat 8: berdewinner (5064 in chips, $2 bounty) 
+Orozco117: posts the ante 11
+xxxisbxxx: posts the ante 11
+Maagister77: posts the ante 11
+robertodk862: posts the ante 11
+elisa03011978: posts the ante 11
+BluffTrapper: posts the ante 11
+Kevin12345Mc: posts the ante 11
+berdewinner: posts the ante 11
+Orozco117: posts small blind 35
+xxxisbxxx: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Qd]
+Maagister77: folds 
+robertodk862: folds 
+elisa03011978: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+berdewinner: folds 
+Orozco117: raises 70 to 140
+xxxisbxxx: calls 70
+*** FLOP *** [Jc 9d 6s]
+Orozco117: bets 368
+xxxisbxxx: folds 
+Uncalled bet (368) returned to Orozco117
+Orozco117 collected 368 from pot
+Orozco117: doesn't show hand 
+*** SUMMARY ***
+Total pot 368 | Rake 0 
+Board [Jc 9d 6s]
+Seat 1: Orozco117 (small blind) collected (368)
+Seat 2: xxxisbxxx (big blind) folded on the Flop
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: robertodk862 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: berdewinner (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674277134: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/02 18:52:33 WET [2025/02/02 13:52:33 ET]
+Table '3852815755 105' 8-max Seat #1 is the button
+Seat 1: Orozco117 (9752 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (3469 in chips, $2 bounty) 
+Seat 3: Maagister77 (8371 in chips, $3 bounty) 
+Seat 4: robertodk862 (4236 in chips, $2 bounty) 
+Seat 5: elisa03011978 (4558 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4860 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (9885 in chips, $2 bounty) 
+Seat 8: berdewinner (5053 in chips, $2 bounty) 
+Orozco117: posts the ante 11
+xxxisbxxx: posts the ante 11
+Maagister77: posts the ante 11
+robertodk862: posts the ante 11
+elisa03011978: posts the ante 11
+BluffTrapper: posts the ante 11
+Kevin12345Mc: posts the ante 11
+berdewinner: posts the ante 11
+xxxisbxxx: posts small blind 35
+Maagister77: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d As]
+robertodk862: folds 
+elisa03011978: folds 
+BluffTrapper: folds 
+Kevin12345Mc: raises 91 to 161
+berdewinner: folds 
+Orozco117: folds 
+xxxisbxxx: folds 
+Maagister77: calls 91
+*** FLOP *** [6h 7h Qh]
+Maagister77: checks 
+Kevin12345Mc: bets 147
+Maagister77: raises 238 to 385
+Kevin12345Mc: folds 
+Uncalled bet (238) returned to Maagister77
+Maagister77 collected 739 from pot
+Maagister77: doesn't show hand 
+*** SUMMARY ***
+Total pot 739 | Rake 0 
+Board [6h 7h Qh]
+Seat 1: Orozco117 (button) folded before Flop (didn't bet)
+Seat 2: xxxisbxxx (small blind) folded before Flop
+Seat 3: Maagister77 (big blind) collected (739)
+Seat 4: robertodk862 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded on the Flop
+Seat 8: berdewinner folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674295764: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/02 18:53:28 WET [2025/02/02 13:53:28 ET]
+Table '3852815755 105' 8-max Seat #2 is the button
+Seat 1: Orozco117 (9741 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (3423 in chips, $2 bounty) 
+Seat 3: Maagister77 (8791 in chips, $3 bounty) 
+Seat 4: robertodk862 (4225 in chips, $2 bounty) 
+Seat 5: elisa03011978 (4547 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4849 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (9566 in chips, $2 bounty) 
+Seat 8: berdewinner (5042 in chips, $2 bounty) 
+Orozco117: posts the ante 11
+xxxisbxxx: posts the ante 11
+Maagister77: posts the ante 11
+robertodk862: posts the ante 11
+elisa03011978: posts the ante 11
+BluffTrapper: posts the ante 11
+Kevin12345Mc: posts the ante 11
+berdewinner: posts the ante 11
+Maagister77: posts small blind 35
+robertodk862: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 2c]
+elisa03011978: raises 140 to 210
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+berdewinner: raises 613 to 823
+Orozco117: folds 
+xxxisbxxx: folds 
+Maagister77: folds 
+robertodk862: folds 
+elisa03011978: calls 613
+*** FLOP *** [2h Ks 3c]
+elisa03011978: checks 
+berdewinner: bets 630
+elisa03011978: raises 700 to 1330
+berdewinner: raises 2878 to 4208 and is all-in
+elisa03011978: calls 2383 and is all-in
+Uncalled bet (495) returned to berdewinner
+*** TURN *** [2h Ks 3c] [2d]
+*** RIVER *** [2h Ks 3c 2d] [3h]
+*** SHOW DOWN ***
+elisa03011978: shows [Kd Jd] (two pair, Kings and Threes)
+berdewinner: shows [Jc Js] (two pair, Jacks and Threes)
+elisa03011978 collected 9265 from pot
+*** SUMMARY ***
+Total pot 9265 | Rake 0 
+Board [2h Ks 3c 2d 3h]
+Seat 1: Orozco117 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx (button) folded before Flop (didn't bet)
+Seat 3: Maagister77 (small blind) folded before Flop
+Seat 4: robertodk862 (big blind) folded before Flop
+Seat 5: elisa03011978 showed [Kd Jd] and won (9265) with two pair, Kings and Threes
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: berdewinner showed [Jc Js] and lost with two pair, Jacks and Threes
+
+
+
+PokerStars Hand #254674316289: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/02 18:54:28 WET [2025/02/02 13:54:28 ET]
+Table '3852815755 105' 8-max Seat #3 is the button
+Seat 1: Orozco117 (9730 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (3412 in chips, $2 bounty) 
+Seat 3: Maagister77 (8745 in chips, $3 bounty) 
+Seat 4: robertodk862 (4144 in chips, $2 bounty) 
+Seat 5: elisa03011978 (9265 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4838 in chips, $3 bounty) 
+Seat 7: Kevin12345Mc (9555 in chips, $2 bounty) 
+Seat 8: berdewinner (495 in chips, $2 bounty) 
+Orozco117: posts the ante 12
+xxxisbxxx: posts the ante 12
+Maagister77: posts the ante 12
+robertodk862: posts the ante 12
+elisa03011978: posts the ante 12
+BluffTrapper: posts the ante 12
+Kevin12345Mc: posts the ante 12
+berdewinner: posts the ante 12
+robertodk862: posts small blind 40
+elisa03011978: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 7s]
+BluffTrapper: raises 160 to 240
+Kevin12345Mc: folds 
+berdewinner: raises 243 to 483 and is all-in
+Orozco117: calls 483
+xxxisbxxx: folds 
+Maagister77: folds 
+robertodk862: folds 
+elisa03011978: folds 
+BluffTrapper: calls 243
+*** FLOP *** [5h 2h 7h]
+BluffTrapper: bets 400
+Orozco117: calls 400
+*** TURN *** [5h 2h 7h] [5c]
+BluffTrapper: bets 1233
+Orozco117: calls 1233
+*** RIVER *** [5h 2h 7h 5c] [Ad]
+BluffTrapper: checks 
+Orozco117: checks 
+*** SHOW DOWN ***
+BluffTrapper: shows [Jd Jc] (two pair, Jacks and Fives)
+Orozco117: mucks hand 
+BluffTrapper collected 3266 from side pot
+berdewinner: mucks hand 
+BluffTrapper collected 1665 from main pot
+BluffTrapper wins $1 for eliminating berdewinner and their own bounty increases by $1 to $4
+berdewinner finished the tournament
+*** SUMMARY ***
+Total pot 4931 Main pot 1665. Side pot 3266. | Rake 0 
+Board [5h 2h 7h 5c Ad]
+Seat 1: Orozco117 mucked [Kc 7c]
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 (button) folded before Flop (didn't bet)
+Seat 4: robertodk862 (small blind) folded before Flop
+Seat 5: elisa03011978 (big blind) folded before Flop
+Seat 6: BluffTrapper showed [Jd Jc] and won (4931) with two pair, Jacks and Fives
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: berdewinner mucked [6c Jh]
+
+
+
+PokerStars Hand #254674433271: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/02 19:02:34 WET [2025/02/02 14:02:34 ET]
+Table '3852815755 105' 8-max Seat #5 is the button
+Seat 1: fether1993 (5000 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (3400 in chips, $2 bounty) 
+Seat 3: Maagister77 (8733 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (5000 in chips, $2 bounty) 
+Seat 5: elisa03011978 (9173 in chips, $2 bounty) 
+Seat 6: BluffTrapper (7641 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (9543 in chips, $2 bounty) 
+Seat 8: Deas010 (5000 in chips, $2 bounty) 
+fether1993: posts the ante 12
+xxxisbxxx: posts the ante 12
+Maagister77: posts the ante 12
+Adrianinho1: posts the ante 12
+elisa03011978: posts the ante 12
+BluffTrapper: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Deas010: posts the ante 12
+BluffTrapper: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s Th]
+Deas010: folds 
+fether1993: calls 80
+xxxisbxxx: raises 80 to 160
+Maagister77: folds 
+Adrianinho1: folds 
+elisa03011978: folds 
+BluffTrapper: folds 
+Kevin12345Mc has timed out
+Kevin12345Mc: folds 
+Kevin12345Mc is sitting out
+fether1993: calls 80
+*** FLOP *** [6h Td 5c]
+fether1993: checks 
+xxxisbxxx: checks 
+*** TURN *** [6h Td 5c] [6c]
+fether1993: checks 
+xxxisbxxx: checks 
+*** RIVER *** [6h Td 5c 6c] [Ks]
+fether1993: bets 268
+xxxisbxxx: folds 
+Uncalled bet (268) returned to fether1993
+fether1993 collected 536 from pot
+*** SUMMARY ***
+Total pot 536 | Rake 0 
+Board [6h Td 5c 6c Ks]
+Seat 1: fether1993 collected (536)
+Seat 2: xxxisbxxx folded on the River
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 (button) folded before Flop (didn't bet)
+Seat 6: BluffTrapper (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: Deas010 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674459696: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/02 19:03:49 WET [2025/02/02 14:03:49 ET]
+Table '3852815755 105' 8-max Seat #6 is the button
+Seat 1: fether1993 (5364 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (3228 in chips, $2 bounty) 
+Seat 3: Maagister77 (8721 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (4988 in chips, $2 bounty) 
+Seat 5: elisa03011978 (9161 in chips, $2 bounty) 
+Seat 6: BluffTrapper (7589 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (9451 in chips, $2 bounty) is sitting out
+Seat 8: Deas010 (4988 in chips, $2 bounty) 
+fether1993: posts the ante 12
+xxxisbxxx: posts the ante 12
+Maagister77: posts the ante 12
+Adrianinho1: posts the ante 12
+elisa03011978: posts the ante 12
+BluffTrapper: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Deas010: posts the ante 12
+Kevin12345Mc: posts small blind 40
+Deas010: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 7d]
+fether1993: folds 
+xxxisbxxx: folds 
+Kevin12345Mc has returned
+Maagister77: raises 120 to 200
+Adrianinho1: folds 
+elisa03011978: folds 
+BluffTrapper: calls 200
+Kevin12345Mc: folds 
+Deas010: calls 120
+*** FLOP *** [Td 5s 9c]
+Deas010: checks 
+Maagister77: bets 336
+BluffTrapper: calls 336
+Deas010: folds 
+*** TURN *** [Td 5s 9c] [Jh]
+Maagister77: bets 1056
+BluffTrapper: raises 1056 to 2112
+Maagister77: calls 1056
+*** RIVER *** [Td 5s 9c Jh] [5d]
+Maagister77: bets 2464
+BluffTrapper: calls 2464
+*** SHOW DOWN ***
+Maagister77: shows [9s 9d] (a full house, Nines full of Fives)
+BluffTrapper: mucks hand 
+Maagister77 collected 10560 from pot
+*** SUMMARY ***
+Total pot 10560 | Rake 0 
+Board [Td 5s 9c Jh 5d]
+Seat 1: fether1993 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 showed [9s 9d] and won (10560) with a full house, Nines full of Fives
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper (button) mucked [Qc Kc]
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Deas010 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254674484590: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/02 19:05:00 WET [2025/02/02 14:05:00 ET]
+Table '3852815755 105' 8-max Seat #7 is the button
+Seat 1: fether1993 (5352 in chips, $2 bounty) 
+Seat 2: xxxisbxxx (3216 in chips, $2 bounty) 
+Seat 3: Maagister77 (14157 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (4976 in chips, $2 bounty) 
+Seat 5: elisa03011978 (9149 in chips, $2 bounty) 
+Seat 6: BluffTrapper (2465 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (9399 in chips, $2 bounty) 
+Seat 8: Deas010 (4776 in chips, $2 bounty) 
+fether1993: posts the ante 12
+xxxisbxxx: posts the ante 12
+Maagister77: posts the ante 12
+Adrianinho1: posts the ante 12
+elisa03011978: posts the ante 12
+BluffTrapper: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Deas010: posts the ante 12
+Deas010: posts small blind 40
+fether1993: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 2c]
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: folds 
+elisa03011978: folds 
+BluffTrapper: raises 80 to 160
+Kevin12345Mc: calls 160
+Deas010: raises 560 to 720
+fether1993: calls 640
+BluffTrapper: calls 560
+Kevin12345Mc: folds 
+*** FLOP *** [4d Jh 5d]
+Deas010: bets 532
+fether1993: calls 532
+BluffTrapper: raises 1201 to 1733 and is all-in
+Deas010: raises 2311 to 4044 and is all-in
+fether1993: calls 3512
+*** TURN *** [4d Jh 5d] [7c]
+*** RIVER *** [4d Jh 5d 7c] [8c]
+*** SHOW DOWN ***
+Deas010: shows [Ah Kd] (high card Ace)
+fether1993: shows [Ad 4s] (a pair of Fours)
+fether1993 collected 4622 from side pot
+BluffTrapper: shows [Js Ts] (a pair of Jacks)
+BluffTrapper collected 7615 from main pot
+fether1993 wins $1 for eliminating Deas010 and their own bounty increases by $1 to $3
+Deas010 finished the tournament
+*** SUMMARY ***
+Total pot 12237 Main pot 7615. Side pot 4622. | Rake 0 
+Board [4d Jh 5d 7c 8c]
+Seat 1: fether1993 (big blind) showed [Ad 4s] and won (4622) with a pair of Fours
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper showed [Js Ts] and won (7615) with a pair of Jacks
+Seat 7: Kevin12345Mc (button) folded before Flop
+Seat 8: Deas010 (small blind) showed [Ah Kd] and lost with high card Ace
+
+
+
+PokerStars Hand #254674505841: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/02 19:06:01 WET [2025/02/02 14:06:01 ET]
+Table '3852815755 105' 8-max Seat #1 is the button
+Seat 1: fether1993 (5198 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (3204 in chips, $2 bounty) 
+Seat 3: Maagister77 (14145 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (4964 in chips, $2 bounty) 
+Seat 5: elisa03011978 (9137 in chips, $2 bounty) 
+Seat 6: BluffTrapper (7615 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (9227 in chips, $2 bounty) 
+fether1993: posts the ante 12
+xxxisbxxx: posts the ante 12
+Maagister77: posts the ante 12
+Adrianinho1: posts the ante 12
+elisa03011978: posts the ante 12
+BluffTrapper: posts the ante 12
+Kevin12345Mc: posts the ante 12
+xxxisbxxx: posts small blind 40
+Maagister77: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 7d]
+Adrianinho1: folds 
+M4rKãO is disconnected 
+elisa03011978: raises 80 to 160
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+fether1993: raises 524 to 684
+xxxisbxxx: folds 
+Maagister77: folds 
+elisa03011978: folds 
+Uncalled bet (524) returned to fether1993
+fether1993 collected 524 from pot
+*** SUMMARY ***
+Total pot 524 | Rake 0 
+Seat 1: fether1993 (button) collected (524)
+Seat 2: xxxisbxxx (small blind) folded before Flop
+Seat 3: Maagister77 (big blind) folded before Flop
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded before Flop
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674519080: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/02 19:06:37 WET [2025/02/02 14:06:37 ET]
+Table '3852815755 105' 8-max Seat #2 is the button
+Seat 1: fether1993 (5550 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (3152 in chips, $2 bounty) 
+Seat 3: Maagister77 (14053 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (4952 in chips, $2 bounty) 
+Seat 5: elisa03011978 (8965 in chips, $2 bounty) 
+Seat 6: BluffTrapper (7603 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (9215 in chips, $2 bounty) 
+Seat 8: M4rKãO (5000 in chips, $2 bounty) 
+fether1993: posts the ante 12
+xxxisbxxx: posts the ante 12
+Maagister77: posts the ante 12
+Adrianinho1: posts the ante 12
+elisa03011978: posts the ante 12
+BluffTrapper: posts the ante 12
+Kevin12345Mc: posts the ante 12
+M4rKãO: posts the ante 12
+Maagister77: posts small blind 40
+Adrianinho1: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 8c]
+elisa03011978: folds 
+BluffTrapper: raises 160 to 240
+Kevin12345Mc: folds 
+M4rKãO: folds 
+fether1993: folds 
+xxxisbxxx: folds 
+Maagister77: calls 200
+Adrianinho1: calls 160
+*** FLOP *** [As 3s 9h]
+Maagister77: checks 
+Adrianinho1: checks 
+BluffTrapper: checks 
+*** TURN *** [As 3s 9h] [3c]
+Maagister77: checks 
+Adrianinho1: checks 
+BluffTrapper: checks 
+*** RIVER *** [As 3s 9h 3c] [Td]
+Maagister77: checks 
+Adrianinho1: checks 
+BluffTrapper: checks 
+*** SHOW DOWN ***
+Maagister77: shows [5d 5s] (two pair, Fives and Threes)
+Adrianinho1: mucks hand 
+BluffTrapper: mucks hand 
+Maagister77 collected 816 from pot
+*** SUMMARY ***
+Total pot 816 | Rake 0 
+Board [As 3s 9h 3c Td]
+Seat 1: fether1993 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx (button) folded before Flop (didn't bet)
+Seat 3: Maagister77 (small blind) showed [5d 5s] and won (816) with two pair, Fives and Threes
+Seat 4: Adrianinho1 (big blind) mucked [Qc 6c]
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper mucked [Qd Js]
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674538556: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/02 19:07:31 WET [2025/02/02 14:07:31 ET]
+Table '3852815755 105' 8-max Seat #3 is the button
+Seat 1: fether1993 (5538 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (3140 in chips, $2 bounty) 
+Seat 3: Maagister77 (14617 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (4700 in chips, $2 bounty) 
+Seat 5: elisa03011978 (8953 in chips, $2 bounty) 
+Seat 6: BluffTrapper (7351 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (9203 in chips, $2 bounty) 
+Seat 8: M4rKãO (4988 in chips, $2 bounty) 
+fether1993: posts the ante 12
+xxxisbxxx: posts the ante 12
+Maagister77: posts the ante 12
+Adrianinho1: posts the ante 12
+elisa03011978: posts the ante 12
+BluffTrapper: posts the ante 12
+Kevin12345Mc: posts the ante 12
+M4rKãO: posts the ante 12
+Adrianinho1: posts small blind 40
+elisa03011978: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Qs]
+BluffTrapper: folds 
+Kevin12345Mc: raises 104 to 184
+M4rKãO: folds 
+fether1993: raises 584 to 768
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: folds 
+elisa03011978: folds 
+Kevin12345Mc: calls 584
+*** FLOP *** [9h 8h 7s]
+Kevin12345Mc: checks 
+fether1993: bets 876
+Kevin12345Mc: folds 
+Uncalled bet (876) returned to fether1993
+fether1993 collected 1752 from pot
+*** SUMMARY ***
+Total pot 1752 | Rake 0 
+Board [9h 8h 7s]
+Seat 1: fether1993 collected (1752)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 (button) folded before Flop (didn't bet)
+Seat 4: Adrianinho1 (small blind) folded before Flop
+Seat 5: elisa03011978 (big blind) folded before Flop
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded on the Flop
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674549947: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/02 19:08:03 WET [2025/02/02 14:08:03 ET]
+Table '3852815755 105' 8-max Seat #4 is the button
+Seat 1: fether1993 (6510 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (3128 in chips, $2 bounty) 
+Seat 3: Maagister77 (14605 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (4648 in chips, $2 bounty) 
+Seat 5: elisa03011978 (8861 in chips, $2 bounty) 
+Seat 6: BluffTrapper (7339 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (8423 in chips, $2 bounty) 
+Seat 8: M4rKãO (4976 in chips, $2 bounty) 
+fether1993: posts the ante 12
+xxxisbxxx: posts the ante 12
+Maagister77: posts the ante 12
+Adrianinho1: posts the ante 12
+elisa03011978: posts the ante 12
+BluffTrapper: posts the ante 12
+Kevin12345Mc: posts the ante 12
+M4rKãO: posts the ante 12
+elisa03011978: posts small blind 40
+BluffTrapper: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Ks]
+Kevin12345Mc: raises 104 to 184
+M4rKãO: folds 
+fether1993: calls 184
+xxxisbxxx: calls 184
+Maagister77: folds 
+Adrianinho1: calls 184
+elisa03011978: folds 
+BluffTrapper: calls 104
+*** FLOP *** [7c 9c 9s]
+BluffTrapper: bets 240
+Kevin12345Mc: calls 240
+fether1993: calls 240
+xxxisbxxx: calls 240
+Adrianinho1: calls 240
+*** TURN *** [7c 9c 9s] [5s]
+BluffTrapper: bets 1128
+Kevin12345Mc has timed out
+Kevin12345Mc: folds 
+Kevin12345Mc is sitting out
+fether1993: calls 1128
+Kevin12345Mc has returned
+xxxisbxxx: calls 1128
+Adrianinho1: calls 1128
+*** RIVER *** [7c 9c 9s 5s] [4h]
+BluffTrapper: bets 2000
+fether1993: raises 2946 to 4946 and is all-in
+xxxisbxxx: folds 
+Adrianinho1: folds 
+BluffTrapper: calls 2946
+*** SHOW DOWN ***
+fether1993: shows [7d 7h] (a full house, Sevens full of Nines)
+BluffTrapper: shows [9d Qc] (three of a kind, Nines)
+fether1993 collected 16660 from pot
+*** SUMMARY ***
+Total pot 16660 | Rake 0 
+Board [7c 9c 9s 5s 4h]
+Seat 1: fether1993 showed [7d 7h] and won (16660) with a full house, Sevens full of Nines
+Seat 2: xxxisbxxx folded on the River
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 (button) folded on the River
+Seat 5: elisa03011978 (small blind) folded before Flop
+Seat 6: BluffTrapper (big blind) showed [9d Qc] and lost with three of a kind, Nines
+Seat 7: Kevin12345Mc folded on the Turn
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674593107: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/02 19:10:01 WET [2025/02/02 14:10:01 ET]
+Table '3852815755 105' 8-max Seat #5 is the button
+Seat 1: fether1993 (16660 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (1564 in chips, $2 bounty) 
+Seat 3: Maagister77 (14593 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3084 in chips, $2 bounty) 
+Seat 5: elisa03011978 (8809 in chips, $2 bounty) 
+Seat 6: BluffTrapper (829 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (7987 in chips, $2 bounty) 
+Seat 8: M4rKãO (4964 in chips, $2 bounty) 
+fether1993: posts the ante 14
+xxxisbxxx: posts the ante 14
+Maagister77: posts the ante 14
+Adrianinho1: posts the ante 14
+elisa03011978: posts the ante 14
+BluffTrapper: posts the ante 14
+Kevin12345Mc: posts the ante 14
+M4rKãO: posts the ante 14
+BluffTrapper: posts small blind 45
+Kevin12345Mc: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 5c]
+M4rKãO: folds 
+fether1993: calls 90
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: folds 
+elisa03011978: raises 90 to 180
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+fether1993: calls 90
+*** FLOP *** [3d Qd 4c]
+fether1993: bets 90
+elisa03011978: folds 
+Uncalled bet (90) returned to fether1993
+fether1993 collected 607 from pot
+*** SUMMARY ***
+Total pot 607 | Rake 0 
+Board [3d Qd 4c]
+Seat 1: fether1993 collected (607)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 (button) folded on the Flop
+Seat 6: BluffTrapper (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674605703: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/02 19:10:36 WET [2025/02/02 14:10:36 ET]
+Table '3852815755 105' 8-max Seat #6 is the button
+Seat 1: fether1993 (17073 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (1550 in chips, $2 bounty) 
+Seat 3: Maagister77 (14579 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3070 in chips, $2 bounty) 
+Seat 5: elisa03011978 (8615 in chips, $2 bounty) 
+Seat 6: BluffTrapper (770 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (7883 in chips, $2 bounty) 
+Seat 8: M4rKãO (4950 in chips, $2 bounty) 
+fether1993: posts the ante 14
+xxxisbxxx: posts the ante 14
+Maagister77: posts the ante 14
+Adrianinho1: posts the ante 14
+elisa03011978: posts the ante 14
+BluffTrapper: posts the ante 14
+Kevin12345Mc: posts the ante 14
+M4rKãO: posts the ante 14
+Kevin12345Mc: posts small blind 45
+M4rKãO: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 4c]
+fether1993: raises 90 to 180
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: folds 
+elisa03011978: folds 
+BluffTrapper: folds 
+Kevin12345Mc: calls 135
+M4rKãO: raises 652 to 832
+fether1993: calls 652
+Kevin12345Mc: folds 
+*** FLOP *** [4d 8d Kh]
+M4rKãO: bets 978
+fether1993: folds 
+Uncalled bet (978) returned to M4rKãO
+M4rKãO collected 1956 from pot
+M4rKãO: doesn't show hand 
+*** SUMMARY ***
+Total pot 1956 | Rake 0 
+Board [4d 8d Kh]
+Seat 1: fether1993 folded on the Flop
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: M4rKãO (big blind) collected (1956)
+
+
+
+PokerStars Hand #254674618935: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/02 19:11:12 WET [2025/02/02 14:11:12 ET]
+Table '3852815755 105' 8-max Seat #7 is the button
+Seat 1: fether1993 (16227 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (1536 in chips, $2 bounty) 
+Seat 3: Maagister77 (14565 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3056 in chips, $2 bounty) 
+Seat 5: elisa03011978 (8601 in chips, $2 bounty) 
+Seat 6: BluffTrapper (756 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (7689 in chips, $2 bounty) 
+Seat 8: M4rKãO (6060 in chips, $2 bounty) 
+fether1993: posts the ante 14
+xxxisbxxx: posts the ante 14
+Maagister77: posts the ante 14
+Adrianinho1: posts the ante 14
+elisa03011978: posts the ante 14
+BluffTrapper: posts the ante 14
+Kevin12345Mc: posts the ante 14
+M4rKãO: posts the ante 14
+M4rKãO: posts small blind 45
+fether1993: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 5h]
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: folds 
+elisa03011978: folds 
+BluffTrapper: raises 652 to 742 and is all-in
+Kevin12345Mc: calls 742
+M4rKãO: folds 
+fether1993: calls 652
+*** FLOP *** [4c Qc 9c]
+fether1993: checks 
+Kevin12345Mc: checks 
+*** TURN *** [4c Qc 9c] [4s]
+fether1993: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [4c Qc 9c 4s] [2c]
+fether1993: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+fether1993: shows [7d Ad] (a pair of Fours)
+BluffTrapper: shows [Kh Kd] (two pair, Kings and Fours)
+Kevin12345Mc: mucks hand 
+BluffTrapper collected 2383 from pot
+*** SUMMARY ***
+Total pot 2383 | Rake 0 
+Board [4c Qc 9c 4s 2c]
+Seat 1: fether1993 (big blind) showed [7d Ad] and lost with a pair of Fours
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper showed [Kh Kd] and won (2383) with two pair, Kings and Fours
+Seat 7: Kevin12345Mc (button) mucked [Ah 5h]
+Seat 8: M4rKãO (small blind) folded before Flop
+
+
+
+PokerStars Hand #254674632430: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/02 19:11:48 WET [2025/02/02 14:11:48 ET]
+Table '3852815755 105' 8-max Seat #8 is the button
+Seat 1: fether1993 (15471 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (1522 in chips, $2 bounty) 
+Seat 3: Maagister77 (14551 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3042 in chips, $2 bounty) 
+Seat 5: elisa03011978 (8587 in chips, $2 bounty) 
+Seat 6: BluffTrapper (2383 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6933 in chips, $2 bounty) 
+Seat 8: M4rKãO (6001 in chips, $2 bounty) 
+fether1993: posts the ante 14
+xxxisbxxx: posts the ante 14
+Maagister77: posts the ante 14
+Adrianinho1: posts the ante 14
+elisa03011978: posts the ante 14
+BluffTrapper: posts the ante 14
+Kevin12345Mc: posts the ante 14
+M4rKãO: posts the ante 14
+fether1993: posts small blind 45
+xxxisbxxx: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s Ad]
+Maagister77: folds 
+Adrianinho1: folds 
+elisa03011978: raises 90 to 180
+BluffTrapper: calls 180
+Kevin12345Mc: folds 
+M4rKãO: calls 180
+fether1993: calls 135
+xxxisbxxx: calls 90
+*** FLOP *** [8d 9c 3c]
+fether1993: bets 90
+xxxisbxxx: calls 90
+elisa03011978: raises 652 to 742
+BluffTrapper: calls 742
+M4rKãO: calls 742
+fether1993: folds 
+xxxisbxxx: calls 652
+*** TURN *** [8d 9c 3c] [2h]
+xxxisbxxx: bets 586 and is all-in
+elisa03011978: raises 7065 to 7651 and is all-in
+BluffTrapper: folds 
+M4rKãO: folds 
+Uncalled bet (7065) returned to elisa03011978
+*** RIVER *** [8d 9c 3c 2h] [7d]
+*** SHOW DOWN ***
+xxxisbxxx: shows [8c 2d] (two pair, Eights and Deuces)
+elisa03011978: shows [9s As] (a pair of Nines)
+xxxisbxxx collected 5242 from pot
+*** SUMMARY ***
+Total pot 5242 | Rake 0 
+Board [8d 9c 3c 2h 7d]
+Seat 1: fether1993 (small blind) folded on the Flop
+Seat 2: xxxisbxxx (big blind) showed [8c 2d] and won (5242) with two pair, Eights and Deuces
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 showed [9s As] and lost with a pair of Nines
+Seat 6: BluffTrapper folded on the Turn
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO (button) folded on the Turn
+
+
+
+PokerStars Hand #254674661229: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/02 19:13:06 WET [2025/02/02 14:13:06 ET]
+Table '3852815755 105' 8-max Seat #1 is the button
+Seat 1: fether1993 (15187 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (5242 in chips, $2 bounty) 
+Seat 3: Maagister77 (14537 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3028 in chips, $2 bounty) 
+Seat 5: elisa03011978 (7065 in chips, $2 bounty) 
+Seat 6: BluffTrapper (1447 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6919 in chips, $2 bounty) 
+Seat 8: M4rKãO (5065 in chips, $2 bounty) 
+fether1993: posts the ante 14
+xxxisbxxx: posts the ante 14
+Maagister77: posts the ante 14
+Adrianinho1: posts the ante 14
+elisa03011978: posts the ante 14
+BluffTrapper: posts the ante 14
+Kevin12345Mc: posts the ante 14
+M4rKãO: posts the ante 14
+xxxisbxxx: posts small blind 45
+Maagister77: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 2c]
+Adrianinho1: folds 
+elisa03011978: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+M4rKãO: raises 90 to 180
+fether1993: folds 
+xxxisbxxx: folds 
+Maagister77: calls 90
+*** FLOP *** [Jc 7c 3s]
+Maagister77: checks 
+M4rKãO: checks 
+*** TURN *** [Jc 7c 3s] [4d]
+Maagister77: checks 
+M4rKãO: checks 
+*** RIVER *** [Jc 7c 3s 4d] [2h]
+Maagister77: bets 360
+M4rKãO: folds 
+Uncalled bet (360) returned to Maagister77
+Maagister77 collected 517 from pot
+Maagister77: doesn't show hand 
+*** SUMMARY ***
+Total pot 517 | Rake 0 
+Board [Jc 7c 3s 4d 2h]
+Seat 1: fether1993 (button) folded before Flop (didn't bet)
+Seat 2: xxxisbxxx (small blind) folded before Flop
+Seat 3: Maagister77 (big blind) collected (517)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO folded on the River
+
+
+
+PokerStars Hand #254674676915: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/02 19:13:49 WET [2025/02/02 14:13:49 ET]
+Table '3852815755 105' 8-max Seat #2 is the button
+Seat 1: fether1993 (15173 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (5183 in chips, $2 bounty) 
+Seat 3: Maagister77 (14860 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3014 in chips, $2 bounty) 
+Seat 5: elisa03011978 (7051 in chips, $2 bounty) 
+Seat 6: BluffTrapper (1433 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6905 in chips, $2 bounty) 
+Seat 8: M4rKãO (4871 in chips, $2 bounty) 
+fether1993: posts the ante 14
+xxxisbxxx: posts the ante 14
+Maagister77: posts the ante 14
+Adrianinho1: posts the ante 14
+elisa03011978: posts the ante 14
+BluffTrapper: posts the ante 14
+Kevin12345Mc: posts the ante 14
+M4rKãO: posts the ante 14
+Maagister77: posts small blind 45
+Adrianinho1: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 2s]
+elisa03011978: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+M4rKãO: folds 
+fether1993: calls 90
+xxxisbxxx: raises 180 to 270
+Maagister77: folds 
+Adrianinho1: folds 
+fether1993: calls 180
+*** FLOP *** [2c Ad Kd]
+fether1993: checks 
+xxxisbxxx: bets 360
+fether1993: folds 
+Uncalled bet (360) returned to xxxisbxxx
+xxxisbxxx collected 787 from pot
+xxxisbxxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 787 | Rake 0 
+Board [2c Ad Kd]
+Seat 1: fether1993 folded on the Flop
+Seat 2: xxxisbxxx (button) collected (787)
+Seat 3: Maagister77 (small blind) folded before Flop
+Seat 4: Adrianinho1 (big blind) folded before Flop
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674691425: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/02 19:14:29 WET [2025/02/02 14:14:29 ET]
+Table '3852815755 105' 8-max Seat #3 is the button
+Seat 1: fether1993 (14889 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (5686 in chips, $2 bounty) 
+Seat 3: Maagister77 (14801 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (2910 in chips, $2 bounty) 
+Seat 5: elisa03011978 (7037 in chips, $2 bounty) 
+Seat 6: BluffTrapper (1419 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6891 in chips, $2 bounty) 
+Seat 8: M4rKãO (4857 in chips, $2 bounty) 
+fether1993: posts the ante 14
+xxxisbxxx: posts the ante 14
+Maagister77: posts the ante 14
+Adrianinho1: posts the ante 14
+elisa03011978: posts the ante 14
+BluffTrapper: posts the ante 14
+Kevin12345Mc: posts the ante 14
+M4rKãO: posts the ante 14
+Adrianinho1: posts small blind 45
+elisa03011978: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 8c]
+BluffTrapper: raises 90 to 180
+Kevin12345Mc: folds 
+M4rKãO: calls 180
+fether1993: folds 
+xxxisbxxx: folds 
+Maagister77: raises 270 to 450
+Adrianinho1: folds 
+elisa03011978: folds 
+BluffTrapper: calls 270
+M4rKãO: calls 270
+*** FLOP *** [Kd Td 9s]
+BluffTrapper: bets 955 and is all-in
+M4rKãO: folds 
+Maagister77: folds 
+Uncalled bet (955) returned to BluffTrapper
+BluffTrapper collected 1597 from pot
+BluffTrapper: doesn't show hand 
+*** SUMMARY ***
+Total pot 1597 | Rake 0 
+Board [Kd Td 9s]
+Seat 1: fether1993 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 (button) folded on the Flop
+Seat 4: Adrianinho1 (small blind) folded before Flop
+Seat 5: elisa03011978 (big blind) folded before Flop
+Seat 6: BluffTrapper collected (1597)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO folded on the Flop
+
+
+
+PokerStars Hand #254674712315: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/02 19:15:25 WET [2025/02/02 14:15:25 ET]
+Table '3852815755 105' 8-max Seat #4 is the button
+Seat 1: fether1993 (14875 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (5672 in chips, $2 bounty) 
+Seat 3: Maagister77 (14337 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (2851 in chips, $2 bounty) 
+Seat 5: elisa03011978 (6933 in chips, $2 bounty) 
+Seat 6: BluffTrapper (2552 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6877 in chips, $2 bounty) 
+Seat 8: M4rKãO (4393 in chips, $2 bounty) 
+fether1993: posts the ante 14
+xxxisbxxx: posts the ante 14
+Maagister77: posts the ante 14
+Adrianinho1: posts the ante 14
+elisa03011978: posts the ante 14
+BluffTrapper: posts the ante 14
+Kevin12345Mc: posts the ante 14
+M4rKãO: posts the ante 14
+elisa03011978: posts small blind 45
+BluffTrapper: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 3h]
+Kevin12345Mc: folds 
+M4rKãO: raises 90 to 180
+fether1993: folds 
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: calls 180
+elisa03011978: folds 
+BluffTrapper: folds 
+*** FLOP *** [Js 4h 6h]
+M4rKãO: checks 
+Adrianinho1: bets 304
+M4rKãO: calls 304
+*** TURN *** [Js 4h 6h] [9d]
+M4rKãO: checks 
+Adrianinho1: bets 911
+M4rKãO: folds 
+Uncalled bet (911) returned to Adrianinho1
+Adrianinho1 collected 1215 from pot
+Adrianinho1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1215 | Rake 0 
+Board [Js 4h 6h 9d]
+Seat 1: fether1993 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 (button) collected (1215)
+Seat 5: elisa03011978 (small blind) folded before Flop
+Seat 6: BluffTrapper (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO folded on the Turn
+
+
+
+PokerStars Hand #254674729108: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/02 19:16:11 WET [2025/02/02 14:16:11 ET]
+Table '3852815755 105' 8-max Seat #5 is the button
+Seat 1: fether1993 (14861 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (5658 in chips, $2 bounty) 
+Seat 3: Maagister77 (14323 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3568 in chips, $2 bounty) 
+Seat 5: elisa03011978 (6874 in chips, $2 bounty) 
+Seat 6: BluffTrapper (2448 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6863 in chips, $2 bounty) 
+Seat 8: M4rKãO (3895 in chips, $2 bounty) 
+fether1993: posts the ante 14
+xxxisbxxx: posts the ante 14
+Maagister77: posts the ante 14
+Adrianinho1: posts the ante 14
+elisa03011978: posts the ante 14
+BluffTrapper: posts the ante 14
+Kevin12345Mc: posts the ante 14
+M4rKãO: posts the ante 14
+BluffTrapper: posts small blind 45
+Kevin12345Mc: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Ks]
+M4rKãO: folds 
+fether1993: folds 
+xxxisbxxx: folds 
+Maagister77: raises 117 to 207
+Adrianinho1: folds 
+elisa03011978: folds 
+BluffTrapper: raises 297 to 504
+Kevin12345Mc: folds 
+Maagister77: calls 297
+*** FLOP *** [Jc 8c 9s]
+BluffTrapper: bets 1055
+Maagister77: raises 12750 to 13805 and is all-in
+BluffTrapper: calls 875 and is all-in
+Uncalled bet (11875) returned to Maagister77
+*** TURN *** [Jc 8c 9s] [Ts]
+*** RIVER *** [Jc 8c 9s Ts] [7c]
+*** SHOW DOWN ***
+BluffTrapper: shows [Js Ad] (a straight, Seven to Jack)
+Maagister77: shows [8h Jh] (a straight, Seven to Jack)
+BluffTrapper collected 2535 from pot
+Maagister77 collected 2535 from pot
+*** SUMMARY ***
+Total pot 5070 | Rake 0 
+Board [Jc 8c 9s Ts 7c]
+Seat 1: fether1993 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 showed [8h Jh] and won (2535) with a straight, Seven to Jack
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 (button) folded before Flop (didn't bet)
+Seat 6: BluffTrapper (small blind) showed [Js Ad] and won (2535) with a straight, Seven to Jack
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674749524: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/02 19:17:06 WET [2025/02/02 14:17:06 ET]
+Table '3852815755 105' 8-max Seat #6 is the button
+Seat 1: fether1993 (14847 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (5644 in chips, $2 bounty) 
+Seat 3: Maagister77 (14410 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3554 in chips, $2 bounty) 
+Seat 5: elisa03011978 (6860 in chips, $2 bounty) 
+Seat 6: BluffTrapper (2535 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6759 in chips, $2 bounty) 
+Seat 8: M4rKãO (3881 in chips, $2 bounty) 
+fether1993: posts the ante 14
+xxxisbxxx: posts the ante 14
+Maagister77: posts the ante 14
+Adrianinho1: posts the ante 14
+elisa03011978: posts the ante 14
+BluffTrapper: posts the ante 14
+Kevin12345Mc: posts the ante 14
+M4rKãO: posts the ante 14
+Kevin12345Mc: posts small blind 45
+M4rKãO: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Jc]
+fether1993: calls 90
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: folds 
+elisa03011978: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+M4rKãO: checks 
+*** FLOP *** [2c 5d Jh]
+M4rKãO: checks 
+fether1993: bets 169
+M4rKãO: folds 
+Uncalled bet (169) returned to fether1993
+fether1993 collected 337 from pot
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Board [2c 5d Jh]
+Seat 1: fether1993 collected (337)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: M4rKãO (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254674765473: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 19:17:49 WET [2025/02/02 14:17:49 ET]
+Table '3852815755 105' 8-max Seat #7 is the button
+Seat 1: fether1993 (15080 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (5630 in chips, $2 bounty) 
+Seat 3: Maagister77 (14396 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3540 in chips, $2 bounty) 
+Seat 5: elisa03011978 (6846 in chips, $2 bounty) 
+Seat 6: BluffTrapper (2521 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6700 in chips, $2 bounty) 
+Seat 8: M4rKãO (3777 in chips, $2 bounty) 
+fether1993: posts the ante 15
+xxxisbxxx: posts the ante 15
+Maagister77: posts the ante 15
+Adrianinho1: posts the ante 15
+elisa03011978: posts the ante 15
+BluffTrapper: posts the ante 15
+Kevin12345Mc: posts the ante 15
+M4rKãO: posts the ante 15
+M4rKãO: posts small blind 50
+fether1993: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Td]
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: raises 100 to 200
+elisa03011978: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+M4rKãO: folds 
+fether1993: calls 100
+*** FLOP *** [8s Ah Kd]
+fether1993: checks 
+Adrianinho1: bets 143
+fether1993: calls 143
+*** TURN *** [8s Ah Kd] [6c]
+fether1993: checks 
+Adrianinho1: bets 642
+fether1993: calls 642
+*** RIVER *** [8s Ah Kd 6c] [3s]
+fether1993: checks 
+Adrianinho1: bets 2540 and is all-in
+fether1993: calls 2540
+*** SHOW DOWN ***
+Adrianinho1: shows [8d Ad] (two pair, Aces and Eights)
+fether1993: shows [Qc Ks] (a pair of Kings)
+Adrianinho1 collected 7220 from pot
+*** SUMMARY ***
+Total pot 7220 | Rake 0 
+Board [8s Ah Kd 6c 3s]
+Seat 1: fether1993 (big blind) showed [Qc Ks] and lost with a pair of Kings
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 showed [8d Ad] and won (7220) with two pair, Aces and Eights
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: M4rKãO (small blind) folded before Flop
+
+
+
+PokerStars Hand #254674784997: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 19:18:42 WET [2025/02/02 14:18:42 ET]
+Table '3852815755 105' 8-max Seat #8 is the button
+Seat 1: fether1993 (11540 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (5615 in chips, $2 bounty) 
+Seat 3: Maagister77 (14381 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (7220 in chips, $2 bounty) 
+Seat 5: elisa03011978 (6831 in chips, $2 bounty) 
+Seat 6: BluffTrapper (2506 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6685 in chips, $2 bounty) 
+Seat 8: M4rKãO (3712 in chips, $2 bounty) 
+fether1993: posts the ante 15
+xxxisbxxx: posts the ante 15
+Maagister77: posts the ante 15
+Adrianinho1: posts the ante 15
+elisa03011978: posts the ante 15
+BluffTrapper: posts the ante 15
+Kevin12345Mc: posts the ante 15
+M4rKãO: posts the ante 15
+fether1993: posts small blind 50
+xxxisbxxx: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 9c]
+Maagister77: calls 100
+Adrianinho1: folds 
+elisa03011978: folds 
+BluffTrapper: calls 100
+Kevin12345Mc: folds 
+M4rKãO: calls 100
+fether1993: calls 50
+xxxisbxxx: checks 
+*** FLOP *** [8h 7s 4s]
+fether1993: checks 
+xxxisbxxx: checks 
+Maagister77: checks 
+BluffTrapper: checks 
+M4rKãO: checks 
+*** TURN *** [8h 7s 4s] [Ks]
+fether1993: checks 
+xxxisbxxx: checks 
+Maagister77: checks 
+BluffTrapper: checks 
+M4rKãO: checks 
+*** RIVER *** [8h 7s 4s Ks] [Qd]
+fether1993: checks 
+xxxisbxxx: checks 
+Maagister77: checks 
+BluffTrapper: bets 310
+M4rKãO: folds 
+fether1993: calls 310
+xxxisbxxx: folds 
+Maagister77: folds 
+*** SHOW DOWN ***
+BluffTrapper: shows [9h Qh] (a pair of Queens)
+fether1993: mucks hand 
+BluffTrapper collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [8h 7s 4s Ks Qd]
+Seat 1: fether1993 (small blind) mucked [3s Qc]
+Seat 2: xxxisbxxx (big blind) folded on the River
+Seat 3: Maagister77 folded on the River
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper showed [9h Qh] and won (1240) with a pair of Queens
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO (button) folded on the River
+
+
+
+PokerStars Hand #254674811750: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 19:19:55 WET [2025/02/02 14:19:55 ET]
+Table '3852815755 105' 8-max Seat #1 is the button
+Seat 1: fether1993 (11115 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (5500 in chips, $2 bounty) 
+Seat 3: Maagister77 (14266 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (7205 in chips, $2 bounty) 
+Seat 5: elisa03011978 (6816 in chips, $2 bounty) 
+Seat 6: BluffTrapper (3321 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6670 in chips, $2 bounty) 
+Seat 8: M4rKãO (3597 in chips, $2 bounty) 
+fether1993: posts the ante 15
+xxxisbxxx: posts the ante 15
+Maagister77: posts the ante 15
+Adrianinho1: posts the ante 15
+elisa03011978: posts the ante 15
+BluffTrapper: posts the ante 15
+Kevin12345Mc: posts the ante 15
+M4rKãO: posts the ante 15
+xxxisbxxx: posts small blind 50
+Maagister77: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 3d]
+Adrianinho1: folds 
+elisa03011978: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+M4rKãO: folds 
+fether1993: calls 100
+xxxisbxxx: calls 50
+Maagister77: checks 
+*** FLOP *** [5d 8c 2s]
+xxxisbxxx: checks 
+Maagister77: checks 
+fether1993: bets 210
+xxxisbxxx: calls 210
+Maagister77: raises 320 to 530
+fether1993: calls 320
+xxxisbxxx: calls 320
+*** TURN *** [5d 8c 2s] [6d]
+xxxisbxxx: checks 
+Maagister77: bets 1420
+fether1993: calls 1420
+xxxisbxxx: folds 
+*** RIVER *** [5d 8c 2s 6d] [5c]
+Maagister77: checks 
+fether1993: checks 
+*** SHOW DOWN ***
+Maagister77: shows [2c 8d] (two pair, Eights and Fives)
+fether1993: shows [9d 8s] (two pair, Eights and Fives - Nine kicker)
+fether1993 collected 4850 from pot
+*** SUMMARY ***
+Total pot 4850 | Rake 0 
+Board [5d 8c 2s 6d 5c]
+Seat 1: fether1993 (button) showed [9d 8s] and won (4850) with two pair, Eights and Fives
+Seat 2: xxxisbxxx (small blind) folded on the Turn
+Seat 3: Maagister77 (big blind) showed [2c 8d] and lost with two pair, Eights and Fives
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674831055: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 19:20:47 WET [2025/02/02 14:20:47 ET]
+Table '3852815755 105' 8-max Seat #2 is the button
+Seat 1: fether1993 (13900 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (4855 in chips, $2 bounty) 
+Seat 3: Maagister77 (12201 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (7190 in chips, $2 bounty) 
+Seat 5: elisa03011978 (6801 in chips, $2 bounty) 
+Seat 6: BluffTrapper (3306 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6655 in chips, $2 bounty) 
+Seat 8: M4rKãO (3582 in chips, $2 bounty) 
+fether1993: posts the ante 15
+xxxisbxxx: posts the ante 15
+Maagister77: posts the ante 15
+Adrianinho1: posts the ante 15
+elisa03011978: posts the ante 15
+BluffTrapper: posts the ante 15
+Kevin12345Mc: posts the ante 15
+M4rKãO: posts the ante 15
+Maagister77: posts small blind 50
+Adrianinho1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 8s]
+elisa03011978: folds 
+BluffTrapper: raises 200 to 300
+Kevin12345Mc: folds 
+M4rKãO: folds 
+fether1993: folds 
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: raises 6875 to 7175 and is all-in
+BluffTrapper: calls 2991 and is all-in
+Uncalled bet (3884) returned to Adrianinho1
+*** FLOP *** [9h 9d 7s]
+*** TURN *** [9h 9d 7s] [8c]
+*** RIVER *** [9h 9d 7s 8c] [Ac]
+*** SHOW DOWN ***
+Adrianinho1: shows [Qs As] (two pair, Aces and Nines)
+BluffTrapper: shows [Ah Kh] (two pair, Aces and Nines - King kicker)
+BluffTrapper collected 6752 from pot
+*** SUMMARY ***
+Total pot 6752 | Rake 0 
+Board [9h 9d 7s 8c Ac]
+Seat 1: fether1993 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx (button) folded before Flop (didn't bet)
+Seat 3: Maagister77 (small blind) folded before Flop
+Seat 4: Adrianinho1 (big blind) showed [Qs As] and lost with two pair, Aces and Nines
+Seat 5: elisa03011978 folded before Flop (didn't bet)
+Seat 6: BluffTrapper showed [Ah Kh] and won (6752) with two pair, Aces and Nines
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674844529: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 19:21:24 WET [2025/02/02 14:21:24 ET]
+Table '3852815755 105' 8-max Seat #3 is the button
+Seat 1: fether1993 (13885 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (4840 in chips, $2 bounty) 
+Seat 3: Maagister77 (12136 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3884 in chips, $2 bounty) 
+Seat 6: BluffTrapper (6752 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6640 in chips, $2 bounty) 
+Seat 8: M4rKãO (3567 in chips, $2 bounty) 
+fether1993: posts the ante 15
+xxxisbxxx: posts the ante 15
+Maagister77: posts the ante 15
+Adrianinho1: posts the ante 15
+BluffTrapper: posts the ante 15
+Kevin12345Mc: posts the ante 15
+M4rKãO: posts the ante 15
+Adrianinho1: posts small blind 50
+BluffTrapper: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 7d]
+Kevin12345Mc: folds 
+schimidtx is disconnected 
+M4rKãO: folds 
+fether1993: folds 
+xxxisbxxx: folds 
+Maagister77: raises 150 to 250
+Adrianinho1: folds 
+BluffTrapper: calls 150
+*** FLOP *** [Jd Ks 2s]
+BluffTrapper: checks 
+Maagister77: bets 420
+BluffTrapper: calls 420
+*** TURN *** [Jd Ks 2s] [4h]
+BluffTrapper: checks 
+Maagister77: checks 
+*** RIVER *** [Jd Ks 2s 4h] [Qh]
+BluffTrapper: bets 748
+Maagister77: raises 1052 to 1800
+BluffTrapper: calls 1052
+*** SHOW DOWN ***
+Maagister77: shows [9d Td] (a straight, Nine to King)
+BluffTrapper: mucks hand 
+Maagister77 collected 5095 from pot
+*** SUMMARY ***
+Total pot 5095 | Rake 0 
+Board [Jd Ks 2s 4h Qh]
+Seat 1: fether1993 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 (button) showed [9d Td] and won (5095) with a straight, Nine to King
+Seat 4: Adrianinho1 (small blind) folded before Flop
+Seat 6: BluffTrapper (big blind) mucked [Ah Jc]
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674868871: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 19:22:30 WET [2025/02/02 14:22:30 ET]
+Table '3852815755 105' 8-max Seat #4 is the button
+Seat 1: fether1993 (13870 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (4825 in chips, $2 bounty) 
+Seat 3: Maagister77 (14746 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3819 in chips, $2 bounty) 
+Seat 5: schimidtx (5000 in chips) out of hand (moved from another table into small blind)
+Seat 6: BluffTrapper (4267 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6625 in chips, $2 bounty) 
+Seat 8: M4rKãO (3552 in chips, $2 bounty) 
+schimidtx will be allowed to play after the button
+fether1993: posts the ante 15
+xxxisbxxx: posts the ante 15
+Maagister77: posts the ante 15
+Adrianinho1: posts the ante 15
+BluffTrapper: posts the ante 15
+Kevin12345Mc: posts the ante 15
+M4rKãO: posts the ante 15
+BluffTrapper: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Kc]
+M4rKãO: raises 100 to 200
+fether1993: folds 
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+Uncalled bet (100) returned to M4rKãO
+M4rKãO collected 355 from pot
+M4rKãO: doesn't show hand 
+*** SUMMARY ***
+Total pot 355 | Rake 0 
+Seat 1: fether1993 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 (button) folded before Flop (didn't bet)
+Seat 6: BluffTrapper (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: M4rKãO collected (355)
+
+
+
+PokerStars Hand #254674879521: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 19:22:59 WET [2025/02/02 14:22:59 ET]
+Table '3852815755 105' 8-max Seat #6 is the button
+Seat 1: fether1993 (13855 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (4810 in chips, $2 bounty) 
+Seat 3: Maagister77 (14731 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3804 in chips, $2 bounty) 
+Seat 5: schimidtx (5000 in chips, $2 bounty) 
+Seat 6: BluffTrapper (4202 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6510 in chips, $2 bounty) 
+Seat 8: M4rKãO (3792 in chips, $2 bounty) 
+fether1993: posts the ante 15
+xxxisbxxx: posts the ante 15
+Maagister77: posts the ante 15
+Adrianinho1: posts the ante 15
+schimidtx: posts the ante 15
+BluffTrapper: posts the ante 15
+Kevin12345Mc: posts the ante 15
+M4rKãO: posts the ante 15
+Kevin12345Mc: posts small blind 50
+M4rKãO: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 2d]
+fether1993: folds 
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: folds 
+schimidtx: folds 
+BluffTrapper: raises 200 to 300
+Kevin12345Mc: folds 
+M4rKãO: raises 770 to 1070
+BluffTrapper: calls 770
+*** FLOP *** [6h Qd 5h]
+M4rKãO: bets 855
+BluffTrapper: raises 2262 to 3117 and is all-in
+M4rKãO: calls 1852 and is all-in
+Uncalled bet (410) returned to BluffTrapper
+*** TURN *** [6h Qd 5h] [Ad]
+*** RIVER *** [6h Qd 5h Ad] [3s]
+*** SHOW DOWN ***
+M4rKãO: shows [Ac Qs] (two pair, Aces and Queens)
+BluffTrapper: shows [8d Ks] (high card Ace)
+M4rKãO collected 7724 from pot
+*** SUMMARY ***
+Total pot 7724 | Rake 0 
+Board [6h Qd 5h Ad 3s]
+Seat 1: fether1993 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: schimidtx folded before Flop (didn't bet)
+Seat 6: BluffTrapper (button) showed [8d Ks] and lost with high card Ace
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: M4rKãO (big blind) showed [Ac Qs] and won (7724) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #254674899339: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 19:23:52 WET [2025/02/02 14:23:52 ET]
+Table '3852815755 105' 8-max Seat #7 is the button
+Seat 1: fether1993 (13840 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (4795 in chips, $2 bounty) 
+Seat 3: Maagister77 (14716 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3789 in chips, $2 bounty) 
+Seat 5: schimidtx (4985 in chips, $2 bounty) 
+Seat 6: BluffTrapper (410 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6445 in chips, $2 bounty) 
+Seat 8: M4rKãO (7724 in chips, $2 bounty) 
+fether1993: posts the ante 15
+xxxisbxxx: posts the ante 15
+Maagister77: posts the ante 15
+Adrianinho1: posts the ante 15
+schimidtx: posts the ante 15
+BluffTrapper: posts the ante 15
+Kevin12345Mc: posts the ante 15
+M4rKãO: posts the ante 15
+M4rKãO: posts small blind 50
+fether1993: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 8h]
+xxxisbxxx: raises 100 to 200
+Maagister77: folds 
+Adrianinho1: folds 
+schimidtx: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+M4rKãO: calls 150
+fether1993: calls 100
+*** FLOP *** [4d Ah Qs]
+M4rKãO: bets 360
+fether1993: calls 360
+xxxisbxxx: calls 360
+*** TURN *** [4d Ah Qs] [Ac]
+M4rKãO: bets 900
+fether1993: calls 900
+xxxisbxxx: calls 900
+*** RIVER *** [4d Ah Qs Ac] [Kh]
+M4rKãO: bets 2250
+fether1993: folds 
+xxxisbxxx: folds 
+Uncalled bet (2250) returned to M4rKãO
+M4rKãO collected 4500 from pot
+M4rKãO: doesn't show hand 
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Board [4d Ah Qs Ac Kh]
+Seat 1: fether1993 (big blind) folded on the River
+Seat 2: xxxisbxxx folded on the River
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: schimidtx folded before Flop (didn't bet)
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: M4rKãO (small blind) collected (4500)
+
+
+
+PokerStars Hand #254674916938: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 19:24:39 WET [2025/02/02 14:24:39 ET]
+Table '3852815755 105' 8-max Seat #8 is the button
+Seat 1: fether1993 (12365 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (3320 in chips, $2 bounty) 
+Seat 3: Maagister77 (14701 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3774 in chips, $2 bounty) 
+Seat 5: schimidtx (4970 in chips, $2 bounty) 
+Seat 6: BluffTrapper (395 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6430 in chips, $2 bounty) 
+Seat 8: M4rKãO (10749 in chips, $2 bounty) 
+fether1993: posts the ante 15
+xxxisbxxx: posts the ante 15
+Maagister77: posts the ante 15
+Adrianinho1: posts the ante 15
+schimidtx: posts the ante 15
+BluffTrapper: posts the ante 15
+Kevin12345Mc: posts the ante 15
+M4rKãO: posts the ante 15
+fether1993: posts small blind 50
+xxxisbxxx: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s Qd]
+Maagister77: folds 
+Adrianinho1: folds 
+schimidtx: folds 
+BluffTrapper: raises 280 to 380 and is all-in
+Kevin12345Mc: folds 
+M4rKãO: calls 380
+fether1993: calls 330
+xxxisbxxx: folds 
+*** FLOP *** [Jd Jc Js]
+fether1993: checks 
+M4rKãO: bets 680
+fether1993: folds 
+Uncalled bet (680) returned to M4rKãO
+*** TURN *** [Jd Jc Js] [Jh]
+*** RIVER *** [Jd Jc Js Jh] [8s]
+*** SHOW DOWN ***
+BluffTrapper: shows [7d Ac] (four of a kind, Jacks)
+M4rKãO: shows [4d 4s] (four of a kind, Jacks - lower kicker)
+BluffTrapper collected 1360 from pot
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Board [Jd Jc Js Jh 8s]
+Seat 1: fether1993 (small blind) folded on the Flop
+Seat 2: xxxisbxxx (big blind) folded before Flop
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: schimidtx folded before Flop (didn't bet)
+Seat 6: BluffTrapper showed [7d Ac] and won (1360) with four of a kind, Jacks
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO (button) showed [4d 4s] and lost with four of a kind, Jacks
+
+
+
+PokerStars Hand #254674951259: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 19:26:13 WET [2025/02/02 14:26:13 ET]
+Table '3852815755 105' 8-max Seat #1 is the button
+Seat 1: fether1993 (11970 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (3205 in chips, $2 bounty) 
+Seat 3: Maagister77 (14686 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3759 in chips, $2 bounty) 
+Seat 5: schimidtx (4955 in chips, $2 bounty) 
+Seat 6: BluffTrapper (1360 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6415 in chips, $2 bounty) 
+Seat 8: M4rKãO (10354 in chips, $2 bounty) 
+fether1993: posts the ante 18
+xxxisbxxx: posts the ante 18
+Maagister77: posts the ante 18
+Adrianinho1: posts the ante 18
+schimidtx: posts the ante 18
+BluffTrapper: posts the ante 18
+Kevin12345Mc: posts the ante 18
+M4rKãO: posts the ante 18
+xxxisbxxx: posts small blind 60
+Maagister77: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 6s]
+Adrianinho1: folds 
+schimidtx: folds 
+BluffTrapper: raises 1222 to 1342 and is all-in
+Kevin12345Mc: folds 
+M4rKãO: folds 
+fether1993: calls 1342
+xxxisbxxx: folds 
+Maagister77: folds 
+*** FLOP *** [3s Ts 4s]
+*** TURN *** [3s Ts 4s] [Kc]
+*** RIVER *** [3s Ts 4s Kc] [6d]
+*** SHOW DOWN ***
+BluffTrapper: shows [Qs Qd] (a pair of Queens)
+fether1993: shows [Ah 9c] (high card Ace)
+BluffTrapper collected 3008 from pot
+*** SUMMARY ***
+Total pot 3008 | Rake 0 
+Board [3s Ts 4s Kc 6d]
+Seat 1: fether1993 (button) showed [Ah 9c] and lost with high card Ace
+Seat 2: xxxisbxxx (small blind) folded before Flop
+Seat 3: Maagister77 (big blind) folded before Flop
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: schimidtx folded before Flop (didn't bet)
+Seat 6: BluffTrapper showed [Qs Qd] and won (3008) with a pair of Queens
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254674962463: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 19:26:44 WET [2025/02/02 14:26:44 ET]
+Table '3852815755 105' 8-max Seat #2 is the button
+Seat 1: fether1993 (10610 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (3127 in chips, $2 bounty) 
+Seat 3: Maagister77 (14548 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3741 in chips, $2 bounty) 
+Seat 5: schimidtx (4937 in chips, $2 bounty) 
+Seat 6: BluffTrapper (3008 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6397 in chips, $2 bounty) 
+Seat 8: M4rKãO (10336 in chips, $2 bounty) 
+fether1993: posts the ante 18
+xxxisbxxx: posts the ante 18
+Maagister77: posts the ante 18
+Adrianinho1: posts the ante 18
+schimidtx: posts the ante 18
+BluffTrapper: posts the ante 18
+Kevin12345Mc: posts the ante 18
+M4rKãO: posts the ante 18
+Maagister77: posts small blind 60
+Adrianinho1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 5d]
+schimidtx: folds 
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+M4rKãO: raises 120 to 240
+fether1993: calls 240
+xxxisbxxx: calls 240
+Maagister77: calls 180
+Adrianinho1: folds 
+*** FLOP *** [Kd Qh 6c]
+Maagister77: checks 
+M4rKãO: bets 612
+fether1993: calls 612
+xxxisbxxx: folds 
+Maagister77: folds 
+*** TURN *** [Kd Qh 6c] [8s]
+M4rKãO: bets 1224
+fether1993: folds 
+Uncalled bet (1224) returned to M4rKãO
+M4rKãO collected 2448 from pot
+M4rKãO: doesn't show hand 
+*** SUMMARY ***
+Total pot 2448 | Rake 0 
+Board [Kd Qh 6c 8s]
+Seat 1: fether1993 folded on the Turn
+Seat 2: xxxisbxxx (button) folded on the Flop
+Seat 3: Maagister77 (small blind) folded on the Flop
+Seat 4: Adrianinho1 (big blind) folded before Flop
+Seat 5: schimidtx folded before Flop (didn't bet)
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO collected (2448)
+
+
+
+PokerStars Hand #254674987607: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 19:27:52 WET [2025/02/02 14:27:52 ET]
+Table '3852815755 105' 8-max Seat #3 is the button
+Seat 1: fether1993 (9740 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (2869 in chips, $2 bounty) 
+Seat 3: Maagister77 (14290 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3603 in chips, $2 bounty) 
+Seat 5: schimidtx (4919 in chips, $2 bounty) 
+Seat 6: BluffTrapper (2990 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6379 in chips, $2 bounty) 
+Seat 8: M4rKãO (11914 in chips, $2 bounty) 
+fether1993: posts the ante 18
+xxxisbxxx: posts the ante 18
+Maagister77: posts the ante 18
+Adrianinho1: posts the ante 18
+schimidtx: posts the ante 18
+BluffTrapper: posts the ante 18
+Kevin12345Mc: posts the ante 18
+M4rKãO: posts the ante 18
+Adrianinho1: posts small blind 60
+schimidtx: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Kc]
+BluffTrapper: folds 
+Kevin12345Mc: folds 
+M4rKãO: raises 120 to 240
+fether1993: raises 804 to 1044
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: folds 
+schimidtx: folds 
+M4rKãO: raises 1332 to 2376
+fether1993: raises 7346 to 9722 and is all-in
+M4rKãO: calls 7346
+*** FLOP *** [5s 6s Qs]
+*** TURN *** [5s 6s Qs] [Td]
+*** RIVER *** [5s 6s Qs Td] [Jd]
+*** SHOW DOWN ***
+M4rKãO: shows [Ad Ah] (a pair of Aces)
+fether1993: shows [9c Kh] (a straight, Nine to King)
+fether1993 collected 19768 from pot
+*** SUMMARY ***
+Total pot 19768 | Rake 0 
+Board [5s 6s Qs Td Jd]
+Seat 1: fether1993 showed [9c Kh] and won (19768) with a straight, Nine to King
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 (button) folded before Flop (didn't bet)
+Seat 4: Adrianinho1 (small blind) folded before Flop
+Seat 5: schimidtx (big blind) folded before Flop
+Seat 6: BluffTrapper folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO showed [Ad Ah] and lost with a pair of Aces
+
+
+
+PokerStars Hand #254675003249: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 19:28:35 WET [2025/02/02 14:28:35 ET]
+Table '3852815755 105' 8-max Seat #4 is the button
+Seat 1: fether1993 (19768 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (2851 in chips, $2 bounty) 
+Seat 3: Maagister77 (14272 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3525 in chips, $2 bounty) 
+Seat 5: schimidtx (4781 in chips, $2 bounty) 
+Seat 6: BluffTrapper (2972 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6361 in chips, $2 bounty) 
+Seat 8: M4rKãO (2174 in chips, $2 bounty) 
+fether1993: posts the ante 18
+xxxisbxxx: posts the ante 18
+Maagister77: posts the ante 18
+Adrianinho1: posts the ante 18
+schimidtx: posts the ante 18
+BluffTrapper: posts the ante 18
+Kevin12345Mc: posts the ante 18
+M4rKãO: posts the ante 18
+schimidtx: posts small blind 60
+BluffTrapper: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Tc]
+Kevin12345Mc: folds 
+M4rKãO: folds 
+fether1993: folds 
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: raises 120 to 240
+schimidtx: calls 180
+BluffTrapper: folds 
+*** FLOP *** [As 3h Th]
+schimidtx: checks 
+Adrianinho1: bets 246
+schimidtx: calls 246
+*** TURN *** [As 3h Th] [6h]
+schimidtx: checks 
+Adrianinho1: checks 
+*** RIVER *** [As 3h Th 6h] [Ac]
+schimidtx: bets 4277 and is all-in
+Adrianinho1: folds 
+Uncalled bet (4277) returned to schimidtx
+schimidtx collected 1236 from pot
+schimidtx: doesn't show hand 
+*** SUMMARY ***
+Total pot 1236 | Rake 0 
+Board [As 3h Th 6h Ac]
+Seat 1: fether1993 folded before Flop (didn't bet)
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 (button) folded on the River
+Seat 5: schimidtx (small blind) collected (1236)
+Seat 6: BluffTrapper (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254675026691: Tournament #3852815755, $1.92+$2.00+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 19:29:39 WET [2025/02/02 14:29:39 ET]
+Table '3852815755 105' 8-max Seat #5 is the button
+Seat 1: fether1993 (19750 in chips, $3 bounty) 
+Seat 2: xxxisbxxx (2833 in chips, $2 bounty) 
+Seat 3: Maagister77 (14254 in chips, $3 bounty) 
+Seat 4: Adrianinho1 (3021 in chips, $2 bounty) 
+Seat 5: schimidtx (5513 in chips, $2 bounty) 
+Seat 6: BluffTrapper (2834 in chips, $4 bounty) 
+Seat 7: Kevin12345Mc (6343 in chips, $2 bounty) 
+Seat 8: M4rKãO (2156 in chips, $2 bounty) 
+fether1993: posts the ante 18
+xxxisbxxx: posts the ante 18
+Maagister77: posts the ante 18
+Adrianinho1: posts the ante 18
+schimidtx: posts the ante 18
+BluffTrapper: posts the ante 18
+Kevin12345Mc: posts the ante 18
+M4rKãO: posts the ante 18
+BluffTrapper: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 8h]
+M4rKãO: folds 
+fether1993: calls 120
+xxxisbxxx: folds 
+Maagister77: folds 
+Adrianinho1: folds 
+schimidtx: calls 120
+BluffTrapper: calls 60
+Kevin12345Mc: checks 
+*** FLOP *** [3d 8s Jd]
+BluffTrapper: checks 
+Kevin12345Mc: checks 
+fether1993: checks 
+schimidtx: checks 
+*** TURN *** [3d 8s Jd] [Ad]
+BluffTrapper: bets 312
+Kevin12345Mc: folds 
+fether1993: calls 312
+schimidtx: folds 
+*** RIVER *** [3d 8s Jd Ad] [Ah]
+BluffTrapper: bets 624
+fether1993: calls 624
+*** SHOW DOWN ***
+BluffTrapper: shows [9d 9s] (two pair, Aces and Nines)
+fether1993: mucks hand 
+BluffTrapper collected 2496 from pot
+*** SUMMARY ***
+Total pot 2496 | Rake 0 
+Board [3d 8s Jd Ad Ah]
+Seat 1: fether1993 mucked [2c 2d]
+Seat 2: xxxisbxxx folded before Flop (didn't bet)
+Seat 3: Maagister77 folded before Flop (didn't bet)
+Seat 4: Adrianinho1 folded before Flop (didn't bet)
+Seat 5: schimidtx (button) folded on the Turn
+Seat 6: BluffTrapper (small blind) showed [9d 9s] and won (2496) with two pair, Aces and Nines
+Seat 7: Kevin12345Mc (big blind) folded on the Turn
+Seat 8: M4rKãO folded before Flop (didn't bet)
+
+
+

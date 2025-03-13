@@ -1,0 +1,4833 @@
+﻿PokerStars Hand #254862632631: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (125/250) - 2025/02/14 16:54:08 WET [2025/02/14 11:54:08 ET]
+Table '3852792690 251' 8-max Seat #6 is the button
+Seat 1: Beachbum229 (34905 in chips, $7.50 bounty) 
+Seat 2: Lico HC (34770 in chips, $5 bounty) 
+Seat 3: ouacq638 (28730 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25000 in chips, $5 bounty) 
+Seat 5: Zeeusica (19780 in chips, $5 bounty) 
+Seat 6: Tangovida100 (51030 in chips, $7.50 bounty) 
+Seat 7: Jupy9 (25330 in chips, $5 bounty) 
+Seat 8: youngdaddybr (24410 in chips, $5 bounty) 
+Beachbum229: posts the ante 30
+Lico HC: posts the ante 30
+ouacq638: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Zeeusica: posts the ante 30
+Tangovida100: posts the ante 30
+Jupy9: posts the ante 30
+youngdaddybr: posts the ante 30
+Jupy9: posts small blind 125
+youngdaddybr: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 5s]
+Beachbum229: raises 250 to 500
+Lico HC: folds 
+ouacq638: folds 
+Kevin12345Mc: folds 
+Zeeusica: folds 
+Tangovida100: folds 
+Jupy9: calls 375
+youngdaddybr: calls 250
+*** FLOP *** [9d Kh 2d]
+Jupy9: checks 
+youngdaddybr: checks 
+Beachbum229: checks 
+*** TURN *** [9d Kh 2d] [9c]
+Jupy9: checks 
+youngdaddybr: bets 1061
+Beachbum229: folds 
+Jupy9 has timed out
+Jupy9: folds 
+Jupy9 is sitting out
+Uncalled bet (1061) returned to youngdaddybr
+youngdaddybr collected 1740 from pot
+youngdaddybr: doesn't show hand 
+*** SUMMARY ***
+Total pot 1740 | Rake 0 
+Board [9d Kh 2d 9c]
+Seat 1: Beachbum229 folded on the Turn
+Seat 2: Lico HC folded before Flop (didn't bet)
+Seat 3: ouacq638 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Zeeusica folded before Flop (didn't bet)
+Seat 6: Tangovida100 (button) folded before Flop (didn't bet)
+Seat 7: Jupy9 (small blind) folded on the Turn
+Seat 8: youngdaddybr (big blind) collected (1740)
+
+
+
+PokerStars Hand #254862742632: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (125/250) - 2025/02/14 17:03:43 WET [2025/02/14 12:03:43 ET]
+Table '3852792690 251' 8-max Seat #7 is the button
+Seat 1: Beachbum229 (34375 in chips, $7.50 bounty) 
+Seat 2: Lico HC (34740 in chips, $5 bounty) 
+Seat 3: ouacq638 (28700 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24970 in chips, $5 bounty) 
+Seat 5: Zeeusica (19750 in chips, $5 bounty) 
+Seat 6: Tangovida100 (51000 in chips, $7.50 bounty) 
+Seat 7: Jupy9 (24800 in chips, $5 bounty) 
+Seat 8: youngdaddybr (25620 in chips, $5 bounty) 
+Beachbum229: posts the ante 30
+Lico HC: posts the ante 30
+ouacq638: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Zeeusica: posts the ante 30
+Tangovida100: posts the ante 30
+Jupy9: posts the ante 30
+youngdaddybr: posts the ante 30
+youngdaddybr: posts small blind 125
+Beachbum229: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Kc]
+Lico HC: folds 
+ouacq638: raises 250 to 500
+Kevin12345Mc: folds 
+Zeeusica: folds 
+Tangovida100: folds 
+Jupy9: folds 
+youngdaddybr: folds 
+Beachbum229: folds 
+Uncalled bet (250) returned to ouacq638
+ouacq638 collected 865 from pot
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Seat 1: Beachbum229 (big blind) folded before Flop
+Seat 2: Lico HC folded before Flop (didn't bet)
+Seat 3: ouacq638 collected (865)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Zeeusica folded before Flop (didn't bet)
+Seat 6: Tangovida100 folded before Flop (didn't bet)
+Seat 7: Jupy9 (button) folded before Flop (didn't bet)
+Seat 8: youngdaddybr (small blind) folded before Flop
+
+
+
+PokerStars Hand #254862749094: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (125/250) - 2025/02/14 17:04:11 WET [2025/02/14 12:04:11 ET]
+Table '3852792690 251' 8-max Seat #8 is the button
+Seat 1: Beachbum229 (34095 in chips, $7.50 bounty) 
+Seat 2: Lico HC (34710 in chips, $5 bounty) 
+Seat 3: ouacq638 (29285 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24940 in chips, $5 bounty) 
+Seat 5: Zeeusica (19720 in chips, $5 bounty) 
+Seat 6: Tangovida100 (50970 in chips, $7.50 bounty) 
+Seat 7: Jupy9 (24770 in chips, $5 bounty) 
+Seat 8: youngdaddybr (25465 in chips, $5 bounty) 
+Beachbum229: posts the ante 30
+Lico HC: posts the ante 30
+ouacq638: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Zeeusica: posts the ante 30
+Tangovida100: posts the ante 30
+Jupy9: posts the ante 30
+youngdaddybr: posts the ante 30
+Beachbum229: posts small blind 125
+Lico HC: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 7h]
+ouacq638: folds 
+Kevin12345Mc: folds 
+Zeeusica: raises 500 to 750
+Tangovida100: folds 
+Jupy9: folds 
+youngdaddybr: folds 
+Beachbum229: folds 
+Lico HC: calls 500
+*** FLOP *** [Ac 2d 3d]
+Lico HC: checks 
+Zeeusica: bets 1000
+Lico HC: calls 1000
+*** TURN *** [Ac 2d 3d] [Qs]
+Lico HC: checks 
+Zeeusica: bets 1933
+Lico HC: calls 1933
+*** RIVER *** [Ac 2d 3d Qs] [3s]
+Lico HC: checks 
+Zeeusica: bets 5250
+Lico HC: calls 5250
+*** SHOW DOWN ***
+Zeeusica: shows [Ad Js] (two pair, Aces and Threes)
+Lico HC: shows [8c As] (two pair, Aces and Threes)
+Lico HC collected 9116 from pot
+Zeeusica collected 9115 from pot
+*** SUMMARY ***
+Total pot 18231 | Rake 0 
+Board [Ac 2d 3d Qs 3s]
+Seat 1: Beachbum229 (small blind) folded before Flop
+Seat 2: Lico HC (big blind) showed [8c As] and won (9116) with two pair, Aces and Threes
+Seat 3: ouacq638 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Zeeusica showed [Ad Js] and won (9115) with two pair, Aces and Threes
+Seat 6: Tangovida100 folded before Flop (didn't bet)
+Seat 7: Jupy9 folded before Flop (didn't bet)
+Seat 8: youngdaddybr (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862766816: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (125/250) - 2025/02/14 17:05:30 WET [2025/02/14 12:05:30 ET]
+Table '3852792690 251' 8-max Seat #1 is the button
+Seat 1: Beachbum229 (33940 in chips, $7.50 bounty) 
+Seat 2: Lico HC (34863 in chips, $5 bounty) 
+Seat 3: ouacq638 (29255 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24910 in chips, $5 bounty) 
+Seat 5: Zeeusica (19872 in chips, $5 bounty) 
+Seat 6: Tangovida100 (50940 in chips, $7.50 bounty) 
+Seat 7: Jupy9 (24740 in chips, $5 bounty) 
+Seat 8: youngdaddybr (25435 in chips, $5 bounty) 
+Beachbum229: posts the ante 30
+Lico HC: posts the ante 30
+ouacq638: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Zeeusica: posts the ante 30
+Tangovida100: posts the ante 30
+Jupy9: posts the ante 30
+youngdaddybr: posts the ante 30
+Lico HC: posts small blind 125
+ouacq638: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 4s]
+Kevin12345Mc: folds 
+Zeeusica: folds 
+Tangovida100: raises 250 to 500
+Jupy9: calls 500
+youngdaddybr: folds 
+Beachbum229: calls 500
+Lico HC: folds 
+ouacq638: folds 
+*** FLOP *** [9h Kh Th]
+Tangovida100: checks 
+Jupy9: checks 
+Beachbum229: checks 
+*** TURN *** [9h Kh Th] [Ts]
+Tangovida100: checks 
+Jupy9: bets 500
+Beachbum229: calls 500
+Tangovida100: calls 500
+*** RIVER *** [9h Kh Th Ts] [3h]
+Tangovida100: checks 
+Jupy9: checks 
+Beachbum229: checks 
+*** SHOW DOWN ***
+Tangovida100: shows [Ad 7h] (a flush, King high)
+Jupy9: mucks hand 
+Beachbum229: mucks hand 
+Tangovida100 collected 3615 from pot
+*** SUMMARY ***
+Total pot 3615 | Rake 0 
+Board [9h Kh Th Ts 3h]
+Seat 1: Beachbum229 (button) mucked [Ks 9s]
+Seat 2: Lico HC (small blind) folded before Flop
+Seat 3: ouacq638 (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Zeeusica folded before Flop (didn't bet)
+Seat 6: Tangovida100 showed [Ad 7h] and won (3615) with a flush, King high
+Seat 7: Jupy9 mucked [As Kd]
+Seat 8: youngdaddybr folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862780084: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (125/250) - 2025/02/14 17:06:28 WET [2025/02/14 12:06:28 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (23845 in chips, $5 bounty) 
+Seat 2: OtavioBit (20260 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (24350 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24880 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (23725 in chips, $5 bounty) 
+jallu435: posts the ante 30
+OtavioBit: posts the ante 30
+tenrafaelpai: posts the ante 30
+Kevin12345Mc: posts the ante 30
+LucasPaoEpa: posts the ante 30
+OtavioBit: posts small blind 125
+tenrafaelpai: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 2s]
+Kevin12345Mc is disconnected 
+Kevin12345Mc is connected 
+jallu435 is disconnected 
+tenrafaelpai is disconnected 
+LucasPaoEpa is disconnected 
+OtavioBit is disconnected 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+jallu435: folds 
+OtavioBit: calls 125
+tenrafaelpai: checks 
+*** FLOP *** [9d 2h Tc]
+OtavioBit: checks 
+tenrafaelpai: checks 
+*** TURN *** [9d 2h Tc] [Td]
+OtavioBit: checks 
+tenrafaelpai: bets 325
+OtavioBit: folds 
+Uncalled bet (325) returned to tenrafaelpai
+tenrafaelpai collected 650 from pot
+tenrafaelpai: doesn't show hand 
+*** SUMMARY ***
+Total pot 650 | Rake 0 
+Board [9d 2h Tc Td]
+Seat 1: jallu435 (button) folded before Flop (didn't bet)
+Seat 2: OtavioBit (small blind) folded on the Turn
+Seat 3: tenrafaelpai (big blind) collected (650)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862789802: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (125/250) - 2025/02/14 17:07:10 WET [2025/02/14 12:07:10 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (23815 in chips, $5 bounty) 
+Seat 2: OtavioBit (19980 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (24720 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24850 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (23695 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24910 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (25865 in chips, $5 bounty) 
+Seat 8: ogerpitié (25000 in chips, $5 bounty) 
+jallu435: posts the ante 30
+OtavioBit: posts the ante 30
+tenrafaelpai: posts the ante 30
+Kevin12345Mc: posts the ante 30
+LucasPaoEpa: posts the ante 30
+bigpokeras666: posts the ante 30
+Z Dmitry S: posts the ante 30
+ogerpitié: posts the ante 30
+tenrafaelpai: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 9h]
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: raises 250 to 500
+ogerpitié: folds 
+jallu435: folds 
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: calls 250
+*** FLOP *** [Jh 9s 4s]
+Kevin12345Mc: checks 
+Z Dmitry S: bets 450
+Kevin12345Mc: calls 450
+*** TURN *** [Jh 9s 4s] [2h]
+Kevin12345Mc: checks 
+Z Dmitry S: checks 
+*** RIVER *** [Jh 9s 4s 2h] [3d]
+Kevin12345Mc: checks 
+Z Dmitry S: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [8d 9h] (a pair of Nines)
+Z Dmitry S: mucks hand 
+Kevin12345Mc collected 2265 from pot
+*** SUMMARY ***
+Total pot 2265 | Rake 0 
+Board [Jh 9s 4s 2h 3d]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit (button) folded before Flop (didn't bet)
+Seat 3: tenrafaelpai (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) showed [8d 9h] and won (2265) with a pair of Nines
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S mucked [4h Ah]
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862804757: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:08:15 WET [2025/02/14 12:08:15 ET]
+Table '3852792690 336' 8-max Seat #3 is the button
+Seat 1: jallu435 (23785 in chips, $5 bounty) 
+Seat 2: OtavioBit (19950 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (24565 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26135 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (23665 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24880 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (24885 in chips, $5 bounty) 
+Seat 8: ogerpitié (24970 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+Kevin12345Mc: posts small blind 150
+LucasPaoEpa: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 8c]
+bigpokeras666: folds 
+Z Dmitry S: raises 300 to 600
+ogerpitié: folds 
+jallu435: folds 
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: calls 300
+*** FLOP *** [Kc Qs Ks]
+LucasPaoEpa: checks 
+Z Dmitry S: bets 551
+LucasPaoEpa: calls 551
+*** TURN *** [Kc Qs Ks] [7h]
+LucasPaoEpa: checks 
+Z Dmitry S: checks 
+*** RIVER *** [Kc Qs Ks 7h] [2c]
+LucasPaoEpa: bets 1800
+Z Dmitry S: calls 1800
+*** SHOW DOWN ***
+LucasPaoEpa: shows [Kh 7s] (a full house, Kings full of Sevens)
+Z Dmitry S: mucks hand 
+LucasPaoEpa collected 6372 from pot
+*** SUMMARY ***
+Total pot 6372 | Rake 0 
+Board [Kc Qs Ks 7h 2c]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: LucasPaoEpa (big blind) showed [Kh 7s] and won (6372) with a full house, Kings full of Sevens
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S mucked [As Jd]
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862819818: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:09:21 WET [2025/02/14 12:09:21 ET]
+Table '3852792690 336' 8-max Seat #4 is the button
+Seat 1: jallu435 (23745 in chips, $5 bounty) 
+Seat 2: OtavioBit (19910 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (24525 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25945 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (27046 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24840 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (21894 in chips, $5 bounty) 
+Seat 8: ogerpitié (24930 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+LucasPaoEpa: posts small blind 150
+bigpokeras666: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 3d]
+Z Dmitry S: folds 
+ogerpitié: folds 
+jallu435: raises 600 to 900
+OtavioBit: calls 900
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+*** FLOP *** [Ac 3s 2c]
+jallu435: bets 1200
+OtavioBit: folds 
+Uncalled bet (1200) returned to jallu435
+jallu435 collected 2570 from pot
+jallu435: doesn't show hand 
+*** SUMMARY ***
+Total pot 2570 | Rake 0 
+Board [Ac 3s 2c]
+Seat 1: jallu435 collected (2570)
+Seat 2: OtavioBit folded on the Flop
+Seat 3: tenrafaelpai folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (small blind) folded before Flop
+Seat 6: bigpokeras666 (big blind) folded before Flop
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862829097: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:10:01 WET [2025/02/14 12:10:01 ET]
+Table '3852792690 336' 8-max Seat #5 is the button
+Seat 1: jallu435 (25375 in chips, $5 bounty) 
+Seat 2: OtavioBit (18970 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (24485 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25905 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (26856 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24500 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (21854 in chips, $5 bounty) 
+Seat 8: ogerpitié (24890 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+bigpokeras666: posts small blind 150
+Z Dmitry S: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th Kd]
+ogerpitié: folds 
+jallu435: folds 
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: raises 390 to 690
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: calls 390
+*** FLOP *** [8h As 6h]
+Z Dmitry S: checks 
+Kevin12345Mc: bets 611
+Z Dmitry S: folds 
+Uncalled bet (611) returned to Kevin12345Mc
+Kevin12345Mc collected 1850 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1850 | Rake 0 
+Board [8h As 6h]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (1850)
+Seat 5: LucasPaoEpa (button) folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (small blind) folded before Flop
+Seat 7: Z Dmitry S (big blind) folded on the Flop
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862837242: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:10:36 WET [2025/02/14 12:10:36 ET]
+Table '3852792690 336' 8-max Seat #6 is the button
+Seat 1: jallu435 (25335 in chips, $5 bounty) 
+Seat 2: OtavioBit (18930 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (24445 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (27025 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (26816 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24310 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (21124 in chips, $5 bounty) 
+Seat 8: ogerpitié (24850 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+Z Dmitry S: posts small blind 150
+ogerpitié: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 7s]
+jallu435: raises 600 to 900
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+ogerpitié: calls 600
+*** FLOP *** [8s 5h 6h]
+ogerpitié: checks 
+jallu435: checks 
+*** TURN *** [8s 5h 6h] [6s]
+ogerpitié: bets 600
+jallu435: calls 600
+*** RIVER *** [8s 5h 6h 6s] [Tc]
+ogerpitié: checks 
+jallu435: checks 
+*** SHOW DOWN ***
+ogerpitié: shows [Ks Qc] (a pair of Sixes)
+jallu435: shows [As Qd] (a pair of Sixes - Ace kicker)
+jallu435 collected 3470 from pot
+*** SUMMARY ***
+Total pot 3470 | Rake 0 
+Board [8s 5h 6h 6s Tc]
+Seat 1: jallu435 showed [As Qd] and won (3470) with a pair of Sixes
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (button) folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (small blind) folded before Flop
+Seat 8: ogerpitié (big blind) showed [Ks Qc] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #254862848846: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:11:25 WET [2025/02/14 12:11:25 ET]
+Table '3852792690 336' 8-max Seat #7 is the button
+Seat 1: jallu435 (27265 in chips, $5 bounty) 
+Seat 2: OtavioBit (18890 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (24405 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26985 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (26776 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24270 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (20934 in chips, $5 bounty) 
+Seat 8: ogerpitié (23310 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+ogerpitié: posts small blind 150
+jallu435: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Ah]
+OtavioBit: folds 
+tenrafaelpai: raises 300 to 600
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+ogerpitié: folds 
+jallu435: calls 300
+*** FLOP *** [2c 3h 9d]
+jallu435: checks 
+tenrafaelpai: bets 835
+jallu435: calls 835
+*** TURN *** [2c 3h 9d] [5c]
+jallu435: checks 
+tenrafaelpai: checks 
+*** RIVER *** [2c 3h 9d 5c] [Ac]
+jallu435: bets 3900
+tenrafaelpai: folds 
+Uncalled bet (3900) returned to jallu435
+jallu435 collected 3340 from pot
+jallu435: doesn't show hand 
+*** SUMMARY ***
+Total pot 3340 | Rake 0 
+Board [2c 3h 9d 5c Ac]
+Seat 1: jallu435 (big blind) collected (3340)
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai folded on the River
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (button) folded before Flop (didn't bet)
+Seat 8: ogerpitié (small blind) folded before Flop
+
+
+
+PokerStars Hand #254862863137: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:12:26 WET [2025/02/14 12:12:26 ET]
+Table '3852792690 336' 8-max Seat #8 is the button
+Seat 1: jallu435 (29130 in chips, $5 bounty) 
+Seat 2: OtavioBit (18850 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (22930 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26945 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (26736 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24230 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (20894 in chips, $5 bounty) 
+Seat 8: ogerpitié (23120 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+jallu435: posts small blind 150
+OtavioBit: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Kc]
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+ogerpitié: raises 300 to 600
+jallu435: folds 
+OtavioBit: calls 300
+*** FLOP *** [Jd 2c Jc]
+OtavioBit: checks 
+ogerpitié: bets 835
+OtavioBit: raises 1369 to 2204
+ogerpitié: raises 3039 to 5243
+OtavioBit: folds 
+Uncalled bet (3039) returned to ogerpitié
+ogerpitié collected 6078 from pot
+*** SUMMARY ***
+Total pot 6078 | Rake 0 
+Board [Jd 2c Jc]
+Seat 1: jallu435 (small blind) folded before Flop
+Seat 2: OtavioBit (big blind) folded on the Flop
+Seat 3: tenrafaelpai folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: ogerpitié (button) collected (6078)
+
+
+
+PokerStars Hand #254862883053: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:13:49 WET [2025/02/14 12:13:49 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (28940 in chips, $5 bounty) 
+Seat 2: OtavioBit (16006 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (22890 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26905 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (26696 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24190 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (20854 in chips, $5 bounty) 
+Seat 8: ogerpitié (26354 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+OtavioBit: posts small blind 150
+tenrafaelpai: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Ac]
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: raises 300 to 600
+ogerpitié: folds 
+jallu435: calls 600
+OtavioBit: folds 
+tenrafaelpai: folds 
+*** FLOP *** [3d Td 5s]
+Z Dmitry S: checks 
+jallu435: checks 
+*** TURN *** [3d Td 5s] [2d]
+Z Dmitry S: bets 493
+jallu435: folds 
+Uncalled bet (493) returned to Z Dmitry S
+Z Dmitry S collected 1970 from pot
+Z Dmitry S: doesn't show hand 
+*** SUMMARY ***
+Total pot 1970 | Rake 0 
+Board [3d Td 5s 2d]
+Seat 1: jallu435 (button) folded on the Turn
+Seat 2: OtavioBit (small blind) folded before Flop
+Seat 3: tenrafaelpai (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S collected (1970)
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862893163: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:14:32 WET [2025/02/14 12:14:32 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (28300 in chips, $5 bounty) 
+Seat 2: OtavioBit (15816 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (22550 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26865 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (26656 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24150 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (22184 in chips, $5 bounty) 
+Seat 8: ogerpitié (26314 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+tenrafaelpai: posts small blind 150
+Kevin12345Mc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 4h]
+LucasPaoEpa: folds 
+bigpokeras666: calls 300
+Z Dmitry S: folds 
+ogerpitié: folds 
+jallu435: folds 
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [Jh Ts 8d]
+Kevin12345Mc: checks 
+bigpokeras666: bets 1135
+Kevin12345Mc: calls 1135
+*** TURN *** [Jh Ts 8d] [Kd]
+Kevin12345Mc: checks 
+bigpokeras666: bets 22675 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (22675) returned to bigpokeras666
+bigpokeras666 collected 3340 from pot
+*** SUMMARY ***
+Total pot 3340 | Rake 0 
+Board [Jh Ts 8d Kd]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit (button) folded before Flop (didn't bet)
+Seat 3: tenrafaelpai (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded on the Turn
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 collected (3340)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862904562: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:15:19 WET [2025/02/14 12:15:19 ET]
+Table '3852792690 336' 8-max Seat #3 is the button
+Seat 1: jallu435 (28260 in chips, $5 bounty) 
+Seat 2: OtavioBit (15776 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (22360 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25390 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (26616 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26015 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (22144 in chips, $5 bounty) 
+Seat 8: ogerpitié (26274 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+Kevin12345Mc: posts small blind 150
+LucasPaoEpa: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 2d]
+bigpokeras666: folds 
+Z Dmitry S: folds 
+ogerpitié: raises 300 to 600
+jallu435: calls 600
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+*** FLOP *** [5s 9c Jd]
+ogerpitié: checks 
+jallu435: checks 
+*** TURN *** [5s 9c Jd] [8h]
+ogerpitié: bets 600
+jallu435: calls 600
+*** RIVER *** [5s 9c Jd 8h] [6d]
+ogerpitié: checks 
+jallu435: checks 
+*** SHOW DOWN ***
+ogerpitié: shows [5h Ac] (a pair of Fives)
+jallu435: mucks hand 
+ogerpitié collected 3170 from pot
+*** SUMMARY ***
+Total pot 3170 | Rake 0 
+Board [5s 9c Jd 8h 6d]
+Seat 1: jallu435 mucked [Qd Ks]
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: LucasPaoEpa (big blind) folded before Flop
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: ogerpitié showed [5h Ac] and won (3170) with a pair of Fives
+
+
+
+PokerStars Hand #254862917633: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:16:14 WET [2025/02/14 12:16:14 ET]
+Table '3852792690 336' 8-max Seat #4 is the button
+Seat 1: jallu435 (27020 in chips, $5 bounty) 
+Seat 2: OtavioBit (15736 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (22320 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25200 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (26276 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25975 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (22104 in chips, $5 bounty) 
+Seat 8: ogerpitié (28204 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+LucasPaoEpa: posts small blind 150
+bigpokeras666: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 5h]
+Z Dmitry S: folds 
+ogerpitié: folds 
+jallu435: folds 
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: raises 390 to 690
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Uncalled bet (390) returned to Kevin12345Mc
+Kevin12345Mc collected 1070 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) collected (1070)
+Seat 5: LucasPaoEpa (small blind) folded before Flop
+Seat 6: bigpokeras666 (big blind) folded before Flop
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862922885: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:16:37 WET [2025/02/14 12:16:37 ET]
+Table '3852792690 336' 8-max Seat #5 is the button
+Seat 1: jallu435 (26980 in chips, $5 bounty) 
+Seat 2: OtavioBit (15696 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (22280 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25930 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (26086 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25635 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (22064 in chips, $5 bounty) 
+Seat 8: ogerpitié (28164 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+bigpokeras666: posts small blind 150
+Z Dmitry S: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Js]
+ogerpitié: folds 
+jallu435: raises 600 to 900
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Uncalled bet (600) returned to jallu435
+jallu435 collected 1070 from pot
+jallu435: doesn't show hand 
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Seat 1: jallu435 collected (1070)
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (button) folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (small blind) folded before Flop
+Seat 7: Z Dmitry S (big blind) folded before Flop
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862932941: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:17:19 WET [2025/02/14 12:17:19 ET]
+Table '3852792690 336' 8-max Seat #6 is the button
+Seat 1: jallu435 (27710 in chips, $5 bounty) 
+Seat 2: OtavioBit (15656 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (22240 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25890 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (26046 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25445 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (21724 in chips, $5 bounty) 
+Seat 8: ogerpitié (28124 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+Z Dmitry S: posts small blind 150
+ogerpitié: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Kc]
+jallu435: folds 
+OtavioBit: raises 300 to 600
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+ogerpitié: calls 300
+*** FLOP *** [Ks 2c 9c]
+ogerpitié: checks 
+OtavioBit: bets 534
+ogerpitié: folds 
+Uncalled bet (534) returned to OtavioBit
+OtavioBit collected 1670 from pot
+OtavioBit: doesn't show hand 
+*** SUMMARY ***
+Total pot 1670 | Rake 0 
+Board [Ks 2c 9c]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit collected (1670)
+Seat 3: tenrafaelpai folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (button) folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (small blind) folded before Flop
+Seat 8: ogerpitié (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254862944141: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (150/300) - 2025/02/14 17:18:05 WET [2025/02/14 12:18:05 ET]
+Table '3852792690 336' 8-max Seat #7 is the button
+Seat 1: jallu435 (27670 in chips, $5 bounty) 
+Seat 2: OtavioBit (16686 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (22200 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25850 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (26006 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25405 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (21534 in chips, $5 bounty) 
+Seat 8: ogerpitié (27484 in chips, $5 bounty) 
+jallu435: posts the ante 40
+OtavioBit: posts the ante 40
+tenrafaelpai: posts the ante 40
+Kevin12345Mc: posts the ante 40
+LucasPaoEpa: posts the ante 40
+bigpokeras666: posts the ante 40
+Z Dmitry S: posts the ante 40
+ogerpitié: posts the ante 40
+ogerpitié: posts small blind 150
+jallu435: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 2h]
+OtavioBit: folds 
+tenrafaelpai: raises 300 to 600
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: calls 600
+ogerpitié: calls 450
+jallu435: calls 300
+*** FLOP *** [2c 8c 4h]
+ogerpitié: checks 
+jallu435: checks 
+tenrafaelpai: checks 
+Z Dmitry S: bets 898
+ogerpitié: calls 898
+jallu435: folds 
+tenrafaelpai: folds 
+*** TURN *** [2c 8c 4h] [6h]
+ogerpitié: bets 2258
+Z Dmitry S: calls 2258
+*** RIVER *** [2c 8c 4h 6h] [Qd]
+ogerpitié: checks 
+Z Dmitry S: checks 
+*** SHOW DOWN ***
+ogerpitié: shows [5c As] (high card Ace)
+Z Dmitry S: shows [7h 7c] (a pair of Sevens)
+Z Dmitry S collected 9032 from pot
+*** SUMMARY ***
+Total pot 9032 | Rake 0 
+Board [2c 8c 4h 6h Qd]
+Seat 1: jallu435 (big blind) folded on the Flop
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (button) showed [7h 7c] and won (9032) with a pair of Sevens
+Seat 8: ogerpitié (small blind) showed [5c As] and lost with high card Ace
+
+
+
+PokerStars Hand #254862968717: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (200/400) - 2025/02/14 17:19:47 WET [2025/02/14 12:19:47 ET]
+Table '3852792690 336' 8-max Seat #8 is the button
+Seat 1: jallu435 (27030 in chips, $5 bounty) 
+Seat 2: OtavioBit (16646 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (21560 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25810 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (25966 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25365 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (26770 in chips, $5 bounty) 
+Seat 8: ogerpitié (23688 in chips, $5 bounty) 
+jallu435: posts the ante 50
+OtavioBit: posts the ante 50
+tenrafaelpai: posts the ante 50
+Kevin12345Mc: posts the ante 50
+LucasPaoEpa: posts the ante 50
+bigpokeras666: posts the ante 50
+Z Dmitry S: posts the ante 50
+ogerpitié: posts the ante 50
+jallu435: posts small blind 200
+OtavioBit: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Kc]
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: raises 400 to 800
+ogerpitié: raises 1400 to 2200
+jallu435: folds 
+OtavioBit: folds 
+Z Dmitry S: raises 3600 to 5800
+ogerpitié: raises 17838 to 23638 and is all-in
+Z Dmitry S: calls 17838
+*** FLOP *** [5h 9c Ac]
+*** TURN *** [5h 9c Ac] [5s]
+*** RIVER *** [5h 9c Ac 5s] [4c]
+*** SHOW DOWN ***
+Z Dmitry S: shows [Ks Ad] (two pair, Aces and Fives)
+ogerpitié: shows [As Kh] (two pair, Aces and Fives)
+Z Dmitry S collected 24138 from pot
+ogerpitié collected 24138 from pot
+*** SUMMARY ***
+Total pot 48276 | Rake 0 
+Board [5h 9c Ac 5s 4c]
+Seat 1: jallu435 (small blind) folded before Flop
+Seat 2: OtavioBit (big blind) folded before Flop
+Seat 3: tenrafaelpai folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S showed [Ks Ad] and won (24138) with two pair, Aces and Fives
+Seat 8: ogerpitié (button) showed [As Kh] and won (24138) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #254862983784: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (200/400) - 2025/02/14 17:20:50 WET [2025/02/14 12:20:50 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (26780 in chips, $5 bounty) 
+Seat 2: OtavioBit (16196 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (21510 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25760 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (25916 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25315 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (27220 in chips, $5 bounty) 
+Seat 8: ogerpitié (24138 in chips, $5 bounty) 
+jallu435: posts the ante 50
+OtavioBit: posts the ante 50
+tenrafaelpai: posts the ante 50
+Kevin12345Mc: posts the ante 50
+LucasPaoEpa: posts the ante 50
+bigpokeras666: posts the ante 50
+Z Dmitry S: posts the ante 50
+ogerpitié: posts the ante 50
+OtavioBit: posts small blind 200
+tenrafaelpai: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 8c]
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: raises 400 to 800
+ogerpitié: folds 
+jallu435: calls 800
+OtavioBit: folds 
+tenrafaelpai: folds 
+*** FLOP *** [Th Ts Ac]
+Z Dmitry S: bets 858
+jallu435: calls 858
+*** TURN *** [Th Ts Ac] [6c]
+Z Dmitry S: bets 3000
+jallu435: calls 3000
+*** RIVER *** [Th Ts Ac 6c] [4s]
+Z Dmitry S: bets 8253
+jallu435: calls 8253
+*** SHOW DOWN ***
+Z Dmitry S: shows [Ad Tc] (a full house, Tens full of Aces)
+jallu435: mucks hand 
+Z Dmitry S collected 26822 from pot
+*** SUMMARY ***
+Total pot 26822 | Rake 0 
+Board [Th Ts Ac 6c 4s]
+Seat 1: jallu435 (button) mucked [Js Ah]
+Seat 2: OtavioBit (small blind) folded before Flop
+Seat 3: tenrafaelpai (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S showed [Ad Tc] and won (26822) with a full house, Tens full of Aces
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862997003: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (200/400) - 2025/02/14 17:21:45 WET [2025/02/14 12:21:45 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (13819 in chips, $5 bounty) 
+Seat 2: OtavioBit (15946 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (21060 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25710 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (25866 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25265 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (41081 in chips, $5 bounty) 
+Seat 8: ogerpitié (24088 in chips, $5 bounty) 
+jallu435: posts the ante 50
+OtavioBit: posts the ante 50
+tenrafaelpai: posts the ante 50
+Kevin12345Mc: posts the ante 50
+LucasPaoEpa: posts the ante 50
+bigpokeras666: posts the ante 50
+Z Dmitry S: posts the ante 50
+ogerpitié: posts the ante 50
+tenrafaelpai: posts small blind 200
+Kevin12345Mc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 2c]
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+ogerpitié: folds 
+jallu435: folds 
+OtavioBit: raises 400 to 800
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+Uncalled bet (400) returned to OtavioBit
+OtavioBit collected 1400 from pot
+OtavioBit: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit (button) collected (1400)
+Seat 3: tenrafaelpai (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863003992: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (200/400) - 2025/02/14 17:22:14 WET [2025/02/14 12:22:14 ET]
+Table '3852792690 336' 8-max Seat #3 is the button
+Seat 1: jallu435 (13769 in chips, $5 bounty) 
+Seat 2: OtavioBit (16896 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (20810 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25260 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (25816 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25215 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (41031 in chips, $5 bounty) 
+Seat 8: ogerpitié (24038 in chips, $5 bounty) 
+jallu435: posts the ante 50
+OtavioBit: posts the ante 50
+tenrafaelpai: posts the ante 50
+Kevin12345Mc: posts the ante 50
+LucasPaoEpa: posts the ante 50
+bigpokeras666: posts the ante 50
+Z Dmitry S: posts the ante 50
+ogerpitié: posts the ante 50
+Kevin12345Mc: posts small blind 200
+LucasPaoEpa: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 4h]
+bigpokeras666: calls 400
+Z Dmitry S: folds 
+ogerpitié: folds 
+jallu435: raises 1200 to 1600
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: calls 1200
+*** FLOP *** [Td 2s Kh]
+bigpokeras666: checks 
+jallu435: bets 3200
+bigpokeras666: folds 
+Uncalled bet (3200) returned to jallu435
+jallu435 collected 4200 from pot
+jallu435: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Board [Td 2s Kh]
+Seat 1: jallu435 collected (4200)
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: LucasPaoEpa (big blind) folded before Flop
+Seat 6: bigpokeras666 folded on the Flop
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863015084: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (200/400) - 2025/02/14 17:23:00 WET [2025/02/14 12:23:00 ET]
+Table '3852792690 336' 8-max Seat #4 is the button
+Seat 1: jallu435 (16319 in chips, $5 bounty) 
+Seat 2: OtavioBit (16846 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (20760 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25010 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (25366 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (23565 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (40981 in chips, $5 bounty) 
+Seat 8: ogerpitié (23988 in chips, $5 bounty) 
+jallu435: posts the ante 50
+OtavioBit: posts the ante 50
+tenrafaelpai: posts the ante 50
+Kevin12345Mc: posts the ante 50
+LucasPaoEpa: posts the ante 50
+bigpokeras666: posts the ante 50
+Z Dmitry S: posts the ante 50
+ogerpitié: posts the ante 50
+LucasPaoEpa: posts small blind 200
+bigpokeras666: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 5c]
+Z Dmitry S: folds 
+ogerpitié: folds 
+jallu435: raises 800 to 1200
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: calls 800
+*** FLOP *** [Kd Ac Ah]
+bigpokeras666: checks 
+jallu435: checks 
+*** TURN *** [Kd Ac Ah] [Ad]
+bigpokeras666: checks 
+jallu435: bets 1200
+bigpokeras666: calls 1200
+*** RIVER *** [Kd Ac Ah Ad] [5d]
+bigpokeras666: bets 8200
+jallu435: folds 
+Uncalled bet (8200) returned to bigpokeras666
+bigpokeras666 collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | Rake 0 
+Board [Kd Ac Ah Ad 5d]
+Seat 1: jallu435 folded on the River
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (small blind) folded before Flop
+Seat 6: bigpokeras666 (big blind) collected (5400)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: ogerpitié folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863027635: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (200/400) - 2025/02/14 17:23:53 WET [2025/02/14 12:23:53 ET]
+Table '3852792690 336' 8-max Seat #5 is the button
+Seat 1: jallu435 (13869 in chips, $5 bounty) 
+Seat 2: OtavioBit (16796 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (20710 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24960 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (25116 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26515 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (40931 in chips, $5 bounty) 
+Seat 8: ogerpitié (23938 in chips, $5 bounty) 
+jallu435: posts the ante 50
+OtavioBit: posts the ante 50
+tenrafaelpai: posts the ante 50
+Kevin12345Mc: posts the ante 50
+LucasPaoEpa: posts the ante 50
+bigpokeras666: posts the ante 50
+Z Dmitry S: posts the ante 50
+ogerpitié: posts the ante 50
+bigpokeras666: posts small blind 200
+Z Dmitry S: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 9h]
+ogerpitié: raises 400 to 800
+jallu435: folds 
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Uncalled bet (400) returned to ogerpitié
+ogerpitié collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (button) folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (small blind) folded before Flop
+Seat 7: Z Dmitry S (big blind) folded before Flop
+Seat 8: ogerpitié collected (1400)
+
+
+
+PokerStars Hand #254863032761: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (200/400) - 2025/02/14 17:24:14 WET [2025/02/14 12:24:14 ET]
+Table '3852792690 336' 8-max Seat #6 is the button
+Seat 1: jallu435 (13819 in chips, $5 bounty) 
+Seat 2: OtavioBit (16746 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (20660 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24910 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (25066 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26265 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (40481 in chips, $5 bounty) 
+Seat 8: ogerpitié (24888 in chips, $5 bounty) 
+jallu435: posts the ante 50
+OtavioBit: posts the ante 50
+tenrafaelpai: posts the ante 50
+Kevin12345Mc: posts the ante 50
+LucasPaoEpa: posts the ante 50
+bigpokeras666: posts the ante 50
+Z Dmitry S: posts the ante 50
+ogerpitié: posts the ante 50
+Z Dmitry S: posts small blind 200
+ogerpitié: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 8s]
+jallu435: calls 400
+OtavioBit: folds 
+tenrafaelpai: calls 400
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: calls 200
+ogerpitié: checks 
+*** FLOP *** [5h 3h 7s]
+Z Dmitry S: checks 
+ogerpitié: checks 
+jallu435: checks 
+tenrafaelpai: checks 
+*** TURN *** [5h 3h 7s] [3d]
+Z Dmitry S: checks 
+ogerpitié: bets 1000
+jallu435: folds 
+tenrafaelpai: folds 
+Z Dmitry S: folds 
+Uncalled bet (1000) returned to ogerpitié
+ogerpitié collected 2000 from pot
+ogerpitié: shows [8h 8d] (two pair, Eights and Threes)
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Board [5h 3h 7s 3d]
+Seat 1: jallu435 folded on the Turn
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai folded on the Turn
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (button) folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (small blind) folded on the Turn
+Seat 8: ogerpitié (big blind) collected (2000)
+
+
+
+PokerStars Hand #254863045932: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (200/400) - 2025/02/14 17:25:09 WET [2025/02/14 12:25:09 ET]
+Table '3852792690 336' 8-max Seat #7 is the button
+Seat 1: jallu435 (13369 in chips, $5 bounty) 
+Seat 2: OtavioBit (16696 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (20210 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24860 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (25016 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26215 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (40031 in chips, $5 bounty) 
+Seat 8: ogerpitié (26438 in chips, $5 bounty) 
+jallu435: posts the ante 50
+OtavioBit: posts the ante 50
+tenrafaelpai: posts the ante 50
+Kevin12345Mc: posts the ante 50
+LucasPaoEpa: posts the ante 50
+bigpokeras666: posts the ante 50
+Z Dmitry S: posts the ante 50
+ogerpitié: posts the ante 50
+ogerpitié: posts small blind 200
+jallu435: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 3c]
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: raises 800 to 1200
+Z Dmitry S: folds 
+ogerpitié: folds 
+jallu435: calls 800
+*** FLOP *** [Qc 7c 4s]
+jallu435: checks 
+bigpokeras666: bets 1500
+jallu435: folds 
+Uncalled bet (1500) returned to bigpokeras666
+bigpokeras666 collected 3000 from pot
+*** SUMMARY ***
+Total pot 3000 | Rake 0 
+Board [Qc 7c 4s]
+Seat 1: jallu435 (big blind) folded on the Flop
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 collected (3000)
+Seat 7: Z Dmitry S (button) folded before Flop (didn't bet)
+Seat 8: ogerpitié (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863055072: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (200/400) - 2025/02/14 17:25:47 WET [2025/02/14 12:25:47 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (12119 in chips, $5 bounty) 
+Seat 2: OtavioBit (16646 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (20160 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24810 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (24966 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (27965 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (39981 in chips, $5 bounty) 
+jallu435: posts the ante 50
+OtavioBit: posts the ante 50
+tenrafaelpai: posts the ante 50
+Kevin12345Mc: posts the ante 50
+LucasPaoEpa: posts the ante 50
+bigpokeras666: posts the ante 50
+Z Dmitry S: posts the ante 50
+OtavioBit: posts small blind 200
+tenrafaelpai: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 8d]
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+jallu435: raises 800 to 1200
+OtavioBit: folds 
+tenrafaelpai: calls 800
+*** FLOP *** [8s Kh Jc]
+Schullenmaker is disconnected 
+tenrafaelpai: checks 
+jallu435: bets 1600
+tenrafaelpai: folds 
+Uncalled bet (1600) returned to jallu435
+jallu435 collected 2950 from pot
+jallu435: doesn't show hand 
+*** SUMMARY ***
+Total pot 2950 | Rake 0 
+Board [8s Kh Jc]
+Seat 1: jallu435 (button) collected (2950)
+Seat 2: OtavioBit (small blind) folded before Flop
+Seat 3: tenrafaelpai (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863070379: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (200/400) - 2025/02/14 17:26:50 WET [2025/02/14 12:26:50 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (13819 in chips, $5 bounty) 
+Seat 2: OtavioBit (16396 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (18910 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24760 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (24916 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (27915 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (39931 in chips, $5 bounty) 
+Seat 8: Schullenmaker (25000 in chips, $5 bounty) 
+jallu435: posts the ante 50
+OtavioBit: posts the ante 50
+tenrafaelpai: posts the ante 50
+Kevin12345Mc: posts the ante 50
+LucasPaoEpa: posts the ante 50
+bigpokeras666: posts the ante 50
+Z Dmitry S: posts the ante 50
+Schullenmaker: posts the ante 50
+tenrafaelpai: posts small blind 200
+Kevin12345Mc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 2d]
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: raises 800 to 1200
+OtavioBit: folds 
+tenrafaelpai: folds 
+Kevin12345Mc: folds 
+Uncalled bet (800) returned to jallu435
+jallu435 collected 1400 from pot
+jallu435: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 1: jallu435 collected (1400)
+Seat 2: OtavioBit (button) folded before Flop (didn't bet)
+Seat 3: tenrafaelpai (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863079342: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (200/400) - 2025/02/14 17:27:27 WET [2025/02/14 12:27:27 ET]
+Table '3852792690 336' 8-max Seat #3 is the button
+Seat 1: jallu435 (14769 in chips, $5 bounty) 
+Seat 2: OtavioBit (16346 in chips, $5 bounty) 
+Seat 3: tenrafaelpai (18660 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24310 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (24866 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (27865 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (39881 in chips, $5 bounty) 
+Seat 8: Schullenmaker (24950 in chips, $5 bounty) 
+jallu435: posts the ante 50
+OtavioBit: posts the ante 50
+tenrafaelpai: posts the ante 50
+Kevin12345Mc: posts the ante 50
+LucasPaoEpa: posts the ante 50
+bigpokeras666: posts the ante 50
+Z Dmitry S: posts the ante 50
+Schullenmaker: posts the ante 50
+Kevin12345Mc: posts small blind 200
+LucasPaoEpa: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 9d]
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Schullenmaker: raises 400 to 800
+jallu435: folds 
+OtavioBit: folds 
+tenrafaelpai: calls 800
+Kevin12345Mc: calls 600
+LucasPaoEpa: calls 400
+*** FLOP *** [Qd Ac Js]
+Kevin12345Mc: checks 
+LucasPaoEpa: checks 
+Schullenmaker: checks 
+tenrafaelpai: checks 
+*** TURN *** [Qd Ac Js] [9c]
+Kevin12345Mc: checks 
+LucasPaoEpa: checks 
+Schullenmaker: bets 1800
+tenrafaelpai: calls 1800
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+*** RIVER *** [Qd Ac Js 9c] [8s]
+Schullenmaker: checks 
+tenrafaelpai: bets 16010 and is all-in
+Schullenmaker: calls 16010
+*** SHOW DOWN ***
+tenrafaelpai: shows [5c 4c] (high card Ace)
+Schullenmaker: shows [Ah Td] (a straight, Eight to Queen)
+Schullenmaker collected 39220 from pot
+Schullenmaker wins $2.50 for eliminating tenrafaelpai and their own bounty increases by $2.50 to $7.50
+tenrafaelpai finished the tournament
+*** SUMMARY ***
+Total pot 39220 | Rake 0 
+Board [Qd Ac Js 9c 8s]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: tenrafaelpai (button) showed [5c 4c] and lost with high card Ace
+Seat 4: Kevin12345Mc (small blind) folded on the Turn
+Seat 5: LucasPaoEpa (big blind) folded on the Turn
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker showed [Ah Td] and won (39220) with a straight, Eight to Queen
+
+
+
+PokerStars Hand #254863110516: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (250/500) - 2025/02/14 17:29:37 WET [2025/02/14 12:29:37 ET]
+Table '3852792690 336' 8-max Seat #4 is the button
+Seat 1: jallu435 (14719 in chips, $5 bounty) 
+Seat 2: OtavioBit (16296 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (23460 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (24016 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (27815 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (39831 in chips, $5 bounty) 
+Seat 8: Schullenmaker (45510 in chips, $7.50 bounty) 
+jallu435: posts the ante 60
+OtavioBit: posts the ante 60
+Kevin12345Mc: posts the ante 60
+LucasPaoEpa: posts the ante 60
+bigpokeras666: posts the ante 60
+Z Dmitry S: posts the ante 60
+Schullenmaker: posts the ante 60
+LucasPaoEpa: posts small blind 250
+bigpokeras666: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 2d]
+Z Dmitry S: folds 
+Schullenmaker: raises 500 to 1000
+jallu435: folds 
+OtavioBit: folds 
+kovdian is disconnected 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Uncalled bet (500) returned to Schullenmaker
+Schullenmaker collected 1670 from pot
+Schullenmaker: doesn't show hand 
+*** SUMMARY ***
+Total pot 1670 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (small blind) folded before Flop
+Seat 6: bigpokeras666 (big blind) folded before Flop
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker collected (1670)
+
+
+
+PokerStars Hand #254863116658: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (250/500) - 2025/02/14 17:30:02 WET [2025/02/14 12:30:02 ET]
+Table '3852792690 336' 8-max Seat #5 is the button
+Seat 1: jallu435 (14659 in chips, $5 bounty) 
+Seat 2: OtavioBit (16236 in chips, $5 bounty) 
+Seat 3: kovdian (25000 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (23400 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (23706 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (27255 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (39771 in chips, $5 bounty) 
+Seat 8: Schullenmaker (46620 in chips, $7.50 bounty) 
+jallu435: posts the ante 60
+OtavioBit: posts the ante 60
+kovdian: posts the ante 60
+Kevin12345Mc: posts the ante 60
+LucasPaoEpa: posts the ante 60
+bigpokeras666: posts the ante 60
+Z Dmitry S: posts the ante 60
+Schullenmaker: posts the ante 60
+bigpokeras666: posts small blind 250
+Z Dmitry S: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 6h]
+Schullenmaker: folds 
+jallu435: calls 500
+OtavioBit: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: calls 500
+bigpokeras666: folds 
+Z Dmitry S: checks 
+*** FLOP *** [9h 8h 5s]
+Z Dmitry S: checks 
+jallu435: bets 1000
+LucasPaoEpa: calls 1000
+Z Dmitry S: folds 
+*** TURN *** [9h 8h 5s] [7s]
+jallu435: bets 3000
+LucasPaoEpa: calls 3000
+*** RIVER *** [9h 8h 5s 7s] [7h]
+jallu435: bets 3000
+LucasPaoEpa: raises 8000 to 11000
+jallu435: folds 
+Uncalled bet (8000) returned to LucasPaoEpa
+LucasPaoEpa collected 16230 from pot
+LucasPaoEpa: doesn't show hand 
+*** SUMMARY ***
+Total pot 16230 | Rake 0 
+Board [9h 8h 5s 7s 7h]
+Seat 1: jallu435 folded on the River
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (button) collected (16230)
+Seat 6: bigpokeras666 (small blind) folded before Flop
+Seat 7: Z Dmitry S (big blind) folded on the Flop
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863137780: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (250/500) - 2025/02/14 17:31:28 WET [2025/02/14 12:31:28 ET]
+Table '3852792690 336' 8-max Seat #6 is the button
+Seat 1: jallu435 (7099 in chips, $5 bounty) 
+Seat 2: OtavioBit (16176 in chips, $5 bounty) 
+Seat 3: kovdian (24940 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (23340 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32376 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26945 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (39211 in chips, $5 bounty) 
+Seat 8: Schullenmaker (46560 in chips, $7.50 bounty) 
+jallu435: posts the ante 60
+OtavioBit: posts the ante 60
+kovdian: posts the ante 60
+Kevin12345Mc: posts the ante 60
+LucasPaoEpa: posts the ante 60
+bigpokeras666: posts the ante 60
+Z Dmitry S: posts the ante 60
+Schullenmaker: posts the ante 60
+Z Dmitry S: posts small blind 250
+Schullenmaker: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 9s]
+jallu435: folds 
+OtavioBit: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: raises 1250 to 1750
+Schullenmaker: folds 
+Uncalled bet (1250) returned to Z Dmitry S
+Z Dmitry S collected 1480 from pot
+Z Dmitry S: doesn't show hand 
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (button) folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (small blind) collected (1480)
+Seat 8: Schullenmaker (big blind) folded before Flop
+
+
+
+PokerStars Hand #254863144071: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (250/500) - 2025/02/14 17:31:53 WET [2025/02/14 12:31:53 ET]
+Table '3852792690 336' 8-max Seat #7 is the button
+Seat 1: jallu435 (7039 in chips, $5 bounty) 
+Seat 2: OtavioBit (16116 in chips, $5 bounty) 
+Seat 3: kovdian (24880 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (23280 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32316 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26885 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (40131 in chips, $5 bounty) 
+Seat 8: Schullenmaker (46000 in chips, $7.50 bounty) 
+jallu435: posts the ante 60
+OtavioBit: posts the ante 60
+kovdian: posts the ante 60
+Kevin12345Mc: posts the ante 60
+LucasPaoEpa: posts the ante 60
+bigpokeras666: posts the ante 60
+Z Dmitry S: posts the ante 60
+Schullenmaker: posts the ante 60
+Schullenmaker: posts small blind 250
+jallu435: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Qc]
+OtavioBit: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: raises 500 to 1000
+Schullenmaker: folds 
+jallu435: calls 500
+*** FLOP *** [2c 3c 5s]
+jallu435: checks 
+Z Dmitry S: bets 683
+jallu435: calls 683
+*** TURN *** [2c 3c 5s] [5c]
+jallu435: checks 
+Z Dmitry S: bets 2048
+jallu435: raises 3248 to 5296 and is all-in
+Z Dmitry S: calls 3248
+*** RIVER *** [2c 3c 5s 5c] [Jc]
+*** SHOW DOWN ***
+jallu435: shows [Th 3h] (two pair, Fives and Threes)
+Z Dmitry S: shows [4s 9s] (a pair of Fives)
+jallu435 collected 14688 from pot
+*** SUMMARY ***
+Total pot 14688 | Rake 0 
+Board [2c 3c 5s 5c Jc]
+Seat 1: jallu435 (big blind) showed [Th 3h] and won (14688) with two pair, Fives and Threes
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (button) showed [4s 9s] and lost with a pair of Fives
+Seat 8: Schullenmaker (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863156843: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (250/500) - 2025/02/14 17:32:45 WET [2025/02/14 12:32:45 ET]
+Table '3852792690 336' 8-max Seat #8 is the button
+Seat 1: jallu435 (14688 in chips, $5 bounty) 
+Seat 2: OtavioBit (16056 in chips, $5 bounty) 
+Seat 3: kovdian (24820 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (23220 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32256 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26825 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (33092 in chips, $5 bounty) 
+Seat 8: Schullenmaker (45690 in chips, $7.50 bounty) 
+jallu435: posts the ante 60
+OtavioBit: posts the ante 60
+kovdian: posts the ante 60
+Kevin12345Mc: posts the ante 60
+LucasPaoEpa: posts the ante 60
+bigpokeras666: posts the ante 60
+Z Dmitry S: posts the ante 60
+Schullenmaker: posts the ante 60
+jallu435: posts small blind 250
+OtavioBit: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 9c]
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: raises 500 to 1000
+Schullenmaker: folds 
+jallu435: calls 750
+OtavioBit: folds 
+*** FLOP *** [2c 5s Jc]
+jallu435: checks 
+Z Dmitry S: bets 983
+jallu435: calls 983
+*** TURN *** [2c 5s Jc] [2d]
+jallu435: checks 
+Z Dmitry S: checks 
+*** RIVER *** [2c 5s Jc 2d] [7s]
+jallu435: bets 2000
+Z Dmitry S: calls 2000
+*** SHOW DOWN ***
+jallu435: shows [7d 5c] (two pair, Sevens and Fives)
+Z Dmitry S: mucks hand 
+jallu435 collected 8946 from pot
+*** SUMMARY ***
+Total pot 8946 | Rake 0 
+Board [2c 5s Jc 2d 7s]
+Seat 1: jallu435 (small blind) showed [7d 5c] and won (8946) with two pair, Sevens and Fives
+Seat 2: OtavioBit (big blind) folded before Flop
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S mucked [Ad 9s]
+Seat 8: Schullenmaker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863168521: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (250/500) - 2025/02/14 17:33:33 WET [2025/02/14 12:33:33 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (19591 in chips, $5 bounty) 
+Seat 2: OtavioBit (15496 in chips, $5 bounty) 
+Seat 3: kovdian (24760 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (23160 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32196 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26765 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (29049 in chips, $5 bounty) 
+Seat 8: Schullenmaker (45630 in chips, $7.50 bounty) 
+jallu435: posts the ante 60
+OtavioBit: posts the ante 60
+kovdian: posts the ante 60
+Kevin12345Mc: posts the ante 60
+LucasPaoEpa: posts the ante 60
+bigpokeras666: posts the ante 60
+Z Dmitry S: posts the ante 60
+Schullenmaker: posts the ante 60
+OtavioBit: posts small blind 250
+kovdian: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Ah]
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: calls 500
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: calls 500
+OtavioBit: folds 
+kovdian: checks 
+*** FLOP *** [Js 6s 7h]
+kovdian: checks 
+bigpokeras666: checks 
+jallu435: bets 2500
+kovdian: folds 
+bigpokeras666: folds 
+Uncalled bet (2500) returned to jallu435
+jallu435 collected 2230 from pot
+jallu435: doesn't show hand 
+*** SUMMARY ***
+Total pot 2230 | Rake 0 
+Board [Js 6s 7h]
+Seat 1: jallu435 (button) collected (2230)
+Seat 2: OtavioBit (small blind) folded before Flop
+Seat 3: kovdian (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded on the Flop
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863178993: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (250/500) - 2025/02/14 17:34:15 WET [2025/02/14 12:34:15 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (21261 in chips, $5 bounty) 
+Seat 2: OtavioBit (15186 in chips, $5 bounty) 
+Seat 3: kovdian (24200 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (23100 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32136 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26205 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (28989 in chips, $5 bounty) 
+Seat 8: Schullenmaker (45570 in chips, $7.50 bounty) 
+jallu435: posts the ante 60
+OtavioBit: posts the ante 60
+kovdian: posts the ante 60
+Kevin12345Mc: posts the ante 60
+LucasPaoEpa: posts the ante 60
+bigpokeras666: posts the ante 60
+Z Dmitry S: posts the ante 60
+Schullenmaker: posts the ante 60
+kovdian: posts small blind 250
+Kevin12345Mc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 9s]
+LucasPaoEpa: folds 
+bigpokeras666: calls 500
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: folds 
+OtavioBit: calls 500
+kovdian: calls 250
+Kevin12345Mc: checks 
+*** FLOP *** [2s 5c 4c]
+kovdian: checks 
+Kevin12345Mc: checks 
+bigpokeras666: checks 
+OtavioBit: bets 1500
+kovdian: calls 1500
+Kevin12345Mc: calls 1500
+bigpokeras666: folds 
+*** TURN *** [2s 5c 4c] [Jc]
+kovdian: checks 
+Kevin12345Mc: checks 
+OtavioBit: checks 
+*** RIVER *** [2s 5c 4c Jc] [Js]
+kovdian: checks 
+Kevin12345Mc: checks 
+OtavioBit: checks 
+*** SHOW DOWN ***
+kovdian: shows [5h Kd] (two pair, Jacks and Fives)
+Kevin12345Mc: mucks hand 
+OtavioBit: shows [6h 6c] (two pair, Jacks and Sixes)
+OtavioBit collected 6980 from pot
+*** SUMMARY ***
+Total pot 6980 | Rake 0 
+Board [2s 5c 4c Jc Js]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit (button) showed [6h 6c] and won (6980) with two pair, Jacks and Sixes
+Seat 3: kovdian (small blind) showed [5h Kd] and lost with two pair, Jacks and Fives
+Seat 4: Kevin12345Mc (big blind) mucked [6s 9s]
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded on the Flop
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863201626: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (250/500) - 2025/02/14 17:35:49 WET [2025/02/14 12:35:49 ET]
+Table '3852792690 336' 8-max Seat #3 is the button
+Seat 1: jallu435 (21201 in chips, $5 bounty) 
+Seat 2: OtavioBit (20106 in chips, $5 bounty) 
+Seat 3: kovdian (22140 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (21040 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32076 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25645 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (28929 in chips, $5 bounty) 
+Seat 8: Schullenmaker (45510 in chips, $7.50 bounty) 
+jallu435: posts the ante 60
+OtavioBit: posts the ante 60
+kovdian: posts the ante 60
+Kevin12345Mc: posts the ante 60
+LucasPaoEpa: posts the ante 60
+bigpokeras666: posts the ante 60
+Z Dmitry S: posts the ante 60
+Schullenmaker: posts the ante 60
+Kevin12345Mc: posts small blind 250
+LucasPaoEpa: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 6h]
+bigpokeras666: folds 
+Z Dmitry S: raises 500 to 1000
+Schullenmaker: folds 
+jallu435: folds 
+OtavioBit: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+Uncalled bet (500) returned to Z Dmitry S
+Z Dmitry S collected 1730 from pot
+Z Dmitry S: doesn't show hand 
+*** SUMMARY ***
+Total pot 1730 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: OtavioBit folded before Flop (didn't bet)
+Seat 3: kovdian (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: LucasPaoEpa (big blind) folded before Flop
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S collected (1730)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863209656: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (250/500) - 2025/02/14 17:36:22 WET [2025/02/14 12:36:22 ET]
+Table '3852792690 336' 8-max Seat #4 is the button
+Seat 1: jallu435 (21141 in chips, $5 bounty) 
+Seat 2: OtavioBit (20046 in chips, $5 bounty) 
+Seat 3: kovdian (22080 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (20730 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (31516 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25585 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (30099 in chips, $5 bounty) 
+Seat 8: Schullenmaker (45450 in chips, $7.50 bounty) 
+jallu435: posts the ante 60
+OtavioBit: posts the ante 60
+kovdian: posts the ante 60
+Kevin12345Mc: posts the ante 60
+LucasPaoEpa: posts the ante 60
+bigpokeras666: posts the ante 60
+Z Dmitry S: posts the ante 60
+Schullenmaker: posts the ante 60
+LucasPaoEpa: posts small blind 250
+bigpokeras666: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 2s]
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: raises 1000 to 1500
+OtavioBit: raises 3000 to 4500
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+jallu435: raises 16581 to 21081 and is all-in
+OtavioBit: calls 15486 and is all-in
+Uncalled bet (1095) returned to jallu435
+*** FLOP *** [6s Kd 3c]
+*** TURN *** [6s Kd 3c] [5h]
+*** RIVER *** [6s Kd 3c 5h] [9h]
+*** SHOW DOWN ***
+jallu435: shows [Kh As] (a pair of Kings)
+OtavioBit: shows [Td Ts] (a pair of Tens)
+jallu435 collected 41202 from pot
+jallu435 wins $2.50 for eliminating OtavioBit and their own bounty increases by $2.50 to $7.50
+OtavioBit finished the tournament
+napalu daish is disconnected 
+*** SUMMARY ***
+Total pot 41202 | Rake 0 
+Board [6s Kd 3c 5h 9h]
+Seat 1: jallu435 showed [Kh As] and won (41202) with a pair of Kings
+Seat 2: OtavioBit showed [Td Ts] and lost with a pair of Tens
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (small blind) folded before Flop
+Seat 6: bigpokeras666 (big blind) folded before Flop
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863223012: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (250/500) - 2025/02/14 17:37:16 WET [2025/02/14 12:37:16 ET]
+Table '3852792690 336' 8-max Seat #5 is the button
+Seat 1: jallu435 (42297 in chips, $7.50 bounty) 
+Seat 2: napalu daish (25000 in chips, $5 bounty) 
+Seat 3: kovdian (22020 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (20670 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (31206 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25025 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (30039 in chips, $5 bounty) 
+Seat 8: Schullenmaker (45390 in chips, $7.50 bounty) 
+jallu435: posts the ante 60
+napalu daish: posts the ante 60
+kovdian: posts the ante 60
+Kevin12345Mc: posts the ante 60
+LucasPaoEpa: posts the ante 60
+bigpokeras666: posts the ante 60
+Z Dmitry S: posts the ante 60
+Schullenmaker: posts the ante 60
+bigpokeras666: posts small blind 250
+Z Dmitry S: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Qd]
+Schullenmaker: folds 
+jallu435: calls 500
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: calls 500
+bigpokeras666: folds 
+Z Dmitry S: checks 
+*** FLOP *** [Ah 2c 4h]
+Z Dmitry S: checks 
+jallu435: bets 1500
+LucasPaoEpa: folds 
+Z Dmitry S: folds 
+Uncalled bet (1500) returned to jallu435
+jallu435 collected 2230 from pot
+jallu435: doesn't show hand 
+*** SUMMARY ***
+Total pot 2230 | Rake 0 
+Board [Ah 2c 4h]
+Seat 1: jallu435 collected (2230)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (button) folded on the Flop
+Seat 6: bigpokeras666 (small blind) folded before Flop
+Seat 7: Z Dmitry S (big blind) folded on the Flop
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863237294: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (300/600) - 2025/02/14 17:38:15 WET [2025/02/14 12:38:15 ET]
+Table '3852792690 336' 8-max Seat #6 is the button
+Seat 1: jallu435 (43967 in chips, $7.50 bounty) 
+Seat 2: napalu daish (24940 in chips, $5 bounty) 
+Seat 3: kovdian (21960 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (20610 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (30646 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24715 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (29479 in chips, $5 bounty) 
+Seat 8: Schullenmaker (45330 in chips, $7.50 bounty) 
+jallu435: posts the ante 75
+napalu daish: posts the ante 75
+kovdian: posts the ante 75
+Kevin12345Mc: posts the ante 75
+LucasPaoEpa: posts the ante 75
+bigpokeras666: posts the ante 75
+Z Dmitry S: posts the ante 75
+Schullenmaker: posts the ante 75
+Z Dmitry S: posts small blind 300
+Schullenmaker: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh Qd]
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: raises 720 to 1320
+LucasPaoEpa: raises 1980 to 3300
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Schullenmaker: folds 
+Kevin12345Mc: folds 
+Uncalled bet (1980) returned to LucasPaoEpa
+LucasPaoEpa collected 4140 from pot
+LucasPaoEpa: doesn't show hand 
+*** SUMMARY ***
+Total pot 4140 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop
+Seat 5: LucasPaoEpa collected (4140)
+Seat 6: bigpokeras666 (button) folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (small blind) folded before Flop
+Seat 8: Schullenmaker (big blind) folded before Flop
+
+
+
+PokerStars Hand #254863254544: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (300/600) - 2025/02/14 17:39:26 WET [2025/02/14 12:39:26 ET]
+Table '3852792690 336' 8-max Seat #7 is the button
+Seat 1: jallu435 (43892 in chips, $7.50 bounty) 
+Seat 2: napalu daish (24865 in chips, $5 bounty) 
+Seat 3: kovdian (21885 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (19215 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (33391 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24640 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (29104 in chips, $5 bounty) 
+Seat 8: Schullenmaker (44655 in chips, $7.50 bounty) 
+jallu435: posts the ante 75
+napalu daish: posts the ante 75
+kovdian: posts the ante 75
+Kevin12345Mc: posts the ante 75
+LucasPaoEpa: posts the ante 75
+bigpokeras666: posts the ante 75
+Z Dmitry S: posts the ante 75
+Schullenmaker: posts the ante 75
+Schullenmaker: posts small blind 300
+jallu435: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Jh]
+napalu daish: raises 780 to 1380
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: calls 780
+*** FLOP *** [2d 2c Qc]
+jallu435: checks 
+napalu daish: bets 1661
+jallu435: folds 
+Uncalled bet (1661) returned to napalu daish
+napalu daish collected 3660 from pot
+napalu daish: doesn't show hand 
+*** SUMMARY ***
+Total pot 3660 | Rake 0 
+Board [2d 2c Qc]
+Seat 1: jallu435 (big blind) folded on the Flop
+Seat 2: napalu daish collected (3660)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (button) folded before Flop (didn't bet)
+Seat 8: Schullenmaker (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863263413: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (300/600) - 2025/02/14 17:40:03 WET [2025/02/14 12:40:03 ET]
+Table '3852792690 336' 8-max Seat #8 is the button
+Seat 1: jallu435 (42437 in chips, $7.50 bounty) 
+Seat 2: napalu daish (27070 in chips, $5 bounty) 
+Seat 3: kovdian (21810 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (19140 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (33316 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (24565 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (29029 in chips, $5 bounty) 
+Seat 8: Schullenmaker (44280 in chips, $7.50 bounty) 
+jallu435: posts the ante 75
+napalu daish: posts the ante 75
+kovdian: posts the ante 75
+Kevin12345Mc: posts the ante 75
+LucasPaoEpa: posts the ante 75
+bigpokeras666: posts the ante 75
+Z Dmitry S: posts the ante 75
+Schullenmaker: posts the ante 75
+jallu435: posts small blind 300
+napalu daish: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Kh]
+kovdian: folds 
+Kevin12345Mc: raises 720 to 1320
+LucasPaoEpa: calls 1320
+bigpokeras666: raises 5460 to 6780
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+Uncalled bet (5460) returned to bigpokeras666
+bigpokeras666 collected 5460 from pot
+*** SUMMARY ***
+Total pot 5460 | Rake 0 
+Seat 1: jallu435 (small blind) folded before Flop
+Seat 2: napalu daish (big blind) folded before Flop
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop
+Seat 5: LucasPaoEpa folded before Flop
+Seat 6: bigpokeras666 collected (5460)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863276423: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (300/600) - 2025/02/14 17:40:57 WET [2025/02/14 12:40:57 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (42062 in chips, $7.50 bounty) 
+Seat 2: napalu daish (26395 in chips, $5 bounty) 
+Seat 3: kovdian (21735 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (17745 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (31921 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (28630 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (28954 in chips, $5 bounty) 
+Seat 8: Schullenmaker (44205 in chips, $7.50 bounty) 
+jallu435: posts the ante 75
+napalu daish: posts the ante 75
+kovdian: posts the ante 75
+Kevin12345Mc: posts the ante 75
+LucasPaoEpa: posts the ante 75
+bigpokeras666: posts the ante 75
+Z Dmitry S: posts the ante 75
+Schullenmaker: posts the ante 75
+napalu daish: posts small blind 300
+kovdian: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 4d]
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: calls 600
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: calls 300
+kovdian: checks 
+*** FLOP *** [7d 3s Kd]
+napalu daish: checks 
+kovdian: checks 
+bigpokeras666: checks 
+*** TURN *** [7d 3s Kd] [4c]
+napalu daish: checks 
+kovdian: checks 
+bigpokeras666: checks 
+*** RIVER *** [7d 3s Kd 4c] [9d]
+napalu daish: checks 
+kovdian: checks 
+bigpokeras666: checks 
+*** SHOW DOWN ***
+napalu daish: shows [Jd 8s] (high card King)
+kovdian: shows [Js 9s] (a pair of Nines)
+bigpokeras666: mucks hand 
+kovdian collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [7d 3s Kd 4c 9d]
+Seat 1: jallu435 (button) folded before Flop (didn't bet)
+Seat 2: napalu daish (small blind) showed [Jd 8s] and lost with high card King
+Seat 3: kovdian (big blind) showed [Js 9s] and won (2400) with a pair of Nines
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 mucked [6c 6s]
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863292875: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (300/600) - 2025/02/14 17:42:04 WET [2025/02/14 12:42:04 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (41987 in chips, $7.50 bounty) 
+Seat 2: napalu daish (25720 in chips, $5 bounty) 
+Seat 3: kovdian (23460 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (17670 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (31846 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (27955 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (28879 in chips, $5 bounty) 
+Seat 8: Schullenmaker (44130 in chips, $7.50 bounty) 
+jallu435: posts the ante 75
+napalu daish: posts the ante 75
+kovdian: posts the ante 75
+Kevin12345Mc: posts the ante 75
+LucasPaoEpa: posts the ante 75
+bigpokeras666: posts the ante 75
+Z Dmitry S: posts the ante 75
+Schullenmaker: posts the ante 75
+kovdian: posts small blind 300
+Kevin12345Mc: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 7h]
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: raises 780 to 1380
+kovdian: folds 
+Kevin12345Mc: calls 780
+*** FLOP *** [4s 7d 9s]
+Kevin12345Mc: checks 
+napalu daish: checks 
+*** TURN *** [4s 7d 9s] [5c]
+Kevin12345Mc: checks 
+napalu daish: bets 1378
+Kevin12345Mc: calls 1378
+*** RIVER *** [4s 7d 9s 5c] [2c]
+Kevin12345Mc: checks 
+napalu daish: bets 3940
+Kevin12345Mc: calls 3940
+*** SHOW DOWN ***
+napalu daish: shows [6d Td] (high card Ten)
+Kevin12345Mc: shows [Th 7h] (a pair of Sevens)
+Kevin12345Mc collected 14296 from pot
+*** SUMMARY ***
+Total pot 14296 | Rake 0 
+Board [4s 7d 9s 5c 2c]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish (button) showed [6d Td] and lost with high card Ten
+Seat 3: kovdian (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) showed [Th 7h] and won (14296) with a pair of Sevens
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863312470: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (300/600) - 2025/02/14 17:43:24 WET [2025/02/14 12:43:24 ET]
+Table '3852792690 336' 8-max Seat #3 is the button
+Seat 1: jallu435 (41912 in chips, $7.50 bounty) 
+Seat 2: napalu daish (18947 in chips, $5 bounty) 
+Seat 3: kovdian (23085 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (25193 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (31771 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (27880 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (28804 in chips, $5 bounty) 
+Seat 8: Schullenmaker (44055 in chips, $7.50 bounty) 
+jallu435: posts the ante 75
+napalu daish: posts the ante 75
+kovdian: posts the ante 75
+Kevin12345Mc: posts the ante 75
+LucasPaoEpa: posts the ante 75
+bigpokeras666: posts the ante 75
+Z Dmitry S: posts the ante 75
+Schullenmaker: posts the ante 75
+Kevin12345Mc: posts small blind 300
+LucasPaoEpa: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 4d]
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: calls 300
+LucasPaoEpa: checks 
+*** FLOP *** [Qc 2d 7d]
+Kevin12345Mc: checks 
+LucasPaoEpa: checks 
+*** TURN *** [Qc 2d 7d] [8c]
+Kevin12345Mc: checks 
+LucasPaoEpa: bets 3300
+Kevin12345Mc: folds 
+Uncalled bet (3300) returned to LucasPaoEpa
+LucasPaoEpa collected 1800 from pot
+LucasPaoEpa: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [Qc 2d 7d 8c]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded on the Turn
+Seat 5: LucasPaoEpa (big blind) collected (1800)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863327126: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (300/600) - 2025/02/14 17:44:24 WET [2025/02/14 12:44:24 ET]
+Table '3852792690 336' 8-max Seat #4 is the button
+Seat 1: jallu435 (41837 in chips, $7.50 bounty) 
+Seat 2: napalu daish (18872 in chips, $5 bounty) 
+Seat 3: kovdian (23010 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24518 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32896 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (27805 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (28729 in chips, $5 bounty) 
+Seat 8: Schullenmaker (43980 in chips, $7.50 bounty) 
+jallu435: posts the ante 75
+napalu daish: posts the ante 75
+kovdian: posts the ante 75
+Kevin12345Mc: posts the ante 75
+LucasPaoEpa: posts the ante 75
+bigpokeras666: posts the ante 75
+Z Dmitry S: posts the ante 75
+Schullenmaker: posts the ante 75
+LucasPaoEpa: posts small blind 300
+bigpokeras666: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd Ks]
+Z Dmitry S: folds 
+Schullenmaker: raises 600 to 1200
+jallu435: calls 1200
+napalu daish: folds 
+kovdian: calls 1200
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: calls 600
+*** FLOP *** [2c Td 5c]
+bigpokeras666: checks 
+Schullenmaker: bets 1881
+jallu435: calls 1881
+kovdian: raises 5785 to 7666
+bigpokeras666: folds 
+Schullenmaker: folds 
+jallu435: folds 
+Uncalled bet (5785) returned to kovdian
+kovdian collected 11343 from pot
+kovdian: doesn't show hand 
+*** SUMMARY ***
+Total pot 11343 | Rake 0 
+Board [2c Td 5c]
+Seat 1: jallu435 folded on the Flop
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian collected (11343)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (small blind) folded before Flop
+Seat 6: bigpokeras666 (big blind) folded on the Flop
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded on the Flop
+
+
+
+PokerStars Hand #254863346594: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (300/600) - 2025/02/14 17:45:43 WET [2025/02/14 12:45:43 ET]
+Table '3852792690 336' 8-max Seat #5 is the button
+Seat 1: jallu435 (38681 in chips, $7.50 bounty) 
+Seat 2: napalu daish (18797 in chips, $5 bounty) 
+Seat 3: kovdian (31197 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24443 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32521 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26530 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (28654 in chips, $5 bounty) 
+Seat 8: Schullenmaker (40824 in chips, $7.50 bounty) 
+jallu435: posts the ante 75
+napalu daish: posts the ante 75
+kovdian: posts the ante 75
+Kevin12345Mc: posts the ante 75
+LucasPaoEpa: posts the ante 75
+bigpokeras666: posts the ante 75
+Z Dmitry S: posts the ante 75
+Schullenmaker: posts the ante 75
+bigpokeras666: posts small blind 300
+Z Dmitry S: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 7s]
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: raises 600 to 1200
+bigpokeras666: folds 
+Z Dmitry S: calls 600
+*** FLOP *** [Ac 7c 5d]
+Z Dmitry S: checks 
+LucasPaoEpa: bets 600
+Z Dmitry S: calls 600
+*** TURN *** [Ac 7c 5d] [9h]
+Z Dmitry S: checks 
+LucasPaoEpa: bets 3825
+Z Dmitry S: folds 
+Uncalled bet (3825) returned to LucasPaoEpa
+LucasPaoEpa collected 4500 from pot
+LucasPaoEpa: doesn't show hand 
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Board [Ac 7c 5d 9h]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (button) collected (4500)
+Seat 6: bigpokeras666 (small blind) folded before Flop
+Seat 7: Z Dmitry S (big blind) folded on the Turn
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863361636: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (300/600) - 2025/02/14 17:46:44 WET [2025/02/14 12:46:44 ET]
+Table '3852792690 336' 8-max Seat #6 is the button
+Seat 1: jallu435 (38606 in chips, $7.50 bounty) 
+Seat 2: napalu daish (18722 in chips, $5 bounty) 
+Seat 3: kovdian (31122 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24368 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (35146 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26155 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (26779 in chips, $5 bounty) 
+Seat 8: Schullenmaker (40749 in chips, $7.50 bounty) 
+jallu435: posts the ante 75
+napalu daish: posts the ante 75
+kovdian: posts the ante 75
+Kevin12345Mc: posts the ante 75
+LucasPaoEpa: posts the ante 75
+bigpokeras666: posts the ante 75
+Z Dmitry S: posts the ante 75
+Schullenmaker: posts the ante 75
+Z Dmitry S: posts small blind 300
+Schullenmaker: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 9c]
+jallu435: calls 600
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: calls 600
+bigpokeras666: folds 
+Z Dmitry S: calls 300
+Schullenmaker: checks 
+*** FLOP *** [8s 4c 6h]
+Z Dmitry S: bets 1500
+Schullenmaker: raises 3300 to 4800
+jallu435: calls 4800
+LucasPaoEpa: folds 
+Z Dmitry S: folds 
+*** TURN *** [8s 4c 6h] [8d]
+Schullenmaker: checks 
+jallu435: bets 33131 and is all-in
+Schullenmaker: folds 
+Uncalled bet (33131) returned to jallu435
+jallu435 collected 14100 from pot
+jallu435: doesn't show hand 
+*** SUMMARY ***
+Total pot 14100 | Rake 0 
+Board [8s 4c 6h 8d]
+Seat 1: jallu435 collected (14100)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded on the Flop
+Seat 6: bigpokeras666 (button) folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (small blind) folded on the Flop
+Seat 8: Schullenmaker (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254863383303: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:48:11 WET [2025/02/14 12:48:11 ET]
+Table '3852792690 336' 8-max Seat #7 is the button
+Seat 1: jallu435 (47231 in chips, $7.50 bounty) 
+Seat 2: napalu daish (18647 in chips, $5 bounty) 
+Seat 3: kovdian (31047 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24293 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (34471 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (26080 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (24604 in chips, $5 bounty) 
+Seat 8: Schullenmaker (35274 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+Schullenmaker: posts small blind 350
+jallu435: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 6d]
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: raises 700 to 1400
+Schullenmaker: folds 
+jallu435: calls 700
+*** FLOP *** [6c Kd 4d]
+jallu435: checks 
+Z Dmitry S: bets 1935
+jallu435: folds 
+Uncalled bet (1935) returned to Z Dmitry S
+Z Dmitry S collected 3870 from pot
+Z Dmitry S: doesn't show hand 
+*** SUMMARY ***
+Total pot 3870 | Rake 0 
+Board [6c Kd 4d]
+Seat 1: jallu435 (big blind) folded on the Flop
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (button) collected (3870)
+Seat 8: Schullenmaker (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863393255: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:48:51 WET [2025/02/14 12:48:51 ET]
+Table '3852792690 336' 8-max Seat #8 is the button
+Seat 1: jallu435 (45741 in chips, $7.50 bounty) 
+Seat 2: napalu daish (18557 in chips, $5 bounty) 
+Seat 3: kovdian (30957 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24203 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (34381 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25990 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (26984 in chips, $5 bounty) 
+Seat 8: Schullenmaker (34834 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+jallu435: posts small blind 350
+napalu daish: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 7c]
+kovdian: raises 700 to 1400
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: calls 1400
+Schullenmaker: folds 
+jallu435: calls 1050
+napalu daish: folds 
+*** FLOP *** [5d 7d Th]
+jallu435: checks 
+kovdian: checks 
+Z Dmitry S: checks 
+*** TURN *** [5d 7d Th] [9d]
+jallu435: checks 
+kovdian: checks 
+Z Dmitry S: checks 
+*** RIVER *** [5d 7d Th 9d] [7s]
+jallu435: checks 
+kovdian: checks 
+Z Dmitry S: checks 
+*** SHOW DOWN ***
+jallu435: shows [Jc Qc] (a pair of Sevens)
+kovdian: shows [Qs Ks] (a pair of Sevens - King kicker)
+Z Dmitry S: shows [4c 4s] (two pair, Sevens and Fours)
+Z Dmitry S collected 5620 from pot
+*** SUMMARY ***
+Total pot 5620 | Rake 0 
+Board [5d 7d Th 9d 7s]
+Seat 1: jallu435 (small blind) showed [Jc Qc] and lost with a pair of Sevens
+Seat 2: napalu daish (big blind) folded before Flop
+Seat 3: kovdian showed [Qs Ks] and lost with a pair of Sevens
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S showed [4c 4s] and won (5620) with two pair, Sevens and Fours
+Seat 8: Schullenmaker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863407696: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:49:49 WET [2025/02/14 12:49:49 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (44251 in chips, $7.50 bounty) 
+Seat 2: napalu daish (17767 in chips, $5 bounty) 
+Seat 3: kovdian (29467 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (24113 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (34291 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (25900 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (31114 in chips, $5 bounty) 
+Seat 8: Schullenmaker (34744 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+napalu daish: posts small blind 350
+kovdian: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts Qs]
+Kevin12345Mc: raises 840 to 1540
+LucasPaoEpa: folds 
+bigpokeras666: calls 1540
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+*** FLOP *** [4h Qc 5c]
+Kevin12345Mc: bets 1601
+bigpokeras666: calls 1601
+*** TURN *** [4h Qc 5c] [Ac]
+Kevin12345Mc: checks 
+bigpokeras666: checks 
+*** RIVER *** [4h Qc 5c Ac] [Kd]
+Kevin12345Mc: checks 
+bigpokeras666: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ts Qs] (a pair of Queens)
+bigpokeras666: mucks hand 
+Kevin12345Mc collected 8052 from pot
+*** SUMMARY ***
+Total pot 8052 | Rake 0 
+Board [4h Qc 5c Ac Kd]
+Seat 1: jallu435 (button) folded before Flop (didn't bet)
+Seat 2: napalu daish (small blind) folded before Flop
+Seat 3: kovdian (big blind) folded before Flop
+Seat 4: Kevin12345Mc showed [Ts Qs] and won (8052) with a pair of Queens
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 mucked [Qh 9h]
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863424474: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:50:57 WET [2025/02/14 12:50:57 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (44161 in chips, $7.50 bounty) 
+Seat 2: napalu daish (17327 in chips, $5 bounty) 
+Seat 3: kovdian (28677 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (28934 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (34201 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (22669 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (31024 in chips, $5 bounty) 
+Seat 8: Schullenmaker (34654 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+kovdian: posts small blind 350
+Kevin12345Mc: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Kh]
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Uncalled bet (350) returned to Kevin12345Mc
+Kevin12345Mc collected 1420 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish (button) folded before Flop (didn't bet)
+Seat 3: kovdian (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) collected (1420)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863429504: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:51:18 WET [2025/02/14 12:51:18 ET]
+Table '3852792690 336' 8-max Seat #3 is the button
+Seat 1: jallu435 (44071 in chips, $7.50 bounty) 
+Seat 2: napalu daish (17237 in chips, $5 bounty) 
+Seat 3: kovdian (28237 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (29914 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (34111 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (22579 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (30934 in chips, $5 bounty) 
+Seat 8: Schullenmaker (34564 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+Kevin12345Mc: posts small blind 350
+LucasPaoEpa: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 5d]
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: calls 350
+LucasPaoEpa: checks 
+*** FLOP *** [Jd 7d 4c]
+Kevin12345Mc: checks 
+LucasPaoEpa: checks 
+*** TURN *** [Jd 7d 4c] [Qs]
+Kevin12345Mc: checks 
+LucasPaoEpa: checks 
+*** RIVER *** [Jd 7d 4c Qs] [Qh]
+Kevin12345Mc: checks 
+LucasPaoEpa: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [4s 5d] (two pair, Queens and Fours)
+LucasPaoEpa: mucks hand 
+Kevin12345Mc collected 2120 from pot
+*** SUMMARY ***
+Total pot 2120 | Rake 0 
+Board [Jd 7d 4c Qs Qh]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) showed [4s 5d] and won (2120) with two pair, Queens and Fours
+Seat 5: LucasPaoEpa (big blind) mucked [Th 8c]
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863442091: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:52:09 WET [2025/02/14 12:52:09 ET]
+Table '3852792690 336' 8-max Seat #4 is the button
+Seat 1: jallu435 (43981 in chips, $7.50 bounty) 
+Seat 2: napalu daish (17147 in chips, $5 bounty) 
+Seat 3: kovdian (28147 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (31244 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (33321 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (22489 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (30844 in chips, $5 bounty) 
+Seat 8: Schullenmaker (34474 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+LucasPaoEpa: posts small blind 350
+bigpokeras666: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 3h]
+Z Dmitry S: raises 700 to 1400
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Uncalled bet (700) returned to Z Dmitry S
+Z Dmitry S collected 2470 from pot
+Z Dmitry S: doesn't show hand 
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (small blind) folded before Flop
+Seat 6: bigpokeras666 (big blind) folded before Flop
+Seat 7: Z Dmitry S collected (2470)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863448334: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:52:33 WET [2025/02/14 12:52:33 ET]
+Table '3852792690 336' 8-max Seat #5 is the button
+Seat 1: jallu435 (43891 in chips, $7.50 bounty) 
+Seat 2: napalu daish (17057 in chips, $5 bounty) 
+Seat 3: kovdian (28057 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (31154 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32881 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (21699 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (32524 in chips, $5 bounty) 
+Seat 8: Schullenmaker (34384 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+bigpokeras666: posts small blind 350
+Z Dmitry S: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 8s]
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: raises 910 to 1610
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Uncalled bet (910) returned to Kevin12345Mc
+Kevin12345Mc collected 2470 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (2470)
+Seat 5: LucasPaoEpa (button) folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (small blind) folded before Flop
+Seat 7: Z Dmitry S (big blind) folded before Flop
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863455323: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:53:02 WET [2025/02/14 12:53:02 ET]
+Table '3852792690 336' 8-max Seat #6 is the button
+Seat 1: jallu435 (43801 in chips, $7.50 bounty) 
+Seat 2: napalu daish (16967 in chips, $5 bounty) 
+Seat 3: kovdian (27967 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (32834 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32791 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (21259 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (31734 in chips, $5 bounty) 
+Seat 8: Schullenmaker (34294 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+Z Dmitry S: posts small blind 350
+Schullenmaker: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h Js]
+jallu435: folds 
+napalu daish: raises 910 to 1610
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Schullenmaker: folds 
+Uncalled bet (910) returned to napalu daish
+napalu daish collected 2470 from pot
+napalu daish: doesn't show hand 
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish collected (2470)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (button) folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (small blind) folded before Flop
+Seat 8: Schullenmaker (big blind) folded before Flop
+
+
+
+PokerStars Hand #254863462337: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:53:30 WET [2025/02/14 12:53:30 ET]
+Table '3852792690 336' 8-max Seat #7 is the button
+Seat 1: jallu435 (43711 in chips, $7.50 bounty) 
+Seat 2: napalu daish (18647 in chips, $5 bounty) 
+Seat 3: kovdian (27877 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (32744 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32701 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (21169 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (31294 in chips, $5 bounty) 
+Seat 8: Schullenmaker (33504 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+Schullenmaker: posts small blind 350
+jallu435: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Qh]
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: raises 700 to 1400
+Schullenmaker: folds 
+jallu435: calls 700
+*** FLOP *** [4s 4c 8s]
+jallu435: checks 
+Z Dmitry S: bets 1277
+jallu435: calls 1277
+*** TURN *** [4s 4c 8s] [Tc]
+jallu435: checks 
+Z Dmitry S: checks 
+*** RIVER *** [4s 4c 8s Tc] [6d]
+jallu435: bets 7000
+Z Dmitry S: folds 
+Uncalled bet (7000) returned to jallu435
+jallu435 collected 6424 from pot
+jallu435: doesn't show hand 
+*** SUMMARY ***
+Total pot 6424 | Rake 0 
+Board [4s 4c 8s Tc 6d]
+Seat 1: jallu435 (big blind) collected (6424)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S (button) folded on the River
+Seat 8: Schullenmaker (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863478297: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:54:35 WET [2025/02/14 12:54:35 ET]
+Table '3852792690 336' 8-max Seat #8 is the button
+Seat 1: jallu435 (47368 in chips, $7.50 bounty) 
+Seat 2: napalu daish (18557 in chips, $5 bounty) 
+Seat 3: kovdian (27787 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (32654 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32611 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (21079 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (28527 in chips, $5 bounty) 
+Seat 8: Schullenmaker (33064 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+jallu435: posts small blind 350
+napalu daish: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 5s]
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: raises 700 to 1400
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: calls 700
+*** FLOP *** [5c Ac 6h]
+napalu daish: checks 
+Z Dmitry S: bets 1277
+napalu daish: calls 1277
+*** TURN *** [5c Ac 6h] [8s]
+napalu daish: checks 
+Z Dmitry S: bets 4235
+napalu daish: calls 4235
+*** RIVER *** [5c Ac 6h 8s] [4h]
+napalu daish: bets 11555 and is all-in
+Z Dmitry S: calls 11555
+*** SHOW DOWN ***
+napalu daish: shows [7h 6s] (a straight, Four to Eight)
+Z Dmitry S: shows [8d As] (two pair, Aces and Eights)
+napalu daish collected 38004 from pot
+*** SUMMARY ***
+Total pot 38004 | Rake 0 
+Board [5c Ac 6h 8s 4h]
+Seat 1: jallu435 (small blind) folded before Flop
+Seat 2: napalu daish (big blind) showed [7h 6s] and won (38004) with a straight, Four to Eight
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S showed [8d As] and lost with two pair, Aces and Eights
+Seat 8: Schullenmaker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863574534: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 18:02:42 WET [2025/02/14 13:02:42 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (46928 in chips, $7.50 bounty) 
+Seat 2: napalu daish (38004 in chips, $5 bounty) 
+Seat 3: kovdian (27697 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (32564 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (32521 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (20989 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (9970 in chips, $5 bounty) 
+Seat 8: Schullenmaker (32974 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+napalu daish: posts small blind 350
+kovdian: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 3d]
+Kevin12345Mc: folds 
+LucasPaoEpa: raises 700 to 1400
+bigpokeras666: calls 1400
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: calls 1400
+napalu daish: folds 
+kovdian: calls 700
+*** FLOP *** [7c 9s Ts]
+kovdian: checks 
+LucasPaoEpa: checks 
+bigpokeras666: checks 
+jallu435: checks 
+*** TURN *** [7c 9s Ts] [Qh]
+kovdian: checks 
+LucasPaoEpa: checks 
+bigpokeras666: checks 
+jallu435: checks 
+*** RIVER *** [7c 9s Ts Qh] [9c]
+kovdian: bets 5600
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+jallu435: folds 
+Uncalled bet (5600) returned to kovdian
+kovdian collected 6670 from pot
+kovdian: doesn't show hand 
+*** SUMMARY ***
+Total pot 6670 | Rake 0 
+Board [7c 9s Ts Qh 9c]
+Seat 1: jallu435 (button) folded on the River
+Seat 2: napalu daish (small blind) folded before Flop
+Seat 3: kovdian (big blind) collected (6670)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded on the River
+Seat 6: bigpokeras666 folded on the River
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863594250: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 18:04:03 WET [2025/02/14 13:04:03 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (45438 in chips, $7.50 bounty) 
+Seat 2: napalu daish (37564 in chips, $5 bounty) 
+Seat 3: kovdian (32877 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (32474 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (31031 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (19499 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (9880 in chips, $5 bounty) 
+Seat 8: Schullenmaker (32884 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+kovdian: posts small blind 350
+Kevin12345Mc: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 2c]
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: raises 910 to 1610
+kovdian: folds 
+Kevin12345Mc: folds 
+Uncalled bet (910) returned to napalu daish
+napalu daish collected 2470 from pot
+napalu daish: doesn't show hand 
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish (button) collected (2470)
+Seat 3: kovdian (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863612266: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 18:05:16 WET [2025/02/14 13:05:16 ET]
+Table '3852792690 336' 8-max Seat #3 is the button
+Seat 1: jallu435 (45348 in chips, $7.50 bounty) 
+Seat 2: napalu daish (39244 in chips, $5 bounty) 
+Seat 3: kovdian (32437 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (31684 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (30941 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (19409 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (9790 in chips, $5 bounty) 
+Seat 8: Schullenmaker (32794 in chips, $7.50 bounty) 
+jallu435: posts the ante 90
+napalu daish: posts the ante 90
+kovdian: posts the ante 90
+Kevin12345Mc: posts the ante 90
+LucasPaoEpa: posts the ante 90
+bigpokeras666: posts the ante 90
+Z Dmitry S: posts the ante 90
+Schullenmaker: posts the ante 90
+Kevin12345Mc: posts small blind 350
+LucasPaoEpa: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Js]
+bigpokeras666: folds 
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: raises 700 to 1400
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+Uncalled bet (700) returned to jallu435
+jallu435 collected 2470 from pot
+jallu435: doesn't show hand 
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Seat 1: jallu435 collected (2470)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: LucasPaoEpa (big blind) folded before Flop
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863624495: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 18:06:05 WET [2025/02/14 13:06:05 ET]
+Table '3852792690 336' 8-max Seat #4 is the button
+Seat 1: jallu435 (47028 in chips, $7.50 bounty) 
+Seat 2: napalu daish (39154 in chips, $5 bounty) 
+Seat 3: kovdian (32347 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (31244 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (30151 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (19319 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (9700 in chips, $5 bounty) 
+Seat 8: Schullenmaker (32704 in chips, $7.50 bounty) 
+jallu435: posts the ante 100
+napalu daish: posts the ante 100
+kovdian: posts the ante 100
+Kevin12345Mc: posts the ante 100
+LucasPaoEpa: posts the ante 100
+bigpokeras666: posts the ante 100
+Z Dmitry S: posts the ante 100
+Schullenmaker: posts the ante 100
+LucasPaoEpa: posts small blind 400
+bigpokeras666: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 4c]
+Z Dmitry S: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: raises 960 to 1760
+LucasPaoEpa: raises 28291 to 30051 and is all-in
+bigpokeras666: folds 
+Kevin12345Mc: folds 
+Uncalled bet (28291) returned to LucasPaoEpa
+LucasPaoEpa collected 5120 from pot
+LucasPaoEpa: doesn't show hand 
+*** SUMMARY ***
+Total pot 5120 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop
+Seat 5: LucasPaoEpa (small blind) collected (5120)
+Seat 6: bigpokeras666 (big blind) folded before Flop
+Seat 7: Z Dmitry S folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863637116: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 18:06:56 WET [2025/02/14 13:06:56 ET]
+Table '3852792690 336' 8-max Seat #5 is the button
+Seat 1: jallu435 (46928 in chips, $7.50 bounty) 
+Seat 2: napalu daish (39054 in chips, $5 bounty) 
+Seat 3: kovdian (32247 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (29384 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (33411 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (18419 in chips, $5 bounty) 
+Seat 7: Z Dmitry S (9600 in chips, $5 bounty) 
+Seat 8: Schullenmaker (32604 in chips, $7.50 bounty) 
+jallu435: posts the ante 100
+napalu daish: posts the ante 100
+kovdian: posts the ante 100
+Kevin12345Mc: posts the ante 100
+LucasPaoEpa: posts the ante 100
+bigpokeras666: posts the ante 100
+Z Dmitry S: posts the ante 100
+Schullenmaker: posts the ante 100
+bigpokeras666: posts small blind 400
+Z Dmitry S: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 4d]
+Schullenmaker: raises 800 to 1600
+jallu435: folds 
+napalu daish: folds 
+kovdian: calls 1600
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Z Dmitry S: calls 800
+*** FLOP *** [6s 5h Ts]
+Z Dmitry S: bets 7900 and is all-in
+Schullenmaker: raises 23004 to 30904 and is all-in
+kovdian: folds 
+Uncalled bet (23004) returned to Schullenmaker
+*** TURN *** [6s 5h Ts] [Tc]
+*** RIVER *** [6s 5h Ts Tc] [3d]
+*** SHOW DOWN ***
+Z Dmitry S: shows [7s Ks] (a pair of Tens)
+Schullenmaker: shows [3s As] (two pair, Tens and Threes)
+Schullenmaker collected 21800 from pot
+Schullenmaker wins $2.50 for eliminating Z Dmitry S and their own bounty increases by $2.50 to $10
+Z Dmitry S finished the tournament
+*** SUMMARY ***
+Total pot 21800 | Rake 0 
+Board [6s 5h Ts Tc 3d]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (button) folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (small blind) folded before Flop
+Seat 7: Z Dmitry S (big blind) showed [7s Ks] and lost with a pair of Tens
+Seat 8: Schullenmaker showed [3s As] and won (21800) with two pair, Tens and Threes
+
+
+
+PokerStars Hand #254863653819: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 18:08:04 WET [2025/02/14 13:08:04 ET]
+Table '3852792690 336' 8-max Seat #6 is the button
+Seat 1: jallu435 (46828 in chips, $7.50 bounty) 
+Seat 2: napalu daish (38954 in chips, $5 bounty) 
+Seat 3: kovdian (30547 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (29284 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (33311 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (17919 in chips, $5 bounty) 
+Seat 8: Schullenmaker (44804 in chips, $10 bounty) 
+jallu435: posts the ante 100
+napalu daish: posts the ante 100
+kovdian: posts the ante 100
+Kevin12345Mc: posts the ante 100
+LucasPaoEpa: posts the ante 100
+bigpokeras666: posts the ante 100
+Schullenmaker: posts the ante 100
+Schullenmaker: posts small blind 400
+jallu435: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 7d]
+napalu daish: folds 
+kovdian: raises 800 to 1600
+Landoit is disconnected 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Schullenmaker: raises 4000 to 5600
+jallu435: folds 
+kovdian: folds 
+Uncalled bet (4000) returned to Schullenmaker
+Schullenmaker collected 4700 from pot
+Schullenmaker: doesn't show hand 
+*** SUMMARY ***
+Total pot 4700 | Rake 0 
+Seat 1: jallu435 (big blind) folded before Flop
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (button) folded before Flop (didn't bet)
+Seat 8: Schullenmaker (small blind) collected (4700)
+
+
+
+PokerStars Hand #254863670162: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 18:09:10 WET [2025/02/14 13:09:10 ET]
+Table '3852792690 336' 8-max Seat #8 is the button
+Seat 1: jallu435 (45928 in chips, $7.50 bounty) 
+Seat 2: napalu daish (38854 in chips, $5 bounty) 
+Seat 3: kovdian (28847 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (29184 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (33211 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (17819 in chips, $5 bounty) 
+Seat 7: Landoit (25000 in chips, $5 bounty) 
+Seat 8: Schullenmaker (47804 in chips, $10 bounty) 
+jallu435: posts the ante 100
+napalu daish: posts the ante 100
+kovdian: posts the ante 100
+Kevin12345Mc: posts the ante 100
+LucasPaoEpa: posts the ante 100
+bigpokeras666: posts the ante 100
+Landoit: posts the ante 100
+Schullenmaker: posts the ante 100
+jallu435: posts small blind 400
+napalu daish: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 9h]
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: raises 800 to 1600
+bigpokeras666: folds 
+Landoit: folds 
+Schullenmaker: calls 1600
+jallu435: folds 
+napalu daish: calls 800
+*** FLOP *** [3h 2h 9d]
+napalu daish: bets 1920
+LucasPaoEpa: calls 1920
+Schullenmaker: calls 1920
+*** TURN *** [3h 2h 9d] [4c]
+napalu daish: bets 6240
+LucasPaoEpa: raises 20604 to 26844
+Schullenmaker: folds 
+napalu daish: raises 8390 to 35234 and is all-in
+LucasPaoEpa: calls 2747 and is all-in
+Uncalled bet (5643) returned to napalu daish
+*** RIVER *** [3h 2h 9d 4c] [Th]
+*** SHOW DOWN ***
+napalu daish: shows [9c 9s] (three of a kind, Nines)
+LucasPaoEpa: shows [6d 5d] (a straight, Deuce to Six)
+LucasPaoEpa collected 70942 from pot
+*** SUMMARY ***
+Total pot 70942 | Rake 0 
+Board [3h 2h 9d 4c Th]
+Seat 1: jallu435 (small blind) folded before Flop
+Seat 2: napalu daish (big blind) showed [9c 9s] and lost with three of a kind, Nines
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa showed [6d 5d] and won (70942) with a straight, Deuce to Six
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Landoit folded before Flop (didn't bet)
+Seat 8: Schullenmaker (button) folded on the Turn
+
+
+
+PokerStars Hand #254863695854: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 18:10:54 WET [2025/02/14 13:10:54 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (45428 in chips, $7.50 bounty) 
+Seat 2: napalu daish (5643 in chips, $5 bounty) 
+Seat 3: kovdian (28747 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (29084 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (70942 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (17719 in chips, $5 bounty) 
+Seat 7: Landoit (24900 in chips, $5 bounty) 
+Seat 8: Schullenmaker (44184 in chips, $10 bounty) 
+jallu435: posts the ante 100
+napalu daish: posts the ante 100
+kovdian: posts the ante 100
+Kevin12345Mc: posts the ante 100
+LucasPaoEpa: posts the ante 100
+bigpokeras666: posts the ante 100
+Landoit: posts the ante 100
+Schullenmaker: posts the ante 100
+napalu daish: posts small blind 400
+kovdian: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Ts]
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: calls 800
+Landoit: folds 
+Schullenmaker: folds 
+jallu435: calls 800
+napalu daish: raises 4743 to 5543 and is all-in
+kovdian: folds 
+bigpokeras666: raises 12076 to 17619 and is all-in
+jallu435: folds 
+Uncalled bet (12076) returned to bigpokeras666
+*** FLOP *** [3s 6s Ks]
+*** TURN *** [3s 6s Ks] [Th]
+*** RIVER *** [3s 6s Ks Th] [Qs]
+*** SHOW DOWN ***
+napalu daish: shows [Ad As] (a flush, Ace high)
+bigpokeras666: shows [Qd Kh] (two pair, Kings and Queens)
+napalu daish collected 13486 from pot
+*** SUMMARY ***
+Total pot 13486 | Rake 0 
+Board [3s 6s Ks Th Qs]
+Seat 1: jallu435 (button) folded before Flop
+Seat 2: napalu daish (small blind) showed [Ad As] and won (13486) with a flush, Ace high
+Seat 3: kovdian (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 showed [Qd Kh] and lost with two pair, Kings and Queens
+Seat 7: Landoit folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863708390: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 18:11:45 WET [2025/02/14 13:11:45 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (44528 in chips, $7.50 bounty) 
+Seat 2: napalu daish (13486 in chips, $5 bounty) 
+Seat 3: kovdian (27847 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (28984 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (70842 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (12076 in chips, $5 bounty) 
+Seat 7: Landoit (24800 in chips, $5 bounty) 
+Seat 8: Schullenmaker (44084 in chips, $10 bounty) 
+jallu435: posts the ante 100
+napalu daish: posts the ante 100
+kovdian: posts the ante 100
+Kevin12345Mc: posts the ante 100
+LucasPaoEpa: posts the ante 100
+bigpokeras666: posts the ante 100
+Landoit: posts the ante 100
+Schullenmaker: posts the ante 100
+kovdian: posts small blind 400
+Kevin12345Mc: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Jd]
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Landoit: raises 800 to 1600
+Schullenmaker: folds 
+jallu435: calls 1600
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: calls 800
+*** FLOP *** [Js 6c 3d]
+Kevin12345Mc: checks 
+Landoit: bets 2220
+jallu435: raises 4180 to 6400
+Kevin12345Mc: folds 
+Landoit: raises 16700 to 23100 and is all-in
+jallu435: calls 16700
+*** TURN *** [Js 6c 3d] [Th]
+*** RIVER *** [Js 6c 3d Th] [5s]
+*** SHOW DOWN ***
+Landoit: shows [Ah Kh] (high card Ace)
+jallu435: shows [Qs Jc] (a pair of Jacks)
+jallu435 collected 52200 from pot
+jallu435 wins $2.50 for eliminating Landoit and their own bounty increases by $2.50 to $10
+Landoit finished the tournament
+*** SUMMARY ***
+Total pot 52200 | Rake 0 
+Board [Js 6c 3d Th 5s]
+Seat 1: jallu435 showed [Qs Jc] and won (52200) with a pair of Jacks
+Seat 2: napalu daish (button) folded before Flop (didn't bet)
+Seat 3: kovdian (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded on the Flop
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Landoit showed [Ah Kh] and lost with high card Ace
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863721547: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 18:12:38 WET [2025/02/14 13:12:38 ET]
+Table '3852792690 336' 8-max Seat #3 is the button
+Seat 1: jallu435 (71928 in chips, $10 bounty) 
+Seat 2: napalu daish (13386 in chips, $5 bounty) 
+Seat 3: kovdian (27347 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (27284 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (70742 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (11976 in chips, $5 bounty) 
+Seat 8: Schullenmaker (43984 in chips, $10 bounty) 
+jallu435: posts the ante 100
+napalu daish: posts the ante 100
+kovdian: posts the ante 100
+Kevin12345Mc: posts the ante 100
+LucasPaoEpa: posts the ante 100
+bigpokeras666: posts the ante 100
+Schullenmaker: posts the ante 100
+Kevin12345Mc: posts small blind 400
+LucasPaoEpa: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Js]
+Profbetting is disconnected 
+bigpokeras666: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: raises 800 to 1600
+Kevin12345Mc: folds 
+LucasPaoEpa: calls 800
+*** FLOP *** [3s 9h Ts]
+LucasPaoEpa: checks 
+kovdian: bets 1600
+LucasPaoEpa: folds 
+Uncalled bet (1600) returned to kovdian
+kovdian collected 4300 from pot
+kovdian: doesn't show hand 
+*** SUMMARY ***
+Total pot 4300 | Rake 0 
+Board [3s 9h Ts]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian (button) collected (4300)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: LucasPaoEpa (big blind) folded on the Flop
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863738810: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 18:13:47 WET [2025/02/14 13:13:47 ET]
+Table '3852792690 336' 8-max Seat #4 is the button
+Seat 1: jallu435 (71828 in chips, $10 bounty) 
+Seat 2: napalu daish (13286 in chips, $5 bounty) 
+Seat 3: kovdian (29947 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26784 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (69042 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (11876 in chips, $5 bounty) 
+Seat 7: Profbetting (23685 in chips, $5 bounty) 
+Seat 8: Schullenmaker (43884 in chips, $10 bounty) 
+jallu435: posts the ante 100
+napalu daish: posts the ante 100
+kovdian: posts the ante 100
+Kevin12345Mc: posts the ante 100
+LucasPaoEpa: posts the ante 100
+bigpokeras666: posts the ante 100
+Profbetting: posts the ante 100
+Schullenmaker: posts the ante 100
+LucasPaoEpa: posts small blind 400
+bigpokeras666: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d Qh]
+Profbetting: raises 800 to 1600
+Schullenmaker: raises 3600 to 5200
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Profbetting: folds 
+Uncalled bet (3600) returned to Schullenmaker
+Schullenmaker collected 5200 from pot
+Schullenmaker: doesn't show hand 
+*** SUMMARY ***
+Total pot 5200 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (small blind) folded before Flop
+Seat 6: bigpokeras666 (big blind) folded before Flop
+Seat 7: Profbetting folded before Flop
+Seat 8: Schullenmaker collected (5200)
+
+
+
+PokerStars Hand #254863747901: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 18:14:23 WET [2025/02/14 13:14:23 ET]
+Table '3852792690 336' 8-max Seat #5 is the button
+Seat 1: jallu435 (71728 in chips, $10 bounty) 
+Seat 2: napalu daish (13186 in chips, $5 bounty) 
+Seat 3: kovdian (29847 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26684 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (68542 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (10976 in chips, $5 bounty) 
+Seat 7: Profbetting (21985 in chips, $5 bounty) 
+Seat 8: Schullenmaker (47384 in chips, $10 bounty) 
+jallu435: posts the ante 100
+napalu daish: posts the ante 100
+kovdian: posts the ante 100
+Kevin12345Mc: posts the ante 100
+LucasPaoEpa: posts the ante 100
+bigpokeras666: posts the ante 100
+Profbetting: posts the ante 100
+Schullenmaker: posts the ante 100
+bigpokeras666: posts small blind 400
+Profbetting: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Kd]
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: calls 800
+bigpokeras666: folds 
+Profbetting: checks 
+*** FLOP *** [Jd 6h 3h]
+Profbetting: checks 
+LucasPaoEpa: bets 2400
+Profbetting: folds 
+Uncalled bet (2400) returned to LucasPaoEpa
+LucasPaoEpa collected 2800 from pot
+LucasPaoEpa: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Board [Jd 6h 3h]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (button) collected (2800)
+Seat 6: bigpokeras666 (small blind) folded before Flop
+Seat 7: Profbetting (big blind) folded on the Flop
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863762008: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 18:15:19 WET [2025/02/14 13:15:19 ET]
+Table '3852792690 336' 8-max Seat #6 is the button
+Seat 1: jallu435 (71628 in chips, $10 bounty) 
+Seat 2: napalu daish (13086 in chips, $5 bounty) 
+Seat 3: kovdian (29747 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26584 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (70442 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (10476 in chips, $5 bounty) 
+Seat 7: Profbetting (21085 in chips, $5 bounty) 
+Seat 8: Schullenmaker (47284 in chips, $10 bounty) 
+jallu435: posts the ante 100
+napalu daish: posts the ante 100
+kovdian: posts the ante 100
+Kevin12345Mc: posts the ante 100
+LucasPaoEpa: posts the ante 100
+bigpokeras666: posts the ante 100
+Profbetting: posts the ante 100
+Schullenmaker: posts the ante 100
+Profbetting: posts small blind 400
+Schullenmaker: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Td]
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Profbetting: calls 400
+Schullenmaker: raises 46384 to 47184 and is all-in
+Profbetting: folds 
+Uncalled bet (46384) returned to Schullenmaker
+Schullenmaker collected 2400 from pot
+Schullenmaker: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (button) folded before Flop (didn't bet)
+Seat 7: Profbetting (small blind) folded before Flop
+Seat 8: Schullenmaker (big blind) collected (2400)
+
+
+
+PokerStars Hand #254863772133: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:15:59 WET [2025/02/14 13:15:59 ET]
+Table '3852792690 336' 8-max Seat #7 is the button
+Seat 1: jallu435 (71528 in chips, $10 bounty) 
+Seat 2: napalu daish (12986 in chips, $5 bounty) 
+Seat 3: kovdian (29647 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26484 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (70342 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (10376 in chips, $5 bounty) 
+Seat 7: Profbetting (20185 in chips, $5 bounty) 
+Seat 8: Schullenmaker (48784 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+LucasPaoEpa: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+Schullenmaker: posts small blind 500
+jallu435: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd Td]
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: raises 1100 to 2100
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Profbetting: folds 
+Schullenmaker: folds 
+jallu435: folds 
+Uncalled bet (1100) returned to Kevin12345Mc
+Kevin12345Mc collected 3500 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: jallu435 (big blind) folded before Flop
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (3500)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting (button) folded before Flop (didn't bet)
+Seat 8: Schullenmaker (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863778183: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:16:23 WET [2025/02/14 13:16:23 ET]
+Table '3852792690 336' 8-max Seat #8 is the button
+Seat 1: jallu435 (70403 in chips, $10 bounty) 
+Seat 2: napalu daish (12861 in chips, $5 bounty) 
+Seat 3: kovdian (29522 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (28859 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (70217 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (10251 in chips, $5 bounty) 
+Seat 7: Profbetting (20060 in chips, $5 bounty) 
+Seat 8: Schullenmaker (48159 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+LucasPaoEpa: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+jallu435: posts small blind 500
+napalu daish: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Qh]
+kovdian: raises 1000 to 2000
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Profbetting: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: calls 1000
+*** FLOP *** [4c Jd 9d]
+napalu daish: checks 
+kovdian: bets 2000
+napalu daish: calls 2000
+*** TURN *** [4c Jd 9d] [Kd]
+napalu daish: checks 
+kovdian: bets 9500
+napalu daish: folds 
+Uncalled bet (9500) returned to kovdian
+kovdian collected 9500 from pot
+kovdian: doesn't show hand 
+*** SUMMARY ***
+Total pot 9500 | Rake 0 
+Board [4c Jd 9d Kd]
+Seat 1: jallu435 (small blind) folded before Flop
+Seat 2: napalu daish (big blind) folded on the Turn
+Seat 3: kovdian collected (9500)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting folded before Flop (didn't bet)
+Seat 8: Schullenmaker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863793136: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:17:23 WET [2025/02/14 13:17:23 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (69778 in chips, $10 bounty) 
+Seat 2: napalu daish (8736 in chips, $5 bounty) 
+Seat 3: kovdian (34897 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (28734 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (70092 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (10126 in chips, $5 bounty) 
+Seat 7: Profbetting (19935 in chips, $5 bounty) 
+Seat 8: Schullenmaker (48034 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+LucasPaoEpa: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+napalu daish: posts small blind 500
+kovdian: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 2s]
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+bigpokeras666: folds 
+Profbetting: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+Uncalled bet (500) returned to kovdian
+kovdian collected 2000 from pot
+kovdian: doesn't show hand 
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Seat 1: jallu435 (button) folded before Flop (didn't bet)
+Seat 2: napalu daish (small blind) folded before Flop
+Seat 3: kovdian (big blind) collected (2000)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863801525: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:17:57 WET [2025/02/14 13:17:57 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (69653 in chips, $10 bounty) 
+Seat 2: napalu daish (8111 in chips, $5 bounty) 
+Seat 3: kovdian (36272 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (28609 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (69967 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (10001 in chips, $5 bounty) 
+Seat 7: Profbetting (19810 in chips, $5 bounty) 
+Seat 8: Schullenmaker (47909 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+LucasPaoEpa: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+kovdian: posts small blind 500
+Kevin12345Mc: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 2h]
+LucasPaoEpa: raises 1000 to 2000
+bigpokeras666: folds 
+Profbetting: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+Uncalled bet (1000) returned to LucasPaoEpa
+LucasPaoEpa collected 3500 from pot
+LucasPaoEpa: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish (button) folded before Flop (didn't bet)
+Seat 3: kovdian (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: LucasPaoEpa collected (3500)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863807803: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:18:23 WET [2025/02/14 13:18:23 ET]
+Table '3852792690 336' 8-max Seat #3 is the button
+Seat 1: jallu435 (69528 in chips, $10 bounty) 
+Seat 2: napalu daish (7986 in chips, $5 bounty) 
+Seat 3: kovdian (35647 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (27484 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (72342 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (9876 in chips, $5 bounty) 
+Seat 7: Profbetting (19685 in chips, $5 bounty) 
+Seat 8: Schullenmaker (47784 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+LucasPaoEpa: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+Kevin12345Mc: posts small blind 500
+LucasPaoEpa: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 4s]
+bigpokeras666: folds 
+Profbetting: folds 
+Schullenmaker: raises 1000 to 2000
+jallu435: folds 
+napalu daish: folds 
+kovdian: calls 2000
+Kevin12345Mc: folds 
+LucasPaoEpa: folds 
+*** FLOP *** [4h 2s As]
+Schullenmaker: checks 
+kovdian: checks 
+*** TURN *** [4h 2s As] [8h]
+Schullenmaker: bets 5000
+kovdian: folds 
+Uncalled bet (5000) returned to Schullenmaker
+Schullenmaker collected 6500 from pot
+Schullenmaker: doesn't show hand 
+*** SUMMARY ***
+Total pot 6500 | Rake 0 
+Board [4h 2s As 8h]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian (button) folded on the Turn
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: LucasPaoEpa (big blind) folded before Flop
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting folded before Flop (didn't bet)
+Seat 8: Schullenmaker collected (6500)
+
+
+
+PokerStars Hand #254863821443: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:19:17 WET [2025/02/14 13:19:17 ET]
+Table '3852792690 336' 8-max Seat #4 is the button
+Seat 1: jallu435 (69403 in chips, $10 bounty) 
+Seat 2: napalu daish (7861 in chips, $5 bounty) 
+Seat 3: kovdian (33522 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26859 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (71217 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (9751 in chips, $5 bounty) 
+Seat 7: Profbetting (19560 in chips, $5 bounty) 
+Seat 8: Schullenmaker (52159 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+LucasPaoEpa: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+LucasPaoEpa: posts small blind 500
+bigpokeras666: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 2h]
+Profbetting: folds 
+Schullenmaker: folds 
+jallu435: raises 1000 to 2000
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: calls 1500
+bigpokeras666: folds 
+*** FLOP *** [4c 7h 5d]
+LucasPaoEpa: checks 
+jallu435: bets 3000
+LucasPaoEpa: raises 5920 to 8920
+jallu435: calls 5920
+*** TURN *** [4c 7h 5d] [3s]
+LucasPaoEpa: checks 
+jallu435: bets 23000
+LucasPaoEpa: raises 37172 to 60172 and is all-in
+jallu435: calls 35358 and is all-in
+Uncalled bet (1814) returned to LucasPaoEpa
+*** RIVER *** [4c 7h 5d 3s] [Th]
+*** SHOW DOWN ***
+LucasPaoEpa: shows [5s 5c] (three of a kind, Fives)
+jallu435: shows [9h 6h] (a straight, Three to Seven)
+jallu435 collected 140556 from pot
+*** SUMMARY ***
+Total pot 140556 | Rake 0 
+Board [4c 7h 5d 3s Th]
+Seat 1: jallu435 showed [9h 6h] and won (140556) with a straight, Three to Seven
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (small blind) showed [5s 5c] and lost with three of a kind, Fives
+Seat 6: bigpokeras666 (big blind) folded before Flop
+Seat 7: Profbetting folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863844198: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:20:49 WET [2025/02/14 13:20:49 ET]
+Table '3852792690 336' 8-max Seat #5 is the button
+Seat 1: jallu435 (140556 in chips, $10 bounty) 
+Seat 2: napalu daish (7736 in chips, $5 bounty) 
+Seat 3: kovdian (33397 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26734 in chips, $5 bounty) 
+Seat 5: LucasPaoEpa (1814 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (8626 in chips, $5 bounty) 
+Seat 7: Profbetting (19435 in chips, $5 bounty) 
+Seat 8: Schullenmaker (52034 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+LucasPaoEpa: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+bigpokeras666: posts small blind 500
+Profbetting: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 3c]
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+LucasPaoEpa: raises 689 to 1689 and is all-in
+bigpokeras666: folds 
+Profbetting: calls 689
+*** FLOP *** [8s Qs 7h]
+*** TURN *** [8s Qs 7h] [9c]
+*** RIVER *** [8s Qs 7h 9c] [4c]
+*** SHOW DOWN ***
+Profbetting: shows [Td 6d] (a straight, Six to Ten)
+LucasPaoEpa: shows [5h Ah] (high card Ace)
+Profbetting collected 4878 from pot
+Profbetting wins $2.50 for eliminating LucasPaoEpa and their own bounty increases by $2.50 to $7.50
+LucasPaoEpa finished the tournament
+*** SUMMARY ***
+Total pot 4878 | Rake 0 
+Board [8s Qs 7h 9c 4c]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: LucasPaoEpa (button) showed [5h Ah] and lost with high card Ace
+Seat 6: bigpokeras666 (small blind) folded before Flop
+Seat 7: Profbetting (big blind) showed [Td 6d] and won (4878) with a straight, Six to Ten
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863852233: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:21:21 WET [2025/02/14 13:21:21 ET]
+Table '3852792690 336' 8-max Seat #6 is the button
+Seat 1: jallu435 (140431 in chips, $10 bounty) 
+Seat 2: napalu daish (7611 in chips, $5 bounty) 
+Seat 3: kovdian (33272 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26609 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (8001 in chips, $5 bounty) 
+Seat 7: Profbetting (22499 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (51909 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+Profbetting: posts small blind 500
+Schullenmaker: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 7h]
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+Signeiband is disconnected 
+bigpokeras666: folds 
+Profbetting: folds 
+Uncalled bet (500) returned to Schullenmaker
+Schullenmaker collected 1875 from pot
+Schullenmaker: doesn't show hand 
+*** SUMMARY ***
+Total pot 1875 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (button) folded before Flop (didn't bet)
+Seat 7: Profbetting (small blind) folded before Flop
+Seat 8: Schullenmaker (big blind) collected (1875)
+
+
+
+PokerStars Hand #254863859211: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:21:49 WET [2025/02/14 13:21:49 ET]
+Table '3852792690 336' 8-max Seat #7 is the button
+Seat 1: jallu435 (140306 in chips, $10 bounty) 
+Seat 2: napalu daish (7486 in chips, $5 bounty) 
+Seat 3: kovdian (33147 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26484 in chips, $5 bounty) 
+Seat 5: Signeiband (25000 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (7876 in chips, $5 bounty) 
+Seat 7: Profbetting (21874 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (53159 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Signeiband: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+Schullenmaker: posts small blind 500
+jallu435: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Jd]
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+Signeiband: folds 
+bigpokeras666: folds 
+Profbetting: raises 1000 to 2000
+Schullenmaker: raises 5000 to 7000
+jallu435: calls 6000
+Profbetting: folds 
+*** FLOP *** [Jc Kc 9s]
+Schullenmaker: bets 6000
+jallu435: folds 
+Uncalled bet (6000) returned to Schullenmaker
+Schullenmaker collected 17000 from pot
+Schullenmaker: doesn't show hand 
+*** SUMMARY ***
+Total pot 17000 | Rake 0 
+Board [Jc Kc 9s]
+Seat 1: jallu435 (big blind) folded on the Flop
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Signeiband folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting (button) folded before Flop
+Seat 8: Schullenmaker (small blind) collected (17000)
+
+
+
+PokerStars Hand #254863876554: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:22:57 WET [2025/02/14 13:22:57 ET]
+Table '3852792690 336' 8-max Seat #8 is the button
+Seat 1: jallu435 (133181 in chips, $10 bounty) 
+Seat 2: napalu daish (7361 in chips, $5 bounty) 
+Seat 3: kovdian (33022 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26359 in chips, $5 bounty) 
+Seat 5: Signeiband (24875 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (7751 in chips, $5 bounty) 
+Seat 7: Profbetting (19749 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (63034 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Signeiband: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+jallu435: posts small blind 500
+napalu daish: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 3s]
+kovdian: folds 
+Kevin12345Mc: folds 
+Signeiband: folds 
+bigpokeras666: folds 
+Profbetting: folds 
+Schullenmaker: folds 
+jallu435: folds 
+Uncalled bet (500) returned to napalu daish
+napalu daish collected 2000 from pot
+napalu daish: doesn't show hand 
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Seat 1: jallu435 (small blind) folded before Flop
+Seat 2: napalu daish (big blind) collected (2000)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Signeiband folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting folded before Flop (didn't bet)
+Seat 8: Schullenmaker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863882769: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:23:22 WET [2025/02/14 13:23:22 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (132556 in chips, $10 bounty) 
+Seat 2: napalu daish (8736 in chips, $5 bounty) 
+Seat 3: kovdian (32897 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26234 in chips, $5 bounty) 
+Seat 5: Signeiband (24750 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (7626 in chips, $5 bounty) 
+Seat 7: Profbetting (19624 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (62909 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Signeiband: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+napalu daish: posts small blind 500
+kovdian: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 9c]
+Kevin12345Mc: folds 
+Signeiband: folds 
+bigpokeras666: folds 
+Profbetting: folds 
+Schullenmaker: raises 1000 to 2000
+jallu435: calls 2000
+napalu daish: folds 
+kovdian: folds 
+*** FLOP *** [3s 2c 4c]
+Schullenmaker: bets 2145
+jallu435: folds 
+Uncalled bet (2145) returned to Schullenmaker
+Schullenmaker collected 6500 from pot
+Schullenmaker: doesn't show hand 
+*** SUMMARY ***
+Total pot 6500 | Rake 0 
+Board [3s 2c 4c]
+Seat 1: jallu435 (button) folded on the Flop
+Seat 2: napalu daish (small blind) folded before Flop
+Seat 3: kovdian (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Signeiband folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting folded before Flop (didn't bet)
+Seat 8: Schullenmaker collected (6500)
+
+
+
+PokerStars Hand #254863893665: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:24:06 WET [2025/02/14 13:24:06 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (130431 in chips, $10 bounty) 
+Seat 2: napalu daish (8111 in chips, $5 bounty) 
+Seat 3: kovdian (31772 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (26109 in chips, $5 bounty) 
+Seat 5: Signeiband (24625 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (7501 in chips, $5 bounty) 
+Seat 7: Profbetting (19499 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (67284 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Signeiband: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+kovdian: posts small blind 500
+Kevin12345Mc: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Td]
+Signeiband: folds 
+bigpokeras666: folds 
+Profbetting: raises 1000 to 2000
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: calls 1000
+*** FLOP *** [7s 4h 3s]
+Kevin12345Mc: checks 
+Profbetting: bets 1815
+Kevin12345Mc: folds 
+Uncalled bet (1815) returned to Profbetting
+Profbetting collected 5500 from pot
+Profbetting: doesn't show hand 
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Board [7s 4h 3s]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish (button) folded before Flop (didn't bet)
+Seat 3: kovdian (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded on the Flop
+Seat 5: Signeiband folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting collected (5500)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863902188: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:24:40 WET [2025/02/14 13:24:40 ET]
+Table '3852792690 336' 8-max Seat #3 is the button
+Seat 1: jallu435 (130306 in chips, $10 bounty) 
+Seat 2: napalu daish (7986 in chips, $5 bounty) 
+Seat 3: kovdian (31147 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (23984 in chips, $5 bounty) 
+Seat 5: Signeiband (24500 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (7376 in chips, $5 bounty) 
+Seat 7: Profbetting (22874 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (67159 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Signeiband: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+Kevin12345Mc: posts small blind 500
+Signeiband: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 8c]
+bigpokeras666: folds 
+Profbetting: folds 
+Schullenmaker: raises 1000 to 2000
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+Signeiband: folds 
+Uncalled bet (1000) returned to Schullenmaker
+Schullenmaker collected 3500 from pot
+Schullenmaker: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Signeiband (big blind) folded before Flop
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting folded before Flop (didn't bet)
+Seat 8: Schullenmaker collected (3500)
+
+
+
+PokerStars Hand #254863907647: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 18:25:01 WET [2025/02/14 13:25:01 ET]
+Table '3852792690 336' 8-max Seat #4 is the button
+Seat 1: jallu435 (130181 in chips, $10 bounty) 
+Seat 2: napalu daish (7861 in chips, $5 bounty) 
+Seat 3: kovdian (31022 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (23359 in chips, $5 bounty) 
+Seat 5: Signeiband (23375 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (7251 in chips, $5 bounty) 
+Seat 7: Profbetting (22749 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (69534 in chips, $10 bounty) 
+jallu435: posts the ante 125
+napalu daish: posts the ante 125
+kovdian: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Signeiband: posts the ante 125
+bigpokeras666: posts the ante 125
+Profbetting: posts the ante 125
+Schullenmaker: posts the ante 125
+Signeiband: posts small blind 500
+bigpokeras666: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 4c]
+Profbetting: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: raises 6736 to 7736 and is all-in
+kovdian: folds 
+Kevin12345Mc: folds 
+Signeiband: folds 
+bigpokeras666: folds 
+Uncalled bet (6736) returned to napalu daish
+napalu daish collected 3500 from pot
+napalu daish: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish collected (3500)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: Signeiband (small blind) folded before Flop
+Seat 6: bigpokeras666 (big blind) folded before Flop
+Seat 7: Profbetting folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863921862: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 18:25:57 WET [2025/02/14 13:25:57 ET]
+Table '3852792690 336' 8-max Seat #5 is the button
+Seat 1: jallu435 (130056 in chips, $10 bounty) 
+Seat 2: napalu daish (10236 in chips, $5 bounty) 
+Seat 3: kovdian (30897 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (23234 in chips, $5 bounty) 
+Seat 5: Signeiband (22750 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (6126 in chips, $5 bounty) 
+Seat 7: Profbetting (22624 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (69409 in chips, $10 bounty) 
+jallu435: posts the ante 150
+napalu daish: posts the ante 150
+kovdian: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Signeiband: posts the ante 150
+bigpokeras666: posts the ante 150
+Profbetting: posts the ante 150
+Schullenmaker: posts the ante 150
+bigpokeras666: posts small blind 600
+Profbetting: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Kc]
+Schullenmaker: raises 1200 to 2400
+jallu435: folds 
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+Signeiband: folds 
+bigpokeras666: folds 
+Profbetting: calls 1200
+*** FLOP *** [Jc 3d Tc]
+Profbetting: checks 
+Schullenmaker: bets 2178
+Profbetting: folds 
+Uncalled bet (2178) returned to Schullenmaker
+Schullenmaker collected 6600 from pot
+Schullenmaker: doesn't show hand 
+*** SUMMARY ***
+Total pot 6600 | Rake 0 
+Board [Jc 3d Tc]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Signeiband (button) folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (small blind) folded before Flop
+Seat 7: Profbetting (big blind) folded on the Flop
+Seat 8: Schullenmaker collected (6600)
+
+
+
+PokerStars Hand #254863929584: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 18:26:28 WET [2025/02/14 13:26:28 ET]
+Table '3852792690 336' 8-max Seat #6 is the button
+Seat 1: jallu435 (129906 in chips, $10 bounty) 
+Seat 2: napalu daish (10086 in chips, $5 bounty) 
+Seat 3: kovdian (30747 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (23084 in chips, $5 bounty) 
+Seat 5: Signeiband (22600 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (5376 in chips, $5 bounty) 
+Seat 7: Profbetting (20074 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (73459 in chips, $10 bounty) 
+jallu435: posts the ante 150
+napalu daish: posts the ante 150
+kovdian: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Signeiband: posts the ante 150
+bigpokeras666: posts the ante 150
+Profbetting: posts the ante 150
+Schullenmaker: posts the ante 150
+Profbetting: posts small blind 600
+Schullenmaker: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 5c]
+jallu435: folds 
+napalu daish: folds 
+kovdian: raises 1200 to 2400
+Kevin12345Mc: folds 
+Signeiband: folds 
+bigpokeras666: raises 2826 to 5226 and is all-in
+Profbetting: folds 
+Schullenmaker: folds 
+kovdian: calls 2826
+*** FLOP *** [8h Kd 2d]
+*** TURN *** [8h Kd 2d] [Th]
+*** RIVER *** [8h Kd 2d Th] [Jh]
+*** SHOW DOWN ***
+kovdian: shows [3s As] (high card Ace)
+bigpokeras666: shows [Qh Qd] (a pair of Queens)
+bigpokeras666 collected 13452 from pot
+*** SUMMARY ***
+Total pot 13452 | Rake 0 
+Board [8h Kd 2d Th Jh]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian showed [3s As] and lost with high card Ace
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Signeiband folded before Flop (didn't bet)
+Seat 6: bigpokeras666 (button) showed [Qh Qd] and won (13452) with a pair of Queens
+Seat 7: Profbetting (small blind) folded before Flop
+Seat 8: Schullenmaker (big blind) folded before Flop
+
+
+
+PokerStars Hand #254863937133: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 18:26:58 WET [2025/02/14 13:26:58 ET]
+Table '3852792690 336' 8-max Seat #7 is the button
+Seat 1: jallu435 (129756 in chips, $10 bounty) 
+Seat 2: napalu daish (9936 in chips, $5 bounty) 
+Seat 3: kovdian (25371 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (22934 in chips, $5 bounty) 
+Seat 5: Signeiband (22450 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (13452 in chips, $5 bounty) 
+Seat 7: Profbetting (19324 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (72109 in chips, $10 bounty) 
+jallu435: posts the ante 150
+napalu daish: posts the ante 150
+kovdian: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Signeiband: posts the ante 150
+bigpokeras666: posts the ante 150
+Profbetting: posts the ante 150
+Schullenmaker: posts the ante 150
+Schullenmaker: posts small blind 600
+jallu435: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 5h]
+napalu daish: folds 
+kovdian: folds 
+Kevin12345Mc: folds 
+Signeiband: folds 
+bigpokeras666: folds 
+Profbetting: raises 17974 to 19174 and is all-in
+Schullenmaker: folds 
+jallu435: folds 
+Uncalled bet (17974) returned to Profbetting
+Profbetting collected 4200 from pot
+Profbetting: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: jallu435 (big blind) folded before Flop
+Seat 2: napalu daish folded before Flop (didn't bet)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Signeiband folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting (button) collected (4200)
+Seat 8: Schullenmaker (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863943916: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 18:27:25 WET [2025/02/14 13:27:25 ET]
+Table '3852792690 336' 8-max Seat #8 is the button
+Seat 1: jallu435 (128406 in chips, $10 bounty) 
+Seat 2: napalu daish (9786 in chips, $5 bounty) 
+Seat 3: kovdian (25221 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (22784 in chips, $5 bounty) 
+Seat 5: Signeiband (22300 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (13302 in chips, $5 bounty) 
+Seat 7: Profbetting (22174 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (71359 in chips, $10 bounty) 
+jallu435: posts the ante 150
+napalu daish: posts the ante 150
+kovdian: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Signeiband: posts the ante 150
+bigpokeras666: posts the ante 150
+Profbetting: posts the ante 150
+Schullenmaker: posts the ante 150
+jallu435: posts small blind 600
+napalu daish: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts As]
+kovdian: folds 
+Kevin12345Mc: raises 1200 to 2400
+Signeiband: folds 
+bigpokeras666: folds 
+Profbetting: folds 
+Schullenmaker: folds 
+jallu435: folds 
+napalu daish: calls 1200
+*** FLOP *** [8s 5h Jc]
+napalu daish: checks 
+Kevin12345Mc: bets 2178
+napalu daish: calls 2178
+*** TURN *** [8s 5h Jc] [4h]
+napalu daish: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [8s 5h Jc 4h] [2s]
+napalu daish: bets 5058 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (5058) returned to napalu daish
+napalu daish collected 10956 from pot
+napalu daish: doesn't show hand 
+*** SUMMARY ***
+Total pot 10956 | Rake 0 
+Board [8s 5h Jc 4h 2s]
+Seat 1: jallu435 (small blind) folded before Flop
+Seat 2: napalu daish (big blind) collected (10956)
+Seat 3: kovdian folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded on the River
+Seat 5: Signeiband folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting folded before Flop (didn't bet)
+Seat 8: Schullenmaker (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863968514: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 18:29:02 WET [2025/02/14 13:29:02 ET]
+Table '3852792690 336' 8-max Seat #1 is the button
+Seat 1: jallu435 (127656 in chips, $10 bounty) 
+Seat 2: napalu daish (16014 in chips, $5 bounty) 
+Seat 3: kovdian (25071 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (18056 in chips, $5 bounty) 
+Seat 5: Signeiband (22150 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (13152 in chips, $5 bounty) 
+Seat 7: Profbetting (22024 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (71209 in chips, $10 bounty) 
+jallu435: posts the ante 150
+napalu daish: posts the ante 150
+kovdian: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Signeiband: posts the ante 150
+bigpokeras666: posts the ante 150
+Profbetting: posts the ante 150
+Schullenmaker: posts the ante 150
+napalu daish: posts small blind 600
+kovdian: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 3c]
+Kevin12345Mc: folds 
+Signeiband: raises 1200 to 2400
+bigpokeras666: folds 
+Profbetting: folds 
+Schullenmaker: folds 
+jallu435: calls 2400
+napalu daish: folds 
+kovdian: calls 1200
+*** FLOP *** [Kh 3s Js]
+kovdian: checks 
+Signeiband: bets 4500
+jallu435: folds 
+kovdian: folds 
+Uncalled bet (4500) returned to Signeiband
+Signeiband collected 9000 from pot
+Signeiband: doesn't show hand 
+*** SUMMARY ***
+Total pot 9000 | Rake 0 
+Board [Kh 3s Js]
+Seat 1: jallu435 (button) folded on the Flop
+Seat 2: napalu daish (small blind) folded before Flop
+Seat 3: kovdian (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Signeiband collected (9000)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting folded before Flop (didn't bet)
+Seat 8: Schullenmaker folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863977097: Tournament #3852792690, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 18:29:36 WET [2025/02/14 13:29:36 ET]
+Table '3852792690 336' 8-max Seat #2 is the button
+Seat 1: jallu435 (125106 in chips, $10 bounty) 
+Seat 2: napalu daish (15264 in chips, $5 bounty) 
+Seat 3: kovdian (22521 in chips, $5 bounty) 
+Seat 4: Kevin12345Mc (17906 in chips, $5 bounty) 
+Seat 5: Signeiband (28600 in chips, $5 bounty) 
+Seat 6: bigpokeras666 (13002 in chips, $5 bounty) 
+Seat 7: Profbetting (21874 in chips, $7.50 bounty) 
+Seat 8: Schullenmaker (71059 in chips, $10 bounty) 
+jallu435: posts the ante 150
+napalu daish: posts the ante 150
+kovdian: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Signeiband: posts the ante 150
+bigpokeras666: posts the ante 150
+Profbetting: posts the ante 150
+Schullenmaker: posts the ante 150
+kovdian: posts small blind 600
+Kevin12345Mc: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h Jh]
+Signeiband: folds 
+bigpokeras666: folds 
+Profbetting: raises 1200 to 2400
+Schullenmaker: calls 2400
+jallu435: folds 
+napalu daish: folds 
+kovdian: calls 1800
+Kevin12345Mc: calls 1200
+*** FLOP *** [Ah 4h 5h]
+kovdian: checks 
+Kevin12345Mc: checks 
+Profbetting: checks 
+Schullenmaker: checks 
+*** TURN *** [Ah 4h 5h] [Jc]
+kovdian: bets 4800
+Kevin12345Mc: raises 10556 to 15356 and is all-in
+Profbetting: folds 
+Schullenmaker: raises 46312 to 61668
+kovdian: calls 15171 and is all-in
+Uncalled bet (41697) returned to Schullenmaker
+*** RIVER *** [Ah 4h 5h Jc] [7s]
+*** SHOW DOWN ***
+kovdian: shows [Qh 9h] (a flush, Ace high)
+Schullenmaker: shows [4c 4d] (three of a kind, Fours)
+kovdian collected 9230 from side pot
+Kevin12345Mc: shows [2h Jh] (a flush, Ace high - lower cards)
+kovdian collected 56868 from main pot
+kovdian wins $2.50 for eliminating Kevin12345Mc and their own bounty increases by $2.50 to $7.50
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 66098 Main pot 56868. Side pot 9230. | Rake 0 
+Board [Ah 4h 5h Jc 7s]
+Seat 1: jallu435 folded before Flop (didn't bet)
+Seat 2: napalu daish (button) folded before Flop (didn't bet)
+Seat 3: kovdian (small blind) showed [Qh 9h] and won (66098) with a flush, Ace high
+Seat 4: Kevin12345Mc (big blind) showed [2h Jh] and lost with a flush, Ace high
+Seat 5: Signeiband folded before Flop (didn't bet)
+Seat 6: bigpokeras666 folded before Flop (didn't bet)
+Seat 7: Profbetting folded on the Turn
+Seat 8: Schullenmaker showed [4c 4d] and lost with three of a kind, Fours
+
+
+

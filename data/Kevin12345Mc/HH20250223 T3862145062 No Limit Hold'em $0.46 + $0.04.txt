@@ -1,0 +1,764 @@
+﻿PokerStars Hand #255002052375: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/23 14:43:08 WET [2025/02/23 9:43:08 ET]
+Table '3862145062 1' 3-max Seat #1 is the button
+Seat 1: Eliandos (500 in chips) 
+Seat 2: elecgod (500 in chips) 
+Seat 3: Kevin12345Mc (500 in chips) 
+elecgod: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Ks]
+Eliandos: folds 
+elecgod: calls 10
+Kevin12345Mc: checks 
+*** FLOP *** [5s Js 6h]
+elecgod: checks 
+Kevin12345Mc: checks 
+*** TURN *** [5s Js 6h] [4h]
+elecgod: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [5s Js 6h 4h] [7h]
+elecgod: checks 
+Kevin12345Mc: bets 20
+elecgod: folds 
+Uncalled bet (20) returned to Kevin12345Mc
+Kevin12345Mc collected 40 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5s Js 6h 4h 7h]
+Seat 1: Eliandos (button) folded before Flop (didn't bet)
+Seat 2: elecgod (small blind) folded on the River
+Seat 3: Kevin12345Mc (big blind) collected (40)
+
+
+
+PokerStars Hand #255002059160: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/23 14:43:40 WET [2025/02/23 9:43:40 ET]
+Table '3862145062 1' 3-max Seat #2 is the button
+Seat 1: Eliandos (500 in chips) 
+Seat 2: elecgod (480 in chips) 
+Seat 3: Kevin12345Mc (520 in chips) 
+Kevin12345Mc: posts small blind 10
+Eliandos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 3c]
+elecgod: folds 
+Kevin12345Mc: folds 
+Uncalled bet (10) returned to Eliandos
+Eliandos collected 20 from pot
+Eliandos: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: Eliandos (big blind) collected (20)
+Seat 2: elecgod (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #255002060465: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/23 14:43:46 WET [2025/02/23 9:43:46 ET]
+Table '3862145062 1' 3-max Seat #3 is the button
+Seat 1: Eliandos (510 in chips) 
+Seat 2: elecgod (480 in chips) 
+Seat 3: Kevin12345Mc (510 in chips) 
+Eliandos: posts small blind 10
+elecgod: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 9c]
+Kevin12345Mc: raises 20 to 40
+Eliandos: folds 
+elecgod: folds 
+Uncalled bet (20) returned to Kevin12345Mc
+Kevin12345Mc collected 50 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Eliandos (small blind) folded before Flop
+Seat 2: elecgod (big blind) folded before Flop
+Seat 3: Kevin12345Mc (button) collected (50)
+
+
+
+PokerStars Hand #255002062925: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/23 14:43:58 WET [2025/02/23 9:43:58 ET]
+Table '3862145062 1' 3-max Seat #1 is the button
+Seat 1: Eliandos (500 in chips) 
+Seat 2: elecgod (460 in chips) 
+Seat 3: Kevin12345Mc (540 in chips) 
+elecgod: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 3h]
+Eliandos: raises 480 to 500 and is all-in
+elecgod: folds 
+Kevin12345Mc: folds 
+Uncalled bet (480) returned to Eliandos
+Eliandos collected 50 from pot
+Eliandos: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Eliandos (button) collected (50)
+Seat 2: elecgod (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #255002066358: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/23 14:44:14 WET [2025/02/23 9:44:14 ET]
+Table '3862145062 1' 3-max Seat #2 is the button
+Seat 1: Eliandos (530 in chips) 
+Seat 2: elecgod (450 in chips) 
+Seat 3: Kevin12345Mc (520 in chips) 
+Kevin12345Mc: posts small blind 10
+Eliandos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 2h]
+elecgod: raises 20 to 40
+Kevin12345Mc: calls 30
+Eliandos: calls 20
+*** FLOP *** [6d Ts 9d]
+Kevin12345Mc: checks 
+Eliandos: bets 60
+elecgod: folds 
+Kevin12345Mc: folds 
+Uncalled bet (60) returned to Eliandos
+Eliandos collected 120 from pot
+Eliandos: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d Ts 9d]
+Seat 1: Eliandos (big blind) collected (120)
+Seat 2: elecgod (button) folded on the Flop
+Seat 3: Kevin12345Mc (small blind) folded on the Flop
+
+
+
+PokerStars Hand #255002070898: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/23 14:44:35 WET [2025/02/23 9:44:35 ET]
+Table '3862145062 1' 3-max Seat #3 is the button
+Seat 1: Eliandos (610 in chips) 
+Seat 2: elecgod (410 in chips) 
+Seat 3: Kevin12345Mc (480 in chips) 
+Eliandos: posts small blind 10
+elecgod: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 7c]
+Kevin12345Mc: raises 20 to 40
+Eliandos: calls 30
+elecgod: calls 20
+*** FLOP *** [8c Ac Jd]
+Eliandos: checks 
+elecgod: checks 
+Kevin12345Mc: bets 40
+Eliandos: folds 
+elecgod: folds 
+Uncalled bet (40) returned to Kevin12345Mc
+Kevin12345Mc collected 120 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [8c Ac Jd]
+Seat 1: Eliandos (small blind) folded on the Flop
+Seat 2: elecgod (big blind) folded on the Flop
+Seat 3: Kevin12345Mc (button) collected (120)
+
+
+
+PokerStars Hand #255002074274: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/23 14:44:51 WET [2025/02/23 9:44:51 ET]
+Table '3862145062 1' 3-max Seat #1 is the button
+Seat 1: Eliandos (570 in chips) 
+Seat 2: elecgod (370 in chips) 
+Seat 3: Kevin12345Mc (560 in chips) 
+elecgod: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 4s]
+Eliandos: folds 
+elecgod: calls 10
+Kevin12345Mc: checks 
+*** FLOP *** [5c 5s Qd]
+elecgod: checks 
+Kevin12345Mc: bets 26
+elecgod: folds 
+Uncalled bet (26) returned to Kevin12345Mc
+Kevin12345Mc collected 40 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [5c 5s Qd]
+Seat 1: Eliandos (button) folded before Flop (didn't bet)
+Seat 2: elecgod (small blind) folded on the Flop
+Seat 3: Kevin12345Mc (big blind) collected (40)
+
+
+
+PokerStars Hand #255002078002: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/23 14:45:08 WET [2025/02/23 9:45:08 ET]
+Table '3862145062 1' 3-max Seat #2 is the button
+Seat 1: Eliandos (570 in chips) 
+Seat 2: elecgod (350 in chips) 
+Seat 3: Kevin12345Mc (580 in chips) 
+Kevin12345Mc: posts small blind 10
+Eliandos: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Ah]
+elecgod: folds 
+Kevin12345Mc: raises 20 to 40
+Eliandos: calls 20
+*** FLOP *** [2c 8c Jh]
+Kevin12345Mc: bets 20
+Eliandos: calls 20
+*** TURN *** [2c 8c Jh] [2h]
+Kevin12345Mc: checks 
+Eliandos: checks 
+*** RIVER *** [2c 8c Jh 2h] [7d]
+Kevin12345Mc: checks 
+Eliandos: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9c Ah] (a pair of Deuces)
+Eliandos: mucks hand 
+Kevin12345Mc collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2c 8c Jh 2h 7d]
+Seat 1: Eliandos (big blind) mucked [6c Ad]
+Seat 2: elecgod (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) showed [9c Ah] and won (120) with a pair of Deuces
+
+
+
+PokerStars Hand #255002084754: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/23 14:45:40 WET [2025/02/23 9:45:40 ET]
+Table '3862145062 1' 3-max Seat #3 is the button
+Seat 1: Eliandos (510 in chips) 
+Seat 2: elecgod (350 in chips) 
+Seat 3: Kevin12345Mc (640 in chips) 
+Eliandos: posts small blind 15
+elecgod: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s Jd]
+Kevin12345Mc: folds 
+Eliandos: folds 
+Uncalled bet (15) returned to elecgod
+elecgod collected 30 from pot
+elecgod: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Eliandos (small blind) folded before Flop
+Seat 2: elecgod (big blind) collected (30)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255002086076: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/23 14:45:46 WET [2025/02/23 9:45:46 ET]
+Table '3862145062 1' 3-max Seat #1 is the button
+Seat 1: Eliandos (495 in chips) 
+Seat 2: elecgod (365 in chips) 
+Seat 3: Kevin12345Mc (640 in chips) 
+elecgod: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 5d]
+Eliandos: folds 
+elecgod: calls 15
+Kevin12345Mc: checks 
+*** FLOP *** [9s 7s 6s]
+elecgod: bets 30
+Kevin12345Mc: calls 30
+*** TURN *** [9s 7s 6s] [Jc]
+elecgod: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [9s 7s 6s Jc] [Tc]
+elecgod: checks 
+Kevin12345Mc: bets 120
+elecgod: folds 
+Uncalled bet (120) returned to Kevin12345Mc
+Kevin12345Mc collected 120 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9s 7s 6s Jc Tc]
+Seat 1: Eliandos (button) folded before Flop (didn't bet)
+Seat 2: elecgod (small blind) folded on the River
+Seat 3: Kevin12345Mc (big blind) collected (120)
+
+
+
+PokerStars Hand #255002092495: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/23 14:46:16 WET [2025/02/23 9:46:16 ET]
+Table '3862145062 1' 3-max Seat #2 is the button
+Seat 1: Eliandos (495 in chips) 
+Seat 2: elecgod (305 in chips) 
+Seat 3: Kevin12345Mc (700 in chips) 
+Kevin12345Mc: posts small blind 15
+Eliandos: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 5d]
+elecgod: folds 
+Kevin12345Mc: calls 15
+Eliandos: raises 465 to 495 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (465) returned to Eliandos
+Eliandos collected 60 from pot
+Eliandos: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Eliandos (big blind) collected (60)
+Seat 2: elecgod (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #255002095293: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/23 14:46:29 WET [2025/02/23 9:46:29 ET]
+Table '3862145062 1' 3-max Seat #3 is the button
+Seat 1: Eliandos (525 in chips) 
+Seat 2: elecgod (305 in chips) 
+Seat 3: Kevin12345Mc (670 in chips) 
+Eliandos: posts small blind 15
+elecgod: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Kc]
+Kevin12345Mc: raises 30 to 60
+Eliandos: folds 
+elecgod: calls 30
+*** FLOP *** [5c Js 3s]
+elecgod: checks 
+Kevin12345Mc: bets 45
+elecgod: calls 45
+*** TURN *** [5c Js 3s] [2d]
+elecgod: bets 200 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (200) returned to elecgod
+elecgod collected 225 from pot
+elecgod: doesn't show hand 
+*** SUMMARY ***
+Total pot 225 | Rake 0 
+Board [5c Js 3s 2d]
+Seat 1: Eliandos (small blind) folded before Flop
+Seat 2: elecgod (big blind) collected (225)
+Seat 3: Kevin12345Mc (button) folded on the Turn
+
+
+
+PokerStars Hand #255002100638: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/23 14:46:54 WET [2025/02/23 9:46:54 ET]
+Table '3862145062 1' 3-max Seat #1 is the button
+Seat 1: Eliandos (510 in chips) 
+Seat 2: elecgod (425 in chips) 
+Seat 3: Kevin12345Mc (565 in chips) 
+elecgod: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 7h]
+Eliandos: raises 480 to 510 and is all-in
+elecgod: calls 410 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (85) returned to Eliandos
+*** FLOP *** [Kc 9d 4h]
+*** TURN *** [Kc 9d 4h] [Kh]
+*** RIVER *** [Kc 9d 4h Kh] [3h]
+*** SHOW DOWN ***
+elecgod: shows [As Js] (a pair of Kings)
+Eliandos: shows [8c Td] (a pair of Kings - lower kicker)
+elecgod collected 880 from pot
+*** SUMMARY ***
+Total pot 880 | Rake 0 
+Board [Kc 9d 4h Kh 3h]
+Seat 1: Eliandos (button) showed [8c Td] and lost with a pair of Kings
+Seat 2: elecgod (small blind) showed [As Js] and won (880) with a pair of Kings
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #255002104565: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/23 14:47:13 WET [2025/02/23 9:47:13 ET]
+Table '3862145062 1' 3-max Seat #2 is the button
+Seat 1: Eliandos (85 in chips) 
+Seat 2: elecgod (880 in chips) 
+Seat 3: Kevin12345Mc (535 in chips) 
+Kevin12345Mc: posts small blind 20
+Eliandos: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Ks]
+elecgod: folds 
+Kevin12345Mc: raises 40 to 80
+Eliandos: raises 5 to 85 and is all-in
+Kevin12345Mc: calls 5
+*** FLOP *** [9h 3h 2d]
+*** TURN *** [9h 3h 2d] [7c]
+*** RIVER *** [9h 3h 2d 7c] [Th]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Qs Ks] (high card King)
+Eliandos: shows [Td 7s] (two pair, Tens and Sevens)
+Eliandos collected 170 from pot
+*** SUMMARY ***
+Total pot 170 | Rake 0 
+Board [9h 3h 2d 7c Th]
+Seat 1: Eliandos (big blind) showed [Td 7s] and won (170) with two pair, Tens and Sevens
+Seat 2: elecgod (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) showed [Qs Ks] and lost with high card King
+
+
+
+PokerStars Hand #255002107966: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/23 14:47:28 WET [2025/02/23 9:47:28 ET]
+Table '3862145062 1' 3-max Seat #3 is the button
+Seat 1: Eliandos (170 in chips) 
+Seat 2: elecgod (880 in chips) 
+Seat 3: Kevin12345Mc (450 in chips) 
+Eliandos: posts small blind 20
+elecgod: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Jd]
+Kevin12345Mc: folds 
+Eliandos: folds 
+Uncalled bet (20) returned to elecgod
+elecgod collected 40 from pot
+elecgod: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Eliandos (small blind) folded before Flop
+Seat 2: elecgod (big blind) collected (40)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255002110356: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/23 14:47:40 WET [2025/02/23 9:47:40 ET]
+Table '3862145062 1' 3-max Seat #1 is the button
+Seat 1: Eliandos (150 in chips) 
+Seat 2: elecgod (900 in chips) 
+Seat 3: Kevin12345Mc (450 in chips) 
+elecgod: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 8h]
+Eliandos: raises 110 to 150 and is all-in
+elecgod: raises 750 to 900 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (750) returned to elecgod
+*** FLOP *** [5s 4c 6h]
+*** TURN *** [5s 4c 6h] [Qh]
+*** RIVER *** [5s 4c 6h Qh] [Jd]
+*** SHOW DOWN ***
+elecgod: shows [As Ac] (a pair of Aces)
+Eliandos: shows [7h 6c] (a pair of Sixes)
+elecgod collected 340 from pot
+Eliandos finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [5s 4c 6h Qh Jd]
+Seat 1: Eliandos (button) showed [7h 6c] and lost with a pair of Sixes
+Seat 2: elecgod (small blind) showed [As Ac] and won (340) with a pair of Aces
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #255002114513: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/23 14:47:59 WET [2025/02/23 9:47:59 ET]
+Table '3862145062 1' 3-max Seat #3 is the button
+Seat 2: elecgod (1090 in chips) 
+Seat 3: Kevin12345Mc (410 in chips) 
+Kevin12345Mc: posts small blind 20
+elecgod: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 4h]
+Kevin12345Mc: raises 40 to 80
+elecgod: folds 
+Uncalled bet (40) returned to Kevin12345Mc
+Kevin12345Mc collected 80 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: elecgod (big blind) folded before Flop
+Seat 3: Kevin12345Mc (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #255002115957: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/23 14:48:06 WET [2025/02/23 9:48:06 ET]
+Table '3862145062 1' 3-max Seat #2 is the button
+Seat 2: elecgod (1050 in chips) 
+Seat 3: Kevin12345Mc (450 in chips) 
+elecgod: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 6h]
+elecgod: raises 40 to 80
+Kevin12345Mc: calls 40
+*** FLOP *** [7c 4c 4d]
+Kevin12345Mc: checks 
+elecgod: checks 
+*** TURN *** [7c 4c 4d] [Ts]
+Kevin12345Mc: checks 
+elecgod: checks 
+*** RIVER *** [7c 4c 4d Ts] [9c]
+Kevin12345Mc: bets 160
+elecgod: folds 
+Uncalled bet (160) returned to Kevin12345Mc
+Kevin12345Mc collected 160 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [7c 4c 4d Ts 9c]
+Seat 2: elecgod (button) (small blind) folded on the River
+Seat 3: Kevin12345Mc (big blind) collected (160)
+
+
+
+PokerStars Hand #255002120726: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/23 14:48:28 WET [2025/02/23 9:48:28 ET]
+Table '3862145062 1' 3-max Seat #3 is the button
+Seat 2: elecgod (970 in chips) 
+Seat 3: Kevin12345Mc (530 in chips) 
+Kevin12345Mc: posts small blind 20
+elecgod: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 4c]
+Kevin12345Mc: calls 20
+elecgod: checks 
+*** FLOP *** [5c 2d Ah]
+elecgod: checks 
+Kevin12345Mc: bets 40
+elecgod: calls 40
+*** TURN *** [5c 2d Ah] [Ts]
+elecgod: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [5c 2d Ah Ts] [6h]
+elecgod: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+elecgod: shows [4h Jh] (high card Ace)
+Kevin12345Mc: shows [2c 4c] (a pair of Deuces)
+Kevin12345Mc collected 160 from pot
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [5c 2d Ah Ts 6h]
+Seat 2: elecgod (big blind) showed [4h Jh] and lost with high card Ace
+Seat 3: Kevin12345Mc (button) (small blind) showed [2c 4c] and won (160) with a pair of Deuces
+
+
+
+PokerStars Hand #255002125080: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/23 14:48:49 WET [2025/02/23 9:48:49 ET]
+Table '3862145062 1' 3-max Seat #2 is the button
+Seat 2: elecgod (890 in chips) 
+Seat 3: Kevin12345Mc (610 in chips) 
+elecgod: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Js]
+elecgod: calls 20
+Kevin12345Mc: checks 
+*** FLOP *** [Kc Kd 9h]
+Kevin12345Mc: checks 
+elecgod: checks 
+*** TURN *** [Kc Kd 9h] [Tc]
+Kevin12345Mc: checks 
+elecgod: bets 40
+Kevin12345Mc: folds 
+Uncalled bet (40) returned to elecgod
+elecgod collected 80 from pot
+elecgod: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Kc Kd 9h Tc]
+Seat 2: elecgod (button) (small blind) collected (80)
+Seat 3: Kevin12345Mc (big blind) folded on the Turn
+
+
+
+PokerStars Hand #255002128807: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/23 14:49:06 WET [2025/02/23 9:49:06 ET]
+Table '3862145062 1' 3-max Seat #3 is the button
+Seat 2: elecgod (930 in chips) 
+Seat 3: Kevin12345Mc (570 in chips) 
+Kevin12345Mc: posts small blind 20
+elecgod: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d Ks]
+Kevin12345Mc: raises 40 to 80
+elecgod: folds 
+Uncalled bet (40) returned to Kevin12345Mc
+Kevin12345Mc collected 80 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 2: elecgod (big blind) folded before Flop
+Seat 3: Kevin12345Mc (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #255002130744: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/23 14:49:15 WET [2025/02/23 9:49:15 ET]
+Table '3862145062 1' 3-max Seat #2 is the button
+Seat 2: elecgod (890 in chips) 
+Seat 3: Kevin12345Mc (610 in chips) 
+elecgod: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Kd]
+elecgod: raises 60 to 120
+Kevin12345Mc: raises 490 to 610 and is all-in
+elecgod: folds 
+Uncalled bet (490) returned to Kevin12345Mc
+Kevin12345Mc collected 240 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 2: elecgod (button) (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) collected (240)
+
+
+
+PokerStars Hand #255002133782: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/23 14:49:29 WET [2025/02/23 9:49:29 ET]
+Table '3862145062 1' 3-max Seat #3 is the button
+Seat 2: elecgod (770 in chips) 
+Seat 3: Kevin12345Mc (730 in chips) 
+Kevin12345Mc: posts small blind 30
+elecgod: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 9s]
+Kevin12345Mc: calls 30
+elecgod: checks 
+*** FLOP *** [7s 5h 4s]
+elecgod: bets 60
+Kevin12345Mc: calls 60
+*** TURN *** [7s 5h 4s] [5c]
+elecgod: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [7s 5h 4s 5c] [3d]
+elecgod: checks 
+Kevin12345Mc: bets 240
+elecgod: calls 240
+*** SHOW DOWN ***
+Kevin12345Mc: shows [2s 9s] (a pair of Fives)
+elecgod: shows [8h 3s] (two pair, Fives and Threes)
+elecgod collected 720 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [7s 5h 4s 5c 3d]
+Seat 2: elecgod (big blind) showed [8h 3s] and won (720) with two pair, Fives and Threes
+Seat 3: Kevin12345Mc (button) (small blind) showed [2s 9s] and lost with a pair of Fives
+
+
+
+PokerStars Hand #255002139707: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/23 14:49:56 WET [2025/02/23 9:49:56 ET]
+Table '3862145062 1' 3-max Seat #2 is the button
+Seat 2: elecgod (1130 in chips) 
+Seat 3: Kevin12345Mc (370 in chips) 
+elecgod: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 9c]
+elecgod: calls 30
+Kevin12345Mc: checks 
+*** FLOP *** [2h Qc 9h]
+Kevin12345Mc: checks 
+elecgod: checks 
+*** TURN *** [2h Qc 9h] [9s]
+Kevin12345Mc: checks 
+elecgod: checks 
+*** RIVER *** [2h Qc 9h 9s] [8d]
+Kevin12345Mc: bets 60
+elecgod: folds 
+Uncalled bet (60) returned to Kevin12345Mc
+Kevin12345Mc collected 120 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [2h Qc 9h 9s 8d]
+Seat 2: elecgod (button) (small blind) folded on the River
+Seat 3: Kevin12345Mc (big blind) collected (120)
+
+
+
+PokerStars Hand #255002144172: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/23 14:50:17 WET [2025/02/23 9:50:17 ET]
+Table '3862145062 1' 3-max Seat #3 is the button
+Seat 2: elecgod (1070 in chips) 
+Seat 3: Kevin12345Mc (430 in chips) 
+Kevin12345Mc: posts small blind 30
+elecgod: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Qs]
+Kevin12345Mc: raises 60 to 120
+elecgod: folds 
+Uncalled bet (60) returned to Kevin12345Mc
+Kevin12345Mc collected 120 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: elecgod (big blind) folded before Flop
+Seat 3: Kevin12345Mc (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #255002145850: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/23 14:50:25 WET [2025/02/23 9:50:25 ET]
+Table '3862145062 1' 3-max Seat #2 is the button
+Seat 2: elecgod (1010 in chips) 
+Seat 3: Kevin12345Mc (490 in chips) 
+elecgod: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Tc]
+elecgod: calls 30
+Kevin12345Mc: raises 60 to 120
+elecgod: calls 60
+*** FLOP *** [9d Jc Kh]
+Kevin12345Mc: bets 60
+elecgod: raises 60 to 120
+Kevin12345Mc: calls 60
+*** TURN *** [9d Jc Kh] [7c]
+Kevin12345Mc: checks 
+elecgod: bets 770 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (770) returned to elecgod
+elecgod collected 480 from pot
+elecgod: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Board [9d Jc Kh 7c]
+Seat 2: elecgod (button) (small blind) collected (480)
+Seat 3: Kevin12345Mc (big blind) folded on the Turn
+
+
+
+PokerStars Hand #255002150940: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/23 14:50:48 WET [2025/02/23 9:50:48 ET]
+Table '3862145062 1' 3-max Seat #3 is the button
+Seat 2: elecgod (1250 in chips) 
+Seat 3: Kevin12345Mc (250 in chips) 
+Kevin12345Mc: posts small blind 30
+elecgod: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Js]
+Kevin12345Mc: calls 30
+elecgod: checks 
+*** FLOP *** [3d Ts Kh]
+elecgod: checks 
+Kevin12345Mc: bets 190 and is all-in
+elecgod: folds 
+Uncalled bet (190) returned to Kevin12345Mc
+Kevin12345Mc collected 120 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [3d Ts Kh]
+Seat 2: elecgod (big blind) folded on the Flop
+Seat 3: Kevin12345Mc (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #255002154251: Tournament #3862145062, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/23 14:51:04 WET [2025/02/23 9:51:04 ET]
+Table '3862145062 1' 3-max Seat #2 is the button
+Seat 2: elecgod (1190 in chips) 
+Seat 3: Kevin12345Mc (310 in chips) 
+elecgod: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 4s]
+elecgod: raises 60 to 120
+Kevin12345Mc: calls 60
+*** FLOP *** [9s Jc Qc]
+Kevin12345Mc: checks 
+elecgod: checks 
+*** TURN *** [9s Jc Qc] [Ts]
+Kevin12345Mc: bets 190 and is all-in
+elecgod: calls 190
+*** RIVER *** [9s Jc Qc Ts] [7d]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [2s 4s] (high card Queen)
+elecgod: shows [Kh 6d] (a straight, Nine to King)
+elecgod collected 620 from pot
+Kevin12345Mc finished the tournament in 2nd place
+elecgod wins the tournament - congratulations!
+elecgod wins a '$1.00 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Board [9s Jc Qc Ts 7d]
+Seat 2: elecgod (button) (small blind) showed [Kh 6d] and won (620) with a straight, Nine to King
+Seat 3: Kevin12345Mc (big blind) showed [2s 4s] and lost with high card Queen
+
+
+

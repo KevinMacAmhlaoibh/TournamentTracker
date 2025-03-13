@@ -1,0 +1,291 @@
+﻿PokerStars Hand #255101941494: Tournament #3864491085, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/02 10:46:20 WET [2025/03/02 5:46:20 ET]
+Table '3864491085 1' 3-max Seat #1 is the button
+Seat 1: dkivalli (500 in chips) 
+Seat 2: MYSTERY909 (500 in chips) 
+Seat 3: Kevin12345Mc (500 in chips) 
+MYSTERY909: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Qh]
+dkivalli: raises 20 to 40
+MYSTERY909: folds 
+Kevin12345Mc: calls 20
+*** FLOP *** [9s Kc 7h]
+Kevin12345Mc: checks 
+dkivalli: bets 45
+Kevin12345Mc: folds 
+Uncalled bet (45) returned to dkivalli
+dkivalli collected 90 from pot
+dkivalli: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [9s Kc 7h]
+Seat 1: dkivalli (button) collected (90)
+Seat 2: MYSTERY909 (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255101944612: Tournament #3864491085, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/02 10:46:45 WET [2025/03/02 5:46:45 ET]
+Table '3864491085 1' 3-max Seat #2 is the button
+Seat 1: dkivalli (550 in chips) 
+Seat 2: MYSTERY909 (490 in chips) 
+Seat 3: Kevin12345Mc (460 in chips) 
+Kevin12345Mc: posts small blind 10
+dkivalli: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 3s]
+MYSTERY909: folds 
+Kevin12345Mc: calls 10
+dkivalli: checks 
+*** FLOP *** [5d 3h Ac]
+Kevin12345Mc: bets 20
+dkivalli: raises 510 to 530 and is all-in
+Kevin12345Mc: calls 420 and is all-in
+Uncalled bet (90) returned to dkivalli
+*** TURN *** [5d 3h Ac] [2c]
+*** RIVER *** [5d 3h Ac 2c] [3c]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [5s 3s] (a full house, Threes full of Fives)
+dkivalli: shows [2s 4d] (a straight, Ace to Five)
+Kevin12345Mc collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [5d 3h Ac 2c 3c]
+Seat 1: dkivalli (big blind) showed [2s 4d] and lost with a straight, Ace to Five
+Seat 2: MYSTERY909 (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) showed [5s 3s] and won (920) with a full house, Threes full of Fives
+
+
+
+PokerStars Hand #255101948073: Tournament #3864491085, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/02 10:47:14 WET [2025/03/02 5:47:14 ET]
+Table '3864491085 1' 3-max Seat #3 is the button
+Seat 1: dkivalli (90 in chips) 
+Seat 2: MYSTERY909 (490 in chips) 
+Seat 3: Kevin12345Mc (920 in chips) 
+dkivalli: posts small blind 10
+MYSTERY909: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 8d]
+Kevin12345Mc: raises 20 to 40
+dkivalli: raises 50 to 90 and is all-in
+MYSTERY909: folds 
+Kevin12345Mc: calls 50
+*** FLOP *** [Tc Th Jd]
+*** TURN *** [Tc Th Jd] [6h]
+*** RIVER *** [Tc Th Jd 6h] [2h]
+*** SHOW DOWN ***
+dkivalli: shows [8h 4c] (a pair of Tens)
+Kevin12345Mc: shows [As 8d] (a pair of Tens - Ace kicker)
+Kevin12345Mc collected 200 from pot
+dkivalli finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Tc Th Jd 6h 2h]
+Seat 1: dkivalli (small blind) showed [8h 4c] and lost with a pair of Tens
+Seat 2: MYSTERY909 (big blind) folded before Flop
+Seat 3: Kevin12345Mc (button) showed [As 8d] and won (200) with a pair of Tens
+
+
+
+PokerStars Hand #255101950908: Tournament #3864491085, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/02 10:47:37 WET [2025/03/02 5:47:37 ET]
+Table '3864491085 1' 3-max Seat #2 is the button
+Seat 2: MYSTERY909 (470 in chips) 
+Seat 3: Kevin12345Mc (1030 in chips) 
+MYSTERY909: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 2s]
+MYSTERY909: raises 20 to 40
+Kevin12345Mc: calls 20
+*** FLOP *** [6h 6c 3d]
+Kevin12345Mc: checks 
+MYSTERY909: bets 60
+Kevin12345Mc: folds 
+Uncalled bet (60) returned to MYSTERY909
+MYSTERY909 collected 80 from pot
+MYSTERY909: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [6h 6c 3d]
+Seat 2: MYSTERY909 (button) (small blind) collected (80)
+Seat 3: Kevin12345Mc (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255101952825: Tournament #3864491085, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/02 10:47:51 WET [2025/03/02 5:47:51 ET]
+Table '3864491085 1' 3-max Seat #3 is the button
+Seat 2: MYSTERY909 (510 in chips) 
+Seat 3: Kevin12345Mc (990 in chips) 
+Kevin12345Mc: posts small blind 10
+MYSTERY909: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 7d]
+Kevin12345Mc: raises 20 to 40
+MYSTERY909: folds 
+Uncalled bet (20) returned to Kevin12345Mc
+Kevin12345Mc collected 40 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: MYSTERY909 (big blind) folded before Flop
+Seat 3: Kevin12345Mc (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #255101953757: Tournament #3864491085, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/02 10:47:59 WET [2025/03/02 5:47:59 ET]
+Table '3864491085 1' 3-max Seat #2 is the button
+Seat 2: MYSTERY909 (490 in chips) 
+Seat 3: Kevin12345Mc (1010 in chips) 
+MYSTERY909: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h Th]
+MYSTERY909: calls 10
+Kevin12345Mc: checks 
+*** FLOP *** [Qd 4c 2c]
+Kevin12345Mc: checks 
+MYSTERY909: checks 
+*** TURN *** [Qd 4c 2c] [7d]
+Kevin12345Mc: checks 
+MYSTERY909: checks 
+*** RIVER *** [Qd 4c 2c 7d] [8h]
+Kevin12345Mc: checks 
+MYSTERY909: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [6h Th] (high card Queen)
+MYSTERY909: mucks hand 
+Kevin12345Mc collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Qd 4c 2c 7d 8h]
+Seat 2: MYSTERY909 (button) (small blind) mucked [Td 3d]
+Seat 3: Kevin12345Mc (big blind) showed [6h Th] and won (40) with high card Queen
+
+
+
+PokerStars Hand #255101956110: Tournament #3864491085, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/03/02 10:48:18 WET [2025/03/02 5:48:18 ET]
+Table '3864491085 1' 3-max Seat #3 is the button
+Seat 2: MYSTERY909 (470 in chips) 
+Seat 3: Kevin12345Mc (1030 in chips) 
+Kevin12345Mc: posts small blind 10
+MYSTERY909: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 7h]
+Kevin12345Mc: raises 20 to 40
+MYSTERY909: folds 
+Uncalled bet (20) returned to Kevin12345Mc
+Kevin12345Mc collected 40 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: MYSTERY909 (big blind) folded before Flop
+Seat 3: Kevin12345Mc (button) (small blind) collected (40)
+
+
+
+PokerStars Hand #255101957766: Tournament #3864491085, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/03/02 10:48:31 WET [2025/03/02 5:48:31 ET]
+Table '3864491085 1' 3-max Seat #2 is the button
+Seat 2: MYSTERY909 (450 in chips) 
+Seat 3: Kevin12345Mc (1050 in chips) 
+MYSTERY909: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Js]
+MYSTERY909: raises 420 to 450 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (420) returned to MYSTERY909
+MYSTERY909 collected 60 from pot
+MYSTERY909: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: MYSTERY909 (button) (small blind) collected (60)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #255101958778: Tournament #3864491085, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/03/02 10:48:40 WET [2025/03/02 5:48:40 ET]
+Table '3864491085 1' 3-max Seat #3 is the button
+Seat 2: MYSTERY909 (480 in chips) 
+Seat 3: Kevin12345Mc (1020 in chips) 
+Kevin12345Mc: posts small blind 15
+MYSTERY909: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 9d]
+Kevin12345Mc: raises 30 to 60
+MYSTERY909: calls 30
+*** FLOP *** [6d 4d 2d]
+MYSTERY909: checks 
+Kevin12345Mc: bets 30
+MYSTERY909: folds 
+Uncalled bet (30) returned to Kevin12345Mc
+Kevin12345Mc collected 120 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [6d 4d 2d]
+Seat 2: MYSTERY909 (big blind) folded on the Flop
+Seat 3: Kevin12345Mc (button) (small blind) collected (120)
+
+
+
+PokerStars Hand #255101960299: Tournament #3864491085, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/03/02 10:48:52 WET [2025/03/02 5:48:52 ET]
+Table '3864491085 1' 3-max Seat #2 is the button
+Seat 2: MYSTERY909 (420 in chips) 
+Seat 3: Kevin12345Mc (1080 in chips) 
+MYSTERY909: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Ks]
+MYSTERY909: raises 30 to 60
+Kevin12345Mc: calls 30
+*** FLOP *** [Jc 6d Kh]
+Kevin12345Mc: checks 
+MYSTERY909: bets 90
+Kevin12345Mc: calls 90
+*** TURN *** [Jc 6d Kh] [Qh]
+Kevin12345Mc: checks 
+MYSTERY909: checks 
+*** RIVER *** [Jc 6d Kh Qh] [Qd]
+Kevin12345Mc: bets 30
+MYSTERY909: folds 
+Uncalled bet (30) returned to Kevin12345Mc
+Kevin12345Mc collected 300 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Board [Jc 6d Kh Qh Qd]
+Seat 2: MYSTERY909 (button) (small blind) folded on the River
+Seat 3: Kevin12345Mc (big blind) collected (300)
+
+
+
+PokerStars Hand #255101963215: Tournament #3864491085, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/03/02 10:49:15 WET [2025/03/02 5:49:15 ET]
+Table '3864491085 1' 3-max Seat #3 is the button
+Seat 2: MYSTERY909 (270 in chips) 
+Seat 3: Kevin12345Mc (1230 in chips) 
+Kevin12345Mc: posts small blind 15
+MYSTERY909: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Jc]
+Kevin12345Mc: raises 30 to 60
+MYSTERY909: raises 210 to 270 and is all-in
+Kevin12345Mc: calls 210
+*** FLOP *** [9d Qh 9h]
+*** TURN *** [9d Qh 9h] [2c]
+*** RIVER *** [9d Qh 9h 2c] [Qc]
+*** SHOW DOWN ***
+MYSTERY909: shows [5s 5h] (two pair, Queens and Nines)
+Kevin12345Mc: shows [As Jc] (two pair, Queens and Nines - Ace kicker)
+Kevin12345Mc collected 540 from pot
+MYSTERY909 finished the tournament in 2nd place
+Kevin12345Mc wins the tournament - congratulations!
+Kevin12345Mc wins a '$1.50 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 540 | Rake 0 
+Board [9d Qh 9h 2c Qc]
+Seat 2: MYSTERY909 (big blind) showed [5s 5h] and lost with two pair, Queens and Nines
+Seat 3: Kevin12345Mc (button) (small blind) showed [As Jc] and won (540) with two pair, Queens and Nines
+
+
+

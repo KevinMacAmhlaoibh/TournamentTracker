@@ -1,0 +1,5803 @@
+﻿PokerStars Hand #255123115941: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (125/250) - 2025/03/03 18:05:00 WET [2025/03/03 13:05:00 ET]
+Table '3860731907 217' 8-max Seat #1 is the button
+Seat 1: SerhiyRay (25000 in chips) 
+Seat 2: Ronizica (25000 in chips) 
+Seat 3: Aerosneto (25000 in chips) 
+Seat 4: Nevulax (25000 in chips) 
+Seat 5: Kevin12345Mc (25000 in chips) 
+Seat 6: doubs6183 (25000 in chips) 
+Seat 7: Commetuv3ux (25000 in chips) 
+Seat 8: Greta Sarah (25000 in chips) 
+SerhiyRay: posts the ante 30
+Ronizica: posts the ante 30
+Aerosneto: posts the ante 30
+Nevulax: posts the ante 30
+Kevin12345Mc: posts the ante 30
+doubs6183: posts the ante 30
+Commetuv3ux: posts the ante 30
+Greta Sarah: posts the ante 30
+Ronizica: posts small blind 125
+Aerosneto: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 8s]
+Nevulax: folds 
+Kevin12345Mc: folds 
+doubs6183: raises 300 to 550
+Commetuv3ux: folds 
+Greta Sarah: folds 
+SerhiyRay: folds 
+Ronizica: calls 425
+Aerosneto: folds 
+*** FLOP *** [7s Js 5c]
+Ronizica: checks 
+doubs6183: bets 795
+Ronizica: calls 795
+*** TURN *** [7s Js 5c] [6h]
+Ronizica: checks 
+doubs6183: bets 1590
+Ronizica: calls 1590
+*** RIVER *** [7s Js 5c 6h] [Kc]
+Ronizica: checks 
+doubs6183: checks 
+*** SHOW DOWN ***
+Ronizica: shows [Ks Ts] (a pair of Kings)
+doubs6183: mucks hand 
+Ronizica collected 6360 from pot
+*** SUMMARY ***
+Total pot 6360 | Rake 0 
+Board [7s Js 5c 6h Kc]
+Seat 1: SerhiyRay (button) folded before Flop (didn't bet)
+Seat 2: Ronizica (small blind) showed [Ks Ts] and won (6360) with a pair of Kings
+Seat 3: Aerosneto (big blind) folded before Flop
+Seat 4: Nevulax folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: doubs6183 mucked [Jh Qc]
+Seat 7: Commetuv3ux folded before Flop (didn't bet)
+Seat 8: Greta Sarah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123133688: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (125/250) - 2025/03/03 18:06:08 WET [2025/03/03 13:06:08 ET]
+Table '3860731907 217' 8-max Seat #2 is the button
+Seat 1: SerhiyRay (24970 in chips) 
+Seat 2: Ronizica (28395 in chips) 
+Seat 3: Aerosneto (24720 in chips) 
+Seat 4: Nevulax (24970 in chips) 
+Seat 5: Kevin12345Mc (24970 in chips) 
+Seat 6: doubs6183 (22035 in chips) 
+Seat 7: Commetuv3ux (24970 in chips) 
+Seat 8: Greta Sarah (24970 in chips) 
+SerhiyRay: posts the ante 30
+Ronizica: posts the ante 30
+Aerosneto: posts the ante 30
+Nevulax: posts the ante 30
+Kevin12345Mc: posts the ante 30
+doubs6183: posts the ante 30
+Commetuv3ux: posts the ante 30
+Greta Sarah: posts the ante 30
+Aerosneto: posts small blind 125
+Nevulax: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 7s]
+Kevin12345Mc: folds 
+doubs6183: folds 
+Commetuv3ux: raises 250 to 500
+Greta Sarah: folds 
+SerhiyRay: folds 
+Ronizica: raises 1125 to 1625
+Aerosneto: folds 
+Nevulax: folds 
+Commetuv3ux: folds 
+Uncalled bet (1125) returned to Ronizica
+Ronizica collected 1615 from pot
+Ronizica: doesn't show hand 
+*** SUMMARY ***
+Total pot 1615 | Rake 0 
+Seat 1: SerhiyRay folded before Flop (didn't bet)
+Seat 2: Ronizica (button) collected (1615)
+Seat 3: Aerosneto (small blind) folded before Flop
+Seat 4: Nevulax (big blind) folded before Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: doubs6183 folded before Flop (didn't bet)
+Seat 7: Commetuv3ux folded before Flop
+Seat 8: Greta Sarah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123145628: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (125/250) - 2025/03/03 18:06:54 WET [2025/03/03 13:06:54 ET]
+Table '3860731907 217' 8-max Seat #3 is the button
+Seat 1: SerhiyRay (24940 in chips) 
+Seat 2: Ronizica (29480 in chips) 
+Seat 3: Aerosneto (24565 in chips) 
+Seat 4: Nevulax (24690 in chips) 
+Seat 5: Kevin12345Mc (24940 in chips) 
+Seat 6: doubs6183 (22005 in chips) 
+Seat 7: Commetuv3ux (24440 in chips) 
+Seat 8: Greta Sarah (24940 in chips) 
+SerhiyRay: posts the ante 30
+Ronizica: posts the ante 30
+Aerosneto: posts the ante 30
+Nevulax: posts the ante 30
+Kevin12345Mc: posts the ante 30
+doubs6183: posts the ante 30
+Commetuv3ux: posts the ante 30
+Greta Sarah: posts the ante 30
+Nevulax: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 3h]
+doubs6183: folds 
+Commetuv3ux: folds 
+Greta Sarah: folds 
+SerhiyRay: folds 
+Ronizica: raises 250 to 500
+Aerosneto: calls 500
+Nevulax: folds 
+Kevin12345Mc: calls 250
+*** FLOP *** [Ts 6h As]
+Kevin12345Mc: checks 
+Ronizica: checks 
+Aerosneto: bets 597
+Kevin12345Mc: folds 
+Ronizica: calls 597
+*** TURN *** [Ts 6h As] [Jd]
+Ronizica: checks 
+Aerosneto: checks 
+*** RIVER *** [Ts 6h As Jd] [Js]
+Ronizica: checks 
+Aerosneto: checks 
+*** SHOW DOWN ***
+Ronizica: shows [Ac 8d] (two pair, Aces and Jacks)
+Aerosneto: mucks hand 
+Ronizica collected 3059 from pot
+*** SUMMARY ***
+Total pot 3059 | Rake 0 
+Board [Ts 6h As Jd Js]
+Seat 1: SerhiyRay folded before Flop (didn't bet)
+Seat 2: Ronizica showed [Ac 8d] and won (3059) with two pair, Aces and Jacks
+Seat 3: Aerosneto (button) mucked [Th 7h]
+Seat 4: Nevulax (small blind) folded before Flop
+Seat 5: Kevin12345Mc (big blind) folded on the Flop
+Seat 6: doubs6183 folded before Flop (didn't bet)
+Seat 7: Commetuv3ux folded before Flop (didn't bet)
+Seat 8: Greta Sarah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123160352: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (125/250) - 2025/03/03 18:07:50 WET [2025/03/03 13:07:50 ET]
+Table '3860731907 217' 8-max Seat #4 is the button
+Seat 1: SerhiyRay (24910 in chips) 
+Seat 2: Ronizica (31412 in chips) 
+Seat 3: Aerosneto (23438 in chips) 
+Seat 4: Nevulax (24535 in chips) 
+Seat 5: Kevin12345Mc (24410 in chips) 
+Seat 6: doubs6183 (21975 in chips) 
+Seat 7: Commetuv3ux (24410 in chips) 
+Seat 8: Greta Sarah (24910 in chips) 
+SerhiyRay: posts the ante 30
+Ronizica: posts the ante 30
+Aerosneto: posts the ante 30
+Nevulax: posts the ante 30
+Kevin12345Mc: posts the ante 30
+doubs6183: posts the ante 30
+Commetuv3ux: posts the ante 30
+Greta Sarah: posts the ante 30
+Kevin12345Mc: posts small blind 125
+doubs6183: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac Th]
+Commetuv3ux: folds 
+Greta Sarah: folds 
+SerhiyRay: raises 250 to 500
+Ronizica: folds 
+Aerosneto: folds 
+Nevulax: folds 
+Kevin12345Mc: calls 375
+doubs6183: calls 250
+*** FLOP *** [Jd 3c 5h]
+Kevin12345Mc: checks 
+doubs6183: checks 
+SerhiyRay: bets 574
+Kevin12345Mc: folds 
+doubs6183: calls 574
+*** TURN *** [Jd 3c 5h] [3h]
+doubs6183: checks 
+SerhiyRay: checks 
+*** RIVER *** [Jd 3c 5h 3h] [As]
+doubs6183: checks 
+SerhiyRay: bets 953
+doubs6183: calls 953
+*** SHOW DOWN ***
+SerhiyRay: shows [Tc Ad] (two pair, Aces and Threes)
+doubs6183: mucks hand 
+SerhiyRay collected 4794 from pot
+*** SUMMARY ***
+Total pot 4794 | Rake 0 
+Board [Jd 3c 5h 3h As]
+Seat 1: SerhiyRay showed [Tc Ad] and won (4794) with two pair, Aces and Threes
+Seat 2: Ronizica folded before Flop (didn't bet)
+Seat 3: Aerosneto folded before Flop (didn't bet)
+Seat 4: Nevulax (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) folded on the Flop
+Seat 6: doubs6183 (big blind) mucked [8c Js]
+Seat 7: Commetuv3ux folded before Flop (didn't bet)
+Seat 8: Greta Sarah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123183166: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (125/250) - 2025/03/03 18:09:19 WET [2025/03/03 13:09:19 ET]
+Table '3860731907 217' 8-max Seat #5 is the button
+Seat 1: SerhiyRay (27647 in chips) 
+Seat 2: Ronizica (31382 in chips) 
+Seat 3: Aerosneto (23408 in chips) 
+Seat 4: Nevulax (24505 in chips) 
+Seat 5: Kevin12345Mc (23880 in chips) 
+Seat 6: doubs6183 (19918 in chips) 
+Seat 7: Commetuv3ux (24380 in chips) 
+Seat 8: Greta Sarah (24880 in chips) 
+SerhiyRay: posts the ante 30
+Ronizica: posts the ante 30
+Aerosneto: posts the ante 30
+Nevulax: posts the ante 30
+Kevin12345Mc: posts the ante 30
+doubs6183: posts the ante 30
+Commetuv3ux: posts the ante 30
+Greta Sarah: posts the ante 30
+doubs6183: posts small blind 125
+Commetuv3ux: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Qc]
+Greta Sarah: calls 250
+SerhiyRay: folds 
+Ronizica: folds 
+Aerosneto: folds 
+Nevulax: folds 
+Kevin12345Mc: calls 250
+doubs6183: calls 125
+Commetuv3ux: checks 
+*** FLOP *** [9d Jc 7s]
+doubs6183: checks 
+Commetuv3ux: checks 
+Greta Sarah: checks 
+Kevin12345Mc: checks 
+*** TURN *** [9d Jc 7s] [9s]
+doubs6183: checks 
+Commetuv3ux: checks 
+Greta Sarah: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [9d Jc 7s 9s] [Jh]
+doubs6183: checks 
+Commetuv3ux: checks 
+Greta Sarah: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+doubs6183: shows [7h 4h] (two pair, Jacks and Nines)
+Commetuv3ux: shows [3c 8c] (two pair, Jacks and Nines - Eight kicker)
+Greta Sarah: shows [2s As] (two pair, Jacks and Nines - Ace kicker)
+Kevin12345Mc: mucks hand 
+Greta Sarah collected 1240 from pot
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Board [9d Jc 7s 9s Jh]
+Seat 1: SerhiyRay folded before Flop (didn't bet)
+Seat 2: Ronizica folded before Flop (didn't bet)
+Seat 3: Aerosneto folded before Flop (didn't bet)
+Seat 4: Nevulax folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (button) mucked [Tc Qc]
+Seat 6: doubs6183 (small blind) showed [7h 4h] and lost with two pair, Jacks and Nines
+Seat 7: Commetuv3ux (big blind) showed [3c 8c] and lost with two pair, Jacks and Nines
+Seat 8: Greta Sarah showed [2s As] and won (1240) with two pair, Jacks and Nines
+
+
+
+PokerStars Hand #255123205193: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (125/250) - 2025/03/03 18:10:42 WET [2025/03/03 13:10:42 ET]
+Table '3860731907 217' 8-max Seat #6 is the button
+Seat 1: SerhiyRay (27617 in chips) 
+Seat 2: Ronizica (31352 in chips) 
+Seat 3: Aerosneto (23378 in chips) 
+Seat 4: Nevulax (24475 in chips) 
+Seat 5: Kevin12345Mc (23600 in chips) 
+Seat 6: doubs6183 (19638 in chips) 
+Seat 7: Commetuv3ux (24100 in chips) 
+Seat 8: Greta Sarah (25840 in chips) 
+SerhiyRay: posts the ante 30
+Ronizica: posts the ante 30
+Aerosneto: posts the ante 30
+Nevulax: posts the ante 30
+Kevin12345Mc: posts the ante 30
+doubs6183: posts the ante 30
+Commetuv3ux: posts the ante 30
+Greta Sarah: posts the ante 30
+Commetuv3ux: posts small blind 125
+Greta Sarah: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 5h]
+SerhiyRay: folds 
+Ronizica: raises 250 to 500
+Aerosneto: folds 
+Nevulax: folds 
+Kevin12345Mc: folds 
+doubs6183: calls 500
+Commetuv3ux: folds 
+Greta Sarah: folds 
+*** FLOP *** [7h Ah Ad]
+Ronizica: checks 
+doubs6183: bets 808
+Ronizica: calls 808
+*** TURN *** [7h Ah Ad] [4d]
+Ronizica: checks 
+doubs6183: bets 1616
+Ronizica: calls 1616
+*** RIVER *** [7h Ah Ad 4d] [Qc]
+Ronizica: checks 
+doubs6183: checks 
+*** SHOW DOWN ***
+Ronizica: shows [Jd Jc] (two pair, Aces and Jacks)
+doubs6183: mucks hand 
+Ronizica collected 6463 from pot
+*** SUMMARY ***
+Total pot 6463 | Rake 0 
+Board [7h Ah Ad 4d Qc]
+Seat 1: SerhiyRay folded before Flop (didn't bet)
+Seat 2: Ronizica showed [Jd Jc] and won (6463) with two pair, Aces and Jacks
+Seat 3: Aerosneto folded before Flop (didn't bet)
+Seat 4: Nevulax folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: doubs6183 (button) mucked [8h 6h]
+Seat 7: Commetuv3ux (small blind) folded before Flop
+Seat 8: Greta Sarah (big blind) folded before Flop
+
+
+
+PokerStars Hand #255123221784: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (125/250) - 2025/03/03 18:11:46 WET [2025/03/03 13:11:46 ET]
+Table '3860731907 217' 8-max Seat #7 is the button
+Seat 1: SerhiyRay (27587 in chips) 
+Seat 2: Ronizica (34861 in chips) 
+Seat 3: Aerosneto (23348 in chips) 
+Seat 4: Nevulax (24445 in chips) 
+Seat 5: Kevin12345Mc (23570 in chips) 
+Seat 6: doubs6183 (16684 in chips) 
+Seat 7: Commetuv3ux (23945 in chips) 
+Seat 8: Greta Sarah (25560 in chips) 
+SerhiyRay: posts the ante 30
+Ronizica: posts the ante 30
+Aerosneto: posts the ante 30
+Nevulax: posts the ante 30
+Kevin12345Mc: posts the ante 30
+doubs6183: posts the ante 30
+Commetuv3ux: posts the ante 30
+Greta Sarah: posts the ante 30
+Greta Sarah: posts small blind 125
+SerhiyRay: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Qs]
+Ronizica: folds 
+Aerosneto: folds 
+Nevulax: raises 250 to 500
+Kevin12345Mc: folds 
+doubs6183: calls 500
+Commetuv3ux: folds 
+Greta Sarah: folds 
+SerhiyRay: calls 250
+*** FLOP *** [2s 6c Kc]
+SerhiyRay: checks 
+Nevulax: checks 
+doubs6183: checks 
+*** TURN *** [2s 6c Kc] [9d]
+SerhiyRay: bets 2365
+Nevulax: calls 2365
+doubs6183: folds 
+*** RIVER *** [2s 6c Kc 9d] [Td]
+SerhiyRay: checks 
+Nevulax: bets 2638
+SerhiyRay: folds 
+Uncalled bet (2638) returned to Nevulax
+Nevulax collected 6595 from pot
+Nevulax: doesn't show hand 
+*** SUMMARY ***
+Total pot 6595 | Rake 0 
+Board [2s 6c Kc 9d Td]
+Seat 1: SerhiyRay (big blind) folded on the River
+Seat 2: Ronizica folded before Flop (didn't bet)
+Seat 3: Aerosneto folded before Flop (didn't bet)
+Seat 4: Nevulax collected (6595)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: doubs6183 folded on the Turn
+Seat 7: Commetuv3ux (button) folded before Flop (didn't bet)
+Seat 8: Greta Sarah (small blind) folded before Flop
+
+
+
+PokerStars Hand #255123246328: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (150/300) - 2025/03/03 18:13:18 WET [2025/03/03 13:13:18 ET]
+Table '3860731907 217' 8-max Seat #8 is the button
+Seat 1: SerhiyRay (24692 in chips) 
+Seat 2: Ronizica (34831 in chips) 
+Seat 3: Aerosneto (23318 in chips) 
+Seat 4: Nevulax (28145 in chips) 
+Seat 5: Kevin12345Mc (23540 in chips) 
+Seat 6: doubs6183 (16154 in chips) 
+Seat 7: Commetuv3ux (23915 in chips) 
+Seat 8: Greta Sarah (25405 in chips) 
+SerhiyRay: posts the ante 35
+Ronizica: posts the ante 35
+Aerosneto: posts the ante 35
+Nevulax: posts the ante 35
+Kevin12345Mc: posts the ante 35
+doubs6183: posts the ante 35
+Commetuv3ux: posts the ante 35
+Greta Sarah: posts the ante 35
+SerhiyRay: posts small blind 150
+Ronizica: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 8c]
+Aerosneto: folds 
+Nevulax: folds 
+Kevin12345Mc: folds 
+doubs6183: folds 
+Commetuv3ux: raises 300 to 600
+Greta Sarah: folds 
+SerhiyRay: folds 
+Ronizica: folds 
+Uncalled bet (300) returned to Commetuv3ux
+Commetuv3ux collected 1030 from pot
+Commetuv3ux: doesn't show hand 
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Seat 1: SerhiyRay (small blind) folded before Flop
+Seat 2: Ronizica (big blind) folded before Flop
+Seat 3: Aerosneto folded before Flop (didn't bet)
+Seat 4: Nevulax folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: doubs6183 folded before Flop (didn't bet)
+Seat 7: Commetuv3ux collected (1030)
+Seat 8: Greta Sarah (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123251788: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (150/300) - 2025/03/03 18:13:39 WET [2025/03/03 13:13:39 ET]
+Table '3860731907 217' 8-max Seat #1 is the button
+Seat 1: SerhiyRay (24507 in chips) 
+Seat 2: Ronizica (34496 in chips) 
+Seat 3: Aerosneto (23283 in chips) 
+Seat 4: Nevulax (28110 in chips) 
+Seat 5: Kevin12345Mc (23505 in chips) 
+Seat 6: doubs6183 (16119 in chips) 
+Seat 7: Commetuv3ux (24610 in chips) 
+Seat 8: Greta Sarah (25370 in chips) 
+SerhiyRay: posts the ante 35
+Ronizica: posts the ante 35
+Aerosneto: posts the ante 35
+Nevulax: posts the ante 35
+Kevin12345Mc: posts the ante 35
+doubs6183: posts the ante 35
+Commetuv3ux: posts the ante 35
+Greta Sarah: posts the ante 35
+Ronizica: posts small blind 150
+Aerosneto: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Jh]
+Nevulax: folds 
+Kevin12345Mc: folds 
+doubs6183: folds 
+Commetuv3ux: folds 
+Greta Sarah: folds 
+SerhiyRay: folds 
+Ronizica: folds 
+Uncalled bet (150) returned to Aerosneto
+Aerosneto collected 580 from pot
+Aerosneto: doesn't show hand 
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Seat 1: SerhiyRay (button) folded before Flop (didn't bet)
+Seat 2: Ronizica (small blind) folded before Flop
+Seat 3: Aerosneto (big blind) collected (580)
+Seat 4: Nevulax folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: doubs6183 folded before Flop (didn't bet)
+Seat 7: Commetuv3ux folded before Flop (didn't bet)
+Seat 8: Greta Sarah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123256680: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (150/300) - 2025/03/03 18:13:58 WET [2025/03/03 13:13:58 ET]
+Table '3860731907 217' 8-max Seat #2 is the button
+Seat 1: SerhiyRay (24472 in chips) 
+Seat 2: Ronizica (34311 in chips) 
+Seat 3: Aerosneto (23678 in chips) 
+Seat 4: Nevulax (28075 in chips) 
+Seat 5: Kevin12345Mc (23470 in chips) 
+Seat 6: doubs6183 (16084 in chips) 
+Seat 7: Commetuv3ux (24575 in chips) 
+Seat 8: Greta Sarah (25335 in chips) 
+SerhiyRay: posts the ante 35
+Ronizica: posts the ante 35
+Aerosneto: posts the ante 35
+Nevulax: posts the ante 35
+Kevin12345Mc: posts the ante 35
+doubs6183: posts the ante 35
+Commetuv3ux: posts the ante 35
+Greta Sarah: posts the ante 35
+Aerosneto: posts small blind 150
+Nevulax: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 9c]
+Kevin12345Mc: folds 
+doubs6183: raises 360 to 660
+Commetuv3ux: folds 
+Greta Sarah: folds 
+SerhiyRay: folds 
+Ronizica: folds 
+Aerosneto: calls 510
+Nevulax: raises 2340 to 3000
+doubs6183: calls 2340
+Aerosneto: folds 
+*** FLOP *** [Ts Qc 3h]
+Nevulax: bets 1735
+doubs6183: raises 5205 to 6940
+Nevulax: raises 18100 to 25040 and is all-in
+doubs6183: calls 6109 and is all-in
+Uncalled bet (11991) returned to Nevulax
+*** TURN *** [Ts Qc 3h] [5d]
+*** RIVER *** [Ts Qc 3h 5d] [7h]
+*** SHOW DOWN ***
+Nevulax: shows [Ks Kh] (a pair of Kings)
+doubs6183: shows [Kd Qh] (a pair of Queens)
+Nevulax collected 33038 from pot
+doubs6183 finished the tournament
+*** SUMMARY ***
+Total pot 33038 | Rake 0 
+Board [Ts Qc 3h 5d 7h]
+Seat 1: SerhiyRay folded before Flop (didn't bet)
+Seat 2: Ronizica (button) folded before Flop (didn't bet)
+Seat 3: Aerosneto (small blind) folded before Flop
+Seat 4: Nevulax (big blind) showed [Ks Kh] and won (33038) with a pair of Kings
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: doubs6183 showed [Kd Qh] and lost with a pair of Queens
+Seat 7: Commetuv3ux folded before Flop (didn't bet)
+Seat 8: Greta Sarah folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123272282: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (150/300) - 2025/03/03 18:14:57 WET [2025/03/03 13:14:57 ET]
+Table '3860731907 325' 8-max Seat #1 is the button
+Seat 1: powerwolf2 (25000 in chips) 
+Seat 2: Kevin12345Mc (23435 in chips) 
+Seat 3: chêne22 (25000 in chips) 
+Seat 4: playfullelf (26555 in chips) 
+Seat 5: ozanarez (24345 in chips) 
+Seat 8: Atajan7388 (25000 in chips) 
+powerwolf2: posts the ante 35
+Kevin12345Mc: posts the ante 35
+chêne22: posts the ante 35
+playfullelf: posts the ante 35
+ozanarez: posts the ante 35
+Atajan7388: posts the ante 35
+Kevin12345Mc: posts small blind 150
+chêne22: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Kd]
+playfullelf is connected 
+ozanarez is disconnected 
+playfullelf is connected 
+chêne22 is disconnected 
+powerwolf2 is disconnected 
+MOLLOT is disconnected 
+playfullelf: folds 
+ozanarez: folds 
+Atajan7388: folds 
+powerwolf2: raises 600 to 900
+Kevin12345Mc: folds 
+chêne22: raises 24065 to 24965 and is all-in
+powerwolf2: calls 24065 and is all-in
+*** FLOP *** [Td 5s Qh]
+*** TURN *** [Td 5s Qh] [7c]
+*** RIVER *** [Td 5s Qh 7c] [4c]
+*** SHOW DOWN ***
+chêne22: shows [Kc Ah] (high card Ace)
+powerwolf2: shows [As Qd] (a pair of Queens)
+powerwolf2 collected 50290 from pot
+chêne22 finished the tournament
+*** SUMMARY ***
+Total pot 50290 | Rake 0 
+Board [Td 5s Qh 7c 4c]
+Seat 1: powerwolf2 (button) showed [As Qd] and won (50290) with a pair of Queens
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: chêne22 (big blind) showed [Kc Ah] and lost with high card Ace
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123280122: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (150/300) - 2025/03/03 18:15:28 WET [2025/03/03 13:15:28 ET]
+Table '3860731907 325' 8-max Seat #2 is the button
+Seat 1: powerwolf2 (50290 in chips) 
+Seat 2: Kevin12345Mc (23250 in chips) 
+Seat 4: playfullelf (26520 in chips) 
+Seat 5: ozanarez (24310 in chips) 
+Seat 6: fidel811 (25000 in chips) 
+Seat 7: MOLLOT (25000 in chips) 
+Seat 8: Atajan7388 (24965 in chips) 
+powerwolf2: posts the ante 35
+Kevin12345Mc: posts the ante 35
+playfullelf: posts the ante 35
+ozanarez: posts the ante 35
+fidel811: posts the ante 35
+MOLLOT: posts the ante 35
+Atajan7388: posts the ante 35
+playfullelf: posts small blind 150
+ozanarez: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 4d]
+Tetipkr is disconnected 
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: raises 300 to 600
+powerwolf2: folds 
+Kevin12345Mc: folds 
+playfullelf: calls 450
+ozanarez: calls 300
+*** FLOP *** [Qd 6c 9s]
+playfullelf: checks 
+ozanarez: checks 
+Atajan7388: bets 723
+playfullelf: folds 
+ozanarez: folds 
+Uncalled bet (723) returned to Atajan7388
+Atajan7388 collected 2045 from pot
+*** SUMMARY ***
+Total pot 2045 | Rake 0 
+Board [Qd 6c 9s]
+Seat 1: powerwolf2 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: playfullelf (small blind) folded on the Flop
+Seat 5: ozanarez (big blind) folded on the Flop
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 collected (2045)
+
+
+
+PokerStars Hand #255123295363: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (150/300) - 2025/03/03 18:16:26 WET [2025/03/03 13:16:26 ET]
+Table '3860731907 325' 8-max Seat #4 is the button
+Seat 1: powerwolf2 (50255 in chips) 
+Seat 2: Kevin12345Mc (23215 in chips) 
+Seat 3: Tetipkr (25000 in chips) 
+Seat 4: playfullelf (25885 in chips) 
+Seat 5: ozanarez (23675 in chips) 
+Seat 6: fidel811 (24965 in chips) 
+Seat 7: MOLLOT (24965 in chips) 
+Seat 8: Atajan7388 (26375 in chips) 
+powerwolf2: posts the ante 35
+Kevin12345Mc: posts the ante 35
+Tetipkr: posts the ante 35
+playfullelf: posts the ante 35
+ozanarez: posts the ante 35
+fidel811: posts the ante 35
+MOLLOT: posts the ante 35
+Atajan7388: posts the ante 35
+ozanarez: posts small blind 150
+fidel811: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Ks]
+MOLLOT: folds 
+Atajan7388: folds 
+powerwolf2: folds 
+Kevin12345Mc: raises 390 to 690
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: folds 
+fidel811: calls 390
+*** FLOP *** [Jd 9h Kc]
+fidel811: checks 
+Kevin12345Mc: bets 597
+fidel811: folds 
+Uncalled bet (597) returned to Kevin12345Mc
+Kevin12345Mc collected 1810 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1810 | Rake 0 
+Board [Jd 9h Kc]
+Seat 1: powerwolf2 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc collected (1810)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf (button) folded before Flop (didn't bet)
+Seat 5: ozanarez (small blind) folded before Flop
+Seat 6: fidel811 (big blind) folded on the Flop
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123304208: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (150/300) - 2025/03/03 18:16:59 WET [2025/03/03 13:16:59 ET]
+Table '3860731907 325' 8-max Seat #5 is the button
+Seat 1: powerwolf2 (50220 in chips) 
+Seat 2: Kevin12345Mc (24300 in chips) 
+Seat 3: Tetipkr (24965 in chips) 
+Seat 4: playfullelf (25850 in chips) 
+Seat 5: ozanarez (23490 in chips) 
+Seat 6: fidel811 (24240 in chips) 
+Seat 7: MOLLOT (24930 in chips) 
+Seat 8: Atajan7388 (26340 in chips) 
+powerwolf2: posts the ante 35
+Kevin12345Mc: posts the ante 35
+Tetipkr: posts the ante 35
+playfullelf: posts the ante 35
+ozanarez: posts the ante 35
+fidel811: posts the ante 35
+MOLLOT: posts the ante 35
+Atajan7388: posts the ante 35
+fidel811: posts small blind 150
+MOLLOT: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Qc]
+Atajan7388: folds 
+powerwolf2: folds 
+Kevin12345Mc: raises 390 to 690
+Tetipkr: folds 
+playfullelf: calls 690
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: calls 390
+*** FLOP *** [4c 5h 5c]
+MOLLOT: checks 
+Kevin12345Mc: bets 1650
+playfullelf: folds 
+MOLLOT: folds 
+Uncalled bet (1650) returned to Kevin12345Mc
+Kevin12345Mc collected 2500 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2500 | Rake 0 
+Board [4c 5h 5c]
+Seat 1: powerwolf2 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc collected (2500)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded on the Flop
+Seat 5: ozanarez (button) folded before Flop (didn't bet)
+Seat 6: fidel811 (small blind) folded before Flop
+Seat 7: MOLLOT (big blind) folded on the Flop
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123313706: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (150/300) - 2025/03/03 18:17:35 WET [2025/03/03 13:17:35 ET]
+Table '3860731907 325' 8-max Seat #6 is the button
+Seat 1: powerwolf2 (50185 in chips) 
+Seat 2: Kevin12345Mc (26075 in chips) 
+Seat 3: Tetipkr (24930 in chips) 
+Seat 4: playfullelf (25125 in chips) 
+Seat 5: ozanarez (23455 in chips) 
+Seat 6: fidel811 (24055 in chips) 
+Seat 7: MOLLOT (24205 in chips) 
+Seat 8: Atajan7388 (26305 in chips) 
+powerwolf2: posts the ante 35
+Kevin12345Mc: posts the ante 35
+Tetipkr: posts the ante 35
+playfullelf: posts the ante 35
+ozanarez: posts the ante 35
+fidel811: posts the ante 35
+MOLLOT: posts the ante 35
+Atajan7388: posts the ante 35
+MOLLOT: posts small blind 150
+Atajan7388: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 8c]
+powerwolf2: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: folds 
+fidel811: raises 300 to 600
+MOLLOT: folds 
+Atajan7388: calls 300
+*** FLOP *** [Qh Kd 3h]
+Atajan7388: checks 
+fidel811: bets 815
+Atajan7388: calls 815
+*** TURN *** [Qh Kd 3h] [6d]
+Atajan7388: checks 
+fidel811: bets 3260
+Atajan7388: folds 
+Uncalled bet (3260) returned to fidel811
+fidel811 collected 3260 from pot
+*** SUMMARY ***
+Total pot 3260 | Rake 0 
+Board [Qh Kd 3h 6d]
+Seat 1: powerwolf2 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 (button) collected (3260)
+Seat 7: MOLLOT (small blind) folded before Flop
+Seat 8: Atajan7388 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #255123323225: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (150/300) - 2025/03/03 18:18:12 WET [2025/03/03 13:18:12 ET]
+Table '3860731907 325' 8-max Seat #7 is the button
+Seat 1: powerwolf2 (50150 in chips) 
+Seat 2: Kevin12345Mc (26040 in chips) 
+Seat 3: Tetipkr (24895 in chips) 
+Seat 4: playfullelf (25090 in chips) 
+Seat 5: ozanarez (23420 in chips) 
+Seat 6: fidel811 (25865 in chips) 
+Seat 7: MOLLOT (24020 in chips) 
+Seat 8: Atajan7388 (24855 in chips) 
+powerwolf2: posts the ante 35
+Kevin12345Mc: posts the ante 35
+Tetipkr: posts the ante 35
+playfullelf: posts the ante 35
+ozanarez: posts the ante 35
+fidel811: posts the ante 35
+MOLLOT: posts the ante 35
+Atajan7388: posts the ante 35
+Atajan7388: posts small blind 150
+powerwolf2: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Ks]
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: raises 300 to 600
+fidel811: calls 600
+MOLLOT: folds 
+Atajan7388: folds 
+powerwolf2: calls 300
+*** FLOP *** [4d Qc 8d]
+powerwolf2: checks 
+ozanarez: checks 
+fidel811: checks 
+*** TURN *** [4d Qc 8d] [Th]
+powerwolf2: checks 
+ozanarez: bets 1227
+fidel811: calls 1227
+powerwolf2: calls 1227
+*** RIVER *** [4d Qc 8d Th] [7d]
+powerwolf2: checks 
+ozanarez: checks 
+fidel811: bets 2956
+powerwolf2: folds 
+ozanarez: folds 
+Uncalled bet (2956) returned to fidel811
+fidel811 collected 5911 from pot
+*** SUMMARY ***
+Total pot 5911 | Rake 0 
+Board [4d Qc 8d Th 7d]
+Seat 1: powerwolf2 (big blind) folded on the River
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded on the River
+Seat 6: fidel811 collected (5911)
+Seat 7: MOLLOT (button) folded before Flop (didn't bet)
+Seat 8: Atajan7388 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255123343201: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (150/300) - 2025/03/03 18:19:27 WET [2025/03/03 13:19:27 ET]
+Table '3860731907 325' 8-max Seat #8 is the button
+Seat 1: powerwolf2 (48288 in chips) 
+Seat 2: Kevin12345Mc (26005 in chips) 
+Seat 3: Tetipkr (24860 in chips) 
+Seat 4: playfullelf (25055 in chips) 
+Seat 5: ozanarez (21558 in chips) 
+Seat 6: fidel811 (29914 in chips) 
+Seat 7: MOLLOT (23985 in chips) 
+Seat 8: Atajan7388 (24670 in chips) 
+powerwolf2: posts the ante 35
+Kevin12345Mc: posts the ante 35
+Tetipkr: posts the ante 35
+playfullelf: posts the ante 35
+ozanarez: posts the ante 35
+fidel811: posts the ante 35
+MOLLOT: posts the ante 35
+Atajan7388: posts the ante 35
+powerwolf2: posts small blind 150
+Kevin12345Mc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Qh]
+Tetipkr: folds 
+playfullelf: raises 300 to 600
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: calls 600
+powerwolf2: calls 450
+Kevin12345Mc: folds 
+*** FLOP *** [9h 6s Qs]
+powerwolf2: checks 
+playfullelf: bets 714
+Atajan7388: calls 714
+powerwolf2: calls 714
+*** TURN *** [9h 6s Qs] [5d]
+powerwolf2: checks 
+playfullelf: bets 3392
+Atajan7388: calls 3392
+powerwolf2: folds 
+*** RIVER *** [9h 6s Qs 5d] [2c]
+playfullelf: bets 8480
+Atajan7388: calls 8480
+*** SHOW DOWN ***
+playfullelf: shows [8c 7c] (a straight, Five to Nine)
+Atajan7388: mucks hand 
+playfullelf collected 28266 from pot
+*** SUMMARY ***
+Total pot 28266 | Rake 0 
+Board [9h 6s Qs 5d 2c]
+Seat 1: powerwolf2 (small blind) folded on the Turn
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf showed [8c 7c] and won (28266) with a straight, Five to Nine
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 (button) mucked [8d Qd]
+
+
+
+PokerStars Hand #255123360337: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (150/300) - 2025/03/03 18:20:32 WET [2025/03/03 13:20:32 ET]
+Table '3860731907 325' 8-max Seat #1 is the button
+Seat 1: powerwolf2 (46939 in chips) 
+Seat 2: Kevin12345Mc (25670 in chips) 
+Seat 3: Tetipkr (24825 in chips) 
+Seat 4: playfullelf (40100 in chips) 
+Seat 5: ozanarez (21523 in chips) 
+Seat 6: fidel811 (29879 in chips) 
+Seat 7: MOLLOT (23950 in chips) 
+Seat 8: Atajan7388 (11449 in chips) 
+powerwolf2: posts the ante 35
+Kevin12345Mc: posts the ante 35
+Tetipkr: posts the ante 35
+playfullelf: posts the ante 35
+ozanarez: posts the ante 35
+fidel811: posts the ante 35
+MOLLOT: posts the ante 35
+Atajan7388: posts the ante 35
+Kevin12345Mc: posts small blind 150
+Tetipkr: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 2d]
+playfullelf: raises 300 to 600
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: folds 
+powerwolf2: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+Uncalled bet (300) returned to playfullelf
+playfullelf collected 1030 from pot
+playfullelf: doesn't show hand 
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Seat 1: powerwolf2 (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: Tetipkr (big blind) folded before Flop
+Seat 4: playfullelf collected (1030)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123371256: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:21:13 WET [2025/03/03 13:21:13 ET]
+Table '3860731907 325' 8-max Seat #2 is the button
+Seat 1: powerwolf2 (46904 in chips) 
+Seat 2: Kevin12345Mc (25485 in chips) 
+Seat 3: Tetipkr (24490 in chips) 
+Seat 4: playfullelf (40795 in chips) 
+Seat 5: ozanarez (21488 in chips) 
+Seat 6: fidel811 (29844 in chips) 
+Seat 7: MOLLOT (23915 in chips) 
+Seat 8: Atajan7388 (11414 in chips) 
+powerwolf2: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+Tetipkr: posts small blind 175
+playfullelf: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Ah]
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: folds 
+powerwolf2: folds 
+Kevin12345Mc: raises 455 to 805
+Tetipkr: folds 
+playfullelf: calls 455
+*** FLOP *** [Tc 3s Qd]
+playfullelf: checks 
+Kevin12345Mc: bets 695
+playfullelf: calls 695
+*** TURN *** [Tc 3s Qd] [9d]
+playfullelf: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Tc 3s Qd 9d] [9c]
+playfullelf: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+playfullelf: shows [Th Kh] (two pair, Tens and Nines)
+Kevin12345Mc: mucks hand 
+playfullelf collected 3495 from pot
+*** SUMMARY ***
+Total pot 3495 | Rake 0 
+Board [Tc 3s Qd 9d 9c]
+Seat 1: powerwolf2 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) mucked [4d Ah]
+Seat 3: Tetipkr (small blind) folded before Flop
+Seat 4: playfullelf (big blind) showed [Th Kh] and won (3495) with two pair, Tens and Nines
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123381488: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:21:52 WET [2025/03/03 13:21:52 ET]
+Table '3860731907 325' 8-max Seat #3 is the button
+Seat 1: powerwolf2 (46864 in chips) 
+Seat 2: Kevin12345Mc (23945 in chips) 
+Seat 3: Tetipkr (24275 in chips) 
+Seat 4: playfullelf (42750 in chips) 
+Seat 5: ozanarez (21448 in chips) 
+Seat 6: fidel811 (29804 in chips) 
+Seat 7: MOLLOT (23875 in chips) 
+Seat 8: Atajan7388 (11374 in chips) 
+powerwolf2: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+playfullelf: posts small blind 175
+ozanarez: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 6d]
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: raises 350 to 700
+powerwolf2: calls 700
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: calls 350
+*** FLOP *** [9h Qh Qc]
+ozanarez: checks 
+Atajan7388: checks 
+powerwolf2: checks 
+*** TURN *** [9h Qh Qc] [5d]
+ozanarez: checks 
+Atajan7388: checks 
+powerwolf2: checks 
+*** RIVER *** [9h Qh Qc 5d] [8d]
+ozanarez: bets 350
+Atajan7388: raises 948 to 1298
+powerwolf2: folds 
+ozanarez: calls 948
+*** SHOW DOWN ***
+Atajan7388: shows [Qd Jd] (three of a kind, Queens)
+ozanarez: mucks hand 
+Atajan7388 collected 5191 from pot
+*** SUMMARY ***
+Total pot 5191 | Rake 0 
+Board [9h Qh Qc 5d 8d]
+Seat 1: powerwolf2 folded on the River
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr (button) folded before Flop (didn't bet)
+Seat 4: playfullelf (small blind) folded before Flop
+Seat 5: ozanarez (big blind) mucked [6c 6h]
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 showed [Qd Jd] and won (5191) with three of a kind, Queens
+
+
+
+PokerStars Hand #255123396753: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:22:49 WET [2025/03/03 13:22:49 ET]
+Table '3860731907 325' 8-max Seat #4 is the button
+Seat 1: powerwolf2 (46124 in chips) 
+Seat 2: Kevin12345Mc (23905 in chips) 
+Seat 3: Tetipkr (24235 in chips) 
+Seat 4: playfullelf (42535 in chips) 
+Seat 5: ozanarez (19410 in chips) 
+Seat 6: fidel811 (29764 in chips) 
+Seat 7: MOLLOT (23835 in chips) 
+Seat 8: Atajan7388 (14527 in chips) 
+powerwolf2: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+ozanarez: posts small blind 175
+fidel811: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 6s]
+MOLLOT: folds 
+Atajan7388: folds 
+powerwolf2: folds 
+Kevin12345Mc: folds 
+Tetipkr: raises 385 to 735
+playfullelf: folds 
+ozanarez: folds 
+fidel811: calls 385
+*** FLOP *** [Ks 2c Ac]
+fidel811: checks 
+Tetipkr: bets 822
+fidel811: folds 
+Uncalled bet (822) returned to Tetipkr
+Tetipkr collected 1965 from pot
+Tetipkr: doesn't show hand 
+*** SUMMARY ***
+Total pot 1965 | Rake 0 
+Board [Ks 2c Ac]
+Seat 1: powerwolf2 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr collected (1965)
+Seat 4: playfullelf (button) folded before Flop (didn't bet)
+Seat 5: ozanarez (small blind) folded before Flop
+Seat 6: fidel811 (big blind) folded on the Flop
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123408326: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:23:32 WET [2025/03/03 13:23:32 ET]
+Table '3860731907 325' 8-max Seat #5 is the button
+Seat 1: powerwolf2 (46084 in chips) 
+Seat 2: Kevin12345Mc (23865 in chips) 
+Seat 3: Tetipkr (25425 in chips) 
+Seat 4: playfullelf (42495 in chips) 
+Seat 5: ozanarez (19195 in chips) 
+Seat 6: fidel811 (28989 in chips) 
+Seat 7: MOLLOT (23795 in chips) 
+Seat 8: Atajan7388 (14487 in chips) 
+powerwolf2: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+fidel811: posts small blind 175
+MOLLOT: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Qh]
+Atajan7388: folds 
+powerwolf2: folds 
+Kevin12345Mc: raises 455 to 805
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: calls 455
+*** FLOP *** [8d 7d 5d]
+MOLLOT: bets 695
+Kevin12345Mc: calls 695
+*** TURN *** [8d 7d 5d] [Ac]
+MOLLOT: bets 2621
+Kevin12345Mc: calls 2621
+*** RIVER *** [8d 7d 5d Ac] [2c]
+MOLLOT: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+MOLLOT: shows [Js Kd] (high card Ace)
+Kevin12345Mc: shows [Qs Qh] (a pair of Queens)
+Kevin12345Mc collected 8737 from pot
+*** SUMMARY ***
+Total pot 8737 | Rake 0 
+Board [8d 7d 5d Ac 2c]
+Seat 1: powerwolf2 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc showed [Qs Qh] and won (8737) with a pair of Queens
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez (button) folded before Flop (didn't bet)
+Seat 6: fidel811 (small blind) folded before Flop
+Seat 7: MOLLOT (big blind) showed [Js Kd] and lost with high card Ace
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123424220: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:24:32 WET [2025/03/03 13:24:32 ET]
+Table '3860731907 325' 8-max Seat #6 is the button
+Seat 1: powerwolf2 (46044 in chips) 
+Seat 2: Kevin12345Mc (28441 in chips) 
+Seat 3: Tetipkr (25385 in chips) 
+Seat 4: playfullelf (42455 in chips) 
+Seat 5: ozanarez (19155 in chips) 
+Seat 6: fidel811 (28774 in chips) 
+Seat 7: MOLLOT (19634 in chips) 
+Seat 8: Atajan7388 (14447 in chips) 
+powerwolf2: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+MOLLOT: posts small blind 175
+Atajan7388: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h Ad]
+powerwolf2: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: raises 350 to 700
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: calls 350
+*** FLOP *** [Td 8s 4c]
+Atajan7388: checks 
+ozanarez: bets 474
+Atajan7388: calls 474
+*** TURN *** [Td 8s 4c] [5c]
+Atajan7388: checks 
+ozanarez: bets 1575
+Atajan7388: calls 1575
+*** RIVER *** [Td 8s 4c 5c] [4h]
+Atajan7388: checks 
+ozanarez: checks 
+*** SHOW DOWN ***
+Atajan7388: shows [Ts 6s] (two pair, Tens and Fours)
+ozanarez: mucks hand 
+Atajan7388 collected 5993 from pot
+*** SUMMARY ***
+Total pot 5993 | Rake 0 
+Board [Td 8s 4c 5c 4h]
+Seat 1: powerwolf2 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez mucked [Ac 7s]
+Seat 6: fidel811 (button) folded before Flop (didn't bet)
+Seat 7: MOLLOT (small blind) folded before Flop
+Seat 8: Atajan7388 (big blind) showed [Ts 6s] and won (5993) with two pair, Tens and Fours
+
+
+
+PokerStars Hand #255123439499: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:25:29 WET [2025/03/03 13:25:29 ET]
+Table '3860731907 325' 8-max Seat #7 is the button
+Seat 1: powerwolf2 (46004 in chips) 
+Seat 2: Kevin12345Mc (28401 in chips) 
+Seat 3: Tetipkr (25345 in chips) 
+Seat 4: playfullelf (42415 in chips) 
+Seat 5: ozanarez (16366 in chips) 
+Seat 6: fidel811 (28734 in chips) 
+Seat 7: MOLLOT (19419 in chips) 
+Seat 8: Atajan7388 (17651 in chips) 
+powerwolf2: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+Atajan7388: posts small blind 175
+powerwolf2: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Jd]
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: folds 
+Uncalled bet (175) returned to powerwolf2
+powerwolf2 collected 670 from pot
+powerwolf2: doesn't show hand 
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Seat 1: powerwolf2 (big blind) collected (670)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: MOLLOT (button) folded before Flop (didn't bet)
+Seat 8: Atajan7388 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255123444220: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:25:46 WET [2025/03/03 13:25:46 ET]
+Table '3860731907 325' 8-max Seat #8 is the button
+Seat 1: powerwolf2 (46459 in chips) 
+Seat 2: Kevin12345Mc (28361 in chips) 
+Seat 3: Tetipkr (25305 in chips) 
+Seat 4: playfullelf (42375 in chips) 
+Seat 5: ozanarez (16326 in chips) 
+Seat 6: fidel811 (28694 in chips) 
+Seat 7: MOLLOT (19379 in chips) 
+Seat 8: Atajan7388 (17436 in chips) 
+powerwolf2: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+powerwolf2: posts small blind 175
+Kevin12345Mc: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks Kc]
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: folds 
+powerwolf2: folds 
+Uncalled bet (175) returned to Kevin12345Mc
+Kevin12345Mc collected 670 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Seat 1: powerwolf2 (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) collected (670)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123450184: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:26:09 WET [2025/03/03 13:26:09 ET]
+Table '3860731907 325' 8-max Seat #1 is the button
+Seat 1: powerwolf2 (46244 in chips) 
+Seat 2: Kevin12345Mc (28816 in chips) 
+Seat 3: Tetipkr (25265 in chips) 
+Seat 4: playfullelf (42335 in chips) 
+Seat 5: ozanarez (16286 in chips) 
+Seat 6: fidel811 (28654 in chips) 
+Seat 7: MOLLOT (19339 in chips) 
+Seat 8: Atajan7388 (17396 in chips) 
+powerwolf2: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+Kevin12345Mc: posts small blind 175
+Tetipkr: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h As]
+playfullelf: folds 
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: folds 
+powerwolf2: raises 350 to 700
+Kevin12345Mc: folds 
+Tetipkr: calls 350
+*** FLOP *** [8c Js Tc]
+Tetipkr: checks 
+powerwolf2: checks 
+*** TURN *** [8c Js Tc] [Jc]
+Tetipkr: checks 
+powerwolf2: checks 
+*** RIVER *** [8c Js Tc Jc] [Qh]
+Tetipkr: checks 
+powerwolf2: checks 
+*** SHOW DOWN ***
+Tetipkr: shows [3d Kd] (a pair of Jacks)
+powerwolf2: shows [9d Ah] (a straight, Eight to Queen)
+powerwolf2 collected 1895 from pot
+*** SUMMARY ***
+Total pot 1895 | Rake 0 
+Board [8c Js Tc Jc Qh]
+Seat 1: powerwolf2 (button) showed [9d Ah] and won (1895) with a straight, Eight to Queen
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: Tetipkr (big blind) showed [3d Kd] and lost with a pair of Jacks
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123465188: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:27:05 WET [2025/03/03 13:27:05 ET]
+Table '3860731907 325' 8-max Seat #2 is the button
+Seat 1: powerwolf2 (47399 in chips) 
+Seat 2: Kevin12345Mc (28601 in chips) 
+Seat 3: Tetipkr (24525 in chips) 
+Seat 4: playfullelf (42295 in chips) 
+Seat 5: ozanarez (16246 in chips) 
+Seat 6: fidel811 (28614 in chips) 
+Seat 7: MOLLOT (19299 in chips) 
+Seat 8: Atajan7388 (17356 in chips) 
+powerwolf2: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+Tetipkr: posts small blind 175
+playfullelf: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 4c]
+ozanarez: raises 350 to 700
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: calls 700
+powerwolf2: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+*** FLOP *** [3d 7s Td]
+ozanarez: bets 2133
+Atajan7388: folds 
+Uncalled bet (2133) returned to ozanarez
+ozanarez collected 2245 from pot
+ozanarez: doesn't show hand 
+*** SUMMARY ***
+Total pot 2245 | Rake 0 
+Board [3d 7s Td]
+Seat 1: powerwolf2 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: Tetipkr (small blind) folded before Flop
+Seat 4: playfullelf (big blind) folded before Flop
+Seat 5: ozanarez collected (2245)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded on the Flop
+
+
+
+PokerStars Hand #255123473522: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:27:36 WET [2025/03/03 13:27:36 ET]
+Table '3860731907 325' 8-max Seat #3 is the button
+Seat 1: powerwolf2 (47359 in chips) 
+Seat 2: Kevin12345Mc (28561 in chips) 
+Seat 3: Tetipkr (24310 in chips) 
+Seat 4: playfullelf (41905 in chips) 
+Seat 5: ozanarez (17751 in chips) 
+Seat 6: fidel811 (28574 in chips) 
+Seat 7: MOLLOT (19259 in chips) 
+Seat 8: Atajan7388 (16616 in chips) 
+powerwolf2: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+playfullelf: posts small blind 175
+ozanarez: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Jd]
+fidel811: raises 350 to 700
+MOLLOT: folds 
+Atajan7388: folds 
+powerwolf2: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: calls 350
+*** FLOP *** [Th 9h Qs]
+ozanarez: checks 
+fidel811: bets 700
+ozanarez: folds 
+Uncalled bet (700) returned to fidel811
+fidel811 collected 1895 from pot
+*** SUMMARY ***
+Total pot 1895 | Rake 0 
+Board [Th 9h Qs]
+Seat 1: powerwolf2 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr (button) folded before Flop (didn't bet)
+Seat 4: playfullelf (small blind) folded before Flop
+Seat 5: ozanarez (big blind) folded on the Flop
+Seat 6: fidel811 collected (1895)
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123480684: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:28:03 WET [2025/03/03 13:28:03 ET]
+Table '3860731907 325' 8-max Seat #4 is the button
+Seat 1: luckynikNN (25000 in chips) 
+Seat 2: Kevin12345Mc (28521 in chips) 
+Seat 3: Tetipkr (24270 in chips) 
+Seat 4: playfullelf (41690 in chips) 
+Seat 5: ozanarez (17011 in chips) 
+Seat 6: fidel811 (29729 in chips) 
+Seat 7: MOLLOT (19219 in chips) 
+Seat 8: Atajan7388 (16576 in chips) 
+luckynikNN: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+ozanarez: posts small blind 175
+fidel811: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 6c]
+MOLLOT: folds 
+Atajan7388: folds 
+luckynikNN is disconnected 
+luckynikNN is connected 
+luckynikNN: raises 700 to 1050
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: calls 875
+fidel811: folds 
+*** FLOP *** [7h 3s 6d]
+ozanarez: checks 
+luckynikNN: bets 2450
+ozanarez: raises 3150 to 5600
+luckynikNN: raises 18310 to 23910 and is all-in
+ozanarez: calls 10321 and is all-in
+Uncalled bet (7989) returned to luckynikNN
+*** TURN *** [7h 3s 6d] [Qh]
+*** RIVER *** [7h 3s 6d Qh] [8s]
+*** SHOW DOWN ***
+ozanarez: shows [Td Th] (a pair of Tens)
+luckynikNN: shows [Jd Ah] (high card Ace)
+ozanarez collected 34612 from pot
+*** SUMMARY ***
+Total pot 34612 | Rake 0 
+Board [7h 3s 6d Qh 8s]
+Seat 1: luckynikNN showed [Jd Ah] and lost with high card Ace
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf (button) folded before Flop (didn't bet)
+Seat 5: ozanarez (small blind) showed [Td Th] and won (34612) with a pair of Tens
+Seat 6: fidel811 (big blind) folded before Flop
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123493482: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (175/350) - 2025/03/03 18:28:50 WET [2025/03/03 13:28:50 ET]
+Table '3860731907 325' 8-max Seat #5 is the button
+Seat 1: luckynikNN (7989 in chips) 
+Seat 2: Kevin12345Mc (28481 in chips) 
+Seat 3: Tetipkr (24230 in chips) 
+Seat 4: playfullelf (41650 in chips) 
+Seat 5: ozanarez (34612 in chips) 
+Seat 6: fidel811 (29339 in chips) 
+Seat 7: MOLLOT (19179 in chips) 
+Seat 8: Atajan7388 (16536 in chips) 
+luckynikNN: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Tetipkr: posts the ante 40
+playfullelf: posts the ante 40
+ozanarez: posts the ante 40
+fidel811: posts the ante 40
+MOLLOT: posts the ante 40
+Atajan7388: posts the ante 40
+fidel811: posts small blind 175
+MOLLOT: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 9s]
+Atajan7388: raises 350 to 700
+luckynikNN: calls 700
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: calls 700
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: folds 
+*** FLOP *** [9c 2s Ks]
+Atajan7388: bets 773
+luckynikNN: folds 
+playfullelf: calls 773
+*** TURN *** [9c 2s Ks] [9h]
+Atajan7388: bets 1896
+playfullelf: raises 6212 to 8108
+Atajan7388: folds 
+Uncalled bet (6212) returned to playfullelf
+playfullelf collected 8283 from pot
+playfullelf: doesn't show hand 
+*** SUMMARY ***
+Total pot 8283 | Rake 0 
+Board [9c 2s Ks 9h]
+Seat 1: luckynikNN folded on the Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf collected (8283)
+Seat 5: ozanarez (button) folded before Flop (didn't bet)
+Seat 6: fidel811 (small blind) folded before Flop
+Seat 7: MOLLOT (big blind) folded before Flop
+Seat 8: Atajan7388 folded on the Turn
+
+
+
+PokerStars Hand #255123505580: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (200/400) - 2025/03/03 18:29:35 WET [2025/03/03 13:29:35 ET]
+Table '3860731907 325' 8-max Seat #6 is the button
+Seat 1: luckynikNN (7249 in chips) 
+Seat 2: Kevin12345Mc (28441 in chips) 
+Seat 3: Tetipkr (24190 in chips) 
+Seat 4: playfullelf (46524 in chips) 
+Seat 5: ozanarez (34572 in chips) 
+Seat 6: fidel811 (29124 in chips) 
+Seat 7: MOLLOT (18789 in chips) 
+Seat 8: Atajan7388 (13127 in chips) 
+luckynikNN: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Tetipkr: posts the ante 50
+playfullelf: posts the ante 50
+ozanarez: posts the ante 50
+fidel811: posts the ante 50
+MOLLOT: posts the ante 50
+Atajan7388: posts the ante 50
+MOLLOT: posts small blind 200
+Atajan7388: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 5s]
+luckynikNN: raises 588 to 988
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: raises 17751 to 18739 and is all-in
+Atajan7388: calls 12677 and is all-in
+luckynikNN: folds 
+Uncalled bet (5662) returned to MOLLOT
+*** FLOP *** [6h Qh 5c]
+*** TURN *** [6h Qh 5c] [Ac]
+*** RIVER *** [6h Qh 5c Ac] [2h]
+*** SHOW DOWN ***
+MOLLOT: shows [Tc Td] (a pair of Tens)
+Atajan7388: shows [Ah Ks] (a pair of Aces)
+Atajan7388 collected 27542 from pot
+*** SUMMARY ***
+Total pot 27542 | Rake 0 
+Board [6h Qh 5c Ac 2h]
+Seat 1: luckynikNN folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 (button) folded before Flop (didn't bet)
+Seat 7: MOLLOT (small blind) showed [Tc Td] and lost with a pair of Tens
+Seat 8: Atajan7388 (big blind) showed [Ah Ks] and won (27542) with a pair of Aces
+
+
+
+PokerStars Hand #255123516688: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (200/400) - 2025/03/03 18:30:15 WET [2025/03/03 13:30:15 ET]
+Table '3860731907 325' 8-max Seat #7 is the button
+Seat 1: luckynikNN (6211 in chips) 
+Seat 2: Kevin12345Mc (28391 in chips) 
+Seat 3: Tetipkr (24140 in chips) 
+Seat 4: playfullelf (46474 in chips) 
+Seat 5: ozanarez (34522 in chips) 
+Seat 6: fidel811 (29074 in chips) 
+Seat 7: MOLLOT (5662 in chips) 
+Seat 8: Atajan7388 (27542 in chips) 
+luckynikNN: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Tetipkr: posts the ante 50
+playfullelf: posts the ante 50
+ozanarez: posts the ante 50
+fidel811: posts the ante 50
+MOLLOT: posts the ante 50
+Atajan7388: posts the ante 50
+Atajan7388: posts small blind 200
+luckynikNN: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 8h]
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: raises 27092 to 27492 and is all-in
+luckynikNN: folds 
+Uncalled bet (27092) returned to Atajan7388
+Atajan7388 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 1: luckynikNN (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: MOLLOT (button) folded before Flop (didn't bet)
+Seat 8: Atajan7388 (small blind) collected (1200)
+
+
+
+PokerStars Hand #255123523958: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (200/400) - 2025/03/03 18:30:41 WET [2025/03/03 13:30:41 ET]
+Table '3860731907 325' 8-max Seat #8 is the button
+Seat 1: luckynikNN (5761 in chips) 
+Seat 2: Kevin12345Mc (28341 in chips) 
+Seat 3: Tetipkr (24090 in chips) 
+Seat 4: playfullelf (46424 in chips) 
+Seat 5: ozanarez (34472 in chips) 
+Seat 6: fidel811 (29024 in chips) 
+Seat 7: MOLLOT (5612 in chips) 
+Seat 8: Atajan7388 (28292 in chips) 
+luckynikNN: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Tetipkr: posts the ante 50
+playfullelf: posts the ante 50
+ozanarez: posts the ante 50
+fidel811: posts the ante 50
+MOLLOT: posts the ante 50
+Atajan7388: posts the ante 50
+luckynikNN: posts small blind 200
+Kevin12345Mc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 6h]
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: folds 
+fidel811: raises 400 to 800
+MOLLOT: folds 
+Atajan7388: folds 
+luckynikNN: raises 4911 to 5711 and is all-in
+Kevin12345Mc: folds 
+fidel811: calls 4911
+*** FLOP *** [7h 4d 6c]
+*** TURN *** [7h 4d 6c] [4s]
+*** RIVER *** [7h 4d 6c 4s] [Jh]
+*** SHOW DOWN ***
+luckynikNN: shows [Ac Kc] (a pair of Fours)
+fidel811: shows [3d As] (a pair of Fours - lower kicker)
+luckynikNN collected 12222 from pot
+*** SUMMARY ***
+Total pot 12222 | Rake 0 
+Board [7h 4d 6c 4s Jh]
+Seat 1: luckynikNN (small blind) showed [Ac Kc] and won (12222) with a pair of Fours
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 showed [3d As] and lost with a pair of Fours
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123533485: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (200/400) - 2025/03/03 18:31:15 WET [2025/03/03 13:31:15 ET]
+Table '3860731907 325' 8-max Seat #1 is the button
+Seat 1: luckynikNN (12222 in chips) 
+Seat 2: Kevin12345Mc (27891 in chips) 
+Seat 3: Tetipkr (24040 in chips) 
+Seat 4: playfullelf (46374 in chips) 
+Seat 5: ozanarez (34422 in chips) 
+Seat 6: fidel811 (23263 in chips) 
+Seat 7: MOLLOT (5562 in chips) 
+Seat 8: Atajan7388 (28242 in chips) 
+luckynikNN: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Tetipkr: posts the ante 50
+playfullelf: posts the ante 50
+ozanarez: posts the ante 50
+fidel811: posts the ante 50
+MOLLOT: posts the ante 50
+Atajan7388: posts the ante 50
+Kevin12345Mc: posts small blind 200
+Tetipkr: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 6d]
+playfullelf: raises 600 to 1000
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: folds 
+luckynikNN: calls 1000
+Kevin12345Mc: folds 
+Tetipkr: folds 
+*** FLOP *** [Kc 8s 9c]
+playfullelf: bets 900
+luckynikNN: calls 900
+*** TURN *** [Kc 8s 9c] [5c]
+playfullelf: bets 2400
+luckynikNN: folds 
+Uncalled bet (2400) returned to playfullelf
+playfullelf collected 4800 from pot
+playfullelf: doesn't show hand 
+*** SUMMARY ***
+Total pot 4800 | Rake 0 
+Board [Kc 8s 9c 5c]
+Seat 1: luckynikNN (button) folded on the Turn
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: Tetipkr (big blind) folded before Flop
+Seat 4: playfullelf collected (4800)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123543865: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (200/400) - 2025/03/03 18:31:53 WET [2025/03/03 13:31:53 ET]
+Table '3860731907 325' 8-max Seat #2 is the button
+Seat 1: luckynikNN (10272 in chips) 
+Seat 2: Kevin12345Mc (27641 in chips) 
+Seat 3: Tetipkr (23590 in chips) 
+Seat 4: playfullelf (49224 in chips) 
+Seat 5: ozanarez (34372 in chips) 
+Seat 6: fidel811 (23213 in chips) 
+Seat 7: MOLLOT (5512 in chips) 
+Seat 8: Atajan7388 (28192 in chips) 
+luckynikNN: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Tetipkr: posts the ante 50
+playfullelf: posts the ante 50
+ozanarez: posts the ante 50
+fidel811: posts the ante 50
+MOLLOT: posts the ante 50
+Atajan7388: posts the ante 50
+Tetipkr: posts small blind 200
+playfullelf: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad Qh]
+ozanarez: folds 
+fidel811: raises 400 to 800
+MOLLOT: folds 
+Atajan7388: calls 800
+luckynikNN: calls 800
+Kevin12345Mc: raises 2400 to 3200
+Tetipkr: folds 
+playfullelf: folds 
+fidel811: calls 2400
+Atajan7388: folds 
+luckynikNN: calls 2400
+*** FLOP *** [5c Qs 2c]
+fidel811: checks 
+luckynikNN: checks 
+Kevin12345Mc: bets 3762
+fidel811: folds 
+luckynikNN: folds 
+Uncalled bet (3762) returned to Kevin12345Mc
+Kevin12345Mc collected 11400 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 11400 | Rake 0 
+Board [5c Qs 2c]
+Seat 1: luckynikNN folded on the Flop
+Seat 2: Kevin12345Mc (button) collected (11400)
+Seat 3: Tetipkr (small blind) folded before Flop
+Seat 4: playfullelf (big blind) folded before Flop
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded on the Flop
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop
+
+
+
+PokerStars Hand #255123564907: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (200/400) - 2025/03/03 18:33:09 WET [2025/03/03 13:33:09 ET]
+Table '3860731907 325' 8-max Seat #3 is the button
+Seat 1: luckynikNN (7022 in chips) 
+Seat 2: Kevin12345Mc (35791 in chips) 
+Seat 3: Tetipkr (23340 in chips) 
+Seat 4: playfullelf (48774 in chips) 
+Seat 5: ozanarez (34322 in chips) 
+Seat 6: fidel811 (19963 in chips) 
+Seat 7: MOLLOT (5462 in chips) 
+Seat 8: Atajan7388 (27342 in chips) 
+luckynikNN: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Tetipkr: posts the ante 50
+playfullelf: posts the ante 50
+ozanarez: posts the ante 50
+fidel811: posts the ante 50
+MOLLOT: posts the ante 50
+Atajan7388: posts the ante 50
+playfullelf: posts small blind 200
+ozanarez: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 7d]
+fidel811: raises 1400 to 1800
+MOLLOT: folds 
+Atajan7388: folds 
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: folds 
+Uncalled bet (1400) returned to fidel811
+fidel811 collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr (button) folded before Flop (didn't bet)
+Seat 4: playfullelf (small blind) folded before Flop
+Seat 5: ozanarez (big blind) folded before Flop
+Seat 6: fidel811 collected (1400)
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123573374: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (200/400) - 2025/03/03 18:33:39 WET [2025/03/03 13:33:39 ET]
+Table '3860731907 325' 8-max Seat #4 is the button
+Seat 1: luckynikNN (6972 in chips) 
+Seat 2: Kevin12345Mc (35741 in chips) 
+Seat 3: Tetipkr (23290 in chips) 
+Seat 4: playfullelf (48524 in chips) 
+Seat 5: ozanarez (33872 in chips) 
+Seat 6: fidel811 (20913 in chips) 
+Seat 7: MOLLOT (5412 in chips) 
+Seat 8: Atajan7388 (27292 in chips) 
+luckynikNN: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Tetipkr: posts the ante 50
+playfullelf: posts the ante 50
+ozanarez: posts the ante 50
+fidel811: posts the ante 50
+MOLLOT: posts the ante 50
+Atajan7388: posts the ante 50
+ozanarez: posts small blind 200
+fidel811: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Ks]
+MOLLOT: folds 
+Atajan7388: folds 
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: raises 800 to 1200
+ozanarez: folds 
+fidel811: folds 
+Uncalled bet (800) returned to playfullelf
+playfullelf collected 1400 from pot
+playfullelf: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf (button) collected (1400)
+Seat 5: ozanarez (small blind) folded before Flop
+Seat 6: fidel811 (big blind) folded before Flop
+Seat 7: MOLLOT folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123585838: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (200/400) - 2025/03/03 18:34:24 WET [2025/03/03 13:34:24 ET]
+Table '3860731907 325' 8-max Seat #5 is the button
+Seat 1: luckynikNN (6922 in chips) 
+Seat 2: Kevin12345Mc (35691 in chips) 
+Seat 3: Tetipkr (23240 in chips) 
+Seat 4: playfullelf (49474 in chips) 
+Seat 5: ozanarez (33622 in chips) 
+Seat 6: fidel811 (20463 in chips) 
+Seat 7: MOLLOT (5362 in chips) 
+Seat 8: Atajan7388 (27242 in chips) 
+luckynikNN: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Tetipkr: posts the ante 50
+playfullelf: posts the ante 50
+ozanarez: posts the ante 50
+fidel811: posts the ante 50
+MOLLOT: posts the ante 50
+Atajan7388: posts the ante 50
+fidel811: posts small blind 200
+MOLLOT: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Kc]
+Atajan7388: folds 
+luckynikNN is connected 
+luckynikNN is connected 
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: raises 400 to 800
+playfullelf: folds 
+ozanarez: folds 
+fidel811: calls 600
+MOLLOT: calls 400
+*** FLOP *** [4c 3h 9c]
+fidel811: bets 1400
+MOLLOT: folds 
+Tetipkr: folds 
+Uncalled bet (1400) returned to fidel811
+fidel811 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Board [4c 3h 9c]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded on the Flop
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez (button) folded before Flop (didn't bet)
+Seat 6: fidel811 (small blind) collected (2800)
+Seat 7: MOLLOT (big blind) folded on the Flop
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123605274: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (200/400) - 2025/03/03 18:35:34 WET [2025/03/03 13:35:34 ET]
+Table '3860731907 325' 8-max Seat #6 is the button
+Seat 1: luckynikNN (6872 in chips) 
+Seat 2: Kevin12345Mc (35641 in chips) 
+Seat 3: Tetipkr (22390 in chips) 
+Seat 4: playfullelf (49424 in chips) 
+Seat 5: ozanarez (33572 in chips) 
+Seat 6: fidel811 (22413 in chips) 
+Seat 7: MOLLOT (4512 in chips) 
+Seat 8: Atajan7388 (27192 in chips) 
+luckynikNN: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Tetipkr: posts the ante 50
+playfullelf: posts the ante 50
+ozanarez: posts the ante 50
+fidel811: posts the ante 50
+MOLLOT: posts the ante 50
+Atajan7388: posts the ante 50
+MOLLOT: posts small blind 200
+Atajan7388: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 6h]
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: raises 440 to 840
+playfullelf: folds 
+ozanarez: folds 
+fidel811: folds 
+MOLLOT: folds 
+Atajan7388: calls 440
+*** FLOP *** [Kd Ts 5s]
+Atajan7388: checks 
+Tetipkr: bets 752
+Atajan7388: calls 752
+*** TURN *** [Kd Ts 5s] [Tc]
+Atajan7388: checks 
+Tetipkr: checks 
+*** RIVER *** [Kd Ts 5s Tc] [Jh]
+Atajan7388: checks 
+Tetipkr: checks 
+*** SHOW DOWN ***
+Atajan7388: shows [Ah 5h] (two pair, Tens and Fives)
+Tetipkr: shows [9h 9c] (two pair, Tens and Nines)
+Tetipkr collected 3784 from pot
+*** SUMMARY ***
+Total pot 3784 | Rake 0 
+Board [Kd Ts 5s Tc Jh]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr showed [9h 9c] and won (3784) with two pair, Tens and Nines
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 (button) folded before Flop (didn't bet)
+Seat 7: MOLLOT (small blind) folded before Flop
+Seat 8: Atajan7388 (big blind) showed [Ah 5h] and lost with two pair, Tens and Fives
+
+
+
+PokerStars Hand #255123622349: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (200/400) - 2025/03/03 18:36:35 WET [2025/03/03 13:36:35 ET]
+Table '3860731907 325' 8-max Seat #7 is the button
+Seat 1: luckynikNN (6822 in chips) 
+Seat 2: Kevin12345Mc (35591 in chips) 
+Seat 3: Tetipkr (24532 in chips) 
+Seat 4: playfullelf (49374 in chips) 
+Seat 5: ozanarez (33522 in chips) 
+Seat 6: fidel811 (22363 in chips) 
+Seat 7: MOLLOT (4262 in chips) 
+Seat 8: Atajan7388 (25550 in chips) 
+luckynikNN: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Tetipkr: posts the ante 50
+playfullelf: posts the ante 50
+ozanarez: posts the ante 50
+fidel811: posts the ante 50
+MOLLOT: posts the ante 50
+Atajan7388: posts the ante 50
+Atajan7388: posts small blind 200
+luckynikNN: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 5h]
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: raises 400 to 800
+fidel811: calls 800
+MOLLOT: raises 3412 to 4212 and is all-in
+Atajan7388: folds 
+luckynikNN: raises 2560 to 6772 and is all-in
+ozanarez: calls 5972
+fidel811: folds 
+*** FLOP *** [7h Td Qc]
+*** TURN *** [7h Td Qc] [4c]
+*** RIVER *** [7h Td Qc 4c] [9h]
+*** SHOW DOWN ***
+luckynikNN: shows [Jh Kd] (a straight, Nine to King)
+ozanarez: shows [Jc Ac] (high card Ace)
+luckynikNN collected 5120 from side pot
+MOLLOT: shows [9c 9d] (three of a kind, Nines)
+luckynikNN collected 14036 from main pot
+MOLLOT finished the tournament
+*** SUMMARY ***
+Total pot 19156 Main pot 14036. Side pot 5120. | Rake 0 
+Board [7h Td Qc 4c 9h]
+Seat 1: luckynikNN (big blind) showed [Jh Kd] and won (19156) with a straight, Nine to King
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez showed [Jc Ac] and lost with high card Ace
+Seat 6: fidel811 folded before Flop
+Seat 7: MOLLOT (button) showed [9c 9d] and lost with three of a kind, Nines
+Seat 8: Atajan7388 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255123639605: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (250/500) - 2025/03/03 18:37:37 WET [2025/03/03 13:37:37 ET]
+Table '3860731907 325' 8-max Seat #8 is the button
+Seat 1: luckynikNN (19156 in chips) 
+Seat 2: Kevin12345Mc (35541 in chips) 
+Seat 3: Tetipkr (24482 in chips) 
+Seat 4: playfullelf (49324 in chips) 
+Seat 5: ozanarez (26700 in chips) 
+Seat 6: fidel811 (21513 in chips) 
+Seat 8: Atajan7388 (25300 in chips) 
+luckynikNN: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Tetipkr: posts the ante 60
+playfullelf: posts the ante 60
+ozanarez: posts the ante 60
+fidel811: posts the ante 60
+Atajan7388: posts the ante 60
+luckynikNN: posts small blind 250
+Kevin12345Mc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c As]
+Tetipkr: folds 
+playfullelf: folds 
+Diogo D.G.W is disconnected 
+ozanarez: raises 750 to 1250
+fidel811: calls 1250
+Atajan7388: folds 
+luckynikNN: folds 
+Kevin12345Mc: calls 750
+*** FLOP *** [Ad Js Ts]
+Kevin12345Mc: checks 
+ozanarez: bets 1250
+fidel811: folds 
+Kevin12345Mc: calls 1250
+*** TURN *** [Ad Js Ts] [Qc]
+Kevin12345Mc: checks 
+ozanarez: bets 5880
+Kevin12345Mc: folds 
+Uncalled bet (5880) returned to ozanarez
+ozanarez collected 6920 from pot
+ozanarez: doesn't show hand 
+*** SUMMARY ***
+Total pot 6920 | Rake 0 
+Board [Ad Js Ts Qc]
+Seat 1: luckynikNN (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) folded on the Turn
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez collected (6920)
+Seat 6: fidel811 folded on the Flop
+Seat 8: Atajan7388 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123651401: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (250/500) - 2025/03/03 18:38:20 WET [2025/03/03 13:38:20 ET]
+Table '3860731907 325' 8-max Seat #1 is the button
+Seat 1: luckynikNN (18846 in chips) 
+Seat 2: Kevin12345Mc (32981 in chips) 
+Seat 3: Tetipkr (24422 in chips) 
+Seat 4: playfullelf (49264 in chips) 
+Seat 5: ozanarez (31060 in chips) 
+Seat 6: fidel811 (20203 in chips) 
+Seat 7: Diogo D.G.W (25000 in chips) 
+Seat 8: Atajan7388 (25240 in chips) 
+luckynikNN: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Tetipkr: posts the ante 60
+playfullelf: posts the ante 60
+ozanarez: posts the ante 60
+fidel811: posts the ante 60
+Diogo D.G.W: posts the ante 60
+Atajan7388: posts the ante 60
+Kevin12345Mc: posts small blind 250
+Tetipkr: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 7h]
+playfullelf: folds 
+ozanarez: folds 
+fidel811: raises 1730 to 2230
+Diogo D.G.W: folds 
+Atajan7388: folds 
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+Uncalled bet (1730) returned to fidel811
+fidel811 collected 1730 from pot
+*** SUMMARY ***
+Total pot 1730 | Rake 0 
+Seat 1: luckynikNN (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: Tetipkr (big blind) folded before Flop
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 collected (1730)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123659706: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (250/500) - 2025/03/03 18:38:49 WET [2025/03/03 13:38:49 ET]
+Table '3860731907 325' 8-max Seat #2 is the button
+Seat 1: luckynikNN (18786 in chips) 
+Seat 2: Kevin12345Mc (32671 in chips) 
+Seat 3: Tetipkr (23862 in chips) 
+Seat 4: playfullelf (49204 in chips) 
+Seat 5: ozanarez (31000 in chips) 
+Seat 6: fidel811 (21373 in chips) 
+Seat 7: Diogo D.G.W (24940 in chips) 
+Seat 8: Atajan7388 (25180 in chips) 
+luckynikNN: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Tetipkr: posts the ante 60
+playfullelf: posts the ante 60
+ozanarez: posts the ante 60
+fidel811: posts the ante 60
+Diogo D.G.W: posts the ante 60
+Atajan7388: posts the ante 60
+Tetipkr: posts small blind 250
+playfullelf: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd Kh]
+ozanarez: folds 
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: folds 
+luckynikNN is connected 
+luckynikNN is connected 
+luckynikNN: folds 
+Kevin12345Mc: raises 650 to 1150
+Tetipkr: folds 
+playfullelf: calls 650
+*** FLOP *** [As 8d Td]
+playfullelf: checks 
+Kevin12345Mc: bets 1000
+playfullelf: calls 1000
+*** TURN *** [As 8d Td] [3s]
+playfullelf: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [As 8d Td 3s] [2c]
+playfullelf: checks 
+Kevin12345Mc: bets 3820
+playfullelf: folds 
+Uncalled bet (3820) returned to Kevin12345Mc
+Kevin12345Mc collected 5030 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 5030 | Rake 0 
+Board [As 8d Td 3s 2c]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) collected (5030)
+Seat 3: Tetipkr (small blind) folded before Flop
+Seat 4: playfullelf (big blind) folded on the River
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123674985: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (250/500) - 2025/03/03 18:39:44 WET [2025/03/03 13:39:44 ET]
+Table '3860731907 325' 8-max Seat #3 is the button
+Seat 1: luckynikNN (18726 in chips) 
+Seat 2: Kevin12345Mc (35491 in chips) 
+Seat 3: Tetipkr (23552 in chips) 
+Seat 4: playfullelf (46994 in chips) 
+Seat 5: ozanarez (30940 in chips) 
+Seat 6: fidel811 (21313 in chips) 
+Seat 7: Diogo D.G.W (24880 in chips) 
+Seat 8: Atajan7388 (25120 in chips) 
+luckynikNN: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Tetipkr: posts the ante 60
+playfullelf: posts the ante 60
+ozanarez: posts the ante 60
+fidel811: posts the ante 60
+Diogo D.G.W: posts the ante 60
+Atajan7388: posts the ante 60
+playfullelf: posts small blind 250
+ozanarez: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 9c]
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: raises 500 to 1000
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: calls 500
+*** FLOP *** [8d 9s 6h]
+ozanarez: checks 
+Atajan7388: checks 
+*** TURN *** [8d 9s 6h] [Qc]
+ozanarez: checks 
+Atajan7388: bets 1365
+ozanarez: calls 1365
+*** RIVER *** [8d 9s 6h Qc] [5c]
+ozanarez: checks 
+Atajan7388: checks 
+*** SHOW DOWN ***
+ozanarez: shows [8c Jd] (a pair of Eights)
+Atajan7388: mucks hand 
+ozanarez collected 5460 from pot
+*** SUMMARY ***
+Total pot 5460 | Rake 0 
+Board [8d 9s 6h Qc 5c]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr (button) folded before Flop (didn't bet)
+Seat 4: playfullelf (small blind) folded before Flop
+Seat 5: ozanarez (big blind) showed [8c Jd] and won (5460) with a pair of Eights
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 mucked [Ah Jc]
+
+
+
+PokerStars Hand #255123692052: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (250/500) - 2025/03/03 18:40:44 WET [2025/03/03 13:40:44 ET]
+Table '3860731907 325' 8-max Seat #4 is the button
+Seat 1: luckynikNN (18666 in chips) 
+Seat 2: Kevin12345Mc (35431 in chips) 
+Seat 3: Tetipkr (23492 in chips) 
+Seat 4: playfullelf (46684 in chips) 
+Seat 5: ozanarez (33975 in chips) 
+Seat 6: fidel811 (21253 in chips) 
+Seat 7: Diogo D.G.W (24820 in chips) 
+Seat 8: Atajan7388 (22695 in chips) 
+luckynikNN: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Tetipkr: posts the ante 60
+playfullelf: posts the ante 60
+ozanarez: posts the ante 60
+fidel811: posts the ante 60
+Diogo D.G.W: posts the ante 60
+Atajan7388: posts the ante 60
+ozanarez: posts small blind 250
+fidel811: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 7h]
+Diogo D.G.W: raises 500 to 1000
+Atajan7388: calls 1000
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: folds 
+fidel811: calls 500
+*** FLOP *** [Tc 4h Qs]
+fidel811: checks 
+Diogo D.G.W: bets 1231
+Atajan7388: calls 1231
+fidel811: folds 
+*** TURN *** [Tc 4h Qs] [Kc]
+Diogo D.G.W: bets 3406
+Atajan7388: folds 
+Uncalled bet (3406) returned to Diogo D.G.W
+Diogo D.G.W collected 6192 from pot
+Diogo D.G.W: doesn't show hand 
+*** SUMMARY ***
+Total pot 6192 | Rake 0 
+Board [Tc 4h Qs Kc]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf (button) folded before Flop (didn't bet)
+Seat 5: ozanarez (small blind) folded before Flop
+Seat 6: fidel811 (big blind) folded on the Flop
+Seat 7: Diogo D.G.W collected (6192)
+Seat 8: Atajan7388 folded on the Turn
+
+
+
+PokerStars Hand #255123706464: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (250/500) - 2025/03/03 18:41:35 WET [2025/03/03 13:41:35 ET]
+Table '3860731907 325' 8-max Seat #5 is the button
+Seat 1: luckynikNN (18606 in chips) 
+Seat 2: Kevin12345Mc (35371 in chips) 
+Seat 3: Tetipkr (23432 in chips) 
+Seat 4: playfullelf (46624 in chips) 
+Seat 5: ozanarez (33665 in chips) 
+Seat 6: fidel811 (20193 in chips) 
+Seat 7: Diogo D.G.W (28721 in chips) 
+Seat 8: Atajan7388 (20404 in chips) 
+luckynikNN: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Tetipkr: posts the ante 60
+playfullelf: posts the ante 60
+ozanarez: posts the ante 60
+fidel811: posts the ante 60
+Diogo D.G.W: posts the ante 60
+Atajan7388: posts the ante 60
+fidel811: posts small blind 250
+Diogo D.G.W: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s Qs]
+Atajan7388: raises 500 to 1000
+luckynikNN is connected 
+luckynikNN is connected 
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: folds 
+fidel811: folds 
+Diogo D.G.W: folds 
+Uncalled bet (500) returned to Atajan7388
+Atajan7388 collected 1730 from pot
+*** SUMMARY ***
+Total pot 1730 | Rake 0 
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez (button) folded before Flop (didn't bet)
+Seat 6: fidel811 (small blind) folded before Flop
+Seat 7: Diogo D.G.W (big blind) folded before Flop
+Seat 8: Atajan7388 collected (1730)
+
+
+
+PokerStars Hand #255123716043: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (250/500) - 2025/03/03 18:42:08 WET [2025/03/03 13:42:08 ET]
+Table '3860731907 325' 8-max Seat #6 is the button
+Seat 1: luckynikNN (18546 in chips) 
+Seat 2: Kevin12345Mc (35311 in chips) 
+Seat 3: Tetipkr (23372 in chips) 
+Seat 4: playfullelf (46564 in chips) 
+Seat 5: ozanarez (33605 in chips) 
+Seat 6: fidel811 (19883 in chips) 
+Seat 7: Diogo D.G.W (28161 in chips) 
+Seat 8: Atajan7388 (21574 in chips) 
+luckynikNN: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Tetipkr: posts the ante 60
+playfullelf: posts the ante 60
+ozanarez: posts the ante 60
+fidel811: posts the ante 60
+Diogo D.G.W: posts the ante 60
+Atajan7388: posts the ante 60
+Diogo D.G.W: posts small blind 250
+Atajan7388: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 8c]
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: raises 500 to 1000
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: folds 
+Uncalled bet (500) returned to ozanarez
+ozanarez collected 1730 from pot
+ozanarez: doesn't show hand 
+*** SUMMARY ***
+Total pot 1730 | Rake 0 
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez collected (1730)
+Seat 6: fidel811 (button) folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W (small blind) folded before Flop
+Seat 8: Atajan7388 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255123722042: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (250/500) - 2025/03/03 18:42:29 WET [2025/03/03 13:42:29 ET]
+Table '3860731907 325' 8-max Seat #7 is the button
+Seat 1: luckynikNN (18486 in chips) 
+Seat 2: Kevin12345Mc (35251 in chips) 
+Seat 3: Tetipkr (23312 in chips) 
+Seat 4: playfullelf (46504 in chips) 
+Seat 5: ozanarez (34775 in chips) 
+Seat 6: fidel811 (19823 in chips) 
+Seat 7: Diogo D.G.W (27851 in chips) 
+Seat 8: Atajan7388 (21014 in chips) 
+luckynikNN: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Tetipkr: posts the ante 60
+playfullelf: posts the ante 60
+ozanarez: posts the ante 60
+fidel811: posts the ante 60
+Diogo D.G.W: posts the ante 60
+Atajan7388: posts the ante 60
+Atajan7388: posts small blind 250
+luckynikNN: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Kc]
+Kevin12345Mc: folds 
+Tetipkr: folds 
+playfullelf: raises 500 to 1000
+ozanarez: calls 1000
+fidel811: folds 
+Diogo D.G.W: raises 4750 to 5750
+Atajan7388: folds 
+luckynikNN: raises 11250 to 17000
+playfullelf: folds 
+ozanarez: folds 
+Diogo D.G.W: folds 
+Uncalled bet (11250) returned to luckynikNN
+luckynikNN collected 14230 from pot
+*** SUMMARY ***
+Total pot 14230 | Rake 0 
+Seat 1: luckynikNN (big blind) collected (14230)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop
+Seat 5: ozanarez folded before Flop
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W (button) folded before Flop
+Seat 8: Atajan7388 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255123743264: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (250/500) - 2025/03/03 18:43:45 WET [2025/03/03 13:43:45 ET]
+Table '3860731907 325' 8-max Seat #8 is the button
+Seat 1: luckynikNN (26906 in chips) 
+Seat 2: Kevin12345Mc (35191 in chips) 
+Seat 3: Tetipkr (23252 in chips) 
+Seat 4: playfullelf (45444 in chips) 
+Seat 5: ozanarez (33715 in chips) 
+Seat 6: fidel811 (19763 in chips) 
+Seat 7: Diogo D.G.W (22041 in chips) 
+Seat 8: Atajan7388 (20704 in chips) 
+luckynikNN: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Tetipkr: posts the ante 60
+playfullelf: posts the ante 60
+ozanarez: posts the ante 60
+fidel811: posts the ante 60
+Diogo D.G.W: posts the ante 60
+Atajan7388: posts the ante 60
+luckynikNN: posts small blind 250
+Kevin12345Mc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 3s]
+Tetipkr: folds 
+playfullelf: folds 
+ozanarez: raises 500 to 1000
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: calls 1000
+luckynikNN: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [8c Jc Tc]
+ozanarez: bets 808
+Atajan7388: calls 808
+*** TURN *** [8c Jc Tc] [2s]
+ozanarez: checks 
+Atajan7388: checks 
+*** RIVER *** [8c Jc Tc 2s] [6c]
+ozanarez: checks 
+Atajan7388: bets 1500
+ozanarez: folds 
+Uncalled bet (1500) returned to Atajan7388
+Atajan7388 collected 4846 from pot
+*** SUMMARY ***
+Total pot 4846 | Rake 0 
+Board [8c Jc Tc 2s 6c]
+Seat 1: luckynikNN (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded on the River
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 (button) collected (4846)
+
+
+
+PokerStars Hand #255123762401: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (250/500) - 2025/03/03 18:44:54 WET [2025/03/03 13:44:54 ET]
+Table '3860731907 325' 8-max Seat #1 is the button
+Seat 1: luckynikNN (26596 in chips) 
+Seat 2: Kevin12345Mc (34631 in chips) 
+Seat 3: Tetipkr (23192 in chips) 
+Seat 4: playfullelf (45384 in chips) 
+Seat 5: ozanarez (31847 in chips) 
+Seat 6: fidel811 (19703 in chips) 
+Seat 7: Diogo D.G.W (21981 in chips) 
+Seat 8: Atajan7388 (23682 in chips) 
+luckynikNN: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Tetipkr: posts the ante 60
+playfullelf: posts the ante 60
+ozanarez: posts the ante 60
+fidel811: posts the ante 60
+Diogo D.G.W: posts the ante 60
+Atajan7388: posts the ante 60
+Kevin12345Mc: posts small blind 250
+Tetipkr: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 5s]
+playfullelf: folds 
+ozanarez: folds 
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: folds 
+luckynikNN: raises 735 to 1235
+Kevin12345Mc: folds 
+Tetipkr: folds 
+Uncalled bet (735) returned to luckynikNN
+luckynikNN collected 1730 from pot
+luckynikNN: doesn't show hand 
+hdjgkfkgsdl is disconnected 
+*** SUMMARY ***
+Total pot 1730 | Rake 0 
+Seat 1: luckynikNN (button) collected (1730)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: Tetipkr (big blind) folded before Flop
+Seat 4: playfullelf folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123769014: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (300/600) - 2025/03/03 18:45:17 WET [2025/03/03 13:45:17 ET]
+Table '3860731907 325' 8-max Seat #2 is the button
+Seat 1: luckynikNN (27766 in chips) 
+Seat 2: Kevin12345Mc (34321 in chips) 
+Seat 3: Tetipkr (22632 in chips) 
+Seat 4: hdjgkfkgsdl (25000 in chips) 
+Seat 5: ozanarez (31787 in chips) 
+Seat 6: fidel811 (19643 in chips) 
+Seat 7: Diogo D.G.W (21921 in chips) 
+Seat 8: Atajan7388 (23622 in chips) 
+luckynikNN: posts the ante 75
+Kevin12345Mc: posts the ante 75
+Tetipkr: posts the ante 75
+hdjgkfkgsdl: posts the ante 75
+ozanarez: posts the ante 75
+fidel811: posts the ante 75
+Diogo D.G.W: posts the ante 75
+Atajan7388: posts the ante 75
+Tetipkr: posts small blind 300
+hdjgkfkgsdl: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Ks]
+ozanarez: raises 900 to 1500
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: folds 
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+hdjgkfkgsdl: calls 900
+*** FLOP *** [8d 2d 4s]
+hdjgkfkgsdl: checks 
+ozanarez: bets 1200
+hdjgkfkgsdl: folds 
+Uncalled bet (1200) returned to ozanarez
+ozanarez collected 3900 from pot
+ozanarez: doesn't show hand 
+*** SUMMARY ***
+Total pot 3900 | Rake 0 
+Board [8d 2d 4s]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: Tetipkr (small blind) folded before Flop
+Seat 4: hdjgkfkgsdl (big blind) folded on the Flop
+Seat 5: ozanarez collected (3900)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123780375: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (300/600) - 2025/03/03 18:45:57 WET [2025/03/03 13:45:57 ET]
+Table '3860731907 325' 8-max Seat #3 is the button
+Seat 1: luckynikNN (27691 in chips) 
+Seat 2: Kevin12345Mc (34246 in chips) 
+Seat 3: Tetipkr (22257 in chips) 
+Seat 4: hdjgkfkgsdl (23425 in chips) 
+Seat 5: ozanarez (34112 in chips) 
+Seat 6: fidel811 (19568 in chips) 
+Seat 7: Diogo D.G.W (21846 in chips) 
+Seat 8: Atajan7388 (23547 in chips) 
+luckynikNN: posts the ante 75
+Kevin12345Mc: posts the ante 75
+Tetipkr: posts the ante 75
+hdjgkfkgsdl: posts the ante 75
+ozanarez: posts the ante 75
+fidel811: posts the ante 75
+Diogo D.G.W: posts the ante 75
+Atajan7388: posts the ante 75
+hdjgkfkgsdl: posts small blind 300
+ozanarez: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Ts]
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: folds 
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+hdjgkfkgsdl: folds 
+Uncalled bet (300) returned to ozanarez
+ozanarez collected 1200 from pot
+ozanarez: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr (button) folded before Flop (didn't bet)
+Seat 4: hdjgkfkgsdl (small blind) folded before Flop
+Seat 5: ozanarez (big blind) collected (1200)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123786412: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (300/600) - 2025/03/03 18:46:19 WET [2025/03/03 13:46:19 ET]
+Table '3860731907 325' 8-max Seat #4 is the button
+Seat 1: luckynikNN (27616 in chips) 
+Seat 2: Kevin12345Mc (34171 in chips) 
+Seat 3: Tetipkr (22182 in chips) 
+Seat 4: hdjgkfkgsdl (23050 in chips) 
+Seat 5: ozanarez (34937 in chips) 
+Seat 6: fidel811 (19493 in chips) 
+Seat 7: Diogo D.G.W (21771 in chips) 
+Seat 8: Atajan7388 (23472 in chips) 
+luckynikNN: posts the ante 75
+Kevin12345Mc: posts the ante 75
+Tetipkr: posts the ante 75
+hdjgkfkgsdl: posts the ante 75
+ozanarez: posts the ante 75
+fidel811: posts the ante 75
+Diogo D.G.W: posts the ante 75
+Atajan7388: posts the ante 75
+ozanarez: posts small blind 300
+fidel811: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Ac]
+Diogo D.G.W: folds 
+Atajan7388: folds 
+luckynikNN: folds 
+Kevin12345Mc: raises 780 to 1380
+Tetipkr: folds 
+hdjgkfkgsdl: folds 
+ozanarez: raises 3960 to 5340
+fidel811: folds 
+Kevin12345Mc: calls 3960
+*** FLOP *** [9d Th 4h]
+ozanarez: bets 1500
+Kevin12345Mc: calls 1500
+*** TURN *** [9d Th 4h] [Kd]
+ozanarez: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [9d Th 4h Kd] [Js]
+ozanarez: bets 11400
+Kevin12345Mc: folds 
+Uncalled bet (11400) returned to ozanarez
+ozanarez collected 14880 from pot
+ozanarez: doesn't show hand 
+*** SUMMARY ***
+Total pot 14880 | Rake 0 
+Board [9d Th 4h Kd Js]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded on the River
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: hdjgkfkgsdl (button) folded before Flop (didn't bet)
+Seat 5: ozanarez (small blind) collected (14880)
+Seat 6: fidel811 (big blind) folded before Flop
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123808351: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (300/600) - 2025/03/03 18:47:36 WET [2025/03/03 13:47:36 ET]
+Table '3860731907 325' 8-max Seat #5 is the button
+Seat 1: luckynikNN (27541 in chips) 
+Seat 2: Kevin12345Mc (27256 in chips) 
+Seat 3: Tetipkr (22107 in chips) 
+Seat 4: hdjgkfkgsdl (22975 in chips) 
+Seat 5: ozanarez (42902 in chips) 
+Seat 6: fidel811 (18818 in chips) 
+Seat 7: Diogo D.G.W (21696 in chips) 
+Seat 8: Atajan7388 (23397 in chips) 
+luckynikNN: posts the ante 75
+Kevin12345Mc: posts the ante 75
+Tetipkr: posts the ante 75
+hdjgkfkgsdl: posts the ante 75
+ozanarez: posts the ante 75
+fidel811: posts the ante 75
+Diogo D.G.W: posts the ante 75
+Atajan7388: posts the ante 75
+fidel811: posts small blind 300
+Diogo D.G.W: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 2c]
+Atajan7388: raises 600 to 1200
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+hdjgkfkgsdl: folds 
+ozanarez: folds 
+fidel811: folds 
+Diogo D.G.W: calls 600
+*** FLOP *** [2h Ks Jh]
+Diogo D.G.W: checks 
+Atajan7388: bets 1200
+Diogo D.G.W: folds 
+Uncalled bet (1200) returned to Atajan7388
+Atajan7388 collected 3300 from pot
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [2h Ks Jh]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: hdjgkfkgsdl folded before Flop (didn't bet)
+Seat 5: ozanarez (button) folded before Flop (didn't bet)
+Seat 6: fidel811 (small blind) folded before Flop
+Seat 7: Diogo D.G.W (big blind) folded on the Flop
+Seat 8: Atajan7388 collected (3300)
+
+
+
+PokerStars Hand #255123818814: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (300/600) - 2025/03/03 18:48:13 WET [2025/03/03 13:48:13 ET]
+Table '3860731907 325' 8-max Seat #6 is the button
+Seat 1: luckynikNN (27466 in chips) 
+Seat 2: Kevin12345Mc (27181 in chips) 
+Seat 3: Tetipkr (22032 in chips) 
+Seat 4: hdjgkfkgsdl (22900 in chips) 
+Seat 5: ozanarez (42827 in chips) 
+Seat 6: fidel811 (18443 in chips) 
+Seat 7: Diogo D.G.W (20421 in chips) 
+Seat 8: Atajan7388 (25422 in chips) 
+luckynikNN: posts the ante 75
+Kevin12345Mc: posts the ante 75
+Tetipkr: posts the ante 75
+hdjgkfkgsdl: posts the ante 75
+ozanarez: posts the ante 75
+fidel811: posts the ante 75
+Diogo D.G.W: posts the ante 75
+Atajan7388: posts the ante 75
+Diogo D.G.W: posts small blind 300
+Atajan7388: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 7s]
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+hdjgkfkgsdl: folds 
+ozanarez: folds 
+fidel811: folds 
+Diogo D.G.W: folds 
+Uncalled bet (300) returned to Atajan7388
+Atajan7388 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: hdjgkfkgsdl folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 (button) folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W (small blind) folded before Flop
+Seat 8: Atajan7388 (big blind) collected (1200)
+
+
+
+PokerStars Hand #255123823588: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (300/600) - 2025/03/03 18:48:30 WET [2025/03/03 13:48:30 ET]
+Table '3860731907 325' 8-max Seat #7 is the button
+Seat 1: luckynikNN (27391 in chips) 
+Seat 2: Kevin12345Mc (27106 in chips) 
+Seat 3: Tetipkr (21957 in chips) 
+Seat 4: hdjgkfkgsdl (22825 in chips) 
+Seat 5: ozanarez (42752 in chips) 
+Seat 6: fidel811 (18368 in chips) 
+Seat 7: Diogo D.G.W (20046 in chips) 
+Seat 8: Atajan7388 (26247 in chips) 
+luckynikNN: posts the ante 75
+Kevin12345Mc: posts the ante 75
+Tetipkr: posts the ante 75
+hdjgkfkgsdl: posts the ante 75
+ozanarez: posts the ante 75
+fidel811: posts the ante 75
+Diogo D.G.W: posts the ante 75
+Atajan7388: posts the ante 75
+Atajan7388: posts small blind 300
+luckynikNN: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 5d]
+Kevin12345Mc: folds 
+Tetipkr: folds 
+hdjgkfkgsdl: folds 
+ozanarez: folds 
+fidel811: folds 
+Diogo D.G.W: raises 600 to 1200
+Atajan7388: folds 
+luckynikNN: calls 600
+*** FLOP *** [Ac Jh Kh]
+luckynikNN: checks 
+Diogo D.G.W: checks 
+*** TURN *** [Ac Jh Kh] [Td]
+luckynikNN: checks 
+Diogo D.G.W: checks 
+*** RIVER *** [Ac Jh Kh Td] [3c]
+luckynikNN: checks 
+Diogo D.G.W: bets 1815
+luckynikNN: folds 
+Uncalled bet (1815) returned to Diogo D.G.W
+Diogo D.G.W collected 3300 from pot
+Diogo D.G.W: doesn't show hand 
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [Ac Jh Kh Td 3c]
+Seat 1: luckynikNN (big blind) folded on the River
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: hdjgkfkgsdl folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W (button) collected (3300)
+Seat 8: Atajan7388 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255123834816: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (300/600) - 2025/03/03 18:49:10 WET [2025/03/03 13:49:10 ET]
+Table '3860731907 325' 8-max Seat #8 is the button
+Seat 1: luckynikNN (26116 in chips) 
+Seat 2: Kevin12345Mc (27031 in chips) 
+Seat 3: Tetipkr (21882 in chips) 
+Seat 4: hdjgkfkgsdl (22750 in chips) 
+Seat 5: ozanarez (42677 in chips) 
+Seat 6: fidel811 (18293 in chips) 
+Seat 7: Diogo D.G.W (22071 in chips) 
+Seat 8: Atajan7388 (25872 in chips) 
+luckynikNN: posts the ante 75
+Kevin12345Mc: posts the ante 75
+Tetipkr: posts the ante 75
+hdjgkfkgsdl: posts the ante 75
+ozanarez: posts the ante 75
+fidel811: posts the ante 75
+Diogo D.G.W: posts the ante 75
+Atajan7388: posts the ante 75
+luckynikNN: posts small blind 300
+Kevin12345Mc: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 4d]
+Tetipkr: folds 
+hdjgkfkgsdl: folds 
+ozanarez: raises 600 to 1200
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: folds 
+luckynikNN: folds 
+Kevin12345Mc: calls 600
+*** FLOP *** [4h 7h 3c]
+Kevin12345Mc: checks 
+ozanarez: checks 
+*** TURN *** [4h 7h 3c] [2s]
+Kevin12345Mc: bets 2778
+ozanarez: folds 
+Uncalled bet (2778) returned to Kevin12345Mc
+Kevin12345Mc collected 3300 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 3300 | Rake 0 
+Board [4h 7h 3c 2s]
+Seat 1: luckynikNN (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) collected (3300)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: hdjgkfkgsdl folded before Flop (didn't bet)
+Seat 5: ozanarez folded on the Turn
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123858803: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (300/600) - 2025/03/03 18:50:35 WET [2025/03/03 13:50:35 ET]
+Table '3860731907 325' 8-max Seat #1 is the button
+Seat 1: luckynikNN (25741 in chips) 
+Seat 2: Kevin12345Mc (29056 in chips) 
+Seat 3: Tetipkr (21807 in chips) 
+Seat 4: hdjgkfkgsdl (22675 in chips) 
+Seat 5: ozanarez (41402 in chips) 
+Seat 6: fidel811 (18218 in chips) 
+Seat 7: Diogo D.G.W (21996 in chips) 
+Seat 8: Atajan7388 (25797 in chips) 
+luckynikNN: posts the ante 75
+Kevin12345Mc: posts the ante 75
+Tetipkr: posts the ante 75
+hdjgkfkgsdl: posts the ante 75
+ozanarez: posts the ante 75
+fidel811: posts the ante 75
+Diogo D.G.W: posts the ante 75
+Atajan7388: posts the ante 75
+Kevin12345Mc: posts small blind 300
+Tetipkr: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 3h]
+hdjgkfkgsdl: folds 
+ozanarez: folds 
+fidel811: folds 
+Diogo D.G.W: raises 600 to 1200
+Atajan7388: folds 
+luckynikNN is disconnected 
+luckynikNN is connected 
+luckynikNN is connected 
+luckynikNN: folds 
+Kevin12345Mc: calls 900
+Tetipkr: folds 
+*** FLOP *** [Jd Tc Ks]
+Kevin12345Mc: checks 
+Diogo D.G.W: bets 1980
+Kevin12345Mc: folds 
+Uncalled bet (1980) returned to Diogo D.G.W
+Diogo D.G.W collected 3600 from pot
+Diogo D.G.W: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Board [Jd Tc Ks]
+Seat 1: luckynikNN (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded on the Flop
+Seat 3: Tetipkr (big blind) folded before Flop
+Seat 4: hdjgkfkgsdl folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W collected (3600)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123872108: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (300/600) - 2025/03/03 18:51:23 WET [2025/03/03 13:51:23 ET]
+Table '3860731907 325' 8-max Seat #2 is the button
+Seat 1: luckynikNN (25666 in chips) 
+Seat 2: Kevin12345Mc (27781 in chips) 
+Seat 3: Tetipkr (21132 in chips) 
+Seat 4: hdjgkfkgsdl (22600 in chips) 
+Seat 5: ozanarez (41327 in chips) 
+Seat 6: fidel811 (18143 in chips) 
+Seat 7: Diogo D.G.W (24321 in chips) 
+Seat 8: Atajan7388 (25722 in chips) 
+luckynikNN: posts the ante 75
+Kevin12345Mc: posts the ante 75
+Tetipkr: posts the ante 75
+hdjgkfkgsdl: posts the ante 75
+ozanarez: posts the ante 75
+fidel811: posts the ante 75
+Diogo D.G.W: posts the ante 75
+Atajan7388: posts the ante 75
+Tetipkr: posts small blind 300
+hdjgkfkgsdl: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Jc]
+ozanarez: folds 
+fidel811 has timed out
+fidel811: folds 
+fidel811 is sitting out
+Diogo D.G.W: folds 
+Atajan7388: folds 
+luckynikNN: folds 
+Kevin12345Mc: raises 720 to 1320
+Tetipkr: calls 1020
+fidel811 has returned
+hdjgkfkgsdl: calls 720
+*** FLOP *** [Tc Ks 6c]
+Tetipkr: checks 
+hdjgkfkgsdl: checks 
+Kevin12345Mc: bets 1505
+Tetipkr: calls 1505
+hdjgkfkgsdl: folds 
+*** TURN *** [Tc Ks 6c] [8d]
+Tetipkr: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Tc Ks 6c 8d] [7d]
+Tetipkr: bets 4740
+Kevin12345Mc: folds 
+Uncalled bet (4740) returned to Tetipkr
+Tetipkr collected 7570 from pot
+Tetipkr: doesn't show hand 
+*** SUMMARY ***
+Total pot 7570 | Rake 0 
+Board [Tc Ks 6c 8d 7d]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded on the River
+Seat 3: Tetipkr (small blind) collected (7570)
+Seat 4: hdjgkfkgsdl (big blind) folded on the Flop
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255123912201: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (350/700) - 2025/03/03 18:53:47 WET [2025/03/03 13:53:47 ET]
+Table '3860731907 325' 8-max Seat #3 is the button
+Seat 1: luckynikNN (25591 in chips) 
+Seat 2: Kevin12345Mc (24881 in chips) 
+Seat 3: Tetipkr (25802 in chips) 
+Seat 4: hdjgkfkgsdl (21205 in chips) 
+Seat 5: ozanarez (41252 in chips) 
+Seat 6: fidel811 (18068 in chips) 
+Seat 7: Diogo D.G.W (24246 in chips) 
+Seat 8: Atajan7388 (25647 in chips) 
+luckynikNN: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Tetipkr: posts the ante 90
+hdjgkfkgsdl: posts the ante 90
+ozanarez: posts the ante 90
+fidel811: posts the ante 90
+Diogo D.G.W: posts the ante 90
+Atajan7388: posts the ante 90
+hdjgkfkgsdl: posts small blind 350
+ozanarez: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Kc]
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: raises 700 to 1400
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+hdjgkfkgsdl: folds 
+ozanarez: calls 700
+*** FLOP *** [8c 2d 8s]
+ozanarez: checks 
+Atajan7388: checks 
+*** TURN *** [8c 2d 8s] [Js]
+ozanarez: checks 
+Atajan7388: checks 
+*** RIVER *** [8c 2d 8s Js] [5h]
+ozanarez: bets 700
+Atajan7388: calls 700
+*** SHOW DOWN ***
+ozanarez: shows [3h 3c] (two pair, Eights and Threes)
+Atajan7388: mucks hand 
+ozanarez collected 5270 from pot
+*** SUMMARY ***
+Total pot 5270 | Rake 0 
+Board [8c 2d 8s Js 5h]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr (button) folded before Flop (didn't bet)
+Seat 4: hdjgkfkgsdl (small blind) folded before Flop
+Seat 5: ozanarez (big blind) showed [3h 3c] and won (5270) with two pair, Eights and Threes
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 mucked [9d Ad]
+
+
+
+PokerStars Hand #255123927859: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (350/700) - 2025/03/03 18:54:43 WET [2025/03/03 13:54:43 ET]
+Table '3860731907 325' 8-max Seat #4 is the button
+Seat 1: luckynikNN (25501 in chips) 
+Seat 2: Kevin12345Mc (24791 in chips) 
+Seat 3: Tetipkr (25712 in chips) 
+Seat 4: hdjgkfkgsdl (20765 in chips) 
+Seat 5: ozanarez (44332 in chips) 
+Seat 6: fidel811 (17978 in chips) 
+Seat 7: Diogo D.G.W (24156 in chips) 
+Seat 8: Atajan7388 (23457 in chips) 
+luckynikNN: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Tetipkr: posts the ante 90
+hdjgkfkgsdl: posts the ante 90
+ozanarez: posts the ante 90
+fidel811: posts the ante 90
+Diogo D.G.W: posts the ante 90
+Atajan7388: posts the ante 90
+ozanarez: posts small blind 350
+fidel811: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 2h]
+Diogo D.G.W: folds 
+Atajan7388: folds 
+luckynikNN: raises 1400 to 2100
+Kevin12345Mc: folds 
+Tetipkr: folds 
+hdjgkfkgsdl: folds 
+ozanarez: folds 
+fidel811: calls 1400
+*** FLOP *** [3s 3h 6s]
+fidel811: checks 
+luckynikNN: bets 2100
+fidel811: folds 
+Uncalled bet (2100) returned to luckynikNN
+luckynikNN collected 5270 from pot
+luckynikNN: doesn't show hand 
+*** SUMMARY ***
+Total pot 5270 | Rake 0 
+Board [3s 3h 6s]
+Seat 1: luckynikNN collected (5270)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: hdjgkfkgsdl (button) folded before Flop (didn't bet)
+Seat 5: ozanarez (small blind) folded before Flop
+Seat 6: fidel811 (big blind) folded on the Flop
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124023628: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (350/700) - 2025/03/03 19:02:08 WET [2025/03/03 14:02:08 ET]
+Table '3860731907 325' 8-max Seat #5 is the button
+Seat 1: luckynikNN (28581 in chips) 
+Seat 2: Kevin12345Mc (24701 in chips) 
+Seat 3: Tetipkr (25622 in chips) 
+Seat 4: gruenweiss203 (25000 in chips) 
+Seat 5: ozanarez (43892 in chips) 
+Seat 6: fidel811 (15788 in chips) 
+Seat 7: Diogo D.G.W (24066 in chips) 
+Seat 8: Atajan7388 (23367 in chips) 
+luckynikNN: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Tetipkr: posts the ante 90
+gruenweiss203: posts the ante 90
+ozanarez: posts the ante 90
+fidel811: posts the ante 90
+Diogo D.G.W: posts the ante 90
+Atajan7388: posts the ante 90
+fidel811: posts small blind 350
+Diogo D.G.W: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 4d]
+Atajan7388: folds 
+luckynikNN: folds 
+Kevin12345Mc: folds 
+fidel811 is disconnected 
+Tetipkr: raises 700 to 1400
+gruenweiss203: folds 
+ozanarez: raises 2800 to 4200
+fidel811: folds 
+Diogo D.G.W: folds 
+Tetipkr: folds 
+Uncalled bet (2800) returned to ozanarez
+ozanarez collected 4570 from pot
+ozanarez: doesn't show hand 
+*** SUMMARY ***
+Total pot 4570 | Rake 0 
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop
+Seat 4: gruenweiss203 folded before Flop (didn't bet)
+Seat 5: ozanarez (button) collected (4570)
+Seat 6: fidel811 (small blind) folded before Flop
+Seat 7: Diogo D.G.W (big blind) folded before Flop
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124037737: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (350/700) - 2025/03/03 19:02:58 WET [2025/03/03 14:02:58 ET]
+Table '3860731907 325' 8-max Seat #6 is the button
+Seat 1: luckynikNN (28491 in chips) 
+Seat 2: Kevin12345Mc (24611 in chips) 
+Seat 3: Tetipkr (24132 in chips) 
+Seat 4: gruenweiss203 (24910 in chips) 
+Seat 5: ozanarez (46972 in chips) 
+Seat 6: fidel811 (15348 in chips) 
+Seat 7: Diogo D.G.W (23276 in chips) 
+Seat 8: Atajan7388 (23277 in chips) 
+luckynikNN: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Tetipkr: posts the ante 90
+gruenweiss203: posts the ante 90
+ozanarez: posts the ante 90
+fidel811: posts the ante 90
+Diogo D.G.W: posts the ante 90
+Atajan7388: posts the ante 90
+Diogo D.G.W: posts small blind 350
+Atajan7388: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 9c]
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+gruenweiss203: calls 700
+ozanarez: raises 1750 to 2450
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: folds 
+gruenweiss203: calls 1750
+*** FLOP *** [Qh 5d Ts]
+gruenweiss203: bets 2800
+ozanarez: calls 2800
+*** TURN *** [Qh 5d Ts] [4d]
+gruenweiss203: bets 19570 and is all-in
+ozanarez: folds 
+Uncalled bet (19570) returned to gruenweiss203
+gruenweiss203 collected 12270 from pot
+*** SUMMARY ***
+Total pot 12270 | Rake 0 
+Board [Qh 5d Ts 4d]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: gruenweiss203 collected (12270)
+Seat 5: ozanarez folded on the Turn
+Seat 6: fidel811 (button) folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W (small blind) folded before Flop
+Seat 8: Atajan7388 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255124065924: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (350/700) - 2025/03/03 19:04:38 WET [2025/03/03 14:04:38 ET]
+Table '3860731907 325' 8-max Seat #7 is the button
+Seat 1: luckynikNN (28401 in chips) 
+Seat 2: Kevin12345Mc (24521 in chips) 
+Seat 3: Tetipkr (24042 in chips) 
+Seat 4: gruenweiss203 (31840 in chips) 
+Seat 5: ozanarez (41632 in chips) 
+Seat 6: fidel811 (15258 in chips) 
+Seat 7: Diogo D.G.W (22836 in chips) 
+Seat 8: Atajan7388 (22487 in chips) 
+luckynikNN: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Tetipkr: posts the ante 90
+gruenweiss203: posts the ante 90
+ozanarez: posts the ante 90
+fidel811: posts the ante 90
+Diogo D.G.W: posts the ante 90
+Atajan7388: posts the ante 90
+Atajan7388: posts small blind 350
+luckynikNN: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Tc]
+Kevin12345Mc: raises 840 to 1540
+Tetipkr: folds 
+gruenweiss203: folds 
+ozanarez: folds 
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: folds 
+luckynikNN: calls 840
+*** FLOP *** [8c Ad Js]
+luckynikNN: checks 
+Kevin12345Mc: checks 
+*** TURN *** [8c Ad Js] [4h]
+luckynikNN: bets 700
+Kevin12345Mc: calls 700
+*** RIVER *** [8c Ad Js 4h] [8d]
+luckynikNN: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+luckynikNN: shows [Jh 2h] (two pair, Jacks and Eights)
+Kevin12345Mc: mucks hand 
+luckynikNN collected 5550 from pot
+*** SUMMARY ***
+Total pot 5550 | Rake 0 
+Board [8c Ad Js 4h 8d]
+Seat 1: luckynikNN (big blind) showed [Jh 2h] and won (5550) with two pair, Jacks and Eights
+Seat 2: Kevin12345Mc mucked [Qc Tc]
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: gruenweiss203 folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W (button) folded before Flop (didn't bet)
+Seat 8: Atajan7388 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255124081525: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (350/700) - 2025/03/03 19:05:32 WET [2025/03/03 14:05:32 ET]
+Table '3860731907 325' 8-max Seat #8 is the button
+Seat 1: luckynikNN (31621 in chips) 
+Seat 2: Kevin12345Mc (22191 in chips) 
+Seat 3: Tetipkr (23952 in chips) 
+Seat 4: gruenweiss203 (31750 in chips) 
+Seat 5: ozanarez (41542 in chips) 
+Seat 6: fidel811 (15168 in chips) 
+Seat 7: Diogo D.G.W (22746 in chips) 
+Seat 8: Atajan7388 (22047 in chips) 
+luckynikNN: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Tetipkr: posts the ante 90
+gruenweiss203: posts the ante 90
+ozanarez: posts the ante 90
+fidel811: posts the ante 90
+Diogo D.G.W: posts the ante 90
+Atajan7388: posts the ante 90
+luckynikNN: posts small blind 350
+Kevin12345Mc: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Ac]
+Tetipkr: folds 
+gruenweiss203: folds 
+ozanarez: folds 
+fidel811 has timed out
+fidel811: folds 
+fidel811 is sitting out
+fidel811 has returned
+Diogo D.G.W: raises 700 to 1400
+Atajan7388: calls 1400
+luckynikNN: raises 3500 to 4900
+Kevin12345Mc: folds 
+Diogo D.G.W: folds 
+Atajan7388: calls 3500
+*** FLOP *** [4d 2c 8c]
+luckynikNN: bets 4200
+Atajan7388: calls 4200
+*** TURN *** [4d 2c 8c] [Ts]
+luckynikNN: bets 7000
+Atajan7388: calls 7000
+*** RIVER *** [4d 2c 8c Ts] [Qh]
+luckynikNN: bets 9800
+Atajan7388: folds 
+Uncalled bet (9800) returned to luckynikNN
+luckynikNN collected 35020 from pot
+luckynikNN: doesn't show hand 
+*** SUMMARY ***
+Total pot 35020 | Rake 0 
+Board [4d 2c 8c Ts Qh]
+Seat 1: luckynikNN (small blind) collected (35020)
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: gruenweiss203 folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop (didn't bet)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop
+Seat 8: Atajan7388 (button) folded on the River
+
+
+
+PokerStars Hand #255124110148: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (350/700) - 2025/03/03 19:07:12 WET [2025/03/03 14:07:12 ET]
+Table '3860731907 325' 8-max Seat #1 is the button
+Seat 1: luckynikNN (50451 in chips) 
+Seat 2: Kevin12345Mc (21401 in chips) 
+Seat 3: Tetipkr (23862 in chips) 
+Seat 4: gruenweiss203 (31660 in chips) 
+Seat 5: ozanarez (41452 in chips) 
+Seat 6: fidel811 (15078 in chips) 
+Seat 7: Diogo D.G.W (21256 in chips) 
+Seat 8: Atajan7388 (5857 in chips) 
+luckynikNN: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Tetipkr: posts the ante 90
+gruenweiss203: posts the ante 90
+ozanarez: posts the ante 90
+fidel811: posts the ante 90
+Diogo D.G.W: posts the ante 90
+Atajan7388: posts the ante 90
+Kevin12345Mc: posts small blind 350
+Tetipkr: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Ac]
+gruenweiss203: folds 
+ozanarez: raises 700 to 1400
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: raises 4367 to 5767 and is all-in
+luckynikNN: folds 
+Kevin12345Mc: calls 5417
+Tetipkr: folds 
+ozanarez: folds 
+*** FLOP *** [2c Jh 7d]
+*** TURN *** [2c Jh 7d] [Kd]
+*** RIVER *** [2c Jh 7d Kd] [5h]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [4c Ac] (high card Ace)
+Atajan7388: shows [9d 9h] (a pair of Nines)
+Atajan7388 collected 14354 from pot
+*** SUMMARY ***
+Total pot 14354 | Rake 0 
+Board [2c Jh 7d Kd 5h]
+Seat 1: luckynikNN (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) showed [4c Ac] and lost with high card Ace
+Seat 3: Tetipkr (big blind) folded before Flop
+Seat 4: gruenweiss203 folded before Flop (didn't bet)
+Seat 5: ozanarez folded before Flop
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 showed [9d 9h] and won (14354) with a pair of Nines
+
+
+
+PokerStars Hand #255124122291: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (350/700) - 2025/03/03 19:07:54 WET [2025/03/03 14:07:54 ET]
+Table '3860731907 325' 8-max Seat #2 is the button
+Seat 1: luckynikNN (50361 in chips) 
+Seat 2: Kevin12345Mc (15544 in chips) 
+Seat 3: Tetipkr (23072 in chips) 
+Seat 4: gruenweiss203 (31570 in chips) 
+Seat 5: ozanarez (39962 in chips) 
+Seat 6: fidel811 (14988 in chips) 
+Seat 7: Diogo D.G.W (21166 in chips) 
+Seat 8: Atajan7388 (14354 in chips) 
+luckynikNN: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Tetipkr: posts the ante 90
+gruenweiss203: posts the ante 90
+ozanarez: posts the ante 90
+fidel811: posts the ante 90
+Diogo D.G.W: posts the ante 90
+Atajan7388: posts the ante 90
+Tetipkr: posts small blind 350
+gruenweiss203: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 4c]
+ozanarez: raises 700 to 1400
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: folds 
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+gruenweiss203: folds 
+Uncalled bet (700) returned to ozanarez
+ozanarez collected 2470 from pot
+ozanarez: doesn't show hand 
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: Tetipkr (small blind) folded before Flop
+Seat 4: gruenweiss203 (big blind) folded before Flop
+Seat 5: ozanarez collected (2470)
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124127810: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (400/800) - 2025/03/03 19:08:13 WET [2025/03/03 14:08:13 ET]
+Table '3860731907 325' 8-max Seat #3 is the button
+Seat 1: luckynikNN (50271 in chips) 
+Seat 2: Kevin12345Mc (15454 in chips) 
+Seat 3: Tetipkr (22632 in chips) 
+Seat 4: gruenweiss203 (30780 in chips) 
+Seat 5: ozanarez (41642 in chips) 
+Seat 6: fidel811 (14898 in chips) 
+Seat 7: Diogo D.G.W (21076 in chips) 
+Seat 8: Atajan7388 (14264 in chips) 
+luckynikNN: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Tetipkr: posts the ante 100
+gruenweiss203: posts the ante 100
+ozanarez: posts the ante 100
+fidel811: posts the ante 100
+Diogo D.G.W: posts the ante 100
+Atajan7388: posts the ante 100
+gruenweiss203: posts small blind 400
+ozanarez: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac Qc]
+fidel811: folds 
+Diogo D.G.W: folds 
+Atajan7388: raises 800 to 1600
+luckynikNN: folds 
+Kevin12345Mc: raises 13754 to 15354 and is all-in
+Tetipkr: folds 
+gruenweiss203: folds 
+ozanarez: folds 
+Atajan7388: calls 12564 and is all-in
+Uncalled bet (1190) returned to Kevin12345Mc
+*** FLOP *** [8s Td Kd]
+*** TURN *** [8s Td Kd] [4h]
+*** RIVER *** [8s Td Kd 4h] [8c]
+*** SHOW DOWN ***
+Atajan7388: shows [9h Kh] (two pair, Kings and Eights)
+Kevin12345Mc: shows [Ac Qc] (a pair of Eights)
+Atajan7388 collected 30328 from pot
+*** SUMMARY ***
+Total pot 30328 | Rake 0 
+Board [8s Td Kd 4h 8c]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc showed [Ac Qc] and lost with a pair of Eights
+Seat 3: Tetipkr (button) folded before Flop (didn't bet)
+Seat 4: gruenweiss203 (small blind) folded before Flop
+Seat 5: ozanarez (big blind) folded before Flop
+Seat 6: fidel811 folded before Flop (didn't bet)
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 showed [9h Kh] and won (30328) with two pair, Kings and Eights
+
+
+
+PokerStars Hand #255124139563: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (400/800) - 2025/03/03 19:08:54 WET [2025/03/03 14:08:54 ET]
+Table '3860731907 325' 8-max Seat #4 is the button
+Seat 1: luckynikNN (50171 in chips) 
+Seat 2: Kevin12345Mc (1190 in chips) 
+Seat 3: Tetipkr (22532 in chips) 
+Seat 4: gruenweiss203 (30280 in chips) 
+Seat 5: ozanarez (40742 in chips) 
+Seat 6: fidel811 (14798 in chips) 
+Seat 7: Diogo D.G.W (20976 in chips) 
+Seat 8: Atajan7388 (30328 in chips) 
+luckynikNN: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Tetipkr: posts the ante 100
+gruenweiss203: posts the ante 100
+ozanarez: posts the ante 100
+fidel811: posts the ante 100
+Diogo D.G.W: posts the ante 100
+Atajan7388: posts the ante 100
+ozanarez: posts small blind 400
+fidel811: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 9d]
+Diogo D.G.W: folds 
+Atajan7388: raises 800 to 1600
+luckynikNN: folds 
+Kevin12345Mc: folds 
+Tetipkr: folds 
+gruenweiss203: calls 1600
+ozanarez: folds 
+fidel811: folds 
+*** FLOP *** [Kh 3s 2s]
+Atajan7388: bets 1800
+gruenweiss203: raises 3400 to 5200
+Atajan7388: raises 23428 to 28628 and is all-in
+gruenweiss203: calls 23380 and is all-in
+Uncalled bet (48) returned to Atajan7388
+*** TURN *** [Kh 3s 2s] [7d]
+*** RIVER *** [Kh 3s 2s 7d] [8s]
+*** SHOW DOWN ***
+Atajan7388: shows [Kd Qs] (a pair of Kings)
+gruenweiss203: shows [Ks Ad] (a pair of Kings - Ace kicker)
+gruenweiss203 collected 62360 from pot
+*** SUMMARY ***
+Total pot 62360 | Rake 0 
+Board [Kh 3s 2s 7d 8s]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: gruenweiss203 (button) showed [Ks Ad] and won (62360) with a pair of Kings
+Seat 5: ozanarez (small blind) folded before Flop
+Seat 6: fidel811 (big blind) folded before Flop
+Seat 7: Diogo D.G.W folded before Flop (didn't bet)
+Seat 8: Atajan7388 showed [Kd Qs] and lost with a pair of Kings
+
+
+
+PokerStars Hand #255124152159: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (400/800) - 2025/03/03 19:09:37 WET [2025/03/03 14:09:37 ET]
+Table '3860731907 325' 8-max Seat #5 is the button
+Seat 1: luckynikNN (50071 in chips) 
+Seat 2: Kevin12345Mc (1090 in chips) 
+Seat 3: Tetipkr (22432 in chips) 
+Seat 4: gruenweiss203 (62360 in chips) 
+Seat 5: ozanarez (40242 in chips) 
+Seat 6: fidel811 (13898 in chips) 
+Seat 7: Diogo D.G.W (20876 in chips) 
+Seat 8: Atajan7388 (48 in chips) 
+luckynikNN: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Tetipkr: posts the ante 100
+gruenweiss203: posts the ante 100
+ozanarez: posts the ante 100
+fidel811: posts the ante 100
+Diogo D.G.W: posts the ante 100
+Atajan7388: posts the ante 48 and is all-in
+fidel811: posts small blind 400
+Diogo D.G.W: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Jh]
+luckynikNN: folds 
+Kevin12345Mc: raises 190 to 990 and is all-in
+Tetipkr: folds 
+gruenweiss203: folds 
+ozanarez: folds 
+fidel811: folds 
+Diogo D.G.W: calls 190
+*** FLOP *** [3s Ah Kc]
+*** TURN *** [3s Ah Kc] [5c]
+*** RIVER *** [3s Ah Kc 5c] [Ad]
+*** SHOW DOWN ***
+Diogo D.G.W: shows [7c Ac] (three of a kind, Aces)
+Kevin12345Mc: shows [7s Jh] (a pair of Aces)
+Diogo D.G.W collected 2744 from side pot
+Atajan7388: shows [6h 8h] (a pair of Aces)
+Diogo D.G.W collected 384 from main pot
+Kevin12345Mc finished the tournament
+Atajan7388 finished the tournament
+Generalpde is disconnected 
+*** SUMMARY ***
+Total pot 3128 Main pot 384. Side pot 2744. | Rake 0 
+Board [3s Ah Kc 5c Ad]
+Seat 1: luckynikNN folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc showed [7s Jh] and lost with a pair of Aces
+Seat 3: Tetipkr folded before Flop (didn't bet)
+Seat 4: gruenweiss203 folded before Flop (didn't bet)
+Seat 5: ozanarez (button) folded before Flop (didn't bet)
+Seat 6: fidel811 (small blind) folded before Flop
+Seat 7: Diogo D.G.W (big blind) showed [7c Ac] and won (3128) with three of a kind, Aces
+Seat 8: Atajan7388 showed [6h 8h] and lost with a pair of Aces
+
+
+
+PokerStars Hand #255124165943: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (400/800) - 2025/03/03 19:10:25 WET [2025/03/03 14:10:25 ET]
+Table '3860731907 205' 8-max Seat #5 is the button
+Seat 1: jack3jb (29350 in chips) 
+Seat 2: moment9999 (7015 in chips) 
+Seat 3: highxACE (34046 in chips) 
+Seat 4: Kevin12345Mc (25000 in chips) 
+Seat 5: Eliseu00 (41912 in chips) 
+Seat 6: pretinhouva (24270 in chips) 
+Seat 7: STASK85 (44822 in chips) 
+Seat 8: HaWooli (54769 in chips) 
+jack3jb: posts the ante 100
+moment9999: posts the ante 100
+highxACE: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Eliseu00: posts the ante 100
+pretinhouva: posts the ante 100
+STASK85: posts the ante 100
+HaWooli: posts the ante 100
+pretinhouva: posts small blind 400
+STASK85: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Jh]
+HaWooli: folds 
+jack3jb: folds 
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: raises 880 to 1680
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: calls 880
+*** FLOP *** [2c Js 6s]
+STASK85: checks 
+Kevin12345Mc: bets 1505
+STASK85: calls 1505
+*** TURN *** [2c Js 6s] [Jc]
+STASK85: checks 
+Kevin12345Mc: bets 5796
+STASK85: folds 
+Uncalled bet (5796) returned to Kevin12345Mc
+Kevin12345Mc collected 7570 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 7570 | Rake 0 
+Board [2c Js 6s Jc]
+Seat 1: jack3jb folded before Flop (didn't bet)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (7570)
+Seat 5: Eliseu00 (button) folded before Flop (didn't bet)
+Seat 6: pretinhouva (small blind) folded before Flop
+Seat 7: STASK85 (big blind) folded on the Turn
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124184730: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (400/800) - 2025/03/03 19:11:30 WET [2025/03/03 14:11:30 ET]
+Table '3860731907 205' 8-max Seat #6 is the button
+Seat 1: jack3jb (29250 in chips) 
+Seat 2: moment9999 (6915 in chips) 
+Seat 3: highxACE (33946 in chips) 
+Seat 4: Kevin12345Mc (29285 in chips) 
+Seat 5: Eliseu00 (41812 in chips) 
+Seat 6: pretinhouva (23770 in chips) 
+Seat 7: STASK85 (41537 in chips) 
+Seat 8: HaWooli (54669 in chips) 
+jack3jb: posts the ante 100
+moment9999: posts the ante 100
+highxACE: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Eliseu00: posts the ante 100
+pretinhouva: posts the ante 100
+STASK85: posts the ante 100
+HaWooli: posts the ante 100
+STASK85: posts small blind 400
+HaWooli: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Ks]
+jack3jb: folds 
+moment9999: folds 
+highxACE: raises 960 to 1760
+Kevin12345Mc: folds 
+Eliseu00: calls 1760
+pretinhouva: folds 
+STASK85: calls 1360
+HaWooli: calls 960
+*** FLOP *** [9h 2h 5d]
+STASK85: bets 2400
+HaWooli: folds 
+highxACE: folds 
+Eliseu00: raises 5600 to 8000
+STASK85: folds 
+Uncalled bet (5600) returned to Eliseu00
+Eliseu00 collected 12640 from pot
+Eliseu00: doesn't show hand 
+*** SUMMARY ***
+Total pot 12640 | Rake 0 
+Board [9h 2h 5d]
+Seat 1: jack3jb folded before Flop (didn't bet)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 collected (12640)
+Seat 6: pretinhouva (button) folded before Flop (didn't bet)
+Seat 7: STASK85 (small blind) folded on the Flop
+Seat 8: HaWooli (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255124206700: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (400/800) - 2025/03/03 19:12:46 WET [2025/03/03 14:12:46 ET]
+Table '3860731907 205' 8-max Seat #7 is the button
+Seat 1: jack3jb (29150 in chips) 
+Seat 2: moment9999 (6815 in chips) 
+Seat 3: highxACE (32086 in chips) 
+Seat 4: Kevin12345Mc (29185 in chips) 
+Seat 5: Eliseu00 (50192 in chips) 
+Seat 6: pretinhouva (23670 in chips) 
+Seat 7: STASK85 (37277 in chips) 
+Seat 8: HaWooli (52809 in chips) 
+jack3jb: posts the ante 100
+moment9999: posts the ante 100
+highxACE: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Eliseu00: posts the ante 100
+pretinhouva: posts the ante 100
+STASK85: posts the ante 100
+HaWooli: posts the ante 100
+HaWooli: posts small blind 400
+jack3jb: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s As]
+moment9999: folds 
+highxACE: raises 960 to 1760
+Kevin12345Mc: calls 1760
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: calls 1360
+jack3jb: folds 
+*** FLOP *** [2s 8s Tc]
+HaWooli: checks 
+highxACE: checks 
+Kevin12345Mc: checks 
+*** TURN *** [2s 8s Tc] [5s]
+HaWooli: checks 
+highxACE: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [2s 8s Tc 5s] [Jh]
+HaWooli: checks 
+highxACE: checks 
+Kevin12345Mc: bets 6880
+HaWooli: folds 
+highxACE: folds 
+Uncalled bet (6880) returned to Kevin12345Mc
+Kevin12345Mc collected 6880 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 6880 | Rake 0 
+Board [2s 8s Tc 5s Jh]
+Seat 1: jack3jb (big blind) folded before Flop
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded on the River
+Seat 4: Kevin12345Mc collected (6880)
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 (button) folded before Flop (didn't bet)
+Seat 8: HaWooli (small blind) folded on the River
+
+
+
+PokerStars Hand #255124228474: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (400/800) - 2025/03/03 19:14:01 WET [2025/03/03 14:14:01 ET]
+Table '3860731907 205' 8-max Seat #8 is the button
+Seat 1: jack3jb (28250 in chips) 
+Seat 2: moment9999 (6715 in chips) 
+Seat 3: highxACE (30226 in chips) 
+Seat 4: Kevin12345Mc (34205 in chips) 
+Seat 5: Eliseu00 (50092 in chips) 
+Seat 6: pretinhouva (23570 in chips) 
+Seat 7: STASK85 (37177 in chips) 
+Seat 8: HaWooli (50949 in chips) 
+jack3jb: posts the ante 100
+moment9999: posts the ante 100
+highxACE: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Eliseu00: posts the ante 100
+pretinhouva: posts the ante 100
+STASK85: posts the ante 100
+HaWooli: posts the ante 100
+jack3jb: posts small blind 400
+moment9999: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 4s]
+highxACE: raises 960 to 1760
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: calls 1760
+STASK85: folds 
+HaWooli: folds 
+jack3jb: folds 
+moment9999: folds 
+*** FLOP *** [5h Tc 3c]
+highxACE: bets 2400
+pretinhouva: folds 
+Uncalled bet (2400) returned to highxACE
+highxACE collected 5520 from pot
+highxACE: doesn't show hand 
+*** SUMMARY ***
+Total pot 5520 | Rake 0 
+Board [5h Tc 3c]
+Seat 1: jack3jb (small blind) folded before Flop
+Seat 2: moment9999 (big blind) folded before Flop
+Seat 3: highxACE collected (5520)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva folded on the Flop
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124242539: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (400/800) - 2025/03/03 19:14:50 WET [2025/03/03 14:14:50 ET]
+Table '3860731907 205' 8-max Seat #1 is the button
+Seat 1: jack3jb (27750 in chips) 
+Seat 2: moment9999 (5815 in chips) 
+Seat 3: highxACE (33886 in chips) 
+Seat 4: Kevin12345Mc (34105 in chips) 
+Seat 5: Eliseu00 (49992 in chips) 
+Seat 6: pretinhouva (21710 in chips) 
+Seat 7: STASK85 (37077 in chips) 
+Seat 8: HaWooli (50849 in chips) 
+jack3jb: posts the ante 100
+moment9999: posts the ante 100
+highxACE: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Eliseu00: posts the ante 100
+pretinhouva: posts the ante 100
+STASK85: posts the ante 100
+HaWooli: posts the ante 100
+moment9999: posts small blind 400
+highxACE: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Jc]
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: folds 
+jack3jb: calls 800
+moment9999: folds 
+highxACE: checks 
+*** FLOP *** [Kh Th 9h]
+highxACE: checks 
+jack3jb: bets 800
+highxACE: calls 800
+*** TURN *** [Kh Th 9h] [6d]
+highxACE: checks 
+jack3jb: bets 800
+highxACE: raises 2400 to 3200
+jack3jb: calls 2400
+*** RIVER *** [Kh Th 9h 6d] [6s]
+highxACE: bets 8800
+jack3jb: folds 
+Uncalled bet (8800) returned to highxACE
+highxACE collected 10800 from pot
+highxACE: doesn't show hand 
+*** SUMMARY ***
+Total pot 10800 | Rake 0 
+Board [Kh Th 9h 6d 6s]
+Seat 1: jack3jb (button) folded on the River
+Seat 2: moment9999 (small blind) folded before Flop
+Seat 3: highxACE (big blind) collected (10800)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124265902: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (450/900) - 2025/03/03 19:16:10 WET [2025/03/03 14:16:10 ET]
+Table '3860731907 205' 8-max Seat #2 is the button
+Seat 1: jack3jb (22850 in chips) 
+Seat 2: moment9999 (5315 in chips) 
+Seat 3: highxACE (39786 in chips) 
+Seat 4: Kevin12345Mc (34005 in chips) 
+Seat 5: Eliseu00 (49892 in chips) 
+Seat 6: pretinhouva (21610 in chips) 
+Seat 7: STASK85 (36977 in chips) 
+Seat 8: HaWooli (50749 in chips) 
+jack3jb: posts the ante 115
+moment9999: posts the ante 115
+highxACE: posts the ante 115
+Kevin12345Mc: posts the ante 115
+Eliseu00: posts the ante 115
+pretinhouva: posts the ante 115
+STASK85: posts the ante 115
+HaWooli: posts the ante 115
+highxACE: posts small blind 450
+Kevin12345Mc: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 2c]
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: raises 1800 to 2700
+HaWooli: folds 
+jack3jb: folds 
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Uncalled bet (1800) returned to STASK85
+STASK85 collected 3170 from pot
+STASK85: doesn't show hand 
+*** SUMMARY ***
+Total pot 3170 | Rake 0 
+Seat 1: jack3jb folded before Flop (didn't bet)
+Seat 2: moment9999 (button) folded before Flop (didn't bet)
+Seat 3: highxACE (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 collected (3170)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124274612: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (450/900) - 2025/03/03 19:16:40 WET [2025/03/03 14:16:40 ET]
+Table '3860731907 205' 8-max Seat #3 is the button
+Seat 1: jack3jb (22735 in chips) 
+Seat 2: moment9999 (5200 in chips) 
+Seat 3: highxACE (39221 in chips) 
+Seat 4: Kevin12345Mc (32990 in chips) 
+Seat 5: Eliseu00 (49777 in chips) 
+Seat 6: pretinhouva (21495 in chips) 
+Seat 7: STASK85 (39132 in chips) 
+Seat 8: HaWooli (50634 in chips) 
+jack3jb: posts the ante 115
+moment9999: posts the ante 115
+highxACE: posts the ante 115
+Kevin12345Mc: posts the ante 115
+Eliseu00: posts the ante 115
+pretinhouva: posts the ante 115
+STASK85: posts the ante 115
+HaWooli: posts the ante 115
+Kevin12345Mc: posts small blind 450
+Eliseu00: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 3d]
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: folds 
+jack3jb: calls 900
+moment9999: raises 4070 to 4970
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+jack3jb: calls 4070
+*** FLOP *** [6s 4h Ac]
+jack3jb: checks 
+moment9999: bets 115 and is all-in
+jack3jb: calls 115
+*** TURN *** [6s 4h Ac] [Kd]
+*** RIVER *** [6s 4h Ac Kd] [Jh]
+*** SHOW DOWN ***
+jack3jb: shows [7c 6c] (a pair of Sixes)
+moment9999: shows [8s Ad] (a pair of Aces)
+moment9999 collected 12440 from pot
+*** SUMMARY ***
+Total pot 12440 | Rake 0 
+Board [6s 4h Ac Kd Jh]
+Seat 1: jack3jb showed [7c 6c] and lost with a pair of Sixes
+Seat 2: moment9999 showed [8s Ad] and won (12440) with a pair of Aces
+Seat 3: highxACE (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Eliseu00 (big blind) folded before Flop
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124287385: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (450/900) - 2025/03/03 19:17:23 WET [2025/03/03 14:17:23 ET]
+Table '3860731907 205' 8-max Seat #4 is the button
+Seat 1: jack3jb (17535 in chips) 
+Seat 2: moment9999 (12440 in chips) 
+Seat 3: highxACE (39106 in chips) 
+Seat 4: Kevin12345Mc (32425 in chips) 
+Seat 5: Eliseu00 (48762 in chips) 
+Seat 6: pretinhouva (21380 in chips) 
+Seat 7: STASK85 (39017 in chips) 
+Seat 8: HaWooli (50519 in chips) 
+jack3jb: posts the ante 115
+moment9999: posts the ante 115
+highxACE: posts the ante 115
+Kevin12345Mc: posts the ante 115
+Eliseu00: posts the ante 115
+pretinhouva: posts the ante 115
+STASK85: posts the ante 115
+HaWooli: posts the ante 115
+Eliseu00: posts small blind 450
+pretinhouva: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Jd]
+STASK85: calls 900
+HaWooli: folds 
+jack3jb: calls 900
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: calls 900
+Eliseu00: raises 5400 to 6300
+pretinhouva: folds 
+STASK85: calls 5400
+jack3jb: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [Jh 2s 9c]
+Eliseu00: bets 3600
+STASK85: calls 3600
+*** TURN *** [Jh 2s 9c] [9d]
+Eliseu00: bets 38747 and is all-in
+STASK85: calls 29002 and is all-in
+Uncalled bet (9745) returned to Eliseu00
+*** RIVER *** [Jh 2s 9c 9d] [8c]
+*** SHOW DOWN ***
+Eliseu00: shows [Qd Tc] (a straight, Eight to Queen)
+STASK85: shows [8h 8s] (a full house, Eights full of Nines)
+STASK85 collected 81424 from pot
+*** SUMMARY ***
+Total pot 81424 | Rake 0 
+Board [Jh 2s 9c 9d 8c]
+Seat 1: jack3jb folded before Flop
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop
+Seat 5: Eliseu00 (small blind) showed [Qd Tc] and lost with a straight, Eight to Queen
+Seat 6: pretinhouva (big blind) folded before Flop
+Seat 7: STASK85 showed [8h 8s] and won (81424) with a full house, Eights full of Nines
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124310444: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (450/900) - 2025/03/03 19:18:42 WET [2025/03/03 14:18:42 ET]
+Table '3860731907 205' 8-max Seat #5 is the button
+Seat 1: jack3jb (16520 in chips) 
+Seat 2: moment9999 (12325 in chips) 
+Seat 3: highxACE (38991 in chips) 
+Seat 4: Kevin12345Mc (31410 in chips) 
+Seat 5: Eliseu00 (9745 in chips) 
+Seat 6: pretinhouva (20365 in chips) 
+Seat 7: STASK85 (81424 in chips) 
+Seat 8: HaWooli (50404 in chips) 
+jack3jb: posts the ante 115
+moment9999: posts the ante 115
+highxACE: posts the ante 115
+Kevin12345Mc: posts the ante 115
+Eliseu00: posts the ante 115
+pretinhouva: posts the ante 115
+STASK85: posts the ante 115
+HaWooli: posts the ante 115
+pretinhouva: posts small blind 450
+STASK85: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 6d]
+HaWooli: raises 1008 to 1908
+jack3jb: folds 
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: folds 
+Uncalled bet (1008) returned to HaWooli
+HaWooli collected 3170 from pot
+HaWooli: doesn't show hand 
+*** SUMMARY ***
+Total pot 3170 | Rake 0 
+Seat 1: jack3jb folded before Flop (didn't bet)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 (button) folded before Flop (didn't bet)
+Seat 6: pretinhouva (small blind) folded before Flop
+Seat 7: STASK85 (big blind) folded before Flop
+Seat 8: HaWooli collected (3170)
+
+
+
+PokerStars Hand #255124322122: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (450/900) - 2025/03/03 19:19:22 WET [2025/03/03 14:19:22 ET]
+Table '3860731907 205' 8-max Seat #6 is the button
+Seat 1: jack3jb (16405 in chips) 
+Seat 2: moment9999 (12210 in chips) 
+Seat 3: highxACE (38876 in chips) 
+Seat 4: Kevin12345Mc (31295 in chips) 
+Seat 5: Eliseu00 (9630 in chips) 
+Seat 6: pretinhouva (19800 in chips) 
+Seat 7: STASK85 (80409 in chips) 
+Seat 8: HaWooli (52559 in chips) 
+jack3jb: posts the ante 115
+moment9999: posts the ante 115
+highxACE: posts the ante 115
+Kevin12345Mc: posts the ante 115
+Eliseu00: posts the ante 115
+pretinhouva: posts the ante 115
+STASK85: posts the ante 115
+HaWooli: posts the ante 115
+STASK85: posts small blind 450
+HaWooli: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Td]
+jack3jb: folds 
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: raises 8100 to 9000
+pretinhouva: raises 10685 to 19685 and is all-in
+STASK85: folds 
+HaWooli: folds 
+Eliseu00: calls 515 and is all-in
+Uncalled bet (10170) returned to pretinhouva
+*** FLOP *** [Ts 3h 9s]
+*** TURN *** [Ts 3h 9s] [Jc]
+*** RIVER *** [Ts 3h 9s Jc] [2s]
+*** SHOW DOWN ***
+Eliseu00: shows [7c Tc] (a pair of Tens)
+pretinhouva: shows [As Qh] (high card Ace)
+Eliseu00 collected 21300 from pot
+*** SUMMARY ***
+Total pot 21300 | Rake 0 
+Board [Ts 3h 9s Jc 2s]
+Seat 1: jack3jb folded before Flop (didn't bet)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 showed [7c Tc] and won (21300) with a pair of Tens
+Seat 6: pretinhouva (button) showed [As Qh] and lost with high card Ace
+Seat 7: STASK85 (small blind) folded before Flop
+Seat 8: HaWooli (big blind) folded before Flop
+
+
+
+PokerStars Hand #255124335209: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (450/900) - 2025/03/03 19:20:07 WET [2025/03/03 14:20:07 ET]
+Table '3860731907 205' 8-max Seat #7 is the button
+Seat 1: jack3jb (16290 in chips) 
+Seat 2: moment9999 (12095 in chips) 
+Seat 3: highxACE (38761 in chips) 
+Seat 4: Kevin12345Mc (31180 in chips) 
+Seat 5: Eliseu00 (21300 in chips) 
+Seat 6: pretinhouva (10170 in chips) 
+Seat 7: STASK85 (79844 in chips) 
+Seat 8: HaWooli (51544 in chips) 
+jack3jb: posts the ante 115
+moment9999: posts the ante 115
+highxACE: posts the ante 115
+Kevin12345Mc: posts the ante 115
+Eliseu00: posts the ante 115
+pretinhouva: posts the ante 115
+STASK85: posts the ante 115
+HaWooli: posts the ante 115
+HaWooli: posts small blind 450
+jack3jb: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 8h]
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: raises 900 to 1800
+STASK85: folds 
+HaWooli: folds 
+jack3jb: calls 900
+*** FLOP *** [9h Jc Ac]
+jack3jb: checks 
+pretinhouva: bets 1193
+jack3jb: calls 1193
+*** TURN *** [9h Jc Ac] [2c]
+jack3jb: checks 
+pretinhouva: bets 7062 and is all-in
+jack3jb: folds 
+Uncalled bet (7062) returned to pretinhouva
+pretinhouva collected 7356 from pot
+pretinhouva: doesn't show hand 
+*** SUMMARY ***
+Total pot 7356 | Rake 0 
+Board [9h Jc Ac 2c]
+Seat 1: jack3jb (big blind) folded on the Turn
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva collected (7356)
+Seat 7: STASK85 (button) folded before Flop (didn't bet)
+Seat 8: HaWooli (small blind) folded before Flop
+
+
+
+PokerStars Hand #255124356180: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (450/900) - 2025/03/03 19:21:18 WET [2025/03/03 14:21:18 ET]
+Table '3860731907 205' 8-max Seat #8 is the button
+Seat 1: jack3jb (13182 in chips) 
+Seat 2: moment9999 (11980 in chips) 
+Seat 3: highxACE (38646 in chips) 
+Seat 4: Kevin12345Mc (31065 in chips) 
+Seat 5: Eliseu00 (21185 in chips) 
+Seat 6: pretinhouva (14418 in chips) 
+Seat 7: STASK85 (79729 in chips) 
+Seat 8: HaWooli (50979 in chips) 
+jack3jb: posts the ante 115
+moment9999: posts the ante 115
+highxACE: posts the ante 115
+Kevin12345Mc: posts the ante 115
+Eliseu00: posts the ante 115
+pretinhouva: posts the ante 115
+STASK85: posts the ante 115
+HaWooli: posts the ante 115
+jack3jb: posts small blind 450
+moment9999: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 7s]
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: raises 900 to 1800
+STASK85: folds 
+HaWooli: folds 
+jack3jb: calls 1350
+moment9999: calls 900
+*** FLOP *** [Th 3s Js]
+jack3jb: checks 
+moment9999: checks 
+pretinhouva: checks 
+*** TURN *** [Th 3s Js] [Qd]
+jack3jb: bets 11267 and is all-in
+moment9999: folds 
+pretinhouva: folds 
+Uncalled bet (11267) returned to jack3jb
+jack3jb collected 6320 from pot
+*** SUMMARY ***
+Total pot 6320 | Rake 0 
+Board [Th 3s Js Qd]
+Seat 1: jack3jb (small blind) collected (6320)
+Seat 2: moment9999 (big blind) folded on the Turn
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva folded on the Turn
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124377280: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (450/900) - 2025/03/03 19:22:30 WET [2025/03/03 14:22:30 ET]
+Table '3860731907 205' 8-max Seat #1 is the button
+Seat 1: jack3jb (17587 in chips) 
+Seat 2: moment9999 (10065 in chips) 
+Seat 3: highxACE (38531 in chips) 
+Seat 4: Kevin12345Mc (30950 in chips) 
+Seat 5: Eliseu00 (21070 in chips) 
+Seat 6: pretinhouva (12503 in chips) 
+Seat 7: STASK85 (79614 in chips) 
+Seat 8: HaWooli (50864 in chips) 
+jack3jb: posts the ante 115
+moment9999: posts the ante 115
+highxACE: posts the ante 115
+Kevin12345Mc: posts the ante 115
+Eliseu00: posts the ante 115
+pretinhouva: posts the ante 115
+STASK85: posts the ante 115
+HaWooli: posts the ante 115
+moment9999: posts small blind 450
+highxACE: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 5s]
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: folds 
+jack3jb: calls 900
+moment9999: folds 
+highxACE: checks 
+*** FLOP *** [Jh 6d Js]
+highxACE: checks 
+jack3jb: bets 900
+highxACE: folds 
+Uncalled bet (900) returned to jack3jb
+jack3jb collected 3170 from pot
+*** SUMMARY ***
+Total pot 3170 | Rake 0 
+Board [Jh 6d Js]
+Seat 1: jack3jb (button) collected (3170)
+Seat 2: moment9999 (small blind) folded before Flop
+Seat 3: highxACE (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124394861: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (450/900) - 2025/03/03 19:23:30 WET [2025/03/03 14:23:30 ET]
+Table '3860731907 205' 8-max Seat #2 is the button
+Seat 1: jack3jb (19742 in chips) 
+Seat 2: moment9999 (9500 in chips) 
+Seat 3: highxACE (37516 in chips) 
+Seat 4: Kevin12345Mc (30835 in chips) 
+Seat 5: Eliseu00 (20955 in chips) 
+Seat 6: pretinhouva (12388 in chips) 
+Seat 7: STASK85 (79499 in chips) 
+Seat 8: HaWooli (50749 in chips) 
+jack3jb: posts the ante 115
+moment9999: posts the ante 115
+highxACE: posts the ante 115
+Kevin12345Mc: posts the ante 115
+Eliseu00: posts the ante 115
+pretinhouva: posts the ante 115
+STASK85: posts the ante 115
+HaWooli: posts the ante 115
+highxACE: posts small blind 450
+Kevin12345Mc: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad Qc]
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: raises 1008 to 1908
+jack3jb: calls 1908
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: raises 28812 to 30720 and is all-in
+HaWooli: folds 
+jack3jb: folds 
+Uncalled bet (28812) returned to Kevin12345Mc
+Kevin12345Mc collected 7094 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 7094 | Rake 0 
+Seat 1: jack3jb folded before Flop
+Seat 2: moment9999 (button) folded before Flop (didn't bet)
+Seat 3: highxACE (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) collected (7094)
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop
+
+
+
+PokerStars Hand #255124409648: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/03/03 19:24:20 WET [2025/03/03 14:24:20 ET]
+Table '3860731907 205' 8-max Seat #3 is the button
+Seat 1: jack3jb (17719 in chips) 
+Seat 2: moment9999 (9385 in chips) 
+Seat 3: highxACE (36951 in chips) 
+Seat 4: Kevin12345Mc (35906 in chips) 
+Seat 5: Eliseu00 (20840 in chips) 
+Seat 6: pretinhouva (12273 in chips) 
+Seat 7: STASK85 (79384 in chips) 
+Seat 8: HaWooli (48726 in chips) 
+jack3jb: posts the ante 125
+moment9999: posts the ante 125
+highxACE: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Eliseu00: posts the ante 125
+pretinhouva: posts the ante 125
+STASK85: posts the ante 125
+HaWooli: posts the ante 125
+Kevin12345Mc: posts small blind 500
+Eliseu00: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 3c]
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: raises 1120 to 2120
+jack3jb: calls 2120
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+*** FLOP *** [9s Ks 7h]
+HaWooli: bets 2022
+jack3jb: calls 2022
+*** TURN *** [9s Ks 7h] [Ts]
+HaWooli: checks 
+jack3jb: bets 1000
+HaWooli: folds 
+Uncalled bet (1000) returned to jack3jb
+jack3jb collected 10784 from pot
+*** SUMMARY ***
+Total pot 10784 | Rake 0 
+Board [9s Ks 7h Ts]
+Seat 1: jack3jb collected (10784)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Eliseu00 (big blind) folded before Flop
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli folded on the Turn
+
+
+
+PokerStars Hand #255124427000: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/03/03 19:25:20 WET [2025/03/03 14:25:20 ET]
+Table '3860731907 205' 8-max Seat #4 is the button
+Seat 1: jack3jb (24236 in chips) 
+Seat 2: moment9999 (9260 in chips) 
+Seat 3: highxACE (36826 in chips) 
+Seat 4: Kevin12345Mc (35281 in chips) 
+Seat 5: Eliseu00 (19715 in chips) 
+Seat 6: pretinhouva (12148 in chips) 
+Seat 7: STASK85 (79259 in chips) 
+Seat 8: HaWooli (44459 in chips) 
+jack3jb: posts the ante 125
+moment9999: posts the ante 125
+highxACE: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Eliseu00: posts the ante 125
+pretinhouva: posts the ante 125
+STASK85: posts the ante 125
+HaWooli: posts the ante 125
+Eliseu00: posts small blind 500
+pretinhouva: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Ad]
+STASK85: folds 
+HaWooli: folds 
+jack3jb: raises 23111 to 24111 and is all-in
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: folds 
+Uncalled bet (23111) returned to jack3jb
+jack3jb collected 3500 from pot
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: jack3jb collected (3500)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: Eliseu00 (small blind) folded before Flop
+Seat 6: pretinhouva (big blind) folded before Flop
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124435460: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/03/03 19:25:49 WET [2025/03/03 14:25:49 ET]
+Table '3860731907 205' 8-max Seat #5 is the button
+Seat 1: jack3jb (26611 in chips) 
+Seat 2: moment9999 (9135 in chips) 
+Seat 3: highxACE (36701 in chips) 
+Seat 4: Kevin12345Mc (35156 in chips) 
+Seat 5: Eliseu00 (19090 in chips) 
+Seat 6: pretinhouva (11023 in chips) 
+Seat 7: STASK85 (79134 in chips) 
+Seat 8: HaWooli (44334 in chips) 
+jack3jb: posts the ante 125
+moment9999: posts the ante 125
+highxACE: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Eliseu00: posts the ante 125
+pretinhouva: posts the ante 125
+STASK85: posts the ante 125
+HaWooli: posts the ante 125
+pretinhouva: posts small blind 500
+STASK85: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s Jd]
+HaWooli: folds 
+jack3jb: folds 
+moment9999: folds 
+highxACE: raises 1200 to 2200
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: calls 1200
+*** FLOP *** [4s 2d 3c]
+STASK85: checks 
+highxACE: bets 3009
+STASK85: calls 3009
+*** TURN *** [4s 2d 3c] [8s]
+STASK85: checks 
+highxACE: bets 8000
+STASK85: folds 
+Uncalled bet (8000) returned to highxACE
+highxACE collected 11918 from pot
+highxACE: doesn't show hand 
+*** SUMMARY ***
+Total pot 11918 | Rake 0 
+Board [4s 2d 3c 8s]
+Seat 1: jack3jb folded before Flop (didn't bet)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE collected (11918)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 (button) folded before Flop (didn't bet)
+Seat 6: pretinhouva (small blind) folded before Flop
+Seat 7: STASK85 (big blind) folded on the Turn
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124450541: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/03/03 19:26:40 WET [2025/03/03 14:26:40 ET]
+Table '3860731907 205' 8-max Seat #6 is the button
+Seat 1: jack3jb (26486 in chips) 
+Seat 2: moment9999 (9010 in chips) 
+Seat 3: highxACE (43285 in chips) 
+Seat 4: Kevin12345Mc (35031 in chips) 
+Seat 5: Eliseu00 (18965 in chips) 
+Seat 6: pretinhouva (10398 in chips) 
+Seat 7: STASK85 (73800 in chips) 
+Seat 8: HaWooli (44209 in chips) 
+jack3jb: posts the ante 125
+moment9999: posts the ante 125
+highxACE: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Eliseu00: posts the ante 125
+pretinhouva: posts the ante 125
+STASK85: posts the ante 125
+HaWooli: posts the ante 125
+STASK85: posts small blind 500
+HaWooli: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Js]
+jack3jb: calls 1000
+moment9999: raises 7885 to 8885 and is all-in
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: folds 
+jack3jb: folds 
+Uncalled bet (7885) returned to moment9999
+moment9999 collected 4500 from pot
+moment9999: doesn't show hand 
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Seat 1: jack3jb folded before Flop
+Seat 2: moment9999 collected (4500)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva (button) folded before Flop (didn't bet)
+Seat 7: STASK85 (small blind) folded before Flop
+Seat 8: HaWooli (big blind) folded before Flop
+
+
+
+PokerStars Hand #255124462835: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/03/03 19:27:23 WET [2025/03/03 14:27:23 ET]
+Table '3860731907 205' 8-max Seat #7 is the button
+Seat 1: jack3jb (25361 in chips) 
+Seat 2: moment9999 (12385 in chips) 
+Seat 3: highxACE (43160 in chips) 
+Seat 4: Kevin12345Mc (34906 in chips) 
+Seat 5: Eliseu00 (18840 in chips) 
+Seat 6: pretinhouva (10273 in chips) 
+Seat 7: STASK85 (73175 in chips) 
+Seat 8: HaWooli (43084 in chips) 
+jack3jb: posts the ante 125
+moment9999: posts the ante 125
+highxACE: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Eliseu00: posts the ante 125
+pretinhouva: posts the ante 125
+STASK85: posts the ante 125
+HaWooli: posts the ante 125
+HaWooli: posts small blind 500
+jack3jb: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 2d]
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: raises 2000 to 3000
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: folds 
+jack3jb: calls 2000
+*** FLOP *** [Td 8c Ah]
+jack3jb: checks 
+Eliseu00: bets 2000
+jack3jb: calls 2000
+*** TURN *** [Td 8c Ah] [Ts]
+jack3jb: checks 
+Eliseu00: checks 
+*** RIVER *** [Td 8c Ah Ts] [9h]
+jack3jb: bets 1000
+Eliseu00: raises 4000 to 5000
+jack3jb: folds 
+Uncalled bet (4000) returned to Eliseu00
+Eliseu00 collected 13500 from pot
+Eliseu00: doesn't show hand 
+*** SUMMARY ***
+Total pot 13500 | Rake 0 
+Board [Td 8c Ah Ts 9h]
+Seat 1: jack3jb (big blind) folded on the River
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 collected (13500)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 (button) folded before Flop (didn't bet)
+Seat 8: HaWooli (small blind) folded before Flop
+
+
+
+PokerStars Hand #255124483968: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/03/03 19:28:36 WET [2025/03/03 14:28:36 ET]
+Table '3860731907 205' 8-max Seat #8 is the button
+Seat 1: jack3jb (19236 in chips) 
+Seat 2: moment9999 (12260 in chips) 
+Seat 3: highxACE (43035 in chips) 
+Seat 4: Kevin12345Mc (34781 in chips) 
+Seat 5: Eliseu00 (26215 in chips) 
+Seat 6: pretinhouva (10148 in chips) 
+Seat 7: STASK85 (73050 in chips) 
+Seat 8: HaWooli (42459 in chips) 
+jack3jb: posts the ante 125
+moment9999: posts the ante 125
+highxACE: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Eliseu00: posts the ante 125
+pretinhouva: posts the ante 125
+STASK85: posts the ante 125
+HaWooli: posts the ante 125
+jack3jb: posts small blind 500
+moment9999: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd Qc]
+highxACE: folds 
+Kevin12345Mc: raises 1200 to 2200
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: calls 2200
+jack3jb: calls 1700
+moment9999: folds 
+*** FLOP *** [Ac Qs 8h]
+jack3jb: checks 
+Kevin12345Mc: checks 
+HaWooli: checks 
+*** TURN *** [Ac Qs 8h] [Js]
+jack3jb: bets 1000
+Kevin12345Mc: calls 1000
+HaWooli: folds 
+*** RIVER *** [Ac Qs 8h Js] [5h]
+jack3jb: bets 1000
+Kevin12345Mc: calls 1000
+*** SHOW DOWN ***
+jack3jb: shows [Jc 6h] (a pair of Jacks)
+Kevin12345Mc: shows [Kd Qc] (a pair of Queens)
+Kevin12345Mc collected 12600 from pot
+*** SUMMARY ***
+Total pot 12600 | Rake 0 
+Board [Ac Qs 8h Js 5h]
+Seat 1: jack3jb (small blind) showed [Jc 6h] and lost with a pair of Jacks
+Seat 2: moment9999 (big blind) folded before Flop
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc showed [Kd Qc] and won (12600) with a pair of Queens
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli (button) folded on the Turn
+
+
+
+PokerStars Hand #255124505545: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/03/03 19:29:51 WET [2025/03/03 14:29:51 ET]
+Table '3860731907 205' 8-max Seat #1 is the button
+Seat 1: jack3jb (14911 in chips) 
+Seat 2: moment9999 (11135 in chips) 
+Seat 3: highxACE (42910 in chips) 
+Seat 4: Kevin12345Mc (43056 in chips) 
+Seat 5: Eliseu00 (26090 in chips) 
+Seat 6: pretinhouva (10023 in chips) 
+Seat 7: STASK85 (72925 in chips) 
+Seat 8: HaWooli (40134 in chips) 
+jack3jb: posts the ante 125
+moment9999: posts the ante 125
+highxACE: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Eliseu00: posts the ante 125
+pretinhouva: posts the ante 125
+STASK85: posts the ante 125
+HaWooli: posts the ante 125
+moment9999: posts small blind 500
+highxACE: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 2s]
+Kevin12345Mc: folds 
+Eliseu00: raises 1160 to 2160
+pretinhouva: folds 
+STASK85: calls 2160
+HaWooli: folds 
+jack3jb: folds 
+moment9999: folds 
+highxACE: calls 1160
+*** FLOP *** [Td Kd 8c]
+highxACE: checks 
+Eliseu00: bets 1676
+STASK85: folds 
+highxACE: folds 
+Uncalled bet (1676) returned to Eliseu00
+Eliseu00 collected 7980 from pot
+Eliseu00: doesn't show hand 
+*** SUMMARY ***
+Total pot 7980 | Rake 0 
+Board [Td Kd 8c]
+Seat 1: jack3jb (button) folded before Flop (didn't bet)
+Seat 2: moment9999 (small blind) folded before Flop
+Seat 3: highxACE (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 collected (7980)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 folded on the Flop
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124520536: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/03/03 19:30:41 WET [2025/03/03 14:30:41 ET]
+Table '3860731907 205' 8-max Seat #2 is the button
+Seat 1: jack3jb (14786 in chips) 
+Seat 2: moment9999 (10510 in chips) 
+Seat 3: highxACE (40625 in chips) 
+Seat 4: Kevin12345Mc (42931 in chips) 
+Seat 5: Eliseu00 (31785 in chips) 
+Seat 6: pretinhouva (9898 in chips) 
+Seat 7: STASK85 (70640 in chips) 
+Seat 8: HaWooli (40009 in chips) 
+jack3jb: posts the ante 125
+moment9999: posts the ante 125
+highxACE: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Eliseu00: posts the ante 125
+pretinhouva: posts the ante 125
+STASK85: posts the ante 125
+HaWooli: posts the ante 125
+highxACE: posts small blind 500
+Kevin12345Mc: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 5s]
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: folds 
+jack3jb: calls 1000
+moment9999: raises 9385 to 10385 and is all-in
+highxACE: folds 
+Kevin12345Mc: folds 
+jack3jb: calls 9385
+*** FLOP *** [9d Jh Jd]
+*** TURN *** [9d Jh Jd] [6s]
+*** RIVER *** [9d Jh Jd 6s] [9h]
+*** SHOW DOWN ***
+jack3jb: shows [Td Ks] (two pair, Jacks and Nines)
+moment9999: shows [8c Ac] (two pair, Jacks and Nines - Ace kicker)
+moment9999 collected 23270 from pot
+*** SUMMARY ***
+Total pot 23270 | Rake 0 
+Board [9d Jh Jd 6s 9h]
+Seat 1: jack3jb showed [Td Ks] and lost with two pair, Jacks and Nines
+Seat 2: moment9999 (button) showed [8c Ac] and won (23270) with two pair, Jacks and Nines
+Seat 3: highxACE (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124532944: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (500/1000) - 2025/03/03 19:31:24 WET [2025/03/03 14:31:24 ET]
+Table '3860731907 205' 8-max Seat #3 is the button
+Seat 1: jack3jb (4276 in chips) 
+Seat 2: moment9999 (23270 in chips) 
+Seat 3: highxACE (40000 in chips) 
+Seat 4: Kevin12345Mc (41806 in chips) 
+Seat 5: Eliseu00 (31660 in chips) 
+Seat 6: pretinhouva (9773 in chips) 
+Seat 7: STASK85 (70515 in chips) 
+Seat 8: HaWooli (39884 in chips) 
+jack3jb: posts the ante 125
+moment9999: posts the ante 125
+highxACE: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Eliseu00: posts the ante 125
+pretinhouva: posts the ante 125
+STASK85: posts the ante 125
+HaWooli: posts the ante 125
+Kevin12345Mc: posts small blind 500
+Eliseu00: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 8h]
+pretinhouva: folds 
+STASK85: calls 1000
+HaWooli: folds 
+jack3jb: calls 1000
+moment9999: raises 22145 to 23145 and is all-in
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+STASK85: folds 
+jack3jb: calls 3151 and is all-in
+Uncalled bet (18994) returned to moment9999
+*** FLOP *** [Kh 4h 3d]
+*** TURN *** [Kh 4h 3d] [5c]
+*** RIVER *** [Kh 4h 3d 5c] [7c]
+*** SHOW DOWN ***
+jack3jb: shows [9c 8d] (high card King)
+moment9999: shows [Ad Jc] (high card Ace)
+moment9999 collected 11802 from pot
+jack3jb finished the tournament
+DamSaï is disconnected 
+*** SUMMARY ***
+Total pot 11802 | Rake 0 
+Board [Kh 4h 3d 5c 7c]
+Seat 1: jack3jb showed [9c 8d] and lost with high card King
+Seat 2: moment9999 showed [Ad Jc] and won (11802) with high card Ace
+Seat 3: highxACE (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Eliseu00 (big blind) folded before Flop
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 folded before Flop
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124551940: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/03/03 19:32:28 WET [2025/03/03 14:32:28 ET]
+Table '3860731907 205' 8-max Seat #4 is the button
+Seat 1: DamSaï (25000 in chips) 
+Seat 2: moment9999 (30796 in chips) 
+Seat 3: highxACE (39875 in chips) 
+Seat 4: Kevin12345Mc (41181 in chips) 
+Seat 5: Eliseu00 (30535 in chips) 
+Seat 6: pretinhouva (9648 in chips) 
+Seat 7: STASK85 (69390 in chips) 
+Seat 8: HaWooli (39759 in chips) 
+DamSaï: posts the ante 150
+moment9999: posts the ante 150
+highxACE: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Eliseu00: posts the ante 150
+pretinhouva: posts the ante 150
+STASK85: posts the ante 150
+HaWooli: posts the ante 150
+Eliseu00: posts small blind 600
+pretinhouva: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Th]
+STASK85: folds 
+HaWooli: folds 
+DamSaï: folds 
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: raises 1440 to 2640
+Eliseu00: raises 4560 to 7200
+pretinhouva: folds 
+Kevin12345Mc: folds 
+Uncalled bet (4560) returned to Eliseu00
+Eliseu00 collected 7680 from pot
+Eliseu00: doesn't show hand 
+*** SUMMARY ***
+Total pot 7680 | Rake 0 
+Seat 1: DamSaï folded before Flop (didn't bet)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop
+Seat 5: Eliseu00 (small blind) collected (7680)
+Seat 6: pretinhouva (big blind) folded before Flop
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124565457: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/03/03 19:33:14 WET [2025/03/03 14:33:14 ET]
+Table '3860731907 205' 8-max Seat #5 is the button
+Seat 1: DamSaï (24850 in chips) 
+Seat 2: moment9999 (30646 in chips) 
+Seat 3: highxACE (39725 in chips) 
+Seat 4: Kevin12345Mc (38391 in chips) 
+Seat 5: Eliseu00 (35425 in chips) 
+Seat 6: pretinhouva (8298 in chips) 
+Seat 7: STASK85 (69240 in chips) 
+Seat 8: HaWooli (39609 in chips) 
+DamSaï: posts the ante 150
+moment9999: posts the ante 150
+highxACE: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Eliseu00: posts the ante 150
+pretinhouva: posts the ante 150
+STASK85: posts the ante 150
+HaWooli: posts the ante 150
+pretinhouva: posts small blind 600
+STASK85: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d Jc]
+HaWooli: raises 1344 to 2544
+DamSaï: calls 2544
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: calls 1344
+*** FLOP *** [3c 6c 5h]
+STASK85: checks 
+HaWooli: bets 2830
+DamSaï: raises 2830 to 5660
+STASK85: raises 60886 to 66546 and is all-in
+HaWooli: folds 
+DamSaï: calls 16496 and is all-in
+Uncalled bet (44390) returned to STASK85
+*** TURN *** [3c 6c 5h] [4s]
+*** RIVER *** [3c 6c 5h 4s] [9c]
+*** SHOW DOWN ***
+STASK85: shows [3d 6d] (two pair, Sixes and Threes)
+DamSaï: shows [9h 6h] (two pair, Nines and Sixes)
+DamSaï collected 56574 from pot
+*** SUMMARY ***
+Total pot 56574 | Rake 0 
+Board [3c 6c 5h 4s 9c]
+Seat 1: DamSaï showed [9h 6h] and won (56574) with two pair, Nines and Sixes
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 (button) folded before Flop (didn't bet)
+Seat 6: pretinhouva (small blind) folded before Flop
+Seat 7: STASK85 (big blind) showed [3d 6d] and lost with two pair, Sixes and Threes
+Seat 8: HaWooli folded on the Flop
+
+
+
+PokerStars Hand #255124582761: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/03/03 19:34:13 WET [2025/03/03 14:34:13 ET]
+Table '3860731907 205' 8-max Seat #6 is the button
+Seat 1: DamSaï (56574 in chips) 
+Seat 2: moment9999 (30496 in chips) 
+Seat 3: highxACE (39575 in chips) 
+Seat 4: Kevin12345Mc (38241 in chips) 
+Seat 5: Eliseu00 (35275 in chips) 
+Seat 6: pretinhouva (7548 in chips) 
+Seat 7: STASK85 (44390 in chips) 
+Seat 8: HaWooli (34085 in chips) 
+DamSaï: posts the ante 150
+moment9999: posts the ante 150
+highxACE: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Eliseu00: posts the ante 150
+pretinhouva: posts the ante 150
+STASK85: posts the ante 150
+HaWooli: posts the ante 150
+STASK85: posts small blind 600
+HaWooli: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 9h]
+DamSaï: folds 
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: raises 2400 to 3600
+pretinhouva: folds 
+STASK85: calls 3000
+HaWooli: calls 2400
+*** FLOP *** [Ts 4c 3s]
+STASK85: checks 
+HaWooli: checks 
+Eliseu00: bets 2520
+STASK85: folds 
+HaWooli: calls 2520
+*** TURN *** [Ts 4c 3s] [6d]
+HaWooli: checks 
+Eliseu00: bets 10800
+HaWooli: calls 10800
+*** RIVER *** [Ts 4c 3s 6d] [Kh]
+HaWooli: checks 
+Eliseu00: bets 18205 and is all-in
+HaWooli: folds 
+Uncalled bet (18205) returned to Eliseu00
+Eliseu00 collected 38640 from pot
+Eliseu00: doesn't show hand 
+*** SUMMARY ***
+Total pot 38640 | Rake 0 
+Board [Ts 4c 3s 6d Kh]
+Seat 1: DamSaï folded before Flop (didn't bet)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 collected (38640)
+Seat 6: pretinhouva (button) folded before Flop (didn't bet)
+Seat 7: STASK85 (small blind) folded on the Flop
+Seat 8: HaWooli (big blind) folded on the River
+
+
+
+PokerStars Hand #255124607027: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/03/03 19:35:35 WET [2025/03/03 14:35:35 ET]
+Table '3860731907 205' 8-max Seat #7 is the button
+Seat 1: DamSaï (56424 in chips) 
+Seat 2: moment9999 (30346 in chips) 
+Seat 3: highxACE (39425 in chips) 
+Seat 4: Kevin12345Mc (38091 in chips) 
+Seat 5: Eliseu00 (56845 in chips) 
+Seat 6: pretinhouva (7398 in chips) 
+Seat 7: STASK85 (40640 in chips) 
+Seat 8: HaWooli (17015 in chips) 
+DamSaï: posts the ante 150
+moment9999: posts the ante 150
+highxACE: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Eliseu00: posts the ante 150
+pretinhouva: posts the ante 150
+STASK85: posts the ante 150
+HaWooli: posts the ante 150
+HaWooli: posts small blind 600
+DamSaï: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 2s]
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: raises 1200 to 2400
+HaWooli: folds 
+DamSaï: calls 1200
+*** FLOP *** [Qc Jc 5s]
+DamSaï: checks 
+STASK85: bets 2400
+DamSaï: calls 2400
+*** TURN *** [Qc Jc 5s] [Kh]
+DamSaï: checks 
+STASK85: checks 
+*** RIVER *** [Qc Jc 5s Kh] [5c]
+DamSaï: bets 11400
+STASK85: folds 
+Uncalled bet (11400) returned to DamSaï
+DamSaï collected 11400 from pot
+DamSaï: doesn't show hand 
+*** SUMMARY ***
+Total pot 11400 | Rake 0 
+Board [Qc Jc 5s Kh 5c]
+Seat 1: DamSaï (big blind) collected (11400)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 (button) folded on the River
+Seat 8: HaWooli (small blind) folded before Flop
+
+
+
+PokerStars Hand #255124620570: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/03/03 19:36:21 WET [2025/03/03 14:36:21 ET]
+Table '3860731907 205' 8-max Seat #8 is the button
+Seat 1: DamSaï (62874 in chips) 
+Seat 2: moment9999 (30196 in chips) 
+Seat 3: highxACE (39275 in chips) 
+Seat 4: Kevin12345Mc (37941 in chips) 
+Seat 5: Eliseu00 (56695 in chips) 
+Seat 6: pretinhouva (7248 in chips) 
+Seat 7: STASK85 (35690 in chips) 
+Seat 8: HaWooli (16265 in chips) 
+DamSaï: posts the ante 150
+moment9999: posts the ante 150
+highxACE: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Eliseu00: posts the ante 150
+pretinhouva: posts the ante 150
+STASK85: posts the ante 150
+HaWooli: posts the ante 150
+DamSaï: posts small blind 600
+moment9999: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 5c]
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: raises 1392 to 2592
+pretinhouva: raises 4506 to 7098 and is all-in
+STASK85: folds 
+HaWooli: folds 
+DamSaï: folds 
+moment9999: folds 
+Eliseu00: calls 4506
+*** FLOP *** [9h Kc 7h]
+*** TURN *** [9h Kc 7h] [Js]
+*** RIVER *** [9h Kc 7h Js] [4d]
+*** SHOW DOWN ***
+Eliseu00: shows [Ah Qd] (high card Ace)
+pretinhouva: shows [Ac Jc] (a pair of Jacks)
+pretinhouva collected 17196 from pot
+*** SUMMARY ***
+Total pot 17196 | Rake 0 
+Board [9h Kc 7h Js 4d]
+Seat 1: DamSaï (small blind) folded before Flop
+Seat 2: moment9999 (big blind) folded before Flop
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 showed [Ah Qd] and lost with high card Ace
+Seat 6: pretinhouva showed [Ac Jc] and won (17196) with a pair of Jacks
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124634324: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/03/03 19:37:06 WET [2025/03/03 14:37:06 ET]
+Table '3860731907 205' 8-max Seat #1 is the button
+Seat 1: DamSaï (62124 in chips) 
+Seat 2: moment9999 (28846 in chips) 
+Seat 3: highxACE (39125 in chips) 
+Seat 4: Kevin12345Mc (37791 in chips) 
+Seat 5: Eliseu00 (49447 in chips) 
+Seat 6: pretinhouva (17196 in chips) 
+Seat 7: STASK85 (35540 in chips) 
+Seat 8: HaWooli (16115 in chips) 
+DamSaï: posts the ante 150
+moment9999: posts the ante 150
+highxACE: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Eliseu00: posts the ante 150
+pretinhouva: posts the ante 150
+STASK85: posts the ante 150
+HaWooli: posts the ante 150
+moment9999: posts small blind 600
+highxACE: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 9s]
+Kevin12345Mc: raises 1320 to 2520
+Eliseu00: folds 
+pretinhouva: raises 14526 to 17046 and is all-in
+STASK85: folds 
+HaWooli: folds 
+DamSaï: folds 
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Uncalled bet (14526) returned to pretinhouva
+pretinhouva collected 8040 from pot
+pretinhouva: doesn't show hand 
+*** SUMMARY ***
+Total pot 8040 | Rake 0 
+Seat 1: DamSaï (button) folded before Flop (didn't bet)
+Seat 2: moment9999 (small blind) folded before Flop
+Seat 3: highxACE (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva collected (8040)
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124648232: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/03/03 19:37:54 WET [2025/03/03 14:37:54 ET]
+Table '3860731907 205' 8-max Seat #2 is the button
+Seat 1: DamSaï (61974 in chips) 
+Seat 2: moment9999 (28096 in chips) 
+Seat 3: highxACE (37775 in chips) 
+Seat 4: Kevin12345Mc (35121 in chips) 
+Seat 5: Eliseu00 (49297 in chips) 
+Seat 6: pretinhouva (22566 in chips) 
+Seat 7: STASK85 (35390 in chips) 
+Seat 8: HaWooli (15965 in chips) 
+DamSaï: posts the ante 150
+moment9999: posts the ante 150
+highxACE: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Eliseu00: posts the ante 150
+pretinhouva: posts the ante 150
+STASK85: posts the ante 150
+HaWooli: posts the ante 150
+highxACE: posts small blind 600
+Kevin12345Mc: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 2h]
+Eliseu00: folds 
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: folds 
+DamSaï: calls 1200
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [9d Ad Js]
+Kevin12345Mc: checks 
+DamSaï: checks 
+*** TURN *** [9d Ad Js] [4d]
+Kevin12345Mc: checks 
+DamSaï: checks 
+*** RIVER *** [9d Ad Js 4d] [As]
+Kevin12345Mc: bets 2772
+DamSaï: folds 
+Uncalled bet (2772) returned to Kevin12345Mc
+Kevin12345Mc collected 4200 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Board [9d Ad Js 4d As]
+Seat 1: DamSaï folded on the River
+Seat 2: moment9999 (button) folded before Flop (didn't bet)
+Seat 3: highxACE (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) collected (4200)
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124661287: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/03/03 19:38:38 WET [2025/03/03 14:38:38 ET]
+Table '3860731907 205' 8-max Seat #3 is the button
+Seat 1: DamSaï (60624 in chips) 
+Seat 2: moment9999 (27946 in chips) 
+Seat 3: highxACE (37025 in chips) 
+Seat 4: Kevin12345Mc (37971 in chips) 
+Seat 5: Eliseu00 (49147 in chips) 
+Seat 6: pretinhouva (22416 in chips) 
+Seat 7: STASK85 (35240 in chips) 
+Seat 8: HaWooli (15815 in chips) 
+DamSaï: posts the ante 150
+moment9999: posts the ante 150
+highxACE: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Eliseu00: posts the ante 150
+pretinhouva: posts the ante 150
+STASK85: posts the ante 150
+HaWooli: posts the ante 150
+Kevin12345Mc: posts small blind 600
+Eliseu00: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 5h]
+pretinhouva: folds 
+STASK85: folds 
+HaWooli: raises 14465 to 15665 and is all-in
+DamSaï: folds 
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+Uncalled bet (14465) returned to HaWooli
+HaWooli collected 4200 from pot
+HaWooli: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: DamSaï folded before Flop (didn't bet)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Eliseu00 (big blind) folded before Flop
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: STASK85 folded before Flop (didn't bet)
+Seat 8: HaWooli collected (4200)
+
+
+
+PokerStars Hand #255124672483: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (600/1200) - 2025/03/03 19:39:16 WET [2025/03/03 14:39:16 ET]
+Table '3860731907 205' 8-max Seat #4 is the button
+Seat 1: DamSaï (60474 in chips) 
+Seat 2: moment9999 (27796 in chips) 
+Seat 3: highxACE (36875 in chips) 
+Seat 4: Kevin12345Mc (37221 in chips) 
+Seat 5: Eliseu00 (47797 in chips) 
+Seat 6: pretinhouva (22266 in chips) 
+Seat 7: STASK85 (35090 in chips) 
+Seat 8: HaWooli (18665 in chips) 
+DamSaï: posts the ante 150
+moment9999: posts the ante 150
+highxACE: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Eliseu00: posts the ante 150
+pretinhouva: posts the ante 150
+STASK85: posts the ante 150
+HaWooli: posts the ante 150
+Eliseu00: posts small blind 600
+pretinhouva: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 7h]
+STASK85: calls 1200
+HaWooli: folds 
+DamSaï: calls 1200
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: raises 4800 to 6000
+pretinhouva: folds 
+STASK85: calls 4800
+DamSaï: calls 4800
+*** FLOP *** [6h 5h 9h]
+Eliseu00: bets 4800
+STASK85: calls 4800
+DamSaï: folds 
+*** TURN *** [6h 5h 9h] [9s]
+Eliseu00: bets 11700
+STASK85: raises 12440 to 24140 and is all-in
+Eliseu00: calls 12440
+*** RIVER *** [6h 5h 9h 9s] [2d]
+*** SHOW DOWN ***
+Eliseu00: shows [Qh Kh] (a flush, King high)
+STASK85: shows [3h 3s] (two pair, Nines and Threes)
+Eliseu00 collected 78280 from pot
+STASK85 finished the tournament
+*** SUMMARY ***
+Total pot 78280 | Rake 0 
+Board [6h 5h 9h 9s 2d]
+Seat 1: DamSaï folded on the Flop
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: Eliseu00 (small blind) showed [Qh Kh] and won (78280) with a flush, King high
+Seat 6: pretinhouva (big blind) folded before Flop
+Seat 7: STASK85 showed [3h 3s] and lost with two pair, Nines and Threes
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124691014: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (700/1400) - 2025/03/03 19:40:18 WET [2025/03/03 14:40:18 ET]
+Table '3860731907 205' 8-max Seat #5 is the button
+Seat 1: DamSaï (54324 in chips) 
+Seat 2: moment9999 (27646 in chips) 
+Seat 3: highxACE (36725 in chips) 
+Seat 4: Kevin12345Mc (37071 in chips) 
+Seat 5: Eliseu00 (90987 in chips) 
+Seat 6: pretinhouva (20916 in chips) 
+Seat 8: HaWooli (18515 in chips) 
+DamSaï: posts the ante 175
+moment9999: posts the ante 175
+highxACE: posts the ante 175
+Kevin12345Mc: posts the ante 175
+Eliseu00: posts the ante 175
+pretinhouva: posts the ante 175
+HaWooli: posts the ante 175
+pretinhouva: posts small blind 700
+HaWooli: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 7h]
+No Mercy107 is disconnected 
+DamSaï: raises 2800 to 4200
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: folds 
+HaWooli: folds 
+Uncalled bet (2800) returned to DamSaï
+DamSaï collected 4725 from pot
+DamSaï: doesn't show hand 
+*** SUMMARY ***
+Total pot 4725 | Rake 0 
+Seat 1: DamSaï collected (4725)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 (button) folded before Flop (didn't bet)
+Seat 6: pretinhouva (small blind) folded before Flop
+Seat 8: HaWooli (big blind) folded before Flop
+
+
+
+PokerStars Hand #255124696676: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (700/1400) - 2025/03/03 19:40:37 WET [2025/03/03 14:40:37 ET]
+Table '3860731907 205' 8-max Seat #6 is the button
+Seat 1: DamSaï (57474 in chips) 
+Seat 2: moment9999 (27471 in chips) 
+Seat 3: highxACE (36550 in chips) 
+Seat 4: Kevin12345Mc (36896 in chips) 
+Seat 5: Eliseu00 (90812 in chips) 
+Seat 6: pretinhouva (20041 in chips) 
+Seat 7: No Mercy107 (34930 in chips) out of hand (moved from another table into small blind)
+Seat 8: HaWooli (16940 in chips) 
+No Mercy107 will be allowed to play after the button
+DamSaï: posts the ante 175
+moment9999: posts the ante 175
+highxACE: posts the ante 175
+Kevin12345Mc: posts the ante 175
+Eliseu00: posts the ante 175
+pretinhouva: posts the ante 175
+HaWooli: posts the ante 175
+HaWooli: posts small blind 700
+DamSaï: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 9c]
+moment9999: folds 
+highxACE: raises 1680 to 3080
+Kevin12345Mc: folds 
+Eliseu00: folds 
+pretinhouva: folds 
+HaWooli: folds 
+DamSaï: calls 1680
+*** FLOP *** [Kh 5h 9h]
+DamSaï: checks 
+highxACE: bets 2800
+DamSaï: calls 2800
+*** TURN *** [Kh 5h 9h] [3h]
+DamSaï: checks 
+highxACE: checks 
+*** RIVER *** [Kh 5h 9h 3h] [Ts]
+DamSaï: bets 13685
+highxACE: folds 
+Uncalled bet (13685) returned to DamSaï
+DamSaï collected 13685 from pot
+DamSaï: doesn't show hand 
+*** SUMMARY ***
+Total pot 13685 | Rake 0 
+Board [Kh 5h 9h 3h Ts]
+Seat 1: DamSaï (big blind) collected (13685)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE folded on the River
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 folded before Flop (didn't bet)
+Seat 6: pretinhouva (button) folded before Flop (didn't bet)
+Seat 8: HaWooli (small blind) folded before Flop
+
+
+
+PokerStars Hand #255124708996: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (700/1400) - 2025/03/03 19:41:19 WET [2025/03/03 14:41:19 ET]
+Table '3860731907 205' 8-max Seat #8 is the button
+Seat 1: DamSaï (65104 in chips) 
+Seat 2: moment9999 (27296 in chips) 
+Seat 3: highxACE (30495 in chips) 
+Seat 4: Kevin12345Mc (36721 in chips) 
+Seat 5: Eliseu00 (90637 in chips) 
+Seat 6: pretinhouva (19866 in chips) 
+Seat 7: No Mercy107 (34930 in chips) 
+Seat 8: HaWooli (16065 in chips) 
+DamSaï: posts the ante 175
+moment9999: posts the ante 175
+highxACE: posts the ante 175
+Kevin12345Mc: posts the ante 175
+Eliseu00: posts the ante 175
+pretinhouva: posts the ante 175
+No Mercy107: posts the ante 175
+HaWooli: posts the ante 175
+DamSaï: posts small blind 700
+moment9999: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Qd]
+highxACE: folds 
+Kevin12345Mc: folds 
+Eliseu00: raises 1624 to 3024
+pretinhouva: folds 
+No Mercy107: folds 
+HaWooli: folds 
+DamSaï: calls 2324
+moment9999: folds 
+*** FLOP *** [8h Ks 6h]
+DamSaï: bets 1400
+Eliseu00: raises 4200 to 5600
+DamSaï: calls 4200
+*** TURN *** [8h Ks 6h] [3c]
+DamSaï: checks 
+Eliseu00: bets 14000
+DamSaï: raises 14000 to 28000
+Eliseu00: calls 14000
+*** RIVER *** [8h Ks 6h 3c] [5h]
+DamSaï: bets 28305 and is all-in
+Eliseu00: calls 28305
+*** SHOW DOWN ***
+DamSaï: shows [Kh Jd] (a pair of Kings)
+Eliseu00: shows [Ah 9h] (a flush, Ace high)
+Eliseu00 collected 132658 from pot
+DamSaï finished the tournament
+*** SUMMARY ***
+Total pot 132658 | Rake 0 
+Board [8h Ks 6h 3c 5h]
+Seat 1: DamSaï (small blind) showed [Kh Jd] and lost with a pair of Kings
+Seat 2: moment9999 (big blind) folded before Flop
+Seat 3: highxACE folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Eliseu00 showed [Ah 9h] and won (132658) with a flush, Ace high
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: No Mercy107 folded before Flop (didn't bet)
+Seat 8: HaWooli (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124727126: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (700/1400) - 2025/03/03 19:42:20 WET [2025/03/03 14:42:20 ET]
+Table '3860731907 205' 8-max Seat #2 is the button
+Seat 2: moment9999 (25721 in chips) 
+Seat 3: highxACE (30320 in chips) 
+Seat 4: Kevin12345Mc (36546 in chips) 
+Seat 5: Eliseu00 (158191 in chips) 
+Seat 6: pretinhouva (19691 in chips) 
+Seat 7: No Mercy107 (34755 in chips) 
+Seat 8: HaWooli (15890 in chips) 
+moment9999: posts the ante 175
+highxACE: posts the ante 175
+Kevin12345Mc: posts the ante 175
+Eliseu00: posts the ante 175
+pretinhouva: posts the ante 175
+No Mercy107: posts the ante 175
+HaWooli: posts the ante 175
+highxACE: posts small blind 700
+Kevin12345Mc: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 5c]
+Eliseu00: raises 1624 to 3024
+pretinhouva: folds 
+No Mercy107: folds 
+HaWooli: folds 
+moment9999: folds 
+highxACE: folds 
+Kevin12345Mc: folds 
+Uncalled bet (1624) returned to Eliseu00
+Eliseu00 collected 4725 from pot
+Eliseu00: doesn't show hand 
+*** SUMMARY ***
+Total pot 4725 | Rake 0 
+Seat 2: moment9999 (button) folded before Flop (didn't bet)
+Seat 3: highxACE (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: Eliseu00 collected (4725)
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: No Mercy107 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124733357: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (700/1400) - 2025/03/03 19:42:41 WET [2025/03/03 14:42:41 ET]
+Table '3860731907 205' 8-max Seat #3 is the button
+Seat 1: patrirko18 (25000 in chips) 
+Seat 2: moment9999 (25546 in chips) 
+Seat 3: highxACE (29445 in chips) 
+Seat 4: Kevin12345Mc (34971 in chips) 
+Seat 5: Eliseu00 (161341 in chips) 
+Seat 6: pretinhouva (19516 in chips) 
+Seat 7: No Mercy107 (34580 in chips) 
+Seat 8: HaWooli (15715 in chips) 
+patrirko18: posts the ante 175
+moment9999: posts the ante 175
+highxACE: posts the ante 175
+Kevin12345Mc: posts the ante 175
+Eliseu00: posts the ante 175
+pretinhouva: posts the ante 175
+No Mercy107: posts the ante 175
+HaWooli: posts the ante 175
+Kevin12345Mc: posts small blind 700
+Eliseu00: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 3h]
+pretinhouva: folds 
+No Mercy107: folds 
+HaWooli: folds 
+patrirko18: folds 
+moment9999: folds 
+highxACE: raises 2800 to 4200
+Kevin12345Mc: folds 
+Eliseu00: calls 2800
+*** FLOP *** [6s 5c Qc]
+Eliseu00: checks 
+highxACE: checks 
+*** TURN *** [6s 5c Qc] [2c]
+Eliseu00: bets 4095
+highxACE: calls 4095
+*** RIVER *** [6s 5c Qc 2c] [Kh]
+Eliseu00: checks 
+highxACE: bets 20975 and is all-in
+Eliseu00: folds 
+Uncalled bet (20975) returned to highxACE
+highxACE collected 18690 from pot
+highxACE: doesn't show hand 
+*** SUMMARY ***
+Total pot 18690 | Rake 0 
+Board [6s 5c Qc 2c Kh]
+Seat 1: patrirko18 folded before Flop (didn't bet)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE (button) collected (18690)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Eliseu00 (big blind) folded on the River
+Seat 6: pretinhouva folded before Flop (didn't bet)
+Seat 7: No Mercy107 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124749893: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (700/1400) - 2025/03/03 19:43:37 WET [2025/03/03 14:43:37 ET]
+Table '3860731907 205' 8-max Seat #4 is the button
+Seat 1: patrirko18 (24825 in chips) 
+Seat 2: moment9999 (25371 in chips) 
+Seat 3: highxACE (39665 in chips) 
+Seat 4: Kevin12345Mc (34096 in chips) 
+Seat 5: Eliseu00 (152871 in chips) 
+Seat 6: pretinhouva (19341 in chips) 
+Seat 7: No Mercy107 (34405 in chips) 
+Seat 8: HaWooli (15540 in chips) 
+patrirko18: posts the ante 175
+moment9999: posts the ante 175
+highxACE: posts the ante 175
+Kevin12345Mc: posts the ante 175
+Eliseu00: posts the ante 175
+pretinhouva: posts the ante 175
+No Mercy107: posts the ante 175
+HaWooli: posts the ante 175
+Eliseu00: posts small blind 700
+pretinhouva: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 9s]
+No Mercy107: folds 
+HaWooli: folds 
+patrirko18: folds 
+moment9999: folds 
+highxACE: raises 1400 to 2800
+Kevin12345Mc: folds 
+Eliseu00: calls 2100
+pretinhouva: folds 
+*** FLOP *** [Ac 2h Qh]
+Eliseu00: checks 
+highxACE: bets 2800
+Eliseu00: raises 5600 to 8400
+highxACE: raises 28290 to 36690 and is all-in
+Eliseu00: calls 28290
+*** TURN *** [Ac 2h Qh] [Jc]
+*** RIVER *** [Ac 2h Qh Jc] [4s]
+*** SHOW DOWN ***
+Eliseu00: shows [Jh 8h] (a pair of Jacks)
+highxACE: shows [Ad 3d] (a pair of Aces)
+highxACE collected 81780 from pot
+*** SUMMARY ***
+Total pot 81780 | Rake 0 
+Board [Ac 2h Qh Jc 4s]
+Seat 1: patrirko18 folded before Flop (didn't bet)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE showed [Ad 3d] and won (81780) with a pair of Aces
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: Eliseu00 (small blind) showed [Jh 8h] and lost with a pair of Jacks
+Seat 6: pretinhouva (big blind) folded before Flop
+Seat 7: No Mercy107 folded before Flop (didn't bet)
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255124774058: Tournament #3860731907, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (700/1400) - 2025/03/03 19:44:59 WET [2025/03/03 14:44:59 ET]
+Table '3860731907 205' 8-max Seat #5 is the button
+Seat 1: patrirko18 (24650 in chips) 
+Seat 2: moment9999 (25196 in chips) 
+Seat 3: highxACE (81780 in chips) 
+Seat 4: Kevin12345Mc (33921 in chips) 
+Seat 5: Eliseu00 (113206 in chips) 
+Seat 6: pretinhouva (17766 in chips) 
+Seat 7: No Mercy107 (34230 in chips) 
+Seat 8: HaWooli (15365 in chips) 
+patrirko18: posts the ante 175
+moment9999: posts the ante 175
+highxACE: posts the ante 175
+Kevin12345Mc: posts the ante 175
+Eliseu00: posts the ante 175
+pretinhouva: posts the ante 175
+No Mercy107: posts the ante 175
+HaWooli: posts the ante 175
+pretinhouva: posts small blind 700
+No Mercy107: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s As]
+HaWooli: folds 
+patrirko18: folds 
+moment9999: folds 
+highxACE: raises 1400 to 2800
+Kevin12345Mc: calls 2800
+Eliseu00: folds 
+pretinhouva: folds 
+No Mercy107: folds 
+*** FLOP *** [4h 7d 2s]
+highxACE: checks 
+Kevin12345Mc: checks 
+*** TURN *** [4h 7d 2s] [Js]
+highxACE: bets 1820
+Kevin12345Mc: calls 1820
+*** RIVER *** [4h 7d 2s Js] [6d]
+highxACE: checks 
+Kevin12345Mc: bets 29126 and is all-in
+highxACE: calls 29126
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9s As] (high card Ace)
+highxACE: shows [Jc Kc] (a pair of Jacks)
+highxACE collected 70992 from pot
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 70992 | Rake 0 
+Board [4h 7d 2s Js 6d]
+Seat 1: patrirko18 folded before Flop (didn't bet)
+Seat 2: moment9999 folded before Flop (didn't bet)
+Seat 3: highxACE showed [Jc Kc] and won (70992) with a pair of Jacks
+Seat 4: Kevin12345Mc showed [9s As] and lost with high card Ace
+Seat 5: Eliseu00 (button) folded before Flop (didn't bet)
+Seat 6: pretinhouva (small blind) folded before Flop
+Seat 7: No Mercy107 (big blind) folded before Flop
+Seat 8: HaWooli folded before Flop (didn't bet)
+
+
+

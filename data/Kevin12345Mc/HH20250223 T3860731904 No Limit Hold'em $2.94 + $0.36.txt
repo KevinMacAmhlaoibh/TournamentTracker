@@ -1,0 +1,4269 @@
+﻿PokerStars Hand #255003591872: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level III (150/300) - 2025/02/23 16:33:54 WET [2025/02/23 11:33:54 ET]
+Table '3860731904 50' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (25000 in chips, $1.50 bounty) 
+Seat 2: fiuster (28328 in chips, $1.50 bounty) 
+Seat 3: borygo (21875 in chips, $2.25 bounty) 
+Seat 4: Gio-MadMax (47096 in chips, $1.50 bounty) 
+Seat 5: semmal999 (25668 in chips, $1.50 bounty) 
+Seat 6: vistjescard (79819 in chips, $3 bounty) 
+Seat 7: -MVC Tighty- (55965 in chips, $2.25 bounty) 
+Seat 8: Unknownplayerrr (20755 in chips, $1.50 bounty) 
+Kevin12345Mc: posts the ante 35
+fiuster: posts the ante 35
+borygo: posts the ante 35
+Gio-MadMax: posts the ante 35
+semmal999: posts the ante 35
+vistjescard: posts the ante 35
+-MVC Tighty-: posts the ante 35
+Unknownplayerrr: posts the ante 35
+-MVC Tighty-: posts small blind 150
+Unknownplayerrr: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd As]
+Kevin12345Mc: raises 390 to 690
+fiuster: folds 
+borygo: folds 
+Gio-MadMax: folds 
+semmal999: folds 
+vistjescard: folds 
+-MVC Tighty-: calls 540
+Unknownplayerrr: folds 
+*** FLOP *** [Qc Jh 3c]
+-MVC Tighty-: checks 
+Kevin12345Mc: bets 647
+-MVC Tighty-: calls 647
+*** TURN *** [Qc Jh 3c] [Ad]
+-MVC Tighty-: checks 
+Kevin12345Mc: bets 1627
+-MVC Tighty-: raises 4295 to 5922
+Kevin12345Mc: calls 4295
+*** RIVER *** [Qc Jh 3c Ad] [Qh]
+-MVC Tighty-: bets 18450
+Kevin12345Mc: calls 17706 and is all-in
+Uncalled bet (744) returned to -MVC Tighty-
+*** SHOW DOWN ***
+-MVC Tighty-: shows [Ac Qd] (a full house, Queens full of Aces)
+Kevin12345Mc: shows [Kd As] (two pair, Aces and Queens)
+-MVC Tighty- collected 50510 from pot
+-MVC Tighty- wins $0.75 for eliminating Kevin12345Mc and their own bounty increases by $0.75 to $3
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 50510 | Rake 0 
+Board [Qc Jh 3c Ad Qh]
+Seat 1: Kevin12345Mc showed [Kd As] and lost with two pair, Aces and Queens
+Seat 2: fiuster folded before Flop (didn't bet)
+Seat 3: borygo folded before Flop (didn't bet)
+Seat 4: Gio-MadMax folded before Flop (didn't bet)
+Seat 5: semmal999 folded before Flop (didn't bet)
+Seat 6: vistjescard (button) folded before Flop (didn't bet)
+Seat 7: -MVC Tighty- (small blind) showed [Ac Qd] and won (50510) with a full house, Queens full of Aces
+Seat 8: Unknownplayerrr (big blind) folded before Flop
+
+
+
+PokerStars Hand #255003642041: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (175/350) - 2025/02/23 16:37:00 WET [2025/02/23 11:37:00 ET]
+Table '3860731904 86' 8-max Seat #6 is the button
+Seat 1: 6363N6977 (17745 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (25000 in chips, $1.50 bounty) 
+Seat 3: satanik1346 (30548 in chips, $1.50 bounty) 
+Seat 4: Ojos bell337 (19487 in chips, $1.50 bounty) 
+Seat 6: DavidWin911 (49460 in chips, $2.25 bounty) 
+Seat 7: Egor Bulik (25267 in chips, $1.50 bounty) 
+Seat 8: Niemorales (51680 in chips, $2.25 bounty) 
+6363N6977: posts the ante 40
+Kevin12345Mc: posts the ante 40
+satanik1346: posts the ante 40
+Ojos bell337: posts the ante 40
+DavidWin911: posts the ante 40
+Egor Bulik: posts the ante 40
+Niemorales: posts the ante 40
+Egor Bulik: posts small blind 175
+Niemorales: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc Qs]
+6363N6977: folds 
+GRA312 is disconnected 
+Kevin12345Mc: raises 455 to 805
+satanik1346: folds 
+Ojos bell337: raises 2415 to 3220
+DavidWin911: folds 
+Egor Bulik: calls 3045
+Niemorales: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [Jd Qd Qc]
+Egor Bulik: bets 22007 and is all-in
+Ojos bell337: folds 
+Uncalled bet (22007) returned to Egor Bulik
+Egor Bulik collected 7875 from pot
+*** SUMMARY ***
+Total pot 7875 | Rake 0 
+Board [Jd Qd Qc]
+Seat 1: 6363N6977 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop
+Seat 3: satanik1346 folded before Flop (didn't bet)
+Seat 4: Ojos bell337 folded on the Flop
+Seat 6: DavidWin911 (button) folded before Flop (didn't bet)
+Seat 7: Egor Bulik (small blind) collected (7875)
+Seat 8: Niemorales (big blind) folded before Flop
+
+
+
+PokerStars Hand #255003655040: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (175/350) - 2025/02/23 16:37:48 WET [2025/02/23 11:37:48 ET]
+Table '3860731904 86' 8-max Seat #7 is the button
+Seat 1: 6363N6977 (17705 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (24155 in chips, $1.50 bounty) 
+Seat 3: satanik1346 (30508 in chips, $1.50 bounty) 
+Seat 4: Ojos bell337 (16227 in chips, $1.50 bounty) 
+Seat 5: GRA312 (25000 in chips, $1.50 bounty) 
+Seat 6: DavidWin911 (49420 in chips, $2.25 bounty) 
+Seat 7: Egor Bulik (29882 in chips, $1.50 bounty) 
+Seat 8: Niemorales (51290 in chips, $2.25 bounty) 
+6363N6977: posts the ante 40
+Kevin12345Mc: posts the ante 40
+satanik1346: posts the ante 40
+Ojos bell337: posts the ante 40
+GRA312: posts the ante 40
+DavidWin911: posts the ante 40
+Egor Bulik: posts the ante 40
+Niemorales: posts the ante 40
+Niemorales: posts small blind 175
+6363N6977: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 6s]
+Kevin12345Mc: folds 
+satanik1346: folds 
+Ojos bell337: folds 
+GRA312: raises 350 to 700
+DavidWin911: calls 700
+Egor Bulik: folds 
+Niemorales: calls 525
+6363N6977: raises 16965 to 17665 and is all-in
+GRA312: folds 
+DavidWin911: folds 
+Niemorales: folds 
+Uncalled bet (16965) returned to 6363N6977
+6363N6977 collected 3120 from pot
+6363N6977: doesn't show hand 
+*** SUMMARY ***
+Total pot 3120 | Rake 0 
+Seat 1: 6363N6977 (big blind) collected (3120)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: satanik1346 folded before Flop (didn't bet)
+Seat 4: Ojos bell337 folded before Flop (didn't bet)
+Seat 5: GRA312 folded before Flop
+Seat 6: DavidWin911 folded before Flop
+Seat 7: Egor Bulik (button) folded before Flop (didn't bet)
+Seat 8: Niemorales (small blind) folded before Flop
+
+
+
+PokerStars Hand #255003665408: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (175/350) - 2025/02/23 16:38:27 WET [2025/02/23 11:38:27 ET]
+Table '3860731904 86' 8-max Seat #8 is the button
+Seat 1: 6363N6977 (20085 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (24115 in chips, $1.50 bounty) 
+Seat 3: satanik1346 (30468 in chips, $1.50 bounty) 
+Seat 4: Ojos bell337 (16187 in chips, $1.50 bounty) 
+Seat 5: GRA312 (24260 in chips, $1.50 bounty) 
+Seat 6: DavidWin911 (48680 in chips, $2.25 bounty) 
+Seat 7: Egor Bulik (29842 in chips, $1.50 bounty) 
+Seat 8: Niemorales (50550 in chips, $2.25 bounty) 
+6363N6977: posts the ante 40
+Kevin12345Mc: posts the ante 40
+satanik1346: posts the ante 40
+Ojos bell337: posts the ante 40
+GRA312: posts the ante 40
+DavidWin911: posts the ante 40
+Egor Bulik: posts the ante 40
+Niemorales: posts the ante 40
+6363N6977: posts small blind 175
+Kevin12345Mc: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 4c]
+satanik1346: folds 
+Ojos bell337: folds 
+GRA312: raises 350 to 700
+DavidWin911: calls 700
+Egor Bulik: calls 700
+Niemorales: folds 
+6363N6977: raises 3850 to 4550
+Kevin12345Mc: folds 
+GRA312: raises 19670 to 24220 and is all-in
+DavidWin911: folds 
+Egor Bulik: raises 5582 to 29802 and is all-in
+6363N6977: calls 15495 and is all-in
+Uncalled bet (5582) returned to Egor Bulik
+*** FLOP *** [3c 6c 2c]
+*** TURN *** [3c 6c 2c] [8c]
+*** RIVER *** [3c 6c 2c 8c] [Ac]
+*** SHOW DOWN ***
+GRA312: shows [Ah Jc] (a flush, Ace high)
+Egor Bulik: shows [Jh Jd] (a flush, Ace high - lower cards)
+GRA312 collected 8350 from side pot
+6363N6977: shows [Kc Kh] (a flush, Ace high - King higher)
+6363N6977 collected 61505 from main pot
+*** SUMMARY ***
+Total pot 69855 Main pot 61505. Side pot 8350. | Rake 0 
+Board [3c 6c 2c 8c Ac]
+Seat 1: 6363N6977 (small blind) showed [Kc Kh] and won (61505) with a flush, Ace high
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+Seat 3: satanik1346 folded before Flop (didn't bet)
+Seat 4: Ojos bell337 folded before Flop (didn't bet)
+Seat 5: GRA312 showed [Ah Jc] and won (8350) with a flush, Ace high
+Seat 6: DavidWin911 folded before Flop
+Seat 7: Egor Bulik showed [Jh Jd] and lost with a flush, Ace high
+Seat 8: Niemorales (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003684000: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (175/350) - 2025/02/23 16:39:35 WET [2025/02/23 11:39:35 ET]
+Table '3860731904 86' 8-max Seat #1 is the button
+Seat 1: 6363N6977 (61505 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23725 in chips, $1.50 bounty) 
+Seat 3: satanik1346 (30428 in chips, $1.50 bounty) 
+Seat 4: Ojos bell337 (16147 in chips, $1.50 bounty) 
+Seat 5: GRA312 (8350 in chips, $1.50 bounty) 
+Seat 6: DavidWin911 (47940 in chips, $2.25 bounty) 
+Seat 7: Egor Bulik (5582 in chips, $1.50 bounty) 
+Seat 8: Niemorales (50510 in chips, $2.25 bounty) 
+6363N6977: posts the ante 40
+Kevin12345Mc: posts the ante 40
+satanik1346: posts the ante 40
+Ojos bell337: posts the ante 40
+GRA312: posts the ante 40
+DavidWin911: posts the ante 40
+Egor Bulik: posts the ante 40
+Niemorales: posts the ante 40
+Kevin12345Mc: posts small blind 175
+satanik1346: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 3h]
+Ojos bell337: folds 
+GRA312: folds 
+DavidWin911: calls 350
+Egor Bulik: raises 5192 to 5542 and is all-in
+Niemorales: folds 
+6363N6977: calls 5542
+Kevin12345Mc: folds 
+satanik1346: folds 
+DavidWin911: folds 
+*** FLOP *** [Tc Qc Qd]
+*** TURN *** [Tc Qc Qd] [Qh]
+*** RIVER *** [Tc Qc Qd Qh] [6d]
+*** SHOW DOWN ***
+Egor Bulik: shows [Kd 9c] (three of a kind, Queens)
+6363N6977: shows [5d 4d] (three of a kind, Queens - lower kicker)
+Egor Bulik collected 12279 from pot
+*** SUMMARY ***
+Total pot 12279 | Rake 0 
+Board [Tc Qc Qd Qh 6d]
+Seat 1: 6363N6977 (button) showed [5d 4d] and lost with three of a kind, Queens
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: satanik1346 (big blind) folded before Flop
+Seat 4: Ojos bell337 folded before Flop (didn't bet)
+Seat 5: GRA312 folded before Flop (didn't bet)
+Seat 6: DavidWin911 folded before Flop
+Seat 7: Egor Bulik showed [Kd 9c] and won (12279) with three of a kind, Queens
+Seat 8: Niemorales folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003693232: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (175/350) - 2025/02/23 16:40:10 WET [2025/02/23 11:40:10 ET]
+Table '3860731904 86' 8-max Seat #2 is the button
+Seat 1: 6363N6977 (55923 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23510 in chips, $1.50 bounty) 
+Seat 3: satanik1346 (30038 in chips, $1.50 bounty) 
+Seat 4: Ojos bell337 (16107 in chips, $1.50 bounty) 
+Seat 5: GRA312 (8310 in chips, $1.50 bounty) 
+Seat 6: DavidWin911 (47550 in chips, $2.25 bounty) 
+Seat 7: Egor Bulik (12279 in chips, $1.50 bounty) 
+Seat 8: Niemorales (50470 in chips, $2.25 bounty) 
+6363N6977: posts the ante 40
+Kevin12345Mc: posts the ante 40
+satanik1346: posts the ante 40
+Ojos bell337: posts the ante 40
+GRA312: posts the ante 40
+DavidWin911: posts the ante 40
+Egor Bulik: posts the ante 40
+Niemorales: posts the ante 40
+satanik1346: posts small blind 175
+Ojos bell337: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Qh]
+GRA312: folds 
+DavidWin911: calls 350
+Egor Bulik: folds 
+Niemorales: folds 
+6363N6977: folds 
+Kevin12345Mc: folds 
+satanik1346: raises 1750 to 2100
+Ojos bell337: folds 
+DavidWin911: calls 1750
+*** FLOP *** [Kc 6s 6c]
+satanik1346: bets 2435
+DavidWin911: calls 2435
+*** TURN *** [Kc 6s 6c] [9d]
+satanik1346: bets 7500
+DavidWin911: folds 
+Uncalled bet (7500) returned to satanik1346
+satanik1346 collected 9740 from pot
+satanik1346: doesn't show hand 
+*** SUMMARY ***
+Total pot 9740 | Rake 0 
+Board [Kc 6s 6c 9d]
+Seat 1: 6363N6977 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: satanik1346 (small blind) collected (9740)
+Seat 4: Ojos bell337 (big blind) folded before Flop
+Seat 5: GRA312 folded before Flop (didn't bet)
+Seat 6: DavidWin911 folded on the Turn
+Seat 7: Egor Bulik folded before Flop (didn't bet)
+Seat 8: Niemorales folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003705830: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (175/350) - 2025/02/23 16:40:57 WET [2025/02/23 11:40:57 ET]
+Table '3860731904 86' 8-max Seat #3 is the button
+Seat 1: 6363N6977 (55883 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23470 in chips, $1.50 bounty) 
+Seat 3: satanik1346 (35203 in chips, $1.50 bounty) 
+Seat 4: Ojos bell337 (15717 in chips, $1.50 bounty) 
+Seat 5: GRA312 (8270 in chips, $1.50 bounty) 
+Seat 6: DavidWin911 (42975 in chips, $2.25 bounty) 
+Seat 7: Egor Bulik (12239 in chips, $1.50 bounty) 
+Seat 8: Niemorales (50430 in chips, $2.25 bounty) 
+6363N6977: posts the ante 40
+Kevin12345Mc: posts the ante 40
+satanik1346: posts the ante 40
+Ojos bell337: posts the ante 40
+GRA312: posts the ante 40
+DavidWin911: posts the ante 40
+Egor Bulik: posts the ante 40
+Niemorales: posts the ante 40
+Ojos bell337: posts small blind 175
+GRA312: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Jh]
+DavidWin911: folds 
+Egor Bulik: folds 
+Niemorales: raises 350 to 700
+6363N6977: folds 
+Kevin12345Mc: folds 
+satanik1346: folds 
+Ojos bell337: calls 525
+GRA312: calls 350
+*** FLOP *** [4d 6c Jc]
+Ojos bell337: checks 
+GRA312: checks 
+Niemorales: checks 
+*** TURN *** [4d 6c Jc] [Ks]
+Ojos bell337: checks 
+GRA312: checks 
+Niemorales: bets 1210
+Ojos bell337: folds 
+GRA312: folds 
+Uncalled bet (1210) returned to Niemorales
+Niemorales collected 2420 from pot
+Niemorales: doesn't show hand 
+*** SUMMARY ***
+Total pot 2420 | Rake 0 
+Board [4d 6c Jc Ks]
+Seat 1: 6363N6977 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: satanik1346 (button) folded before Flop (didn't bet)
+Seat 4: Ojos bell337 (small blind) folded on the Turn
+Seat 5: GRA312 (big blind) folded on the Turn
+Seat 6: DavidWin911 folded before Flop (didn't bet)
+Seat 7: Egor Bulik folded before Flop (didn't bet)
+Seat 8: Niemorales collected (2420)
+
+
+
+PokerStars Hand #255003717699: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (175/350) - 2025/02/23 16:41:40 WET [2025/02/23 11:41:40 ET]
+Table '3860731904 86' 8-max Seat #4 is the button
+Seat 1: 6363N6977 (55843 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23430 in chips, $1.50 bounty) 
+Seat 3: satanik1346 (35163 in chips, $1.50 bounty) 
+Seat 4: Ojos bell337 (14977 in chips, $1.50 bounty) 
+Seat 5: GRA312 (7530 in chips, $1.50 bounty) 
+Seat 6: DavidWin911 (42935 in chips, $2.25 bounty) 
+Seat 7: Egor Bulik (12199 in chips, $1.50 bounty) 
+Seat 8: Niemorales (52110 in chips, $2.25 bounty) 
+6363N6977: posts the ante 40
+Kevin12345Mc: posts the ante 40
+satanik1346: posts the ante 40
+Ojos bell337: posts the ante 40
+GRA312: posts the ante 40
+DavidWin911: posts the ante 40
+Egor Bulik: posts the ante 40
+Niemorales: posts the ante 40
+GRA312: posts small blind 175
+DavidWin911: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 5s]
+Egor Bulik: calls 350
+Niemorales: folds 
+6363N6977: folds 
+Kevin12345Mc: folds 
+satanik1346: folds 
+Ojos bell337: folds 
+GRA312: calls 175
+DavidWin911: checks 
+*** FLOP *** [Kd 5h 2s]
+GRA312: bets 685
+DavidWin911: folds 
+Egor Bulik: folds 
+Uncalled bet (685) returned to GRA312
+GRA312 collected 1370 from pot
+GRA312: doesn't show hand 
+*** SUMMARY ***
+Total pot 1370 | Rake 0 
+Board [Kd 5h 2s]
+Seat 1: 6363N6977 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: satanik1346 folded before Flop (didn't bet)
+Seat 4: Ojos bell337 (button) folded before Flop (didn't bet)
+Seat 5: GRA312 (small blind) collected (1370)
+Seat 6: DavidWin911 (big blind) folded on the Flop
+Seat 7: Egor Bulik folded on the Flop
+Seat 8: Niemorales folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003726088: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (175/350) - 2025/02/23 16:42:11 WET [2025/02/23 11:42:11 ET]
+Table '3860731904 86' 8-max Seat #5 is the button
+Seat 1: 6363N6977 (55803 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23390 in chips, $1.50 bounty) 
+Seat 3: satanik1346 (35123 in chips, $1.50 bounty) 
+Seat 4: Ojos bell337 (14937 in chips, $1.50 bounty) 
+Seat 5: GRA312 (8510 in chips, $1.50 bounty) 
+Seat 6: DavidWin911 (42545 in chips, $2.25 bounty) 
+Seat 7: Egor Bulik (11809 in chips, $1.50 bounty) 
+Seat 8: Niemorales (52070 in chips, $2.25 bounty) 
+6363N6977: posts the ante 40
+Kevin12345Mc: posts the ante 40
+satanik1346: posts the ante 40
+Ojos bell337: posts the ante 40
+GRA312: posts the ante 40
+DavidWin911: posts the ante 40
+Egor Bulik: posts the ante 40
+Niemorales: posts the ante 40
+DavidWin911: posts small blind 175
+Egor Bulik: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s Qd]
+Niemorales: folds 
+6363N6977: raises 350 to 700
+Kevin12345Mc: folds 
+satanik1346: folds 
+Ojos bell337: calls 700
+GRA312: folds 
+DavidWin911: calls 525
+Egor Bulik: calls 350
+*** FLOP *** [6c Ks 8c]
+DavidWin911: checks 
+Egor Bulik: checks 
+6363N6977: checks 
+Ojos bell337: checks 
+*** TURN *** [6c Ks 8c] [Tc]
+DavidWin911: bets 700
+Egor Bulik: folds 
+6363N6977: folds 
+Ojos bell337: folds 
+Uncalled bet (700) returned to DavidWin911
+DavidWin911 collected 3120 from pot
+*** SUMMARY ***
+Total pot 3120 | Rake 0 
+Board [6c Ks 8c Tc]
+Seat 1: 6363N6977 folded on the Turn
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: satanik1346 folded before Flop (didn't bet)
+Seat 4: Ojos bell337 folded on the Turn
+Seat 5: GRA312 (button) folded before Flop (didn't bet)
+Seat 6: DavidWin911 (small blind) collected (3120)
+Seat 7: Egor Bulik (big blind) folded on the Turn
+Seat 8: Niemorales folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003748231: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (175/350) - 2025/02/23 16:43:33 WET [2025/02/23 11:43:33 ET]
+Table '3860731904 86' 8-max Seat #6 is the button
+Seat 1: 6363N6977 (55063 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23350 in chips, $1.50 bounty) 
+Seat 3: satanik1346 (35083 in chips, $1.50 bounty) 
+Seat 4: Ojos bell337 (14197 in chips, $1.50 bounty) 
+Seat 5: GRA312 (8470 in chips, $1.50 bounty) 
+Seat 6: DavidWin911 (44925 in chips, $2.25 bounty) 
+Seat 7: Egor Bulik (11069 in chips, $1.50 bounty) 
+Seat 8: Niemorales (52030 in chips, $2.25 bounty) 
+6363N6977: posts the ante 40
+Kevin12345Mc: posts the ante 40
+satanik1346: posts the ante 40
+Ojos bell337: posts the ante 40
+GRA312: posts the ante 40
+DavidWin911: posts the ante 40
+Egor Bulik: posts the ante 40
+Niemorales: posts the ante 40
+Egor Bulik: posts small blind 175
+Niemorales: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 3d]
+6363N6977: folds 
+Kevin12345Mc: folds 
+satanik1346: raises 525 to 875
+Ojos bell337: folds 
+GRA312: folds 
+DavidWin911: folds 
+Egor Bulik: folds 
+Niemorales: folds 
+Uncalled bet (525) returned to satanik1346
+satanik1346 collected 1195 from pot
+*** SUMMARY ***
+Total pot 1195 | Rake 0 
+Seat 1: 6363N6977 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: satanik1346 collected (1195)
+Seat 4: Ojos bell337 folded before Flop (didn't bet)
+Seat 5: GRA312 folded before Flop (didn't bet)
+Seat 6: DavidWin911 (button) folded before Flop (didn't bet)
+Seat 7: Egor Bulik (small blind) folded before Flop
+Seat 8: Niemorales (big blind) folded before Flop
+
+
+
+PokerStars Hand #255003754610: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (175/350) - 2025/02/23 16:43:57 WET [2025/02/23 11:43:57 ET]
+Table '3860731904 253' 8-max Seat #7 is the button
+Seat 1: leocutler (18215 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23310 in chips, $1.50 bounty) 
+Seat 3: GoWhiskey (25968 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (73074 in chips, $3.75 bounty) 
+Seat 6: mantasdino (38105 in chips, $1.50 bounty) 
+Seat 7: nievinski (19107 in chips, $1.50 bounty) 
+Seat 8: sunrise989 (43925 in chips, $1.50 bounty) 
+leocutler: posts the ante 40
+Kevin12345Mc: posts the ante 40
+GoWhiskey: posts the ante 40
+sanich2011: posts the ante 40
+mantasdino: posts the ante 40
+nievinski: posts the ante 40
+sunrise989: posts the ante 40
+sunrise989: posts small blind 175
+leocutler: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 2h]
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+sanich2011: folds 
+mantasdino: raises 350 to 700
+nievinski: folds 
+sunrise989: raises 43185 to 43885 and is all-in
+leocutler: calls 17825 and is all-in
+mantasdino: folds 
+Uncalled bet (25710) returned to sunrise989
+*** FLOP *** [4s Kd 9d]
+*** TURN *** [4s Kd 9d] [8s]
+*** RIVER *** [4s Kd 9d 8s] [Tc]
+*** SHOW DOWN ***
+sunrise989: shows [Kc Ad] (a pair of Kings)
+leocutler: shows [Jh Ah] (high card Ace)
+sunrise989 collected 37330 from pot
+sunrise989 wins $0.75 for eliminating leocutler and their own bounty increases by $0.75 to $2.25
+leocutler finished the tournament
+*** SUMMARY ***
+Total pot 37330 | Rake 0 
+Board [4s Kd 9d 8s Tc]
+Seat 1: leocutler (big blind) showed [Jh Ah] and lost with high card Ace
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: mantasdino folded before Flop
+Seat 7: nievinski (button) folded before Flop (didn't bet)
+Seat 8: sunrise989 (small blind) showed [Kc Ad] and won (37330) with a pair of Kings
+
+
+
+PokerStars Hand #255003766202: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (175/350) - 2025/02/23 16:44:40 WET [2025/02/23 11:44:40 ET]
+Table '3860731904 253' 8-max Seat #8 is the button
+Seat 2: Kevin12345Mc (23270 in chips, $1.50 bounty) 
+Seat 3: GoWhiskey (25928 in chips, $1.50 bounty) 
+Seat 4: AdelinusA98 (25000 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (73034 in chips, $3.75 bounty) 
+Seat 6: mantasdino (37365 in chips, $1.50 bounty) 
+Seat 7: nievinski (19067 in chips, $1.50 bounty) 
+Seat 8: sunrise989 (63040 in chips, $2.25 bounty) 
+Kevin12345Mc: posts the ante 40
+GoWhiskey: posts the ante 40
+AdelinusA98: posts the ante 40
+sanich2011: posts the ante 40
+mantasdino: posts the ante 40
+nievinski: posts the ante 40
+sunrise989: posts the ante 40
+Kevin12345Mc: posts small blind 175
+GoWhiskey: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Ac]
+AdelinusA98: raises 350 to 700
+sanich2011: folds 
+mantasdino: calls 700
+nievinski: folds 
+sunrise989: calls 700
+Kevin12345Mc: calls 525
+GoWhiskey: folds 
+*** FLOP *** [6h Ad Qc]
+Kevin12345Mc: checks 
+AdelinusA98: checks 
+mantasdino: checks 
+sunrise989: bets 1715
+Kevin12345Mc: calls 1715
+AdelinusA98: folds 
+mantasdino: folds 
+*** TURN *** [6h Ad Qc] [9d]
+Kevin12345Mc: checks 
+sunrise989: bets 3430
+Kevin12345Mc: calls 3430
+*** RIVER *** [6h Ad Qc 9d] [4d]
+Kevin12345Mc: checks 
+sunrise989: bets 57155 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (57155) returned to sunrise989
+sunrise989 collected 13720 from pot
+sunrise989: doesn't show hand 
+*** SUMMARY ***
+Total pot 13720 | Rake 0 
+Board [6h Ad Qc 9d 4d]
+Seat 2: Kevin12345Mc (small blind) folded on the River
+Seat 3: GoWhiskey (big blind) folded before Flop
+Seat 4: AdelinusA98 folded on the Flop
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: mantasdino folded on the Flop
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: sunrise989 (button) collected (13720)
+
+
+
+PokerStars Hand #255003790544: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (200/400) - 2025/02/23 16:46:09 WET [2025/02/23 11:46:09 ET]
+Table '3860731904 253' 8-max Seat #2 is the button
+Seat 1: TheNewGirl_666 (25000 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (17385 in chips, $1.50 bounty) 
+Seat 3: GoWhiskey (25538 in chips, $1.50 bounty) 
+Seat 4: AdelinusA98 (24260 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (72994 in chips, $3.75 bounty) 
+Seat 6: mantasdino (36625 in chips, $1.50 bounty) 
+Seat 7: nievinski (19027 in chips, $1.50 bounty) 
+Seat 8: sunrise989 (70875 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 50
+Kevin12345Mc: posts the ante 50
+GoWhiskey: posts the ante 50
+AdelinusA98: posts the ante 50
+sanich2011: posts the ante 50
+mantasdino: posts the ante 50
+nievinski: posts the ante 50
+sunrise989: posts the ante 50
+GoWhiskey: posts small blind 200
+AdelinusA98: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 8h]
+sanich2011: folds 
+mantasdino: calls 400
+nievinski: raises 1800 to 2200
+sunrise989: calls 2200
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+AdelinusA98: calls 1800
+mantasdino: raises 34375 to 36575 and is all-in
+nievinski: calls 16777 and is all-in
+sunrise989: folds 
+AdelinusA98: calls 22010 and is all-in
+Uncalled bet (12365) returned to mantasdino
+*** FLOP *** [4h 6h Jd]
+*** TURN *** [4h 6h Jd] [6s]
+*** RIVER *** [4h 6h Jd 6s] [6d]
+*** SHOW DOWN ***
+AdelinusA98: shows [4s Kd] (a full house, Sixes full of Fours)
+mantasdino: shows [Ks Ac] (three of a kind, Sixes)
+AdelinusA98 collected 10466 from side pot
+nievinski: shows [7h 7d] (a full house, Sixes full of Sevens)
+nievinski collected 59731 from main pot
+*** SUMMARY ***
+Total pot 70197 Main pot 59731. Side pot 10466. | Rake 0 
+Board [4h 6h Jd 6s 6d]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: GoWhiskey (small blind) folded before Flop
+Seat 4: AdelinusA98 (big blind) showed [4s Kd] and won (10466) with a full house, Sixes full of Fours
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: mantasdino showed [Ks Ac] and lost with three of a kind, Sixes
+Seat 7: nievinski showed [7h 7d] and won (59731) with a full house, Sixes full of Sevens
+Seat 8: sunrise989 folded before Flop
+
+
+
+PokerStars Hand #255003803332: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (200/400) - 2025/02/23 16:46:57 WET [2025/02/23 11:46:57 ET]
+Table '3860731904 253' 8-max Seat #3 is the button
+Seat 1: TheNewGirl_666 (24950 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (17335 in chips, $1.50 bounty) 
+Seat 3: GoWhiskey (25288 in chips, $1.50 bounty) 
+Seat 4: AdelinusA98 (10466 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (72944 in chips, $3.75 bounty) 
+Seat 6: mantasdino (12365 in chips, $1.50 bounty) 
+Seat 7: nievinski (59731 in chips, $1.50 bounty) 
+Seat 8: sunrise989 (68625 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 50
+Kevin12345Mc: posts the ante 50
+GoWhiskey: posts the ante 50
+AdelinusA98: posts the ante 50
+sanich2011: posts the ante 50
+mantasdino: posts the ante 50
+nievinski: posts the ante 50
+sunrise989: posts the ante 50
+AdelinusA98: posts small blind 200
+sanich2011: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 3d]
+mantasdino: folds 
+nievinski: raises 400 to 800
+sunrise989: folds 
+TheNewGirl_666: calls 800
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+AdelinusA98: raises 9616 to 10416 and is all-in
+sanich2011: folds 
+nievinski: raises 49265 to 59681 and is all-in
+TheNewGirl_666: folds 
+Uncalled bet (49265) returned to nievinski
+*** FLOP *** [5c 7d As]
+*** TURN *** [5c 7d As] [7h]
+*** RIVER *** [5c 7d As 7h] [4d]
+*** SHOW DOWN ***
+AdelinusA98: shows [Qh Jc] (a pair of Sevens)
+nievinski: shows [Kc Kh] (two pair, Kings and Sevens)
+nievinski collected 22432 from pot
+nievinski wins $0.75 for eliminating AdelinusA98 and their own bounty increases by $0.75 to $2.25
+AdelinusA98 finished the tournament
+*** SUMMARY ***
+Total pot 22432 | Rake 0 
+Board [5c 7d As 7h 4d]
+Seat 1: TheNewGirl_666 folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey (button) folded before Flop (didn't bet)
+Seat 4: AdelinusA98 (small blind) showed [Qh Jc] and lost with a pair of Sevens
+Seat 5: sanich2011 (big blind) folded before Flop
+Seat 6: mantasdino folded before Flop (didn't bet)
+Seat 7: nievinski showed [Kc Kh] and won (22432) with two pair, Kings and Sevens
+Seat 8: sunrise989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003815868: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (200/400) - 2025/02/23 16:47:42 WET [2025/02/23 11:47:42 ET]
+Table '3860731904 253' 8-max Seat #5 is the button
+Seat 1: TheNewGirl_666 (24100 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (17285 in chips, $1.50 bounty) 
+Seat 3: GoWhiskey (25238 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (72494 in chips, $3.75 bounty) 
+Seat 6: mantasdino (12315 in chips, $1.50 bounty) 
+Seat 7: nievinski (71697 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (68575 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 50
+Kevin12345Mc: posts the ante 50
+GoWhiskey: posts the ante 50
+sanich2011: posts the ante 50
+mantasdino: posts the ante 50
+nievinski: posts the ante 50
+sunrise989: posts the ante 50
+mantasdino: posts small blind 200
+nievinski: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 4h]
+sunrise989: folds 
+TheNewGirl_666: calls 400
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+sanich2011: folds 
+mantasdino: raises 11865 to 12265 and is all-in
+nievinski: folds 
+gytis_ltb is disconnected 
+TheNewGirl_666: folds 
+Uncalled bet (11865) returned to mantasdino
+mantasdino collected 1550 from pot
+*** SUMMARY ***
+Total pot 1550 | Rake 0 
+Seat 1: TheNewGirl_666 folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 5: sanich2011 (button) folded before Flop (didn't bet)
+Seat 6: mantasdino (small blind) collected (1550)
+Seat 7: nievinski (big blind) folded before Flop
+Seat 8: sunrise989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003828656: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (200/400) - 2025/02/23 16:48:29 WET [2025/02/23 11:48:29 ET]
+Table '3860731904 253' 8-max Seat #6 is the button
+Seat 1: TheNewGirl_666 (23650 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (17235 in chips, $1.50 bounty) 
+Seat 3: GoWhiskey (25188 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (25000 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (72444 in chips, $3.75 bounty) 
+Seat 6: mantasdino (13415 in chips, $1.50 bounty) 
+Seat 7: nievinski (71247 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (68525 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 50
+Kevin12345Mc: posts the ante 50
+GoWhiskey: posts the ante 50
+gytis_ltb: posts the ante 50
+sanich2011: posts the ante 50
+mantasdino: posts the ante 50
+nievinski: posts the ante 50
+sunrise989: posts the ante 50
+nievinski: posts small blind 200
+sunrise989: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Qs]
+TheNewGirl_666: raises 400 to 800
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+gytis_ltb is disconnected 
+gytis_ltb is connected 
+gytis_ltb is disconnected 
+gytis_ltb has timed out while disconnected
+gytis_ltb: folds 
+gytis_ltb is sitting out
+sanich2011: folds 
+mantasdino: folds 
+nievinski: folds 
+sunrise989: calls 400
+*** FLOP *** [5h Qc 3c]
+gytis_ltb is disconnected 
+gytis_ltb has returned
+sunrise989: bets 2200
+TheNewGirl_666: folds 
+Uncalled bet (2200) returned to sunrise989
+sunrise989 collected 2200 from pot
+sunrise989: doesn't show hand 
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Board [5h Qc 3c]
+Seat 1: TheNewGirl_666 folded on the Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: gytis_ltb folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: mantasdino (button) folded before Flop (didn't bet)
+Seat 7: nievinski (small blind) folded before Flop
+Seat 8: sunrise989 (big blind) collected (2200)
+
+
+
+PokerStars Hand #255003854235: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (200/400) - 2025/02/23 16:50:02 WET [2025/02/23 11:50:02 ET]
+Table '3860731904 253' 8-max Seat #7 is the button
+Seat 1: TheNewGirl_666 (22800 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (17185 in chips, $1.50 bounty) 
+Seat 3: GoWhiskey (25138 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (24950 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (72394 in chips, $3.75 bounty) 
+Seat 6: mantasdino (13365 in chips, $1.50 bounty) 
+Seat 7: nievinski (70997 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (69875 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 50
+Kevin12345Mc: posts the ante 50
+GoWhiskey: posts the ante 50
+gytis_ltb: posts the ante 50
+sanich2011: posts the ante 50
+mantasdino: posts the ante 50
+nievinski: posts the ante 50
+sunrise989: posts the ante 50
+sunrise989: posts small blind 200
+TheNewGirl_666: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 2c]
+Kevin12345Mc: folds 
+gytis_ltb is disconnected 
+GoWhiskey: folds 
+gytis_ltb is connected 
+gytis_ltb is disconnected 
+gytis_ltb is connected 
+gytis_ltb is disconnected 
+gytis_ltb has timed out while disconnected
+gytis_ltb: folds 
+gytis_ltb is sitting out
+sanich2011: folds 
+mantasdino: raises 800 to 1200
+nievinski: folds 
+sunrise989: folds 
+TheNewGirl_666: folds 
+Uncalled bet (800) returned to mantasdino
+mantasdino collected 1400 from pot
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 1: TheNewGirl_666 (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: gytis_ltb folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: mantasdino collected (1400)
+Seat 7: nievinski (button) folded before Flop (didn't bet)
+Seat 8: sunrise989 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255003862258: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (200/400) - 2025/02/23 16:50:32 WET [2025/02/23 11:50:32 ET]
+Table '3860731904 253' 8-max Seat #8 is the button
+Seat 1: TheNewGirl_666 (22350 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (17135 in chips, $1.50 bounty) 
+Seat 3: GoWhiskey (25088 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (24900 in chips, $1.50 bounty) is sitting out
+Seat 5: sanich2011 (72344 in chips, $3.75 bounty) 
+Seat 6: mantasdino (14315 in chips, $1.50 bounty) 
+Seat 7: nievinski (70947 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (69625 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 50
+Kevin12345Mc: posts the ante 50
+GoWhiskey: posts the ante 50
+gytis_ltb: posts the ante 50
+sanich2011: posts the ante 50
+mantasdino: posts the ante 50
+nievinski: posts the ante 50
+sunrise989: posts the ante 50
+TheNewGirl_666: posts small blind 200
+Kevin12345Mc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h Ts]
+GoWhiskey: folds 
+gytis_ltb: folds 
+gytis_ltb is disconnected 
+sanich2011: folds 
+mantasdino: folds 
+nievinski: folds 
+sunrise989: raises 400 to 800
+TheNewGirl_666: calls 600
+Kevin12345Mc: calls 400
+*** FLOP *** [Jd Qh Qc]
+TheNewGirl_666: bets 800
+gytis_ltb is disconnected 
+Kevin12345Mc: folds 
+sunrise989: calls 800
+*** TURN *** [Jd Qh Qc] [Th]
+gytis_ltb is disconnected 
+gytis_ltb has returned
+TheNewGirl_666: bets 1200
+sunrise989: calls 1200
+*** RIVER *** [Jd Qh Qc Th] [Jc]
+TheNewGirl_666: bets 1200
+sunrise989: folds [5h Ah]
+Uncalled bet (1200) returned to TheNewGirl_666
+TheNewGirl_666 collected 6800 from pot
+*** SUMMARY ***
+Total pot 6800 | Rake 0 
+Board [Jd Qh Qc Th Jc]
+Seat 1: TheNewGirl_666 (small blind) collected (6800)
+Seat 2: Kevin12345Mc (big blind) folded on the Flop
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: gytis_ltb folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: mantasdino folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: sunrise989 (button) folded on the River
+
+
+
+PokerStars Hand #255003874566: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (200/400) - 2025/02/23 16:51:17 WET [2025/02/23 11:51:17 ET]
+Table '3860731904 253' 8-max Seat #1 is the button
+Seat 1: TheNewGirl_666 (26300 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (16285 in chips, $1.50 bounty) 
+Seat 3: GoWhiskey (25038 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (24850 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (72294 in chips, $3.75 bounty) 
+Seat 6: mantasdino (14265 in chips, $1.50 bounty) 
+Seat 7: nievinski (70897 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (66775 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 50
+Kevin12345Mc: posts the ante 50
+GoWhiskey: posts the ante 50
+gytis_ltb: posts the ante 50
+sanich2011: posts the ante 50
+mantasdino: posts the ante 50
+nievinski: posts the ante 50
+sunrise989: posts the ante 50
+Kevin12345Mc: posts small blind 200
+GoWhiskey: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Qh]
+gytis_ltb: calls 400
+sanich2011: calls 400
+mantasdino: calls 400
+nievinski: raises 400 to 800
+sunrise989: calls 800
+TheNewGirl_666: calls 800
+Kevin12345Mc: raises 3600 to 4400
+GoWhiskey: folds 
+gytis_ltb: folds 
+sanich2011: folds 
+mantasdino: raises 9815 to 14215 and is all-in
+nievinski: folds 
+sunrise989: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: calls 9815
+*** FLOP *** [Qs 6c 6h]
+*** TURN *** [Qs 6c 6h] [2s]
+*** RIVER *** [Qs 6c 6h 2s] [6s]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [As Qh] (a full house, Sixes full of Queens)
+mantasdino: shows [Ad 5h] (three of a kind, Sixes)
+Kevin12345Mc collected 32430 from pot
+Kevin12345Mc wins $0.75 for eliminating mantasdino and their own bounty increases by $0.75 to $2.25
+mantasdino finished the tournament
+*** SUMMARY ***
+Total pot 32430 | Rake 0 
+Board [Qs 6c 6h 2s 6s]
+Seat 1: TheNewGirl_666 (button) folded before Flop
+Seat 2: Kevin12345Mc (small blind) showed [As Qh] and won (32430) with a full house, Sixes full of Queens
+Seat 3: GoWhiskey (big blind) folded before Flop
+Seat 4: gytis_ltb folded before Flop
+Seat 5: sanich2011 folded before Flop
+Seat 6: mantasdino showed [Ad 5h] and lost with three of a kind, Sixes
+Seat 7: nievinski folded before Flop
+Seat 8: sunrise989 folded before Flop
+
+
+
+PokerStars Hand #255003893765: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (200/400) - 2025/02/23 16:52:28 WET [2025/02/23 11:52:28 ET]
+Table '3860731904 253' 8-max Seat #2 is the button
+Seat 1: TheNewGirl_666 (25450 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (34450 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (24588 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (24400 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (71844 in chips, $3.75 bounty) 
+Seat 7: nievinski (70047 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (65925 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 50
+Kevin12345Mc: posts the ante 50
+GoWhiskey: posts the ante 50
+gytis_ltb: posts the ante 50
+sanich2011: posts the ante 50
+nievinski: posts the ante 50
+sunrise989: posts the ante 50
+GoWhiskey: posts small blind 200
+gytis_ltb: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 9h]
+MIRAG3M is disconnected 
+sanich2011: raises 400 to 800
+nievinski: calls 800
+sunrise989: folds 
+TheNewGirl_666: calls 800
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+gytis_ltb: calls 400
+*** FLOP *** [Qd Ts 4s]
+gytis_ltb: checks 
+sanich2011: checks 
+nievinski: checks 
+TheNewGirl_666: bets 800
+gytis_ltb: folds 
+sanich2011: calls 800
+nievinski: folds 
+*** TURN *** [Qd Ts 4s] [Qc]
+sanich2011: checks 
+TheNewGirl_666: bets 800
+sanich2011: calls 800
+*** RIVER *** [Qd Ts 4s Qc] [7c]
+sanich2011: checks 
+TheNewGirl_666: bets 1200
+sanich2011: calls 1200
+*** SHOW DOWN ***
+TheNewGirl_666: shows [As Kd] (a pair of Queens)
+sanich2011: shows [9c 9s] (two pair, Queens and Nines)
+sanich2011 collected 9350 from pot
+*** SUMMARY ***
+Total pot 9350 | Rake 0 
+Board [Qd Ts 4s Qc 7c]
+Seat 1: TheNewGirl_666 showed [As Kd] and lost with a pair of Queens
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: GoWhiskey (small blind) folded before Flop
+Seat 4: gytis_ltb (big blind) folded on the Flop
+Seat 5: sanich2011 showed [9c 9s] and won (9350) with two pair, Queens and Nines
+Seat 7: nievinski folded on the Flop
+Seat 8: sunrise989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003915124: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (200/400) - 2025/02/23 16:53:46 WET [2025/02/23 11:53:46 ET]
+Table '3860731904 253' 8-max Seat #3 is the button
+Seat 1: TheNewGirl_666 (21800 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (34400 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (24338 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (23550 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (77544 in chips, $3.75 bounty) 
+Seat 6: MIRAG3M (25000 in chips, $1.50 bounty) 
+Seat 7: nievinski (69197 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (65875 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 50
+Kevin12345Mc: posts the ante 50
+GoWhiskey: posts the ante 50
+gytis_ltb: posts the ante 50
+sanich2011: posts the ante 50
+MIRAG3M: posts the ante 50
+nievinski: posts the ante 50
+sunrise989: posts the ante 50
+gytis_ltb: posts small blind 200
+sanich2011: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd Qd]
+MIRAG3M: folds 
+nievinski: raises 400 to 800
+sunrise989: folds 
+TheNewGirl_666: calls 800
+Kevin12345Mc: raises 2400 to 3200
+GoWhiskey: folds 
+gytis_ltb: folds 
+sanich2011: folds 
+nievinski: calls 2400
+TheNewGirl_666: folds 
+*** FLOP *** [3c 9s 7c]
+nievinski: checks 
+Kevin12345Mc: bets 2706
+nievinski: calls 2706
+*** TURN *** [3c 9s 7c] [8c]
+nievinski: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [3c 9s 7c 8c] [Js]
+nievinski: bets 4492
+Kevin12345Mc: calls 4492
+*** SHOW DOWN ***
+nievinski: shows [9h Th] (a straight, Seven to Jack)
+Kevin12345Mc: mucks hand 
+nievinski collected 22596 from pot
+*** SUMMARY ***
+Total pot 22596 | Rake 0 
+Board [3c 9s 7c 8c Js]
+Seat 1: TheNewGirl_666 folded before Flop
+Seat 2: Kevin12345Mc mucked [Jd Qd]
+Seat 3: GoWhiskey (button) folded before Flop (didn't bet)
+Seat 4: gytis_ltb (small blind) folded before Flop
+Seat 5: sanich2011 (big blind) folded before Flop
+Seat 6: MIRAG3M folded before Flop (didn't bet)
+Seat 7: nievinski showed [9h Th] and won (22596) with a straight, Seven to Jack
+Seat 8: sunrise989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004022056: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (250/500) - 2025/02/23 17:02:30 WET [2025/02/23 12:02:30 ET]
+Table '3860731904 253' 8-max Seat #4 is the button
+Seat 1: TheNewGirl_666 (20950 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23952 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (24288 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (23300 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (77094 in chips, $3.75 bounty) 
+Seat 6: MIRAG3M (24950 in chips, $1.50 bounty) 
+Seat 7: nievinski (81345 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (65825 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 60
+Kevin12345Mc: posts the ante 60
+GoWhiskey: posts the ante 60
+gytis_ltb: posts the ante 60
+sanich2011: posts the ante 60
+MIRAG3M: posts the ante 60
+nievinski: posts the ante 60
+sunrise989: posts the ante 60
+sanich2011: posts small blind 250
+MIRAG3M: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 3c]
+gytis_ltb is disconnected 
+nievinski: folds 
+sunrise989: folds 
+TheNewGirl_666 has timed out
+TheNewGirl_666: folds 
+TheNewGirl_666 is sitting out
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+gytis_ltb: calls 500
+sanich2011: calls 250
+MIRAG3M: checks 
+*** FLOP *** [Kh 7h Js]
+sanich2011: checks 
+MIRAG3M: checks 
+gytis_ltb: bets 750
+sanich2011: folds 
+MIRAG3M: calls 750
+*** TURN *** [Kh 7h Js] [3h]
+MIRAG3M: checks 
+gytis_ltb: bets 2000
+MIRAG3M: raises 21640 to 23640 and is all-in
+gytis_ltb: folds 
+Uncalled bet (21640) returned to MIRAG3M
+MIRAG3M collected 7480 from pot
+MIRAG3M: doesn't show hand 
+*** SUMMARY ***
+Total pot 7480 | Rake 0 
+Board [Kh 7h Js 3h]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: gytis_ltb (button) folded on the Turn
+Seat 5: sanich2011 (small blind) folded on the Flop
+Seat 6: MIRAG3M (big blind) collected (7480)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: sunrise989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004066537: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (250/500) - 2025/02/23 17:05:11 WET [2025/02/23 12:05:11 ET]
+Table '3860731904 253' 8-max Seat #5 is the button
+Seat 1: TheNewGirl_666 (20890 in chips, $1.50 bounty) is sitting out
+Seat 2: Kevin12345Mc (23892 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (24228 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (19990 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (76534 in chips, $3.75 bounty) 
+Seat 6: MIRAG3M (29120 in chips, $1.50 bounty) 
+Seat 7: nievinski (81285 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (65765 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 60
+Kevin12345Mc: posts the ante 60
+GoWhiskey: posts the ante 60
+gytis_ltb: posts the ante 60
+sanich2011: posts the ante 60
+MIRAG3M: posts the ante 60
+nievinski: posts the ante 60
+sunrise989: posts the ante 60
+MIRAG3M: posts small blind 250
+nievinski: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Ts]
+sunrise989: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+gytis_ltb: folds 
+sanich2011: folds 
+MIRAG3M: calls 250
+nievinski: checks 
+*** FLOP *** [5c 3s Jd]
+MIRAG3M: bets 500
+nievinski: calls 500
+*** TURN *** [5c 3s Jd] [Qd]
+MIRAG3M: checks 
+nievinski: bets 818
+MIRAG3M: folds 
+Uncalled bet (818) returned to nievinski
+nievinski collected 2480 from pot
+*** SUMMARY ***
+Total pot 2480 | Rake 0 
+Board [5c 3s Jd Qd]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: gytis_ltb folded before Flop (didn't bet)
+Seat 5: sanich2011 (button) folded before Flop (didn't bet)
+Seat 6: MIRAG3M (small blind) folded on the Turn
+Seat 7: nievinski (big blind) collected (2480)
+Seat 8: sunrise989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004081222: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (250/500) - 2025/02/23 17:06:03 WET [2025/02/23 12:06:03 ET]
+Table '3860731904 253' 8-max Seat #6 is the button
+Seat 1: TheNewGirl_666 (20830 in chips, $1.50 bounty) is sitting out
+Seat 2: Kevin12345Mc (23832 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (24168 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (19930 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (76474 in chips, $3.75 bounty) 
+Seat 6: MIRAG3M (28060 in chips, $1.50 bounty) 
+Seat 7: nievinski (82705 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (65705 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 60
+Kevin12345Mc: posts the ante 60
+GoWhiskey: posts the ante 60
+gytis_ltb: posts the ante 60
+sanich2011: posts the ante 60
+MIRAG3M: posts the ante 60
+nievinski: posts the ante 60
+sunrise989: posts the ante 60
+nievinski: posts small blind 250
+sunrise989: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Qs]
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+gytis_ltb: raises 2000 to 2500
+sanich2011: calls 2500
+MIRAG3M: folds 
+nievinski: folds 
+sunrise989: calls 2000
+*** FLOP *** [As Ts 4d]
+sunrise989: checks 
+gytis_ltb: checks 
+sanich2011: checks 
+*** TURN *** [As Ts 4d] [Qh]
+sunrise989: checks 
+gytis_ltb: bets 2350
+sanich2011: calls 2350
+sunrise989: folds 
+*** RIVER *** [As Ts 4d Qh] [5s]
+gytis_ltb: checks 
+sanich2011: checks 
+*** SHOW DOWN ***
+gytis_ltb: shows [Jh Jd] (a pair of Jacks)
+sanich2011: shows [Ks Qc] (a pair of Queens)
+sanich2011 collected 12930 from pot
+*** SUMMARY ***
+Total pot 12930 | Rake 0 
+Board [As Ts 4d Qh 5s]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: gytis_ltb showed [Jh Jd] and lost with a pair of Jacks
+Seat 5: sanich2011 showed [Ks Qc] and won (12930) with a pair of Queens
+Seat 6: MIRAG3M (button) folded before Flop (didn't bet)
+Seat 7: nievinski (small blind) folded before Flop
+Seat 8: sunrise989 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #255004102488: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (250/500) - 2025/02/23 17:07:18 WET [2025/02/23 12:07:18 ET]
+Table '3860731904 253' 8-max Seat #7 is the button
+Seat 1: TheNewGirl_666 (20770 in chips, $1.50 bounty) is sitting out
+Seat 2: Kevin12345Mc (23772 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (24108 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (15020 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (84494 in chips, $3.75 bounty) 
+Seat 6: MIRAG3M (28000 in chips, $1.50 bounty) 
+Seat 7: nievinski (82395 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (63145 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 60
+Kevin12345Mc: posts the ante 60
+GoWhiskey: posts the ante 60
+gytis_ltb: posts the ante 60
+sanich2011: posts the ante 60
+MIRAG3M: posts the ante 60
+nievinski: posts the ante 60
+sunrise989: posts the ante 60
+sunrise989: posts small blind 250
+TheNewGirl_666: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 4s]
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+gytis_ltb: folds 
+sanich2011: folds 
+MIRAG3M: folds 
+nievinski: raises 500 to 1000
+sunrise989: raises 2980 to 3980
+TheNewGirl_666: folds 
+nievinski: folds 
+Uncalled bet (2980) returned to sunrise989
+sunrise989 collected 2980 from pot
+sunrise989: doesn't show hand 
+*** SUMMARY ***
+Total pot 2980 | Rake 0 
+Seat 1: TheNewGirl_666 (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: gytis_ltb folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: MIRAG3M folded before Flop (didn't bet)
+Seat 7: nievinski (button) folded before Flop
+Seat 8: sunrise989 (small blind) collected (2980)
+
+
+
+PokerStars Hand #255004112364: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (250/500) - 2025/02/23 17:07:53 WET [2025/02/23 12:07:53 ET]
+Table '3860731904 253' 8-max Seat #8 is the button
+Seat 1: TheNewGirl_666 (20210 in chips, $1.50 bounty) is sitting out
+Seat 2: Kevin12345Mc (23712 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (24048 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (14960 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (84434 in chips, $3.75 bounty) 
+Seat 6: MIRAG3M (27940 in chips, $1.50 bounty) 
+Seat 7: nievinski (81335 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (65065 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 60
+Kevin12345Mc: posts the ante 60
+GoWhiskey: posts the ante 60
+gytis_ltb: posts the ante 60
+sanich2011: posts the ante 60
+MIRAG3M: posts the ante 60
+nievinski: posts the ante 60
+sunrise989: posts the ante 60
+TheNewGirl_666: posts small blind 250
+Kevin12345Mc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 9s]
+GoWhiskey: folds 
+gytis_ltb: folds 
+sanich2011: folds 
+MIRAG3M: folds 
+nievinski: folds 
+sunrise989: calls 500
+TheNewGirl_666: folds 
+TheNewGirl_666 has returned
+Kevin12345Mc: checks 
+*** FLOP *** [8h Ts 4c]
+Kevin12345Mc: checks 
+sunrise989: checks 
+*** TURN *** [8h Ts 4c] [Jd]
+Kevin12345Mc: bets 1642
+sunrise989: calls 1642
+*** RIVER *** [8h Ts 4c Jd] [6c]
+Kevin12345Mc: bets 21510 and is all-in
+sunrise989: folds [Qc 6d]
+Uncalled bet (21510) returned to Kevin12345Mc
+Kevin12345Mc collected 5014 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 5014 | Rake 0 
+Board [8h Ts 4c Jd 6c]
+Seat 1: TheNewGirl_666 (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) collected (5014)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: gytis_ltb folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: MIRAG3M folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: sunrise989 (button) folded on the River
+
+
+
+PokerStars Hand #255004134704: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (250/500) - 2025/02/23 17:09:12 WET [2025/02/23 12:09:12 ET]
+Table '3860731904 253' 8-max Seat #1 is the button
+Seat 1: TheNewGirl_666 (19900 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (26524 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (23988 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (14900 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (84374 in chips, $3.75 bounty) 
+Seat 6: MIRAG3M (27880 in chips, $1.50 bounty) 
+Seat 7: nievinski (81275 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (62863 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 60
+Kevin12345Mc: posts the ante 60
+GoWhiskey: posts the ante 60
+gytis_ltb: posts the ante 60
+sanich2011: posts the ante 60
+MIRAG3M: posts the ante 60
+nievinski: posts the ante 60
+sunrise989: posts the ante 60
+Kevin12345Mc: posts small blind 250
+GoWhiskey: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 7s]
+gytis_ltb: calls 500
+sanich2011: calls 500
+MIRAG3M: folds 
+nievinski: raises 500 to 1000
+sunrise989: raises 500 to 1500
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: calls 1000
+gytis_ltb: folds 
+sanich2011: calls 1000
+nievinski: calls 500
+*** FLOP *** [4d 6d 7d]
+GoWhiskey: checks 
+sanich2011: checks 
+nievinski: checks 
+sunrise989: checks 
+*** TURN *** [4d 6d 7d] [4h]
+GoWhiskey: bets 2250
+sanich2011: folds 
+nievinski: calls 2250
+sunrise989: folds 
+*** RIVER *** [4d 6d 7d 4h] [5c]
+GoWhiskey: checks 
+nievinski: checks 
+*** SHOW DOWN ***
+GoWhiskey: shows [Ac 6c] (two pair, Sixes and Fours)
+nievinski: mucks hand 
+GoWhiskey collected 11730 from pot
+*** SUMMARY ***
+Total pot 11730 | Rake 0 
+Board [4d 6d 7d 4h 5c]
+Seat 1: TheNewGirl_666 (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: GoWhiskey (big blind) showed [Ac 6c] and won (11730) with two pair, Sixes and Fours
+Seat 4: gytis_ltb folded before Flop
+Seat 5: sanich2011 folded on the Turn
+Seat 6: MIRAG3M folded before Flop (didn't bet)
+Seat 7: nievinski mucked [9s Ad]
+Seat 8: sunrise989 folded on the Turn
+
+
+
+PokerStars Hand #255004152353: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (250/500) - 2025/02/23 17:10:13 WET [2025/02/23 12:10:13 ET]
+Table '3860731904 253' 8-max Seat #2 is the button
+Seat 1: TheNewGirl_666 (19840 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (26214 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (31908 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (14340 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (82814 in chips, $3.75 bounty) 
+Seat 6: MIRAG3M (27820 in chips, $1.50 bounty) 
+Seat 7: nievinski (77465 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (61303 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 60
+Kevin12345Mc: posts the ante 60
+GoWhiskey: posts the ante 60
+gytis_ltb: posts the ante 60
+sanich2011: posts the ante 60
+MIRAG3M: posts the ante 60
+nievinski: posts the ante 60
+sunrise989: posts the ante 60
+GoWhiskey: posts small blind 250
+gytis_ltb: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 9d]
+sanich2011: folds 
+MIRAG3M: raises 550 to 1050
+nievinski: raises 1550 to 2600
+sunrise989: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+gytis_ltb: folds 
+MIRAG3M: calls 1550
+*** FLOP *** [Ac 8c Kc]
+MIRAG3M: checks 
+nievinski: bets 500
+MIRAG3M: calls 500
+*** TURN *** [Ac 8c Kc] [7c]
+MIRAG3M: checks 
+nievinski: checks 
+*** RIVER *** [Ac 8c Kc 7c] [Jd]
+MIRAG3M: checks 
+nievinski: checks 
+*** SHOW DOWN ***
+MIRAG3M: shows [Ks Qh] (a pair of Kings)
+nievinski: shows [Td Ts] (a pair of Tens)
+MIRAG3M collected 7430 from pot
+*** SUMMARY ***
+Total pot 7430 | Rake 0 
+Board [Ac 8c Kc 7c Jd]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: GoWhiskey (small blind) folded before Flop
+Seat 4: gytis_ltb (big blind) folded before Flop
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: MIRAG3M showed [Ks Qh] and won (7430) with a pair of Kings
+Seat 7: nievinski showed [Td Ts] and lost with a pair of Tens
+Seat 8: sunrise989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004169865: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (250/500) - 2025/02/23 17:11:14 WET [2025/02/23 12:11:14 ET]
+Table '3860731904 253' 8-max Seat #3 is the button
+Seat 1: TheNewGirl_666 (19780 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (26154 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (31598 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (13780 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (82754 in chips, $3.75 bounty) 
+Seat 6: MIRAG3M (32090 in chips, $1.50 bounty) 
+Seat 7: nievinski (74305 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (61243 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 60
+Kevin12345Mc: posts the ante 60
+GoWhiskey: posts the ante 60
+gytis_ltb: posts the ante 60
+sanich2011: posts the ante 60
+MIRAG3M: posts the ante 60
+nievinski: posts the ante 60
+sunrise989: posts the ante 60
+gytis_ltb: posts small blind 250
+sanich2011: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Jd]
+MIRAG3M: folds 
+nievinski: folds 
+sunrise989: calls 500
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+gytis_ltb: calls 250
+sanich2011: checks 
+*** FLOP *** [4c 9h Th]
+gytis_ltb: checks 
+sanich2011: bets 500
+sunrise989: calls 500
+gytis_ltb: calls 500
+*** TURN *** [4c 9h Th] [Ac]
+gytis_ltb: checks 
+sanich2011: checks 
+sunrise989: checks 
+*** RIVER *** [4c 9h Th Ac] [Qh]
+gytis_ltb: checks 
+sanich2011: checks 
+sunrise989: bets 60183 and is all-in
+gytis_ltb: folds 
+sanich2011: folds 
+Uncalled bet (60183) returned to sunrise989
+sunrise989 collected 3480 from pot
+sunrise989: doesn't show hand 
+*** SUMMARY ***
+Total pot 3480 | Rake 0 
+Board [4c 9h Th Ac Qh]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey (button) folded before Flop (didn't bet)
+Seat 4: gytis_ltb (small blind) folded on the River
+Seat 5: sanich2011 (big blind) folded on the River
+Seat 6: MIRAG3M folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: sunrise989 collected (3480)
+
+
+
+PokerStars Hand #255004189949: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (300/600) - 2025/02/23 17:12:22 WET [2025/02/23 12:12:22 ET]
+Table '3860731904 253' 8-max Seat #4 is the button
+Seat 1: TheNewGirl_666 (19720 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (26094 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (31538 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (12720 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (81694 in chips, $3.75 bounty) 
+Seat 6: MIRAG3M (32030 in chips, $1.50 bounty) 
+Seat 7: nievinski (74245 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (63663 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 75
+Kevin12345Mc: posts the ante 75
+GoWhiskey: posts the ante 75
+gytis_ltb: posts the ante 75
+sanich2011: posts the ante 75
+MIRAG3M: posts the ante 75
+nievinski: posts the ante 75
+sunrise989: posts the ante 75
+sanich2011: posts small blind 300
+MIRAG3M: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 4s]
+nievinski: folds 
+sunrise989: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+gytis_ltb: folds 
+sanich2011: calls 300
+MIRAG3M: checks 
+*** FLOP *** [Kd Ah Kh]
+sanich2011: checks 
+MIRAG3M: bets 600
+sanich2011: folds 
+Uncalled bet (600) returned to MIRAG3M
+MIRAG3M collected 1800 from pot
+MIRAG3M: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [Kd Ah Kh]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: gytis_ltb (button) folded before Flop (didn't bet)
+Seat 5: sanich2011 (small blind) folded on the Flop
+Seat 6: MIRAG3M (big blind) collected (1800)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: sunrise989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004197605: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (300/600) - 2025/02/23 17:12:48 WET [2025/02/23 12:12:48 ET]
+Table '3860731904 253' 8-max Seat #5 is the button
+Seat 1: TheNewGirl_666 (19645 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (26019 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (31463 in chips, $1.50 bounty) 
+Seat 4: gytis_ltb (12645 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (81019 in chips, $3.75 bounty) 
+Seat 6: MIRAG3M (33155 in chips, $1.50 bounty) 
+Seat 7: nievinski (74170 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (63588 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 75
+Kevin12345Mc: posts the ante 75
+GoWhiskey: posts the ante 75
+gytis_ltb: posts the ante 75
+sanich2011: posts the ante 75
+MIRAG3M: posts the ante 75
+nievinski: posts the ante 75
+sunrise989: posts the ante 75
+MIRAG3M: posts small blind 300
+nievinski: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 8c]
+sunrise989: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: raises 738 to 1338
+gytis_ltb: raises 11232 to 12570 and is all-in
+sanich2011: calls 12570
+MIRAG3M: folds 
+nievinski: folds 
+GoWhiskey: folds 
+*** FLOP *** [4s 5d 2c]
+*** TURN *** [4s 5d 2c] [Ad]
+*** RIVER *** [4s 5d 2c Ad] [Kc]
+*** SHOW DOWN ***
+gytis_ltb: shows [6c 6h] (a pair of Sixes)
+sanich2011: shows [Qh Qs] (a pair of Queens)
+sanich2011 collected 27978 from pot
+sanich2011 wins $0.75 for eliminating gytis_ltb and their own bounty increases by $0.75 to $4.50
+gytis_ltb finished the tournament
+NorikMistery is disconnected 
+*** SUMMARY ***
+Total pot 27978 | Rake 0 
+Board [4s 5d 2c Ad Kc]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop
+Seat 4: gytis_ltb showed [6c 6h] and lost with a pair of Sixes
+Seat 5: sanich2011 (button) showed [Qh Qs] and won (27978) with a pair of Queens
+Seat 6: MIRAG3M (small blind) folded before Flop
+Seat 7: nievinski (big blind) folded before Flop
+Seat 8: sunrise989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004208439: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (300/600) - 2025/02/23 17:13:25 WET [2025/02/23 12:13:25 ET]
+Table '3860731904 253' 8-max Seat #6 is the button
+Seat 1: TheNewGirl_666 (19570 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (25944 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (30050 in chips, $1.50 bounty) 
+Seat 4: NorikMistery (25000 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (96352 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (32780 in chips, $1.50 bounty) 
+Seat 7: nievinski (73495 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (63513 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 75
+Kevin12345Mc: posts the ante 75
+GoWhiskey: posts the ante 75
+NorikMistery: posts the ante 75
+sanich2011: posts the ante 75
+MIRAG3M: posts the ante 75
+nievinski: posts the ante 75
+sunrise989: posts the ante 75
+nievinski: posts small blind 300
+sunrise989: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 7d]
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+NorikMistery: raises 900 to 1500
+sanich2011: folds 
+MIRAG3M: folds 
+nievinski: folds 
+sunrise989: calls 900
+*** FLOP *** [2d Kc Qc]
+sunrise989: checks 
+NorikMistery: bets 2028
+sunrise989: raises 59910 to 61938 and is all-in
+NorikMistery: calls 21397 and is all-in
+Uncalled bet (38513) returned to sunrise989
+*** TURN *** [2d Kc Qc] [Kd]
+*** RIVER *** [2d Kc Qc Kd] [Ad]
+*** SHOW DOWN ***
+sunrise989: shows [2h Kh] (a full house, Kings full of Deuces)
+NorikMistery: shows [Tc Th] (two pair, Kings and Tens)
+sunrise989 collected 50750 from pot
+sunrise989 wins $0.75 for eliminating NorikMistery and their own bounty increases by $0.75 to $3
+NorikMistery finished the tournament
+*** SUMMARY ***
+Total pot 50750 | Rake 0 
+Board [2d Kc Qc Kd Ad]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: NorikMistery showed [Tc Th] and lost with two pair, Kings and Tens
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: MIRAG3M (button) folded before Flop (didn't bet)
+Seat 7: nievinski (small blind) folded before Flop
+Seat 8: sunrise989 (big blind) showed [2h Kh] and won (50750) with a full house, Kings full of Deuces
+
+
+
+PokerStars Hand #255004227957: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (300/600) - 2025/02/23 17:14:31 WET [2025/02/23 12:14:31 ET]
+Table '3860731904 253' 8-max Seat #7 is the button
+Seat 1: TheNewGirl_666 (19495 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (25869 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (29975 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (96277 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (32705 in chips, $1.50 bounty) 
+Seat 7: nievinski (73120 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (89263 in chips, $3 bounty) 
+TheNewGirl_666: posts the ante 75
+Kevin12345Mc: posts the ante 75
+GoWhiskey: posts the ante 75
+sanich2011: posts the ante 75
+MIRAG3M: posts the ante 75
+nievinski: posts the ante 75
+sunrise989: posts the ante 75
+sunrise989: posts small blind 300
+TheNewGirl_666: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 5h]
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+sanich2011: folds 
+MIRAG3M: raises 660 to 1260
+nievinski: calls 1260
+sunrise989: calls 960
+TheNewGirl_666: folds 
+*** FLOP *** [4h 3d Ks]
+sunrise989: checks 
+Nicozxc17 is disconnected 
+MIRAG3M: checks 
+nievinski: checks 
+*** TURN *** [4h 3d Ks] [Kd]
+sunrise989: checks 
+MIRAG3M: checks 
+nievinski: checks 
+*** RIVER *** [4h 3d Ks Kd] [3c]
+sunrise989: bets 87928 and is all-in
+MIRAG3M: folds 
+nievinski: folds 
+Uncalled bet (87928) returned to sunrise989
+sunrise989 collected 4905 from pot
+sunrise989: doesn't show hand 
+*** SUMMARY ***
+Total pot 4905 | Rake 0 
+Board [4h 3d Ks Kd 3c]
+Seat 1: TheNewGirl_666 (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: MIRAG3M folded on the River
+Seat 7: nievinski (button) folded on the River
+Seat 8: sunrise989 (small blind) collected (4905)
+
+
+
+PokerStars Hand #255004255591: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (300/600) - 2025/02/23 17:16:03 WET [2025/02/23 12:16:03 ET]
+Table '3860731904 253' 8-max Seat #8 is the button
+Seat 1: TheNewGirl_666 (18820 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (25794 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (29900 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (25000 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (96202 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (31370 in chips, $1.50 bounty) 
+Seat 7: nievinski (71785 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (92833 in chips, $3 bounty) 
+TheNewGirl_666: posts the ante 75
+Kevin12345Mc: posts the ante 75
+GoWhiskey: posts the ante 75
+Nicozxc17: posts the ante 75
+sanich2011: posts the ante 75
+MIRAG3M: posts the ante 75
+nievinski: posts the ante 75
+sunrise989: posts the ante 75
+TheNewGirl_666: posts small blind 300
+Kevin12345Mc: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 2c]
+GoWhiskey: folds 
+Nicozxc17: folds 
+sanich2011: calls 600
+MIRAG3M: raises 1680 to 2280
+nievinski: folds 
+sunrise989: calls 2280
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+sanich2011: raises 8340 to 10620
+MIRAG3M: folds 
+sunrise989: folds [Ac]
+Uncalled bet (8340) returned to sanich2011
+sanich2011 collected 8340 from pot
+sanich2011: doesn't show hand 
+*** SUMMARY ***
+Total pot 8340 | Rake 0 
+Seat 1: TheNewGirl_666 (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: Nicozxc17 folded before Flop (didn't bet)
+Seat 5: sanich2011 collected (8340)
+Seat 6: MIRAG3M folded before Flop
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: sunrise989 (button) folded before Flop
+
+
+
+PokerStars Hand #255004268845: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (300/600) - 2025/02/23 17:16:47 WET [2025/02/23 12:16:47 ET]
+Table '3860731904 253' 8-max Seat #1 is the button
+Seat 1: TheNewGirl_666 (18445 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (25119 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (29825 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (24925 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (102187 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (29015 in chips, $1.50 bounty) 
+Seat 7: nievinski (71710 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (90478 in chips, $3 bounty) 
+TheNewGirl_666: posts the ante 75
+Kevin12345Mc: posts the ante 75
+GoWhiskey: posts the ante 75
+Nicozxc17: posts the ante 75
+sanich2011: posts the ante 75
+MIRAG3M: posts the ante 75
+nievinski: posts the ante 75
+sunrise989: posts the ante 75
+Kevin12345Mc: posts small blind 300
+GoWhiskey: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s Js]
+Nicozxc17: folds 
+sanich2011: folds 
+MIRAG3M: folds 
+nievinski: folds 
+sunrise989: calls 600
+TheNewGirl_666: calls 600
+Kevin12345Mc: calls 300
+GoWhiskey: checks 
+*** FLOP *** [5s Qh Qc]
+Kevin12345Mc: checks 
+GoWhiskey: checks 
+sunrise989: checks 
+TheNewGirl_666: bets 600
+Kevin12345Mc: folds 
+GoWhiskey: calls 600
+sunrise989: folds 
+*** TURN *** [5s Qh Qc] [4d]
+GoWhiskey: checks 
+TheNewGirl_666: bets 600
+GoWhiskey: raises 3000 to 3600
+TheNewGirl_666: folds 
+Uncalled bet (3000) returned to GoWhiskey
+GoWhiskey collected 5400 from pot
+GoWhiskey: doesn't show hand 
+*** SUMMARY ***
+Total pot 5400 | Rake 0 
+Board [5s Qh Qc 4d]
+Seat 1: TheNewGirl_666 (button) folded on the Turn
+Seat 2: Kevin12345Mc (small blind) folded on the Flop
+Seat 3: GoWhiskey (big blind) collected (5400)
+Seat 4: Nicozxc17 folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: MIRAG3M folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: sunrise989 folded on the Flop
+
+
+
+PokerStars Hand #255004289766: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (300/600) - 2025/02/23 17:17:58 WET [2025/02/23 12:17:58 ET]
+Table '3860731904 253' 8-max Seat #2 is the button
+Seat 1: TheNewGirl_666 (16570 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (24444 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (33350 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (24850 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (102112 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (28940 in chips, $1.50 bounty) 
+Seat 7: nievinski (71635 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (89803 in chips, $3 bounty) 
+TheNewGirl_666: posts the ante 75
+Kevin12345Mc: posts the ante 75
+GoWhiskey: posts the ante 75
+Nicozxc17: posts the ante 75
+sanich2011: posts the ante 75
+MIRAG3M: posts the ante 75
+nievinski: posts the ante 75
+sunrise989: posts the ante 75
+GoWhiskey: posts small blind 300
+Nicozxc17: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Ah]
+sanich2011: folds 
+MIRAG3M: raises 660 to 1260
+nievinski: calls 1260
+sunrise989: calls 1260
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+Nicozxc17: calls 660
+*** FLOP *** [Js 9s 5c]
+Nicozxc17: checks 
+MIRAG3M: checks 
+nievinski: bets 1960
+sunrise989: folds 
+Nicozxc17: calls 1960
+MIRAG3M: folds 
+*** TURN *** [Js 9s 5c] [9d]
+Nicozxc17: checks 
+nievinski: bets 3254
+Nicozxc17: folds 
+Uncalled bet (3254) returned to nievinski
+nievinski collected 9860 from pot
+*** SUMMARY ***
+Total pot 9860 | Rake 0 
+Board [Js 9s 5c 9d]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: GoWhiskey (small blind) folded before Flop
+Seat 4: Nicozxc17 (big blind) folded on the Turn
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: MIRAG3M folded on the Flop
+Seat 7: nievinski collected (9860)
+Seat 8: sunrise989 folded on the Flop
+
+
+
+PokerStars Hand #255004315721: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (300/600) - 2025/02/23 17:19:26 WET [2025/02/23 12:19:26 ET]
+Table '3860731904 253' 8-max Seat #3 is the button
+Seat 1: TheNewGirl_666 (16495 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (24369 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (32975 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (21555 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (102037 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (27605 in chips, $1.50 bounty) 
+Seat 7: nievinski (78200 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (88468 in chips, $3 bounty) 
+TheNewGirl_666: posts the ante 75
+Kevin12345Mc: posts the ante 75
+GoWhiskey: posts the ante 75
+Nicozxc17: posts the ante 75
+sanich2011: posts the ante 75
+MIRAG3M: posts the ante 75
+nievinski: posts the ante 75
+sunrise989: posts the ante 75
+Nicozxc17: posts small blind 300
+sanich2011: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Ac]
+MIRAG3M: folds 
+nievinski: folds 
+sunrise989: raises 600 to 1200
+TheNewGirl_666: folds 
+Kevin12345Mc: calls 1200
+GoWhiskey: folds 
+Nicozxc17: folds 
+sanich2011: calls 600
+*** FLOP *** [5c 4s 9s]
+sanich2011: checks 
+sunrise989: checks 
+Kevin12345Mc: checks 
+*** TURN *** [5c 4s 9s] [2s]
+sanich2011: checks 
+sunrise989: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [5c 4s 9s 2s] [As]
+sanich2011: bets 1200
+sunrise989: folds 
+Kevin12345Mc: folds 
+Uncalled bet (1200) returned to sanich2011
+sanich2011 collected 4500 from pot
+sanich2011: doesn't show hand 
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Board [5c 4s 9s 2s As]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded on the River
+Seat 3: GoWhiskey (button) folded before Flop (didn't bet)
+Seat 4: Nicozxc17 (small blind) folded before Flop
+Seat 5: sanich2011 (big blind) collected (4500)
+Seat 6: MIRAG3M folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: sunrise989 folded on the River
+
+
+
+PokerStars Hand #255004333608: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (300/600) - 2025/02/23 17:20:25 WET [2025/02/23 12:20:25 ET]
+Table '3860731904 253' 8-max Seat #4 is the button
+Seat 1: TheNewGirl_666 (16420 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23094 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (32900 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (21180 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (105262 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (27530 in chips, $1.50 bounty) 
+Seat 7: nievinski (78125 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (87193 in chips, $3 bounty) 
+TheNewGirl_666: posts the ante 75
+Kevin12345Mc: posts the ante 75
+GoWhiskey: posts the ante 75
+Nicozxc17: posts the ante 75
+sanich2011: posts the ante 75
+MIRAG3M: posts the ante 75
+nievinski: posts the ante 75
+sunrise989: posts the ante 75
+sanich2011: posts small blind 300
+MIRAG3M: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 8d]
+nievinski: folds 
+sunrise989: folds 
+TheNewGirl_666: calls 600
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+Nicozxc17: folds 
+sanich2011: calls 300
+MIRAG3M: checks 
+*** FLOP *** [3h 9d As]
+sanich2011: checks 
+MIRAG3M: checks 
+TheNewGirl_666: checks 
+*** TURN *** [3h 9d As] [9h]
+sanich2011: checks 
+MIRAG3M: bets 900
+TheNewGirl_666: folds 
+sanich2011: folds 
+Uncalled bet (900) returned to MIRAG3M
+MIRAG3M collected 2400 from pot
+MIRAG3M: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [3h 9d As 9h]
+Seat 1: TheNewGirl_666 folded on the Turn
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: Nicozxc17 (button) folded before Flop (didn't bet)
+Seat 5: sanich2011 (small blind) folded on the Turn
+Seat 6: MIRAG3M (big blind) collected (2400)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: sunrise989 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004362397: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (300/600) - 2025/02/23 17:22:01 WET [2025/02/23 12:22:01 ET]
+Table '3860731904 253' 8-max Seat #5 is the button
+Seat 1: TheNewGirl_666 (15745 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23019 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (32825 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (21105 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (104587 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (29255 in chips, $1.50 bounty) 
+Seat 7: nievinski (78050 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (87118 in chips, $3 bounty) 
+TheNewGirl_666: posts the ante 75
+Kevin12345Mc: posts the ante 75
+GoWhiskey: posts the ante 75
+Nicozxc17: posts the ante 75
+sanich2011: posts the ante 75
+MIRAG3M: posts the ante 75
+nievinski: posts the ante 75
+sunrise989: posts the ante 75
+MIRAG3M: posts small blind 300
+nievinski: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 2s]
+sunrise989: raises 1200 to 1800
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+Nicozxc17: calls 1800
+sanich2011: folds 
+MIRAG3M: folds 
+nievinski: calls 1200
+*** FLOP *** [Ks 7h 7s]
+nievinski: checks 
+sunrise989: bets 6300
+Nicozxc17: folds 
+nievinski: folds 
+Uncalled bet (6300) returned to sunrise989
+sunrise989 collected 6300 from pot
+sunrise989: doesn't show hand 
+*** SUMMARY ***
+Total pot 6300 | Rake 0 
+Board [Ks 7h 7s]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: Nicozxc17 folded on the Flop
+Seat 5: sanich2011 (button) folded before Flop (didn't bet)
+Seat 6: MIRAG3M (small blind) folded before Flop
+Seat 7: nievinski (big blind) folded on the Flop
+Seat 8: sunrise989 collected (6300)
+
+
+
+PokerStars Hand #255004380421: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:23:01 WET [2025/02/23 12:23:01 ET]
+Table '3860731904 253' 8-max Seat #6 is the button
+Seat 1: TheNewGirl_666 (15670 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (22944 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (32750 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (19230 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (104512 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (28880 in chips, $1.50 bounty) 
+Seat 7: nievinski (76175 in chips, $2.25 bounty) 
+Seat 8: sunrise989 (91543 in chips, $3 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+Nicozxc17: posts the ante 90
+sanich2011: posts the ante 90
+MIRAG3M: posts the ante 90
+nievinski: posts the ante 90
+sunrise989: posts the ante 90
+nievinski: posts small blind 350
+sunrise989: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Tc]
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+Nicozxc17: folds 
+sanich2011: folds 
+MIRAG3M: folds 
+nievinski: folds 
+Uncalled bet (350) returned to sunrise989
+sunrise989 collected 1420 from pot
+sunrise989: doesn't show hand 
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: Nicozxc17 folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: MIRAG3M (button) folded before Flop (didn't bet)
+Seat 7: nievinski (small blind) folded before Flop
+Seat 8: sunrise989 (big blind) collected (1420)
+
+
+
+PokerStars Hand #255004384318: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:23:14 WET [2025/02/23 12:23:14 ET]
+Table '3860731904 253' 8-max Seat #7 is the button
+Seat 1: TheNewGirl_666 (15580 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (22854 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (32660 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (19140 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (104422 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (28790 in chips, $1.50 bounty) 
+Seat 7: nievinski (75735 in chips, $2.25 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+Nicozxc17: posts the ante 90
+sanich2011: posts the ante 90
+MIRAG3M: posts the ante 90
+nievinski: posts the ante 90
+TheNewGirl_666: posts small blind 350
+Kevin12345Mc: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 8d]
+GoWhiskey: folds 
+Nicozxc17: folds 
+sanich2011: calls 700
+MIRAG3M: folds 
+nievinski: folds 
+TheNewGirl_666: calls 350
+Kevin12345Mc: checks 
+*** FLOP *** [9s 7d Qs]
+TheNewGirl_666: bets 1400
+Kevin12345Mc: folds 
+sanich2011: calls 1400
+*** TURN *** [9s 7d Qs] [5s]
+TheNewGirl_666: checks 
+sanich2011: bets 700
+TheNewGirl_666: raises 700 to 1400
+sanich2011: calls 700
+*** RIVER *** [9s 7d Qs 5s] [6h]
+TheNewGirl_666: checks 
+sanich2011: checks 
+*** SHOW DOWN ***
+TheNewGirl_666: shows [Ad Qd] (a pair of Queens)
+sanich2011: mucks hand 
+TheNewGirl_666 collected 8330 from pot
+*** SUMMARY ***
+Total pot 8330 | Rake 0 
+Board [9s 7d Qs 5s 6h]
+Seat 1: TheNewGirl_666 (small blind) showed [Ad Qd] and won (8330) with a pair of Queens
+Seat 2: Kevin12345Mc (big blind) folded on the Flop
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: Nicozxc17 folded before Flop (didn't bet)
+Seat 5: sanich2011 mucked [9c Ah]
+Seat 6: MIRAG3M folded before Flop (didn't bet)
+Seat 7: nievinski (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004401458: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:24:11 WET [2025/02/23 12:24:11 ET]
+Table '3860731904 253' 8-max Seat #1 is the button
+Seat 1: TheNewGirl_666 (20320 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (22064 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (32570 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (19050 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (100832 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (28700 in chips, $1.50 bounty) 
+Seat 7: nievinski (75645 in chips, $2.25 bounty) 
+Seat 8: Pevêe (25000 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+Nicozxc17: posts the ante 90
+sanich2011: posts the ante 90
+MIRAG3M: posts the ante 90
+nievinski: posts the ante 90
+Pevêe: posts the ante 90
+Kevin12345Mc: posts small blind 350
+GoWhiskey: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 4c]
+Nicozxc17: folds 
+sanich2011: raises 700 to 1400
+MIRAG3M: folds 
+nievinski: folds 
+Pevêe: folds 
+TheNewGirl_666: calls 1400
+Kevin12345Mc: folds 
+GoWhiskey: raises 5600 to 7000
+sanich2011: calls 5600
+TheNewGirl_666: folds 
+*** FLOP *** [5d 8s 8c]
+GoWhiskey: bets 7700
+sanich2011: folds 
+Uncalled bet (7700) returned to GoWhiskey
+GoWhiskey collected 16470 from pot
+GoWhiskey: doesn't show hand 
+*** SUMMARY ***
+Total pot 16470 | Rake 0 
+Board [5d 8s 8c]
+Seat 1: TheNewGirl_666 (button) folded before Flop
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: GoWhiskey (big blind) collected (16470)
+Seat 4: Nicozxc17 folded before Flop (didn't bet)
+Seat 5: sanich2011 folded on the Flop
+Seat 6: MIRAG3M folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004413397: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:24:51 WET [2025/02/23 12:24:51 ET]
+Table '3860731904 253' 8-max Seat #2 is the button
+Seat 1: TheNewGirl_666 (18830 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (21624 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (41950 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (18960 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (93742 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (28610 in chips, $1.50 bounty) 
+Seat 7: nievinski (75555 in chips, $2.25 bounty) 
+Seat 8: Pevêe (24910 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+Nicozxc17: posts the ante 90
+sanich2011: posts the ante 90
+MIRAG3M: posts the ante 90
+nievinski: posts the ante 90
+Pevêe: posts the ante 90
+GoWhiskey: posts small blind 350
+Nicozxc17: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 3s]
+sanich2011: folds 
+MIRAG3M: raises 770 to 1470
+nievinski: folds 
+Pevêe: calls 1470
+TheNewGirl_666: calls 1470
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+Nicozxc17: calls 770
+*** FLOP *** [Ad Kc 4s]
+Nicozxc17: checks 
+MIRAG3M: checks 
+Pevêe: bets 2646
+TheNewGirl_666: folds 
+Nicozxc17: folds 
+MIRAG3M: calls 2646
+*** TURN *** [Ad Kc 4s] [Kh]
+MIRAG3M: checks 
+Pevêe: bets 2693
+MIRAG3M: folds 
+Uncalled bet (2693) returned to Pevêe
+Pevêe collected 12242 from pot
+*** SUMMARY ***
+Total pot 12242 | Rake 0 
+Board [Ad Kc 4s Kh]
+Seat 1: TheNewGirl_666 folded on the Flop
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: GoWhiskey (small blind) folded before Flop
+Seat 4: Nicozxc17 (big blind) folded on the Flop
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: MIRAG3M folded on the Turn
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe collected (12242)
+
+
+
+PokerStars Hand #255004446986: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:26:42 WET [2025/02/23 12:26:42 ET]
+Table '3860731904 253' 8-max Seat #3 is the button
+Seat 1: TheNewGirl_666 (17270 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (21534 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (41510 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (17400 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (93652 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (24404 in chips, $1.50 bounty) 
+Seat 7: nievinski (75465 in chips, $2.25 bounty) 
+Seat 8: Pevêe (32946 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+Nicozxc17: posts the ante 90
+sanich2011: posts the ante 90
+MIRAG3M: posts the ante 90
+nievinski: posts the ante 90
+Pevêe: posts the ante 90
+Nicozxc17: posts small blind 350
+sanich2011: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Qs]
+MIRAG3M: folds 
+nievinski: folds 
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+Nicozxc17: folds 
+Uncalled bet (350) returned to sanich2011
+sanich2011 collected 1420 from pot
+sanich2011: doesn't show hand 
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey (button) folded before Flop (didn't bet)
+Seat 4: Nicozxc17 (small blind) folded before Flop
+Seat 5: sanich2011 (big blind) collected (1420)
+Seat 6: MIRAG3M folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004452485: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:27:00 WET [2025/02/23 12:27:00 ET]
+Table '3860731904 253' 8-max Seat #4 is the button
+Seat 1: TheNewGirl_666 (17180 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (21444 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (41420 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (16960 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (94632 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (24314 in chips, $1.50 bounty) 
+Seat 7: nievinski (75375 in chips, $2.25 bounty) 
+Seat 8: Pevêe (32856 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+Nicozxc17: posts the ante 90
+sanich2011: posts the ante 90
+MIRAG3M: posts the ante 90
+nievinski: posts the ante 90
+Pevêe: posts the ante 90
+sanich2011: posts small blind 350
+MIRAG3M: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Td]
+nievinski: folds 
+Pevêe: folds 
+TheNewGirl_666: raises 700 to 1400
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+Nicozxc17: folds 
+sanich2011: folds 
+MIRAG3M: raises 22824 to 24224 and is all-in
+TheNewGirl_666: calls 15690 and is all-in
+Uncalled bet (7134) returned to MIRAG3M
+*** FLOP *** [Ac 6c 5s]
+*** TURN *** [Ac 6c 5s] [2s]
+*** RIVER *** [Ac 6c 5s 2s] [8h]
+*** SHOW DOWN ***
+MIRAG3M: shows [9s 9h] (a pair of Nines)
+TheNewGirl_666: shows [Qc Qs] (a pair of Queens)
+TheNewGirl_666 collected 35250 from pot
+*** SUMMARY ***
+Total pot 35250 | Rake 0 
+Board [Ac 6c 5s 2s 8h]
+Seat 1: TheNewGirl_666 showed [Qc Qs] and won (35250) with a pair of Queens
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: Nicozxc17 (button) folded before Flop (didn't bet)
+Seat 5: sanich2011 (small blind) folded before Flop
+Seat 6: MIRAG3M (big blind) showed [9s 9h] and lost with a pair of Nines
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004465607: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:27:44 WET [2025/02/23 12:27:44 ET]
+Table '3860731904 253' 8-max Seat #5 is the button
+Seat 1: TheNewGirl_666 (35250 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (21354 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (41330 in chips, $1.50 bounty) 
+Seat 4: Nicozxc17 (16870 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (94192 in chips, $4.50 bounty) 
+Seat 6: MIRAG3M (7134 in chips, $1.50 bounty) 
+Seat 7: nievinski (75285 in chips, $2.25 bounty) 
+Seat 8: Pevêe (32766 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+Nicozxc17: posts the ante 90
+sanich2011: posts the ante 90
+MIRAG3M: posts the ante 90
+nievinski: posts the ante 90
+Pevêe: posts the ante 90
+MIRAG3M: posts small blind 350
+nievinski: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Td]
+Pevêe: folds 
+TheNewGirl_666: calls 700
+Kevin12345Mc: folds 
+GoWhiskey: raises 2100 to 2800
+Nicozxc17: folds 
+sanich2011: folds 
+MIRAG3M: raises 4244 to 7044 and is all-in
+nievinski: folds 
+TheNewGirl_666: folds 
+GoWhiskey: calls 4244
+*** FLOP *** [3d 3s 3c]
+*** TURN *** [3d 3s 3c] [Jc]
+*** RIVER *** [3d 3s 3c Jc] [9c]
+*** SHOW DOWN ***
+MIRAG3M: shows [Qh Kh] (three of a kind, Threes)
+GoWhiskey: shows [As Ad] (a full house, Threes full of Aces)
+GoWhiskey collected 16208 from pot
+GoWhiskey wins $0.75 for eliminating MIRAG3M and their own bounty increases by $0.75 to $2.25
+MIRAG3M finished the tournament
+*** SUMMARY ***
+Total pot 16208 | Rake 0 
+Board [3d 3s 3c Jc 9c]
+Seat 1: TheNewGirl_666 folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey showed [As Ad] and won (16208) with a full house, Threes full of Aces
+Seat 4: Nicozxc17 folded before Flop (didn't bet)
+Seat 5: sanich2011 (button) folded before Flop (didn't bet)
+Seat 6: MIRAG3M (small blind) showed [Qh Kh] and lost with three of a kind, Threes
+Seat 7: nievinski (big blind) folded before Flop
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004478659: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:28:28 WET [2025/02/23 12:28:28 ET]
+Table '3860731904 253' 8-max Seat #7 is the button
+Seat 1: TheNewGirl_666 (34460 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (21264 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (50404 in chips, $2.25 bounty) 
+Seat 4: Nicozxc17 (16780 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (94102 in chips, $4.50 bounty) 
+Seat 7: nievinski (74495 in chips, $2.25 bounty) 
+Seat 8: Pevêe (32676 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+Nicozxc17: posts the ante 90
+sanich2011: posts the ante 90
+nievinski: posts the ante 90
+Pevêe: posts the ante 90
+Pevêe: posts small blind 350
+TheNewGirl_666: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 9c]
+OniKage69 is disconnected 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+Nicozxc17: raises 700 to 1400
+sanich2011: folds 
+nievinski: raises 2800 to 4200
+Pevêe: folds 
+TheNewGirl_666: folds 
+Nicozxc17: raises 12490 to 16690 and is all-in
+nievinski: calls 12490
+*** FLOP *** [7d 4h 3d]
+*** TURN *** [7d 4h 3d] [6c]
+*** RIVER *** [7d 4h 3d 6c] [7s]
+*** SHOW DOWN ***
+Nicozxc17: shows [Ad Th] (a pair of Sevens)
+nievinski: shows [Ah Qs] (a pair of Sevens - Ace+Queen kicker)
+nievinski collected 35060 from pot
+nievinski wins $0.75 for eliminating Nicozxc17 and their own bounty increases by $0.75 to $3
+Nicozxc17 finished the tournament
+*** SUMMARY ***
+Total pot 35060 | Rake 0 
+Board [7d 4h 3d 6c 7s]
+Seat 1: TheNewGirl_666 (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: Nicozxc17 showed [Ad Th] and lost with a pair of Sevens
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 7: nievinski (button) showed [Ah Qs] and won (35060) with a pair of Sevens
+Seat 8: Pevêe (small blind) folded before Flop
+
+
+
+PokerStars Hand #255004492552: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:29:14 WET [2025/02/23 12:29:14 ET]
+Table '3860731904 253' 8-max Seat #8 is the button
+Seat 1: TheNewGirl_666 (33670 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (21174 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (50314 in chips, $2.25 bounty) 
+Seat 5: sanich2011 (94012 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (25000 in chips, $1.50 bounty) 
+Seat 7: nievinski (92775 in chips, $3 bounty) 
+Seat 8: Pevêe (32236 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+sanich2011: posts the ante 90
+OniKage69: posts the ante 90
+nievinski: posts the ante 90
+Pevêe: posts the ante 90
+TheNewGirl_666: posts small blind 350
+Kevin12345Mc: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Kc]
+GoWhiskey: folds 
+sanich2011: folds 
+OniKage69: raises 840 to 1540
+nievinski: folds 
+KORKO6969 is disconnected 
+Pevêe: calls 1540
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [9s 2c 8c]
+OniKage69: checks 
+Pevêe: bets 1659
+OniKage69: folds 
+Uncalled bet (1659) returned to Pevêe
+Pevêe collected 4760 from pot
+Pevêe: doesn't show hand 
+*** SUMMARY ***
+Total pot 4760 | Rake 0 
+Board [9s 2c 8c]
+Seat 1: TheNewGirl_666 (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: OniKage69 folded on the Flop
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe (button) collected (4760)
+
+
+
+PokerStars Hand #255004511047: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:30:14 WET [2025/02/23 12:30:14 ET]
+Table '3860731904 253' 8-max Seat #1 is the button
+Seat 1: TheNewGirl_666 (33230 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (20384 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (50224 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (64238 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (93922 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (23370 in chips, $1.50 bounty) 
+Seat 7: nievinski (92685 in chips, $3 bounty) 
+Seat 8: Pevêe (35366 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+KORKO6969: posts the ante 90
+sanich2011: posts the ante 90
+OniKage69: posts the ante 90
+nievinski: posts the ante 90
+Pevêe: posts the ante 90
+Kevin12345Mc: posts small blind 350
+GoWhiskey: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 4c]
+KORKO6969: folds 
+sanich2011: folds 
+OniKage69: folds 
+nievinski: raises 700 to 1400
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: calls 700
+*** FLOP *** [7d 9c Ks]
+GoWhiskey: checks 
+nievinski: checks 
+*** TURN *** [7d 9c Ks] [4s]
+GoWhiskey: checks 
+nievinski: checks 
+*** RIVER *** [7d 9c Ks 4s] [Kd]
+GoWhiskey: checks 
+nievinski: checks 
+*** SHOW DOWN ***
+GoWhiskey: shows [Qd 5d] (a pair of Kings)
+nievinski: shows [Ac 2h] (a pair of Kings - Ace kicker)
+nievinski collected 3870 from pot
+*** SUMMARY ***
+Total pot 3870 | Rake 0 
+Board [7d 9c Ks 4s Kd]
+Seat 1: TheNewGirl_666 (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: GoWhiskey (big blind) showed [Qd 5d] and lost with a pair of Kings
+Seat 4: KORKO6969 folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski showed [Ac 2h] and won (3870) with a pair of Kings
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004523874: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:30:55 WET [2025/02/23 12:30:55 ET]
+Table '3860731904 253' 8-max Seat #2 is the button
+Seat 1: TheNewGirl_666 (33140 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (19944 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (48734 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (64148 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (93832 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (23280 in chips, $1.50 bounty) 
+Seat 7: nievinski (95065 in chips, $3 bounty) 
+Seat 8: Pevêe (35276 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+KORKO6969: posts the ante 90
+sanich2011: posts the ante 90
+OniKage69: posts the ante 90
+nievinski: posts the ante 90
+Pevêe: posts the ante 90
+GoWhiskey: posts small blind 350
+KORKO6969: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s Kh]
+sanich2011: calls 700
+OniKage69: folds 
+nievinski: raises 700 to 1400
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: calls 1050
+KORKO6969: calls 700
+sanich2011: calls 700
+*** FLOP *** [4h 2s 5h]
+GoWhiskey: checks 
+KORKO6969: checks 
+sanich2011: checks 
+nievinski: checks 
+*** TURN *** [4h 2s 5h] [8c]
+GoWhiskey: bets 3850
+KORKO6969: folds 
+sanich2011: folds 
+nievinski: folds 
+Uncalled bet (3850) returned to GoWhiskey
+GoWhiskey collected 6320 from pot
+GoWhiskey: doesn't show hand 
+*** SUMMARY ***
+Total pot 6320 | Rake 0 
+Board [4h 2s 5h 8c]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: GoWhiskey (small blind) collected (6320)
+Seat 4: KORKO6969 (big blind) folded on the Turn
+Seat 5: sanich2011 folded on the Turn
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski folded on the Turn
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004540330: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/23 17:31:48 WET [2025/02/23 12:31:48 ET]
+Table '3860731904 253' 8-max Seat #3 is the button
+Seat 1: TheNewGirl_666 (33050 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (19854 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (53564 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (62658 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (92342 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (23190 in chips, $1.50 bounty) 
+Seat 7: nievinski (93575 in chips, $3 bounty) 
+Seat 8: Pevêe (35186 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 90
+Kevin12345Mc: posts the ante 90
+GoWhiskey: posts the ante 90
+KORKO6969: posts the ante 90
+sanich2011: posts the ante 90
+OniKage69: posts the ante 90
+nievinski: posts the ante 90
+Pevêe: posts the ante 90
+KORKO6969: posts small blind 350
+sanich2011: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 9s]
+OniKage69: folds 
+nievinski: folds 
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: raises 1204 to 1904
+KORKO6969: folds 
+sanich2011: calls 1204
+*** FLOP *** [2s 3d 5d]
+sanich2011: checks 
+GoWhiskey: bets 1707
+sanich2011: calls 1707
+*** TURN *** [2s 3d 5d] [Qs]
+sanich2011: checks 
+GoWhiskey: bets 4900
+sanich2011: folds 
+Uncalled bet (4900) returned to GoWhiskey
+GoWhiskey collected 8292 from pot
+GoWhiskey: doesn't show hand 
+*** SUMMARY ***
+Total pot 8292 | Rake 0 
+Board [2s 3d 5d Qs]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey (button) collected (8292)
+Seat 4: KORKO6969 (small blind) folded before Flop
+Seat 5: sanich2011 (big blind) folded on the Turn
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004552901: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:32:29 WET [2025/02/23 12:32:29 ET]
+Table '3860731904 253' 8-max Seat #4 is the button
+Seat 1: TheNewGirl_666 (32960 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (19764 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (58155 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (62218 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (88641 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (23100 in chips, $1.50 bounty) 
+Seat 7: nievinski (93485 in chips, $3 bounty) 
+Seat 8: Pevêe (35096 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+sanich2011: posts small blind 400
+OniKage69: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 7c]
+nievinski: raises 800 to 1600
+Pevêe: calls 1600
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+KORKO6969: folds 
+sanich2011: folds 
+OniKage69: calls 800
+*** FLOP *** [Kc Jc 6h]
+OniKage69: checks 
+nievinski: bets 800
+Pevêe: calls 800
+OniKage69: folds 
+*** TURN *** [Kc Jc 6h] [9s]
+nievinski: checks 
+Pevêe: bets 3308
+nievinski: folds 
+Uncalled bet (3308) returned to Pevêe
+Pevêe collected 7600 from pot
+Pevêe: doesn't show hand 
+*** SUMMARY ***
+Total pot 7600 | Rake 0 
+Board [Kc Jc 6h 9s]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 (button) folded before Flop (didn't bet)
+Seat 5: sanich2011 (small blind) folded before Flop
+Seat 6: OniKage69 (big blind) folded on the Flop
+Seat 7: nievinski folded on the Turn
+Seat 8: Pevêe collected (7600)
+
+
+
+PokerStars Hand #255004570179: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:33:24 WET [2025/02/23 12:33:24 ET]
+Table '3860731904 253' 8-max Seat #5 is the button
+Seat 1: TheNewGirl_666 (32860 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (19664 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (58055 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (62118 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (88141 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (21400 in chips, $1.50 bounty) 
+Seat 7: nievinski (90985 in chips, $3 bounty) 
+Seat 8: Pevêe (40196 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+OniKage69: posts small blind 400
+nievinski: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 3h]
+Pevêe: folds 
+TheNewGirl_666: calls 800
+Kevin12345Mc: folds 
+GoWhiskey: raises 984 to 1784
+KORKO6969: folds 
+sanich2011: calls 1784
+OniKage69: folds 
+nievinski: calls 984
+TheNewGirl_666: calls 984
+*** FLOP *** [7c Ts 2c]
+nievinski: checks 
+TheNewGirl_666: checks 
+GoWhiskey: checks 
+sanich2011: checks 
+*** TURN *** [7c Ts 2c] [Th]
+nievinski: bets 2751
+TheNewGirl_666: folds 
+GoWhiskey: folds 
+sanich2011: folds 
+Uncalled bet (2751) returned to nievinski
+nievinski collected 8336 from pot
+*** SUMMARY ***
+Total pot 8336 | Rake 0 
+Board [7c Ts 2c Th]
+Seat 1: TheNewGirl_666 folded on the Turn
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded on the Turn
+Seat 4: KORKO6969 folded before Flop (didn't bet)
+Seat 5: sanich2011 (button) folded on the Turn
+Seat 6: OniKage69 (small blind) folded before Flop
+Seat 7: nievinski (big blind) collected (8336)
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004586208: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:34:16 WET [2025/02/23 12:34:16 ET]
+Table '3860731904 253' 8-max Seat #6 is the button
+Seat 1: TheNewGirl_666 (30976 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (19564 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (56171 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (62018 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (86257 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (20900 in chips, $1.50 bounty) 
+Seat 7: nievinski (97437 in chips, $3 bounty) 
+Seat 8: Pevêe (40096 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+nievinski: posts small blind 400
+Pevêe: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Jh]
+TheNewGirl_666: folds 
+Kevin12345Mc: raises 880 to 1680
+GoWhiskey: folds 
+KORKO6969: folds 
+sanich2011: calls 1680
+OniKage69: calls 1680
+nievinski: calls 1280
+Pevêe: calls 880
+*** FLOP *** [7d 3h 4h]
+nievinski: checks 
+Pevêe: checks 
+Kevin12345Mc: checks 
+sanich2011: bets 800
+OniKage69: folds 
+nievinski: calls 800
+Pevêe: folds 
+Kevin12345Mc: calls 800
+*** TURN *** [7d 3h 4h] [Ac]
+nievinski: checks 
+Kevin12345Mc: checks 
+sanich2011: checks 
+*** RIVER *** [7d 3h 4h Ac] [9d]
+nievinski: checks 
+Kevin12345Mc: checks 
+sanich2011: checks 
+*** SHOW DOWN ***
+nievinski: shows [6d Td] (high card Ace)
+Kevin12345Mc: shows [9h Jh] (a pair of Nines)
+sanich2011: mucks hand 
+Kevin12345Mc collected 11600 from pot
+*** SUMMARY ***
+Total pot 11600 | Rake 0 
+Board [7d 3h 4h Ac 9d]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc showed [9h Jh] and won (11600) with a pair of Nines
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 folded before Flop (didn't bet)
+Seat 5: sanich2011 mucked [5s 5h]
+Seat 6: OniKage69 (button) folded on the Flop
+Seat 7: nievinski (small blind) showed [6d Td] and lost with high card Ace
+Seat 8: Pevêe (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255004614984: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:35:47 WET [2025/02/23 12:35:47 ET]
+Table '3860731904 253' 8-max Seat #7 is the button
+Seat 1: TheNewGirl_666 (30876 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (28584 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (56071 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (61918 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (83677 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (19120 in chips, $1.50 bounty) 
+Seat 7: nievinski (94857 in chips, $3 bounty) 
+Seat 8: Pevêe (38316 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+Pevêe: posts small blind 400
+TheNewGirl_666: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 6c]
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+KORKO6969: folds 
+sanich2011: folds 
+OniKage69: folds 
+nievinski: folds 
+Pevêe: raises 1600 to 2400
+TheNewGirl_666: folds 
+Uncalled bet (1600) returned to Pevêe
+Pevêe collected 2400 from pot
+Pevêe: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: TheNewGirl_666 (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski (button) folded before Flop (didn't bet)
+Seat 8: Pevêe (small blind) collected (2400)
+
+
+
+PokerStars Hand #255004624007: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:36:16 WET [2025/02/23 12:36:16 ET]
+Table '3860731904 253' 8-max Seat #8 is the button
+Seat 1: TheNewGirl_666 (29976 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (28484 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (55971 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (61818 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (83577 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (19020 in chips, $1.50 bounty) 
+Seat 7: nievinski (94757 in chips, $3 bounty) 
+Seat 8: Pevêe (39816 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+TheNewGirl_666: posts small blind 400
+Kevin12345Mc: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 3d]
+GoWhiskey: folds 
+KORKO6969: raises 1600 to 2400
+sanich2011: folds 
+OniKage69: folds 
+nievinski: folds 
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+Uncalled bet (1600) returned to KORKO6969
+KORKO6969 collected 2800 from pot
+KORKO6969: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Seat 1: TheNewGirl_666 (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 collected (2800)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004629369: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:36:33 WET [2025/02/23 12:36:33 ET]
+Table '3860731904 253' 8-max Seat #1 is the button
+Seat 1: TheNewGirl_666 (29476 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (27584 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (55871 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (63718 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (83477 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (18920 in chips, $1.50 bounty) 
+Seat 7: nievinski (94657 in chips, $3 bounty) 
+Seat 8: Pevêe (39716 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+Kevin12345Mc: posts small blind 400
+GoWhiskey: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 2s]
+KORKO6969: folds 
+sanich2011: raises 800 to 1600
+OniKage69: folds 
+nievinski: folds 
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+Uncalled bet (800) returned to sanich2011
+sanich2011 collected 2800 from pot
+sanich2011: doesn't show hand 
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Seat 1: TheNewGirl_666 (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: GoWhiskey (big blind) folded before Flop
+Seat 4: KORKO6969 folded before Flop (didn't bet)
+Seat 5: sanich2011 collected (2800)
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004636138: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:36:54 WET [2025/02/23 12:36:54 ET]
+Table '3860731904 253' 8-max Seat #2 is the button
+Seat 1: TheNewGirl_666 (29376 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (27084 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (54971 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (63618 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (85377 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (18820 in chips, $1.50 bounty) 
+Seat 7: nievinski (94557 in chips, $3 bounty) 
+Seat 8: Pevêe (39616 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+GoWhiskey: posts small blind 400
+KORKO6969: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Ad]
+sanich2011: calls 800
+OniKage69: folds 
+nievinski: raises 800 to 1600
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: calls 1600
+GoWhiskey: folds 
+KORKO6969: folds 
+sanich2011: calls 800
+*** FLOP *** [4s 7s 6h]
+sanich2011: checks 
+nievinski: checks 
+Kevin12345Mc: checks 
+*** TURN *** [4s 7s 6h] [Qh]
+sanich2011: checks 
+nievinski: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [4s 7s 6h Qh] [4d]
+sanich2011: checks 
+nievinski: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+sanich2011: shows [Jc Th] (a pair of Fours)
+nievinski: shows [9d As] (a pair of Fours - Ace kicker)
+Kevin12345Mc: shows [6d Ad] (two pair, Sixes and Fours)
+Kevin12345Mc collected 6800 from pot
+*** SUMMARY ***
+Total pot 6800 | Rake 0 
+Board [4s 7s 6h Qh 4d]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) showed [6d Ad] and won (6800) with two pair, Sixes and Fours
+Seat 3: GoWhiskey (small blind) folded before Flop
+Seat 4: KORKO6969 (big blind) folded before Flop
+Seat 5: sanich2011 showed [Jc Th] and lost with a pair of Fours
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski showed [9d As] and lost with a pair of Fours
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004658232: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:38:05 WET [2025/02/23 12:38:05 ET]
+Table '3860731904 253' 8-max Seat #3 is the button
+Seat 1: TheNewGirl_666 (29276 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (32184 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (54471 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (62718 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (83677 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (18720 in chips, $1.50 bounty) 
+Seat 7: nievinski (92857 in chips, $3 bounty) 
+Seat 8: Pevêe (39516 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+KORKO6969: posts small blind 400
+sanich2011: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 4h]
+OniKage69: folds 
+nievinski: folds 
+Pevêe: raises 960 to 1760
+TheNewGirl_666: calls 1760
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+KORKO6969: calls 1360
+sanich2011: calls 960
+*** FLOP *** [Ad 3h 2h]
+KORKO6969: checks 
+sanich2011: checks 
+Pevêe: bets 2587
+TheNewGirl_666: folds 
+KORKO6969: folds 
+sanich2011: folds 
+Uncalled bet (2587) returned to Pevêe
+Pevêe collected 7840 from pot
+Pevêe: doesn't show hand 
+*** SUMMARY ***
+Total pot 7840 | Rake 0 
+Board [Ad 3h 2h]
+Seat 1: TheNewGirl_666 folded on the Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey (button) folded before Flop (didn't bet)
+Seat 4: KORKO6969 (small blind) folded on the Flop
+Seat 5: sanich2011 (big blind) folded on the Flop
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe collected (7840)
+
+
+
+PokerStars Hand #255004674587: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:38:58 WET [2025/02/23 12:38:58 ET]
+Table '3860731904 253' 8-max Seat #4 is the button
+Seat 1: TheNewGirl_666 (27416 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (32084 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (54371 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (60858 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (81817 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (18620 in chips, $1.50 bounty) 
+Seat 7: nievinski (92757 in chips, $3 bounty) 
+Seat 8: Pevêe (45496 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+sanich2011: posts small blind 400
+OniKage69: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 8h]
+nievinski: raises 800 to 1600
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+KORKO6969: folds 
+sanich2011: folds 
+OniKage69: calls 800
+*** FLOP *** [Ts 2d 7s]
+OniKage69: checks 
+nievinski: checks 
+*** TURN *** [Ts 2d 7s] [Qc]
+OniKage69: checks 
+nievinski: bets 2420
+OniKage69: calls 2420
+*** RIVER *** [Ts 2d 7s Qc] [3s]
+OniKage69: checks 
+nievinski: checks 
+*** SHOW DOWN ***
+OniKage69: shows [7d 8d] (a pair of Sevens)
+nievinski: shows [Qh Jc] (a pair of Queens)
+nievinski collected 9240 from pot
+*** SUMMARY ***
+Total pot 9240 | Rake 0 
+Board [Ts 2d 7s Qc 3s]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 (button) folded before Flop (didn't bet)
+Seat 5: sanich2011 (small blind) folded before Flop
+Seat 6: OniKage69 (big blind) showed [7d 8d] and lost with a pair of Sevens
+Seat 7: nievinski showed [Qh Jc] and won (9240) with a pair of Queens
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004691820: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:39:54 WET [2025/02/23 12:39:54 ET]
+Table '3860731904 253' 8-max Seat #5 is the button
+Seat 1: TheNewGirl_666 (27316 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (31984 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (54271 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (60758 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (81317 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (14500 in chips, $1.50 bounty) 
+Seat 7: nievinski (97877 in chips, $3 bounty) 
+Seat 8: Pevêe (45396 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+OniKage69: posts small blind 400
+nievinski: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 9c]
+Pevêe: folds 
+TheNewGirl_666: raises 800 to 1600
+Kevin12345Mc: calls 1600
+GoWhiskey: folds 
+KORKO6969: raises 6800 to 8400
+sanich2011: folds 
+OniKage69: folds 
+nievinski: folds 
+TheNewGirl_666: calls 6800
+Kevin12345Mc: folds 
+*** FLOP *** [2s 3d Js]
+TheNewGirl_666: checks 
+KORKO6969: bets 10200
+TheNewGirl_666: folds 
+Uncalled bet (10200) returned to KORKO6969
+KORKO6969 collected 20400 from pot
+KORKO6969: doesn't show hand 
+*** SUMMARY ***
+Total pot 20400 | Rake 0 
+Board [2s 3d Js]
+Seat 1: TheNewGirl_666 folded on the Flop
+Seat 2: Kevin12345Mc folded before Flop
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 collected (20400)
+Seat 5: sanich2011 (button) folded before Flop (didn't bet)
+Seat 6: OniKage69 (small blind) folded before Flop
+Seat 7: nievinski (big blind) folded before Flop
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004710259: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:40:53 WET [2025/02/23 12:40:53 ET]
+Table '3860731904 253' 8-max Seat #6 is the button
+Seat 1: TheNewGirl_666 (18816 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (30284 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (54171 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (72658 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (81217 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (14000 in chips, $1.50 bounty) 
+Seat 7: nievinski (96977 in chips, $3 bounty) 
+Seat 8: Pevêe (45296 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+nievinski: posts small blind 400
+Pevêe: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h Kh]
+TheNewGirl_666: calls 800
+Kevin12345Mc: folds 
+GoWhiskey: raises 2000 to 2800
+KORKO6969: folds 
+sanich2011: folds 
+OniKage69: folds 
+nievinski: calls 2400
+Pevêe: raises 7600 to 10400
+TheNewGirl_666: folds 
+GoWhiskey: folds 
+nievinski: calls 7600
+*** FLOP *** [Ts Jc Qd]
+nievinski: checks 
+Pevêe: bets 8316
+nievinski: folds 
+Uncalled bet (8316) returned to Pevêe
+Pevêe collected 25200 from pot
+Pevêe: doesn't show hand 
+*** SUMMARY ***
+Total pot 25200 | Rake 0 
+Board [Ts Jc Qd]
+Seat 1: TheNewGirl_666 folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop
+Seat 4: KORKO6969 folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: OniKage69 (button) folded before Flop (didn't bet)
+Seat 7: nievinski (small blind) folded on the Flop
+Seat 8: Pevêe (big blind) collected (25200)
+
+
+
+PokerStars Hand #255004731080: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (400/800) - 2025/02/23 17:41:59 WET [2025/02/23 12:41:59 ET]
+Table '3860731904 253' 8-max Seat #7 is the button
+Seat 1: TheNewGirl_666 (17916 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (30184 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (51271 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (72558 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (81117 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (13900 in chips, $1.50 bounty) 
+Seat 7: nievinski (86477 in chips, $3 bounty) 
+Seat 8: Pevêe (59996 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 100
+Kevin12345Mc: posts the ante 100
+GoWhiskey: posts the ante 100
+KORKO6969: posts the ante 100
+sanich2011: posts the ante 100
+OniKage69: posts the ante 100
+nievinski: posts the ante 100
+Pevêe: posts the ante 100
+Pevêe: posts small blind 400
+TheNewGirl_666: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 8h]
+Kevin12345Mc: raises 960 to 1760
+GoWhiskey: raises 3440 to 5200
+KORKO6969: folds 
+sanich2011: folds 
+OniKage69: folds 
+nievinski: folds 
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+Uncalled bet (3440) returned to GoWhiskey
+GoWhiskey collected 5520 from pot
+GoWhiskey: doesn't show hand 
+*** SUMMARY ***
+Total pot 5520 | Rake 0 
+Seat 1: TheNewGirl_666 (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop
+Seat 3: GoWhiskey collected (5520)
+Seat 4: KORKO6969 folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski (button) folded before Flop (didn't bet)
+Seat 8: Pevêe (small blind) folded before Flop
+
+
+
+PokerStars Hand #255004743063: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (500/1000) - 2025/02/23 17:42:38 WET [2025/02/23 12:42:38 ET]
+Table '3860731904 253' 8-max Seat #8 is the button
+Seat 1: TheNewGirl_666 (17016 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (28324 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (54931 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (72458 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (81017 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (13800 in chips, $1.50 bounty) 
+Seat 7: nievinski (86377 in chips, $3 bounty) 
+Seat 8: Pevêe (59496 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 125
+Kevin12345Mc: posts the ante 125
+GoWhiskey: posts the ante 125
+KORKO6969: posts the ante 125
+sanich2011: posts the ante 125
+OniKage69: posts the ante 125
+nievinski: posts the ante 125
+Pevêe: posts the ante 125
+TheNewGirl_666: posts small blind 500
+Kevin12345Mc: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 9d]
+GoWhiskey: folds 
+KORKO6969: raises 2000 to 3000
+sanich2011: folds 
+OniKage69: folds 
+nievinski: calls 3000
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: calls 2000
+*** FLOP *** [Ks 6c Ac]
+Kevin12345Mc: checks 
+KORKO6969: bets 5250
+nievinski: calls 5250
+Kevin12345Mc: folds 
+*** TURN *** [Ks 6c Ac] [Ah]
+KORKO6969: checks 
+nievinski: checks 
+*** RIVER *** [Ks 6c Ac Ah] [3d]
+KORKO6969: checks 
+nievinski: checks 
+*** SHOW DOWN ***
+KORKO6969: shows [Ad Kc] (a full house, Aces full of Kings)
+nievinski: mucks hand 
+KORKO6969 collected 21000 from pot
+*** SUMMARY ***
+Total pot 21000 | Rake 0 
+Board [Ks 6c Ac Ah 3d]
+Seat 1: TheNewGirl_666 (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) folded on the Flop
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 showed [Ad Kc] and won (21000) with a full house, Aces full of Kings
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski mucked [8h 8c]
+Seat 8: Pevêe (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004761553: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (500/1000) - 2025/02/23 17:43:38 WET [2025/02/23 12:43:38 ET]
+Table '3860731904 253' 8-max Seat #1 is the button
+Seat 1: TheNewGirl_666 (16391 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (25199 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (54806 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (85083 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (80892 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (13675 in chips, $1.50 bounty) 
+Seat 7: nievinski (78002 in chips, $3 bounty) 
+Seat 8: Pevêe (59371 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 125
+Kevin12345Mc: posts the ante 125
+GoWhiskey: posts the ante 125
+KORKO6969: posts the ante 125
+sanich2011: posts the ante 125
+OniKage69: posts the ante 125
+nievinski: posts the ante 125
+Pevêe: posts the ante 125
+Kevin12345Mc: posts small blind 500
+GoWhiskey: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 2d]
+KORKO6969: folds 
+sanich2011: folds 
+OniKage69: folds 
+nievinski: raises 1000 to 2000
+Pevêe: calls 2000
+TheNewGirl_666: calls 2000
+Kevin12345Mc: folds 
+GoWhiskey: calls 1000
+*** FLOP *** [9h 6d 2h]
+GoWhiskey: checks 
+nievinski: bets 3135
+Pevêe: folds 
+TheNewGirl_666: folds 
+GoWhiskey: calls 3135
+*** TURN *** [9h 6d 2h] [3h]
+GoWhiskey: checks 
+nievinski: checks 
+*** RIVER *** [9h 6d 2h 3h] [9c]
+GoWhiskey: bets 8674
+nievinski: calls 8674
+*** SHOW DOWN ***
+GoWhiskey: shows [5d 4c] (a straight, Deuce to Six)
+nievinski: mucks hand 
+GoWhiskey collected 33118 from pot
+*** SUMMARY ***
+Total pot 33118 | Rake 0 
+Board [9h 6d 2h 3h 9c]
+Seat 1: TheNewGirl_666 (button) folded on the Flop
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: GoWhiskey (big blind) showed [5d 4c] and won (33118) with a straight, Deuce to Six
+Seat 4: KORKO6969 folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski mucked [9d Qd]
+Seat 8: Pevêe folded on the Flop
+
+
+
+PokerStars Hand #255004783064: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (500/1000) - 2025/02/23 17:44:47 WET [2025/02/23 12:44:47 ET]
+Table '3860731904 253' 8-max Seat #2 is the button
+Seat 1: TheNewGirl_666 (14266 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (24574 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (73990 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (84958 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (80767 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (13550 in chips, $1.50 bounty) 
+Seat 7: nievinski (64068 in chips, $3 bounty) 
+Seat 8: Pevêe (57246 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 125
+Kevin12345Mc: posts the ante 125
+GoWhiskey: posts the ante 125
+KORKO6969: posts the ante 125
+sanich2011: posts the ante 125
+OniKage69: posts the ante 125
+nievinski: posts the ante 125
+Pevêe: posts the ante 125
+GoWhiskey: posts small blind 500
+KORKO6969: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 4h]
+sanich2011: calls 1000
+OniKage69: folds 
+nievinski: folds 
+Pevêe: raises 2000 to 3000
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: raises 7000 to 10000
+KORKO6969: folds 
+sanich2011: folds 
+Pevêe: folds 
+Uncalled bet (7000) returned to GoWhiskey
+GoWhiskey collected 9000 from pot
+GoWhiskey: doesn't show hand 
+*** SUMMARY ***
+Total pot 9000 | Rake 0 
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: GoWhiskey (small blind) collected (9000)
+Seat 4: KORKO6969 (big blind) folded before Flop
+Seat 5: sanich2011 folded before Flop
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe folded before Flop
+
+
+
+PokerStars Hand #255004799792: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (500/1000) - 2025/02/23 17:45:40 WET [2025/02/23 12:45:40 ET]
+Table '3860731904 253' 8-max Seat #3 is the button
+Seat 1: TheNewGirl_666 (14141 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (24449 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (79865 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (83833 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (79642 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (13425 in chips, $1.50 bounty) 
+Seat 7: nievinski (63943 in chips, $3 bounty) 
+Seat 8: Pevêe (54121 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 125
+Kevin12345Mc: posts the ante 125
+GoWhiskey: posts the ante 125
+KORKO6969: posts the ante 125
+sanich2011: posts the ante 125
+OniKage69: posts the ante 125
+nievinski: posts the ante 125
+Pevêe: posts the ante 125
+KORKO6969: posts small blind 500
+sanich2011: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 8h]
+OniKage69: folds 
+nievinski: folds 
+Pevêe: folds 
+TheNewGirl_666: calls 1000
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+KORKO6969: raises 2000 to 3000
+sanich2011: folds 
+TheNewGirl_666: calls 2000
+*** FLOP *** [As Ac Qs]
+KORKO6969: bets 4000
+TheNewGirl_666: folds 
+Uncalled bet (4000) returned to KORKO6969
+KORKO6969 collected 8000 from pot
+KORKO6969: doesn't show hand 
+*** SUMMARY ***
+Total pot 8000 | Rake 0 
+Board [As Ac Qs]
+Seat 1: TheNewGirl_666 folded on the Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey (button) folded before Flop (didn't bet)
+Seat 4: KORKO6969 (small blind) collected (8000)
+Seat 5: sanich2011 (big blind) folded before Flop
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004819694: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (500/1000) - 2025/02/23 17:46:43 WET [2025/02/23 12:46:43 ET]
+Table '3860731904 253' 8-max Seat #4 is the button
+Seat 1: TheNewGirl_666 (11016 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (24324 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (79740 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (88708 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (78517 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (13300 in chips, $1.50 bounty) 
+Seat 7: nievinski (63818 in chips, $3 bounty) 
+Seat 8: Pevêe (53996 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 125
+Kevin12345Mc: posts the ante 125
+GoWhiskey: posts the ante 125
+KORKO6969: posts the ante 125
+sanich2011: posts the ante 125
+OniKage69: posts the ante 125
+nievinski: posts the ante 125
+Pevêe: posts the ante 125
+sanich2011: posts small blind 500
+OniKage69: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 6s]
+nievinski: raises 1000 to 2000
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+KORKO6969: calls 2000
+sanich2011: calls 1500
+OniKage69: calls 1000
+*** FLOP *** [4s Kd 5h]
+sanich2011: checks 
+OniKage69: checks 
+nievinski: bets 2970
+KORKO6969: folds 
+sanich2011: calls 2970
+OniKage69: folds 
+*** TURN *** [4s Kd 5h] [Th]
+sanich2011: checks 
+nievinski: bets 4930
+sanich2011: calls 4930
+*** RIVER *** [4s Kd 5h Th] [As]
+sanich2011: checks 
+nievinski: bets 13640
+sanich2011: folds 
+Uncalled bet (13640) returned to nievinski
+nievinski collected 24800 from pot
+*** SUMMARY ***
+Total pot 24800 | Rake 0 
+Board [4s Kd 5h Th As]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 (button) folded on the Flop
+Seat 5: sanich2011 (small blind) folded on the River
+Seat 6: OniKage69 (big blind) folded on the Flop
+Seat 7: nievinski collected (24800)
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004841044: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (500/1000) - 2025/02/23 17:47:50 WET [2025/02/23 12:47:50 ET]
+Table '3860731904 253' 8-max Seat #5 is the button
+Seat 1: TheNewGirl_666 (10891 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (24199 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (79615 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (86583 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (68492 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (11175 in chips, $1.50 bounty) 
+Seat 7: nievinski (78593 in chips, $3 bounty) 
+Seat 8: Pevêe (53871 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 125
+Kevin12345Mc: posts the ante 125
+GoWhiskey: posts the ante 125
+KORKO6969: posts the ante 125
+sanich2011: posts the ante 125
+OniKage69: posts the ante 125
+nievinski: posts the ante 125
+Pevêe: posts the ante 125
+OniKage69: posts small blind 500
+nievinski: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 3c]
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+KORKO6969: folds 
+sanich2011: folds 
+OniKage69: folds 
+Uncalled bet (500) returned to nievinski
+nievinski collected 2000 from pot
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 folded before Flop (didn't bet)
+Seat 5: sanich2011 (button) folded before Flop (didn't bet)
+Seat 6: OniKage69 (small blind) folded before Flop
+Seat 7: nievinski (big blind) collected (2000)
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004845043: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (500/1000) - 2025/02/23 17:48:03 WET [2025/02/23 12:48:03 ET]
+Table '3860731904 253' 8-max Seat #6 is the button
+Seat 1: TheNewGirl_666 (10766 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (24074 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (79490 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (86458 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (68367 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (10550 in chips, $1.50 bounty) 
+Seat 7: nievinski (79968 in chips, $3 bounty) 
+Seat 8: Pevêe (53746 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 125
+Kevin12345Mc: posts the ante 125
+GoWhiskey: posts the ante 125
+KORKO6969: posts the ante 125
+sanich2011: posts the ante 125
+OniKage69: posts the ante 125
+nievinski: posts the ante 125
+Pevêe: posts the ante 125
+nievinski: posts small blind 500
+Pevêe: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 2s]
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+KORKO6969: raises 1000 to 2000
+sanich2011: folds 
+OniKage69: folds 
+nievinski: calls 1500
+Pevêe has timed out
+Pevêe: folds 
+Pevêe is sitting out
+*** FLOP *** [7s 7c Kd]
+Pevêe has returned
+nievinski: checks 
+KORKO6969: checks 
+*** TURN *** [7s 7c Kd] [Js]
+nievinski: checks 
+KORKO6969: bets 1000
+nievinski: calls 1000
+*** RIVER *** [7s 7c Kd Js] [Ks]
+nievinski: checks 
+KORKO6969: checks 
+*** SHOW DOWN ***
+nievinski: shows [8s Th] (two pair, Kings and Sevens)
+KORKO6969: shows [Jd Ah] (two pair, Kings and Jacks)
+KORKO6969 collected 8000 from pot
+*** SUMMARY ***
+Total pot 8000 | Rake 0 
+Board [7s 7c Kd Js Ks]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 showed [Jd Ah] and won (8000) with two pair, Kings and Jacks
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: OniKage69 (button) folded before Flop (didn't bet)
+Seat 7: nievinski (small blind) showed [8s Th] and lost with two pair, Kings and Sevens
+Seat 8: Pevêe (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004869673: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (500/1000) - 2025/02/23 17:49:21 WET [2025/02/23 12:49:21 ET]
+Table '3860731904 253' 8-max Seat #7 is the button
+Seat 1: TheNewGirl_666 (10641 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23949 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (79365 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (91333 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (68242 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (10425 in chips, $1.50 bounty) 
+Seat 7: nievinski (76843 in chips, $3 bounty) 
+Seat 8: Pevêe (52621 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 125
+Kevin12345Mc: posts the ante 125
+GoWhiskey: posts the ante 125
+KORKO6969: posts the ante 125
+sanich2011: posts the ante 125
+OniKage69: posts the ante 125
+nievinski: posts the ante 125
+Pevêe: posts the ante 125
+Pevêe: posts small blind 500
+TheNewGirl_666: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 6d]
+nievinski has returned
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+KORKO6969: folds 
+sanich2011: folds 
+OniKage69: raises 1500 to 2500
+nievinski: folds 
+Pevêe: raises 49996 to 52496 and is all-in
+TheNewGirl_666: folds 
+OniKage69: calls 7800 and is all-in
+Uncalled bet (42196) returned to Pevêe
+*** FLOP *** [Th Ac Ts]
+*** TURN *** [Th Ac Ts] [2c]
+*** RIVER *** [Th Ac Ts 2c] [8h]
+*** SHOW DOWN ***
+Pevêe: shows [Qc Ks] (a pair of Tens)
+OniKage69: shows [Kd Qd] (a pair of Tens)
+Pevêe collected 11300 from pot
+OniKage69 collected 11300 from pot
+*** SUMMARY ***
+Total pot 22600 | Rake 0 
+Board [Th Ac Ts 2c 8h]
+Seat 1: TheNewGirl_666 (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 folded before Flop (didn't bet)
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: OniKage69 showed [Kd Qd] and won (11300) with a pair of Tens
+Seat 7: nievinski (button) folded before Flop (didn't bet)
+Seat 8: Pevêe (small blind) showed [Qc Ks] and won (11300) with a pair of Tens
+
+
+
+PokerStars Hand #255004880109: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (500/1000) - 2025/02/23 17:49:54 WET [2025/02/23 12:49:54 ET]
+Table '3860731904 253' 8-max Seat #8 is the button
+Seat 1: TheNewGirl_666 (9516 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (23824 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (79240 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (91208 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (68117 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (11300 in chips, $1.50 bounty) 
+Seat 7: nievinski (76718 in chips, $3 bounty) 
+Seat 8: Pevêe (53496 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 125
+Kevin12345Mc: posts the ante 125
+GoWhiskey: posts the ante 125
+KORKO6969: posts the ante 125
+sanich2011: posts the ante 125
+OniKage69: posts the ante 125
+nievinski: posts the ante 125
+Pevêe: posts the ante 125
+TheNewGirl_666: posts small blind 500
+Kevin12345Mc: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 2h]
+GoWhiskey: folds 
+KORKO6969: calls 1000
+sanich2011: folds 
+OniKage69: raises 1200 to 2200
+nievinski: folds 
+Pevêe: calls 2200
+TheNewGirl_666: folds 
+Kevin12345Mc: calls 1200
+KORKO6969: calls 1200
+*** FLOP *** [8s 3h 2d]
+Kevin12345Mc: checks 
+KORKO6969: checks 
+OniKage69: checks 
+Pevêe: checks 
+*** TURN *** [8s 3h 2d] [4h]
+Kevin12345Mc: checks 
+KORKO6969: checks 
+OniKage69: checks 
+Pevêe: bets 4399
+Kevin12345Mc: calls 4399
+KORKO6969: folds 
+OniKage69: folds 
+*** RIVER *** [8s 3h 2d 4h] [3d]
+Kevin12345Mc: bets 17100 and is all-in
+Pevêe: folds 
+Uncalled bet (17100) returned to Kevin12345Mc
+Kevin12345Mc collected 19098 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 19098 | Rake 0 
+Board [8s 3h 2d 4h 3d]
+Seat 1: TheNewGirl_666 (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) collected (19098)
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 folded on the Turn
+Seat 5: sanich2011 folded before Flop (didn't bet)
+Seat 6: OniKage69 folded on the Turn
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe (button) folded on the River
+
+
+
+PokerStars Hand #255004912688: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (500/1000) - 2025/02/23 17:51:39 WET [2025/02/23 12:51:39 ET]
+Table '3860731904 253' 8-max Seat #1 is the button
+Seat 1: TheNewGirl_666 (8891 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (36198 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (79115 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (88883 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (67992 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (8975 in chips, $1.50 bounty) 
+Seat 7: nievinski (76593 in chips, $3 bounty) 
+Seat 8: Pevêe (46772 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 125
+Kevin12345Mc: posts the ante 125
+GoWhiskey: posts the ante 125
+KORKO6969: posts the ante 125
+sanich2011: posts the ante 125
+OniKage69: posts the ante 125
+nievinski: posts the ante 125
+Pevêe: posts the ante 125
+Kevin12345Mc: posts small blind 500
+GoWhiskey: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h Ac]
+KORKO6969: folds 
+sanich2011: calls 1000
+OniKage69: folds 
+nievinski: calls 1000
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: calls 500
+GoWhiskey: raises 5000 to 6000
+sanich2011: calls 5000
+nievinski: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [Ks 9h 6d]
+GoWhiskey: checks 
+sanich2011: checks 
+*** TURN *** [Ks 9h 6d] [Tc]
+GoWhiskey: bets 5250
+sanich2011: calls 5250
+*** RIVER *** [Ks 9h 6d Tc] [As]
+GoWhiskey: checks 
+sanich2011: bets 15000
+GoWhiskey: calls 15000
+*** SHOW DOWN ***
+sanich2011: shows [Jh Qh] (a straight, Ten to Ace)
+GoWhiskey: mucks hand 
+sanich2011 collected 55500 from pot
+*** SUMMARY ***
+Total pot 55500 | Rake 0 
+Board [Ks 9h 6d Tc As]
+Seat 1: TheNewGirl_666 (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: GoWhiskey (big blind) mucked [Kc Qs]
+Seat 4: KORKO6969 folded before Flop (didn't bet)
+Seat 5: sanich2011 showed [Jh Qh] and won (55500) with a straight, Ten to Ace
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004936183: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/23 17:52:54 WET [2025/02/23 12:52:54 ET]
+Table '3860731904 253' 8-max Seat #2 is the button
+Seat 1: TheNewGirl_666 (8766 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (35073 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (52740 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (88758 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (97117 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (8850 in chips, $1.50 bounty) 
+Seat 7: nievinski (75468 in chips, $3 bounty) 
+Seat 8: Pevêe (46647 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 150
+Kevin12345Mc: posts the ante 150
+GoWhiskey: posts the ante 150
+KORKO6969: posts the ante 150
+sanich2011: posts the ante 150
+OniKage69: posts the ante 150
+nievinski: posts the ante 150
+Pevêe: posts the ante 150
+GoWhiskey: posts small blind 600
+KORKO6969: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Ks]
+sanich2011: calls 1200
+OniKage69: folds 
+nievinski: folds 
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: calls 1200
+GoWhiskey: raises 7200 to 8400
+KORKO6969: folds 
+sanich2011: folds 
+Kevin12345Mc: folds 
+Uncalled bet (7200) returned to GoWhiskey
+GoWhiskey collected 6000 from pot
+GoWhiskey: doesn't show hand 
+*** SUMMARY ***
+Total pot 6000 | Rake 0 
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop
+Seat 3: GoWhiskey (small blind) collected (6000)
+Seat 4: KORKO6969 (big blind) folded before Flop
+Seat 5: sanich2011 folded before Flop
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004947334: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/23 17:53:30 WET [2025/02/23 12:53:30 ET]
+Table '3860731904 253' 8-max Seat #3 is the button
+Seat 1: TheNewGirl_666 (8616 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (33723 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (57390 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (87408 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (95767 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (8700 in chips, $1.50 bounty) 
+Seat 7: nievinski (75318 in chips, $3 bounty) 
+Seat 8: Pevêe (46497 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 150
+Kevin12345Mc: posts the ante 150
+GoWhiskey: posts the ante 150
+KORKO6969: posts the ante 150
+sanich2011: posts the ante 150
+OniKage69: posts the ante 150
+nievinski: posts the ante 150
+Pevêe: posts the ante 150
+KORKO6969: posts small blind 600
+sanich2011: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 5h]
+OniKage69: folds 
+nievinski: folds 
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: folds 
+GoWhiskey: folds 
+KORKO6969: folds 
+Uncalled bet (600) returned to sanich2011
+sanich2011 collected 2400 from pot
+sanich2011: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: GoWhiskey (button) folded before Flop (didn't bet)
+Seat 4: KORKO6969 (small blind) folded before Flop
+Seat 5: sanich2011 (big blind) collected (2400)
+Seat 6: OniKage69 folded before Flop (didn't bet)
+Seat 7: nievinski folded before Flop (didn't bet)
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004952726: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/23 17:53:47 WET [2025/02/23 12:53:47 ET]
+Table '3860731904 253' 8-max Seat #4 is the button
+Seat 1: TheNewGirl_666 (8466 in chips, $1.50 bounty) 
+Seat 2: Kevin12345Mc (33573 in chips, $2.25 bounty) 
+Seat 3: GoWhiskey (57240 in chips, $2.25 bounty) 
+Seat 4: KORKO6969 (86658 in chips, $1.50 bounty) 
+Seat 5: sanich2011 (97417 in chips, $4.50 bounty) 
+Seat 6: OniKage69 (8550 in chips, $1.50 bounty) 
+Seat 7: nievinski (75168 in chips, $3 bounty) 
+Seat 8: Pevêe (46347 in chips, $1.50 bounty) 
+TheNewGirl_666: posts the ante 150
+Kevin12345Mc: posts the ante 150
+GoWhiskey: posts the ante 150
+KORKO6969: posts the ante 150
+sanich2011: posts the ante 150
+OniKage69: posts the ante 150
+nievinski: posts the ante 150
+Pevêe: posts the ante 150
+sanich2011: posts small blind 600
+OniKage69: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s As]
+nievinski: raises 1200 to 2400
+Pevêe: folds 
+TheNewGirl_666: folds 
+Kevin12345Mc: calls 2400
+GoWhiskey: folds 
+KORKO6969: folds 
+sanich2011: folds 
+OniKage69: raises 4200 to 6600
+nievinski: calls 4200
+Kevin12345Mc: calls 4200
+*** FLOP *** [9d 4c 5h]
+OniKage69: bets 1800 and is all-in
+nievinski: calls 1800
+Kevin12345Mc: calls 1800
+*** TURN *** [9d 4c 5h] [8s]
+nievinski: bets 8910
+Kevin12345Mc: folds 
+Uncalled bet (8910) returned to nievinski
+*** RIVER *** [9d 4c 5h 8s] [Ad]
+*** SHOW DOWN ***
+OniKage69: shows [Kh Ac] (a pair of Aces)
+nievinski: shows [6h 4h] (a pair of Fours)
+OniKage69 collected 27000 from pot
+*** SUMMARY ***
+Total pot 27000 | Rake 0 
+Board [9d 4c 5h 8s Ad]
+Seat 1: TheNewGirl_666 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded on the Turn
+Seat 3: GoWhiskey folded before Flop (didn't bet)
+Seat 4: KORKO6969 (button) folded before Flop (didn't bet)
+Seat 5: sanich2011 (small blind) folded before Flop
+Seat 6: OniKage69 (big blind) showed [Kh Ac] and won (27000) with a pair of Aces
+Seat 7: nievinski showed [6h 4h] and lost with a pair of Fours
+Seat 8: Pevêe folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005065622: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/23 18:02:06 WET [2025/02/23 13:02:06 ET]
+Table '3860731904 318' 8-max Seat #1 is the button
+Seat 1: paviltio (22650 in chips, $2.25 bounty) 
+Seat 2: Kevin12345Mc (25023 in chips, $2.25 bounty) 
+Seat 3: Poszmorga (18903 in chips, $1.50 bounty) 
+Seat 4: demizinho (26100 in chips, $1.50 bounty) 
+Seat 5: guinHuuh (29330 in chips, $1.50 bounty) 
+Seat 6: bigua1000 (96070 in chips, $3 bounty) 
+Seat 7: Pinkmnn (60678 in chips, $3 bounty) 
+paviltio: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Poszmorga: posts the ante 150
+demizinho: posts the ante 150
+guinHuuh: posts the ante 150
+bigua1000: posts the ante 150
+Pinkmnn: posts the ante 150
+Kevin12345Mc: posts small blind 600
+Poszmorga: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 3h]
+demizinho: folds 
+guinHuuh: raises 1200 to 2400
+bigua1000: folds 
+Pinkmnn: folds 
+paviltio: raises 2400 to 4800
+Kevin12345Mc: folds 
+Poszmorga: folds 
+guinHuuh: calls 2400
+*** FLOP *** [Js 6c 9c]
+guinHuuh: checks 
+paviltio: checks 
+*** TURN *** [Js 6c 9c] [2s]
+guinHuuh: checks 
+paviltio: bets 4800
+guinHuuh: calls 4800
+*** RIVER *** [Js 6c 9c 2s] [As]
+guinHuuh: checks 
+paviltio: checks 
+*** SHOW DOWN ***
+guinHuuh: shows [Th Kh] (high card Ace)
+paviltio: shows [Kc Kd] (a pair of Kings)
+paviltio collected 22050 from pot
+*** SUMMARY ***
+Total pot 22050 | Rake 0 
+Board [Js 6c 9c 2s As]
+Seat 1: paviltio (button) showed [Kc Kd] and won (22050) with a pair of Kings
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: Poszmorga (big blind) folded before Flop
+Seat 4: demizinho folded before Flop (didn't bet)
+Seat 5: guinHuuh showed [Th Kh] and lost with high card Ace
+Seat 6: bigua1000 folded before Flop (didn't bet)
+Seat 7: Pinkmnn folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005091488: Tournament #3860731904, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/23 18:03:28 WET [2025/02/23 13:03:28 ET]
+Table '3860731904 318' 8-max Seat #2 is the button
+Seat 1: paviltio (34950 in chips, $2.25 bounty) 
+Seat 2: Kevin12345Mc (24273 in chips, $2.25 bounty) 
+Seat 3: Poszmorga (17553 in chips, $1.50 bounty) 
+Seat 4: demizinho (25950 in chips, $1.50 bounty) 
+Seat 5: guinHuuh (19580 in chips, $1.50 bounty) 
+Seat 6: bigua1000 (95920 in chips, $3 bounty) 
+Seat 7: Pinkmnn (60528 in chips, $3 bounty) 
+Seat 8: sam_cyclone (25000 in chips, $1.50 bounty) 
+paviltio: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Poszmorga: posts the ante 150
+demizinho: posts the ante 150
+guinHuuh: posts the ante 150
+bigua1000: posts the ante 150
+Pinkmnn: posts the ante 150
+sam_cyclone: posts the ante 150
+Poszmorga: posts small blind 600
+demizinho: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 5d]
+guinHuuh: folds 
+bigua1000: folds 
+Pinkmnn: folds 
+sam_cyclone: folds 
+paviltio: folds 
+Kevin12345Mc: raises 1200 to 2400
+Poszmorga: folds 
+demizinho: raises 23400 to 25800 and is all-in
+Kevin12345Mc: calls 21723 and is all-in
+Uncalled bet (1677) returned to demizinho
+*** FLOP *** [Ad 3h 2h]
+*** TURN *** [Ad 3h 2h] [7h]
+*** RIVER *** [Ad 3h 2h 7h] [2d]
+*** SHOW DOWN ***
+demizinho: shows [9h 9s] (two pair, Nines and Deuces)
+Kevin12345Mc: shows [5c 5d] (two pair, Fives and Deuces)
+demizinho collected 50046 from pot
+demizinho wins $1.13 for eliminating Kevin12345Mc and their own bounty increases by $1.12 to $2.62
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 50046 | Rake 0 
+Board [Ad 3h 2h 7h 2d]
+Seat 1: paviltio folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) showed [5c 5d] and lost with two pair, Fives and Deuces
+Seat 3: Poszmorga (small blind) folded before Flop
+Seat 4: demizinho (big blind) showed [9h 9s] and won (50046) with two pair, Nines and Deuces
+Seat 5: guinHuuh folded before Flop (didn't bet)
+Seat 6: bigua1000 folded before Flop (didn't bet)
+Seat 7: Pinkmnn folded before Flop (didn't bet)
+Seat 8: sam_cyclone folded before Flop (didn't bet)
+
+
+

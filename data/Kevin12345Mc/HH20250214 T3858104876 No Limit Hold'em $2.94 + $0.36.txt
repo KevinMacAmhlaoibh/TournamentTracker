@@ -1,0 +1,4702 @@
+﻿PokerStars Hand #254862639870: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 16:54:40 WET [2025/02/14 11:54:40 ET]
+Table '3858104876 37' 8-max Seat #1 is the button
+Seat 1: Giordru (4028 in chips, $1.50 bounty) 
+Seat 2: nekka9 (3533 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9009 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (5000 in chips, $1.50 bounty) 
+Seat 5: leon69heart (6838 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4476 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4839 in chips, $1.50 bounty) 
+Giordru: posts the ante 12
+nekka9: posts the ante 12
+Dead hanD I: posts the ante 12
+Kevin12345Mc: posts the ante 12
+leon69heart: posts the ante 12
+vilmunds: posts the ante 12
+ManysiDeD357: posts the ante 12
+nekka9: posts small blind 40
+Dead hanD I: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh Th]
+Kevin12345Mc: raises 104 to 184
+leon69heart: folds 
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: folds 
+nekka9: folds 
+Dead hanD I: calls 104
+*** FLOP *** [9s As 3d]
+Dead hanD I: checks 
+Kevin12345Mc: bets 162
+Dead hanD I: calls 162
+*** TURN *** [9s As 3d] [Qc]
+Dead hanD I: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [9s As 3d Qc] [4c]
+Dead hanD I: bets 400
+Kevin12345Mc: folds 
+Uncalled bet (400) returned to Dead hanD I
+Dead hanD I collected 816 from pot
+Dead hanD I: doesn't show hand 
+*** SUMMARY ***
+Total pot 816 | Rake 0 
+Board [9s As 3d Qc 4c]
+Seat 1: Giordru (button) folded before Flop (didn't bet)
+Seat 2: nekka9 (small blind) folded before Flop
+Seat 3: Dead hanD I (big blind) collected (816)
+Seat 4: Kevin12345Mc folded on the River
+Seat 5: leon69heart folded before Flop (didn't bet)
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862726187: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 17:02:29 WET [2025/02/14 12:02:29 ET]
+Table '3858104876 37' 8-max Seat #2 is the button
+Seat 1: Giordru (4016 in chips, $1.50 bounty) 
+Seat 2: nekka9 (3481 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9467 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4642 in chips, $1.50 bounty) 
+Seat 5: leon69heart (6826 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (5000 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4464 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4827 in chips, $1.50 bounty) 
+Giordru: posts the ante 12
+nekka9: posts the ante 12
+Dead hanD I: posts the ante 12
+Kevin12345Mc: posts the ante 12
+leon69heart: posts the ante 12
+IPRA2018: posts the ante 12
+vilmunds: posts the ante 12
+ManysiDeD357: posts the ante 12
+Dead hanD I: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Ah]
+leon69heart: calls 80
+IPRA2018: raises 80 to 160
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: calls 160
+nekka9: folds 
+Dead hanD I: folds 
+Kevin12345Mc: calls 80
+leon69heart: calls 80
+*** FLOP *** [9h 7s 6h]
+Kevin12345Mc: checks 
+leon69heart: checks 
+IPRA2018: checks 
+Giordru: bets 310
+Kevin12345Mc: calls 310
+leon69heart: folds 
+IPRA2018: calls 310
+*** TURN *** [9h 7s 6h] [9d]
+Kevin12345Mc: checks 
+IPRA2018: checks 
+Giordru: checks 
+*** RIVER *** [9h 7s 6h 9d] [Td]
+Kevin12345Mc: checks 
+IPRA2018: checks 
+Giordru: bets 1297
+Kevin12345Mc: folds 
+IPRA2018: folds 
+Uncalled bet (1297) returned to Giordru
+Giordru collected 1706 from pot
+Giordru: doesn't show hand 
+*** SUMMARY ***
+Total pot 1706 | Rake 0 
+Board [9h 7s 6h 9d Td]
+Seat 1: Giordru collected (1706)
+Seat 2: nekka9 (button) folded before Flop (didn't bet)
+Seat 3: Dead hanD I (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded on the River
+Seat 5: leon69heart folded on the Flop
+Seat 6: IPRA2018 folded on the River
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862749324: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 17:04:12 WET [2025/02/14 12:04:12 ET]
+Table '3858104876 37' 8-max Seat #3 is the button
+Seat 1: Giordru (5240 in chips, $1.50 bounty) 
+Seat 2: nekka9 (3469 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9415 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4160 in chips, $1.50 bounty) 
+Seat 5: leon69heart (6654 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (4518 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4452 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4815 in chips, $1.50 bounty) 
+Giordru: posts the ante 12
+nekka9: posts the ante 12
+Dead hanD I: posts the ante 12
+Kevin12345Mc: posts the ante 12
+leon69heart: posts the ante 12
+IPRA2018: posts the ante 12
+vilmunds: posts the ante 12
+ManysiDeD357: posts the ante 12
+Kevin12345Mc: posts small blind 40
+leon69heart: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 5s]
+IPRA2018: raises 80 to 160
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: calls 160
+nekka9: folds 
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+leon69heart: folds 
+*** FLOP *** [Ks 4c Jd]
+IPRA2018: bets 268
+Giordru: calls 268
+*** TURN *** [Ks 4c Jd] [Ac]
+IPRA2018: bets 536
+Giordru: folds 
+Uncalled bet (536) returned to IPRA2018
+IPRA2018 collected 1072 from pot
+*** SUMMARY ***
+Total pot 1072 | Rake 0 
+Board [Ks 4c Jd Ac]
+Seat 1: Giordru folded on the Turn
+Seat 2: nekka9 folded before Flop (didn't bet)
+Seat 3: Dead hanD I (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: leon69heart (big blind) folded before Flop
+Seat 6: IPRA2018 collected (1072)
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862766615: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 17:05:29 WET [2025/02/14 12:05:29 ET]
+Table '3858104876 37' 8-max Seat #4 is the button
+Seat 1: Giordru (4800 in chips, $1.50 bounty) 
+Seat 2: nekka9 (3457 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9403 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4108 in chips, $1.50 bounty) 
+Seat 5: leon69heart (6562 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (5150 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4440 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4803 in chips, $1.50 bounty) 
+Giordru: posts the ante 12
+nekka9: posts the ante 12
+Dead hanD I: posts the ante 12
+Kevin12345Mc: posts the ante 12
+leon69heart: posts the ante 12
+IPRA2018: posts the ante 12
+vilmunds: posts the ante 12
+ManysiDeD357: posts the ante 12
+leon69heart: posts small blind 40
+IPRA2018: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Jc]
+vilmunds: raises 80 to 160
+ManysiDeD357: folds 
+Giordru: folds 
+nekka9: folds 
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+leon69heart: raises 6390 to 6550 and is all-in
+IPRA2018: calls 5058 and is all-in
+vilmunds: folds 
+Uncalled bet (1412) returned to leon69heart
+*** FLOP *** [Kh Th 3d]
+*** TURN *** [Kh Th 3d] [9s]
+*** RIVER *** [Kh Th 3d 9s] [2d]
+*** SHOW DOWN ***
+leon69heart: shows [Js As] (high card Ace)
+IPRA2018: shows [Qc Qs] (a pair of Queens)
+IPRA2018 collected 10532 from pot
+*** SUMMARY ***
+Total pot 10532 | Rake 0 
+Board [Kh Th 3d 9s 2d]
+Seat 1: Giordru folded before Flop (didn't bet)
+Seat 2: nekka9 folded before Flop (didn't bet)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: leon69heart (small blind) showed [Js As] and lost with high card Ace
+Seat 6: IPRA2018 (big blind) showed [Qc Qs] and won (10532) with a pair of Queens
+Seat 7: vilmunds folded before Flop
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862773692: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 17:06:00 WET [2025/02/14 12:06:00 ET]
+Table '3858104876 37' 8-max Seat #5 is the button
+Seat 1: Giordru (4788 in chips, $1.50 bounty) 
+Seat 2: nekka9 (3445 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9391 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4096 in chips, $1.50 bounty) 
+Seat 5: leon69heart (1412 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (10532 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4268 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4791 in chips, $1.50 bounty) 
+Giordru: posts the ante 12
+nekka9: posts the ante 12
+Dead hanD I: posts the ante 12
+Kevin12345Mc: posts the ante 12
+leon69heart: posts the ante 12
+IPRA2018: posts the ante 12
+vilmunds: posts the ante 12
+ManysiDeD357: posts the ante 12
+IPRA2018: posts small blind 40
+vilmunds: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Jc]
+ManysiDeD357: folds 
+Giordru: folds 
+nekka9: raises 160 to 240
+Dead hanD I: folds 
+Kevin12345Mc: raises 480 to 720
+leon69heart: folds 
+IPRA2018: folds 
+vilmunds: folds 
+nekka9: calls 480
+*** FLOP *** [5c Td Th]
+nekka9: bets 2713 and is all-in
+Kevin12345Mc: calls 2713
+*** TURN *** [5c Td Th] [Tc]
+*** RIVER *** [5c Td Th Tc] [Qc]
+*** SHOW DOWN ***
+nekka9: shows [As 5s] (a full house, Tens full of Fives)
+Kevin12345Mc: shows [Js Jc] (a full house, Tens full of Jacks)
+Kevin12345Mc collected 7082 from pot
+Kevin12345Mc wins $0.75 for eliminating nekka9 and their own bounty increases by $0.75 to $2.25
+nekka9 finished the tournament
+*** SUMMARY ***
+Total pot 7082 | Rake 0 
+Board [5c Td Th Tc Qc]
+Seat 1: Giordru folded before Flop (didn't bet)
+Seat 2: nekka9 showed [As 5s] and lost with a full house, Tens full of Fives
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc showed [Js Jc] and won (7082) with a full house, Tens full of Jacks
+Seat 5: leon69heart (button) folded before Flop (didn't bet)
+Seat 6: IPRA2018 (small blind) folded before Flop
+Seat 7: vilmunds (big blind) folded before Flop
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862782287: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 17:06:37 WET [2025/02/14 12:06:37 ET]
+Table '3858104876 37' 8-max Seat #6 is the button
+Seat 1: Giordru (4776 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9379 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7733 in chips, $2.25 bounty) 
+Seat 5: leon69heart (1400 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (10480 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4176 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4779 in chips, $1.50 bounty) 
+Giordru: posts the ante 12
+Dead hanD I: posts the ante 12
+Kevin12345Mc: posts the ante 12
+leon69heart: posts the ante 12
+IPRA2018: posts the ante 12
+vilmunds: posts the ante 12
+ManysiDeD357: posts the ante 12
+vilmunds: posts small blind 40
+ManysiDeD357: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 8s]
+Giordru: folds 
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+leon69heart: raises 1308 to 1388 and is all-in
+IPRA2018: folds 
+vilmunds: folds 
+ManysiDeD357: calls 1308
+*** FLOP *** [Ad 7c 6d]
+*** TURN *** [Ad 7c 6d] [Qh]
+*** RIVER *** [Ad 7c 6d Qh] [Kc]
+Waltisrael is disconnected 
+*** SHOW DOWN ***
+ManysiDeD357: shows [Kh Kd] (three of a kind, Kings)
+leon69heart: shows [Ac 3s] (a pair of Aces)
+ManysiDeD357 collected 2900 from pot
+ManysiDeD357 wins $0.75 for eliminating leon69heart and their own bounty increases by $0.75 to $2.25
+leon69heart finished the tournament
+*** SUMMARY ***
+Total pot 2900 | Rake 0 
+Board [Ad 7c 6d Qh Kc]
+Seat 1: Giordru folded before Flop (didn't bet)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leon69heart showed [Ac 3s] and lost with a pair of Aces
+Seat 6: IPRA2018 (button) folded before Flop (didn't bet)
+Seat 7: vilmunds (small blind) folded before Flop
+Seat 8: ManysiDeD357 (big blind) showed [Kh Kd] and won (2900) with three of a kind, Kings
+
+
+
+PokerStars Hand #254862789174: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 17:07:07 WET [2025/02/14 12:07:07 ET]
+Table '3858104876 37' 8-max Seat #7 is the button
+Seat 1: Giordru (4764 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (5000 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9367 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7721 in chips, $2.25 bounty) 
+Seat 6: IPRA2018 (10468 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4124 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (6279 in chips, $2.25 bounty) 
+Giordru: posts the ante 12
+Waltisrael: posts the ante 12
+Dead hanD I: posts the ante 12
+Kevin12345Mc: posts the ante 12
+IPRA2018: posts the ante 12
+vilmunds: posts the ante 12
+ManysiDeD357: posts the ante 12
+ManysiDeD357: posts small blind 40
+Giordru: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 6h]
+Waltisrael: raises 80 to 160
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+IPRA2018: calls 160
+vilmunds: folds 
+ManysiDeD357: calls 120
+Giordru: calls 80
+*** FLOP *** [Ts Ah 5c]
+ManysiDeD357: checks 
+Giordru: checks 
+Waltisrael: bets 232
+IPRA2018: calls 232
+ManysiDeD357: calls 232
+Giordru: calls 232
+*** TURN *** [Ts Ah 5c] [2s]
+ManysiDeD357: checks 
+Giordru: checks 
+Waltisrael: bets 1239
+IPRA2018: calls 1239
+ManysiDeD357: folds 
+Giordru: folds 
+*** RIVER *** [Ts Ah 5c 2s] [Kd]
+Waltisrael: bets 3357 and is all-in
+IPRA2018: calls 3357
+*** SHOW DOWN ***
+Waltisrael: shows [5h As] (two pair, Aces and Fives)
+IPRA2018: shows [Kh Jd] (a pair of Kings)
+Waltisrael collected 10844 from pot
+*** SUMMARY ***
+Total pot 10844 | Rake 0 
+Board [Ts Ah 5c 2s Kd]
+Seat 1: Giordru (big blind) folded on the Turn
+Seat 2: Waltisrael showed [5h As] and won (10844) with two pair, Aces and Fives
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: IPRA2018 showed [Kh Jd] and lost with a pair of Kings
+Seat 7: vilmunds (button) folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254862811456: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 17:08:44 WET [2025/02/14 12:08:44 ET]
+Table '3858104876 37' 8-max Seat #8 is the button
+Seat 1: Giordru (4360 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (10844 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9355 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7709 in chips, $2.25 bounty) 
+Seat 5: tolis elena (5000 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (5468 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4112 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5875 in chips, $2.25 bounty) 
+Giordru: posts the ante 12
+Waltisrael: posts the ante 12
+Dead hanD I: posts the ante 12
+Kevin12345Mc: posts the ante 12
+tolis elena: posts the ante 12
+IPRA2018: posts the ante 12
+vilmunds: posts the ante 12
+ManysiDeD357: posts the ante 12
+Giordru: posts small blind 40
+Waltisrael: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 6c]
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 80
+IPRA2018: raises 5376 to 5456 and is all-in
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: folds 
+Waltisrael: folds 
+tolis elena: folds 
+Uncalled bet (5376) returned to IPRA2018
+IPRA2018 collected 376 from pot
+*** SUMMARY ***
+Total pot 376 | Rake 0 
+Seat 1: Giordru (small blind) folded before Flop
+Seat 2: Waltisrael (big blind) folded before Flop
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop
+Seat 6: IPRA2018 collected (376)
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862820629: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 17:09:24 WET [2025/02/14 12:09:24 ET]
+Table '3858104876 37' 8-max Seat #1 is the button
+Seat 1: Giordru (4308 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (10752 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9343 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7697 in chips, $2.25 bounty) 
+Seat 5: tolis elena (4908 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (5752 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4100 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5863 in chips, $2.25 bounty) 
+Giordru: posts the ante 14
+Waltisrael: posts the ante 14
+Dead hanD I: posts the ante 14
+Kevin12345Mc: posts the ante 14
+tolis elena: posts the ante 14
+IPRA2018: posts the ante 14
+vilmunds: posts the ante 14
+ManysiDeD357: posts the ante 14
+Waltisrael: posts small blind 45
+Dead hanD I: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 8s]
+Kevin12345Mc: folds 
+tolis elena: calls 90
+IPRA2018: raises 90 to 180
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: calls 180
+Waltisrael: folds 
+Dead hanD I: folds 
+tolis elena: calls 90
+*** FLOP *** [4h 4s 3h]
+tolis elena: checks 
+IPRA2018: checks 
+Giordru: bets 598
+tolis elena: calls 598
+IPRA2018: calls 598
+*** TURN *** [4h 4s 3h] [Kc]
+tolis elena: checks 
+IPRA2018: checks 
+Giordru: checks 
+*** RIVER *** [4h 4s 3h Kc] [5h]
+tolis elena: bets 4116 and is all-in
+IPRA2018: folds 
+Giordru: folds 
+Uncalled bet (4116) returned to tolis elena
+tolis elena collected 2581 from pot
+*** SUMMARY ***
+Total pot 2581 | Rake 0 
+Board [4h 4s 3h Kc 5h]
+Seat 1: Giordru (button) folded on the River
+Seat 2: Waltisrael (small blind) folded before Flop
+Seat 3: Dead hanD I (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena collected (2581)
+Seat 6: IPRA2018 folded on the River
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862834458: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 17:10:24 WET [2025/02/14 12:10:24 ET]
+Table '3858104876 37' 8-max Seat #2 is the button
+Seat 1: Giordru (3516 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (10693 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9239 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7683 in chips, $2.25 bounty) 
+Seat 5: tolis elena (6697 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (4960 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4086 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5849 in chips, $2.25 bounty) 
+Giordru: posts the ante 14
+Waltisrael: posts the ante 14
+Dead hanD I: posts the ante 14
+Kevin12345Mc: posts the ante 14
+tolis elena: posts the ante 14
+IPRA2018: posts the ante 14
+vilmunds: posts the ante 14
+ManysiDeD357: posts the ante 14
+Dead hanD I: posts small blind 45
+Kevin12345Mc: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 5s]
+tolis elena: calls 90
+IPRA2018: raises 90 to 180
+vilmunds: raises 3892 to 4072 and is all-in
+ManysiDeD357: folds 
+Giordru: folds 
+Waltisrael: folds 
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+IPRA2018: folds 
+Uncalled bet (3892) returned to vilmunds
+vilmunds collected 697 from pot
+vilmunds: doesn't show hand 
+*** SUMMARY ***
+Total pot 697 | Rake 0 
+Seat 1: Giordru folded before Flop (didn't bet)
+Seat 2: Waltisrael (button) folded before Flop (didn't bet)
+Seat 3: Dead hanD I (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: tolis elena folded before Flop
+Seat 6: IPRA2018 folded before Flop
+Seat 7: vilmunds collected (697)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862840144: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 17:10:48 WET [2025/02/14 12:10:48 ET]
+Table '3858104876 37' 8-max Seat #3 is the button
+Seat 1: Giordru (3502 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (10679 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9180 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7579 in chips, $2.25 bounty) 
+Seat 5: tolis elena (6593 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (4766 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4589 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5835 in chips, $2.25 bounty) 
+Giordru: posts the ante 14
+Waltisrael: posts the ante 14
+Dead hanD I: posts the ante 14
+Kevin12345Mc: posts the ante 14
+tolis elena: posts the ante 14
+IPRA2018: posts the ante 14
+vilmunds: posts the ante 14
+ManysiDeD357: posts the ante 14
+Kevin12345Mc: posts small blind 45
+tolis elena: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Kd]
+IPRA2018: folds 
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: folds 
+Waltisrael: folds 
+Dead hanD I: folds 
+Kevin12345Mc: calls 45
+tolis elena: checks 
+*** FLOP *** [4d 7c 2h]
+Kevin12345Mc: checks 
+tolis elena: checks 
+*** TURN *** [4d 7c 2h] [8s]
+Kevin12345Mc: bets 90
+tolis elena: calls 90
+*** RIVER *** [4d 7c 2h 8s] [9d]
+Kevin12345Mc: bets 156
+tolis elena: raises 156 to 312
+Kevin12345Mc: calls 156
+*** SHOW DOWN ***
+tolis elena: shows [Ks 9h] (a pair of Nines)
+Kevin12345Mc: mucks hand 
+tolis elena collected 1096 from pot
+*** SUMMARY ***
+Total pot 1096 | Rake 0 
+Board [4d 7c 2h 8s 9d]
+Seat 1: Giordru folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: Dead hanD I (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) mucked [8c Kd]
+Seat 5: tolis elena (big blind) showed [Ks 9h] and won (1096) with a pair of Nines
+Seat 6: IPRA2018 folded before Flop (didn't bet)
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862854553: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 17:11:49 WET [2025/02/14 12:11:49 ET]
+Table '3858104876 37' 8-max Seat #4 is the button
+Seat 1: Giordru (3488 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (10665 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9166 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7073 in chips, $2.25 bounty) 
+Seat 5: tolis elena (7183 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (4752 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4575 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5821 in chips, $2.25 bounty) 
+Giordru: posts the ante 14
+Waltisrael: posts the ante 14
+Dead hanD I: posts the ante 14
+Kevin12345Mc: posts the ante 14
+tolis elena: posts the ante 14
+IPRA2018: posts the ante 14
+vilmunds: posts the ante 14
+ManysiDeD357: posts the ante 14
+tolis elena: posts small blind 45
+IPRA2018: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Jh]
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: raises 90 to 180
+Waltisrael: raises 360 to 540
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 495
+IPRA2018: calls 450
+Giordru: calls 360
+*** FLOP *** [Kd 8h 2c]
+tolis elena: checks 
+IPRA2018: checks 
+Giordru: checks 
+Waltisrael: checks 
+*** TURN *** [Kd 8h 2c] [8d]
+tolis elena: checks 
+IPRA2018: checks 
+Giordru: checks 
+Waltisrael: bets 1136
+tolis elena: folds 
+IPRA2018: folds 
+Giordru: folds 
+Uncalled bet (1136) returned to Waltisrael
+Waltisrael collected 2272 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 2272 | Rake 0 
+Board [Kd 8h 2c 8d]
+Seat 1: Giordru folded on the Turn
+Seat 2: Waltisrael collected (2272)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: tolis elena (small blind) folded on the Turn
+Seat 6: IPRA2018 (big blind) folded on the Turn
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862878840: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 17:13:32 WET [2025/02/14 12:13:32 ET]
+Table '3858104876 37' 8-max Seat #5 is the button
+Seat 1: Giordru (2934 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12383 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9152 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7059 in chips, $2.25 bounty) 
+Seat 5: tolis elena (6629 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (4198 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4561 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5807 in chips, $2.25 bounty) 
+Giordru: posts the ante 14
+Waltisrael: posts the ante 14
+Dead hanD I: posts the ante 14
+Kevin12345Mc: posts the ante 14
+tolis elena: posts the ante 14
+IPRA2018: posts the ante 14
+vilmunds: posts the ante 14
+ManysiDeD357: posts the ante 14
+IPRA2018: posts small blind 45
+vilmunds: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 5c]
+ManysiDeD357: raises 90 to 180
+Giordru: folds 
+Waltisrael: folds 
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 180
+IPRA2018: calls 135
+vilmunds: folds 
+*** FLOP *** [9c Qh Tc]
+IPRA2018: checks 
+ManysiDeD357: bets 630
+tolis elena: calls 630
+IPRA2018: calls 630
+*** TURN *** [9c Qh Tc] [4c]
+IPRA2018: checks 
+ManysiDeD357: checks 
+tolis elena: checks 
+*** RIVER *** [9c Qh Tc 4c] [5h]
+IPRA2018: checks 
+ManysiDeD357: bets 869
+tolis elena: raises 4936 to 5805 and is all-in
+IPRA2018: folds 
+ManysiDeD357: folds 
+Uncalled bet (4936) returned to tolis elena
+tolis elena collected 4370 from pot
+*** SUMMARY ***
+Total pot 4370 | Rake 0 
+Board [9c Qh Tc 4c 5h]
+Seat 1: Giordru folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena (button) collected (4370)
+Seat 6: IPRA2018 (small blind) folded on the River
+Seat 7: vilmunds (big blind) folded before Flop
+Seat 8: ManysiDeD357 folded on the River
+
+
+
+PokerStars Hand #254862900069: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 17:15:00 WET [2025/02/14 12:15:00 ET]
+Table '3858104876 37' 8-max Seat #6 is the button
+Seat 1: Giordru (2920 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12369 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9138 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7045 in chips, $2.25 bounty) 
+Seat 5: tolis elena (9306 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (3374 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4457 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4114 in chips, $2.25 bounty) 
+Giordru: posts the ante 14
+Waltisrael: posts the ante 14
+Dead hanD I: posts the ante 14
+Kevin12345Mc: posts the ante 14
+tolis elena: posts the ante 14
+IPRA2018: posts the ante 14
+vilmunds: posts the ante 14
+ManysiDeD357: posts the ante 14
+vilmunds: posts small blind 45
+ManysiDeD357: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 9s]
+Giordru: raises 90 to 180
+Waltisrael: folds 
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 180
+IPRA2018: calls 180
+vilmunds: folds 
+ManysiDeD357: calls 90
+*** FLOP *** [5d 5c 7h]
+ManysiDeD357: checks 
+Giordru: checks 
+tolis elena: checks 
+IPRA2018: checks 
+*** TURN *** [5d 5c 7h] [9h]
+ManysiDeD357: bets 704
+Giordru: folds 
+tolis elena: folds 
+IPRA2018: folds 
+Uncalled bet (704) returned to ManysiDeD357
+ManysiDeD357 collected 877 from pot
+ManysiDeD357: doesn't show hand 
+*** SUMMARY ***
+Total pot 877 | Rake 0 
+Board [5d 5c 7h 9h]
+Seat 1: Giordru folded on the Turn
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded on the Turn
+Seat 6: IPRA2018 (button) folded on the Turn
+Seat 7: vilmunds (small blind) folded before Flop
+Seat 8: ManysiDeD357 (big blind) collected (877)
+
+
+
+PokerStars Hand #254862918289: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 17:16:17 WET [2025/02/14 12:16:17 ET]
+Table '3858104876 37' 8-max Seat #7 is the button
+Seat 1: Giordru (2726 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12355 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9124 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7031 in chips, $2.25 bounty) 
+Seat 5: tolis elena (9112 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (3180 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4398 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4797 in chips, $2.25 bounty) 
+Giordru: posts the ante 14
+Waltisrael: posts the ante 14
+Dead hanD I: posts the ante 14
+Kevin12345Mc: posts the ante 14
+tolis elena: posts the ante 14
+IPRA2018: posts the ante 14
+vilmunds: posts the ante 14
+ManysiDeD357: posts the ante 14
+ManysiDeD357: posts small blind 45
+Giordru: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 7s]
+Waltisrael: raises 90 to 180
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+IPRA2018: folds 
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: calls 90
+*** FLOP *** [3d Jh Js]
+Giordru: checks 
+Waltisrael: bets 171
+Giordru: calls 171
+*** TURN *** [3d Jh Js] [Kd]
+Giordru: checks 
+Waltisrael: bets 644
+Giordru: folds 
+Uncalled bet (644) returned to Waltisrael
+Waltisrael collected 859 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 859 | Rake 0 
+Board [3d Jh Js Kd]
+Seat 1: Giordru (big blind) folded on the Turn
+Seat 2: Waltisrael collected (859)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: IPRA2018 folded before Flop (didn't bet)
+Seat 7: vilmunds (button) folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254862933850: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 17:17:23 WET [2025/02/14 12:17:23 ET]
+Table '3858104876 37' 8-max Seat #8 is the button
+Seat 1: Giordru (2361 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12849 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (9110 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7017 in chips, $2.25 bounty) 
+Seat 5: tolis elena (9098 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (3166 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4384 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4738 in chips, $2.25 bounty) 
+Giordru: posts the ante 15
+Waltisrael: posts the ante 15
+Dead hanD I: posts the ante 15
+Kevin12345Mc: posts the ante 15
+tolis elena: posts the ante 15
+IPRA2018: posts the ante 15
+vilmunds: posts the ante 15
+ManysiDeD357: posts the ante 15
+Giordru: posts small blind 50
+Waltisrael: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Ks]
+Dead hanD I: raises 100 to 200
+Kevin12345Mc: folds 
+tolis elena: calls 200
+IPRA2018: calls 200
+vilmunds: folds 
+ManysiDeD357: calls 200
+Giordru: calls 150
+Waltisrael: calls 100
+*** FLOP *** [5c Qc Th]
+Giordru: checks 
+Waltisrael: checks 
+Dead hanD I: checks 
+tolis elena: checks 
+IPRA2018: bets 660
+ManysiDeD357: calls 660
+Giordru: folds 
+Waltisrael: folds 
+Dead hanD I: calls 660
+tolis elena: raises 840 to 1500
+IPRA2018: folds 
+ManysiDeD357: calls 840
+Dead hanD I: calls 840
+*** TURN *** [5c Qc Th] [4s]
+Dead hanD I: checks 
+tolis elena: bets 2800
+ManysiDeD357: folds 
+Dead hanD I: folds 
+Uncalled bet (2800) returned to tolis elena
+tolis elena collected 6480 from pot
+*** SUMMARY ***
+Total pot 6480 | Rake 0 
+Board [5c Qc Th 4s]
+Seat 1: Giordru (small blind) folded on the Flop
+Seat 2: Waltisrael (big blind) folded on the Flop
+Seat 3: Dead hanD I folded on the Turn
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena collected (6480)
+Seat 6: IPRA2018 folded on the Flop
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (button) folded on the Turn
+
+
+
+PokerStars Hand #254862955486: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 17:18:52 WET [2025/02/14 12:18:52 ET]
+Table '3858104876 37' 8-max Seat #1 is the button
+Seat 1: Giordru (2146 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12634 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (7395 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7002 in chips, $2.25 bounty) 
+Seat 5: tolis elena (13863 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (2291 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4369 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (3023 in chips, $2.25 bounty) 
+Giordru: posts the ante 15
+Waltisrael: posts the ante 15
+Dead hanD I: posts the ante 15
+Kevin12345Mc: posts the ante 15
+tolis elena: posts the ante 15
+IPRA2018: posts the ante 15
+vilmunds: posts the ante 15
+ManysiDeD357: posts the ante 15
+Waltisrael: posts small blind 50
+Dead hanD I: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 9c]
+Kevin12345Mc: folds 
+tolis elena: calls 100
+IPRA2018: folds 
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: folds 
+Waltisrael: calls 50
+Dead hanD I: checks 
+*** FLOP *** [4s 5s 4h]
+Waltisrael: checks 
+Dead hanD I: bets 206
+tolis elena: calls 206
+Waltisrael: raises 879 to 1085
+Dead hanD I: folds 
+tolis elena: folds 
+Uncalled bet (879) returned to Waltisrael
+Waltisrael collected 1038 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 1038 | Rake 0 
+Board [4s 5s 4h]
+Seat 1: Giordru (button) folded before Flop (didn't bet)
+Seat 2: Waltisrael (small blind) collected (1038)
+Seat 3: Dead hanD I (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded on the Flop
+Seat 6: IPRA2018 folded before Flop (didn't bet)
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862967749: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 17:19:43 WET [2025/02/14 12:19:43 ET]
+Table '3858104876 37' 8-max Seat #2 is the button
+Seat 1: Giordru (2131 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13351 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (7074 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6987 in chips, $2.25 bounty) 
+Seat 5: tolis elena (13542 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (2276 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4354 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (3008 in chips, $2.25 bounty) 
+Giordru: posts the ante 15
+Waltisrael: posts the ante 15
+Dead hanD I: posts the ante 15
+Kevin12345Mc: posts the ante 15
+tolis elena: posts the ante 15
+IPRA2018: posts the ante 15
+vilmunds: posts the ante 15
+ManysiDeD357: posts the ante 15
+Dead hanD I: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 7d]
+tolis elena: calls 100
+IPRA2018: raises 100 to 200
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: calls 200
+Waltisrael: folds 
+Dead hanD I: folds 
+Kevin12345Mc: calls 100
+tolis elena: calls 100
+*** FLOP *** [Qs 2h 6h]
+Kevin12345Mc: checks 
+tolis elena: checks 
+IPRA2018: bets 485
+Giordru: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 485
+*** TURN *** [Qs 2h 6h] [8s]
+tolis elena: checks 
+IPRA2018: checks 
+*** RIVER *** [Qs 2h 6h 8s] [2s]
+tolis elena: bets 1940
+IPRA2018: folds 
+Uncalled bet (1940) returned to tolis elena
+tolis elena collected 1940 from pot
+*** SUMMARY ***
+Total pot 1940 | Rake 0 
+Board [Qs 2h 6h 8s 2s]
+Seat 1: Giordru folded on the Flop
+Seat 2: Waltisrael (button) folded before Flop (didn't bet)
+Seat 3: Dead hanD I (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded on the Flop
+Seat 5: tolis elena collected (1940)
+Seat 6: IPRA2018 folded on the River
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862980919: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 17:20:38 WET [2025/02/14 12:20:38 ET]
+Table '3858104876 37' 8-max Seat #3 is the button
+Seat 1: Giordru (1916 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13336 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (7009 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6772 in chips, $2.25 bounty) 
+Seat 5: tolis elena (14782 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (1576 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4339 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (2993 in chips, $2.25 bounty) 
+Giordru: posts the ante 15
+Waltisrael: posts the ante 15
+Dead hanD I: posts the ante 15
+Kevin12345Mc: posts the ante 15
+tolis elena: posts the ante 15
+IPRA2018: posts the ante 15
+vilmunds: posts the ante 15
+ManysiDeD357: posts the ante 15
+Kevin12345Mc: posts small blind 50
+tolis elena: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 9c]
+IPRA2018: folds 
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: folds 
+Waltisrael: folds 
+Dead hanD I: raises 120 to 220
+Kevin12345Mc: folds 
+tolis elena: calls 120
+*** FLOP *** [8h 2s 4s]
+tolis elena: checks 
+Dead hanD I: checks 
+*** TURN *** [8h 2s 4s] [5c]
+tolis elena: checks 
+Dead hanD I: bets 299
+tolis elena: calls 299
+*** RIVER *** [8h 2s 4s 5c] [3h]
+tolis elena: bets 604
+Dead hanD I: raises 5871 to 6475 and is all-in
+tolis elena: folds 
+Uncalled bet (5871) returned to Dead hanD I
+Dead hanD I collected 2416 from pot
+Dead hanD I: doesn't show hand 
+*** SUMMARY ***
+Total pot 2416 | Rake 0 
+Board [8h 2s 4s 5c 3h]
+Seat 1: Giordru folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: Dead hanD I (button) collected (2416)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: tolis elena (big blind) folded on the River
+Seat 6: IPRA2018 folded before Flop (didn't bet)
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862995877: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 17:21:40 WET [2025/02/14 12:21:40 ET]
+Table '3858104876 37' 8-max Seat #4 is the button
+Seat 1: Giordru (1901 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13321 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (8287 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6707 in chips, $2.25 bounty) 
+Seat 5: tolis elena (13644 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (1561 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4324 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (2978 in chips, $2.25 bounty) 
+Giordru: posts the ante 15
+Waltisrael: posts the ante 15
+Dead hanD I: posts the ante 15
+Kevin12345Mc: posts the ante 15
+tolis elena: posts the ante 15
+IPRA2018: posts the ante 15
+vilmunds: posts the ante 15
+ManysiDeD357: posts the ante 15
+tolis elena: posts small blind 50
+IPRA2018: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh As]
+vilmunds: folds 
+ManysiDeD357: raises 100 to 200
+Giordru: folds 
+Waltisrael: folds 
+Dead hanD I: folds 
+Kevin12345Mc: calls 200
+tolis elena: calls 150
+IPRA2018: calls 100
+*** FLOP *** [8h 5s Kc]
+tolis elena: checks 
+IPRA2018: bets 460
+ManysiDeD357: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Uncalled bet (460) returned to IPRA2018
+IPRA2018 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [8h 5s Kc]
+Seat 1: Giordru folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded on the Flop
+Seat 5: tolis elena (small blind) folded on the Flop
+Seat 6: IPRA2018 (big blind) collected (920)
+Seat 7: vilmunds folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded on the Flop
+
+
+
+PokerStars Hand #254863012802: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 17:22:51 WET [2025/02/14 12:22:51 ET]
+Table '3858104876 37' 8-max Seat #5 is the button
+Seat 1: Giordru (1886 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13306 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (8272 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6492 in chips, $2.25 bounty) 
+Seat 5: tolis elena (13429 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (2266 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4309 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (2763 in chips, $2.25 bounty) 
+Giordru: posts the ante 15
+Waltisrael: posts the ante 15
+Dead hanD I: posts the ante 15
+Kevin12345Mc: posts the ante 15
+tolis elena: posts the ante 15
+IPRA2018: posts the ante 15
+vilmunds: posts the ante 15
+ManysiDeD357: posts the ante 15
+IPRA2018: posts small blind 50
+vilmunds: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 2h]
+ManysiDeD357: folds 
+Giordru: raises 1771 to 1871 and is all-in
+Waltisrael: folds 
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+IPRA2018: folds 
+vilmunds: folds 
+Uncalled bet (1771) returned to Giordru
+Giordru collected 370 from pot
+Giordru: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: Giordru collected (370)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena (button) folded before Flop (didn't bet)
+Seat 6: IPRA2018 (small blind) folded before Flop
+Seat 7: vilmunds (big blind) folded before Flop
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863017255: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 17:23:09 WET [2025/02/14 12:23:09 ET]
+Table '3858104876 37' 8-max Seat #6 is the button
+Seat 1: Giordru (2141 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13291 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (8257 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6477 in chips, $2.25 bounty) 
+Seat 5: tolis elena (13414 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (2201 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4194 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (2748 in chips, $2.25 bounty) 
+Giordru: posts the ante 15
+Waltisrael: posts the ante 15
+Dead hanD I: posts the ante 15
+Kevin12345Mc: posts the ante 15
+tolis elena: posts the ante 15
+IPRA2018: posts the ante 15
+vilmunds: posts the ante 15
+ManysiDeD357: posts the ante 15
+vilmunds: posts small blind 50
+ManysiDeD357: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 3d]
+Giordru: raises 100 to 200
+Waltisrael: folds 
+Dead hanD I: folds 
+Kevin12345Mc: calls 200
+tolis elena: calls 200
+IPRA2018: raises 1986 to 2186 and is all-in
+vilmunds: folds 
+ManysiDeD357: folds 
+Giordru: calls 1926 and is all-in
+Kevin12345Mc: folds 
+tolis elena: folds 
+Uncalled bet (60) returned to IPRA2018
+*** FLOP *** [Ac 7h Qd]
+*** TURN *** [Ac 7h Qd] [Ah]
+*** RIVER *** [Ac 7h Qd Ah] [Kd]
+*** SHOW DOWN ***
+Giordru: shows [Jc Ks] (two pair, Aces and Kings)
+IPRA2018: shows [2c 2h] (two pair, Aces and Deuces)
+Giordru collected 4922 from pot
+*** SUMMARY ***
+Total pot 4922 | Rake 0 
+Board [Ac 7h Qd Ah Kd]
+Seat 1: Giordru showed [Jc Ks] and won (4922) with two pair, Aces and Kings
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop
+Seat 5: tolis elena folded before Flop
+Seat 6: IPRA2018 (button) showed [2c 2h] and lost with two pair, Aces and Deuces
+Seat 7: vilmunds (small blind) folded before Flop
+Seat 8: ManysiDeD357 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254863029266: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 17:24:00 WET [2025/02/14 12:24:00 ET]
+Table '3858104876 37' 8-max Seat #7 is the button
+Seat 1: Giordru (4922 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13276 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (8242 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6262 in chips, $2.25 bounty) 
+Seat 5: tolis elena (13199 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (60 in chips, $1.50 bounty) 
+Seat 7: vilmunds (4129 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (2633 in chips, $2.25 bounty) 
+Giordru: posts the ante 15
+Waltisrael: posts the ante 15
+Dead hanD I: posts the ante 15
+Kevin12345Mc: posts the ante 15
+tolis elena: posts the ante 15
+IPRA2018: posts the ante 15
+vilmunds: posts the ante 15
+ManysiDeD357: posts the ante 15
+ManysiDeD357: posts small blind 50
+Giordru: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Jc]
+Waltisrael: folds 
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: raises 200 to 300
+IPRA2018: calls 45 and is all-in
+vilmunds: calls 300
+ManysiDeD357: raises 2318 to 2618 and is all-in
+Giordru: folds 
+tolis elena: folds 
+vilmunds: calls 2318
+*** FLOP *** [7h 8c 9h]
+*** TURN *** [7h 8c 9h] [8s]
+*** RIVER *** [7h 8c 9h 8s] [2s]
+*** SHOW DOWN ***
+ManysiDeD357: shows [Ah As] (two pair, Aces and Eights)
+vilmunds: shows [4h Ad] (a pair of Eights)
+ManysiDeD357 collected 5456 from side pot
+IPRA2018: shows [8d Ac] (three of a kind, Eights)
+IPRA2018 collected 345 from main pot
+*** SUMMARY ***
+Total pot 5801 Main pot 345. Side pot 5456. | Rake 0 
+Board [7h 8c 9h 8s 2s]
+Seat 1: Giordru (big blind) folded before Flop
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop
+Seat 6: IPRA2018 showed [8d Ac] and won (345) with three of a kind, Eights
+Seat 7: vilmunds (button) showed [4h Ad] and lost with a pair of Eights
+Seat 8: ManysiDeD357 (small blind) showed [Ah As] and won (5456) with two pair, Aces and Eights
+
+
+
+PokerStars Hand #254863040488: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 17:24:46 WET [2025/02/14 12:24:46 ET]
+Table '3858104876 37' 8-max Seat #8 is the button
+Seat 1: Giordru (4807 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13261 in chips, $1.50 bounty) 
+Seat 3: Dead hanD I (8227 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6247 in chips, $2.25 bounty) 
+Seat 5: tolis elena (12884 in chips, $1.50 bounty) 
+Seat 6: IPRA2018 (345 in chips, $1.50 bounty) 
+Seat 7: vilmunds (1496 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5456 in chips, $2.25 bounty) 
+Giordru: posts the ante 15
+Waltisrael: posts the ante 15
+Dead hanD I: posts the ante 15
+Kevin12345Mc: posts the ante 15
+tolis elena: posts the ante 15
+IPRA2018: posts the ante 15
+vilmunds: posts the ante 15
+ManysiDeD357: posts the ante 15
+Giordru: posts small blind 50
+Waltisrael: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Td]
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 100
+IPRA2018: raises 230 to 330 and is all-in
+vilmunds: raises 1151 to 1481 and is all-in
+ManysiDeD357: folds 
+Giordru: folds 
+Waltisrael: raises 11765 to 13246 and is all-in
+tolis elena: folds 
+Uncalled bet (11765) returned to Waltisrael
+*** FLOP *** [Jh 3h Jc]
+*** TURN *** [Jh 3h Jc] [2h]
+*** RIVER *** [Jh 3h Jc 2h] [7d]
+*** SHOW DOWN ***
+Waltisrael: shows [Ah Ad] (two pair, Aces and Jacks)
+vilmunds: shows [Kc 7c] (two pair, Jacks and Sevens)
+Waltisrael collected 2302 from side pot
+IPRA2018: shows [As 9s] (a pair of Jacks)
+Waltisrael collected 1260 from main pot
+Waltisrael wins $0.75 for eliminating IPRA2018 and their own bounty increases by $0.75 to $2.25
+Waltisrael wins $0.75 for eliminating vilmunds and their own bounty increases by $0.75 to $3
+vilmunds finished the tournament
+IPRA2018 finished the tournament
+StBKing is disconnected 
+HellyHan is disconnected 
+*** SUMMARY ***
+Total pot 3562 Main pot 1260. Side pot 2302. | Rake 0 
+Board [Jh 3h Jc 2h 7d]
+Seat 1: Giordru (small blind) folded before Flop
+Seat 2: Waltisrael (big blind) showed [Ah Ad] and won (3562) with two pair, Aces and Jacks
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop
+Seat 6: IPRA2018 showed [As 9s] and lost with a pair of Jacks
+Seat 7: vilmunds showed [Kc 7c] and lost with two pair, Jacks and Sevens
+Seat 8: ManysiDeD357 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863050816: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 17:25:29 WET [2025/02/14 12:25:29 ET]
+Table '3858104876 37' 8-max Seat #1 is the button
+Seat 1: Giordru (4742 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (15327 in chips, $3 bounty) 
+Seat 3: Dead hanD I (8212 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6232 in chips, $2.25 bounty) 
+Seat 5: tolis elena (12769 in chips, $1.50 bounty) 
+Seat 6: StBKing (5000 in chips, $1.50 bounty) 
+Seat 7: HellyHan (5000 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5441 in chips, $2.25 bounty) 
+Giordru: posts the ante 18
+Waltisrael: posts the ante 18
+Dead hanD I: posts the ante 18
+Kevin12345Mc: posts the ante 18
+tolis elena: posts the ante 18
+StBKing: posts the ante 18
+HellyHan: posts the ante 18
+ManysiDeD357: posts the ante 18
+Waltisrael: posts small blind 60
+Dead hanD I: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 5s]
+Kevin12345Mc: folds 
+tolis elena: calls 120
+StBKing: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+Giordru: calls 120
+Waltisrael: calls 60
+Dead hanD I: checks 
+*** FLOP *** [4s 4d Th]
+Waltisrael: checks 
+Dead hanD I: checks 
+tolis elena: bets 240
+Giordru: raises 240 to 480
+Waltisrael: folds 
+Dead hanD I: folds 
+tolis elena: folds 
+Uncalled bet (240) returned to Giordru
+Giordru collected 1104 from pot
+Giordru: doesn't show hand 
+*** SUMMARY ***
+Total pot 1104 | Rake 0 
+Board [4s 4d Th]
+Seat 1: Giordru (button) collected (1104)
+Seat 2: Waltisrael (small blind) folded on the Flop
+Seat 3: Dead hanD I (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded on the Flop
+Seat 6: StBKing folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863063169: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 17:26:20 WET [2025/02/14 12:26:20 ET]
+Table '3858104876 37' 8-max Seat #2 is the button
+Seat 1: Giordru (5468 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (15189 in chips, $3 bounty) 
+Seat 3: Dead hanD I (8074 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (6214 in chips, $2.25 bounty) 
+Seat 5: tolis elena (12391 in chips, $1.50 bounty) 
+Seat 6: StBKing (4982 in chips, $1.50 bounty) 
+Seat 7: HellyHan (4982 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5423 in chips, $2.25 bounty) 
+Giordru: posts the ante 18
+Waltisrael: posts the ante 18
+Dead hanD I: posts the ante 18
+Kevin12345Mc: posts the ante 18
+tolis elena: posts the ante 18
+StBKing: posts the ante 18
+HellyHan: posts the ante 18
+ManysiDeD357: posts the ante 18
+Dead hanD I: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 3h]
+tolis elena: calls 120
+StBKing: folds 
+HellyHan: raises 240 to 360
+ManysiDeD357: folds 
+Giordru: calls 360
+Waltisrael: folds 
+Dead hanD I: calls 300
+Kevin12345Mc: folds 
+tolis elena: calls 240
+*** FLOP *** [3c Jd 6c]
+Dead hanD I: checks 
+tolis elena: checks 
+HellyHan: checks 
+Giordru: bets 1295
+Dead hanD I: raises 6401 to 7696 and is all-in
+tolis elena: folds 
+StBKing is sitting out
+HellyHan: folds 
+Giordru: calls 3795 and is all-in
+Uncalled bet (2606) returned to Dead hanD I
+*** TURN *** [3c Jd 6c] [Kc]
+*** RIVER *** [3c Jd 6c Kc] [Ts]
+*** SHOW DOWN ***
+Dead hanD I: shows [Tc 8c] (a flush, King high)
+Giordru: shows [Qs Jh] (a pair of Jacks)
+Dead hanD I collected 11884 from pot
+Dead hanD I wins $0.75 for eliminating Giordru and their own bounty increases by $0.75 to $2.25
+Giordru finished the tournament
+*** SUMMARY ***
+Total pot 11884 | Rake 0 
+Board [3c Jd 6c Kc Ts]
+Seat 1: Giordru showed [Qs Jh] and lost with a pair of Jacks
+Seat 2: Waltisrael (button) folded before Flop (didn't bet)
+Seat 3: Dead hanD I (small blind) showed [Tc 8c] and won (11884) with a flush, King high
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: tolis elena folded on the Flop
+Seat 6: StBKing folded before Flop (didn't bet)
+Seat 7: HellyHan folded on the Flop
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863075211: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 17:27:10 WET [2025/02/14 12:27:10 ET]
+Table '3858104876 37' 8-max Seat #3 is the button
+Seat 2: Waltisrael (15171 in chips, $3 bounty) 
+Seat 3: Dead hanD I (14490 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (6076 in chips, $2.25 bounty) 
+Seat 5: tolis elena (12013 in chips, $1.50 bounty) 
+Seat 6: StBKing (4964 in chips, $1.50 bounty) is sitting out
+Seat 7: HellyHan (4604 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5405 in chips, $2.25 bounty) 
+Waltisrael: posts the ante 18
+Dead hanD I: posts the ante 18
+Kevin12345Mc: posts the ante 18
+tolis elena: posts the ante 18
+StBKing: posts the ante 18
+HellyHan: posts the ante 18
+ManysiDeD357: posts the ante 18
+Kevin12345Mc: posts small blind 60
+tolis elena: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 9c]
+StBKing: folds 
+Vitinh0 is disconnected 
+HellyHan: folds 
+ManysiDeD357: folds 
+Waltisrael: raises 120 to 240
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 120
+*** FLOP *** [8c 4d 9d]
+tolis elena: checks 
+Waltisrael: bets 228
+tolis elena: calls 228
+*** TURN *** [8c 4d 9d] [4c]
+tolis elena: checks 
+Waltisrael: bets 842
+tolis elena: folds 
+Uncalled bet (842) returned to Waltisrael
+Waltisrael collected 1122 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 1122 | Rake 0 
+Board [8c 4d 9d 4c]
+Seat 2: Waltisrael collected (1122)
+Seat 3: Dead hanD I (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: tolis elena (big blind) folded on the Turn
+Seat 6: StBKing folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863088011: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 17:28:04 WET [2025/02/14 12:28:04 ET]
+Table '3858104876 37' 8-max Seat #4 is the button
+Seat 1: Vitinh0 (5000 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (15807 in chips, $3 bounty) 
+Seat 3: Dead hanD I (14472 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (5998 in chips, $2.25 bounty) 
+Seat 5: tolis elena (11527 in chips, $1.50 bounty) 
+Seat 6: StBKing (4946 in chips, $1.50 bounty) is sitting out
+Seat 7: HellyHan (4586 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5387 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 18
+Waltisrael: posts the ante 18
+Dead hanD I: posts the ante 18
+Kevin12345Mc: posts the ante 18
+tolis elena: posts the ante 18
+StBKing: posts the ante 18
+HellyHan: posts the ante 18
+ManysiDeD357: posts the ante 18
+tolis elena: posts small blind 60
+StBKing: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 8c]
+StBKing has returned
+HellyHan: folds 
+ManysiDeD357: raises 120 to 240
+Vitinh0: folds 
+Waltisrael: calls 240
+Dead hanD I: folds 
+Kevin12345Mc: calls 240
+tolis elena: calls 180
+StBKing: calls 120
+*** FLOP *** [5d Kd 3h]
+tolis elena: checks 
+StBKing: bets 240
+ManysiDeD357: calls 240
+Waltisrael: folds 
+Kevin12345Mc: folds 
+tolis elena: raises 1032 to 1272
+StBKing: calls 1032
+ManysiDeD357: folds 
+*** TURN *** [5d Kd 3h] [7d]
+tolis elena: bets 4128
+StBKing: calls 3416 and is all-in
+Uncalled bet (712) returned to tolis elena
+*** RIVER *** [5d Kd 3h 7d] [4d]
+*** SHOW DOWN ***
+tolis elena: shows [Qd Kc] (a flush, King high)
+StBKing: shows [Kh 8h] (a pair of Kings)
+tolis elena collected 10960 from pot
+tolis elena wins $0.75 for eliminating StBKing and their own bounty increases by $0.75 to $2.25
+StBKing finished the tournament
+*** SUMMARY ***
+Total pot 10960 | Rake 0 
+Board [5d Kd 3h 7d 4d]
+Seat 1: Vitinh0 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded on the Flop
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded on the Flop
+Seat 5: tolis elena (small blind) showed [Qd Kc] and won (10960) with a flush, King high
+Seat 6: StBKing (big blind) showed [Kh 8h] and lost with a pair of Kings
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded on the Flop
+
+
+
+PokerStars Hand #254863110011: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 17:29:35 WET [2025/02/14 12:29:35 ET]
+Table '3858104876 37' 8-max Seat #5 is the button
+Seat 1: Vitinh0 (4982 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (15549 in chips, $3 bounty) 
+Seat 3: Dead hanD I (14454 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (5740 in chips, $2.25 bounty) 
+Seat 5: tolis elena (17541 in chips, $2.25 bounty) 
+Seat 7: HellyHan (4568 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4889 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 18
+Waltisrael: posts the ante 18
+Dead hanD I: posts the ante 18
+Kevin12345Mc: posts the ante 18
+tolis elena: posts the ante 18
+HellyHan: posts the ante 18
+ManysiDeD357: posts the ante 18
+HellyHan: posts small blind 60
+ManysiDeD357: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 4h]
+Vitinh0: folds 
+Waltisrael: raises 120 to 240
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 240
+HellyHan: calls 180
+ManysiDeD357: calls 120
+*** FLOP *** [2c 5c Kd]
+HellyHan: checks 
+ManysiDeD357: checks 
+Waltisrael: checks 
+tolis elena: bets 360
+HellyHan: calls 360
+ManysiDeD357: folds 
+Waltisrael: folds 
+*** TURN *** [2c 5c Kd] [3h]
+HellyHan: checks 
+tolis elena: checks 
+*** RIVER *** [2c 5c Kd 3h] [Th]
+HellyHan: checks 
+tolis elena: bets 1200
+HellyHan: folds 
+Uncalled bet (1200) returned to tolis elena
+tolis elena collected 1806 from pot
+*** SUMMARY ***
+Total pot 1806 | Rake 0 
+Board [2c 5c Kd 3h Th]
+Seat 1: Vitinh0 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded on the Flop
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena (button) collected (1806)
+Seat 7: HellyHan (small blind) folded on the River
+Seat 8: ManysiDeD357 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254863129016: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 17:30:52 WET [2025/02/14 12:30:52 ET]
+Table '3858104876 37' 8-max Seat #7 is the button
+Seat 1: Vitinh0 (4964 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (15291 in chips, $3 bounty) 
+Seat 3: Dead hanD I (14436 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (5722 in chips, $2.25 bounty) 
+Seat 5: tolis elena (18729 in chips, $2.25 bounty) 
+Seat 7: HellyHan (3950 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4631 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 18
+Waltisrael: posts the ante 18
+Dead hanD I: posts the ante 18
+Kevin12345Mc: posts the ante 18
+tolis elena: posts the ante 18
+HellyHan: posts the ante 18
+ManysiDeD357: posts the ante 18
+ManysiDeD357: posts small blind 60
+Vitinh0: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Qh]
+Waltisrael: raises 120 to 240
+Dead hanD I: folds 
+Kevin12345Mc: calls 240
+Lemmysan is disconnected 
+tolis elena: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+Vitinh0: folds 
+*** FLOP *** [6c Tc 7s]
+Waltisrael: bets 264
+Kevin12345Mc: folds 
+Uncalled bet (264) returned to Waltisrael
+Waltisrael collected 786 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 786 | Rake 0 
+Board [6c Tc 7s]
+Seat 1: Vitinh0 (big blind) folded before Flop
+Seat 2: Waltisrael collected (786)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded on the Flop
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 7: HellyHan (button) folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863138542: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 17:31:31 WET [2025/02/14 12:31:31 ET]
+Table '3858104876 37' 8-max Seat #8 is the button
+Seat 1: Vitinh0 (4826 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (15819 in chips, $3 bounty) 
+Seat 3: Dead hanD I (14418 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (5464 in chips, $2.25 bounty) 
+Seat 5: tolis elena (18711 in chips, $2.25 bounty) 
+Seat 6: Lemmysan (5000 in chips, $1.50 bounty) 
+Seat 7: HellyHan (3932 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4553 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 18
+Waltisrael: posts the ante 18
+Dead hanD I: posts the ante 18
+Kevin12345Mc: posts the ante 18
+tolis elena: posts the ante 18
+Lemmysan: posts the ante 18
+HellyHan: posts the ante 18
+ManysiDeD357: posts the ante 18
+Vitinh0: posts small blind 60
+Waltisrael: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 5d]
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+Vitinh0: calls 60
+Waltisrael: raises 384 to 504
+Vitinh0: folds 
+Uncalled bet (384) returned to Waltisrael
+Waltisrael collected 384 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 384 | Rake 0 
+Seat 1: Vitinh0 (small blind) folded before Flop
+Seat 2: Waltisrael (big blind) collected (384)
+Seat 3: Dead hanD I folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863150481: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 17:32:19 WET [2025/02/14 12:32:19 ET]
+Table '3858104876 37' 8-max Seat #1 is the button
+Seat 1: Vitinh0 (4688 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (16065 in chips, $3 bounty) 
+Seat 3: Dead hanD I (14400 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (5446 in chips, $2.25 bounty) 
+Seat 5: tolis elena (18693 in chips, $2.25 bounty) 
+Seat 6: Lemmysan (4982 in chips, $1.50 bounty) 
+Seat 7: HellyHan (3914 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4535 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 18
+Waltisrael: posts the ante 18
+Dead hanD I: posts the ante 18
+Kevin12345Mc: posts the ante 18
+tolis elena: posts the ante 18
+Lemmysan: posts the ante 18
+HellyHan: posts the ante 18
+ManysiDeD357: posts the ante 18
+Waltisrael: posts small blind 60
+Dead hanD I: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 6h]
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: raises 240 to 360
+ManysiDeD357: folds 
+Vitinh0: folds 
+Waltisrael: calls 300
+Dead hanD I: calls 240
+*** FLOP *** [Ks 6s Jd]
+Waltisrael: checks 
+Dead hanD I: checks 
+HellyHan: bets 600
+Waltisrael: raises 720 to 1320
+Dead hanD I: folds 
+HellyHan: folds 
+Uncalled bet (720) returned to Waltisrael
+Waltisrael collected 2424 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 2424 | Rake 0 
+Board [Ks 6s Jd]
+Seat 1: Vitinh0 (button) folded before Flop (didn't bet)
+Seat 2: Waltisrael (small blind) collected (2424)
+Seat 3: Dead hanD I (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded on the Flop
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863162469: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 17:33:08 WET [2025/02/14 12:33:08 ET]
+Table '3858104876 37' 8-max Seat #2 is the button
+Seat 1: Vitinh0 (4670 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (17511 in chips, $3 bounty) 
+Seat 3: Dead hanD I (14022 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (5428 in chips, $2.25 bounty) 
+Seat 5: tolis elena (18675 in chips, $2.25 bounty) 
+Seat 6: Lemmysan (4964 in chips, $1.50 bounty) 
+Seat 7: HellyHan (2936 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4517 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 18
+Waltisrael: posts the ante 18
+Dead hanD I: posts the ante 18
+Kevin12345Mc: posts the ante 18
+tolis elena: posts the ante 18
+Lemmysan: posts the ante 18
+HellyHan: posts the ante 18
+ManysiDeD357: posts the ante 18
+Dead hanD I: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Ah]
+tolis elena: calls 120
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+Vitinh0: raises 264 to 384
+Waltisrael: folds 
+Dead hanD I: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 264
+*** FLOP *** [Th 7h 7c]
+tolis elena: checks 
+Vitinh0: bets 328
+tolis elena: folds 
+Uncalled bet (328) returned to Vitinh0
+Vitinh0 collected 1092 from pot
+Vitinh0: doesn't show hand 
+*** SUMMARY ***
+Total pot 1092 | Rake 0 
+Board [Th 7h 7c]
+Seat 1: Vitinh0 collected (1092)
+Seat 2: Waltisrael (button) folded before Flop (didn't bet)
+Seat 3: Dead hanD I (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: tolis elena folded on the Flop
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863179117: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 17:34:16 WET [2025/02/14 12:34:16 ET]
+Table '3858104876 37' 8-max Seat #3 is the button
+Seat 1: Vitinh0 (5360 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (17493 in chips, $3 bounty) 
+Seat 3: Dead hanD I (13944 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (5290 in chips, $2.25 bounty) 
+Seat 5: tolis elena (18273 in chips, $2.25 bounty) 
+Seat 6: Lemmysan (4946 in chips, $1.50 bounty) 
+Seat 7: HellyHan (2918 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4499 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 21
+Waltisrael: posts the ante 21
+Dead hanD I: posts the ante 21
+Kevin12345Mc: posts the ante 21
+tolis elena: posts the ante 21
+Lemmysan: posts the ante 21
+HellyHan: posts the ante 21
+ManysiDeD357: posts the ante 21
+Kevin12345Mc: posts small blind 70
+tolis elena: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 6s]
+Lemmysan: folds 
+HellyHan: calls 140
+ManysiDeD357: raises 560 to 700
+Vitinh0: folds 
+Waltisrael: folds 
+Dead hanD I: calls 700
+Kevin12345Mc: folds 
+tolis elena: calls 560
+HellyHan: calls 560
+*** FLOP *** [5d 9c Tc]
+tolis elena: checks 
+HellyHan: bets 2197 and is all-in
+ManysiDeD357: folds 
+Dead hanD I: folds 
+tolis elena: calls 2197
+*** TURN *** [5d 9c Tc] [Qh]
+*** RIVER *** [5d 9c Tc Qh] [6c]
+*** SHOW DOWN ***
+tolis elena: shows [Qd Jd] (a pair of Queens)
+HellyHan: shows [Td Qs] (two pair, Queens and Tens)
+HellyHan collected 7432 from pot
+*** SUMMARY ***
+Total pot 7432 | Rake 0 
+Board [5d 9c Tc Qh 6c]
+Seat 1: Vitinh0 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: Dead hanD I (button) folded on the Flop
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: tolis elena (big blind) showed [Qd Jd] and lost with a pair of Queens
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan showed [Td Qs] and won (7432) with two pair, Queens and Tens
+Seat 8: ManysiDeD357 folded on the Flop
+
+
+
+PokerStars Hand #254863195880: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 17:35:25 WET [2025/02/14 12:35:25 ET]
+Table '3858104876 37' 8-max Seat #4 is the button
+Seat 1: Vitinh0 (5339 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (17472 in chips, $3 bounty) 
+Seat 3: Dead hanD I (13223 in chips, $2.25 bounty) 
+Seat 4: Kevin12345Mc (5199 in chips, $2.25 bounty) 
+Seat 5: tolis elena (15355 in chips, $2.25 bounty) 
+Seat 6: Lemmysan (4925 in chips, $1.50 bounty) 
+Seat 7: HellyHan (7432 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (3778 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 21
+Waltisrael: posts the ante 21
+Dead hanD I: posts the ante 21
+Kevin12345Mc: posts the ante 21
+tolis elena: posts the ante 21
+Lemmysan: posts the ante 21
+HellyHan: posts the ante 21
+ManysiDeD357: posts the ante 21
+tolis elena: posts small blind 70
+Lemmysan: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Qc]
+HellyHan: calls 140
+ManysiDeD357: raises 420 to 560
+Vitinh0: folds 
+Waltisrael: folds 
+Dead hanD I: raises 12642 to 13202 and is all-in
+Kevin12345Mc: folds 
+tolis elena: raises 2132 to 15334 and is all-in
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+Uncalled bet (2132) returned to tolis elena
+*** FLOP *** [7d 7s 8s]
+*** TURN *** [7d 7s 8s] [6s]
+*** RIVER *** [7d 7s 8s 6s] [8d]
+*** SHOW DOWN ***
+tolis elena: shows [Jh Jc] (two pair, Jacks and Eights)
+Dead hanD I: shows [Kc Ad] (two pair, Eights and Sevens)
+tolis elena collected 27412 from pot
+tolis elena wins $1.13 for eliminating Dead hanD I and their own bounty increases by $1.12 to $3.37
+Dead hanD I finished the tournament
+*** SUMMARY ***
+Total pot 27412 | Rake 0 
+Board [7d 7s 8s 6s 8d]
+Seat 1: Vitinh0 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: Dead hanD I showed [Kc Ad] and lost with two pair, Eights and Sevens
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: tolis elena (small blind) showed [Jh Jc] and won (27412) with two pair, Jacks and Eights
+Seat 6: Lemmysan (big blind) folded before Flop
+Seat 7: HellyHan folded before Flop
+Seat 8: ManysiDeD357 folded before Flop
+
+
+
+PokerStars Hand #254863213792: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 17:36:39 WET [2025/02/14 12:36:39 ET]
+Table '3858104876 37' 8-max Seat #5 is the button
+Seat 1: Vitinh0 (5318 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (17451 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (5178 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29544 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4764 in chips, $1.50 bounty) 
+Seat 7: HellyHan (7271 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (3197 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 21
+Waltisrael: posts the ante 21
+Kevin12345Mc: posts the ante 21
+tolis elena: posts the ante 21
+Lemmysan: posts the ante 21
+HellyHan: posts the ante 21
+ManysiDeD357: posts the ante 21
+Lemmysan: posts small blind 70
+HellyHan: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 8d]
+ManysiDeD357: folds 
+Vitinh0: folds 
+Waltisrael: raises 140 to 280
+Kevin12345Mc: calls 280
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: calls 140
+*** FLOP *** [Qs 7s 7c]
+HellyHan: checks 
+Waltisrael: bets 529
+Kevin12345Mc: calls 529
+HellyHan: calls 529
+*** TURN *** [Qs 7s 7c] [3s]
+HellyHan: checks 
+Waltisrael: bets 1182
+Kevin12345Mc: folds 
+jens914b is disconnected 
+HellyHan: raises 5259 to 6441 and is all-in
+Waltisrael: calls 5259
+*** RIVER *** [Qs 7s 7c 3s] [Qh]
+*** SHOW DOWN ***
+HellyHan: shows [7h 5s] (a full house, Sevens full of Queens)
+Waltisrael: shows [9s Js] (a flush, Queen high)
+HellyHan collected 15526 from pot
+*** SUMMARY ***
+Total pot 15526 | Rake 0 
+Board [Qs 7s 7c 3s Qh]
+Seat 1: Vitinh0 folded before Flop (didn't bet)
+Seat 2: Waltisrael showed [9s Js] and lost with a flush, Queen high
+Seat 4: Kevin12345Mc folded on the Turn
+Seat 5: tolis elena (button) folded before Flop (didn't bet)
+Seat 6: Lemmysan (small blind) folded before Flop
+Seat 7: HellyHan (big blind) showed [7h 5s] and won (15526) with a full house, Sevens full of Queens
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863236283: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 17:38:11 WET [2025/02/14 12:38:11 ET]
+Table '3858104876 37' 8-max Seat #6 is the button
+Seat 1: Vitinh0 (5297 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (10180 in chips, $3 bounty) 
+Seat 3: jens914b (5000 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4348 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29523 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4673 in chips, $1.50 bounty) 
+Seat 7: HellyHan (15526 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (3176 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 21
+Waltisrael: posts the ante 21
+jens914b: posts the ante 21
+Kevin12345Mc: posts the ante 21
+tolis elena: posts the ante 21
+Lemmysan: posts the ante 21
+HellyHan: posts the ante 21
+ManysiDeD357: posts the ante 21
+HellyHan: posts small blind 70
+ManysiDeD357: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 2s]
+Vitinh0: folds 
+Waltisrael: folds 
+jens914b: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: raises 15365 to 15505 and is all-in
+ManysiDeD357: folds 
+Uncalled bet (15365) returned to HellyHan
+HellyHan collected 448 from pot
+HellyHan: doesn't show hand 
+*** SUMMARY ***
+Total pot 448 | Rake 0 
+Seat 1: Vitinh0 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: jens914b folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan (button) folded before Flop (didn't bet)
+Seat 7: HellyHan (small blind) collected (448)
+Seat 8: ManysiDeD357 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254863241887: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 17:38:34 WET [2025/02/14 12:38:34 ET]
+Table '3858104876 37' 8-max Seat #7 is the button
+Seat 1: Vitinh0 (5276 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (10159 in chips, $3 bounty) 
+Seat 3: jens914b (4979 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4327 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29502 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4652 in chips, $1.50 bounty) 
+Seat 7: HellyHan (15813 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (3015 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 21
+Waltisrael: posts the ante 21
+jens914b: posts the ante 21
+Kevin12345Mc: posts the ante 21
+tolis elena: posts the ante 21
+Lemmysan: posts the ante 21
+HellyHan: posts the ante 21
+ManysiDeD357: posts the ante 21
+ManysiDeD357: posts small blind 70
+Vitinh0: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 3s]
+Waltisrael: folds 
+jens914b: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 140
+Lemmysan: folds 
+HellyHan: calls 140
+ManysiDeD357: raises 2854 to 2994 and is all-in
+Vitinh0: folds 
+tolis elena: folds 
+HellyHan: calls 2854
+*** FLOP *** [Qh 5d 7c]
+*** TURN *** [Qh 5d 7c] [7h]
+*** RIVER *** [Qh 5d 7c 7h] [Qc]
+*** SHOW DOWN ***
+ManysiDeD357: shows [Td As] (two pair, Queens and Sevens)
+HellyHan: shows [Kc Jd] (two pair, Queens and Sevens - lower kicker)
+ManysiDeD357 collected 6436 from pot
+*** SUMMARY ***
+Total pot 6436 | Rake 0 
+Board [Qh 5d 7c 7h Qc]
+Seat 1: Vitinh0 (big blind) folded before Flop
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: jens914b folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan (button) showed [Kc Jd] and lost with two pair, Queens and Sevens
+Seat 8: ManysiDeD357 (small blind) showed [Td As] and won (6436) with two pair, Queens and Sevens
+
+
+
+PokerStars Hand #254863255009: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 17:39:28 WET [2025/02/14 12:39:28 ET]
+Table '3858104876 37' 8-max Seat #8 is the button
+Seat 1: Vitinh0 (5115 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (10138 in chips, $3 bounty) 
+Seat 3: jens914b (4958 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4306 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29341 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4631 in chips, $1.50 bounty) 
+Seat 7: HellyHan (12798 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (6436 in chips, $2.25 bounty) 
+Vitinh0: posts the ante 21
+Waltisrael: posts the ante 21
+jens914b: posts the ante 21
+Kevin12345Mc: posts the ante 21
+tolis elena: posts the ante 21
+Lemmysan: posts the ante 21
+HellyHan: posts the ante 21
+ManysiDeD357: posts the ante 21
+Vitinh0: posts small blind 70
+Waltisrael: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 9h]
+jens914b: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+Vitinh0: raises 238 to 378
+Waltisrael: calls 238
+*** FLOP *** [3d 8s 8d]
+Vitinh0: bets 277
+Waltisrael: calls 277
+*** TURN *** [3d 8s 8d] [7d]
+Vitinh0: checks 
+Waltisrael: bets 1109
+Vitinh0: calls 1109
+*** RIVER *** [3d 8s 8d 7d] [9d]
+Vitinh0: checks 
+Waltisrael: bets 8353 and is all-in
+Vitinh0: calls 3330 and is all-in
+Uncalled bet (5023) returned to Waltisrael
+*** SHOW DOWN ***
+Waltisrael: shows [8c 9s] (a full house, Eights full of Nines)
+Vitinh0: shows [Ac 6d] (a flush, Nine high)
+Waltisrael collected 10356 from pot
+Waltisrael wins $0.75 for eliminating Vitinh0 and their own bounty increases by $0.75 to $3.75
+Vitinh0 finished the tournament
+*** SUMMARY ***
+Total pot 10356 | Rake 0 
+Board [3d 8s 8d 7d 9d]
+Seat 1: Vitinh0 (small blind) showed [Ac 6d] and lost with a flush, Nine high
+Seat 2: Waltisrael (big blind) showed [8c 9s] and won (10356) with a full house, Eights full of Nines
+Seat 3: jens914b folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863273246: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 17:40:43 WET [2025/02/14 12:40:43 ET]
+Table '3858104876 37' 8-max Seat #2 is the button
+Seat 2: Waltisrael (15379 in chips, $3.75 bounty) 
+Seat 3: jens914b (4937 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4285 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29320 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4610 in chips, $1.50 bounty) 
+Seat 7: HellyHan (12777 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (6415 in chips, $2.25 bounty) 
+Waltisrael: posts the ante 21
+jens914b: posts the ante 21
+Kevin12345Mc: posts the ante 21
+tolis elena: posts the ante 21
+Lemmysan: posts the ante 21
+HellyHan: posts the ante 21
+ManysiDeD357: posts the ante 21
+jens914b: posts small blind 70
+Kevin12345Mc: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 4s]
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: raises 210 to 350
+Waltisrael: folds 
+jens914b: calls 280
+Kevin12345Mc: folds 
+*** FLOP *** [3h 7d Ad]
+jens914b: checks 
+ManysiDeD357: bets 831
+jens914b: folds 
+Uncalled bet (831) returned to ManysiDeD357
+ManysiDeD357 collected 987 from pot
+ManysiDeD357: doesn't show hand 
+*** SUMMARY ***
+Total pot 987 | Rake 0 
+Board [3h 7d Ad]
+Seat 2: Waltisrael (button) folded before Flop (didn't bet)
+Seat 3: jens914b (small blind) folded on the Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 collected (987)
+
+
+
+PokerStars Hand #254863285176: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 17:41:33 WET [2025/02/14 12:41:33 ET]
+Table '3858104876 37' 8-max Seat #3 is the button
+Seat 2: Waltisrael (15358 in chips, $3.75 bounty) 
+Seat 3: jens914b (4566 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4124 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29299 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4589 in chips, $1.50 bounty) 
+Seat 7: HellyHan (12756 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (7031 in chips, $2.25 bounty) 
+Waltisrael: posts the ante 24
+jens914b: posts the ante 24
+Kevin12345Mc: posts the ante 24
+tolis elena: posts the ante 24
+Lemmysan: posts the ante 24
+HellyHan: posts the ante 24
+ManysiDeD357: posts the ante 24
+Kevin12345Mc: posts small blind 80
+tolis elena: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 9h]
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: raises 160 to 320
+Waltisrael: folds 
+jens914b: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Uncalled bet (160) returned to ManysiDeD357
+ManysiDeD357 collected 568 from pot
+ManysiDeD357: doesn't show hand 
+*** SUMMARY ***
+Total pot 568 | Rake 0 
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: jens914b (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: tolis elena (big blind) folded before Flop
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 collected (568)
+
+
+
+PokerStars Hand #254863295233: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 17:42:14 WET [2025/02/14 12:42:14 ET]
+Table '3858104876 37' 8-max Seat #4 is the button
+Seat 2: Waltisrael (15334 in chips, $3.75 bounty) 
+Seat 3: jens914b (4542 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (4020 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29115 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4565 in chips, $1.50 bounty) 
+Seat 7: HellyHan (12732 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (7415 in chips, $2.25 bounty) 
+Waltisrael: posts the ante 24
+jens914b: posts the ante 24
+Kevin12345Mc: posts the ante 24
+tolis elena: posts the ante 24
+Lemmysan: posts the ante 24
+HellyHan: posts the ante 24
+ManysiDeD357: posts the ante 24
+tolis elena: posts small blind 80
+Lemmysan: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc Kd]
+HellyHan: calls 160
+ManysiDeD357: folds 
+Waltisrael: folds 
+jens914b: folds 
+Kevin12345Mc: calls 160
+fissk867 is disconnected 
+tolis elena: raises 960 to 1120
+Lemmysan: folds 
+HellyHan: folds 
+Kevin12345Mc: folds 
+Uncalled bet (960) returned to tolis elena
+tolis elena collected 808 from pot
+*** SUMMARY ***
+Total pot 808 | Rake 0 
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: jens914b folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop
+Seat 5: tolis elena (small blind) collected (808)
+Seat 6: Lemmysan (big blind) folded before Flop
+Seat 7: HellyHan folded before Flop
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863306173: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 17:42:58 WET [2025/02/14 12:42:58 ET]
+Table '3858104876 37' 8-max Seat #5 is the button
+Seat 1: fissk867 (5000 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (15310 in chips, $3.75 bounty) 
+Seat 3: jens914b (4518 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3836 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29739 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4381 in chips, $1.50 bounty) 
+Seat 7: HellyHan (12548 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (7391 in chips, $2.25 bounty) 
+fissk867: posts the ante 24
+Waltisrael: posts the ante 24
+jens914b: posts the ante 24
+Kevin12345Mc: posts the ante 24
+tolis elena: posts the ante 24
+Lemmysan: posts the ante 24
+HellyHan: posts the ante 24
+ManysiDeD357: posts the ante 24
+Lemmysan: posts small blind 80
+HellyHan: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Ad]
+ManysiDeD357: calls 160
+fissk867: folds 
+Waltisrael: raises 320 to 480
+jens914b: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+Uncalled bet (320) returned to Waltisrael
+Waltisrael collected 752 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 752 | Rake 0 
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael collected (752)
+Seat 3: jens914b folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena (button) folded before Flop (didn't bet)
+Seat 6: Lemmysan (small blind) folded before Flop
+Seat 7: HellyHan (big blind) folded before Flop
+Seat 8: ManysiDeD357 folded before Flop
+
+
+
+PokerStars Hand #254863313315: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 17:43:28 WET [2025/02/14 12:43:28 ET]
+Table '3858104876 37' 8-max Seat #6 is the button
+Seat 1: fissk867 (4976 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (15878 in chips, $3.75 bounty) 
+Seat 3: jens914b (4494 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3812 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29715 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4277 in chips, $1.50 bounty) 
+Seat 7: HellyHan (12364 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (7207 in chips, $2.25 bounty) 
+fissk867: posts the ante 24
+Waltisrael: posts the ante 24
+jens914b: posts the ante 24
+Kevin12345Mc: posts the ante 24
+tolis elena: posts the ante 24
+Lemmysan: posts the ante 24
+HellyHan: posts the ante 24
+ManysiDeD357: posts the ante 24
+HellyHan: posts small blind 80
+ManysiDeD357: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 4h]
+fissk867: folds 
+Waltisrael: raises 160 to 320
+jens914b: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+Uncalled bet (160) returned to Waltisrael
+Waltisrael collected 592 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael collected (592)
+Seat 3: jens914b folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan (button) folded before Flop (didn't bet)
+Seat 7: HellyHan (small blind) folded before Flop
+Seat 8: ManysiDeD357 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254863318893: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 17:43:50 WET [2025/02/14 12:43:50 ET]
+Table '3858104876 37' 8-max Seat #7 is the button
+Seat 1: fissk867 (4952 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (16286 in chips, $3.75 bounty) 
+Seat 3: jens914b (4470 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3788 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29691 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4253 in chips, $1.50 bounty) 
+Seat 7: HellyHan (12260 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (7023 in chips, $2.25 bounty) 
+fissk867: posts the ante 24
+Waltisrael: posts the ante 24
+jens914b: posts the ante 24
+Kevin12345Mc: posts the ante 24
+tolis elena: posts the ante 24
+Lemmysan: posts the ante 24
+HellyHan: posts the ante 24
+ManysiDeD357: posts the ante 24
+ManysiDeD357: posts small blind 80
+fissk867: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 4s]
+Waltisrael: folds 
+jens914b: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: calls 80
+fissk867: checks 
+*** FLOP *** [Qd 4d Js]
+ManysiDeD357: checks 
+fissk867: checks 
+*** TURN *** [Qd 4d Js] [5s]
+ManysiDeD357: checks 
+fissk867: checks 
+*** RIVER *** [Qd 4d Js 5s] [8s]
+ManysiDeD357: checks 
+fissk867: bets 320
+ManysiDeD357: folds 
+Uncalled bet (320) returned to fissk867
+fissk867 collected 512 from pot
+fissk867: doesn't show hand 
+*** SUMMARY ***
+Total pot 512 | Rake 0 
+Board [Qd 4d Js 5s 8s]
+Seat 1: fissk867 (big blind) collected (512)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: jens914b folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan (button) folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (small blind) folded on the River
+
+
+
+PokerStars Hand #254863339623: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 17:45:15 WET [2025/02/14 12:45:15 ET]
+Table '3858104876 37' 8-max Seat #8 is the button
+Seat 1: fissk867 (5280 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (16262 in chips, $3.75 bounty) 
+Seat 3: jens914b (4446 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (3764 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29667 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4229 in chips, $1.50 bounty) 
+Seat 7: HellyHan (12236 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (6839 in chips, $2.25 bounty) 
+fissk867: posts the ante 24
+Waltisrael: posts the ante 24
+jens914b: posts the ante 24
+Kevin12345Mc: posts the ante 24
+tolis elena: posts the ante 24
+Lemmysan: posts the ante 24
+HellyHan: posts the ante 24
+ManysiDeD357: posts the ante 24
+fissk867: posts small blind 80
+Waltisrael: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 6h]
+jens914b: folds 
+Kevin12345Mc: raises 176 to 336
+tolis elena: calls 336
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: calls 336
+fissk867: folds 
+Waltisrael: calls 176
+*** FLOP *** [3h 4d 2s]
+Waltisrael: checks 
+Kevin12345Mc: bets 808
+tolis elena: calls 808
+ManysiDeD357: folds 
+Waltisrael: calls 808
+*** TURN *** [3h 4d 2s] [4h]
+Waltisrael: checks 
+Kevin12345Mc: bets 2596 and is all-in
+tolis elena: folds 
+Waltisrael: calls 2596
+*** RIVER *** [3h 4d 2s 4h] [7h]
+*** SHOW DOWN ***
+Waltisrael: shows [8s 3c] (two pair, Fours and Threes)
+Kevin12345Mc: shows [6s 6h] (two pair, Sixes and Fours)
+Kevin12345Mc collected 9232 from pot
+*** SUMMARY ***
+Total pot 9232 | Rake 0 
+Board [3h 4d 2s 4h 7h]
+Seat 1: fissk867 (small blind) folded before Flop
+Seat 2: Waltisrael (big blind) showed [8s 3c] and lost with two pair, Fours and Threes
+Seat 3: jens914b folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc showed [6s 6h] and won (9232) with two pair, Sixes and Fours
+Seat 5: tolis elena folded on the Turn
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (button) folded on the Flop
+
+
+
+PokerStars Hand #254863365717: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 17:47:00 WET [2025/02/14 12:47:00 ET]
+Table '3858104876 37' 8-max Seat #1 is the button
+Seat 1: fissk867 (5176 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12498 in chips, $3.75 bounty) 
+Seat 3: jens914b (4422 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (9232 in chips, $2.25 bounty) 
+Seat 5: tolis elena (28499 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4205 in chips, $1.50 bounty) 
+Seat 7: HellyHan (12212 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (6479 in chips, $2.25 bounty) 
+fissk867: posts the ante 24
+Waltisrael: posts the ante 24
+jens914b: posts the ante 24
+Kevin12345Mc: posts the ante 24
+tolis elena: posts the ante 24
+Lemmysan: posts the ante 24
+HellyHan: posts the ante 24
+ManysiDeD357: posts the ante 24
+Waltisrael: posts small blind 80
+jens914b: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 9h]
+Kevin12345Mc: raises 208 to 368
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: calls 368
+ManysiDeD357: calls 368
+fissk867: raises 752 to 1120
+Waltisrael: folds 
+jens914b: folds 
+Kevin12345Mc: calls 752
+HellyHan: calls 752
+ManysiDeD357: calls 752
+*** FLOP *** [Jd 3c Tc]
+Kevin12345Mc: checks 
+HellyHan: checks 
+ManysiDeD357: checks 
+fissk867: bets 4032 and is all-in
+Kevin12345Mc: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+Uncalled bet (4032) returned to fissk867
+fissk867 collected 4912 from pot
+fissk867: doesn't show hand 
+*** SUMMARY ***
+Total pot 4912 | Rake 0 
+Board [Jd 3c Tc]
+Seat 1: fissk867 (button) collected (4912)
+Seat 2: Waltisrael (small blind) folded before Flop
+Seat 3: jens914b (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded on the Flop
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded on the Flop
+Seat 8: ManysiDeD357 folded on the Flop
+
+
+
+PokerStars Hand #254863382212: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 17:48:07 WET [2025/02/14 12:48:07 ET]
+Table '3858104876 37' 8-max Seat #2 is the button
+Seat 1: fissk867 (8944 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12394 in chips, $3.75 bounty) 
+Seat 3: jens914b (4238 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (8088 in chips, $2.25 bounty) 
+Seat 5: tolis elena (28475 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4181 in chips, $1.50 bounty) 
+Seat 7: HellyHan (11068 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5335 in chips, $2.25 bounty) 
+fissk867: posts the ante 24
+Waltisrael: posts the ante 24
+jens914b: posts the ante 24
+Kevin12345Mc: posts the ante 24
+tolis elena: posts the ante 24
+Lemmysan: posts the ante 24
+HellyHan: posts the ante 24
+ManysiDeD357: posts the ante 24
+jens914b: posts small blind 80
+Kevin12345Mc: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s Tc]
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+fissk867: raises 160 to 320
+Waltisrael: folds 
+jens914b: calls 240
+Kevin12345Mc: folds 
+*** FLOP *** [2d 7s 2h]
+jens914b: checks 
+fissk867: checks 
+*** TURN *** [2d 7s 2h] [4c]
+jens914b: bets 720
+fissk867: folds 
+Uncalled bet (720) returned to jens914b
+jens914b collected 992 from pot
+jens914b: doesn't show hand 
+*** SUMMARY ***
+Total pot 992 | Rake 0 
+Board [2d 7s 2h 4c]
+Seat 1: fissk867 folded on the Turn
+Seat 2: Waltisrael (button) folded before Flop (didn't bet)
+Seat 3: jens914b (small blind) collected (992)
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863396922: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 17:49:06 WET [2025/02/14 12:49:06 ET]
+Table '3858104876 37' 8-max Seat #3 is the button
+Seat 1: fissk867 (8600 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12370 in chips, $3.75 bounty) 
+Seat 3: jens914b (4886 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7904 in chips, $2.25 bounty) 
+Seat 5: tolis elena (28451 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4157 in chips, $1.50 bounty) 
+Seat 7: HellyHan (11044 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5311 in chips, $2.25 bounty) 
+fissk867: posts the ante 24
+Waltisrael: posts the ante 24
+jens914b: posts the ante 24
+Kevin12345Mc: posts the ante 24
+tolis elena: posts the ante 24
+Lemmysan: posts the ante 24
+HellyHan: posts the ante 24
+ManysiDeD357: posts the ante 24
+Kevin12345Mc: posts small blind 80
+tolis elena: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 5d]
+Lemmysan: folds 
+HellyHan: raises 160 to 320
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: calls 320
+jens914b: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 160
+*** FLOP *** [6c 3s 7h]
+tolis elena: checks 
+HellyHan: checks 
+Waltisrael: checks 
+*** TURN *** [6c 3s 7h] [7c]
+tolis elena: bets 480
+HellyHan: folds 
+Waltisrael: calls 480
+*** RIVER *** [6c 3s 7h 7c] [Jh]
+tolis elena: bets 1120
+Waltisrael: folds 
+Uncalled bet (1120) returned to tolis elena
+tolis elena collected 2192 from pot
+*** SUMMARY ***
+Total pot 2192 | Rake 0 
+Board [6c 3s 7h 7c Jh]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded on the River
+Seat 3: jens914b (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: tolis elena (big blind) collected (2192)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded on the Turn
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863421277: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 17:50:44 WET [2025/02/14 12:50:44 ET]
+Table '3858104876 37' 8-max Seat #4 is the button
+Seat 1: fissk867 (8576 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (11546 in chips, $3.75 bounty) 
+Seat 3: jens914b (4862 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7800 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29819 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4133 in chips, $1.50 bounty) 
+Seat 7: HellyHan (10700 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5287 in chips, $2.25 bounty) 
+fissk867: posts the ante 27
+Waltisrael: posts the ante 27
+jens914b: posts the ante 27
+Kevin12345Mc: posts the ante 27
+tolis elena: posts the ante 27
+Lemmysan: posts the ante 27
+HellyHan: posts the ante 27
+ManysiDeD357: posts the ante 27
+tolis elena: posts small blind 90
+Lemmysan: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Qd]
+HellyHan: folds 
+ManysiDeD357: folds 
+fissk867: calls 180
+Waltisrael: raises 540 to 720
+jens914b: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+fissk867: calls 540
+*** FLOP *** [Jc As 2h]
+fissk867: checks 
+Waltisrael: bets 576
+fissk867: folds 
+Uncalled bet (576) returned to Waltisrael
+Waltisrael collected 1926 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 1926 | Rake 0 
+Board [Jc As 2h]
+Seat 1: fissk867 folded on the Flop
+Seat 2: Waltisrael collected (1926)
+Seat 3: jens914b folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: tolis elena (small blind) folded before Flop
+Seat 6: Lemmysan (big blind) folded before Flop
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863434530: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 17:51:38 WET [2025/02/14 12:51:38 ET]
+Table '3858104876 37' 8-max Seat #5 is the button
+Seat 1: fissk867 (7829 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12725 in chips, $3.75 bounty) 
+Seat 3: jens914b (4835 in chips, $1.50 bounty) 
+Seat 4: Kevin12345Mc (7773 in chips, $2.25 bounty) 
+Seat 5: tolis elena (29702 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (3926 in chips, $1.50 bounty) 
+Seat 7: HellyHan (10673 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (5260 in chips, $2.25 bounty) 
+fissk867: posts the ante 27
+Waltisrael: posts the ante 27
+jens914b: posts the ante 27
+Kevin12345Mc: posts the ante 27
+tolis elena: posts the ante 27
+Lemmysan: posts the ante 27
+HellyHan: posts the ante 27
+ManysiDeD357: posts the ante 27
+Lemmysan: posts small blind 90
+HellyHan: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad Qh]
+ManysiDeD357: raises 180 to 360
+fissk867: calls 360
+Waltisrael: folds 
+jens914b: raises 4448 to 4808 and is all-in
+Kevin12345Mc: raises 2938 to 7746 and is all-in
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+fissk867: folds 
+Uncalled bet (2938) returned to Kevin12345Mc
+*** FLOP *** [Ts 3s 3c]
+*** TURN *** [Ts 3s 3c] [Jc]
+*** RIVER *** [Ts 3s 3c Jc] [8h]
+*** SHOW DOWN ***
+jens914b: shows [Qd Kh] (a pair of Threes)
+Kevin12345Mc: shows [Ad Qh] (a pair of Threes - Ace kicker)
+Kevin12345Mc collected 10822 from pot
+Kevin12345Mc wins $0.75 for eliminating jens914b and their own bounty increases by $0.75 to $3
+jens914b finished the tournament
+*** SUMMARY ***
+Total pot 10822 | Rake 0 
+Board [Ts 3s 3c Jc 8h]
+Seat 1: fissk867 folded before Flop
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: jens914b showed [Qd Kh] and lost with a pair of Threes
+Seat 4: Kevin12345Mc showed [Ad Qh] and won (10822) with a pair of Threes
+Seat 5: tolis elena (button) folded before Flop (didn't bet)
+Seat 6: Lemmysan (small blind) folded before Flop
+Seat 7: HellyHan (big blind) folded before Flop
+Seat 8: ManysiDeD357 folded before Flop
+
+
+
+PokerStars Hand #254863448488: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 17:52:34 WET [2025/02/14 12:52:34 ET]
+Table '3858104876 37' 8-max Seat #6 is the button
+Seat 1: fissk867 (7442 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12698 in chips, $3.75 bounty) 
+Seat 4: Kevin12345Mc (13760 in chips, $3 bounty) 
+Seat 5: tolis elena (29675 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (3809 in chips, $1.50 bounty) 
+Seat 7: HellyHan (10466 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4873 in chips, $2.25 bounty) 
+fissk867: posts the ante 27
+Waltisrael: posts the ante 27
+Kevin12345Mc: posts the ante 27
+tolis elena: posts the ante 27
+Lemmysan: posts the ante 27
+HellyHan: posts the ante 27
+ManysiDeD357: posts the ante 27
+HellyHan: posts small blind 90
+ManysiDeD357: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 2h]
+fissk867: folds 
+Waltisrael: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: raises 639 to 819
+HellyHan: folds 
+warel_bish is disconnected 
+ManysiDeD357: folds 
+Uncalled bet (639) returned to Lemmysan
+Lemmysan collected 639 from pot
+*** SUMMARY ***
+Total pot 639 | Rake 0 
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan (button) collected (639)
+Seat 7: HellyHan (small blind) folded before Flop
+Seat 8: ManysiDeD357 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254863460707: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 17:53:24 WET [2025/02/14 12:53:24 ET]
+Table '3858104876 37' 8-max Seat #7 is the button
+Seat 1: fissk867 (7415 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12671 in chips, $3.75 bounty) 
+Seat 3: warel_bish (17898 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (13733 in chips, $3 bounty) 
+Seat 5: tolis elena (29648 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4241 in chips, $1.50 bounty) 
+Seat 7: HellyHan (10349 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (4666 in chips, $2.25 bounty) 
+fissk867: posts the ante 27
+Waltisrael: posts the ante 27
+warel_bish: posts the ante 27
+Kevin12345Mc: posts the ante 27
+tolis elena: posts the ante 27
+Lemmysan: posts the ante 27
+HellyHan: posts the ante 27
+ManysiDeD357: posts the ante 27
+ManysiDeD357: posts small blind 90
+fissk867: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 9h]
+Waltisrael: raises 180 to 360
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: calls 270
+fissk867: folds 
+*** FLOP *** [2c 3h 3d]
+ManysiDeD357: checks 
+Waltisrael: bets 360
+ManysiDeD357: calls 360
+*** TURN *** [2c 3h 3d] [8h]
+ManysiDeD357: checks 
+Waltisrael: checks 
+*** RIVER *** [2c 3h 3d 8h] [Tc]
+ManysiDeD357: checks 
+Waltisrael: checks 
+*** SHOW DOWN ***
+ManysiDeD357: shows [4d 5d] (a pair of Threes)
+Waltisrael: shows [7h Ah] (a pair of Threes - Ace kicker)
+Waltisrael collected 1836 from pot
+*** SUMMARY ***
+Total pot 1836 | Rake 0 
+Board [2c 3h 3d 8h Tc]
+Seat 1: fissk867 (big blind) folded before Flop
+Seat 2: Waltisrael showed [7h Ah] and won (1836) with a pair of Threes
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan (button) folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (small blind) showed [4d 5d] and lost with a pair of Threes
+
+
+
+PokerStars Hand #254863473266: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 17:54:15 WET [2025/02/14 12:54:15 ET]
+Table '3858104876 37' 8-max Seat #8 is the button
+Seat 1: fissk867 (7208 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13760 in chips, $3.75 bounty) 
+Seat 3: warel_bish (17871 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (13706 in chips, $3 bounty) 
+Seat 5: tolis elena (29621 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4214 in chips, $1.50 bounty) 
+Seat 7: HellyHan (10322 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (3919 in chips, $2.25 bounty) 
+fissk867: posts the ante 27
+Waltisrael: posts the ante 27
+warel_bish: posts the ante 27
+Kevin12345Mc: posts the ante 27
+tolis elena: posts the ante 27
+Lemmysan: posts the ante 27
+HellyHan: posts the ante 27
+ManysiDeD357: posts the ante 27
+fissk867: posts small blind 90
+Waltisrael: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 2h]
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: raises 180 to 360
+ManysiDeD357: raises 3532 to 3892 and is all-in
+fissk867: folds 
+Waltisrael: folds 
+HellyHan: calls 3532
+*** FLOP *** [8c 9s 3d]
+*** TURN *** [8c 9s 3d] [As]
+*** RIVER *** [8c 9s 3d As] [6s]
+*** SHOW DOWN ***
+HellyHan: shows [Th Qh] (high card Ace)
+ManysiDeD357: shows [9h Ah] (two pair, Aces and Nines)
+ManysiDeD357 collected 8270 from pot
+*** SUMMARY ***
+Total pot 8270 | Rake 0 
+Board [8c 9s 3d As 6s]
+Seat 1: fissk867 (small blind) folded before Flop
+Seat 2: Waltisrael (big blind) folded before Flop
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan showed [Th Qh] and lost with high card Ace
+Seat 8: ManysiDeD357 (button) showed [9h Ah] and won (8270) with two pair, Aces and Nines
+
+
+
+PokerStars Hand #254863486603: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 17:55:09 WET [2025/02/14 12:55:09 ET]
+Table '3858104876 37' 8-max Seat #1 is the button
+Seat 1: fissk867 (7091 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13553 in chips, $3.75 bounty) 
+Seat 3: warel_bish (17844 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (13679 in chips, $3 bounty) 
+Seat 5: tolis elena (29594 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4187 in chips, $1.50 bounty) 
+Seat 7: HellyHan (6403 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (8270 in chips, $2.25 bounty) 
+fissk867: posts the ante 27
+Waltisrael: posts the ante 27
+warel_bish: posts the ante 27
+Kevin12345Mc: posts the ante 27
+tolis elena: posts the ante 27
+Lemmysan: posts the ante 27
+HellyHan: posts the ante 27
+ManysiDeD357: posts the ante 27
+Waltisrael: posts small blind 90
+warel_bish: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 5c]
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: raises 180 to 360
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: calls 180
+*** FLOP *** [Kh 6h Ad]
+warel_bish: checks 
+ManysiDeD357: bets 564
+warel_bish: folds 
+Uncalled bet (564) returned to ManysiDeD357
+ManysiDeD357 collected 1026 from pot
+ManysiDeD357: doesn't show hand 
+*** SUMMARY ***
+Total pot 1026 | Rake 0 
+Board [Kh 6h Ad]
+Seat 1: fissk867 (button) folded before Flop (didn't bet)
+Seat 2: Waltisrael (small blind) folded before Flop
+Seat 3: warel_bish (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 collected (1026)
+
+
+
+PokerStars Hand #254863581965: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 18:03:12 WET [2025/02/14 13:03:12 ET]
+Table '3858104876 37' 8-max Seat #2 is the button
+Seat 1: fissk867 (7064 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13436 in chips, $3.75 bounty) 
+Seat 3: warel_bish (17457 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (13652 in chips, $3 bounty) 
+Seat 5: tolis elena (29567 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4160 in chips, $1.50 bounty) 
+Seat 7: HellyHan (6376 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (8909 in chips, $2.25 bounty) 
+fissk867: posts the ante 27
+Waltisrael: posts the ante 27
+warel_bish: posts the ante 27
+Kevin12345Mc: posts the ante 27
+tolis elena: posts the ante 27
+Lemmysan: posts the ante 27
+HellyHan: posts the ante 27
+ManysiDeD357: posts the ante 27
+warel_bish: posts small blind 90
+Kevin12345Mc: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th Ac]
+tolis elena: folds 
+Lemmysan: raises 180 to 360
+HellyHan: folds 
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: folds 
+Kevin12345Mc: calls 180
+*** FLOP *** [9s 9d 8s]
+Kevin12345Mc: checks 
+Lemmysan: checks 
+*** TURN *** [9s 9d 8s] [3h]
+Kevin12345Mc: checks 
+Lemmysan: checks 
+*** RIVER *** [9s 9d 8s 3h] [Qc]
+Kevin12345Mc: checks 
+Lemmysan: bets 180
+Kevin12345Mc: calls 180
+*** SHOW DOWN ***
+Lemmysan: shows [Kh Qd] (two pair, Queens and Nines)
+Kevin12345Mc: mucks hand 
+Lemmysan collected 1386 from pot
+*** SUMMARY ***
+Total pot 1386 | Rake 0 
+Board [9s 9d 8s 3h Qc]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael (button) folded before Flop (didn't bet)
+Seat 3: warel_bish (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) mucked [Th Ac]
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan showed [Kh Qd] and won (1386) with two pair, Queens and Nines
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863598621: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 18:04:21 WET [2025/02/14 13:04:21 ET]
+Table '3858104876 37' 8-max Seat #3 is the button
+Seat 1: fissk867 (7037 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13409 in chips, $3.75 bounty) 
+Seat 3: warel_bish (17340 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (13085 in chips, $3 bounty) 
+Seat 5: tolis elena (29540 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4979 in chips, $1.50 bounty) 
+Seat 7: HellyHan (6349 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (8882 in chips, $2.25 bounty) 
+fissk867: posts the ante 27
+Waltisrael: posts the ante 27
+warel_bish: posts the ante 27
+Kevin12345Mc: posts the ante 27
+tolis elena: posts the ante 27
+Lemmysan: posts the ante 27
+HellyHan: posts the ante 27
+ManysiDeD357: posts the ante 27
+Kevin12345Mc: posts small blind 90
+tolis elena: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 9s]
+Lemmysan: folds 
+HellyHan: calls 180
+ManysiDeD357: raises 450 to 630
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: calls 630
+Kevin12345Mc: calls 540
+tolis elena: calls 450
+HellyHan: calls 450
+*** FLOP *** [Qc 3s 6s]
+Kevin12345Mc: checks 
+tolis elena: checks 
+HellyHan: checks 
+ManysiDeD357: checks 
+warel_bish: checks 
+*** TURN *** [Qc 3s 6s] [2d]
+Kevin12345Mc: checks 
+tolis elena: bets 720
+HellyHan: calls 720
+ManysiDeD357: folds 
+warel_bish: folds 
+Kevin12345Mc: folds 
+*** RIVER *** [Qc 3s 6s 2d] [2s]
+tolis elena: bets 540
+HellyHan: raises 1800 to 2340
+tolis elena: folds 
+Uncalled bet (1800) returned to HellyHan
+HellyHan collected 5886 from pot
+HellyHan: doesn't show hand 
+*** SUMMARY ***
+Total pot 5886 | Rake 0 
+Board [Qc 3s 6s 2d 2s]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish (button) folded on the Turn
+Seat 4: Kevin12345Mc (small blind) folded on the Turn
+Seat 5: tolis elena (big blind) folded on the River
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan collected (5886)
+Seat 8: ManysiDeD357 folded on the Turn
+
+
+
+PokerStars Hand #254863628113: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 18:06:20 WET [2025/02/14 13:06:20 ET]
+Table '3858104876 37' 8-max Seat #4 is the button
+Seat 1: fissk867 (7010 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13382 in chips, $3.75 bounty) 
+Seat 3: warel_bish (16683 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (12428 in chips, $3 bounty) 
+Seat 5: tolis elena (27623 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4952 in chips, $1.50 bounty) 
+Seat 7: HellyHan (10318 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (8225 in chips, $2.25 bounty) 
+fissk867: posts the ante 30
+Waltisrael: posts the ante 30
+warel_bish: posts the ante 30
+Kevin12345Mc: posts the ante 30
+tolis elena: posts the ante 30
+Lemmysan: posts the ante 30
+HellyHan: posts the ante 30
+ManysiDeD357: posts the ante 30
+tolis elena: posts small blind 100
+Lemmysan: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Ks]
+HellyHan: folds 
+ManysiDeD357: raises 300 to 500
+fissk867: calls 500
+Waltisrael: folds 
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+*** FLOP *** [Kc Kh 8s]
+ManysiDeD357: bets 847
+fissk867: folds 
+Uncalled bet (847) returned to ManysiDeD357
+ManysiDeD357 collected 1540 from pot
+ManysiDeD357: doesn't show hand 
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Board [Kc Kh 8s]
+Seat 1: fissk867 folded on the Flop
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: tolis elena (small blind) folded before Flop
+Seat 6: Lemmysan (big blind) folded before Flop
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 collected (1540)
+
+
+
+PokerStars Hand #254863635879: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 18:06:51 WET [2025/02/14 13:06:51 ET]
+Table '3858104876 37' 8-max Seat #5 is the button
+Seat 1: fissk867 (6480 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13352 in chips, $3.75 bounty) 
+Seat 3: warel_bish (16653 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (12398 in chips, $3 bounty) 
+Seat 5: tolis elena (27493 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4722 in chips, $1.50 bounty) 
+Seat 7: HellyHan (10288 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (9235 in chips, $2.25 bounty) 
+fissk867: posts the ante 30
+Waltisrael: posts the ante 30
+warel_bish: posts the ante 30
+Kevin12345Mc: posts the ante 30
+tolis elena: posts the ante 30
+Lemmysan: posts the ante 30
+HellyHan: posts the ante 30
+ManysiDeD357: posts the ante 30
+Lemmysan: posts small blind 100
+HellyHan: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 5d]
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: raises 240 to 440
+Kevin12345Mc: calls 440
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+*** FLOP *** [8h 7s 4h]
+warel_bish: bets 426
+Kevin12345Mc: calls 426
+*** TURN *** [8h 7s 4h] [Qs]
+warel_bish: bets 1136
+Kevin12345Mc: calls 1136
+*** RIVER *** [8h 7s 4h Qs] [Jh]
+warel_bish: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+warel_bish: shows [Kh Js] (a pair of Jacks)
+Kevin12345Mc: mucks hand 
+warel_bish collected 4544 from pot
+*** SUMMARY ***
+Total pot 4544 | Rake 0 
+Board [8h 7s 4h Qs Jh]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish showed [Kh Js] and won (4544) with a pair of Jacks
+Seat 4: Kevin12345Mc mucked [5h 5d]
+Seat 5: tolis elena (button) folded before Flop (didn't bet)
+Seat 6: Lemmysan (small blind) folded before Flop
+Seat 7: HellyHan (big blind) folded before Flop
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863654663: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 18:08:07 WET [2025/02/14 13:08:07 ET]
+Table '3858104876 37' 8-max Seat #6 is the button
+Seat 1: fissk867 (6450 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (13322 in chips, $3.75 bounty) 
+Seat 3: warel_bish (19165 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (10366 in chips, $3 bounty) 
+Seat 5: tolis elena (27463 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4592 in chips, $1.50 bounty) 
+Seat 7: HellyHan (10058 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (9205 in chips, $2.25 bounty) 
+fissk867: posts the ante 30
+Waltisrael: posts the ante 30
+warel_bish: posts the ante 30
+Kevin12345Mc: posts the ante 30
+tolis elena: posts the ante 30
+Lemmysan: posts the ante 30
+HellyHan: posts the ante 30
+ManysiDeD357: posts the ante 30
+HellyHan: posts small blind 100
+ManysiDeD357: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 9h]
+fissk867: folds 
+Waltisrael: raises 200 to 400
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: calls 300
+ManysiDeD357: raises 1640 to 2040
+Waltisrael: folds 
+HellyHan: calls 1640
+*** FLOP *** [Jh 3s Qh]
+HellyHan: checks 
+ManysiDeD357: checks 
+*** TURN *** [Jh 3s Qh] [Th]
+HellyHan: checks 
+ManysiDeD357: bets 3304
+HellyHan: folds 
+Uncalled bet (3304) returned to ManysiDeD357
+ManysiDeD357 collected 4720 from pot
+ManysiDeD357: doesn't show hand 
+*** SUMMARY ***
+Total pot 4720 | Rake 0 
+Board [Jh 3s Qh Th]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan (button) folded before Flop (didn't bet)
+Seat 7: HellyHan (small blind) folded on the Turn
+Seat 8: ManysiDeD357 (big blind) collected (4720)
+
+
+
+PokerStars Hand #254863671125: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 18:09:14 WET [2025/02/14 13:09:14 ET]
+Table '3858104876 37' 8-max Seat #7 is the button
+Seat 1: fissk867 (6420 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12892 in chips, $3.75 bounty) 
+Seat 3: warel_bish (19135 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (10336 in chips, $3 bounty) 
+Seat 5: tolis elena (27433 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4562 in chips, $1.50 bounty) 
+Seat 7: HellyHan (7988 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (11855 in chips, $2.25 bounty) 
+fissk867: posts the ante 30
+Waltisrael: posts the ante 30
+warel_bish: posts the ante 30
+Kevin12345Mc: posts the ante 30
+tolis elena: posts the ante 30
+Lemmysan: posts the ante 30
+HellyHan: posts the ante 30
+ManysiDeD357: posts the ante 30
+ManysiDeD357: posts small blind 100
+fissk867: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 3d]
+Waltisrael: folds 
+warel_bish: raises 240 to 440
+Kevin12345Mc: folds 
+tolis elena: raises 1420 to 1860
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+fissk867: calls 1660
+warel_bish: calls 1420
+*** FLOP *** [8d 6d 9d]
+fissk867: checks 
+warel_bish: checks 
+tolis elena: bets 600
+fissk867: calls 600
+warel_bish: folds 
+*** TURN *** [8d 6d 9d] [3s]
+fissk867: checks 
+tolis elena: checks 
+*** RIVER *** [8d 6d 9d 3s] [Jh]
+fissk867: checks 
+tolis elena: bets 4400
+fissk867: folds 
+Uncalled bet (4400) returned to tolis elena
+tolis elena collected 7120 from pot
+*** SUMMARY ***
+Total pot 7120 | Rake 0 
+Board [8d 6d 9d 3s Jh]
+Seat 1: fissk867 (big blind) folded on the River
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish folded on the Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena collected (7120)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan (button) folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863696039: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 18:10:55 WET [2025/02/14 13:10:55 ET]
+Table '3858104876 37' 8-max Seat #8 is the button
+Seat 1: fissk867 (3930 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12862 in chips, $3.75 bounty) 
+Seat 3: warel_bish (17245 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (10306 in chips, $3 bounty) 
+Seat 5: tolis elena (32063 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4532 in chips, $1.50 bounty) 
+Seat 7: HellyHan (7958 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (11725 in chips, $2.25 bounty) 
+fissk867: posts the ante 30
+Waltisrael: posts the ante 30
+warel_bish: posts the ante 30
+Kevin12345Mc: posts the ante 30
+tolis elena: posts the ante 30
+Lemmysan: posts the ante 30
+HellyHan: posts the ante 30
+ManysiDeD357: posts the ante 30
+fissk867: posts small blind 100
+Waltisrael: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 9d]
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: calls 200
+ManysiDeD357: folds 
+fissk867: raises 400 to 600
+Waltisrael: folds 
+HellyHan: calls 400
+*** FLOP *** [Qs Kh 4c]
+fissk867: bets 600
+HellyHan: calls 600
+*** TURN *** [Qs Kh 4c] [5c]
+fissk867: bets 600
+HellyHan: calls 600
+*** RIVER *** [Qs Kh 4c 5c] [5s]
+fissk867: bets 600
+HellyHan: calls 600
+*** SHOW DOWN ***
+fissk867: shows [Ac Kc] (two pair, Kings and Fives)
+HellyHan: mucks hand 
+fissk867 collected 5240 from pot
+*** SUMMARY ***
+Total pot 5240 | Rake 0 
+Board [Qs Kh 4c 5c 5s]
+Seat 1: fissk867 (small blind) showed [Ac Kc] and won (5240) with two pair, Kings and Fives
+Seat 2: Waltisrael (big blind) folded before Flop
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan mucked [8d Qd]
+Seat 8: ManysiDeD357 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863710371: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 18:11:53 WET [2025/02/14 13:11:53 ET]
+Table '3858104876 37' 8-max Seat #1 is the button
+Seat 1: fissk867 (6740 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12632 in chips, $3.75 bounty) 
+Seat 3: warel_bish (17215 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (10276 in chips, $3 bounty) 
+Seat 5: tolis elena (32033 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4502 in chips, $1.50 bounty) 
+Seat 7: HellyHan (5528 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (11695 in chips, $2.25 bounty) 
+fissk867: posts the ante 30
+Waltisrael: posts the ante 30
+warel_bish: posts the ante 30
+Kevin12345Mc: posts the ante 30
+tolis elena: posts the ante 30
+Lemmysan: posts the ante 30
+HellyHan: posts the ante 30
+ManysiDeD357: posts the ante 30
+Waltisrael: posts small blind 100
+warel_bish: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 6h]
+Kevin12345Mc: folds 
+tolis elena: calls 200
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: checks 
+*** FLOP *** [3d 7c Js]
+warel_bish: checks 
+tolis elena: checks 
+*** TURN *** [3d 7c Js] [5d]
+warel_bish: bets 222
+tolis elena: calls 222
+*** RIVER *** [3d 7c Js 5d] [Ac]
+warel_bish: checks 
+tolis elena: bets 1184
+warel_bish: folds 
+Uncalled bet (1184) returned to tolis elena
+tolis elena collected 1184 from pot
+*** SUMMARY ***
+Total pot 1184 | Rake 0 
+Board [3d 7c Js 5d Ac]
+Seat 1: fissk867 (button) folded before Flop (didn't bet)
+Seat 2: Waltisrael (small blind) folded before Flop
+Seat 3: warel_bish (big blind) folded on the River
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena collected (1184)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863726965: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 18:12:59 WET [2025/02/14 13:12:59 ET]
+Table '3858104876 37' 8-max Seat #2 is the button
+Seat 1: fissk867 (6710 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12502 in chips, $3.75 bounty) 
+Seat 3: warel_bish (16763 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (10246 in chips, $3 bounty) 
+Seat 5: tolis elena (32765 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4472 in chips, $1.50 bounty) 
+Seat 7: HellyHan (5498 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (11665 in chips, $2.25 bounty) 
+fissk867: posts the ante 30
+Waltisrael: posts the ante 30
+warel_bish: posts the ante 30
+Kevin12345Mc: posts the ante 30
+tolis elena: posts the ante 30
+Lemmysan: posts the ante 30
+HellyHan: posts the ante 30
+ManysiDeD357: posts the ante 30
+warel_bish: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 5d]
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+fissk867: calls 200
+Waltisrael: folds 
+warel_bish: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [7h Kd Kc]
+Kevin12345Mc: checks 
+fissk867: bets 200
+Kevin12345Mc: calls 200
+*** TURN *** [7h Kd Kc] [4s]
+Kevin12345Mc: checks 
+fissk867: checks 
+*** RIVER *** [7h Kd Kc 4s] [3h]
+Kevin12345Mc: checks 
+fissk867: bets 1140
+Kevin12345Mc: calls 1140
+*** SHOW DOWN ***
+fissk867: shows [3d 3s] (a full house, Threes full of Kings)
+Kevin12345Mc: mucks hand 
+fissk867 collected 3420 from pot
+*** SUMMARY ***
+Total pot 3420 | Rake 0 
+Board [7h Kd Kc 4s 3h]
+Seat 1: fissk867 showed [3d 3s] and won (3420) with a full house, Threes full of Kings
+Seat 2: Waltisrael (button) folded before Flop (didn't bet)
+Seat 3: warel_bish (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) mucked [5h 5d]
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863737673: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 18:13:43 WET [2025/02/14 13:13:43 ET]
+Table '3858104876 37' 8-max Seat #3 is the button
+Seat 1: fissk867 (8560 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12472 in chips, $3.75 bounty) 
+Seat 3: warel_bish (16633 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (8676 in chips, $3 bounty) 
+Seat 5: tolis elena (32735 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4442 in chips, $1.50 bounty) 
+Seat 7: HellyHan (5468 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (11635 in chips, $2.25 bounty) 
+fissk867: posts the ante 36
+Waltisrael: posts the ante 36
+warel_bish: posts the ante 36
+Kevin12345Mc: posts the ante 36
+tolis elena: posts the ante 36
+Lemmysan: posts the ante 36
+HellyHan: posts the ante 36
+ManysiDeD357: posts the ante 36
+Kevin12345Mc: posts small blind 125
+tolis elena: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 5h]
+Lemmysan: folds 
+HellyHan: folds 
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: folds 
+Kevin12345Mc: folds 
+Uncalled bet (125) returned to tolis elena
+tolis elena collected 538 from pot
+*** SUMMARY ***
+Total pot 538 | Rake 0 
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: tolis elena (big blind) collected (538)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863741066: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 18:13:56 WET [2025/02/14 13:13:56 ET]
+Table '3858104876 37' 8-max Seat #4 is the button
+Seat 1: fissk867 (8524 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (12436 in chips, $3.75 bounty) 
+Seat 3: warel_bish (16597 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (8515 in chips, $3 bounty) 
+Seat 5: tolis elena (33112 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4406 in chips, $1.50 bounty) 
+Seat 7: HellyHan (5432 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (11599 in chips, $2.25 bounty) 
+fissk867: posts the ante 36
+Waltisrael: posts the ante 36
+warel_bish: posts the ante 36
+Kevin12345Mc: posts the ante 36
+tolis elena: posts the ante 36
+Lemmysan: posts the ante 36
+HellyHan: posts the ante 36
+ManysiDeD357: posts the ante 36
+tolis elena: posts small blind 125
+Lemmysan: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 5s]
+HellyHan: folds 
+ManysiDeD357: folds 
+fissk867: raises 250 to 500
+Waltisrael: raises 1000 to 1500
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+fissk867: calls 1000
+*** FLOP *** [8s Ah Ad]
+fissk867: checks 
+Waltisrael: checks 
+*** TURN *** [8s Ah Ad] [Kd]
+fissk867: checks 
+Waltisrael: checks 
+*** RIVER *** [8s Ah Ad Kd] [9h]
+fissk867: bets 250
+Waltisrael: calls 250
+*** SHOW DOWN ***
+fissk867: shows [Jd Kc] (two pair, Aces and Kings)
+Waltisrael: mucks hand 
+fissk867 collected 4163 from pot
+*** SUMMARY ***
+Total pot 4163 | Rake 0 
+Board [8s Ah Ad Kd 9h]
+Seat 1: fissk867 showed [Jd Kc] and won (4163) with two pair, Aces and Kings
+Seat 2: Waltisrael mucked [Tc Th]
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: tolis elena (small blind) folded before Flop
+Seat 6: Lemmysan (big blind) folded before Flop
+Seat 7: HellyHan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863755572: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 18:14:53 WET [2025/02/14 13:14:53 ET]
+Table '3858104876 37' 8-max Seat #5 is the button
+Seat 1: fissk867 (10901 in chips, $1.50 bounty) 
+Seat 2: Waltisrael (10650 in chips, $3.75 bounty) 
+Seat 3: warel_bish (16561 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (8479 in chips, $3 bounty) 
+Seat 5: tolis elena (32951 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (4120 in chips, $1.50 bounty) 
+Seat 7: HellyHan (5396 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (11563 in chips, $2.25 bounty) 
+fissk867: posts the ante 36
+Waltisrael: posts the ante 36
+warel_bish: posts the ante 36
+Kevin12345Mc: posts the ante 36
+tolis elena: posts the ante 36
+Lemmysan: posts the ante 36
+HellyHan: posts the ante 36
+ManysiDeD357: posts the ante 36
+Lemmysan: posts small blind 125
+HellyHan: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 6c]
+ManysiDeD357: folds 
+fissk867: raises 250 to 500
+Waltisrael: folds 
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+HellyHan: calls 250
+*** FLOP *** [7d Th As]
+HellyHan: checks 
+fissk867: bets 500
+HellyHan: calls 500
+*** TURN *** [7d Th As] [Qh]
+HellyHan: checks 
+fissk867: bets 750
+HellyHan: calls 750
+*** RIVER *** [7d Th As Qh] [Td]
+HellyHan: bets 3610 and is all-in
+fissk867: calls 3610
+*** SHOW DOWN ***
+HellyHan: shows [Ts Jd] (three of a kind, Tens)
+fissk867: shows [7c 7s] (a full house, Sevens full of Tens)
+fissk867 collected 11133 from pot
+fissk867 wins $0.75 for eliminating HellyHan and their own bounty increases by $0.75 to $2.25
+HellyHan finished the tournament
+*** SUMMARY ***
+Total pot 11133 | Rake 0 
+Board [7d Th As Qh Td]
+Seat 1: fissk867 showed [7c 7s] and won (11133) with a full house, Sevens full of Tens
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena (button) folded before Flop (didn't bet)
+Seat 6: Lemmysan (small blind) folded before Flop
+Seat 7: HellyHan (big blind) showed [Ts Jd] and lost with three of a kind, Tens
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863766211: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 18:15:36 WET [2025/02/14 13:15:36 ET]
+Table '3858104876 37' 8-max Seat #6 is the button
+Seat 1: fissk867 (16638 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (10614 in chips, $3.75 bounty) 
+Seat 3: warel_bish (16525 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (8443 in chips, $3 bounty) 
+Seat 5: tolis elena (32915 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (3959 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (11527 in chips, $2.25 bounty) 
+fissk867: posts the ante 36
+Waltisrael: posts the ante 36
+warel_bish: posts the ante 36
+Kevin12345Mc: posts the ante 36
+tolis elena: posts the ante 36
+Lemmysan: posts the ante 36
+ManysiDeD357: posts the ante 36
+ManysiDeD357: posts small blind 125
+fissk867: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 5s]
+Waltisrael: folds 
+warel_bish: raises 300 to 550
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+ManysiDeD357: folds 
+fissk867: calls 300
+*** FLOP *** [7h 8c Th]
+fissk867: checks 
+warel_bish: bets 443
+fissk867: calls 443
+*** TURN *** [7h 8c Th] [Qd]
+fissk867: checks 
+warel_bish: bets 1182
+fissk867: folds 
+Uncalled bet (1182) returned to warel_bish
+warel_bish collected 2363 from pot
+*** SUMMARY ***
+Total pot 2363 | Rake 0 
+Board [7h 8c Th Qd]
+Seat 1: fissk867 (big blind) folded on the Turn
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish collected (2363)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan (button) folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863779691: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 18:16:30 WET [2025/02/14 13:16:30 ET]
+Table '3858104876 37' 8-max Seat #8 is the button
+Seat 1: fissk867 (15609 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (10578 in chips, $3.75 bounty) 
+Seat 3: warel_bish (17859 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (8407 in chips, $3 bounty) 
+Seat 5: tolis elena (32879 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (3923 in chips, $1.50 bounty) 
+Seat 8: ManysiDeD357 (11366 in chips, $2.25 bounty) 
+fissk867: posts the ante 36
+Waltisrael: posts the ante 36
+warel_bish: posts the ante 36
+Kevin12345Mc: posts the ante 36
+tolis elena: posts the ante 36
+Lemmysan: posts the ante 36
+ManysiDeD357: posts the ante 36
+fissk867: posts small blind 125
+Waltisrael: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 5d]
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 250
+Lemmysan: folds 
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: checks 
+*** FLOP *** [3c Qc Js]
+Waltisrael: checks 
+tolis elena: checks 
+*** TURN *** [3c Qc Js] [6s]
+Waltisrael: checks 
+tolis elena: checks 
+*** RIVER *** [3c Qc Js 6s] [7s]
+Waltisrael: checks 
+tolis elena: bets 439
+Waltisrael: folds 
+Uncalled bet (439) returned to tolis elena
+tolis elena collected 877 from pot
+*** SUMMARY ***
+Total pot 877 | Rake 0 
+Board [3c Qc Js 6s 7s]
+Seat 1: fissk867 (small blind) folded before Flop
+Seat 2: Waltisrael (big blind) folded on the River
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena collected (877)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863796140: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 18:17:36 WET [2025/02/14 13:17:36 ET]
+Table '3858104876 37' 8-max Seat #1 is the button
+Seat 1: fissk867 (15448 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (10292 in chips, $3.75 bounty) 
+Seat 3: warel_bish (17823 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (8371 in chips, $3 bounty) 
+Seat 5: tolis elena (33470 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (3887 in chips, $1.50 bounty) 
+Seat 7: gota06 (9662 in chips, $2.15 bounty) is sitting out
+Seat 8: ManysiDeD357 (11330 in chips, $2.25 bounty) 
+fissk867: posts the ante 36
+Waltisrael: posts the ante 36
+warel_bish: posts the ante 36
+Kevin12345Mc: posts the ante 36
+tolis elena: posts the ante 36
+Lemmysan: posts the ante 36
+gota06: posts the ante 36
+ManysiDeD357: posts the ante 36
+Waltisrael: posts small blind 125
+warel_bish: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Kd]
+Kevin12345Mc: raises 300 to 550
+tolis elena: folds 
+Lemmysan: folds 
+gota06: folds 
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: calls 425
+warel_bish: calls 300
+*** FLOP *** [2s Qc 2h]
+Waltisrael: checks 
+warel_bish: checks 
+Kevin12345Mc: bets 640
+Waltisrael: calls 640
+warel_bish: folds 
+*** TURN *** [2s Qc 2h] [4c]
+Waltisrael: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [2s Qc 2h 4c] [3c]
+Waltisrael: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+Waltisrael: shows [8c 8h] (two pair, Eights and Deuces)
+Kevin12345Mc: mucks hand 
+Waltisrael collected 3218 from pot
+*** SUMMARY ***
+Total pot 3218 | Rake 0 
+Board [2s Qc 2h 4c 3c]
+Seat 1: fissk867 (button) folded before Flop (didn't bet)
+Seat 2: Waltisrael (small blind) showed [8c 8h] and won (3218) with two pair, Eights and Deuces
+Seat 3: warel_bish (big blind) folded on the Flop
+Seat 4: Kevin12345Mc mucked [As Kd]
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: gota06 folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863813334: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 18:18:45 WET [2025/02/14 13:18:45 ET]
+Table '3858104876 37' 8-max Seat #2 is the button
+Seat 1: fissk867 (15412 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (12284 in chips, $3.75 bounty) 
+Seat 3: warel_bish (17237 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (7145 in chips, $3 bounty) 
+Seat 5: tolis elena (33434 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (3851 in chips, $1.50 bounty) 
+Seat 7: gota06 (9626 in chips, $2.15 bounty) is sitting out
+Seat 8: ManysiDeD357 (11294 in chips, $2.25 bounty) 
+fissk867: posts the ante 36
+Waltisrael: posts the ante 36
+warel_bish: posts the ante 36
+Kevin12345Mc: posts the ante 36
+tolis elena: posts the ante 36
+Lemmysan: posts the ante 36
+gota06: posts the ante 36
+ManysiDeD357: posts the ante 36
+warel_bish: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 6d]
+tolis elena: folds 
+Lemmysan: folds 
+gota06: folds 
+ManysiDeD357: folds 
+fissk867: folds 
+gota06 is disconnected 
+gota06 has returned
+Waltisrael: raises 250 to 500
+warel_bish: calls 375
+Kevin12345Mc: folds 
+*** FLOP *** [5d Js 2d]
+warel_bish: checks 
+Waltisrael: checks 
+*** TURN *** [5d Js 2d] [Kd]
+warel_bish: checks 
+Waltisrael: bets 1154
+warel_bish: calls 1154
+*** RIVER *** [5d Js 2d Kd] [Ah]
+warel_bish: checks 
+Waltisrael: bets 2885
+warel_bish: folds 
+Uncalled bet (2885) returned to Waltisrael
+Waltisrael collected 3846 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 3846 | Rake 0 
+Board [5d Js 2d Kd Ah]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael (button) collected (3846)
+Seat 3: warel_bish (small blind) folded on the River
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: gota06 folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863832910: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 18:20:04 WET [2025/02/14 13:20:04 ET]
+Table '3858104876 37' 8-max Seat #3 is the button
+Seat 1: fissk867 (15376 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (14440 in chips, $3.75 bounty) 
+Seat 3: warel_bish (15547 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6859 in chips, $3 bounty) 
+Seat 5: tolis elena (33398 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (3815 in chips, $1.50 bounty) 
+Seat 7: gota06 (9590 in chips, $2.15 bounty) 
+Seat 8: ManysiDeD357 (11258 in chips, $2.25 bounty) 
+fissk867: posts the ante 36
+Waltisrael: posts the ante 36
+warel_bish: posts the ante 36
+Kevin12345Mc: posts the ante 36
+tolis elena: posts the ante 36
+Lemmysan: posts the ante 36
+gota06: posts the ante 36
+ManysiDeD357: posts the ante 36
+Kevin12345Mc: posts small blind 125
+tolis elena: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Qs]
+Lemmysan: folds 
+gota06: raises 250 to 500
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: calls 500
+warel_bish: calls 500
+Kevin12345Mc: folds 
+tolis elena: calls 250
+*** FLOP *** [4s 7s 9s]
+tolis elena: checks 
+gota06: bets 750
+Waltisrael: folds 
+warel_bish: folds 
+tolis elena: calls 750
+*** TURN *** [4s 7s 9s] [Th]
+tolis elena: checks 
+gota06: bets 1750
+tolis elena: folds 
+Uncalled bet (1750) returned to gota06
+gota06 collected 3913 from pot
+*** SUMMARY ***
+Total pot 3913 | Rake 0 
+Board [4s 7s 9s Th]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded on the Flop
+Seat 3: warel_bish (button) folded on the Flop
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: tolis elena (big blind) folded on the Turn
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: gota06 collected (3913)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863856808: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 18:21:39 WET [2025/02/14 13:21:39 ET]
+Table '3858104876 37' 8-max Seat #4 is the button
+Seat 1: fissk867 (15340 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (13904 in chips, $3.75 bounty) 
+Seat 3: warel_bish (15011 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6698 in chips, $3 bounty) 
+Seat 5: tolis elena (32112 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (3779 in chips, $1.50 bounty) 
+Seat 7: gota06 (12217 in chips, $2.15 bounty) 
+Seat 8: ManysiDeD357 (11222 in chips, $2.25 bounty) 
+fissk867: posts the ante 42
+Waltisrael: posts the ante 42
+warel_bish: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tolis elena: posts the ante 42
+Lemmysan: posts the ante 42
+gota06: posts the ante 42
+ManysiDeD357: posts the ante 42
+tolis elena: posts small blind 150
+Lemmysan: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 2d]
+gota06: raises 300 to 600
+ManysiDeD357: folds 
+fissk867: calls 600
+Waltisrael: folds 
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 450
+Lemmysan: calls 300
+*** FLOP *** [Qc 9h 5s]
+tolis elena: checks 
+Lemmysan: checks 
+gota06: bets 600
+fissk867: calls 600
+tolis elena: calls 600
+Lemmysan: folds 
+*** TURN *** [Qc 9h 5s] [8h]
+tolis elena: checks 
+gota06: bets 1500
+fissk867: folds 
+tolis elena: calls 1500
+*** RIVER *** [Qc 9h 5s 8h] [4c]
+tolis elena: checks 
+gota06: checks 
+*** SHOW DOWN ***
+tolis elena: shows [Kd 9d] (a pair of Nines)
+gota06: mucks hand 
+tolis elena collected 7536 from pot
+*** SUMMARY ***
+Total pot 7536 | Rake 0 
+Board [Qc 9h 5s 8h 4c]
+Seat 1: fissk867 folded on the Turn
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: tolis elena (small blind) showed [Kd 9d] and won (7536) with a pair of Nines
+Seat 6: Lemmysan (big blind) folded on the Flop
+Seat 7: gota06 mucked [2h Ah]
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863882597: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 18:23:22 WET [2025/02/14 13:23:22 ET]
+Table '3858104876 37' 8-max Seat #5 is the button
+Seat 1: fissk867 (14098 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (13862 in chips, $3.75 bounty) 
+Seat 3: warel_bish (14969 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6656 in chips, $3 bounty) 
+Seat 5: tolis elena (36906 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (3137 in chips, $1.50 bounty) 
+Seat 7: gota06 (9475 in chips, $2.15 bounty) 
+Seat 8: ManysiDeD357 (11180 in chips, $2.25 bounty) 
+fissk867: posts the ante 42
+Waltisrael: posts the ante 42
+warel_bish: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tolis elena: posts the ante 42
+Lemmysan: posts the ante 42
+gota06: posts the ante 42
+ManysiDeD357: posts the ante 42
+Lemmysan: posts small blind 150
+gota06: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 8h]
+ManysiDeD357: folds 
+fissk867: raises 300 to 600
+Waltisrael: folds 
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+gota06 has timed out
+gota06: folds 
+gota06 is sitting out
+Uncalled bet (300) returned to fissk867
+fissk867 collected 1086 from pot
+fissk867: doesn't show hand 
+*** SUMMARY ***
+Total pot 1086 | Rake 0 
+Seat 1: fissk867 collected (1086)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena (button) folded before Flop (didn't bet)
+Seat 6: Lemmysan (small blind) folded before Flop
+Seat 7: gota06 (big blind) folded before Flop
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863891737: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 18:23:58 WET [2025/02/14 13:23:58 ET]
+Table '3858104876 37' 8-max Seat #6 is the button
+Seat 1: fissk867 (14842 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (13820 in chips, $3.75 bounty) 
+Seat 3: warel_bish (14927 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6614 in chips, $3 bounty) 
+Seat 5: tolis elena (36864 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (2945 in chips, $1.50 bounty) 
+Seat 7: gota06 (9133 in chips, $2.15 bounty) is sitting out
+Seat 8: ManysiDeD357 (11138 in chips, $2.25 bounty) 
+fissk867: posts the ante 42
+Waltisrael: posts the ante 42
+warel_bish: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tolis elena: posts the ante 42
+Lemmysan: posts the ante 42
+gota06: posts the ante 42
+ManysiDeD357: posts the ante 42
+gota06: posts small blind 150
+ManysiDeD357: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 4s]
+fissk867: folds 
+Waltisrael: raises 300 to 600
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+gota06: folds 
+ManysiDeD357: calls 300
+*** FLOP *** [9d 8h 6h]
+ManysiDeD357: checks 
+Waltisrael: bets 600
+ManysiDeD357: calls 600
+*** TURN *** [9d 8h 6h] [Kc]
+ManysiDeD357: bets 1887
+Waltisrael: calls 1887
+*** RIVER *** [9d 8h 6h Kc] [7h]
+ManysiDeD357: bets 4662
+Waltisrael: calls 4662
+*** SHOW DOWN ***
+ManysiDeD357: shows [Qh 5h] (a flush, Queen high)
+Waltisrael: mucks hand 
+ManysiDeD357 collected 15984 from pot
+*** SUMMARY ***
+Total pot 15984 | Rake 0 
+Board [9d 8h 6h Kc 7h]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael mucked [6c 6s]
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan (button) folded before Flop (didn't bet)
+Seat 7: gota06 (small blind) folded before Flop
+Seat 8: ManysiDeD357 (big blind) showed [Qh 5h] and won (15984) with a flush, Queen high
+
+
+
+PokerStars Hand #254863920204: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 18:25:51 WET [2025/02/14 13:25:51 ET]
+Table '3858104876 37' 8-max Seat #7 is the button
+Seat 1: fissk867 (14800 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (6029 in chips, $3.75 bounty) 
+Seat 3: warel_bish (14885 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6572 in chips, $3 bounty) 
+Seat 5: tolis elena (36822 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (2903 in chips, $1.50 bounty) 
+Seat 7: gota06 (8941 in chips, $2.15 bounty) is sitting out
+Seat 8: ManysiDeD357 (19331 in chips, $2.25 bounty) 
+fissk867: posts the ante 42
+Waltisrael: posts the ante 42
+warel_bish: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tolis elena: posts the ante 42
+Lemmysan: posts the ante 42
+gota06: posts the ante 42
+ManysiDeD357: posts the ante 42
+ManysiDeD357: posts small blind 150
+fissk867: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 9d]
+Waltisrael: folds 
+warel_bish: folds 
+Kevin12345Mc: folds 
+gota06 has returned
+tolis elena: calls 300
+Lemmysan: raises 2561 to 2861 and is all-in
+gota06: raises 6038 to 8899 and is all-in
+ManysiDeD357: folds 
+fissk867: folds 
+tolis elena: folds 
+Uncalled bet (6038) returned to gota06
+*** FLOP *** [2s 8h Qd]
+*** TURN *** [2s 8h Qd] [9h]
+*** RIVER *** [2s 8h Qd 9h] [Ts]
+*** SHOW DOWN ***
+Lemmysan: shows [Jc Ad] (a straight, Eight to Queen)
+gota06: shows [Tc Th] (three of a kind, Tens)
+Lemmysan collected 6808 from pot
+*** SUMMARY ***
+Total pot 6808 | Rake 0 
+Board [2s 8h Qd 9h Ts]
+Seat 1: fissk867 (big blind) folded before Flop
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop
+Seat 6: Lemmysan showed [Jc Ad] and won (6808) with a straight, Eight to Queen
+Seat 7: gota06 (button) showed [Tc Th] and lost with three of a kind, Tens
+Seat 8: ManysiDeD357 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863935733: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 18:26:52 WET [2025/02/14 13:26:52 ET]
+Table '3858104876 37' 8-max Seat #8 is the button
+Seat 1: fissk867 (14458 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (5987 in chips, $3.75 bounty) 
+Seat 3: warel_bish (14843 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6530 in chips, $3 bounty) 
+Seat 5: tolis elena (36480 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (6808 in chips, $1.50 bounty) 
+Seat 7: gota06 (6038 in chips, $2.15 bounty) 
+Seat 8: ManysiDeD357 (19139 in chips, $2.25 bounty) 
+fissk867: posts the ante 42
+Waltisrael: posts the ante 42
+warel_bish: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tolis elena: posts the ante 42
+Lemmysan: posts the ante 42
+gota06: posts the ante 42
+ManysiDeD357: posts the ante 42
+fissk867: posts small blind 150
+Waltisrael: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh As]
+warel_bish: folds 
+Kevin12345Mc: raises 330 to 630
+tolis elena: folds 
+Lemmysan: folds 
+gota06: folds 
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: calls 330
+*** FLOP *** [9c Ac 8c]
+Waltisrael: checks 
+Kevin12345Mc: bets 576
+Waltisrael: folds 
+Uncalled bet (576) returned to Kevin12345Mc
+Kevin12345Mc collected 1746 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1746 | Rake 0 
+Board [9c Ac 8c]
+Seat 1: fissk867 (small blind) folded before Flop
+Seat 2: Waltisrael (big blind) folded on the Flop
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (1746)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: gota06 folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863944725: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 18:27:28 WET [2025/02/14 13:27:28 ET]
+Table '3858104876 37' 8-max Seat #1 is the button
+Seat 1: fissk867 (14266 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (5315 in chips, $3.75 bounty) 
+Seat 3: warel_bish (14801 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (7604 in chips, $3 bounty) 
+Seat 5: tolis elena (36438 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (6766 in chips, $1.50 bounty) 
+Seat 7: gota06 (5996 in chips, $2.15 bounty) 
+Seat 8: ManysiDeD357 (19097 in chips, $2.25 bounty) 
+fissk867: posts the ante 42
+Waltisrael: posts the ante 42
+warel_bish: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tolis elena: posts the ante 42
+Lemmysan: posts the ante 42
+gota06: posts the ante 42
+ManysiDeD357: posts the ante 42
+Waltisrael: posts small blind 150
+warel_bish: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Kh]
+Kevin12345Mc: folds 
+tolis elena: calls 300
+Lemmysan: folds 
+gota06 has timed out
+gota06: folds 
+gota06 is sitting out
+ManysiDeD357: raises 750 to 1050
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: folds 
+tolis elena: calls 750
+*** FLOP *** [Qc 4c 4s]
+tolis elena: checks 
+ManysiDeD357: bets 1887
+tolis elena: folds 
+Uncalled bet (1887) returned to ManysiDeD357
+ManysiDeD357 collected 2886 from pot
+ManysiDeD357: doesn't show hand 
+*** SUMMARY ***
+Total pot 2886 | Rake 0 
+Board [Qc 4c 4s]
+Seat 1: fissk867 (button) folded before Flop (didn't bet)
+Seat 2: Waltisrael (small blind) folded before Flop
+Seat 3: warel_bish (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded on the Flop
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: gota06 folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 collected (2886)
+
+
+
+PokerStars Hand #254863957760: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 18:28:19 WET [2025/02/14 13:28:19 ET]
+Table '3858104876 37' 8-max Seat #2 is the button
+Seat 1: fissk867 (14224 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (5123 in chips, $3.75 bounty) 
+Seat 3: warel_bish (14459 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (7562 in chips, $3 bounty) 
+Seat 5: tolis elena (35346 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (6724 in chips, $1.50 bounty) 
+Seat 7: gota06 (5954 in chips, $2.15 bounty) is sitting out
+Seat 8: ManysiDeD357 (20891 in chips, $2.25 bounty) 
+fissk867: posts the ante 42
+Waltisrael: posts the ante 42
+warel_bish: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tolis elena: posts the ante 42
+Lemmysan: posts the ante 42
+gota06: posts the ante 42
+ManysiDeD357: posts the ante 42
+warel_bish: posts small blind 150
+Kevin12345Mc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 5h]
+tolis elena: folds 
+Lemmysan: folds 
+gota06: folds 
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: raises 360 to 660
+Kevin12345Mc: calls 360
+*** FLOP *** [As 8c 4h]
+warel_bish: bets 497
+Kevin12345Mc: folds 
+Uncalled bet (497) returned to warel_bish
+warel_bish collected 1656 from pot
+*** SUMMARY ***
+Total pot 1656 | Rake 0 
+Board [As 8c 4h]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael (button) folded before Flop (didn't bet)
+Seat 3: warel_bish (small blind) collected (1656)
+Seat 4: Kevin12345Mc (big blind) folded on the Flop
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: gota06 folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863966853: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 18:28:55 WET [2025/02/14 13:28:55 ET]
+Table '3858104876 37' 8-max Seat #3 is the button
+Seat 1: fissk867 (14182 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (5081 in chips, $3.75 bounty) 
+Seat 3: warel_bish (15413 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6860 in chips, $3 bounty) 
+Seat 5: tolis elena (35304 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (6682 in chips, $1.50 bounty) 
+Seat 7: gota06 (5912 in chips, $2.15 bounty) is sitting out
+Seat 8: ManysiDeD357 (20849 in chips, $2.25 bounty) 
+fissk867: posts the ante 42
+Waltisrael: posts the ante 42
+warel_bish: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tolis elena: posts the ante 42
+Lemmysan: posts the ante 42
+gota06: posts the ante 42
+ManysiDeD357: posts the ante 42
+Kevin12345Mc: posts small blind 150
+tolis elena: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 3h]
+Lemmysan: folds 
+gota06: folds 
+ManysiDeD357: folds 
+fissk867: raises 300 to 600
+Waltisrael: raises 4439 to 5039 and is all-in
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: folds 
+fissk867: folds 
+Uncalled bet (4439) returned to Waltisrael
+Waltisrael collected 1986 from pot
+Waltisrael: doesn't show hand 
+*** SUMMARY ***
+Total pot 1986 | Rake 0 
+Seat 1: fissk867 folded before Flop
+Seat 2: Waltisrael collected (1986)
+Seat 3: warel_bish (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: tolis elena (big blind) folded before Flop
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: gota06 folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863976676: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIV (175/350) - 2025/02/14 18:29:34 WET [2025/02/14 13:29:34 ET]
+Table '3858104876 37' 8-max Seat #4 is the button
+Seat 1: fissk867 (13540 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (6425 in chips, $3.75 bounty) 
+Seat 3: warel_bish (15371 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6668 in chips, $3 bounty) 
+Seat 5: tolis elena (34962 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (6640 in chips, $1.50 bounty) 
+Seat 7: gota06 (5870 in chips, $2.15 bounty) is sitting out
+Seat 8: ManysiDeD357 (20807 in chips, $2.25 bounty) 
+fissk867: posts the ante 50
+Waltisrael: posts the ante 50
+warel_bish: posts the ante 50
+Kevin12345Mc: posts the ante 50
+tolis elena: posts the ante 50
+Lemmysan: posts the ante 50
+gota06: posts the ante 50
+ManysiDeD357: posts the ante 50
+tolis elena: posts small blind 175
+Lemmysan: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 9s]
+gota06: folds 
+ManysiDeD357: raises 350 to 700
+fissk867: folds 
+Waltisrael: raises 5675 to 6375 and is all-in
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 6200
+Lemmysan: folds 
+ManysiDeD357: folds 
+*** FLOP *** [9d Kh 9h]
+*** TURN *** [9d Kh 9h] [4c]
+*** RIVER *** [9d Kh 9h 4c] [Ah]
+*** SHOW DOWN ***
+tolis elena: shows [Qd Qc] (two pair, Queens and Nines)
+Waltisrael: shows [Kc Ac] (two pair, Aces and Kings)
+Waltisrael collected 14200 from pot
+*** SUMMARY ***
+Total pot 14200 | Rake 0 
+Board [9d Kh 9h 4c Ah]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael showed [Kc Ac] and won (14200) with two pair, Aces and Kings
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: tolis elena (small blind) showed [Qd Qc] and lost with two pair, Queens and Nines
+Seat 6: Lemmysan (big blind) folded before Flop
+Seat 7: gota06 folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 folded before Flop
+
+
+
+PokerStars Hand #254863985194: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIV (175/350) - 2025/02/14 18:30:07 WET [2025/02/14 13:30:07 ET]
+Table '3858104876 37' 8-max Seat #5 is the button
+Seat 1: fissk867 (13490 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (14200 in chips, $3.75 bounty) 
+Seat 3: warel_bish (15321 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6618 in chips, $3 bounty) 
+Seat 5: tolis elena (28537 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (6240 in chips, $1.50 bounty) 
+Seat 7: gota06 (5820 in chips, $2.15 bounty) is sitting out
+Seat 8: ManysiDeD357 (20057 in chips, $2.25 bounty) 
+fissk867: posts the ante 50
+Waltisrael: posts the ante 50
+warel_bish: posts the ante 50
+Kevin12345Mc: posts the ante 50
+tolis elena: posts the ante 50
+Lemmysan: posts the ante 50
+gota06: posts the ante 50
+ManysiDeD357: posts the ante 50
+Lemmysan: posts small blind 175
+gota06: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 6s]
+gota06 has returned
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 350
+Lemmysan: folds 
+gota06: checks 
+*** FLOP *** [Qh 5c Ad]
+gota06: checks 
+tolis elena: bets 700
+gota06: calls 700
+*** TURN *** [Qh 5c Ad] [Kd]
+gota06: checks 
+tolis elena: checks 
+*** RIVER *** [Qh 5c Ad Kd] [6d]
+gota06: bets 4720 and is all-in
+tolis elena: folds 
+Uncalled bet (4720) returned to gota06
+gota06 collected 2675 from pot
+*** SUMMARY ***
+Total pot 2675 | Rake 0 
+Board [Qh 5c Ad Kd 6d]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena (button) folded on the River
+Seat 6: Lemmysan (small blind) folded before Flop
+Seat 7: gota06 (big blind) collected (2675)
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864001133: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIV (175/350) - 2025/02/14 18:31:09 WET [2025/02/14 13:31:09 ET]
+Table '3858104876 37' 8-max Seat #6 is the button
+Seat 1: fissk867 (13440 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (14150 in chips, $3.75 bounty) 
+Seat 3: warel_bish (15271 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6568 in chips, $3 bounty) 
+Seat 5: tolis elena (27437 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (6015 in chips, $1.50 bounty) 
+Seat 7: gota06 (7395 in chips, $2.15 bounty) 
+Seat 8: ManysiDeD357 (20007 in chips, $2.25 bounty) 
+fissk867: posts the ante 50
+Waltisrael: posts the ante 50
+warel_bish: posts the ante 50
+Kevin12345Mc: posts the ante 50
+tolis elena: posts the ante 50
+Lemmysan: posts the ante 50
+gota06: posts the ante 50
+ManysiDeD357: posts the ante 50
+gota06: posts small blind 175
+ManysiDeD357: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 2c]
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: folds 
+Kevin12345Mc: folds 
+tolis elena: calls 350
+Lemmysan: folds 
+gota06 has timed out
+gota06: folds 
+gota06 is sitting out
+ManysiDeD357: checks 
+*** FLOP *** [Tc Ks 4c]
+ManysiDeD357: checks 
+tolis elena: checks 
+*** TURN *** [Tc Ks 4c] [Kd]
+ManysiDeD357: checks 
+tolis elena: checks 
+*** RIVER *** [Tc Ks 4c Kd] [4h]
+ManysiDeD357: checks 
+tolis elena: bets 1275
+ManysiDeD357: folds 
+Uncalled bet (1275) returned to tolis elena
+tolis elena collected 1275 from pot
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Board [Tc Ks 4c Kd 4h]
+Seat 1: fissk867 folded before Flop (didn't bet)
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena collected (1275)
+Seat 6: Lemmysan (button) folded before Flop (didn't bet)
+Seat 7: gota06 (small blind) folded before Flop
+Seat 8: ManysiDeD357 (big blind) folded on the River
+
+
+
+PokerStars Hand #254864015330: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIV (175/350) - 2025/02/14 18:32:04 WET [2025/02/14 13:32:04 ET]
+Table '3858104876 37' 8-max Seat #7 is the button
+Seat 1: fissk867 (13390 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (14100 in chips, $3.75 bounty) 
+Seat 3: warel_bish (15221 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6518 in chips, $3 bounty) 
+Seat 5: tolis elena (28312 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (5965 in chips, $1.50 bounty) 
+Seat 7: gota06 (7170 in chips, $2.15 bounty) is sitting out
+Seat 8: ManysiDeD357 (19607 in chips, $2.25 bounty) 
+fissk867: posts the ante 50
+Waltisrael: posts the ante 50
+warel_bish: posts the ante 50
+Kevin12345Mc: posts the ante 50
+tolis elena: posts the ante 50
+Lemmysan: posts the ante 50
+gota06: posts the ante 50
+ManysiDeD357: posts the ante 50
+ManysiDeD357: posts small blind 175
+fissk867: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Qh]
+Waltisrael: folds 
+warel_bish: raises 420 to 770
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+gota06: folds 
+ManysiDeD357: calls 595
+fissk867: folds 
+*** FLOP *** [6s 8c Jd]
+ManysiDeD357: checks 
+warel_bish: bets 687
+ManysiDeD357: calls 687
+*** TURN *** [6s 8c Jd] [5s]
+ManysiDeD357: checks 
+gota06 has returned
+warel_bish: checks 
+*** RIVER *** [6s 8c Jd 5s] [2c]
+ManysiDeD357: checks 
+warel_bish: checks 
+*** SHOW DOWN ***
+ManysiDeD357: shows [4d 5c] (a pair of Fives)
+warel_bish: mucks hand 
+ManysiDeD357 collected 3664 from pot
+*** SUMMARY ***
+Total pot 3664 | Rake 0 
+Board [6s 8c Jd 5s 2c]
+Seat 1: fissk867 (big blind) folded before Flop
+Seat 2: Waltisrael folded before Flop (didn't bet)
+Seat 3: warel_bish mucked [Ah Qd]
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: gota06 (button) folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (small blind) showed [4d 5c] and won (3664) with a pair of Fives
+
+
+
+PokerStars Hand #254864031066: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIV (175/350) - 2025/02/14 18:33:05 WET [2025/02/14 13:33:05 ET]
+Table '3858104876 37' 8-max Seat #8 is the button
+Seat 1: fissk867 (12990 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (14050 in chips, $3.75 bounty) 
+Seat 3: warel_bish (13714 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6468 in chips, $3 bounty) 
+Seat 5: tolis elena (28262 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (5915 in chips, $1.50 bounty) 
+Seat 7: gota06 (7120 in chips, $2.15 bounty) 
+Seat 8: ManysiDeD357 (21764 in chips, $2.25 bounty) 
+fissk867: posts the ante 50
+Waltisrael: posts the ante 50
+warel_bish: posts the ante 50
+Kevin12345Mc: posts the ante 50
+tolis elena: posts the ante 50
+Lemmysan: posts the ante 50
+gota06: posts the ante 50
+ManysiDeD357: posts the ante 50
+fissk867: posts small blind 175
+Waltisrael: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 4d]
+warel_bish: raises 420 to 770
+Kevin12345Mc: folds 
+tolis elena: folds 
+Lemmysan: folds 
+gota06: folds 
+ManysiDeD357: raises 2030 to 2800
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: folds 
+Uncalled bet (2030) returned to ManysiDeD357
+ManysiDeD357 collected 2465 from pot
+ManysiDeD357: doesn't show hand 
+*** SUMMARY ***
+Total pot 2465 | Rake 0 
+Seat 1: fissk867 (small blind) folded before Flop
+Seat 2: Waltisrael (big blind) folded before Flop
+Seat 3: warel_bish folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: gota06 folded before Flop (didn't bet)
+Seat 8: ManysiDeD357 (button) collected (2465)
+
+
+
+PokerStars Hand #254864045881: Tournament #3858104876, $1.44+$1.50+$0.36 USD Hold'em No Limit - Level XIV (175/350) - 2025/02/14 18:34:02 WET [2025/02/14 13:34:02 ET]
+Table '3858104876 37' 8-max Seat #1 is the button
+Seat 1: fissk867 (12765 in chips, $2.25 bounty) 
+Seat 2: Waltisrael (13650 in chips, $3.75 bounty) 
+Seat 3: warel_bish (12894 in chips, $3 bounty) 
+Seat 4: Kevin12345Mc (6418 in chips, $3 bounty) 
+Seat 5: tolis elena (28212 in chips, $3.37 bounty) 
+Seat 6: Lemmysan (5865 in chips, $1.50 bounty) 
+Seat 7: gota06 (7070 in chips, $2.15 bounty) 
+Seat 8: ManysiDeD357 (23409 in chips, $2.25 bounty) 
+fissk867: posts the ante 50
+Waltisrael: posts the ante 50
+warel_bish: posts the ante 50
+Kevin12345Mc: posts the ante 50
+tolis elena: posts the ante 50
+Lemmysan: posts the ante 50
+gota06: posts the ante 50
+ManysiDeD357: posts the ante 50
+Waltisrael: posts small blind 175
+warel_bish: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts Td]
+Kevin12345Mc: raises 350 to 700
+tolis elena: folds 
+Lemmysan: folds 
+gota06: raises 6320 to 7020 and is all-in
+ManysiDeD357: folds 
+fissk867: folds 
+Waltisrael: folds 
+warel_bish: folds 
+Kevin12345Mc: calls 5668 and is all-in
+Uncalled bet (652) returned to gota06
+*** FLOP *** [8d 9d Jc]
+*** TURN *** [8d 9d Jc] [Th]
+*** RIVER *** [8d 9d Jc Th] [3h]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ts Td] (three of a kind, Tens)
+gota06: shows [7s 7c] (a straight, Seven to Jack)
+gota06 collected 13661 from pot
+gota06 wins $1.50 for eliminating Kevin12345Mc and their own bounty increases by $1.50 to $3.65
+Kevin12345Mc finished the tournament in 527th place
+*** SUMMARY ***
+Total pot 13661 | Rake 0 
+Board [8d 9d Jc Th 3h]
+Seat 1: fissk867 (button) folded before Flop (didn't bet)
+Seat 2: Waltisrael (small blind) folded before Flop
+Seat 3: warel_bish (big blind) folded before Flop
+Seat 4: Kevin12345Mc showed [Ts Td] and lost with three of a kind, Tens
+Seat 5: tolis elena folded before Flop (didn't bet)
+Seat 6: Lemmysan folded before Flop (didn't bet)
+Seat 7: gota06 showed [7s 7c] and won (13661) with a straight, Seven to Jack
+Seat 8: ManysiDeD357 folded before Flop (didn't bet)
+
+
+

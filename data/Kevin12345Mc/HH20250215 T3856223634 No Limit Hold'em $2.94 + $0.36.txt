@@ -1,0 +1,3018 @@
+﻿PokerStars Hand #254876804895: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VII (100/200) - 2025/02/15 14:12:37 WET [2025/02/15 9:12:37 ET]
+Table '3856223634 59' 8-max Seat #2 is the button
+Seat 1: kkOliveira29 (10129 in chips) 
+Seat 2: huk6666 (12807 in chips) 
+Seat 3: lExample (10365 in chips) 
+Seat 4: Kevin12345Mc (10000 in chips) 
+Seat 5: mths costa (16951 in chips) 
+Seat 7: Bincenzako (9975 in chips) 
+Seat 8: HousZee (9975 in chips) 
+kkOliveira29: posts the ante 25
+huk6666: posts the ante 25
+lExample: posts the ante 25
+Kevin12345Mc: posts the ante 25
+mths costa: posts the ante 25
+Bincenzako: posts the ante 25
+HousZee: posts the ante 25
+lExample: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h Tc]
+mths costa: folds 
+Bincenzako: raises 260 to 460
+HousZee: folds 
+kkOliveira29: calls 460
+huk6666: folds 
+lExample: calls 360
+Kevin12345Mc: folds 
+*** FLOP *** [Kh 3d Th]
+lExample: checks 
+Bincenzako: checks 
+kkOliveira29: checks 
+*** TURN *** [Kh 3d Th] [8c]
+maxtag10 is disconnected 
+lExample: bets 500
+Bincenzako: folds 
+kkOliveira29: calls 500
+*** RIVER *** [Kh 3d Th 8c] [Jd]
+lExample: bets 909
+kkOliveira29: folds 
+Uncalled bet (909) returned to lExample
+lExample collected 2755 from pot
+lExample: doesn't show hand 
+*** SUMMARY ***
+Total pot 2755 | Rake 0 
+Board [Kh 3d Th 8c Jd]
+Seat 1: kkOliveira29 folded on the River
+Seat 2: huk6666 (button) folded before Flop (didn't bet)
+Seat 3: lExample (small blind) collected (2755)
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: mths costa folded before Flop (didn't bet)
+Seat 7: Bincenzako folded on the Turn
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876817336: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VII (100/200) - 2025/02/15 14:13:43 WET [2025/02/15 9:13:43 ET]
+Table '3856223634 59' 8-max Seat #3 is the button
+Seat 1: kkOliveira29 (9144 in chips) 
+Seat 2: huk6666 (12782 in chips) 
+Seat 3: lExample (12135 in chips) 
+Seat 4: Kevin12345Mc (9775 in chips) 
+Seat 5: mths costa (16926 in chips) 
+Seat 6: maxtag10 (10000 in chips) 
+Seat 7: Bincenzako (9490 in chips) 
+Seat 8: HousZee (9950 in chips) 
+kkOliveira29: posts the ante 25
+huk6666: posts the ante 25
+lExample: posts the ante 25
+Kevin12345Mc: posts the ante 25
+mths costa: posts the ante 25
+maxtag10: posts the ante 25
+Bincenzako: posts the ante 25
+HousZee: posts the ante 25
+Kevin12345Mc: posts small blind 100
+mths costa: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 6s]
+maxtag10: folds 
+Bincenzako: raises 200 to 400
+HousZee: folds 
+kkOliveira29: calls 400
+huk6666: folds 
+lExample: raises 1500 to 1900
+Kevin12345Mc: folds 
+mths costa: folds 
+Bincenzako: raises 7565 to 9465 and is all-in
+kkOliveira29: folds 
+lExample: calls 7565
+*** FLOP *** [Qs Js 4s]
+*** TURN *** [Qs Js 4s] [4c]
+*** RIVER *** [Qs Js 4s 4c] [7s]
+*** SHOW DOWN ***
+Bincenzako: shows [Ks Kd] (a flush, King high)
+lExample: shows [As Qc] (a flush, Ace high)
+lExample collected 19830 from pot
+Bincenzako finished the tournament
+*** SUMMARY ***
+Total pot 19830 | Rake 0 
+Board [Qs Js 4s 4c 7s]
+Seat 1: kkOliveira29 folded before Flop
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample (button) showed [As Qc] and won (19830) with a flush, Ace high
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: mths costa (big blind) folded before Flop
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Bincenzako showed [Ks Kd] and lost with a flush, King high
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876836426: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VII (100/200) - 2025/02/15 14:15:24 WET [2025/02/15 9:15:24 ET]
+Table '3856223634 59' 8-max Seat #4 is the button
+Seat 1: kkOliveira29 (8719 in chips) 
+Seat 2: huk6666 (12757 in chips) 
+Seat 3: lExample (22475 in chips) 
+Seat 4: Kevin12345Mc (9650 in chips) 
+Seat 5: mths costa (16701 in chips) 
+Seat 6: maxtag10 (9975 in chips) 
+Seat 8: HousZee (9925 in chips) 
+kkOliveira29: posts the ante 25
+huk6666: posts the ante 25
+lExample: posts the ante 25
+Kevin12345Mc: posts the ante 25
+mths costa: posts the ante 25
+maxtag10: posts the ante 25
+HousZee: posts the ante 25
+mths costa: posts small blind 100
+maxtag10: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 9d]
+HousZee: folds 
+kkOliveira29: raises 200 to 400
+huk6666: raises 800 to 1200
+lExample: folds 
+Kevin12345Mc: folds 
+mths costa: folds 
+maxtag10: folds 
+kkOliveira29: calls 800
+*** FLOP *** [4h 7h Jh]
+Diekers is disconnected 
+kkOliveira29: checks 
+huk6666: bets 949
+kkOliveira29: folds 
+Uncalled bet (949) returned to huk6666
+huk6666 collected 2875 from pot
+*** SUMMARY ***
+Total pot 2875 | Rake 0 
+Board [4h 7h Jh]
+Seat 1: kkOliveira29 folded on the Flop
+Seat 2: huk6666 collected (2875)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: mths costa (small blind) folded before Flop
+Seat 6: maxtag10 (big blind) folded before Flop
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876847336: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VII (100/200) - 2025/02/15 14:16:21 WET [2025/02/15 9:16:21 ET]
+Table '3856223634 59' 8-max Seat #5 is the button
+Seat 1: kkOliveira29 (7494 in chips) 
+Seat 2: huk6666 (14407 in chips) 
+Seat 3: lExample (22450 in chips) 
+Seat 4: Kevin12345Mc (9625 in chips) 
+Seat 5: mths costa (16576 in chips) 
+Seat 6: maxtag10 (9750 in chips) 
+Seat 7: Diekers (10000 in chips) 
+Seat 8: HousZee (9900 in chips) 
+kkOliveira29: posts the ante 25
+huk6666: posts the ante 25
+lExample: posts the ante 25
+Kevin12345Mc: posts the ante 25
+mths costa: posts the ante 25
+maxtag10: posts the ante 25
+Diekers: posts the ante 25
+HousZee: posts the ante 25
+maxtag10: posts small blind 100
+Diekers: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 9s]
+HousZee: folds 
+kkOliveira29: raises 200 to 400
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: calls 400
+mths costa: folds 
+maxtag10: folds 
+Diekers: raises 1000 to 1400
+kkOliveira29: calls 1000
+Kevin12345Mc: calls 1000
+*** FLOP *** [4d 8c Ks]
+Diekers: checks 
+kkOliveira29: checks 
+Kevin12345Mc: checks 
+*** TURN *** [4d 8c Ks] [Jc]
+Diekers: bets 3400
+kkOliveira29: raises 2669 to 6069 and is all-in
+Kevin12345Mc: folds 
+Diekers: calls 2669
+*** RIVER *** [4d 8c Ks Jc] [8h]
+*** SHOW DOWN ***
+Diekers: shows [Kh Kd] (a full house, Kings full of Eights)
+kkOliveira29: shows [Kc Js] (two pair, Kings and Jacks)
+Diekers collected 16638 from pot
+kkOliveira29 finished the tournament
+*** SUMMARY ***
+Total pot 16638 | Rake 0 
+Board [4d 8c Ks Jc 8h]
+Seat 1: kkOliveira29 showed [Kc Js] and lost with two pair, Kings and Jacks
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded on the Turn
+Seat 5: mths costa (button) folded before Flop (didn't bet)
+Seat 6: maxtag10 (small blind) folded before Flop
+Seat 7: Diekers (big blind) showed [Kh Kd] and won (16638) with a full house, Kings full of Eights
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876864029: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VII (100/200) - 2025/02/15 14:17:48 WET [2025/02/15 9:17:48 ET]
+Table '3856223634 59' 8-max Seat #6 is the button
+Seat 2: huk6666 (14382 in chips) 
+Seat 3: lExample (22425 in chips) 
+Seat 4: Kevin12345Mc (8200 in chips) 
+Seat 5: mths costa (16551 in chips) 
+Seat 6: maxtag10 (9625 in chips) 
+Seat 7: Diekers (19144 in chips) 
+Seat 8: HousZee (9875 in chips) 
+huk6666: posts the ante 25
+lExample: posts the ante 25
+Kevin12345Mc: posts the ante 25
+mths costa: posts the ante 25
+maxtag10: posts the ante 25
+Diekers: posts the ante 25
+HousZee: posts the ante 25
+Diekers: posts small blind 100
+HousZee: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 2h]
+huk6666: folds 
+lExample: raises 200 to 400
+Kevin12345Mc: folds 
+mths costa: folds 
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Uncalled bet (200) returned to lExample
+lExample collected 675 from pot
+lExample: doesn't show hand 
+*** SUMMARY ***
+Total pot 675 | Rake 0 
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample collected (675)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: mths costa folded before Flop (didn't bet)
+Seat 6: maxtag10 (button) folded before Flop (didn't bet)
+Seat 7: Diekers (small blind) folded before Flop
+Seat 8: HousZee (big blind) folded before Flop
+
+
+
+PokerStars Hand #254876869469: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VII (100/200) - 2025/02/15 14:18:17 WET [2025/02/15 9:18:17 ET]
+Table '3856223634 59' 8-max Seat #7 is the button
+Seat 1: Heikogen (10000 in chips) 
+Seat 2: huk6666 (14357 in chips) 
+Seat 3: lExample (22875 in chips) 
+Seat 4: Kevin12345Mc (8175 in chips) 
+Seat 5: mths costa (16526 in chips) 
+Seat 6: maxtag10 (9600 in chips) 
+Seat 7: Diekers (19019 in chips) 
+Seat 8: HousZee (9650 in chips) 
+Heikogen: posts the ante 25
+huk6666: posts the ante 25
+lExample: posts the ante 25
+Kevin12345Mc: posts the ante 25
+mths costa: posts the ante 25
+maxtag10: posts the ante 25
+Diekers: posts the ante 25
+HousZee: posts the ante 25
+HousZee: posts small blind 100
+Heikogen: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 5h]
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+mths costa: raises 200 to 400
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: calls 200
+*** FLOP *** [8d Td 4h]
+Heikogen: checks 
+mths costa: bets 400
+Heikogen: folds 
+Uncalled bet (400) returned to mths costa
+mths costa collected 1100 from pot
+mths costa: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [8d Td 4h]
+Seat 1: Heikogen (big blind) folded on the Flop
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: mths costa collected (1100)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers (button) folded before Flop (didn't bet)
+Seat 8: HousZee (small blind) folded before Flop
+
+
+
+PokerStars Hand #254876877121: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VIII (125/250) - 2025/02/15 14:18:57 WET [2025/02/15 9:18:57 ET]
+Table '3856223634 59' 8-max Seat #8 is the button
+Seat 1: Heikogen (9575 in chips) 
+Seat 2: huk6666 (14332 in chips) 
+Seat 3: lExample (22850 in chips) 
+Seat 4: Kevin12345Mc (8150 in chips) 
+Seat 5: mths costa (17201 in chips) 
+Seat 6: maxtag10 (9575 in chips) 
+Seat 7: Diekers (18994 in chips) 
+Seat 8: HousZee (9525 in chips) 
+Heikogen: posts the ante 30
+huk6666: posts the ante 30
+lExample: posts the ante 30
+Kevin12345Mc: posts the ante 30
+mths costa: posts the ante 30
+maxtag10: posts the ante 30
+Diekers: posts the ante 30
+HousZee: posts the ante 30
+Heikogen: posts small blind 125
+huk6666: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 3c]
+lExample: raises 250 to 500
+Kevin12345Mc: folds 
+mths costa: folds 
+maxtag10: raises 1250 to 1750
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+lExample: folds 
+Uncalled bet (1250) returned to maxtag10
+maxtag10 collected 1615 from pot
+*** SUMMARY ***
+Total pot 1615 | Rake 0 
+Seat 1: Heikogen (small blind) folded before Flop
+Seat 2: huk6666 (big blind) folded before Flop
+Seat 3: lExample folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: mths costa folded before Flop (didn't bet)
+Seat 6: maxtag10 collected (1615)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876882857: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VIII (125/250) - 2025/02/15 14:19:27 WET [2025/02/15 9:19:27 ET]
+Table '3856223634 59' 8-max Seat #1 is the button
+Seat 1: Heikogen (9420 in chips) 
+Seat 2: huk6666 (14052 in chips) 
+Seat 3: lExample (22320 in chips) 
+Seat 4: Kevin12345Mc (8120 in chips) 
+Seat 5: mths costa (17171 in chips) 
+Seat 6: maxtag10 (10660 in chips) 
+Seat 7: Diekers (18964 in chips) 
+Seat 8: HousZee (9495 in chips) 
+Heikogen: posts the ante 30
+huk6666: posts the ante 30
+lExample: posts the ante 30
+Kevin12345Mc: posts the ante 30
+mths costa: posts the ante 30
+maxtag10: posts the ante 30
+Diekers: posts the ante 30
+HousZee: posts the ante 30
+huk6666: posts small blind 125
+lExample: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Qh]
+Kevin12345Mc: raises 300 to 550
+mths costa: folds 
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+lExample: folds 
+Uncalled bet (300) returned to Kevin12345Mc
+Kevin12345Mc collected 865 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Seat 1: Heikogen (button) folded before Flop (didn't bet)
+Seat 2: huk6666 (small blind) folded before Flop
+Seat 3: lExample (big blind) folded before Flop
+Seat 4: Kevin12345Mc collected (865)
+Seat 5: mths costa folded before Flop (didn't bet)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876887769: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VIII (125/250) - 2025/02/15 14:19:53 WET [2025/02/15 9:19:53 ET]
+Table '3856223634 59' 8-max Seat #2 is the button
+Seat 1: Heikogen (9390 in chips) 
+Seat 2: huk6666 (13897 in chips) 
+Seat 3: lExample (22040 in chips) 
+Seat 4: Kevin12345Mc (8705 in chips) 
+Seat 5: mths costa (17141 in chips) 
+Seat 6: maxtag10 (10630 in chips) 
+Seat 7: Diekers (18934 in chips) 
+Seat 8: HousZee (9465 in chips) 
+Heikogen: posts the ante 30
+huk6666: posts the ante 30
+lExample: posts the ante 30
+Kevin12345Mc: posts the ante 30
+mths costa: posts the ante 30
+maxtag10: posts the ante 30
+Diekers: posts the ante 30
+HousZee: posts the ante 30
+lExample: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Kh]
+mths costa: folds 
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: raises 250 to 500
+lExample: folds 
+Kevin12345Mc: calls 250
+*** FLOP *** [4s Ts 5s]
+Kevin12345Mc: checks 
+huk6666: checks 
+*** TURN *** [4s Ts 5s] [5c]
+Kevin12345Mc: checks 
+huk6666: bets 450
+Kevin12345Mc: calls 450
+*** RIVER *** [4s Ts 5s 5c] [3h]
+Kevin12345Mc: checks 
+huk6666: bets 750
+Kevin12345Mc: calls 750
+*** SHOW DOWN ***
+huk6666: shows [3d Qd] (two pair, Fives and Threes)
+Kevin12345Mc: shows [4c Kh] (two pair, Fives and Fours)
+Kevin12345Mc collected 3765 from pot
+*** SUMMARY ***
+Total pot 3765 | Rake 0 
+Board [4s Ts 5s 5c 3h]
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 (button) showed [3d Qd] and lost with two pair, Fives and Threes
+Seat 3: lExample (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) showed [4c Kh] and won (3765) with two pair, Fives and Fours
+Seat 5: mths costa folded before Flop (didn't bet)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876902460: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VIII (125/250) - 2025/02/15 14:21:09 WET [2025/02/15 9:21:09 ET]
+Table '3856223634 59' 8-max Seat #3 is the button
+Seat 1: Heikogen (9360 in chips) 
+Seat 2: huk6666 (12167 in chips) 
+Seat 3: lExample (21885 in chips) 
+Seat 4: Kevin12345Mc (10740 in chips) 
+Seat 5: mths costa (17111 in chips) 
+Seat 6: maxtag10 (10600 in chips) 
+Seat 7: Diekers (18904 in chips) 
+Seat 8: HousZee (9435 in chips) 
+Heikogen: posts the ante 30
+huk6666: posts the ante 30
+lExample: posts the ante 30
+Kevin12345Mc: posts the ante 30
+mths costa: posts the ante 30
+maxtag10: posts the ante 30
+Diekers: posts the ante 30
+HousZee: posts the ante 30
+Kevin12345Mc: posts small blind 125
+mths costa: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 6s]
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+Uncalled bet (125) returned to mths costa
+mths costa collected 490 from pot
+mths costa: doesn't show hand 
+*** SUMMARY ***
+Total pot 490 | Rake 0 
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: mths costa (big blind) collected (490)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876907796: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VIII (125/250) - 2025/02/15 14:21:36 WET [2025/02/15 9:21:36 ET]
+Table '3856223634 59' 8-max Seat #4 is the button
+Seat 1: Heikogen (9330 in chips) 
+Seat 2: huk6666 (12137 in chips) 
+Seat 3: lExample (21855 in chips) 
+Seat 4: Kevin12345Mc (10585 in chips) 
+Seat 5: mths costa (17446 in chips) 
+Seat 6: maxtag10 (10570 in chips) 
+Seat 7: Diekers (18874 in chips) 
+Seat 8: HousZee (9405 in chips) 
+Heikogen: posts the ante 30
+huk6666: posts the ante 30
+lExample: posts the ante 30
+Kevin12345Mc: posts the ante 30
+mths costa: posts the ante 30
+maxtag10: posts the ante 30
+Diekers: posts the ante 30
+HousZee: posts the ante 30
+mths costa: posts small blind 125
+maxtag10: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh Qs]
+Diekers: calls 250
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+mths costa: folds 
+maxtag10: checks 
+*** FLOP *** [6d 5s 9c]
+maxtag10: checks 
+Diekers: bets 500
+maxtag10: folds 
+Uncalled bet (500) returned to Diekers
+Diekers collected 865 from pot
+Diekers: doesn't show hand 
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Board [6d 5s 9c]
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: mths costa (small blind) folded before Flop
+Seat 6: maxtag10 (big blind) folded on the Flop
+Seat 7: Diekers collected (865)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876914209: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VIII (125/250) - 2025/02/15 14:22:09 WET [2025/02/15 9:22:09 ET]
+Table '3856223634 59' 8-max Seat #5 is the button
+Seat 1: Heikogen (9300 in chips) 
+Seat 2: huk6666 (12107 in chips) 
+Seat 3: lExample (21825 in chips) 
+Seat 4: Kevin12345Mc (10555 in chips) 
+Seat 5: mths costa (17291 in chips) 
+Seat 6: maxtag10 (10290 in chips) 
+Seat 7: Diekers (19459 in chips) 
+Seat 8: HousZee (9375 in chips) 
+Heikogen: posts the ante 30
+huk6666: posts the ante 30
+lExample: posts the ante 30
+Kevin12345Mc: posts the ante 30
+mths costa: posts the ante 30
+maxtag10: posts the ante 30
+Diekers: posts the ante 30
+HousZee: posts the ante 30
+maxtag10: posts small blind 125
+Diekers: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h As]
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+lExample: raises 250 to 500
+Kevin12345Mc: folds 
+mths costa: folds 
+maxtag10: folds 
+Diekers: calls 250
+*** FLOP *** [7d 3s Js]
+Diekers: checks 
+lExample: bets 450
+Diekers: calls 450
+*** TURN *** [7d 3s Js] [6c]
+Diekers: checks 
+lExample: checks 
+*** RIVER *** [7d 3s Js 6c] [5h]
+Diekers: checks 
+lExample: checks 
+*** SHOW DOWN ***
+Diekers: shows [7h 2s] (a pair of Sevens)
+lExample: mucks hand 
+Diekers collected 2265 from pot
+*** SUMMARY ***
+Total pot 2265 | Rake 0 
+Board [7d 3s Js 6c 5h]
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample mucked [9c Ah]
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: mths costa (button) folded before Flop (didn't bet)
+Seat 6: maxtag10 (small blind) folded before Flop
+Seat 7: Diekers (big blind) showed [7h 2s] and won (2265) with a pair of Sevens
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876924234: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VIII (125/250) - 2025/02/15 14:23:01 WET [2025/02/15 9:23:01 ET]
+Table '3856223634 59' 8-max Seat #6 is the button
+Seat 1: Heikogen (9270 in chips) 
+Seat 2: huk6666 (12077 in chips) 
+Seat 3: lExample (20845 in chips) 
+Seat 4: Kevin12345Mc (10525 in chips) 
+Seat 5: mths costa (17261 in chips) 
+Seat 6: maxtag10 (10135 in chips) 
+Seat 7: Diekers (20744 in chips) 
+Seat 8: HousZee (9345 in chips) 
+Heikogen: posts the ante 30
+huk6666: posts the ante 30
+lExample: posts the ante 30
+Kevin12345Mc: posts the ante 30
+mths costa: posts the ante 30
+maxtag10: posts the ante 30
+Diekers: posts the ante 30
+HousZee: posts the ante 30
+Diekers: posts small blind 125
+HousZee: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Kd]
+Heikogen: folds 
+huk6666: raises 250 to 500
+lExample: raises 1000 to 1500
+Kevin12345Mc: folds 
+mths costa: calls 1500
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+huk6666: folds 
+*** FLOP *** [8d 2s As]
+lExample: bets 1358
+mths costa: calls 1358
+*** TURN *** [8d 2s As] [9h]
+lExample: checks 
+mths costa: bets 4000
+lExample: calls 4000
+*** RIVER *** [8d 2s As 9h] [6h]
+lExample: checks 
+mths costa: bets 10373 and is all-in
+lExample: calls 10373
+*** SHOW DOWN ***
+mths costa: shows [Qd Qh] (a pair of Queens)
+lExample: shows [Ah Jd] (a pair of Aces)
+lExample collected 35577 from pot
+mths costa finished the tournament
+*** SUMMARY ***
+Total pot 35577 | Rake 0 
+Board [8d 2s As 9h 6h]
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 folded before Flop
+Seat 3: lExample showed [Ah Jd] and won (35577) with a pair of Aces
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: mths costa showed [Qd Qh] and lost with a pair of Queens
+Seat 6: maxtag10 (button) folded before Flop (didn't bet)
+Seat 7: Diekers (small blind) folded before Flop
+Seat 8: HousZee (big blind) folded before Flop
+
+
+
+PokerStars Hand #254876948446: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VIII (125/250) - 2025/02/15 14:25:06 WET [2025/02/15 9:25:06 ET]
+Table '3856223634 59' 8-max Seat #7 is the button
+Seat 1: Heikogen (9240 in chips) 
+Seat 2: huk6666 (11547 in chips) 
+Seat 3: lExample (39161 in chips) 
+Seat 4: Kevin12345Mc (10495 in chips) 
+Seat 6: maxtag10 (10105 in chips) 
+Seat 7: Diekers (20589 in chips) 
+Seat 8: HousZee (9065 in chips) 
+Heikogen: posts the ante 30
+huk6666: posts the ante 30
+lExample: posts the ante 30
+Kevin12345Mc: posts the ante 30
+maxtag10: posts the ante 30
+Diekers: posts the ante 30
+HousZee: posts the ante 30
+HousZee: posts small blind 125
+Heikogen: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 4s]
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+maxtag10: folds 
+Diekers: raises 500 to 750
+BOSTON.IF20/1 is disconnected 
+HousZee: folds 
+Heikogen: calls 500
+*** FLOP *** [Ks 8s Qc]
+Heikogen: checks 
+Diekers: bets 1250
+Heikogen: folds 
+Uncalled bet (1250) returned to Diekers
+Diekers collected 1835 from pot
+Diekers: doesn't show hand 
+*** SUMMARY ***
+Total pot 1835 | Rake 0 
+Board [Ks 8s Qc]
+Seat 1: Heikogen (big blind) folded on the Flop
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers (button) collected (1835)
+Seat 8: HousZee (small blind) folded before Flop
+
+
+
+PokerStars Hand #254876957997: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VIII (125/250) - 2025/02/15 14:25:56 WET [2025/02/15 9:25:56 ET]
+Table '3856223634 59' 8-max Seat #8 is the button
+Seat 1: Heikogen (8460 in chips) 
+Seat 2: huk6666 (11517 in chips) 
+Seat 3: lExample (39131 in chips) 
+Seat 4: Kevin12345Mc (10465 in chips) 
+Seat 5: BOSTON.IF20/1 (10000 in chips) 
+Seat 6: maxtag10 (10075 in chips) 
+Seat 7: Diekers (21644 in chips) 
+Seat 8: HousZee (8910 in chips) 
+Heikogen: posts the ante 30
+huk6666: posts the ante 30
+lExample: posts the ante 30
+Kevin12345Mc: posts the ante 30
+BOSTON.IF20/1: posts the ante 30
+maxtag10: posts the ante 30
+Diekers: posts the ante 30
+HousZee: posts the ante 30
+Heikogen: posts small blind 125
+huk6666: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 6h]
+lExample: folds 
+Kevin12345Mc: folds 
+BOSTON.IF20/1: raises 250 to 500
+maxtag10: folds 
+Diekers: folds 
+HousZee: calls 500
+Heikogen: folds 
+huk6666: calls 250
+*** FLOP *** [5h Ah Kd]
+huk6666: checks 
+BOSTON.IF20/1: bets 720
+HousZee: calls 720
+huk6666: folds 
+*** TURN *** [5h Ah Kd] [9c]
+BOSTON.IF20/1: checks 
+HousZee: bets 1000
+BOSTON.IF20/1: calls 1000
+*** RIVER *** [5h Ah Kd 9c] [Qc]
+BOSTON.IF20/1: checks 
+HousZee: checks 
+*** SHOW DOWN ***
+BOSTON.IF20/1: shows [Ac Ts] (a pair of Aces)
+HousZee: shows [Js As] (a pair of Aces - King+Queen+Jack kicker)
+HousZee collected 5305 from pot
+*** SUMMARY ***
+Total pot 5305 | Rake 0 
+Board [5h Ah Kd 9c Qc]
+Seat 1: Heikogen (small blind) folded before Flop
+Seat 2: huk6666 (big blind) folded on the Flop
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: BOSTON.IF20/1 showed [Ac Ts] and lost with a pair of Aces
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee (button) showed [Js As] and won (5305) with a pair of Aces
+
+
+
+PokerStars Hand #254876971737: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VIII (125/250) - 2025/02/15 14:27:07 WET [2025/02/15 9:27:07 ET]
+Table '3856223634 59' 8-max Seat #1 is the button
+Seat 1: Heikogen (8305 in chips) 
+Seat 2: huk6666 (10987 in chips) 
+Seat 3: lExample (39101 in chips) 
+Seat 4: Kevin12345Mc (10435 in chips) 
+Seat 5: BOSTON.IF20/1 (7750 in chips) 
+Seat 6: maxtag10 (10045 in chips) 
+Seat 7: Diekers (21614 in chips) 
+Seat 8: HousZee (11965 in chips) 
+Heikogen: posts the ante 30
+huk6666: posts the ante 30
+lExample: posts the ante 30
+Kevin12345Mc: posts the ante 30
+BOSTON.IF20/1: posts the ante 30
+maxtag10: posts the ante 30
+Diekers: posts the ante 30
+HousZee: posts the ante 30
+huk6666: posts small blind 125
+lExample: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 9h]
+Kevin12345Mc: folds 
+BOSTON.IF20/1: raises 250 to 500
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: calls 375
+lExample: folds 
+*** FLOP *** [5s 3h 9c]
+huk6666: checks 
+BOSTON.IF20/1: bets 492
+huk6666: calls 492
+*** TURN *** [5s 3h 9c] [Ks]
+huk6666: checks 
+BOSTON.IF20/1: bets 1625
+huk6666: calls 1625
+*** RIVER *** [5s 3h 9c Ks] [7d]
+huk6666: checks 
+BOSTON.IF20/1: bets 5103 and is all-in
+huk6666: folds 
+Uncalled bet (5103) returned to BOSTON.IF20/1
+BOSTON.IF20/1 collected 5724 from pot
+BOSTON.IF20/1: doesn't show hand 
+*** SUMMARY ***
+Total pot 5724 | Rake 0 
+Board [5s 3h 9c Ks 7d]
+Seat 1: Heikogen (button) folded before Flop (didn't bet)
+Seat 2: huk6666 (small blind) folded on the River
+Seat 3: lExample (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: BOSTON.IF20/1 collected (5724)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876986319: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level VIII (125/250) - 2025/02/15 14:28:23 WET [2025/02/15 9:28:23 ET]
+Table '3856223634 59' 8-max Seat #2 is the button
+Seat 1: Heikogen (8275 in chips) 
+Seat 2: huk6666 (8340 in chips) 
+Seat 3: lExample (38821 in chips) 
+Seat 4: Kevin12345Mc (10405 in chips) 
+Seat 5: BOSTON.IF20/1 (10827 in chips) 
+Seat 6: maxtag10 (10015 in chips) 
+Seat 7: Diekers (21584 in chips) 
+Seat 8: HousZee (11935 in chips) 
+Heikogen: posts the ante 30
+huk6666: posts the ante 30
+lExample: posts the ante 30
+Kevin12345Mc: posts the ante 30
+BOSTON.IF20/1: posts the ante 30
+maxtag10: posts the ante 30
+Diekers: posts the ante 30
+HousZee: posts the ante 30
+lExample: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s Js]
+BOSTON.IF20/1: folds 
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: raises 250 to 500
+lExample: folds 
+Kevin12345Mc: calls 250
+*** FLOP *** [8s 9c Kc]
+Kevin12345Mc: checks 
+huk6666: bets 642
+Kevin12345Mc: folds 
+Uncalled bet (642) returned to huk6666
+huk6666 collected 1365 from pot
+*** SUMMARY ***
+Total pot 1365 | Rake 0 
+Board [8s 9c Kc]
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 (button) collected (1365)
+Seat 3: lExample (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded on the Flop
+Seat 5: BOSTON.IF20/1 folded before Flop (didn't bet)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254876992244: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level IX (150/300) - 2025/02/15 14:28:53 WET [2025/02/15 9:28:53 ET]
+Table '3856223634 59' 8-max Seat #3 is the button
+Seat 1: Heikogen (8245 in chips) 
+Seat 2: huk6666 (9175 in chips) 
+Seat 3: lExample (38666 in chips) 
+Seat 4: Kevin12345Mc (9875 in chips) 
+Seat 5: BOSTON.IF20/1 (10797 in chips) 
+Seat 6: maxtag10 (9985 in chips) 
+Seat 7: Diekers (21554 in chips) 
+Seat 8: HousZee (11905 in chips) 
+Heikogen: posts the ante 40
+huk6666: posts the ante 40
+lExample: posts the ante 40
+Kevin12345Mc: posts the ante 40
+BOSTON.IF20/1: posts the ante 40
+maxtag10: posts the ante 40
+Diekers: posts the ante 40
+HousZee: posts the ante 40
+Kevin12345Mc: posts small blind 150
+BOSTON.IF20/1: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 3h]
+maxtag10: raises 450 to 750
+Diekers: folds 
+HousZee: calls 750
+Heikogen: folds 
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+BOSTON.IF20/1: calls 450
+*** FLOP *** [7d Jh Td]
+BOSTON.IF20/1: checks 
+maxtag10: bets 1550
+HousZee: folds 
+BOSTON.IF20/1: calls 1550
+*** TURN *** [7d Jh Td] [4s]
+BOSTON.IF20/1: checks 
+maxtag10: bets 7645 and is all-in
+BOSTON.IF20/1: calls 7645
+*** RIVER *** [7d Jh Td 4s] [2c]
+*** SHOW DOWN ***
+BOSTON.IF20/1: shows [Jc Qh] (a pair of Jacks)
+maxtag10: shows [Ac As] (a pair of Aces)
+maxtag10 collected 21110 from pot
+*** SUMMARY ***
+Total pot 21110 | Rake 0 
+Board [7d Jh Td 4s 2c]
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: BOSTON.IF20/1 (big blind) showed [Jc Qh] and lost with a pair of Jacks
+Seat 6: maxtag10 showed [Ac As] and won (21110) with a pair of Aces
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded on the Flop
+
+
+
+PokerStars Hand #254877002741: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level IX (150/300) - 2025/02/15 14:29:49 WET [2025/02/15 9:29:49 ET]
+Table '3856223634 59' 8-max Seat #4 is the button
+Seat 1: Heikogen (8205 in chips) 
+Seat 2: huk6666 (9135 in chips) 
+Seat 3: lExample (38626 in chips) 
+Seat 4: Kevin12345Mc (9685 in chips) 
+Seat 5: BOSTON.IF20/1 (812 in chips) 
+Seat 6: maxtag10 (21110 in chips) 
+Seat 7: Diekers (21514 in chips) 
+Seat 8: HousZee (11115 in chips) 
+Heikogen: posts the ante 40
+huk6666: posts the ante 40
+lExample: posts the ante 40
+Kevin12345Mc: posts the ante 40
+BOSTON.IF20/1: posts the ante 40
+maxtag10: posts the ante 40
+Diekers: posts the ante 40
+HousZee: posts the ante 40
+BOSTON.IF20/1: posts small blind 150
+maxtag10: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Tc]
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: raises 300 to 600
+lExample: raises 1200 to 1800
+Kevin12345Mc: folds 
+BOSTON.IF20/1: calls 622 and is all-in
+maxtag10: calls 1500
+huk6666: folds 
+*** FLOP *** [Jh Qh Ks]
+maxtag10: checks 
+lExample: checks 
+*** TURN *** [Jh Qh Ks] [5d]
+maxtag10: bets 3016
+lExample: calls 3016
+*** RIVER *** [Jh Qh Ks 5d] [4s]
+maxtag10: bets 6455
+lExample: folds 
+Uncalled bet (6455) returned to maxtag10
+*** SHOW DOWN ***
+maxtag10: shows [Kd Qd] (two pair, Kings and Queens)
+maxtag10 collected 8088 from side pot
+BOSTON.IF20/1: shows [9h Ah] (high card Ace)
+maxtag10 collected 3236 from main pot
+BOSTON.IF20/1 finished the tournament
+*** SUMMARY ***
+Total pot 11324 Main pot 3236. Side pot 8088. | Rake 0 
+Board [Jh Qh Ks 5d 4s]
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 folded before Flop
+Seat 3: lExample folded on the River
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: BOSTON.IF20/1 (small blind) showed [9h Ah] and lost with high card Ace
+Seat 6: maxtag10 (big blind) showed [Kd Qd] and won (11324) with two pair, Kings and Queens
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877012639: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level IX (150/300) - 2025/02/15 14:30:40 WET [2025/02/15 9:30:40 ET]
+Table '3856223634 59' 8-max Seat #6 is the button
+Seat 1: Heikogen (8165 in chips) 
+Seat 2: huk6666 (8495 in chips) 
+Seat 3: lExample (33770 in chips) 
+Seat 4: Kevin12345Mc (9645 in chips) 
+Seat 6: maxtag10 (27578 in chips) 
+Seat 7: Diekers (21474 in chips) 
+Seat 8: HousZee (11075 in chips) 
+Heikogen: posts the ante 40
+huk6666: posts the ante 40
+lExample: posts the ante 40
+Kevin12345Mc: posts the ante 40
+maxtag10: posts the ante 40
+Diekers: posts the ante 40
+HousZee: posts the ante 40
+Diekers: posts small blind 150
+HousZee: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 4d]
+Heikogen: raises 300 to 600
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+maxtag10: folds 
+Diekers: calls 450
+HousZee: folds 
+*** FLOP *** [Kc 3h Ts]
+Diekers: checks 
+Heikogen: checks 
+*** TURN *** [Kc 3h Ts] [2h]
+Diekers: checks 
+Faithless50 is disconnected 
+Heikogen: checks 
+*** RIVER *** [Kc 3h Ts 2h] [7d]
+Diekers: checks 
+Heikogen: checks 
+*** SHOW DOWN ***
+Diekers: shows [8d 8c] (a pair of Eights)
+Heikogen: mucks hand 
+Diekers collected 1780 from pot
+*** SUMMARY ***
+Total pot 1780 | Rake 0 
+Board [Kc 3h Ts 2h 7d]
+Seat 1: Heikogen mucked [2d Ad]
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: maxtag10 (button) folded before Flop (didn't bet)
+Seat 7: Diekers (small blind) showed [8d 8c] and won (1780) with a pair of Eights
+Seat 8: HousZee (big blind) folded before Flop
+
+
+
+PokerStars Hand #254877021620: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level IX (150/300) - 2025/02/15 14:31:27 WET [2025/02/15 9:31:27 ET]
+Table '3856223634 59' 8-max Seat #7 is the button
+Seat 1: Heikogen (7525 in chips) 
+Seat 2: huk6666 (8455 in chips) 
+Seat 3: lExample (33730 in chips) 
+Seat 4: Kevin12345Mc (9605 in chips) 
+Seat 5: Faithless50 (10000 in chips) 
+Seat 6: maxtag10 (27538 in chips) 
+Seat 7: Diekers (22614 in chips) 
+Seat 8: HousZee (10735 in chips) 
+Heikogen: posts the ante 40
+huk6666: posts the ante 40
+lExample: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Faithless50: posts the ante 40
+maxtag10: posts the ante 40
+Diekers: posts the ante 40
+HousZee: posts the ante 40
+HousZee: posts small blind 150
+Heikogen: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 6d]
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: raises 315 to 615
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: calls 315
+*** FLOP *** [5d 9s Qh]
+Heikogen: checks 
+Faithless50: bets 660
+Heikogen: folds 
+Uncalled bet (660) returned to Faithless50
+Faithless50 collected 1700 from pot
+Faithless50: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Board [5d 9s Qh]
+Seat 1: Heikogen (big blind) folded on the Flop
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 collected (1700)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers (button) folded before Flop (didn't bet)
+Seat 8: HousZee (small blind) folded before Flop
+
+
+
+PokerStars Hand #254877033652: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level IX (150/300) - 2025/02/15 14:32:29 WET [2025/02/15 9:32:29 ET]
+Table '3856223634 59' 8-max Seat #8 is the button
+Seat 1: Heikogen (6870 in chips) 
+Seat 2: huk6666 (8415 in chips) 
+Seat 3: lExample (33690 in chips) 
+Seat 4: Kevin12345Mc (9565 in chips) 
+Seat 5: Faithless50 (11045 in chips) 
+Seat 6: maxtag10 (27498 in chips) 
+Seat 7: Diekers (22574 in chips) 
+Seat 8: HousZee (10545 in chips) 
+Heikogen: posts the ante 40
+huk6666: posts the ante 40
+lExample: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Faithless50: posts the ante 40
+maxtag10: posts the ante 40
+Diekers: posts the ante 40
+HousZee: posts the ante 40
+Heikogen: posts small blind 150
+huk6666: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 5c]
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: folds 
+maxtag10: folds 
+Diekers: raises 600 to 900
+HousZee: folds 
+Heikogen: folds 
+huk6666: raises 7475 to 8375 and is all-in
+Diekers: folds [Qs Js]
+Uncalled bet (7475) returned to huk6666
+huk6666 collected 2270 from pot
+*** SUMMARY ***
+Total pot 2270 | Rake 0 
+Seat 1: Heikogen (small blind) folded before Flop
+Seat 2: huk6666 (big blind) collected (2270)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 folded before Flop (didn't bet)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop
+Seat 8: HousZee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877045424: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level IX (150/300) - 2025/02/15 14:33:29 WET [2025/02/15 9:33:29 ET]
+Table '3856223634 59' 8-max Seat #1 is the button
+Seat 1: Heikogen (6680 in chips) 
+Seat 2: huk6666 (9745 in chips) 
+Seat 3: lExample (33650 in chips) 
+Seat 4: Kevin12345Mc (9525 in chips) 
+Seat 5: Faithless50 (11005 in chips) 
+Seat 6: maxtag10 (27458 in chips) 
+Seat 7: Diekers (21634 in chips) 
+Seat 8: HousZee (10505 in chips) 
+Heikogen: posts the ante 40
+huk6666: posts the ante 40
+lExample: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Faithless50: posts the ante 40
+maxtag10: posts the ante 40
+Diekers: posts the ante 40
+HousZee: posts the ante 40
+huk6666: posts small blind 150
+lExample: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad Td]
+Kevin12345Mc: raises 360 to 660
+Faithless50: folds 
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+lExample: calls 360
+*** FLOP *** [7s 7c 6s]
+lExample: checks 
+Kevin12345Mc: bets 591
+lExample: calls 591
+*** TURN *** [7s 7c 6s] [3h]
+lExample: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [7s 7c 6s 3h] [Kc]
+lExample: checks 
+Kevin12345Mc: bets 8234 and is all-in
+lExample: folds 
+Uncalled bet (8234) returned to Kevin12345Mc
+Kevin12345Mc collected 2972 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2972 | Rake 0 
+Board [7s 7c 6s 3h Kc]
+Seat 1: Heikogen (button) folded before Flop (didn't bet)
+Seat 2: huk6666 (small blind) folded before Flop
+Seat 3: lExample (big blind) folded on the River
+Seat 4: Kevin12345Mc collected (2972)
+Seat 5: Faithless50 folded before Flop (didn't bet)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877056866: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level IX (150/300) - 2025/02/15 14:34:28 WET [2025/02/15 9:34:28 ET]
+Table '3856223634 59' 8-max Seat #2 is the button
+Seat 1: Heikogen (6640 in chips) 
+Seat 2: huk6666 (9555 in chips) 
+Seat 3: lExample (32359 in chips) 
+Seat 4: Kevin12345Mc (11206 in chips) 
+Seat 5: Faithless50 (10965 in chips) 
+Seat 6: maxtag10 (27418 in chips) 
+Seat 7: Diekers (21594 in chips) 
+Seat 8: HousZee (10465 in chips) 
+Heikogen: posts the ante 40
+huk6666: posts the ante 40
+lExample: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Faithless50: posts the ante 40
+maxtag10: posts the ante 40
+Diekers: posts the ante 40
+HousZee: posts the ante 40
+lExample: posts small blind 150
+Kevin12345Mc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Kh]
+Faithless50: folds 
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: raises 300 to 600
+lExample: raises 1800 to 2400
+Kevin12345Mc: folds 
+huk6666: folds 
+Uncalled bet (1800) returned to lExample
+lExample collected 1820 from pot
+lExample: doesn't show hand 
+*** SUMMARY ***
+Total pot 1820 | Rake 0 
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 (button) folded before Flop
+Seat 3: lExample (small blind) collected (1820)
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: Faithless50 folded before Flop (didn't bet)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877061759: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level IX (150/300) - 2025/02/15 14:34:53 WET [2025/02/15 9:34:53 ET]
+Table '3856223634 59' 8-max Seat #3 is the button
+Seat 1: Heikogen (6600 in chips) 
+Seat 2: huk6666 (8915 in chips) 
+Seat 3: lExample (33539 in chips) 
+Seat 4: Kevin12345Mc (10866 in chips) 
+Seat 5: Faithless50 (10925 in chips) 
+Seat 6: maxtag10 (27378 in chips) 
+Seat 7: Diekers (21554 in chips) 
+Seat 8: HousZee (10425 in chips) 
+Heikogen: posts the ante 40
+huk6666: posts the ante 40
+lExample: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Faithless50: posts the ante 40
+maxtag10: posts the ante 40
+Diekers: posts the ante 40
+HousZee: posts the ante 40
+Kevin12345Mc: posts small blind 150
+Faithless50: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 8s]
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: raises 300 to 600
+lExample: calls 600
+Kevin12345Mc: calls 450
+Faithless50: folds 
+*** FLOP *** [5c 9s Td]
+Kevin12345Mc: checks 
+huk6666: bets 799
+lExample: folds 
+Kevin12345Mc: calls 799
+*** TURN *** [5c 9s Td] [As]
+Kevin12345Mc: checks 
+huk6666: bets 1888
+Kevin12345Mc: calls 1888
+*** RIVER *** [5c 9s Td As] [3h]
+Kevin12345Mc: checks 
+huk6666: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Qs 8s] (high card Ace)
+huk6666: shows [Ad 4d] (a pair of Aces)
+huk6666 collected 7794 from pot
+*** SUMMARY ***
+Total pot 7794 | Rake 0 
+Board [5c 9s Td As 3h]
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 showed [Ad 4d] and won (7794) with a pair of Aces
+Seat 3: lExample (button) folded on the Flop
+Seat 4: Kevin12345Mc (small blind) showed [Qs 8s] and lost with high card Ace
+Seat 5: Faithless50 (big blind) folded before Flop
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877080429: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level IX (150/300) - 2025/02/15 14:36:28 WET [2025/02/15 9:36:28 ET]
+Table '3856223634 59' 8-max Seat #4 is the button
+Seat 1: Heikogen (6560 in chips) 
+Seat 2: huk6666 (13382 in chips) 
+Seat 3: lExample (32899 in chips) 
+Seat 4: Kevin12345Mc (7539 in chips) 
+Seat 5: Faithless50 (10585 in chips) 
+Seat 6: maxtag10 (27338 in chips) 
+Seat 7: Diekers (21514 in chips) 
+Seat 8: HousZee (10385 in chips) 
+Heikogen: posts the ante 40
+huk6666: posts the ante 40
+lExample: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Faithless50: posts the ante 40
+maxtag10: posts the ante 40
+Diekers: posts the ante 40
+HousZee: posts the ante 40
+Faithless50: posts small blind 150
+maxtag10: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Jc]
+Diekers: calls 300
+HousZee: folds 
+Heikogen: raises 750 to 1050
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: folds 
+maxtag10: folds 
+Diekers: calls 750
+*** FLOP *** [Kc 9d 6d]
+Diekers: checks 
+Heikogen: bets 947
+Diekers: calls 947
+*** TURN *** [Kc 9d 6d] [4c]
+Diekers: checks 
+Heikogen: checks 
+*** RIVER *** [Kc 9d 6d 4c] [4h]
+Diekers: checks 
+Heikogen: checks 
+*** SHOW DOWN ***
+Diekers: shows [9h 7h] (two pair, Nines and Fours)
+Heikogen: mucks hand 
+Diekers collected 4764 from pot
+*** SUMMARY ***
+Total pot 4764 | Rake 0 
+Board [Kc 9d 6d 4c 4h]
+Seat 1: Heikogen mucked [5h 5c]
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: Faithless50 (small blind) folded before Flop
+Seat 6: maxtag10 (big blind) folded before Flop
+Seat 7: Diekers showed [9h 7h] and won (4764) with two pair, Nines and Fours
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877094471: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level IX (150/300) - 2025/02/15 14:37:39 WET [2025/02/15 9:37:39 ET]
+Table '3856223634 59' 8-max Seat #5 is the button
+Seat 1: Heikogen (4523 in chips) 
+Seat 2: huk6666 (13342 in chips) 
+Seat 3: lExample (32859 in chips) 
+Seat 4: Kevin12345Mc (7499 in chips) 
+Seat 5: Faithless50 (10395 in chips) 
+Seat 6: maxtag10 (26998 in chips) 
+Seat 7: Diekers (24241 in chips) 
+Seat 8: HousZee (10345 in chips) 
+Heikogen: posts the ante 40
+huk6666: posts the ante 40
+lExample: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Faithless50: posts the ante 40
+maxtag10: posts the ante 40
+Diekers: posts the ante 40
+HousZee: posts the ante 40
+maxtag10: posts small blind 150
+Diekers: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 5s]
+HousZee: folds 
+Heikogen: raises 300 to 600
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: folds 
+maxtag10: folds 
+Diekers: calls 300
+*** FLOP *** [6h Qs 7h]
+Diekers: checks 
+Heikogen: bets 551
+Diekers: folds 
+Uncalled bet (551) returned to Heikogen
+Heikogen collected 1670 from pot
+Heikogen: doesn't show hand 
+*** SUMMARY ***
+Total pot 1670 | Rake 0 
+Board [6h Qs 7h]
+Seat 1: Heikogen collected (1670)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 (button) folded before Flop (didn't bet)
+Seat 6: maxtag10 (small blind) folded before Flop
+Seat 7: Diekers (big blind) folded on the Flop
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877103476: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level IX (150/300) - 2025/02/15 14:38:24 WET [2025/02/15 9:38:24 ET]
+Table '3856223634 59' 8-max Seat #6 is the button
+Seat 1: Heikogen (5553 in chips) 
+Seat 2: huk6666 (13302 in chips) 
+Seat 3: lExample (32819 in chips) 
+Seat 4: Kevin12345Mc (7459 in chips) 
+Seat 5: Faithless50 (10355 in chips) 
+Seat 6: maxtag10 (26808 in chips) 
+Seat 7: Diekers (23601 in chips) 
+Seat 8: HousZee (10305 in chips) 
+Heikogen: posts the ante 40
+huk6666: posts the ante 40
+lExample: posts the ante 40
+Kevin12345Mc: posts the ante 40
+Faithless50: posts the ante 40
+maxtag10: posts the ante 40
+Diekers: posts the ante 40
+HousZee: posts the ante 40
+Diekers: posts small blind 150
+HousZee: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 7h]
+Heikogen: raises 300 to 600
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: folds 
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Uncalled bet (300) returned to Heikogen
+Heikogen collected 1070 from pot
+Heikogen: doesn't show hand 
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Seat 1: Heikogen collected (1070)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 folded before Flop (didn't bet)
+Seat 6: maxtag10 (button) folded before Flop (didn't bet)
+Seat 7: Diekers (small blind) folded before Flop
+Seat 8: HousZee (big blind) folded before Flop
+
+
+
+PokerStars Hand #254877109704: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:38:55 WET [2025/02/15 9:38:55 ET]
+Table '3856223634 59' 8-max Seat #7 is the button
+Seat 1: Heikogen (6283 in chips) 
+Seat 2: huk6666 (13262 in chips) 
+Seat 3: lExample (32779 in chips) 
+Seat 4: Kevin12345Mc (7419 in chips) 
+Seat 5: Faithless50 (10315 in chips) 
+Seat 6: maxtag10 (26768 in chips) 
+Seat 7: Diekers (23411 in chips) 
+Seat 8: HousZee (9965 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+HousZee: posts small blind 200
+Heikogen: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 9c]
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: folds 
+maxtag10: folds 
+Diekers: calls 400
+HousZee: calls 200
+Heikogen: raises 5833 to 6233 and is all-in
+Diekers: folds 
+HousZee: folds 
+Uncalled bet (5833) returned to Heikogen
+Heikogen collected 1600 from pot
+Heikogen: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Seat 1: Heikogen (big blind) collected (1600)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 folded before Flop (didn't bet)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers (button) folded before Flop
+Seat 8: HousZee (small blind) folded before Flop
+
+
+
+PokerStars Hand #254877116494: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:39:29 WET [2025/02/15 9:39:29 ET]
+Table '3856223634 59' 8-max Seat #8 is the button
+Seat 1: Heikogen (7433 in chips) 
+Seat 2: huk6666 (13212 in chips) 
+Seat 3: lExample (32729 in chips) 
+Seat 4: Kevin12345Mc (7369 in chips) 
+Seat 5: Faithless50 (10265 in chips) 
+Seat 6: maxtag10 (26718 in chips) 
+Seat 7: Diekers (22961 in chips) 
+Seat 8: HousZee (9515 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+Heikogen: posts small blind 200
+huk6666: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Qs]
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: raises 420 to 820
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+Uncalled bet (420) returned to Faithless50
+Faithless50 collected 1400 from pot
+Faithless50: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 1: Heikogen (small blind) folded before Flop
+Seat 2: huk6666 (big blind) folded before Flop
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 collected (1400)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877124193: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:40:07 WET [2025/02/15 9:40:07 ET]
+Table '3856223634 59' 8-max Seat #1 is the button
+Seat 1: Heikogen (7183 in chips) 
+Seat 2: huk6666 (12762 in chips) 
+Seat 3: lExample (32679 in chips) 
+Seat 4: Kevin12345Mc (7319 in chips) 
+Seat 5: Faithless50 (11215 in chips) 
+Seat 6: maxtag10 (26668 in chips) 
+Seat 7: Diekers (22911 in chips) 
+Seat 8: HousZee (9465 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+huk6666: posts small blind 200
+lExample: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 4s]
+Kevin12345Mc: folds 
+Faithless50: folds 
+maxtag10: raises 440 to 840
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+lExample: calls 440
+*** FLOP *** [Ah Kc 2d]
+lExample: checks 
+maxtag10: checks 
+*** TURN *** [Ah Kc 2d] [6d]
+lExample: checks 
+maxtag10: bets 730
+lExample: calls 730
+*** RIVER *** [Ah Kc 2d 6d] [2c]
+lExample: checks 
+maxtag10: checks 
+*** SHOW DOWN ***
+lExample: shows [3h As] (two pair, Aces and Deuces)
+maxtag10: mucks hand 
+lExample collected 3740 from pot
+*** SUMMARY ***
+Total pot 3740 | Rake 0 
+Board [Ah Kc 2d 6d 2c]
+Seat 1: Heikogen (button) folded before Flop (didn't bet)
+Seat 2: huk6666 (small blind) folded before Flop
+Seat 3: lExample (big blind) showed [3h As] and won (3740) with two pair, Aces and Deuces
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 folded before Flop (didn't bet)
+Seat 6: maxtag10 mucked [9c 9s]
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877139029: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:41:21 WET [2025/02/15 9:41:21 ET]
+Table '3856223634 59' 8-max Seat #2 is the button
+Seat 1: Heikogen (7133 in chips) 
+Seat 2: huk6666 (12512 in chips) 
+Seat 3: lExample (34799 in chips) 
+Seat 4: Kevin12345Mc (7269 in chips) 
+Seat 5: Faithless50 (11165 in chips) 
+Seat 6: maxtag10 (25048 in chips) 
+Seat 7: Diekers (22861 in chips) 
+Seat 8: HousZee (9415 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+lExample: posts small blind 200
+Kevin12345Mc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 8s]
+Faithless50: folds 
+maxtag10: raises 600 to 1000
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: calls 600
+*** FLOP *** [Td As 9s]
+Kevin12345Mc: checks 
+maxtag10: bets 702
+Kevin12345Mc: calls 702
+*** TURN *** [Td As 9s] [9d]
+Kevin12345Mc: checks 
+maxtag10: checks 
+*** RIVER *** [Td As 9s 9d] [6d]
+Kevin12345Mc: bets 1321
+maxtag10: calls 1321
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9c 8s] (three of a kind, Nines)
+maxtag10: mucks hand 
+Kevin12345Mc collected 6646 from pot
+*** SUMMARY ***
+Total pot 6646 | Rake 0 
+Board [Td As 9s 9d 6d]
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 (button) folded before Flop (didn't bet)
+Seat 3: lExample (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) showed [9c 8s] and won (6646) with three of a kind, Nines
+Seat 5: Faithless50 folded before Flop (didn't bet)
+Seat 6: maxtag10 mucked [Ks Kh]
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877151667: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:42:24 WET [2025/02/15 9:42:24 ET]
+Table '3856223634 59' 8-max Seat #3 is the button
+Seat 1: Heikogen (7083 in chips) 
+Seat 2: huk6666 (12462 in chips) 
+Seat 3: lExample (34549 in chips) 
+Seat 4: Kevin12345Mc (10842 in chips) 
+Seat 5: Faithless50 (11115 in chips) 
+Seat 6: maxtag10 (21975 in chips) 
+Seat 7: Diekers (22811 in chips) 
+Seat 8: HousZee (9365 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+Kevin12345Mc: posts small blind 200
+Faithless50: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 3d]
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: raises 400 to 800
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: folds 
+Uncalled bet (400) returned to Heikogen
+Heikogen collected 1400 from pot
+Heikogen: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 1: Heikogen collected (1400)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Faithless50 (big blind) folded before Flop
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877157929: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:42:56 WET [2025/02/15 9:42:56 ET]
+Table '3856223634 59' 8-max Seat #4 is the button
+Seat 1: Heikogen (8033 in chips) 
+Seat 2: huk6666 (12412 in chips) 
+Seat 3: lExample (34499 in chips) 
+Seat 4: Kevin12345Mc (10592 in chips) 
+Seat 5: Faithless50 (10665 in chips) 
+Seat 6: maxtag10 (21925 in chips) 
+Seat 7: Diekers (22761 in chips) 
+Seat 8: HousZee (9315 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+Faithless50: posts small blind 200
+maxtag10: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad Jh]
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: raises 400 to 800
+lExample: folds 
+Kevin12345Mc: raises 9742 to 10542 and is all-in
+Faithless50: folds 
+maxtag10: folds 
+huk6666: folds 
+Uncalled bet (9742) returned to Kevin12345Mc
+Kevin12345Mc collected 2600 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2600 | Rake 0 
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 folded before Flop
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) collected (2600)
+Seat 5: Faithless50 (small blind) folded before Flop
+Seat 6: maxtag10 (big blind) folded before Flop
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877166421: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:43:37 WET [2025/02/15 9:43:37 ET]
+Table '3856223634 59' 8-max Seat #5 is the button
+Seat 1: Heikogen (7983 in chips) 
+Seat 2: huk6666 (11562 in chips) 
+Seat 3: lExample (34449 in chips) 
+Seat 4: Kevin12345Mc (12342 in chips) 
+Seat 5: Faithless50 (10415 in chips) 
+Seat 6: maxtag10 (21475 in chips) 
+Seat 7: Diekers (22711 in chips) 
+Seat 8: HousZee (9265 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+maxtag10: posts small blind 200
+Diekers: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 9h]
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: folds 
+maxtag10: folds 
+Uncalled bet (200) returned to Diekers
+Diekers collected 800 from pot
+Diekers: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 (button) folded before Flop (didn't bet)
+Seat 6: maxtag10 (small blind) folded before Flop
+Seat 7: Diekers (big blind) collected (800)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877169676: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:43:53 WET [2025/02/15 9:43:53 ET]
+Table '3856223634 59' 8-max Seat #6 is the button
+Seat 1: Heikogen (7933 in chips) 
+Seat 2: huk6666 (11512 in chips) 
+Seat 3: lExample (34399 in chips) 
+Seat 4: Kevin12345Mc (12292 in chips) 
+Seat 5: Faithless50 (10365 in chips) 
+Seat 6: maxtag10 (21225 in chips) 
+Seat 7: Diekers (23261 in chips) 
+Seat 8: HousZee (9215 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+Diekers: posts small blind 200
+HousZee: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Th]
+Heikogen: folds 
+huk6666: folds 
+lExample: raises 400 to 800
+Kevin12345Mc: folds 
+Faithless50: raises 1600 to 2400
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+lExample: folds 
+Uncalled bet (1600) returned to Faithless50
+Faithless50 collected 2600 from pot
+Faithless50: doesn't show hand 
+*** SUMMARY ***
+Total pot 2600 | Rake 0 
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 collected (2600)
+Seat 6: maxtag10 (button) folded before Flop (didn't bet)
+Seat 7: Diekers (small blind) folded before Flop
+Seat 8: HousZee (big blind) folded before Flop
+
+
+
+PokerStars Hand #254877180528: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:44:47 WET [2025/02/15 9:44:47 ET]
+Table '3856223634 59' 8-max Seat #7 is the button
+Seat 1: Heikogen (7883 in chips) 
+Seat 2: huk6666 (11462 in chips) 
+Seat 3: lExample (33549 in chips) 
+Seat 4: Kevin12345Mc (12242 in chips) 
+Seat 5: Faithless50 (12115 in chips) 
+Seat 6: maxtag10 (21175 in chips) 
+Seat 7: Diekers (23011 in chips) 
+Seat 8: HousZee (8765 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+HousZee: posts small blind 200
+Heikogen: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Qd]
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: folds 
+maxtag10: raises 400 to 800
+Diekers: folds 
+HousZee: folds 
+Heikogen: calls 400
+*** FLOP *** [8h Th 8c]
+Heikogen: checks 
+maxtag10: bets 704
+Heikogen: folds 
+Uncalled bet (704) returned to maxtag10
+maxtag10 collected 2200 from pot
+*** SUMMARY ***
+Total pot 2200 | Rake 0 
+Board [8h Th 8c]
+Seat 1: Heikogen (big blind) folded on the Flop
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 folded before Flop (didn't bet)
+Seat 6: maxtag10 collected (2200)
+Seat 7: Diekers (button) folded before Flop (didn't bet)
+Seat 8: HousZee (small blind) folded before Flop
+
+
+
+PokerStars Hand #254877187481: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:45:20 WET [2025/02/15 9:45:20 ET]
+Table '3856223634 59' 8-max Seat #8 is the button
+Seat 1: Heikogen (7033 in chips) 
+Seat 2: huk6666 (11412 in chips) 
+Seat 3: lExample (33499 in chips) 
+Seat 4: Kevin12345Mc (12192 in chips) 
+Seat 5: Faithless50 (12065 in chips) 
+Seat 6: maxtag10 (22525 in chips) 
+Seat 7: Diekers (22961 in chips) 
+Seat 8: HousZee (8515 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+Heikogen: posts small blind 200
+huk6666: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 3c]
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: raises 420 to 820
+maxtag10: folds 
+Diekers: folds 
+HousZee: calls 820
+Heikogen: folds 
+huk6666: folds 
+*** FLOP *** [6s 7c 5h]
+Faithless50: bets 871
+HousZee: calls 871
+*** TURN *** [6s 7c 5h] [5c]
+Faithless50: checks 
+HousZee: checks 
+*** RIVER *** [6s 7c 5h 5c] [Jc]
+Faithless50: bets 2191
+HousZee: raises 4583 to 6774 and is all-in
+Faithless50: calls 4583
+*** SHOW DOWN ***
+HousZee: shows [Kc Qc] (a flush, King high)
+Faithless50: shows [9h 8h] (a straight, Five to Nine)
+HousZee collected 17930 from pot
+*** SUMMARY ***
+Total pot 17930 | Rake 0 
+Board [6s 7c 5h 5c Jc]
+Seat 1: Heikogen (small blind) folded before Flop
+Seat 2: huk6666 (big blind) folded before Flop
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 showed [9h 8h] and lost with a straight, Five to Nine
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee (button) showed [Kc Qc] and won (17930) with a flush, King high
+
+
+
+PokerStars Hand #254877207067: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:46:55 WET [2025/02/15 9:46:55 ET]
+Table '3856223634 59' 8-max Seat #1 is the button
+Seat 1: Heikogen (6783 in chips) 
+Seat 2: huk6666 (10962 in chips) 
+Seat 3: lExample (33449 in chips) 
+Seat 4: Kevin12345Mc (12142 in chips) 
+Seat 5: Faithless50 (3550 in chips) 
+Seat 6: maxtag10 (22475 in chips) 
+Seat 7: Diekers (22911 in chips) 
+Seat 8: HousZee (17930 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+huk6666: posts small blind 200
+lExample: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 4s]
+Kevin12345Mc: folds 
+Faithless50: folds 
+maxtag10: folds 
+Diekers: raises 400 to 800
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+lExample: folds 
+Uncalled bet (400) returned to Diekers
+Diekers collected 1400 from pot
+Diekers: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Seat 1: Heikogen (button) folded before Flop (didn't bet)
+Seat 2: huk6666 (small blind) folded before Flop
+Seat 3: lExample (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Faithless50 folded before Flop (didn't bet)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers collected (1400)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877214789: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level X (200/400) - 2025/02/15 14:47:32 WET [2025/02/15 9:47:32 ET]
+Table '3856223634 59' 8-max Seat #2 is the button
+Seat 1: Heikogen (6733 in chips) 
+Seat 2: huk6666 (10712 in chips) 
+Seat 3: lExample (32999 in chips) 
+Seat 4: Kevin12345Mc (12092 in chips) 
+Seat 5: Faithless50 (3500 in chips) 
+Seat 6: maxtag10 (22425 in chips) 
+Seat 7: Diekers (23861 in chips) 
+Seat 8: HousZee (17880 in chips) 
+Heikogen: posts the ante 50
+huk6666: posts the ante 50
+lExample: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Faithless50: posts the ante 50
+maxtag10: posts the ante 50
+Diekers: posts the ante 50
+HousZee: posts the ante 50
+lExample: posts small blind 200
+Kevin12345Mc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Jh]
+Faithless50: folds 
+maxtag10: raises 400 to 800
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: folds 
+lExample: calls 600
+Kevin12345Mc: calls 400
+*** FLOP *** [8s 7s 5h]
+lExample: checks 
+Kevin12345Mc: checks 
+maxtag10: bets 1596
+lExample: folds 
+Kevin12345Mc: folds 
+Uncalled bet (1596) returned to maxtag10
+maxtag10 collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Board [8s 7s 5h]
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 (button) folded before Flop (didn't bet)
+Seat 3: lExample (small blind) folded on the Flop
+Seat 4: Kevin12345Mc (big blind) folded on the Flop
+Seat 5: Faithless50 folded before Flop (didn't bet)
+Seat 6: maxtag10 collected (2800)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877230501: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 14:48:48 WET [2025/02/15 9:48:48 ET]
+Table '3856223634 59' 8-max Seat #3 is the button
+Seat 1: Heikogen (6683 in chips) 
+Seat 2: huk6666 (10662 in chips) 
+Seat 3: lExample (32149 in chips) 
+Seat 4: Kevin12345Mc (11242 in chips) 
+Seat 5: Faithless50 (3450 in chips) 
+Seat 6: maxtag10 (24375 in chips) 
+Seat 7: Diekers (23811 in chips) 
+Seat 8: HousZee (17830 in chips) 
+Heikogen: posts the ante 60
+huk6666: posts the ante 60
+lExample: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Faithless50: posts the ante 60
+maxtag10: posts the ante 60
+Diekers: posts the ante 60
+HousZee: posts the ante 60
+Kevin12345Mc: posts small blind 250
+Faithless50: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 6d]
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: raises 500 to 1000
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: folds 
+Uncalled bet (500) returned to Heikogen
+Heikogen collected 1730 from pot
+Heikogen: doesn't show hand 
+*** SUMMARY ***
+Total pot 1730 | Rake 0 
+Seat 1: Heikogen collected (1730)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Faithless50 (big blind) folded before Flop
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877237383: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 14:49:22 WET [2025/02/15 9:49:22 ET]
+Table '3856223634 59' 8-max Seat #4 is the button
+Seat 1: Heikogen (7853 in chips) 
+Seat 2: huk6666 (10602 in chips) 
+Seat 3: lExample (32089 in chips) 
+Seat 4: Kevin12345Mc (10932 in chips) 
+Seat 5: Faithless50 (2890 in chips) 
+Seat 6: maxtag10 (24315 in chips) 
+Seat 7: Diekers (23751 in chips) 
+Seat 8: HousZee (17770 in chips) 
+Heikogen: posts the ante 60
+huk6666: posts the ante 60
+lExample: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Faithless50: posts the ante 60
+maxtag10: posts the ante 60
+Diekers: posts the ante 60
+HousZee: posts the ante 60
+Faithless50: posts small blind 250
+maxtag10: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 4h]
+Diekers: raises 500 to 1000
+HousZee: folds 
+Heikogen: folds 
+huk6666: raises 1350 to 2350
+lExample: folds 
+Kevin12345Mc: folds 
+Faithless50: raises 480 to 2830 and is all-in
+maxtag10: folds 
+Diekers: folds 
+huk6666: calls 480
+*** FLOP *** [Kh Qh 5s]
+*** TURN *** [Kh Qh 5s] [As]
+*** RIVER *** [Kh Qh 5s As] [9c]
+*** SHOW DOWN ***
+Faithless50: shows [7s 8s] (high card Ace)
+huk6666: shows [Ah Jd] (a pair of Aces)
+huk6666 collected 7640 from pot
+Faithless50 finished the tournament
+*** SUMMARY ***
+Total pot 7640 | Rake 0 
+Board [Kh Qh 5s As 9c]
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 showed [Ah Jd] and won (7640) with a pair of Aces
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: Faithless50 (small blind) showed [7s 8s] and lost with high card Ace
+Seat 6: maxtag10 (big blind) folded before Flop
+Seat 7: Diekers folded before Flop
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877246719: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 14:50:07 WET [2025/02/15 9:50:07 ET]
+Table '3856223634 59' 8-max Seat #6 is the button
+Seat 1: Heikogen (7793 in chips) 
+Seat 2: huk6666 (15352 in chips) 
+Seat 3: lExample (32029 in chips) 
+Seat 4: Kevin12345Mc (10872 in chips) 
+Seat 6: maxtag10 (23755 in chips) 
+Seat 7: Diekers (22691 in chips) 
+Seat 8: HousZee (17710 in chips) 
+Heikogen: posts the ante 60
+huk6666: posts the ante 60
+lExample: posts the ante 60
+Kevin12345Mc: posts the ante 60
+maxtag10: posts the ante 60
+Diekers: posts the ante 60
+HousZee: posts the ante 60
+Diekers: posts small blind 250
+HousZee: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 7h]
+Heikogen: raises 500 to 1000
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+maxtag10: folds 
+Diekers: folds 
+HousZee: calls 500
+*** FLOP *** [Js 5d 2h]
+HousZee: checks 
+Heikogen: bets 881
+HousZee: folds 
+Uncalled bet (881) returned to Heikogen
+Heikogen collected 2670 from pot
+Heikogen: doesn't show hand 
+*** SUMMARY ***
+Total pot 2670 | Rake 0 
+Board [Js 5d 2h]
+Seat 1: Heikogen collected (2670)
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: maxtag10 (button) folded before Flop (didn't bet)
+Seat 7: Diekers (small blind) folded before Flop
+Seat 8: HousZee (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254877257559: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 14:51:00 WET [2025/02/15 9:51:00 ET]
+Table '3856223634 59' 8-max Seat #7 is the button
+Seat 1: Heikogen (9403 in chips) 
+Seat 2: huk6666 (15292 in chips) 
+Seat 3: lExample (31969 in chips) 
+Seat 4: Kevin12345Mc (10812 in chips) 
+Seat 6: maxtag10 (23695 in chips) 
+Seat 7: Diekers (22381 in chips) 
+Seat 8: HousZee (16650 in chips) 
+Heikogen: posts the ante 60
+huk6666: posts the ante 60
+lExample: posts the ante 60
+Kevin12345Mc: posts the ante 60
+maxtag10: posts the ante 60
+Diekers: posts the ante 60
+HousZee: posts the ante 60
+HousZee: posts small blind 250
+Heikogen: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Jc]
+huk6666: folds 
+T-Bird_Tom is disconnected 
+lExample: folds 
+Kevin12345Mc: raises 500 to 1000
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: calls 500
+*** FLOP *** [Kh 4h 9c]
+Heikogen: checks 
+Kevin12345Mc: bets 881
+Heikogen: calls 881
+*** TURN *** [Kh 4h 9c] [7s]
+Heikogen: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Kh 4h 9c 7s] [Ks]
+Heikogen: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+Heikogen: shows [Js Td] (a pair of Kings)
+Kevin12345Mc: shows [Qd Jc] (a pair of Kings - Queen kicker)
+Kevin12345Mc collected 4432 from pot
+*** SUMMARY ***
+Total pot 4432 | Rake 0 
+Board [Kh 4h 9c 7s Ks]
+Seat 1: Heikogen (big blind) showed [Js Td] and lost with a pair of Kings
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc showed [Qd Jc] and won (4432) with a pair of Kings
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers (button) folded before Flop (didn't bet)
+Seat 8: HousZee (small blind) folded before Flop
+
+
+
+PokerStars Hand #254877271909: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 14:52:10 WET [2025/02/15 9:52:10 ET]
+Table '3856223634 59' 8-max Seat #8 is the button
+Seat 1: Heikogen (7462 in chips) 
+Seat 2: huk6666 (15232 in chips) 
+Seat 3: lExample (31909 in chips) 
+Seat 4: Kevin12345Mc (13303 in chips) 
+Seat 5: T-Bird_Tom (23953 in chips) 
+Seat 6: maxtag10 (23635 in chips) 
+Seat 7: Diekers (22321 in chips) 
+Seat 8: HousZee (16340 in chips) 
+Heikogen: posts the ante 60
+huk6666: posts the ante 60
+lExample: posts the ante 60
+Kevin12345Mc: posts the ante 60
+T-Bird_Tom: posts the ante 60
+maxtag10: posts the ante 60
+Diekers: posts the ante 60
+HousZee: posts the ante 60
+Heikogen: posts small blind 250
+huk6666: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 2d]
+lExample: folds 
+Kevin12345Mc: folds 
+T-Bird_Tom: folds 
+maxtag10: raises 500 to 1000
+Diekers: calls 1000
+HousZee: calls 1000
+Heikogen: folds 
+huk6666: calls 500
+*** FLOP *** [6d 3d Ad]
+huk6666: checks 
+maxtag10: checks 
+Diekers: bets 1500
+HousZee: folds 
+huk6666: raises 3633 to 5133
+maxtag10: folds 
+Diekers: folds 
+Uncalled bet (3633) returned to huk6666
+huk6666 collected 7730 from pot
+*** SUMMARY ***
+Total pot 7730 | Rake 0 
+Board [6d 3d Ad]
+Seat 1: Heikogen (small blind) folded before Flop
+Seat 2: huk6666 (big blind) collected (7730)
+Seat 3: lExample folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: T-Bird_Tom folded before Flop (didn't bet)
+Seat 6: maxtag10 folded on the Flop
+Seat 7: Diekers folded on the Flop
+Seat 8: HousZee (button) folded on the Flop
+
+
+
+PokerStars Hand #254877292221: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 14:53:48 WET [2025/02/15 9:53:48 ET]
+Table '3856223634 59' 8-max Seat #1 is the button
+Seat 1: Heikogen (7152 in chips) 
+Seat 2: huk6666 (20402 in chips) 
+Seat 3: lExample (31849 in chips) 
+Seat 4: Kevin12345Mc (13243 in chips) 
+Seat 5: T-Bird_Tom (23893 in chips) 
+Seat 6: maxtag10 (22575 in chips) 
+Seat 7: Diekers (19761 in chips) 
+Seat 8: HousZee (15280 in chips) 
+Heikogen: posts the ante 60
+huk6666: posts the ante 60
+lExample: posts the ante 60
+Kevin12345Mc: posts the ante 60
+T-Bird_Tom: posts the ante 60
+maxtag10: posts the ante 60
+Diekers: posts the ante 60
+HousZee: posts the ante 60
+huk6666: posts small blind 250
+lExample: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Ac]
+Kevin12345Mc: folds 
+T-Bird_Tom: folds 
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: raises 500 to 1000
+huk6666: folds 
+lExample: calls 500
+*** FLOP *** [7s 6d 3h]
+lExample: checks 
+Heikogen: checks 
+*** TURN *** [7s 6d 3h] [3d]
+lExample: bets 750
+Heikogen: folds 
+Uncalled bet (750) returned to lExample
+lExample collected 2730 from pot
+lExample: doesn't show hand 
+*** SUMMARY ***
+Total pot 2730 | Rake 0 
+Board [7s 6d 3h 3d]
+Seat 1: Heikogen (button) folded on the Turn
+Seat 2: huk6666 (small blind) folded before Flop
+Seat 3: lExample (big blind) collected (2730)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: T-Bird_Tom folded before Flop (didn't bet)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877301134: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 14:54:31 WET [2025/02/15 9:54:31 ET]
+Table '3856223634 59' 8-max Seat #2 is the button
+Seat 1: Heikogen (6092 in chips) 
+Seat 2: huk6666 (20092 in chips) 
+Seat 3: lExample (33519 in chips) 
+Seat 4: Kevin12345Mc (13183 in chips) 
+Seat 5: T-Bird_Tom (23833 in chips) 
+Seat 6: maxtag10 (22515 in chips) 
+Seat 7: Diekers (19701 in chips) 
+Seat 8: HousZee (15220 in chips) 
+Heikogen: posts the ante 60
+huk6666: posts the ante 60
+lExample: posts the ante 60
+Kevin12345Mc: posts the ante 60
+T-Bird_Tom: posts the ante 60
+maxtag10: posts the ante 60
+Diekers: posts the ante 60
+HousZee: posts the ante 60
+lExample: posts small blind 250
+Kevin12345Mc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 9s]
+T-Bird_Tom: folds 
+maxtag10: folds 
+Diekers: folds 
+HousZee: folds 
+Heikogen: folds 
+huk6666: raises 500 to 1000
+lExample: raises 3000 to 4000
+Kevin12345Mc: folds 
+huk6666: folds 
+Uncalled bet (3000) returned to lExample
+lExample collected 2980 from pot
+lExample: doesn't show hand 
+*** SUMMARY ***
+Total pot 2980 | Rake 0 
+Seat 1: Heikogen folded before Flop (didn't bet)
+Seat 2: huk6666 (button) folded before Flop
+Seat 3: lExample (small blind) collected (2980)
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: T-Bird_Tom folded before Flop (didn't bet)
+Seat 6: maxtag10 folded before Flop (didn't bet)
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877308101: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 14:55:05 WET [2025/02/15 9:55:05 ET]
+Table '3856223634 59' 8-max Seat #3 is the button
+Seat 1: Heikogen (6032 in chips) 
+Seat 2: huk6666 (19032 in chips) 
+Seat 3: lExample (35439 in chips) 
+Seat 4: Kevin12345Mc (12623 in chips) 
+Seat 5: T-Bird_Tom (23773 in chips) 
+Seat 6: maxtag10 (22455 in chips) 
+Seat 7: Diekers (19641 in chips) 
+Seat 8: HousZee (15160 in chips) 
+Heikogen: posts the ante 60
+huk6666: posts the ante 60
+lExample: posts the ante 60
+Kevin12345Mc: posts the ante 60
+T-Bird_Tom: posts the ante 60
+maxtag10: posts the ante 60
+Diekers: posts the ante 60
+HousZee: posts the ante 60
+Kevin12345Mc: posts small blind 250
+T-Bird_Tom: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 3d]
+maxtag10: raises 550 to 1050
+Diekers: folds 
+HousZee: folds 
+Heikogen: raises 4922 to 5972 and is all-in
+huk6666: folds 
+lExample: folds 
+Kevin12345Mc: folds 
+T-Bird_Tom: folds 
+maxtag10: calls 4922
+*** FLOP *** [2d Ts 8d]
+*** TURN *** [2d Ts 8d] [Ks]
+*** RIVER *** [2d Ts 8d Ks] [Jc]
+*** SHOW DOWN ***
+maxtag10: shows [6c 6d] (a pair of Sixes)
+Heikogen: shows [Ad Qh] (a straight, Ten to Ace)
+Heikogen collected 13174 from pot
+*** SUMMARY ***
+Total pot 13174 | Rake 0 
+Board [2d Ts 8d Ks Jc]
+Seat 1: Heikogen showed [Ad Qh] and won (13174) with a straight, Ten to Ace
+Seat 2: huk6666 folded before Flop (didn't bet)
+Seat 3: lExample (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: T-Bird_Tom (big blind) folded before Flop
+Seat 6: maxtag10 showed [6c 6d] and lost with a pair of Sixes
+Seat 7: Diekers folded before Flop (didn't bet)
+Seat 8: HousZee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877377627: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 15:02:04 WET [2025/02/15 10:02:04 ET]
+Table '3856223634 66' 8-max Seat #1 is the button
+Seat 1: stevew91 (6249 in chips) 
+Seat 2: VicaS96 (10000 in chips) 
+Seat 3: brilliant402 (10980 in chips) 
+Seat 4: Thetop1611 (45037 in chips) 
+Seat 5: smak1n (10000 in chips) 
+Seat 6: Bahuans2 (22393 in chips) 
+Seat 7: Kevin12345Mc (12313 in chips) 
+Seat 8: ruairidh93 (10000 in chips) 
+stevew91: posts the ante 60
+VicaS96: posts the ante 60
+brilliant402: posts the ante 60
+Thetop1611: posts the ante 60
+smak1n: posts the ante 60
+Bahuans2: posts the ante 60
+Kevin12345Mc: posts the ante 60
+ruairidh93: posts the ante 60
+VicaS96: posts small blind 250
+brilliant402: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 9s]
+Thetop1611: calls 500
+smak1n: raises 750 to 1250
+Bahuans2: folds 
+Kevin12345Mc: folds 
+ruairidh93: folds 
+stevew91: folds 
+VicaS96: raises 8690 to 9940 and is all-in
+brilliant402: folds 
+Thetop1611: folds 
+smak1n: folds 
+Uncalled bet (8690) returned to VicaS96
+VicaS96 collected 3980 from pot
+*** SUMMARY ***
+Total pot 3980 | Rake 0 
+Seat 1: stevew91 (button) folded before Flop (didn't bet)
+Seat 2: VicaS96 (small blind) collected (3980)
+Seat 3: brilliant402 (big blind) folded before Flop
+Seat 4: Thetop1611 folded before Flop
+Seat 5: smak1n folded before Flop
+Seat 6: Bahuans2 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: ruairidh93 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877386209: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 15:02:46 WET [2025/02/15 10:02:46 ET]
+Table '3856223634 66' 8-max Seat #2 is the button
+Seat 1: stevew91 (6189 in chips) 
+Seat 2: VicaS96 (12670 in chips) 
+Seat 3: brilliant402 (10420 in chips) 
+Seat 4: Thetop1611 (44477 in chips) 
+Seat 5: smak1n (8690 in chips) 
+Seat 6: Bahuans2 (22333 in chips) 
+Seat 7: Kevin12345Mc (12253 in chips) 
+Seat 8: ruairidh93 (9940 in chips) 
+stevew91: posts the ante 60
+VicaS96: posts the ante 60
+brilliant402: posts the ante 60
+Thetop1611: posts the ante 60
+smak1n: posts the ante 60
+Bahuans2: posts the ante 60
+Kevin12345Mc: posts the ante 60
+ruairidh93: posts the ante 60
+brilliant402: posts small blind 250
+Thetop1611: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Jc]
+smak1n: raises 8130 to 8630 and is all-in
+Bahuans2: folds 
+Kevin12345Mc: folds 
+ruairidh93: folds 
+stevew91: folds 
+VicaS96: folds 
+brilliant402: raises 1730 to 10360 and is all-in
+Thetop1611: folds 
+Uncalled bet (1730) returned to brilliant402
+*** FLOP *** [5s 6h 7c]
+*** TURN *** [5s 6h 7c] [3c]
+*** RIVER *** [5s 6h 7c 3c] [4c]
+*** SHOW DOWN ***
+brilliant402: shows [Qs As] (a straight, Three to Seven)
+smak1n: shows [8c 8d] (a straight, Four to Eight)
+smak1n collected 18240 from pot
+*** SUMMARY ***
+Total pot 18240 | Rake 0 
+Board [5s 6h 7c 3c 4c]
+Seat 1: stevew91 folded before Flop (didn't bet)
+Seat 2: VicaS96 (button) folded before Flop (didn't bet)
+Seat 3: brilliant402 (small blind) showed [Qs As] and lost with a straight, Three to Seven
+Seat 4: Thetop1611 (big blind) folded before Flop
+Seat 5: smak1n showed [8c 8d] and won (18240) with a straight, Four to Eight
+Seat 6: Bahuans2 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: ruairidh93 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877392961: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 15:03:19 WET [2025/02/15 10:03:19 ET]
+Table '3856223634 66' 8-max Seat #3 is the button
+Seat 1: stevew91 (6129 in chips) 
+Seat 2: VicaS96 (12610 in chips) 
+Seat 3: brilliant402 (1730 in chips) 
+Seat 4: Thetop1611 (43917 in chips) 
+Seat 5: smak1n (18240 in chips) 
+Seat 6: Bahuans2 (22273 in chips) 
+Seat 7: Kevin12345Mc (12193 in chips) 
+Seat 8: ruairidh93 (9880 in chips) 
+stevew91: posts the ante 60
+VicaS96: posts the ante 60
+brilliant402: posts the ante 60
+Thetop1611: posts the ante 60
+smak1n: posts the ante 60
+Bahuans2: posts the ante 60
+Kevin12345Mc: posts the ante 60
+ruairidh93: posts the ante 60
+Thetop1611: posts small blind 250
+smak1n: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 3d]
+Bahuans2: folds 
+Kevin12345Mc: folds 
+ruairidh93: folds 
+stevew91: folds 
+VicaS96: raises 550 to 1050
+brilliant402: raises 620 to 1670 and is all-in
+Thetop1611: folds 
+smak1n: folds 
+VicaS96: calls 620
+*** FLOP *** [7c 6h 3c]
+*** TURN *** [7c 6h 3c] [Qs]
+*** RIVER *** [7c 6h 3c Qs] [9c]
+*** SHOW DOWN ***
+VicaS96: shows [Ac 5d] (high card Ace)
+brilliant402: shows [7h 9s] (two pair, Nines and Sevens)
+brilliant402 collected 4570 from pot
+*** SUMMARY ***
+Total pot 4570 | Rake 0 
+Board [7c 6h 3c Qs 9c]
+Seat 1: stevew91 folded before Flop (didn't bet)
+Seat 2: VicaS96 showed [Ac 5d] and lost with high card Ace
+Seat 3: brilliant402 (button) showed [7h 9s] and won (4570) with two pair, Nines and Sevens
+Seat 4: Thetop1611 (small blind) folded before Flop
+Seat 5: smak1n (big blind) folded before Flop
+Seat 6: Bahuans2 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: ruairidh93 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877406115: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XI (250/500) - 2025/02/15 15:04:23 WET [2025/02/15 10:04:23 ET]
+Table '3856223634 66' 8-max Seat #4 is the button
+Seat 1: stevew91 (6069 in chips) 
+Seat 2: VicaS96 (10880 in chips) 
+Seat 3: brilliant402 (4570 in chips) 
+Seat 4: Thetop1611 (43607 in chips) 
+Seat 5: smak1n (17680 in chips) 
+Seat 6: Bahuans2 (22213 in chips) 
+Seat 7: Kevin12345Mc (12133 in chips) 
+Seat 8: ruairidh93 (9820 in chips) 
+stevew91: posts the ante 60
+VicaS96: posts the ante 60
+brilliant402: posts the ante 60
+Thetop1611: posts the ante 60
+smak1n: posts the ante 60
+Bahuans2: posts the ante 60
+Kevin12345Mc: posts the ante 60
+ruairidh93: posts the ante 60
+smak1n: posts small blind 250
+Bahuans2: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 4s]
+Kevin12345Mc: folds 
+ruairidh93: calls 500
+stevew91: folds 
+VicaS96: folds 
+brilliant402: folds 
+Thetop1611: folds 
+smak1n: calls 250
+Bahuans2: checks 
+*** FLOP *** [5d 3d 9d]
+smak1n: checks 
+Bahuans2: checks 
+ruairidh93: bets 1980
+smak1n: raises 2673 to 4653
+Bahuans2: folds 
+ruairidh93: raises 4607 to 9260 and is all-in
+smak1n: calls 4607
+*** TURN *** [5d 3d 9d] [7h]
+*** RIVER *** [5d 3d 9d 7h] [5c]
+*** SHOW DOWN ***
+smak1n: shows [Th Ad] (a pair of Fives)
+ruairidh93: shows [Qd Jd] (a flush, Queen high)
+ruairidh93 collected 20500 from pot
+*** SUMMARY ***
+Total pot 20500 | Rake 0 
+Board [5d 3d 9d 7h 5c]
+Seat 1: stevew91 folded before Flop (didn't bet)
+Seat 2: VicaS96 folded before Flop (didn't bet)
+Seat 3: brilliant402 folded before Flop (didn't bet)
+Seat 4: Thetop1611 (button) folded before Flop (didn't bet)
+Seat 5: smak1n (small blind) showed [Th Ad] and lost with a pair of Fives
+Seat 6: Bahuans2 (big blind) folded on the Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: ruairidh93 showed [Qd Jd] and won (20500) with a flush, Queen high
+
+
+
+PokerStars Hand #254877425521: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XII (300/600) - 2025/02/15 15:05:57 WET [2025/02/15 10:05:57 ET]
+Table '3856223634 66' 8-max Seat #5 is the button
+Seat 1: stevew91 (6009 in chips) 
+Seat 2: VicaS96 (10820 in chips) 
+Seat 3: brilliant402 (4510 in chips) 
+Seat 4: Thetop1611 (43547 in chips) 
+Seat 5: smak1n (7860 in chips) 
+Seat 6: Bahuans2 (21653 in chips) 
+Seat 7: Kevin12345Mc (12073 in chips) 
+Seat 8: ruairidh93 (20500 in chips) 
+stevew91: posts the ante 80
+VicaS96: posts the ante 80
+brilliant402: posts the ante 80
+Thetop1611: posts the ante 80
+smak1n: posts the ante 80
+Bahuans2: posts the ante 80
+Kevin12345Mc: posts the ante 80
+ruairidh93: posts the ante 80
+Bahuans2: posts small blind 300
+Kevin12345Mc: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 8s]
+ruairidh93: folds 
+stevew91: folds 
+VicaS96: folds 
+brilliant402: folds 
+Thetop1611: calls 600
+smak1n: folds 
+Bahuans2: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [9h 6d Ad]
+Kevin12345Mc: checks 
+Thetop1611: bets 1070
+Kevin12345Mc: folds 
+Uncalled bet (1070) returned to Thetop1611
+Thetop1611 collected 2140 from pot
+Thetop1611: doesn't show hand 
+*** SUMMARY ***
+Total pot 2140 | Rake 0 
+Board [9h 6d Ad]
+Seat 1: stevew91 folded before Flop (didn't bet)
+Seat 2: VicaS96 folded before Flop (didn't bet)
+Seat 3: brilliant402 folded before Flop (didn't bet)
+Seat 4: Thetop1611 collected (2140)
+Seat 5: smak1n (button) folded before Flop (didn't bet)
+Seat 6: Bahuans2 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Flop
+Seat 8: ruairidh93 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877434823: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XII (300/600) - 2025/02/15 15:06:42 WET [2025/02/15 10:06:42 ET]
+Table '3856223634 66' 8-max Seat #6 is the button
+Seat 1: stevew91 (5929 in chips) 
+Seat 2: VicaS96 (10740 in chips) 
+Seat 3: brilliant402 (4430 in chips) 
+Seat 4: Thetop1611 (45007 in chips) 
+Seat 5: smak1n (7780 in chips) 
+Seat 6: Bahuans2 (21273 in chips) 
+Seat 7: Kevin12345Mc (11393 in chips) 
+Seat 8: ruairidh93 (20420 in chips) 
+stevew91: posts the ante 80
+VicaS96: posts the ante 80
+brilliant402: posts the ante 80
+Thetop1611: posts the ante 80
+smak1n: posts the ante 80
+Bahuans2: posts the ante 80
+Kevin12345Mc: posts the ante 80
+ruairidh93: posts the ante 80
+Kevin12345Mc: posts small blind 300
+ruairidh93: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 8c]
+stevew91: folds 
+VicaS96: folds 
+brilliant402: folds 
+Thetop1611: calls 600
+smak1n: raises 7100 to 7700 and is all-in
+Bahuans2: folds 
+Kevin12345Mc: folds 
+ruairidh93: folds 
+Thetop1611: folds 
+Uncalled bet (7100) returned to smak1n
+smak1n collected 2740 from pot
+smak1n: doesn't show hand 
+*** SUMMARY ***
+Total pot 2740 | Rake 0 
+Seat 1: stevew91 folded before Flop (didn't bet)
+Seat 2: VicaS96 folded before Flop (didn't bet)
+Seat 3: brilliant402 folded before Flop (didn't bet)
+Seat 4: Thetop1611 folded before Flop
+Seat 5: smak1n collected (2740)
+Seat 6: Bahuans2 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: ruairidh93 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254877439381: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XII (300/600) - 2025/02/15 15:07:04 WET [2025/02/15 10:07:04 ET]
+Table '3856223634 66' 8-max Seat #7 is the button
+Seat 1: stevew91 (5849 in chips) 
+Seat 2: VicaS96 (10660 in chips) 
+Seat 3: brilliant402 (4350 in chips) 
+Seat 4: Thetop1611 (44327 in chips) 
+Seat 5: smak1n (9840 in chips) 
+Seat 6: Bahuans2 (21193 in chips) 
+Seat 7: Kevin12345Mc (11013 in chips) 
+Seat 8: ruairidh93 (19740 in chips) 
+stevew91: posts the ante 80
+VicaS96: posts the ante 80
+brilliant402: posts the ante 80
+Thetop1611: posts the ante 80
+smak1n: posts the ante 80
+Bahuans2: posts the ante 80
+Kevin12345Mc: posts the ante 80
+ruairidh93: posts the ante 80
+ruairidh93: posts small blind 300
+stevew91: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Td]
+VicaS96: folds 
+brilliant402: raises 3670 to 4270 and is all-in
+Thetop1611: folds 
+smak1n: folds 
+Bahuans2: folds 
+Kevin12345Mc: folds 
+ruairidh93: calls 3970
+stevew91: folds 
+*** FLOP *** [4d 3d 8h]
+*** TURN *** [4d 3d 8h] [Jh]
+*** RIVER *** [4d 3d 8h Jh] [Ah]
+*** SHOW DOWN ***
+ruairidh93: shows [9c Jd] (a pair of Jacks)
+brilliant402: shows [Kd As] (a pair of Aces)
+brilliant402 collected 9780 from pot
+*** SUMMARY ***
+Total pot 9780 | Rake 0 
+Board [4d 3d 8h Jh Ah]
+Seat 1: stevew91 (big blind) folded before Flop
+Seat 2: VicaS96 folded before Flop (didn't bet)
+Seat 3: brilliant402 showed [Kd As] and won (9780) with a pair of Aces
+Seat 4: Thetop1611 folded before Flop (didn't bet)
+Seat 5: smak1n folded before Flop (didn't bet)
+Seat 6: Bahuans2 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: ruairidh93 (small blind) showed [9c Jd] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254877449807: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XII (300/600) - 2025/02/15 15:07:55 WET [2025/02/15 10:07:55 ET]
+Table '3856223634 66' 8-max Seat #8 is the button
+Seat 1: stevew91 (5169 in chips) 
+Seat 2: VicaS96 (10580 in chips) 
+Seat 3: brilliant402 (9780 in chips) 
+Seat 4: Thetop1611 (44247 in chips) 
+Seat 5: smak1n (9760 in chips) 
+Seat 6: Bahuans2 (21113 in chips) 
+Seat 7: Kevin12345Mc (10933 in chips) 
+Seat 8: ruairidh93 (15390 in chips) 
+stevew91: posts the ante 80
+VicaS96: posts the ante 80
+brilliant402: posts the ante 80
+Thetop1611: posts the ante 80
+smak1n: posts the ante 80
+Bahuans2: posts the ante 80
+Kevin12345Mc: posts the ante 80
+ruairidh93: posts the ante 80
+stevew91: posts small blind 300
+VicaS96: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Qh]
+brilliant402: calls 600
+Thetop1611: folds 
+smak1n: folds 
+Bahuans2: folds 
+Kevin12345Mc: calls 600
+ruairidh93: calls 600
+stevew91: calls 300
+VicaS96: checks 
+*** FLOP *** [Ts 2d 2h]
+stevew91: checks 
+VicaS96: checks 
+brilliant402: checks 
+Kevin12345Mc: checks 
+ruairidh93: checks 
+*** TURN *** [Ts 2d 2h] [Qc]
+stevew91: checks 
+VicaS96: checks 
+brilliant402: checks 
+Kevin12345Mc: bets 1201
+ruairidh93: folds 
+stevew91: folds 
+VicaS96: folds 
+brilliant402: folds 
+Uncalled bet (1201) returned to Kevin12345Mc
+Kevin12345Mc collected 3640 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 3640 | Rake 0 
+Board [Ts 2d 2h Qc]
+Seat 1: stevew91 (small blind) folded on the Turn
+Seat 2: VicaS96 (big blind) folded on the Turn
+Seat 3: brilliant402 folded on the Turn
+Seat 4: Thetop1611 folded before Flop (didn't bet)
+Seat 5: smak1n folded before Flop (didn't bet)
+Seat 6: Bahuans2 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (3640)
+Seat 8: ruairidh93 (button) folded on the Turn
+
+
+
+PokerStars Hand #254877470326: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XII (300/600) - 2025/02/15 15:09:34 WET [2025/02/15 10:09:34 ET]
+Table '3856223634 66' 8-max Seat #1 is the button
+Seat 1: stevew91 (4489 in chips) 
+Seat 2: VicaS96 (9900 in chips) 
+Seat 3: brilliant402 (9100 in chips) 
+Seat 4: Thetop1611 (44167 in chips) 
+Seat 5: smak1n (9680 in chips) 
+Seat 6: Bahuans2 (21033 in chips) 
+Seat 7: Kevin12345Mc (13893 in chips) 
+Seat 8: ruairidh93 (14710 in chips) 
+stevew91: posts the ante 80
+VicaS96: posts the ante 80
+brilliant402: posts the ante 80
+Thetop1611: posts the ante 80
+smak1n: posts the ante 80
+Bahuans2: posts the ante 80
+Kevin12345Mc: posts the ante 80
+ruairidh93: posts the ante 80
+VicaS96: posts small blind 300
+brilliant402: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 4c]
+Thetop1611: folds 
+smak1n: folds 
+Bahuans2: raises 600 to 1200
+Kevin12345Mc: calls 1200
+ruairidh93: folds 
+stevew91: folds 
+VicaS96: folds 
+brilliant402: folds 
+*** FLOP *** [Qh 7s 8d]
+Bahuans2: bets 1300
+Kevin12345Mc: folds 
+Uncalled bet (1300) returned to Bahuans2
+Bahuans2 collected 3940 from pot
+Bahuans2: doesn't show hand 
+*** SUMMARY ***
+Total pot 3940 | Rake 0 
+Board [Qh 7s 8d]
+Seat 1: stevew91 (button) folded before Flop (didn't bet)
+Seat 2: VicaS96 (small blind) folded before Flop
+Seat 3: brilliant402 (big blind) folded before Flop
+Seat 4: Thetop1611 folded before Flop (didn't bet)
+Seat 5: smak1n folded before Flop (didn't bet)
+Seat 6: Bahuans2 collected (3940)
+Seat 7: Kevin12345Mc folded on the Flop
+Seat 8: ruairidh93 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254877481132: Tournament #3856223634, $2.94+$0.36 USD Hold'em No Limit - Level XII (300/600) - 2025/02/15 15:10:27 WET [2025/02/15 10:10:27 ET]
+Table '3856223634 66' 8-max Seat #2 is the button
+Seat 1: stevew91 (4409 in chips) 
+Seat 2: VicaS96 (9520 in chips) 
+Seat 3: brilliant402 (8420 in chips) 
+Seat 4: Thetop1611 (44087 in chips) 
+Seat 5: smak1n (9600 in chips) 
+Seat 6: Bahuans2 (23693 in chips) 
+Seat 7: Kevin12345Mc (12613 in chips) 
+Seat 8: ruairidh93 (14630 in chips) 
+stevew91: posts the ante 80
+VicaS96: posts the ante 80
+brilliant402: posts the ante 80
+Thetop1611: posts the ante 80
+smak1n: posts the ante 80
+Bahuans2: posts the ante 80
+Kevin12345Mc: posts the ante 80
+ruairidh93: posts the ante 80
+brilliant402: posts small blind 300
+Thetop1611: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Jc]
+smak1n: folds 
+Bahuans2: raises 600 to 1200
+Kevin12345Mc: raises 11333 to 12533 and is all-in
+ruairidh93: folds 
+stevew91: folds 
+VicaS96: folds 
+brilliant402: folds 
+Thetop1611: folds 
+Bahuans2: calls 11333
+*** FLOP *** [2h Td 5d]
+*** TURN *** [2h Td 5d] [2s]
+*** RIVER *** [2h Td 5d 2s] [3c]
+*** SHOW DOWN ***
+Bahuans2: shows [As Qh] (a pair of Deuces)
+Kevin12345Mc: shows [Kc Jc] (a pair of Deuces - lower kicker)
+Bahuans2 collected 26606 from pot
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 26606 | Rake 0 
+Board [2h Td 5d 2s 3c]
+Seat 1: stevew91 folded before Flop (didn't bet)
+Seat 2: VicaS96 (button) folded before Flop (didn't bet)
+Seat 3: brilliant402 (small blind) folded before Flop
+Seat 4: Thetop1611 (big blind) folded before Flop
+Seat 5: smak1n folded before Flop (didn't bet)
+Seat 6: Bahuans2 showed [As Qh] and won (26606) with a pair of Deuces
+Seat 7: Kevin12345Mc showed [Kc Jc] and lost with a pair of Deuces
+Seat 8: ruairidh93 folded before Flop (didn't bet)
+
+
+

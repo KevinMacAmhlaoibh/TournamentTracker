@@ -1,0 +1,575 @@
+﻿PokerStars Hand #254669349901: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/02 14:27:07 WET [2025/02/02 9:27:07 ET]
+Table '3854365961 1' 3-max Seat #1 is the button
+Seat 1: Schmiesen (500 in chips) 
+Seat 2: bruceh42 (500 in chips) 
+Seat 3: Kevin12345Mc (500 in chips) 
+bruceh42: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 4d]
+Schmiesen: folds 
+bruceh42: calls 10
+Kevin12345Mc: checks 
+*** FLOP *** [9s 8h 3s]
+bruceh42: bets 40
+Kevin12345Mc: folds 
+Uncalled bet (40) returned to bruceh42
+bruceh42 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [9s 8h 3s]
+Seat 1: Schmiesen (button) folded before Flop (didn't bet)
+Seat 2: bruceh42 (small blind) collected (40)
+Seat 3: Kevin12345Mc (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254669352170: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/02 14:27:18 WET [2025/02/02 9:27:18 ET]
+Table '3854365961 1' 3-max Seat #2 is the button
+Seat 1: Schmiesen (500 in chips) 
+Seat 2: bruceh42 (520 in chips) 
+Seat 3: Kevin12345Mc (480 in chips) 
+Kevin12345Mc: posts small blind 10
+Schmiesen: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 6c]
+bruceh42: calls 20
+Kevin12345Mc: folds 
+Schmiesen: checks 
+*** FLOP *** [3c 2c Kc]
+Schmiesen: checks 
+bruceh42: bets 20
+Schmiesen: calls 20
+*** TURN *** [3c 2c Kc] [7s]
+Schmiesen: checks 
+bruceh42: bets 480 and is all-in
+Schmiesen: calls 460 and is all-in
+Uncalled bet (20) returned to bruceh42
+*** RIVER *** [3c 2c Kc 7s] [8s]
+*** SHOW DOWN ***
+Schmiesen: shows [Jc 5c] (a flush, King high)
+bruceh42: shows [Kd Jd] (a pair of Kings)
+Schmiesen collected 1010 from pot
+*** SUMMARY ***
+Total pot 1010 | Rake 0 
+Board [3c 2c Kc 7s 8s]
+Seat 1: Schmiesen (big blind) showed [Jc 5c] and won (1010) with a flush, King high
+Seat 2: bruceh42 (button) showed [Kd Jd] and lost with a pair of Kings
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254669357514: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/02 14:27:45 WET [2025/02/02 9:27:45 ET]
+Table '3854365961 1' 3-max Seat #3 is the button
+Seat 1: Schmiesen (1010 in chips) 
+Seat 2: bruceh42 (20 in chips) 
+Seat 3: Kevin12345Mc (470 in chips) 
+Schmiesen: posts small blind 10
+bruceh42: posts big blind 20 and is all-in
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 6h]
+Kevin12345Mc: folds 
+Schmiesen: calls 10
+*** FLOP *** [Ks Qd Ts]
+*** TURN *** [Ks Qd Ts] [4h]
+*** RIVER *** [Ks Qd Ts 4h] [8d]
+*** SHOW DOWN ***
+Schmiesen: shows [7s Th] (a pair of Tens)
+bruceh42: shows [Jh Kc] (a pair of Kings)
+bruceh42 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [Ks Qd Ts 4h 8d]
+Seat 1: Schmiesen (small blind) showed [7s Th] and lost with a pair of Tens
+Seat 2: bruceh42 (big blind) showed [Jh Kc] and won (40) with a pair of Kings
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254669360253: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/02 14:27:59 WET [2025/02/02 9:27:59 ET]
+Table '3854365961 1' 3-max Seat #1 is the button
+Seat 1: Schmiesen (990 in chips) 
+Seat 2: bruceh42 (40 in chips) 
+Seat 3: Kevin12345Mc (470 in chips) 
+bruceh42: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Ac]
+Schmiesen: raises 20 to 40
+bruceh42: calls 30 and is all-in
+Kevin12345Mc: calls 20
+*** FLOP *** [4s 6h Ks]
+Kevin12345Mc: checks 
+Schmiesen: checks 
+*** TURN *** [4s 6h Ks] [6c]
+Kevin12345Mc: checks 
+Schmiesen: bets 36
+Kevin12345Mc: calls 36
+*** RIVER *** [4s 6h Ks 6c] [4c]
+Kevin12345Mc: checks 
+Schmiesen: bets 58
+Kevin12345Mc: calls 58
+*** SHOW DOWN ***
+Schmiesen: shows [Kc Kh] (a full house, Kings full of Sixes)
+Kevin12345Mc: mucks hand 
+Schmiesen collected 188 from side pot
+bruceh42: mucks hand 
+Schmiesen collected 120 from main pot
+bruceh42 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 308 Main pot 120. Side pot 188. | Rake 0 
+Board [4s 6h Ks 6c 4c]
+Seat 1: Schmiesen (button) showed [Kc Kh] and won (308) with a full house, Kings full of Sixes
+Seat 2: bruceh42 (small blind) mucked [2c Tc]
+Seat 3: Kevin12345Mc (big blind) mucked [7h Ac]
+
+
+
+PokerStars Hand #254669368674: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/02 14:28:41 WET [2025/02/02 9:28:41 ET]
+Table '3854365961 1' 3-max Seat #3 is the button
+Seat 1: Schmiesen (1164 in chips) 
+Seat 3: Kevin12345Mc (336 in chips) 
+Kevin12345Mc: posts small blind 10
+Schmiesen: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Td]
+Kevin12345Mc: calls 10
+Schmiesen: raises 22 to 42
+Kevin12345Mc: folds 
+Uncalled bet (22) returned to Schmiesen
+Schmiesen collected 40 from pot
+Schmiesen: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Schmiesen (big blind) collected (40)
+Seat 3: Kevin12345Mc (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254669370944: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/02 14:28:52 WET [2025/02/02 9:28:52 ET]
+Table '3854365961 1' 3-max Seat #1 is the button
+Seat 1: Schmiesen (1184 in chips) 
+Seat 3: Kevin12345Mc (316 in chips) 
+Schmiesen: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh Tc]
+Schmiesen: raises 20 to 40
+Kevin12345Mc: calls 20
+*** FLOP *** [3h 7d 6s]
+Kevin12345Mc: checks 
+Schmiesen: checks 
+*** TURN *** [3h 7d 6s] [Qh]
+Kevin12345Mc: checks 
+Schmiesen: checks 
+*** RIVER *** [3h 7d 6s Qh] [7h]
+Kevin12345Mc: checks 
+Schmiesen: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Kh Tc] (a pair of Sevens)
+Schmiesen: mucks hand 
+Kevin12345Mc collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [3h 7d 6s Qh 7h]
+Seat 1: Schmiesen (button) (small blind) mucked [9d Kd]
+Seat 3: Kevin12345Mc (big blind) showed [Kh Tc] and won (80) with a pair of Sevens
+
+
+
+PokerStars Hand #254669378127: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 14:29:29 WET [2025/02/02 9:29:29 ET]
+Table '3854365961 1' 3-max Seat #3 is the button
+Seat 1: Schmiesen (1144 in chips) 
+Seat 3: Kevin12345Mc (356 in chips) 
+Kevin12345Mc: posts small blind 15
+Schmiesen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Ts]
+Kevin12345Mc: calls 15
+Schmiesen: raises 46 to 76
+Kevin12345Mc: calls 46
+*** FLOP *** [Qd Ac 3s]
+Schmiesen: checks 
+Kevin12345Mc: checks 
+*** TURN *** [Qd Ac 3s] [7h]
+Schmiesen: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Qd Ac 3s 7h] [9s]
+Schmiesen: bets 102
+Kevin12345Mc: folds 
+Uncalled bet (102) returned to Schmiesen
+Schmiesen collected 152 from pot
+Schmiesen: doesn't show hand 
+*** SUMMARY ***
+Total pot 152 | Rake 0 
+Board [Qd Ac 3s 7h 9s]
+Seat 1: Schmiesen (big blind) collected (152)
+Seat 3: Kevin12345Mc (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #254669381869: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 14:29:48 WET [2025/02/02 9:29:48 ET]
+Table '3854365961 1' 3-max Seat #1 is the button
+Seat 1: Schmiesen (1220 in chips) 
+Seat 3: Kevin12345Mc (280 in chips) 
+Schmiesen: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Js]
+Schmiesen: folds 
+Uncalled bet (15) returned to Kevin12345Mc
+Kevin12345Mc collected 30 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Schmiesen (button) (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) collected (30)
+
+
+
+PokerStars Hand #254669383421: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 14:29:54 WET [2025/02/02 9:29:54 ET]
+Table '3854365961 1' 3-max Seat #3 is the button
+Seat 1: Schmiesen (1205 in chips) 
+Seat 3: Kevin12345Mc (295 in chips) 
+Kevin12345Mc: posts small blind 15
+Schmiesen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Th]
+Kevin12345Mc: calls 15
+Schmiesen: raises 46 to 76
+Kevin12345Mc: folds 
+Uncalled bet (46) returned to Schmiesen
+Schmiesen collected 60 from pot
+Schmiesen: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: Schmiesen (big blind) collected (60)
+Seat 3: Kevin12345Mc (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254669384977: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 14:30:02 WET [2025/02/02 9:30:02 ET]
+Table '3854365961 1' 3-max Seat #1 is the button
+Seat 1: Schmiesen (1235 in chips) 
+Seat 3: Kevin12345Mc (265 in chips) 
+Schmiesen: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 3c]
+Schmiesen: raises 30 to 60
+Kevin12345Mc: raises 205 to 265 and is all-in
+Schmiesen: folds 
+Uncalled bet (205) returned to Kevin12345Mc
+Kevin12345Mc collected 120 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: Schmiesen (button) (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) collected (120)
+
+
+
+PokerStars Hand #254669386449: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 14:30:09 WET [2025/02/02 9:30:09 ET]
+Table '3854365961 1' 3-max Seat #3 is the button
+Seat 1: Schmiesen (1175 in chips) 
+Seat 3: Kevin12345Mc (325 in chips) 
+Kevin12345Mc: posts small blind 15
+Schmiesen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 8c]
+Kevin12345Mc: folds 
+Uncalled bet (15) returned to Schmiesen
+Schmiesen collected 30 from pot
+Schmiesen: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Schmiesen (big blind) collected (30)
+Seat 3: Kevin12345Mc (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254669387652: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 14:30:15 WET [2025/02/02 9:30:15 ET]
+Table '3854365961 1' 3-max Seat #1 is the button
+Seat 1: Schmiesen (1190 in chips) 
+Seat 3: Kevin12345Mc (310 in chips) 
+Schmiesen: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 9d]
+Schmiesen: raises 30 to 60
+Kevin12345Mc: calls 30
+*** FLOP *** [7d Ad 3d]
+Kevin12345Mc: checks 
+Schmiesen: bets 36
+Kevin12345Mc: calls 36
+*** TURN *** [7d Ad 3d] [4h]
+Kevin12345Mc: checks 
+Schmiesen: checks 
+*** RIVER *** [7d Ad 3d 4h] [Td]
+Kevin12345Mc: bets 214 and is all-in
+Schmiesen: folds 
+Uncalled bet (214) returned to Kevin12345Mc
+Kevin12345Mc collected 192 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 192 | Rake 0 
+Board [7d Ad 3d 4h Td]
+Seat 1: Schmiesen (button) (small blind) folded on the River
+Seat 3: Kevin12345Mc (big blind) collected (192)
+
+
+
+PokerStars Hand #254669392778: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 14:30:40 WET [2025/02/02 9:30:40 ET]
+Table '3854365961 1' 3-max Seat #3 is the button
+Seat 1: Schmiesen (1094 in chips) 
+Seat 3: Kevin12345Mc (406 in chips) 
+Kevin12345Mc: posts small blind 15
+Schmiesen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 3c]
+Kevin12345Mc: folds 
+Uncalled bet (15) returned to Schmiesen
+Schmiesen collected 30 from pot
+Schmiesen: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Schmiesen (big blind) collected (30)
+Seat 3: Kevin12345Mc (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254669393856: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 14:30:45 WET [2025/02/02 9:30:45 ET]
+Table '3854365961 1' 3-max Seat #1 is the button
+Seat 1: Schmiesen (1109 in chips) 
+Seat 3: Kevin12345Mc (391 in chips) 
+Schmiesen: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Jc]
+Schmiesen: folds 
+Uncalled bet (15) returned to Kevin12345Mc
+Kevin12345Mc collected 30 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Schmiesen (button) (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) collected (30)
+
+
+
+PokerStars Hand #254669394568: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/02 14:30:49 WET [2025/02/02 9:30:49 ET]
+Table '3854365961 1' 3-max Seat #3 is the button
+Seat 1: Schmiesen (1094 in chips) 
+Seat 3: Kevin12345Mc (406 in chips) 
+Kevin12345Mc: posts small blind 15
+Schmiesen: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Js]
+Kevin12345Mc: calls 15
+Schmiesen: checks 
+*** FLOP *** [Th 8s 4d]
+Schmiesen: checks 
+Kevin12345Mc: checks 
+*** TURN *** [Th 8s 4d] [Kd]
+Schmiesen: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Th 8s 4d Kd] [8d]
+Schmiesen: bets 30
+Kevin12345Mc: folds 
+Uncalled bet (30) returned to Schmiesen
+Schmiesen collected 60 from pot
+Schmiesen: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Th 8s 4d Kd 8d]
+Seat 1: Schmiesen (big blind) collected (60)
+Seat 3: Kevin12345Mc (button) (small blind) folded on the River
+
+
+
+PokerStars Hand #254669399805: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 14:31:14 WET [2025/02/02 9:31:14 ET]
+Table '3854365961 1' 3-max Seat #1 is the button
+Seat 1: Schmiesen (1124 in chips) 
+Seat 3: Kevin12345Mc (376 in chips) 
+Schmiesen: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s Th]
+Schmiesen: raises 40 to 80
+Kevin12345Mc: folds 
+Uncalled bet (40) returned to Schmiesen
+Schmiesen collected 80 from pot
+Schmiesen: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Schmiesen (button) (small blind) collected (80)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254669400947: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 14:31:19 WET [2025/02/02 9:31:19 ET]
+Table '3854365961 1' 3-max Seat #3 is the button
+Seat 1: Schmiesen (1164 in chips) 
+Seat 3: Kevin12345Mc (336 in chips) 
+Kevin12345Mc: posts small blind 20
+Schmiesen: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd Qh]
+Kevin12345Mc: raises 40 to 80
+Schmiesen: calls 40
+*** FLOP *** [4c 6d Qd]
+Schmiesen: checks 
+Kevin12345Mc: bets 53
+Schmiesen: folds 
+Uncalled bet (53) returned to Kevin12345Mc
+Kevin12345Mc collected 160 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [4c 6d Qd]
+Seat 1: Schmiesen (big blind) folded on the Flop
+Seat 3: Kevin12345Mc (button) (small blind) collected (160)
+
+
+
+PokerStars Hand #254669404483: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 14:31:36 WET [2025/02/02 9:31:36 ET]
+Table '3854365961 1' 3-max Seat #1 is the button
+Seat 1: Schmiesen (1084 in chips) 
+Seat 3: Kevin12345Mc (416 in chips) 
+Schmiesen: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Qh]
+Schmiesen: raises 40 to 80
+Kevin12345Mc: raises 336 to 416 and is all-in
+Schmiesen: folds 
+Uncalled bet (336) returned to Kevin12345Mc
+Kevin12345Mc collected 160 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Seat 1: Schmiesen (button) (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) collected (160)
+
+
+
+PokerStars Hand #254669406764: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 14:31:47 WET [2025/02/02 9:31:47 ET]
+Table '3854365961 1' 3-max Seat #3 is the button
+Seat 1: Schmiesen (1004 in chips) 
+Seat 3: Kevin12345Mc (496 in chips) 
+Kevin12345Mc: posts small blind 20
+Schmiesen: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Ad]
+Kevin12345Mc: raises 40 to 80
+Schmiesen: folds 
+Uncalled bet (40) returned to Kevin12345Mc
+Kevin12345Mc collected 80 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Schmiesen (big blind) folded before Flop
+Seat 3: Kevin12345Mc (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #254669408064: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 14:31:53 WET [2025/02/02 9:31:53 ET]
+Table '3854365961 1' 3-max Seat #1 is the button
+Seat 1: Schmiesen (964 in chips) 
+Seat 3: Kevin12345Mc (536 in chips) 
+Schmiesen: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Kc]
+Schmiesen: folds 
+Uncalled bet (20) returned to Kevin12345Mc
+Kevin12345Mc collected 40 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Schmiesen (button) (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) collected (40)
+
+
+
+PokerStars Hand #254669408729: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 14:31:57 WET [2025/02/02 9:31:57 ET]
+Table '3854365961 1' 3-max Seat #3 is the button
+Seat 1: Schmiesen (944 in chips) 
+Seat 3: Kevin12345Mc (556 in chips) 
+Kevin12345Mc: posts small blind 20
+Schmiesen: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 3s]
+Kevin12345Mc: calls 20
+Schmiesen: checks 
+*** FLOP *** [8s Qc 4d]
+Schmiesen: checks 
+Kevin12345Mc: bets 40
+Schmiesen: folds 
+Uncalled bet (40) returned to Kevin12345Mc
+Kevin12345Mc collected 80 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [8s Qc 4d]
+Seat 1: Schmiesen (big blind) folded on the Flop
+Seat 3: Kevin12345Mc (button) (small blind) collected (80)
+
+
+
+PokerStars Hand #254669411276: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 14:32:09 WET [2025/02/02 9:32:09 ET]
+Table '3854365961 1' 3-max Seat #1 is the button
+Seat 1: Schmiesen (904 in chips) 
+Seat 3: Kevin12345Mc (596 in chips) 
+Schmiesen: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 5c]
+Schmiesen: raises 40 to 80
+Kevin12345Mc: folds 
+Uncalled bet (40) returned to Schmiesen
+Schmiesen collected 80 from pot
+Schmiesen: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: Schmiesen (button) (small blind) collected (80)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254669412246: Tournament #3854365961, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/02 14:32:13 WET [2025/02/02 9:32:13 ET]
+Table '3854365961 1' 3-max Seat #3 is the button
+Seat 1: Schmiesen (944 in chips) 
+Seat 3: Kevin12345Mc (556 in chips) 
+Kevin12345Mc: posts small blind 20
+Schmiesen: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 6d]
+Kevin12345Mc: calls 20
+Schmiesen: checks 
+*** FLOP *** [9s 8d 3d]
+Schmiesen: checks 
+Kevin12345Mc: bets 40
+Schmiesen: calls 40
+*** TURN *** [9s 8d 3d] [3c]
+Schmiesen: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [9s 8d 3d 3c] [7d]
+Schmiesen: checks 
+Kevin12345Mc: bets 476 and is all-in
+Schmiesen: calls 476
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Kh 6d] (a pair of Threes)
+Schmiesen: shows [Qc 3h] (three of a kind, Threes)
+Schmiesen collected 1112 from pot
+Kevin12345Mc finished the tournament in 2nd place
+Schmiesen wins the tournament - congratulations!
+Schmiesen wins a '$1.00 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 1112 | Rake 0 
+Board [9s 8d 3d 3c 7d]
+Seat 1: Schmiesen (big blind) showed [Qc 3h] and won (1112) with three of a kind, Threes
+Seat 3: Kevin12345Mc (button) (small blind) showed [Kh 6d] and lost with a pair of Threes
+
+
+

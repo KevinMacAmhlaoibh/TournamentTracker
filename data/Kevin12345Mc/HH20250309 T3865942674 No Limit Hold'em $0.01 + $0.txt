@@ -1,0 +1,325 @@
+﻿PokerStars Hand #255213920196: Tournament #3865942674, $0.01+$0.00 USD Hold'em No Limit - Level IV (100/200) - 2025/03/09 19:18:44 WET [2025/03/09 15:18:44 ET]
+Table '3865942674 14' 9-max Seat #8 is the button
+Seat 1: poigne (6612 in chips) 
+Seat 2: stevenbuk12 (5819 in chips) 
+Seat 3: gelermo (23096 in chips) 
+Seat 4: 4Ace1987 (3753 in chips) 
+Seat 5: Gary_Nicol (3930 in chips) 
+Seat 6: Kevin12345Mc (5000 in chips) 
+Seat 7: caranha42kg (5926 in chips) 
+Seat 8: Renaan (9014 in chips) 
+Seat 9: jcloth74 (3773 in chips) 
+poigne: posts the ante 25
+stevenbuk12: posts the ante 25
+gelermo: posts the ante 25
+4Ace1987: posts the ante 25
+Gary_Nicol: posts the ante 25
+Kevin12345Mc: posts the ante 25
+caranha42kg: posts the ante 25
+Renaan: posts the ante 25
+jcloth74: posts the ante 25
+jcloth74: posts small blind 100
+poigne: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 6h]
+stevenbuk12: folds 
+gelermo: folds 
+4Ace1987: folds 
+Gary_Nicol: folds 
+Kevin12345Mc: folds 
+caranha42kg: raises 725 to 925
+Renaan: folds 
+jcloth74: raises 2823 to 3748 and is all-in
+poigne: raises 2839 to 6587 and is all-in
+caranha42kg: folds 
+Uncalled bet (2839) returned to poigne
+*** FLOP *** [4c Qh 6c]
+*** TURN *** [4c Qh 6c] [5d]
+*** RIVER *** [4c Qh 6c 5d] [6d]
+*** SHOW DOWN ***
+jcloth74: shows [3c Ah] (a pair of Sixes)
+poigne: shows [Js Ac] (a pair of Sixes - Ace+Queen+Jack kicker)
+poigne collected 8646 from pot
+jcloth74 finished the tournament
+*** SUMMARY ***
+Total pot 8646 | Rake 0 
+Board [4c Qh 6c 5d 6d]
+Seat 1: poigne (big blind) showed [Js Ac] and won (8646) with a pair of Sixes
+Seat 2: stevenbuk12 folded before Flop (didn't bet)
+Seat 3: gelermo folded before Flop (didn't bet)
+Seat 4: 4Ace1987 folded before Flop (didn't bet)
+Seat 5: Gary_Nicol folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: caranha42kg folded before Flop
+Seat 8: Renaan (button) folded before Flop (didn't bet)
+Seat 9: jcloth74 (small blind) showed [3c Ah] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #255213933505: Tournament #3865942674, $0.01+$0.00 USD Hold'em No Limit - Level IV (100/200) - 2025/03/09 19:19:22 WET [2025/03/09 15:19:22 ET]
+Table '3865942674 14' 9-max Seat #1 is the button
+Seat 1: poigne (11485 in chips) 
+Seat 2: stevenbuk12 (5794 in chips) 
+Seat 3: gelermo (23071 in chips) 
+Seat 4: 4Ace1987 (3728 in chips) 
+Seat 5: Gary_Nicol (3905 in chips) 
+Seat 6: Kevin12345Mc (4975 in chips) 
+Seat 7: caranha42kg (4976 in chips) 
+Seat 8: Renaan (8989 in chips) 
+poigne: posts the ante 25
+stevenbuk12: posts the ante 25
+gelermo: posts the ante 25
+4Ace1987: posts the ante 25
+Gary_Nicol: posts the ante 25
+Kevin12345Mc: posts the ante 25
+caranha42kg: posts the ante 25
+Renaan: posts the ante 25
+stevenbuk12: posts small blind 100
+gelermo: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Td]
+4Ace1987: folds 
+Gary_Nicol: folds 
+Kevin12345Mc: raises 200 to 400
+caranha42kg: folds 
+Renaan: folds 
+poigne: folds 
+stevenbuk12: folds 
+gelermo: folds 
+Uncalled bet (200) returned to Kevin12345Mc
+Kevin12345Mc collected 700 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: poigne (button) folded before Flop (didn't bet)
+Seat 2: stevenbuk12 (small blind) folded before Flop
+Seat 3: gelermo (big blind) folded before Flop
+Seat 4: 4Ace1987 folded before Flop (didn't bet)
+Seat 5: Gary_Nicol folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc collected (700)
+Seat 7: caranha42kg folded before Flop (didn't bet)
+Seat 8: Renaan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255213942242: Tournament #3865942674, $0.01+$0.00 USD Hold'em No Limit - Level IV (100/200) - 2025/03/09 19:19:46 WET [2025/03/09 15:19:46 ET]
+Table '3865942674 14' 9-max Seat #2 is the button
+Seat 1: poigne (11460 in chips) 
+Seat 2: stevenbuk12 (5669 in chips) 
+Seat 3: gelermo (22846 in chips) 
+Seat 4: 4Ace1987 (3703 in chips) 
+Seat 5: Gary_Nicol (3880 in chips) 
+Seat 6: Kevin12345Mc (5450 in chips) 
+Seat 7: caranha42kg (4951 in chips) 
+Seat 8: Renaan (8964 in chips) 
+poigne: posts the ante 25
+stevenbuk12: posts the ante 25
+gelermo: posts the ante 25
+4Ace1987: posts the ante 25
+Gary_Nicol: posts the ante 25
+Kevin12345Mc: posts the ante 25
+caranha42kg: posts the ante 25
+Renaan: posts the ante 25
+gelermo: posts small blind 100
+4Ace1987: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 9c]
+Gary_Nicol: raises 3655 to 3855 and is all-in
+Kevin12345Mc: folds 
+caranha42kg: folds 
+Renaan: folds 
+poigne: folds 
+stevenbuk12: folds 
+gelermo: folds 
+4Ace1987: folds 
+Uncalled bet (3655) returned to Gary_Nicol
+Gary_Nicol collected 700 from pot
+Gary_Nicol: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: poigne folded before Flop (didn't bet)
+Seat 2: stevenbuk12 (button) folded before Flop (didn't bet)
+Seat 3: gelermo (small blind) folded before Flop
+Seat 4: 4Ace1987 (big blind) folded before Flop
+Seat 5: Gary_Nicol collected (700)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: caranha42kg folded before Flop (didn't bet)
+Seat 8: Renaan folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255213951636: Tournament #3865942674, $0.01+$0.00 USD Hold'em No Limit - Level V (150/300) - 2025/03/09 19:20:13 WET [2025/03/09 15:20:13 ET]
+Table '3865942674 14' 9-max Seat #3 is the button
+Seat 1: poigne (11435 in chips) 
+Seat 2: stevenbuk12 (5644 in chips) 
+Seat 3: gelermo (22721 in chips) 
+Seat 4: 4Ace1987 (3478 in chips) 
+Seat 5: Gary_Nicol (4355 in chips) 
+Seat 6: Kevin12345Mc (5425 in chips) 
+Seat 7: caranha42kg (4926 in chips) 
+Seat 8: Renaan (8939 in chips) 
+Seat 9: FELJA555 (22450 in chips) 
+poigne: posts the ante 40
+stevenbuk12: posts the ante 40
+gelermo: posts the ante 40
+4Ace1987: posts the ante 40
+Gary_Nicol: posts the ante 40
+Kevin12345Mc: posts the ante 40
+caranha42kg: posts the ante 40
+Renaan: posts the ante 40
+FELJA555: posts the ante 40
+4Ace1987: posts small blind 150
+Gary_Nicol: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 7h]
+Kevin12345Mc: folds 
+caranha42kg: calls 300
+Renaan: folds 
+FELJA555: folds 
+poigne: folds 
+stevenbuk12: folds 
+gelermo: folds 
+4Ace1987: folds 
+Gary_Nicol: checks 
+*** FLOP *** [Ad 3h Js]
+Gary_Nicol: checks 
+caranha42kg: checks 
+*** TURN *** [Ad 3h Js] [As]
+Gary_Nicol: checks 
+caranha42kg: bets 555
+Gary_Nicol: folds 
+Uncalled bet (555) returned to caranha42kg
+caranha42kg collected 1110 from pot
+caranha42kg: doesn't show hand 
+*** SUMMARY ***
+Total pot 1110 | Rake 0 
+Board [Ad 3h Js As]
+Seat 1: poigne folded before Flop (didn't bet)
+Seat 2: stevenbuk12 folded before Flop (didn't bet)
+Seat 3: gelermo (button) folded before Flop (didn't bet)
+Seat 4: 4Ace1987 (small blind) folded before Flop
+Seat 5: Gary_Nicol (big blind) folded on the Turn
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: caranha42kg collected (1110)
+Seat 8: Renaan folded before Flop (didn't bet)
+Seat 9: FELJA555 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255213968580: Tournament #3865942674, $0.01+$0.00 USD Hold'em No Limit - Level V (150/300) - 2025/03/09 19:21:02 WET [2025/03/09 15:21:02 ET]
+Table '3865942674 14' 9-max Seat #4 is the button
+Seat 1: poigne (11395 in chips) 
+Seat 2: stevenbuk12 (5604 in chips) 
+Seat 3: gelermo (22681 in chips) 
+Seat 4: 4Ace1987 (3288 in chips) 
+Seat 5: Gary_Nicol (4015 in chips) 
+Seat 6: Kevin12345Mc (5385 in chips) 
+Seat 7: caranha42kg (5696 in chips) 
+Seat 8: Renaan (8899 in chips) 
+Seat 9: FELJA555 (22410 in chips) 
+poigne: posts the ante 40
+stevenbuk12: posts the ante 40
+gelermo: posts the ante 40
+4Ace1987: posts the ante 40
+Gary_Nicol: posts the ante 40
+Kevin12345Mc: posts the ante 40
+caranha42kg: posts the ante 40
+Renaan: posts the ante 40
+FELJA555: posts the ante 40
+Gary_Nicol: posts small blind 150
+Kevin12345Mc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 6s]
+caranha42kg: calls 300
+Renaan: folds 
+FELJA555: folds 
+poigne: folds 
+stevenbuk12: folds 
+gelermo: calls 300
+4Ace1987: folds 
+Gary_Nicol: raises 3675 to 3975 and is all-in
+Kevin12345Mc: raises 1370 to 5345 and is all-in
+caranha42kg: folds 
+gelermo: folds 
+Uncalled bet (1370) returned to Kevin12345Mc
+*** FLOP *** [2s 7c Tc]
+*** TURN *** [2s 7c Tc] [As]
+*** RIVER *** [2s 7c Tc As] [Qs]
+*** SHOW DOWN ***
+Gary_Nicol: shows [Kh Js] (a straight, Ten to Ace)
+Kevin12345Mc: shows [6c 6s] (a pair of Sixes)
+Gary_Nicol collected 8910 from pot
+*** SUMMARY ***
+Total pot 8910 | Rake 0 
+Board [2s 7c Tc As Qs]
+Seat 1: poigne folded before Flop (didn't bet)
+Seat 2: stevenbuk12 folded before Flop (didn't bet)
+Seat 3: gelermo folded before Flop
+Seat 4: 4Ace1987 (button) folded before Flop (didn't bet)
+Seat 5: Gary_Nicol (small blind) showed [Kh Js] and won (8910) with a straight, Ten to Ace
+Seat 6: Kevin12345Mc (big blind) showed [6c 6s] and lost with a pair of Sixes
+Seat 7: caranha42kg folded before Flop
+Seat 8: Renaan folded before Flop (didn't bet)
+Seat 9: FELJA555 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255213979355: Tournament #3865942674, $0.01+$0.00 USD Hold'em No Limit - Level V (150/300) - 2025/03/09 19:21:32 WET [2025/03/09 15:21:32 ET]
+Table '3865942674 14' 9-max Seat #5 is the button
+Seat 1: poigne (11355 in chips) 
+Seat 2: stevenbuk12 (5564 in chips) 
+Seat 3: gelermo (22341 in chips) 
+Seat 4: 4Ace1987 (3248 in chips) 
+Seat 5: Gary_Nicol (8910 in chips) 
+Seat 6: Kevin12345Mc (1370 in chips) 
+Seat 7: caranha42kg (5356 in chips) 
+Seat 8: Renaan (8859 in chips) 
+Seat 9: FELJA555 (22370 in chips) 
+poigne: posts the ante 40
+stevenbuk12: posts the ante 40
+gelermo: posts the ante 40
+4Ace1987: posts the ante 40
+Gary_Nicol: posts the ante 40
+Kevin12345Mc: posts the ante 40
+caranha42kg: posts the ante 40
+Renaan: posts the ante 40
+FELJA555: posts the ante 40
+Kevin12345Mc: posts small blind 150
+caranha42kg: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd Td]
+Renaan: raises 300 to 600
+FELJA555: folds 
+poigne: folds 
+stevenbuk12: folds 
+gelermo: folds 
+4Ace1987: folds 
+Gary_Nicol: folds 
+Kevin12345Mc: raises 730 to 1330 and is all-in
+caranha42kg: calls 1030
+Renaan: raises 7489 to 8819 and is all-in
+caranha42kg: folds 
+Uncalled bet (7489) returned to Renaan
+*** FLOP *** [6h Ks 5c]
+*** TURN *** [6h Ks 5c] [6s]
+*** RIVER *** [6h Ks 5c 6s] [Ah]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Jd Td] (a pair of Sixes)
+Renaan: shows [Kc Ac] (two pair, Aces and Kings)
+Renaan collected 4350 from pot
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 4350 | Rake 0 
+Board [6h Ks 5c 6s Ah]
+Seat 1: poigne folded before Flop (didn't bet)
+Seat 2: stevenbuk12 folded before Flop (didn't bet)
+Seat 3: gelermo folded before Flop (didn't bet)
+Seat 4: 4Ace1987 folded before Flop (didn't bet)
+Seat 5: Gary_Nicol (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) showed [Jd Td] and lost with a pair of Sixes
+Seat 7: caranha42kg (big blind) folded before Flop
+Seat 8: Renaan showed [Kc Ac] and won (4350) with two pair, Aces and Kings
+Seat 9: FELJA555 folded before Flop (didn't bet)
+
+
+

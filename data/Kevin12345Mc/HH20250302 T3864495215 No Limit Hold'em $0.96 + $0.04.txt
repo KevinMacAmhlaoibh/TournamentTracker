@@ -1,0 +1,98 @@
+﻿PokerStars Hand #255102105336: Tournament #3864495215, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/03/02 11:08:43 WET [2025/03/02 6:08:43 ET]
+Table '3864495215 4' 4-max Seat #1 is the button
+Seat 1: SorryWut (500 in chips) 
+Seat 2: lucassgom (500 in chips) 
+Seat 3: Kevin12345Mc (500 in chips) 
+Seat 4: AndyMy (500 in chips) 
+SorryWut: posts the ante 10
+lucassgom: posts the ante 10
+Kevin12345Mc: posts the ante 10
+AndyMy: posts the ante 10
+lucassgom: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 2c]
+AndyMy: calls 50
+SorryWut: raises 440 to 490 and is all-in
+lucassgom: folds 
+Kevin12345Mc: folds 
+AndyMy: calls 440 and is all-in
+*** FLOP *** [Jc Th Kh]
+*** TURN *** [Jc Th Kh] [4d]
+*** RIVER *** [Jc Th Kh 4d] [7d]
+*** SHOW DOWN ***
+AndyMy: shows [Qh Js] (a pair of Jacks)
+SorryWut: shows [5s 5d] (a pair of Fives)
+AndyMy collected 1095 from pot
+SorryWut finished the tournament in 16th place
+*** SUMMARY ***
+Total pot 1095 | Rake 0 
+Board [Jc Th Kh 4d 7d]
+Seat 1: SorryWut (button) showed [5s 5d] and lost with a pair of Fives
+Seat 2: lucassgom (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: AndyMy showed [Qh Js] and won (1095) with a pair of Jacks
+
+
+
+PokerStars Hand #255102108073: Tournament #3864495215, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/03/02 11:09:04 WET [2025/03/02 6:09:04 ET]
+Table '3864495215 4' 4-max Seat #2 is the button
+Seat 2: lucassgom (465 in chips) 
+Seat 3: Kevin12345Mc (440 in chips) 
+Seat 4: AndyMy (1095 in chips) 
+lucassgom: posts the ante 10
+Kevin12345Mc: posts the ante 10
+AndyMy: posts the ante 10
+Kevin12345Mc: posts small blind 25
+AndyMy: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 6h]
+lucassgom: raises 405 to 455 and is all-in
+Kevin12345Mc: folds 
+AndyMy: calls 405
+*** FLOP *** [Qs 4s Qh]
+*** TURN *** [Qs 4s Qh] [7s]
+*** RIVER *** [Qs 4s Qh 7s] [8c]
+*** SHOW DOWN ***
+AndyMy: shows [8s 8h] (a full house, Eights full of Queens)
+lucassgom: shows [5h Ac] (a pair of Queens)
+AndyMy collected 965 from pot
+lucassgom finished the tournament in 15th place
+*** SUMMARY ***
+Total pot 965 | Rake 0 
+Board [Qs 4s Qh 7s 8c]
+Seat 2: lucassgom (button) showed [5h Ac] and lost with a pair of Queens
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: AndyMy (big blind) showed [8s 8h] and won (965) with a full house, Eights full of Queens
+
+
+
+PokerStars Hand #255102110739: Tournament #3864495215, $0.96+$0.04 USD Hold'em No Limit - Match Round I, Level I (25/50) - 2025/03/02 11:09:24 WET [2025/03/02 6:09:24 ET]
+Table '3864495215 4' 4-max Seat #4 is the button
+Seat 3: Kevin12345Mc (405 in chips) 
+Seat 4: AndyMy (1595 in chips) 
+Kevin12345Mc: posts the ante 10
+AndyMy: posts the ante 10
+AndyMy: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 9c]
+AndyMy: raises 1535 to 1585 and is all-in
+Kevin12345Mc: calls 345 and is all-in
+Uncalled bet (1190) returned to AndyMy
+*** FLOP *** [2s 6d 6c]
+*** TURN *** [2s 6d 6c] [Js]
+*** RIVER *** [2s 6d 6c Js] [4d]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Th 9c] (a pair of Sixes)
+AndyMy: shows [As 9d] (a pair of Sixes - Ace kicker)
+AndyMy collected 810 from pot
+Kevin12345Mc finished the tournament in 12th place
+*** SUMMARY ***
+Total pot 810 | Rake 0 
+Board [2s 6d 6c Js 4d]
+Seat 3: Kevin12345Mc (big blind) showed [Th 9c] and lost with a pair of Sixes
+Seat 4: AndyMy (button) (small blind) showed [As 9d] and won (810) with a pair of Sixes
+
+
+

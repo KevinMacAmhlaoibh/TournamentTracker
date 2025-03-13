@@ -1,0 +1,1520 @@
+﻿PokerStars Hand #255102088196: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level I (50/100) - 2025/03/02 11:06:30 WET [2025/03/02 6:06:30 ET]
+Table '3861363285 5' 8-max Seat #3 is the button
+Seat 1: BtheWinner (8270 in chips) 
+Seat 2: Felebj (9930 in chips) 
+Seat 3: lioness2121 (19590 in chips) 
+Seat 4: aktie63 (10000 in chips) out of hand (moved from another table into small blind)
+Seat 5: samuel74570 (9880 in chips) is sitting out
+Seat 6: AdamVe71 (12360 in chips) 
+Seat 7: Kevin12345Mc (10000 in chips) 
+Seat 8: GustavWings (9980 in chips) 
+aktie63 will be allowed to play after the button
+BtheWinner: posts the ante 10
+Felebj: posts the ante 10
+lioness2121: posts the ante 10
+samuel74570: posts the ante 10
+AdamVe71: posts the ante 10
+Kevin12345Mc: posts the ante 10
+GustavWings: posts the ante 10
+samuel74570: posts small blind 50
+AdamVe71: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 3s]
+Kevin12345Mc: folds 
+GustavWings: folds 
+BtheWinner: raises 8160 to 8260 and is all-in
+Felebj: folds 
+lioness2121: folds 
+samuel74570: folds 
+AdamVe71: folds 
+Uncalled bet (8160) returned to BtheWinner
+BtheWinner collected 320 from pot
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: BtheWinner collected (320)
+Seat 2: Felebj folded before Flop (didn't bet)
+Seat 3: lioness2121 (button) folded before Flop (didn't bet)
+Seat 5: samuel74570 (small blind) folded before Flop
+Seat 6: AdamVe71 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: GustavWings folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102092518: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level I (50/100) - 2025/03/02 11:07:04 WET [2025/03/02 6:07:04 ET]
+Table '3861363285 14' 8-max Seat #1 is the button
+Seat 1: marus.5525 (9980 in chips) 
+Seat 2: SergMark (9970 in chips) 
+Seat 3: hurka77 (10000 in chips) 
+Seat 4: Kevin12345Mc (9990 in chips) 
+Seat 7: sparty400 (10000 in chips) 
+marus.5525: posts the ante 10
+SergMark: posts the ante 10
+hurka77: posts the ante 10
+Kevin12345Mc: posts the ante 10
+sparty400: posts the ante 10
+SergMark: posts small blind 50
+hurka77: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts Ac]
+Kevin12345Mc is disconnected 
+Kevin12345Mc is connected 
+leffe72 is disconnected 
+Kevin12345Mc: raises 150 to 250
+3Dos is disconnected 
+sparty400: calls 250
+marus.5525: folds 
+SergMark: folds 
+hurka77: calls 150
+*** FLOP *** [7h 4c 3s]
+hurka77: checks 
+Kevin12345Mc: checks 
+sparty400: bets 850
+hurka77: folds 
+Kevin12345Mc: folds 
+Uncalled bet (850) returned to sparty400
+sparty400 collected 850 from pot
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Board [7h 4c 3s]
+Seat 1: marus.5525 (button) folded before Flop (didn't bet)
+Seat 2: SergMark (small blind) folded before Flop
+Seat 3: hurka77 (big blind) folded on the Flop
+Seat 4: Kevin12345Mc folded on the Flop
+Seat 7: sparty400 collected (850)
+
+
+
+PokerStars Hand #255102097656: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level I (50/100) - 2025/03/02 11:07:43 WET [2025/03/02 6:07:43 ET]
+Table '3861363285 14' 8-max Seat #2 is the button
+Seat 1: marus.5525 (9970 in chips) 
+Seat 2: SergMark (9910 in chips) 
+Seat 3: hurka77 (9740 in chips) 
+Seat 4: Kevin12345Mc (9730 in chips) 
+Seat 5: leffe72 (9990 in chips) 
+Seat 7: sparty400 (10590 in chips) 
+Seat 8: 3Dos (9970 in chips) 
+marus.5525: posts the ante 10
+SergMark: posts the ante 10
+hurka77: posts the ante 10
+Kevin12345Mc: posts the ante 10
+leffe72: posts the ante 10
+sparty400: posts the ante 10
+3Dos: posts the ante 10
+hurka77: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 5c]
+leffe72: folds 
+sparty400: calls 100
+3Dos: folds 
+marus.5525: folds 
+SergMark: folds 
+hurka77: calls 50
+Kevin12345Mc: checks 
+*** FLOP *** [3c Qd Jc]
+hurka77: bets 100
+Kevin12345Mc: calls 100
+sparty400: calls 100
+*** TURN *** [3c Qd Jc] [4c]
+hurka77: bets 100
+Kevin12345Mc: folds 
+sparty400: calls 100
+*** RIVER *** [3c Qd Jc 4c] [6d]
+hurka77: checks 
+sparty400: checks 
+*** SHOW DOWN ***
+hurka77: shows [Qc 8h] (a pair of Queens)
+sparty400: mucks hand 
+hurka77 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [3c Qd Jc 4c 6d]
+Seat 1: marus.5525 folded before Flop (didn't bet)
+Seat 2: SergMark (button) folded before Flop (didn't bet)
+Seat 3: hurka77 (small blind) showed [Qc 8h] and won (870) with a pair of Queens
+Seat 4: Kevin12345Mc (big blind) folded on the Turn
+Seat 5: leffe72 folded before Flop (didn't bet)
+Seat 7: sparty400 mucked [2s Js]
+Seat 8: 3Dos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102103455: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level II (75/150) - 2025/03/02 11:08:28 WET [2025/03/02 6:08:28 ET]
+Table '3861363285 14' 8-max Seat #3 is the button
+Seat 1: marus.5525 (9960 in chips) 
+Seat 2: SergMark (9900 in chips) 
+Seat 3: hurka77 (10300 in chips) 
+Seat 4: Kevin12345Mc (9520 in chips) 
+Seat 5: leffe72 (9980 in chips) 
+Seat 6: Ghost22087 (10000 in chips) 
+Seat 7: sparty400 (10280 in chips) 
+Seat 8: 3Dos (9960 in chips) 
+marus.5525: posts the ante 15
+SergMark: posts the ante 15
+hurka77: posts the ante 15
+Kevin12345Mc: posts the ante 15
+leffe72: posts the ante 15
+Ghost22087: posts the ante 15
+sparty400: posts the ante 15
+3Dos: posts the ante 15
+Kevin12345Mc: posts small blind 75
+leffe72: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 7s]
+Ghost22087: calls 150
+sparty400: folds 
+3Dos: folds 
+marus.5525: folds 
+SergMark: folds 
+hurka77: folds 
+Kevin12345Mc: calls 75
+leffe72: checks 
+*** FLOP *** [6h Jc 5c]
+Kevin12345Mc: checks 
+leffe72: bets 150
+Ghost22087: calls 150
+Kevin12345Mc: folds 
+*** TURN *** [6h Jc 5c] [Kc]
+leffe72: checks 
+Ghost22087: checks 
+*** RIVER *** [6h Jc 5c Kc] [5h]
+leffe72: checks 
+Ghost22087: checks 
+*** SHOW DOWN ***
+leffe72: shows [Jh 8h] (two pair, Jacks and Fives)
+Ghost22087: mucks hand 
+leffe72 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Board [6h Jc 5c Kc 5h]
+Seat 1: marus.5525 folded before Flop (didn't bet)
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: hurka77 (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded on the Flop
+Seat 5: leffe72 (big blind) showed [Jh 8h] and won (870) with two pair, Jacks and Fives
+Seat 6: Ghost22087 mucked [4h 2d]
+Seat 7: sparty400 folded before Flop (didn't bet)
+Seat 8: 3Dos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102111368: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level II (75/150) - 2025/03/02 11:09:29 WET [2025/03/02 6:09:29 ET]
+Table '3861363285 14' 8-max Seat #4 is the button
+Seat 1: marus.5525 (9945 in chips) 
+Seat 2: SergMark (9885 in chips) 
+Seat 3: hurka77 (10285 in chips) 
+Seat 4: Kevin12345Mc (9355 in chips) 
+Seat 5: leffe72 (10535 in chips) 
+Seat 6: Ghost22087 (9685 in chips) 
+Seat 7: sparty400 (10265 in chips) 
+Seat 8: 3Dos (9945 in chips) 
+marus.5525: posts the ante 15
+SergMark: posts the ante 15
+hurka77: posts the ante 15
+Kevin12345Mc: posts the ante 15
+leffe72: posts the ante 15
+Ghost22087: posts the ante 15
+sparty400: posts the ante 15
+3Dos: posts the ante 15
+leffe72: posts small blind 75
+Ghost22087: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 9d]
+sparty400: calls 150
+3Dos: folds 
+marus.5525: raises 150 to 300
+SergMark: folds 
+hurka77: calls 300
+Kevin12345Mc: folds 
+leffe72: folds 
+Ghost22087: calls 150
+sparty400: calls 150
+*** FLOP *** [Tc 6s Qd]
+Ghost22087: checks 
+sparty400: checks 
+marus.5525: bets 150
+hurka77: calls 150
+Ghost22087: calls 150
+sparty400: folds 
+*** TURN *** [Tc 6s Qd] [6d]
+Ghost22087: checks 
+marus.5525: checks 
+hurka77: checks 
+*** RIVER *** [Tc 6s Qd 6d] [Th]
+Ghost22087: checks 
+marus.5525: bets 1845
+hurka77: folds 
+Ghost22087: folds 
+Uncalled bet (1845) returned to marus.5525
+marus.5525 collected 1845 from pot
+marus.5525: doesn't show hand 
+*** SUMMARY ***
+Total pot 1845 | Rake 0 
+Board [Tc 6s Qd 6d Th]
+Seat 1: marus.5525 collected (1845)
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: hurka77 folded on the River
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: leffe72 (small blind) folded before Flop
+Seat 6: Ghost22087 (big blind) folded on the River
+Seat 7: sparty400 folded on the Flop
+Seat 8: 3Dos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102119698: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level II (75/150) - 2025/03/02 11:10:34 WET [2025/03/02 6:10:34 ET]
+Table '3861363285 14' 8-max Seat #5 is the button
+Seat 1: marus.5525 (11325 in chips) 
+Seat 2: SergMark (9870 in chips) 
+Seat 3: hurka77 (9820 in chips) 
+Seat 4: Kevin12345Mc (9340 in chips) 
+Seat 5: leffe72 (10445 in chips) 
+Seat 6: Ghost22087 (9220 in chips) 
+Seat 7: sparty400 (9950 in chips) 
+Seat 8: 3Dos (9930 in chips) 
+marus.5525: posts the ante 15
+SergMark: posts the ante 15
+hurka77: posts the ante 15
+Kevin12345Mc: posts the ante 15
+leffe72: posts the ante 15
+Ghost22087: posts the ante 15
+sparty400: posts the ante 15
+3Dos: posts the ante 15
+Ghost22087: posts small blind 75
+sparty400: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh Ts]
+3Dos: folds 
+marus.5525: folds 
+SergMark: folds 
+hurka77: folds 
+Kevin12345Mc: raises 195 to 345
+leffe72: folds 
+Ghost22087: folds 
+sparty400: calls 195
+*** FLOP *** [Tc 3d Qd]
+sparty400: checks 
+Kevin12345Mc: bets 292
+sparty400: calls 292
+*** TURN *** [Tc 3d Qd] [7d]
+sparty400: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Tc 3d Qd 7d] [Kc]
+sparty400: bets 1469
+Kevin12345Mc: calls 1469
+*** SHOW DOWN ***
+sparty400: shows [Kd 8h] (a pair of Kings)
+Kevin12345Mc: shows [Kh Ts] (two pair, Kings and Tens)
+Kevin12345Mc collected 4407 from pot
+*** SUMMARY ***
+Total pot 4407 | Rake 0 
+Board [Tc 3d Qd 7d Kc]
+Seat 1: marus.5525 folded before Flop (didn't bet)
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: hurka77 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc showed [Kh Ts] and won (4407) with two pair, Kings and Tens
+Seat 5: leffe72 (button) folded before Flop (didn't bet)
+Seat 6: Ghost22087 (small blind) folded before Flop
+Seat 7: sparty400 (big blind) showed [Kd 8h] and lost with a pair of Kings
+Seat 8: 3Dos folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102126286: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level III (100/200) - 2025/03/02 11:11:24 WET [2025/03/02 6:11:24 ET]
+Table '3861363285 14' 8-max Seat #6 is the button
+Seat 1: marus.5525 (11310 in chips) 
+Seat 2: SergMark (9855 in chips) 
+Seat 3: hurka77 (9805 in chips) 
+Seat 4: Kevin12345Mc (11626 in chips) 
+Seat 5: leffe72 (10430 in chips) 
+Seat 6: Ghost22087 (9130 in chips) 
+Seat 7: sparty400 (7829 in chips) 
+Seat 8: 3Dos (9915 in chips) 
+marus.5525: posts the ante 20
+SergMark: posts the ante 20
+hurka77: posts the ante 20
+Kevin12345Mc: posts the ante 20
+leffe72: posts the ante 20
+Ghost22087: posts the ante 20
+sparty400: posts the ante 20
+3Dos: posts the ante 20
+sparty400: posts small blind 100
+3Dos: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 7s]
+marus.5525: folds 
+SergMark: folds 
+hurka77: folds 
+Kevin12345Mc: folds 
+leffe72: folds 
+Ghost22087: calls 200
+sparty400: raises 7609 to 7809 and is all-in
+3Dos: folds 
+Ghost22087: calls 7609
+*** FLOP *** [6s 5s Jd]
+*** TURN *** [6s 5s Jd] [Ks]
+*** RIVER *** [6s 5s Jd Ks] [9h]
+*** SHOW DOWN ***
+sparty400: shows [9d Kc] (two pair, Kings and Nines)
+Ghost22087: shows [Qs Jc] (a pair of Jacks)
+sparty400 collected 15978 from pot
+*** SUMMARY ***
+Total pot 15978 | Rake 0 
+Board [6s 5s Jd Ks 9h]
+Seat 1: marus.5525 folded before Flop (didn't bet)
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: hurka77 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leffe72 folded before Flop (didn't bet)
+Seat 6: Ghost22087 (button) showed [Qs Jc] and lost with a pair of Jacks
+Seat 7: sparty400 (small blind) showed [9d Kc] and won (15978) with two pair, Kings and Nines
+Seat 8: 3Dos (big blind) folded before Flop
+
+
+
+PokerStars Hand #255102130465: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level III (100/200) - 2025/03/02 11:11:57 WET [2025/03/02 6:11:57 ET]
+Table '3861363285 14' 8-max Seat #7 is the button
+Seat 1: marus.5525 (11290 in chips) 
+Seat 2: SergMark (9835 in chips) 
+Seat 3: hurka77 (9785 in chips) 
+Seat 4: Kevin12345Mc (11606 in chips) 
+Seat 5: leffe72 (10410 in chips) 
+Seat 6: Ghost22087 (1301 in chips) 
+Seat 7: sparty400 (15978 in chips) 
+Seat 8: 3Dos (9695 in chips) 
+marus.5525: posts the ante 20
+SergMark: posts the ante 20
+hurka77: posts the ante 20
+Kevin12345Mc: posts the ante 20
+leffe72: posts the ante 20
+Ghost22087: posts the ante 20
+sparty400: posts the ante 20
+3Dos: posts the ante 20
+3Dos: posts small blind 100
+marus.5525: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 2c]
+SergMark: folds 
+hurka77: calls 200
+Kevin12345Mc: folds 
+leffe72: raises 10190 to 10390 and is all-in
+Ghost22087: calls 1281 and is all-in
+sparty400: folds 
+3Dos: calls 9575 and is all-in
+marus.5525: folds 
+hurka77: folds 
+Uncalled bet (715) returned to leffe72
+*** FLOP *** [8h Qh Ac]
+*** TURN *** [8h Qh Ac] [7c]
+*** RIVER *** [8h Qh Ac 7c] [3h]
+*** SHOW DOWN ***
+3Dos: shows [Ah Td] (a pair of Aces)
+leffe72: shows [As Qc] (two pair, Aces and Queens)
+leffe72 collected 16788 from side pot
+Ghost22087: shows [Ks Qd] (a pair of Queens)
+leffe72 collected 4403 from main pot
+3Dos finished the tournament
+Ghost22087 finished the tournament
+*** SUMMARY ***
+Total pot 21191 Main pot 4403. Side pot 16788. | Rake 0 
+Board [8h Qh Ac 7c 3h]
+Seat 1: marus.5525 (big blind) folded before Flop
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: hurka77 folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leffe72 showed [As Qc] and won (21191) with two pair, Aces and Queens
+Seat 6: Ghost22087 showed [Ks Qd] and lost with a pair of Queens
+Seat 7: sparty400 (button) folded before Flop (didn't bet)
+Seat 8: 3Dos (small blind) showed [Ah Td] and lost with a pair of Aces
+
+
+
+PokerStars Hand #255102135788: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level III (100/200) - 2025/03/02 11:12:37 WET [2025/03/02 6:12:37 ET]
+Table '3861363285 14' 8-max Seat #1 is the button
+Seat 1: marus.5525 (11070 in chips) 
+Seat 2: SergMark (9815 in chips) 
+Seat 3: hurka77 (9565 in chips) 
+Seat 4: Kevin12345Mc (11586 in chips) 
+Seat 5: leffe72 (21906 in chips) 
+Seat 7: sparty400 (15958 in chips) 
+marus.5525: posts the ante 20
+SergMark: posts the ante 20
+hurka77: posts the ante 20
+Kevin12345Mc: posts the ante 20
+leffe72: posts the ante 20
+sparty400: posts the ante 20
+SergMark: posts small blind 100
+hurka77: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s Ad]
+Kevin12345Mc: folds 
+leffe72: folds 
+sparty400: calls 200
+marus.5525: folds 
+SergMark: calls 100
+hurka77: raises 200 to 400
+sparty400: calls 200
+SergMark: calls 200
+*** FLOP *** [7s 3c Qs]
+SergMark: checks 
+hurka77: checks 
+sparty400: bets 660
+SergMark: folds 
+hurka77: raises 8485 to 9145 and is all-in
+sparty400: folds 
+Uncalled bet (8485) returned to hurka77
+hurka77 collected 2640 from pot
+*** SUMMARY ***
+Total pot 2640 | Rake 0 
+Board [7s 3c Qs]
+Seat 1: marus.5525 (button) folded before Flop (didn't bet)
+Seat 2: SergMark (small blind) folded on the Flop
+Seat 3: hurka77 (big blind) collected (2640)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leffe72 folded before Flop (didn't bet)
+Seat 7: sparty400 folded on the Flop
+
+
+
+PokerStars Hand #255102140685: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level III (100/200) - 2025/03/02 11:13:15 WET [2025/03/02 6:13:15 ET]
+Table '3861363285 14' 8-max Seat #2 is the button
+Seat 1: marus.5525 (11050 in chips) 
+Seat 2: SergMark (9395 in chips) 
+Seat 3: hurka77 (11125 in chips) 
+Seat 4: Kevin12345Mc (11566 in chips) 
+Seat 5: leffe72 (21886 in chips) 
+Seat 6: grela22_22 (9950 in chips) 
+Seat 7: sparty400 (14878 in chips) 
+Seat 8: edmen1980 (10000 in chips) 
+marus.5525: posts the ante 20
+SergMark: posts the ante 20
+hurka77: posts the ante 20
+Kevin12345Mc: posts the ante 20
+leffe72: posts the ante 20
+grela22_22: posts the ante 20
+sparty400: posts the ante 20
+edmen1980: posts the ante 20
+hurka77: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 6c]
+leffe72: folds 
+grela22_22: folds 
+sparty400: raises 14658 to 14858 and is all-in
+edmen1980: folds 
+marus.5525: folds 
+SergMark: folds 
+hurka77: folds 
+Kevin12345Mc: folds 
+Uncalled bet (14658) returned to sparty400
+sparty400 collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Seat 1: marus.5525 folded before Flop (didn't bet)
+Seat 2: SergMark (button) folded before Flop (didn't bet)
+Seat 3: hurka77 (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: leffe72 folded before Flop (didn't bet)
+Seat 6: grela22_22 folded before Flop (didn't bet)
+Seat 7: sparty400 collected (660)
+Seat 8: edmen1980 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102142730: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level III (100/200) - 2025/03/02 11:13:31 WET [2025/03/02 6:13:31 ET]
+Table '3861363285 14' 8-max Seat #3 is the button
+Seat 1: marus.5525 (11030 in chips) 
+Seat 2: SergMark (9375 in chips) 
+Seat 3: hurka77 (11005 in chips) 
+Seat 4: Kevin12345Mc (11346 in chips) 
+Seat 5: leffe72 (21866 in chips) 
+Seat 6: grela22_22 (9930 in chips) 
+Seat 7: sparty400 (15318 in chips) 
+Seat 8: edmen1980 (9980 in chips) 
+marus.5525: posts the ante 20
+SergMark: posts the ante 20
+hurka77: posts the ante 20
+Kevin12345Mc: posts the ante 20
+leffe72: posts the ante 20
+grela22_22: posts the ante 20
+sparty400: posts the ante 20
+edmen1980: posts the ante 20
+Kevin12345Mc: posts small blind 100
+leffe72: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac Td]
+grela22_22: folds 
+sparty400: raises 15098 to 15298 and is all-in
+edmen1980: folds 
+marus.5525: folds 
+SergMark: folds 
+hurka77: calls 10985 and is all-in
+Kevin12345Mc: calls 11226 and is all-in
+leffe72: folds 
+Uncalled bet (3972) returned to sparty400
+*** FLOP *** [Ad 4s 9s]
+*** TURN *** [Ad 4s 9s] [3s]
+*** RIVER *** [Ad 4s 9s 3s] [Qh]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ac Td] (a pair of Aces)
+sparty400: shows [Jd Kd] (high card Ace)
+Kevin12345Mc collected 682 from side pot
+hurka77: shows [Jc Kh] (high card Ace)
+Kevin12345Mc collected 33315 from main pot
+hurka77 finished the tournament
+*** SUMMARY ***
+Total pot 33997 Main pot 33315. Side pot 682. | Rake 0 
+Board [Ad 4s 9s 3s Qh]
+Seat 1: marus.5525 folded before Flop (didn't bet)
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: hurka77 (button) showed [Jc Kh] and lost with high card Ace
+Seat 4: Kevin12345Mc (small blind) showed [Ac Td] and won (33997) with a pair of Aces
+Seat 5: leffe72 (big blind) folded before Flop
+Seat 6: grela22_22 folded before Flop (didn't bet)
+Seat 7: sparty400 showed [Jd Kd] and lost with high card Ace
+Seat 8: edmen1980 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102147553: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level IV (150/300) - 2025/03/02 11:14:08 WET [2025/03/02 6:14:08 ET]
+Table '3861363285 14' 8-max Seat #4 is the button
+Seat 1: marus.5525 (11010 in chips) 
+Seat 2: SergMark (9355 in chips) 
+Seat 3: rc10111967 (10000 in chips) 
+Seat 4: Kevin12345Mc (33997 in chips) 
+Seat 5: leffe72 (21646 in chips) 
+Seat 6: grela22_22 (9910 in chips) 
+Seat 7: sparty400 (3972 in chips) 
+Seat 8: edmen1980 (9960 in chips) 
+marus.5525: posts the ante 30
+SergMark: posts the ante 30
+rc10111967: posts the ante 30
+Kevin12345Mc: posts the ante 30
+leffe72: posts the ante 30
+grela22_22: posts the ante 30
+sparty400: posts the ante 30
+edmen1980: posts the ante 30
+leffe72: posts small blind 150
+grela22_22: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 8h]
+sparty400: raises 3642 to 3942 and is all-in
+edmen1980: raises 5988 to 9930 and is all-in
+marus.5525: raises 1050 to 10980 and is all-in
+SergMark: folds 
+rc10111967: folds 
+Kevin12345Mc: folds 
+leffe72: folds 
+grela22_22: folds 
+Uncalled bet (1050) returned to marus.5525
+*** FLOP *** [9s 7c 9h]
+*** TURN *** [9s 7c 9h] [4d]
+*** RIVER *** [9s 7c 9h 4d] [Js]
+*** SHOW DOWN ***
+edmen1980: shows [Kd Tc] (a pair of Nines)
+marus.5525: shows [Ad As] (two pair, Aces and Nines)
+marus.5525 collected 11976 from side pot
+sparty400: shows [Jh Td] (two pair, Jacks and Nines)
+marus.5525 collected 12516 from main pot
+edmen1980 finished the tournament
+sparty400 finished the tournament
+*** SUMMARY ***
+Total pot 24492 Main pot 12516. Side pot 11976. | Rake 0 
+Board [9s 7c 9h 4d Js]
+Seat 1: marus.5525 showed [Ad As] and won (24492) with two pair, Aces and Nines
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: rc10111967 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: leffe72 (small blind) folded before Flop
+Seat 6: grela22_22 (big blind) folded before Flop
+Seat 7: sparty400 showed [Jh Td] and lost with two pair, Jacks and Nines
+Seat 8: edmen1980 showed [Kd Tc] and lost with a pair of Nines
+
+
+
+PokerStars Hand #255102152046: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level IV (150/300) - 2025/03/02 11:14:43 WET [2025/03/02 6:14:43 ET]
+Table '3861363285 14' 8-max Seat #5 is the button
+Seat 1: marus.5525 (25542 in chips) 
+Seat 2: SergMark (9325 in chips) 
+Seat 3: rc10111967 (9970 in chips) 
+Seat 4: Kevin12345Mc (33967 in chips) 
+Seat 5: leffe72 (21466 in chips) 
+Seat 6: grela22_22 (9580 in chips) 
+Seat 7: trueshark5 (10000 in chips) 
+marus.5525: posts the ante 30
+SergMark: posts the ante 30
+rc10111967: posts the ante 30
+Kevin12345Mc: posts the ante 30
+leffe72: posts the ante 30
+grela22_22: posts the ante 30
+trueshark5: posts the ante 30
+grela22_22: posts small blind 150
+trueshark5: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 9h]
+marus.5525: raises 300 to 600
+SergMark: folds 
+rc10111967: calls 600
+Kevin12345Mc: folds 
+leffe72: folds 
+grela22_22: folds 
+trueshark5: folds 
+*** FLOP *** [5h Ts 9c]
+marus.5525: bets 300
+rc10111967: calls 300
+*** TURN *** [5h Ts 9c] [2s]
+marus.5525: bets 300
+rc10111967: calls 300
+*** RIVER *** [5h Ts 9c 2s] [Qc]
+marus.5525: bets 1530
+rc10111967: calls 1530
+*** SHOW DOWN ***
+marus.5525: shows [Kh Qs] (a pair of Queens)
+rc10111967: mucks hand 
+marus.5525 collected 6120 from pot
+*** SUMMARY ***
+Total pot 6120 | Rake 0 
+Board [5h Ts 9c 2s Qc]
+Seat 1: marus.5525 showed [Kh Qs] and won (6120) with a pair of Queens
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: rc10111967 mucked [2d Ac]
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leffe72 (button) folded before Flop (didn't bet)
+Seat 6: grela22_22 (small blind) folded before Flop
+Seat 7: trueshark5 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255102156790: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level IV (150/300) - 2025/03/02 11:15:19 WET [2025/03/02 6:15:19 ET]
+Table '3861363285 14' 8-max Seat #6 is the button
+Seat 2: SergMark (9295 in chips) 
+Seat 3: rc10111967 (7210 in chips) 
+Seat 4: Kevin12345Mc (33937 in chips) 
+Seat 5: leffe72 (21436 in chips) 
+Seat 6: grela22_22 (9400 in chips) 
+Seat 7: trueshark5 (9670 in chips) 
+Seat 8: HangManRoper (10000 in chips) 
+SergMark: posts the ante 30
+rc10111967: posts the ante 30
+Kevin12345Mc: posts the ante 30
+leffe72: posts the ante 30
+grela22_22: posts the ante 30
+trueshark5: posts the ante 30
+HangManRoper: posts the ante 30
+trueshark5: posts small blind 150
+HangManRoper: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 9s]
+SergMark: folds 
+rc10111967: raises 1260 to 1560
+Kevin12345Mc: folds 
+leffe72: folds 
+grela22_22: folds 
+trueshark5: calls 1410
+HangManRoper: folds 
+*** FLOP *** [7c 8d 2c]
+trueshark5: checks 
+rc10111967: bets 5620 and is all-in
+trueshark5: folds 
+Uncalled bet (5620) returned to rc10111967
+rc10111967 collected 3630 from pot
+*** SUMMARY ***
+Total pot 3630 | Rake 0 
+Board [7c 8d 2c]
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: rc10111967 collected (3630)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leffe72 folded before Flop (didn't bet)
+Seat 6: grela22_22 (button) folded before Flop (didn't bet)
+Seat 7: trueshark5 (small blind) folded on the Flop
+Seat 8: HangManRoper (big blind) folded before Flop
+
+
+
+PokerStars Hand #255102160993: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level IV (150/300) - 2025/03/02 11:15:51 WET [2025/03/02 6:15:51 ET]
+Table '3861363285 14' 8-max Seat #7 is the button
+Seat 2: SergMark (9265 in chips) 
+Seat 3: rc10111967 (9250 in chips) 
+Seat 4: Kevin12345Mc (33907 in chips) 
+Seat 5: leffe72 (21406 in chips) 
+Seat 6: grela22_22 (9370 in chips) 
+Seat 7: trueshark5 (8080 in chips) 
+Seat 8: HangManRoper (9670 in chips) 
+SergMark: posts the ante 30
+rc10111967: posts the ante 30
+Kevin12345Mc: posts the ante 30
+leffe72: posts the ante 30
+grela22_22: posts the ante 30
+trueshark5: posts the ante 30
+HangManRoper: posts the ante 30
+HangManRoper: posts small blind 150
+SergMark: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 9c]
+rc10111967: raises 960 to 1260
+Kevin12345Mc: folds 
+leffe72: folds 
+grela22_22: folds 
+trueshark5: folds 
+HangManRoper: folds 
+SergMark: folds 
+Uncalled bet (960) returned to rc10111967
+rc10111967 collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Seat 2: SergMark (big blind) folded before Flop
+Seat 3: rc10111967 collected (960)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leffe72 folded before Flop (didn't bet)
+Seat 6: grela22_22 folded before Flop (didn't bet)
+Seat 7: trueshark5 (button) folded before Flop (didn't bet)
+Seat 8: HangManRoper (small blind) folded before Flop
+
+
+
+PokerStars Hand #255102163665: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level IV (150/300) - 2025/03/02 11:16:11 WET [2025/03/02 6:16:11 ET]
+Table '3861363285 14' 8-max Seat #8 is the button
+Seat 2: SergMark (8935 in chips) 
+Seat 3: rc10111967 (9880 in chips) 
+Seat 4: Kevin12345Mc (33877 in chips) 
+Seat 5: leffe72 (21376 in chips) 
+Seat 6: grela22_22 (9340 in chips) 
+Seat 7: trueshark5 (8050 in chips) 
+Seat 8: HangManRoper (9490 in chips) 
+SergMark: posts the ante 30
+rc10111967: posts the ante 30
+Kevin12345Mc: posts the ante 30
+leffe72: posts the ante 30
+grela22_22: posts the ante 30
+trueshark5: posts the ante 30
+HangManRoper: posts the ante 30
+SergMark: posts small blind 150
+rc10111967: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 3s]
+Kevin12345Mc: folds 
+leffe72: folds 
+grela22_22: calls 300
+trueshark5: calls 300
+HangManRoper: folds 
+SergMark: raises 1410 to 1710
+rc10111967: folds 
+grela22_22: folds 
+trueshark5: calls 1410
+*** FLOP *** [Tc 5s 4s]
+SergMark: checks 
+trueshark5: bets 4230
+SergMark: raises 2965 to 7195 and is all-in
+trueshark5: calls 2080 and is all-in
+Uncalled bet (885) returned to SergMark
+*** TURN *** [Tc 5s 4s] [5d]
+*** RIVER *** [Tc 5s 4s 5d] [9d]
+*** SHOW DOWN ***
+SergMark: shows [Kh Kc] (two pair, Kings and Fives)
+trueshark5: shows [8h Ts] (two pair, Tens and Fives)
+SergMark collected 16850 from pot
+trueshark5 finished the tournament
+*** SUMMARY ***
+Total pot 16850 | Rake 0 
+Board [Tc 5s 4s 5d 9d]
+Seat 2: SergMark (small blind) showed [Kh Kc] and won (16850) with two pair, Kings and Fives
+Seat 3: rc10111967 (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leffe72 folded before Flop (didn't bet)
+Seat 6: grela22_22 folded before Flop
+Seat 7: trueshark5 showed [8h Ts] and lost with two pair, Tens and Fives
+Seat 8: HangManRoper (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102168421: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level IV (150/300) - 2025/03/02 11:16:47 WET [2025/03/02 6:16:47 ET]
+Table '3861363285 14' 8-max Seat #2 is the button
+Seat 2: SergMark (17735 in chips) 
+Seat 3: rc10111967 (9550 in chips) 
+Seat 4: Kevin12345Mc (33847 in chips) 
+Seat 5: leffe72 (21346 in chips) 
+Seat 6: grela22_22 (9010 in chips) 
+Seat 8: HangManRoper (9460 in chips) 
+SergMark: posts the ante 30
+rc10111967: posts the ante 30
+Kevin12345Mc: posts the ante 30
+leffe72: posts the ante 30
+grela22_22: posts the ante 30
+HangManRoper: posts the ante 30
+rc10111967: posts small blind 150
+Kevin12345Mc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Jd]
+leffe72: folds 
+grela22_22: folds 
+HangManRoper: raises 930 to 1230
+SergMark: folds 
+rc10111967: calls 1080
+Kevin12345Mc: folds 
+*** FLOP *** [Jh 4s Qs]
+rc10111967: checks 
+HangManRoper: bets 1470
+rc10111967: raises 6820 to 8290 and is all-in
+HangManRoper: folds 
+Uncalled bet (6820) returned to rc10111967
+rc10111967 collected 5880 from pot
+*** SUMMARY ***
+Total pot 5880 | Rake 0 
+Board [Jh 4s Qs]
+Seat 2: SergMark (button) folded before Flop (didn't bet)
+Seat 3: rc10111967 (small blind) collected (5880)
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: leffe72 folded before Flop (didn't bet)
+Seat 6: grela22_22 folded before Flop (didn't bet)
+Seat 8: HangManRoper folded on the Flop
+
+
+
+PokerStars Hand #255102174198: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level V (200/400) - 2025/03/02 11:17:32 WET [2025/03/02 6:17:32 ET]
+Table '3861363285 14' 8-max Seat #3 is the button
+Seat 1: Mösch1984 (10000 in chips) 
+Seat 2: SergMark (17705 in chips) 
+Seat 3: rc10111967 (12700 in chips) 
+Seat 4: Kevin12345Mc (33517 in chips) 
+Seat 5: leffe72 (21316 in chips) 
+Seat 6: grela22_22 (8980 in chips) 
+Seat 8: HangManRoper (6730 in chips) 
+Mösch1984: posts the ante 40
+SergMark: posts the ante 40
+rc10111967: posts the ante 40
+Kevin12345Mc: posts the ante 40
+leffe72: posts the ante 40
+grela22_22: posts the ante 40
+HangManRoper: posts the ante 40
+Kevin12345Mc: posts small blind 200
+leffe72: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 5h]
+grela22_22: calls 400
+HangManRoper: raises 6290 to 6690 and is all-in
+Mösch1984: folds 
+SergMark: folds 
+rc10111967: folds 
+Kevin12345Mc: folds 
+leffe72: calls 6290
+grela22_22: folds 
+*** FLOP *** [Ah 8c 5c]
+*** TURN *** [Ah 8c 5c] [2c]
+*** RIVER *** [Ah 8c 5c 2c] [8h]
+*** SHOW DOWN ***
+leffe72: shows [Ad Qh] (two pair, Aces and Eights)
+HangManRoper: shows [Td Kc] (a pair of Eights)
+leffe72 collected 14260 from pot
+HangManRoper finished the tournament
+*** SUMMARY ***
+Total pot 14260 | Rake 0 
+Board [Ah 8c 5c 2c 8h]
+Seat 1: Mösch1984 folded before Flop (didn't bet)
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: rc10111967 (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: leffe72 (big blind) showed [Ad Qh] and won (14260) with two pair, Aces and Eights
+Seat 6: grela22_22 folded before Flop
+Seat 8: HangManRoper showed [Td Kc] and lost with a pair of Eights
+
+
+
+PokerStars Hand #255102177803: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level V (200/400) - 2025/03/02 11:17:59 WET [2025/03/02 6:17:59 ET]
+Table '3861363285 14' 8-max Seat #4 is the button
+Seat 1: Mösch1984 (9960 in chips) 
+Seat 2: SergMark (17665 in chips) 
+Seat 3: rc10111967 (12660 in chips) 
+Seat 4: Kevin12345Mc (33277 in chips) 
+Seat 5: leffe72 (28846 in chips) 
+Seat 6: grela22_22 (8540 in chips) 
+Seat 7: TemirlanS (10000 in chips) 
+Mösch1984: posts the ante 40
+SergMark: posts the ante 40
+rc10111967: posts the ante 40
+Kevin12345Mc: posts the ante 40
+leffe72: posts the ante 40
+grela22_22: posts the ante 40
+TemirlanS: posts the ante 40
+leffe72: posts small blind 200
+grela22_22: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Tc]
+TemirlanS: folds 
+Mösch1984: folds 
+SergMark: folds 
+rc10111967: raises 800 to 1200
+Kevin12345Mc: folds 
+leffe72: raises 27606 to 28806 and is all-in
+grela22_22: folds 
+rc10111967: folds 
+Uncalled bet (27606) returned to leffe72
+leffe72 collected 3080 from pot
+leffe72: doesn't show hand 
+*** SUMMARY ***
+Total pot 3080 | Rake 0 
+Seat 1: Mösch1984 folded before Flop (didn't bet)
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: rc10111967 folded before Flop
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: leffe72 (small blind) collected (3080)
+Seat 6: grela22_22 (big blind) folded before Flop
+Seat 7: TemirlanS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102183813: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level V (200/400) - 2025/03/02 11:18:45 WET [2025/03/02 6:18:45 ET]
+Table '3861363285 14' 8-max Seat #5 is the button
+Seat 1: Mösch1984 (9920 in chips) 
+Seat 2: SergMark (17625 in chips) 
+Seat 3: rc10111967 (11420 in chips) 
+Seat 4: Kevin12345Mc (33237 in chips) 
+Seat 5: leffe72 (30686 in chips) 
+Seat 6: grela22_22 (8100 in chips) 
+Seat 7: TemirlanS (9960 in chips) 
+Seat 8: Banda808 (10000 in chips) 
+Mösch1984: posts the ante 40
+SergMark: posts the ante 40
+rc10111967: posts the ante 40
+Kevin12345Mc: posts the ante 40
+leffe72: posts the ante 40
+grela22_22: posts the ante 40
+TemirlanS: posts the ante 40
+Banda808: posts the ante 40
+grela22_22: posts small blind 200
+TemirlanS: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Js]
+Banda808: raises 400 to 800
+Mösch1984: folds 
+SergMark: folds 
+rc10111967: folds 
+Kevin12345Mc: folds 
+leffe72: folds 
+grela22_22: calls 600
+TemirlanS: calls 400
+*** FLOP *** [8c Ac Qh]
+grela22_22: bets 800
+TemirlanS: calls 800
+Banda808: raises 2560 to 3360
+grela22_22: calls 2560
+TemirlanS: calls 2560
+*** TURN *** [8c Ac Qh] [9d]
+grela22_22: bets 3900 and is all-in
+TemirlanS: folds 
+Banda808: calls 3900
+*** RIVER *** [8c Ac Qh 9d] [2c]
+*** SHOW DOWN ***
+grela22_22: shows [5c Qc] (a flush, Ace high)
+Banda808: shows [Qd Ah] (two pair, Aces and Queens)
+grela22_22 collected 20600 from pot
+*** SUMMARY ***
+Total pot 20600 | Rake 0 
+Board [8c Ac Qh 9d 2c]
+Seat 1: Mösch1984 folded before Flop (didn't bet)
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: rc10111967 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leffe72 (button) folded before Flop (didn't bet)
+Seat 6: grela22_22 (small blind) showed [5c Qc] and won (20600) with a flush, Ace high
+Seat 7: TemirlanS (big blind) folded on the Turn
+Seat 8: Banda808 showed [Qd Ah] and lost with two pair, Aces and Queens
+
+
+
+PokerStars Hand #255102190587: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level V (200/400) - 2025/03/02 11:19:36 WET [2025/03/02 6:19:36 ET]
+Table '3861363285 14' 8-max Seat #6 is the button
+Seat 1: Mösch1984 (9880 in chips) 
+Seat 2: SergMark (17585 in chips) 
+Seat 3: rc10111967 (11380 in chips) 
+Seat 4: Kevin12345Mc (33197 in chips) 
+Seat 5: leffe72 (30646 in chips) 
+Seat 6: grela22_22 (20600 in chips) 
+Seat 7: TemirlanS (5760 in chips) 
+Seat 8: Banda808 (1900 in chips) 
+Mösch1984: posts the ante 40
+SergMark: posts the ante 40
+rc10111967: posts the ante 40
+Kevin12345Mc: posts the ante 40
+leffe72: posts the ante 40
+grela22_22: posts the ante 40
+TemirlanS: posts the ante 40
+Banda808: posts the ante 40
+TemirlanS: posts small blind 200
+Banda808: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 2c]
+Mösch1984: folds 
+SergMark has timed out
+SergMark: folds 
+SergMark is sitting out
+rc10111967: folds 
+Kevin12345Mc: folds 
+leffe72: calls 400
+grela22_22: folds 
+SergMark has returned
+TemirlanS: folds 
+Banda808: checks 
+*** FLOP *** [9h Qs 4d]
+Banda808: bets 1460 and is all-in
+leffe72: calls 1460
+*** TURN *** [9h Qs 4d] [5d]
+*** RIVER *** [9h Qs 4d 5d] [9c]
+*** SHOW DOWN ***
+Banda808: shows [Th Jc] (a pair of Nines)
+leffe72: shows [2s As] (a pair of Nines - Ace kicker)
+leffe72 collected 4240 from pot
+Banda808 finished the tournament
+*** SUMMARY ***
+Total pot 4240 | Rake 0 
+Board [9h Qs 4d 5d 9c]
+Seat 1: Mösch1984 folded before Flop (didn't bet)
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: rc10111967 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leffe72 showed [2s As] and won (4240) with a pair of Nines
+Seat 6: grela22_22 (button) folded before Flop (didn't bet)
+Seat 7: TemirlanS (small blind) folded before Flop
+Seat 8: Banda808 (big blind) showed [Th Jc] and lost with a pair of Nines
+
+
+
+PokerStars Hand #255102197372: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level VI (250/500) - 2025/03/02 11:20:27 WET [2025/03/02 6:20:27 ET]
+Table '3861363285 14' 8-max Seat #7 is the button
+Seat 1: Mösch1984 (9840 in chips) 
+Seat 2: SergMark (17545 in chips) 
+Seat 3: rc10111967 (11340 in chips) 
+Seat 4: Kevin12345Mc (33157 in chips) 
+Seat 5: leffe72 (32986 in chips) 
+Seat 6: grela22_22 (20560 in chips) 
+Seat 7: TemirlanS (5520 in chips) 
+Mösch1984: posts the ante 50
+SergMark: posts the ante 50
+rc10111967: posts the ante 50
+Kevin12345Mc: posts the ante 50
+leffe72: posts the ante 50
+grela22_22: posts the ante 50
+TemirlanS: posts the ante 50
+Mösch1984: posts small blind 250
+SergMark: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Ac]
+rc10111967: folds 
+Kevin12345Mc: folds 
+leffe72: folds 
+grela22_22: folds 
+TemirlanS: raises 4970 to 5470 and is all-in
+Mösch1984: folds 
+SergMark: folds 
+Uncalled bet (4970) returned to TemirlanS
+TemirlanS collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Seat 1: Mösch1984 (small blind) folded before Flop
+Seat 2: SergMark (big blind) folded before Flop
+Seat 3: rc10111967 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leffe72 folded before Flop (didn't bet)
+Seat 6: grela22_22 folded before Flop (didn't bet)
+Seat 7: TemirlanS (button) collected (1600)
+
+
+
+PokerStars Hand #255102201176: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level VI (250/500) - 2025/03/02 11:20:56 WET [2025/03/02 6:20:56 ET]
+Table '3861363285 14' 8-max Seat #1 is the button
+Seat 1: Mösch1984 (9540 in chips) 
+Seat 2: SergMark (16995 in chips) 
+Seat 3: rc10111967 (11290 in chips) 
+Seat 4: Kevin12345Mc (33107 in chips) 
+Seat 5: leffe72 (32936 in chips) 
+Seat 6: grela22_22 (20510 in chips) 
+Seat 7: TemirlanS (6570 in chips) 
+Mösch1984: posts the ante 50
+SergMark: posts the ante 50
+rc10111967: posts the ante 50
+Kevin12345Mc: posts the ante 50
+leffe72: posts the ante 50
+grela22_22: posts the ante 50
+TemirlanS: posts the ante 50
+SergMark: posts small blind 250
+rc10111967: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Th]
+Kevin12345Mc: folds 
+leffe72: folds 
+grela22_22: calls 500
+TemirlanS: folds 
+Mösch1984: calls 500
+SergMark: folds 
+rc10111967: checks 
+*** FLOP *** [2h 4d 3c]
+AlexMattend is disconnected 
+rc10111967: bets 2100
+grela22_22: calls 2100
+Mösch1984: calls 2100
+*** TURN *** [2h 4d 3c] [Ah]
+rc10111967: checks 
+grela22_22: bets 4200
+Mösch1984: calls 4200
+rc10111967: folds 
+*** RIVER *** [2h 4d 3c Ah] [Js]
+grela22_22: bets 13660 and is all-in
+Mösch1984: calls 2690 and is all-in
+Uncalled bet (10970) returned to grela22_22
+*** SHOW DOWN ***
+grela22_22: shows [5d Qd] (a straight, Ace to Five)
+Mösch1984: shows [Ad 3d] (two pair, Aces and Threes)
+grela22_22 collected 22180 from pot
+Mösch1984 finished the tournament
+*** SUMMARY ***
+Total pot 22180 | Rake 0 
+Board [2h 4d 3c Ah Js]
+Seat 1: Mösch1984 (button) showed [Ad 3d] and lost with two pair, Aces and Threes
+Seat 2: SergMark (small blind) folded before Flop
+Seat 3: rc10111967 (big blind) folded on the Turn
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: leffe72 folded before Flop (didn't bet)
+Seat 6: grela22_22 showed [5d Qd] and won (22180) with a straight, Ace to Five
+Seat 7: TemirlanS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102209791: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level VI (250/500) - 2025/03/02 11:22:02 WET [2025/03/02 6:22:02 ET]
+Table '3861363285 14' 8-max Seat #2 is the button
+Seat 2: SergMark (16695 in chips) 
+Seat 3: rc10111967 (8640 in chips) 
+Seat 4: Kevin12345Mc (33057 in chips) 
+Seat 5: leffe72 (32886 in chips) 
+Seat 6: grela22_22 (33150 in chips) 
+Seat 7: TemirlanS (6520 in chips) 
+Seat 8: AlexMattend (16445 in chips) 
+SergMark: posts the ante 50
+rc10111967: posts the ante 50
+Kevin12345Mc: posts the ante 50
+leffe72: posts the ante 50
+grela22_22: posts the ante 50
+TemirlanS: posts the ante 50
+AlexMattend: posts the ante 50
+rc10111967: posts small blind 250
+Kevin12345Mc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 6c]
+leffe72: folds 
+grela22_22: folds 
+TemirlanS: folds 
+AlexMattend: raises 500 to 1000
+SergMark: folds 
+rc10111967: raises 7590 to 8590 and is all-in
+Kevin12345Mc: folds 
+AlexMattend: folds 
+Uncalled bet (7590) returned to rc10111967
+rc10111967 collected 2850 from pot
+*** SUMMARY ***
+Total pot 2850 | Rake 0 
+Seat 2: SergMark (button) folded before Flop (didn't bet)
+Seat 3: rc10111967 (small blind) collected (2850)
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: leffe72 folded before Flop (didn't bet)
+Seat 6: grela22_22 folded before Flop (didn't bet)
+Seat 7: TemirlanS folded before Flop (didn't bet)
+Seat 8: AlexMattend folded before Flop
+
+
+
+PokerStars Hand #255102213381: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level VI (250/500) - 2025/03/02 11:22:29 WET [2025/03/02 6:22:29 ET]
+Table '3861363285 14' 8-max Seat #3 is the button
+Seat 2: SergMark (16645 in chips) 
+Seat 3: rc10111967 (10440 in chips) 
+Seat 4: Kevin12345Mc (32507 in chips) 
+Seat 5: leffe72 (32836 in chips) 
+Seat 6: grela22_22 (33100 in chips) 
+Seat 7: TemirlanS (6470 in chips) 
+Seat 8: AlexMattend (15395 in chips) 
+SergMark: posts the ante 50
+rc10111967: posts the ante 50
+Kevin12345Mc: posts the ante 50
+leffe72: posts the ante 50
+grela22_22: posts the ante 50
+TemirlanS: posts the ante 50
+AlexMattend: posts the ante 50
+Kevin12345Mc: posts small blind 250
+leffe72: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s Ad]
+grela22_22: folds 
+TemirlanS: raises 5920 to 6420 and is all-in
+AlexMattend: folds 
+SergMark: folds 
+rc10111967: folds 
+Kevin12345Mc: folds 
+leffe72: folds 
+Uncalled bet (5920) returned to TemirlanS
+TemirlanS collected 1600 from pot
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: rc10111967 (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: leffe72 (big blind) folded before Flop
+Seat 6: grela22_22 folded before Flop (didn't bet)
+Seat 7: TemirlanS collected (1600)
+Seat 8: AlexMattend folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102218634: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2025/03/02 11:23:09 WET [2025/03/02 6:23:09 ET]
+Table '3861363285 14' 8-max Seat #4 is the button
+Seat 2: SergMark (16595 in chips) 
+Seat 3: rc10111967 (10390 in chips) 
+Seat 4: Kevin12345Mc (32207 in chips) 
+Seat 5: leffe72 (32286 in chips) 
+Seat 6: grela22_22 (33050 in chips) 
+Seat 7: TemirlanS (7520 in chips) 
+Seat 8: AlexMattend (15345 in chips) 
+SergMark: posts the ante 60
+rc10111967: posts the ante 60
+Kevin12345Mc: posts the ante 60
+leffe72: posts the ante 60
+grela22_22: posts the ante 60
+TemirlanS: posts the ante 60
+AlexMattend: posts the ante 60
+leffe72: posts small blind 300
+grela22_22: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Tc]
+TemirlanS: raises 6860 to 7460 and is all-in
+AlexMattend: folds 
+SergMark: folds 
+rc10111967: folds 
+Kevin12345Mc: folds 
+leffe72: folds 
+grela22_22: calls 6860
+*** FLOP *** [7d 2d 5h]
+*** TURN *** [7d 2d 5h] [Qh]
+*** RIVER *** [7d 2d 5h Qh] [3d]
+*** SHOW DOWN ***
+grela22_22: shows [5s 5c] (three of a kind, Fives)
+TemirlanS: shows [Ac Ks] (high card Ace)
+grela22_22 collected 15640 from pot
+TemirlanS finished the tournament
+*** SUMMARY ***
+Total pot 15640 | Rake 0 
+Board [7d 2d 5h Qh 3d]
+Seat 2: SergMark folded before Flop (didn't bet)
+Seat 3: rc10111967 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: leffe72 (small blind) folded before Flop
+Seat 6: grela22_22 (big blind) showed [5s 5c] and won (15640) with three of a kind, Fives
+Seat 7: TemirlanS showed [Ac Ks] and lost with high card Ace
+Seat 8: AlexMattend folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102221706: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2025/03/02 11:23:32 WET [2025/03/02 6:23:32 ET]
+Table '3861363285 6' 8-max Seat #1 is the button
+Seat 1: Hopper121 (7502 in chips) 
+Seat 3: matioks (9850 in chips) 
+Seat 4: Patience1820 (22835 in chips) 
+Seat 5: SergMark (16535 in chips) 
+Seat 6: Laky3004 (92824 in chips) 
+Seat 7: Kevin12345Mc (32147 in chips) 
+Seat 8: blindtheftauto (6780 in chips) 
+Hopper121: posts the ante 60
+matioks: posts the ante 60
+Patience1820: posts the ante 60
+SergMark: posts the ante 60
+Laky3004: posts the ante 60
+Kevin12345Mc: posts the ante 60
+blindtheftauto: posts the ante 60
+matioks: posts small blind 300
+Patience1820: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 2h]
+SergMark has timed out
+SergMark: folds 
+SergMark is sitting out
+SergMark has returned
+Laky3004: calls 600
+Kevin12345Mc: folds 
+blindtheftauto: folds 
+Hopper121: folds 
+matioks: calls 300
+Patience1820: checks 
+*** FLOP *** [6d 3c Ac]
+matioks: checks 
+Patience1820: checks 
+Laky3004: bets 2220
+matioks: folds 
+Patience1820: folds 
+Uncalled bet (2220) returned to Laky3004
+Laky3004 collected 2220 from pot
+*** SUMMARY ***
+Total pot 2220 | Rake 0 
+Board [6d 3c Ac]
+Seat 1: Hopper121 (button) folded before Flop (didn't bet)
+Seat 3: matioks (small blind) folded on the Flop
+Seat 4: Patience1820 (big blind) folded on the Flop
+Seat 5: SergMark folded before Flop (didn't bet)
+Seat 6: Laky3004 collected (2220)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: blindtheftauto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102229017: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2025/03/02 11:24:28 WET [2025/03/02 6:24:28 ET]
+Table '3861363285 6' 8-max Seat #3 is the button
+Seat 1: Hopper121 (7442 in chips) 
+Seat 3: matioks (9190 in chips) 
+Seat 4: Patience1820 (22175 in chips) 
+Seat 5: SergMark (16475 in chips) 
+Seat 6: Laky3004 (94384 in chips) 
+Seat 7: Kevin12345Mc (32087 in chips) 
+Seat 8: blindtheftauto (6720 in chips) 
+Hopper121: posts the ante 60
+matioks: posts the ante 60
+Patience1820: posts the ante 60
+SergMark: posts the ante 60
+Laky3004: posts the ante 60
+Kevin12345Mc: posts the ante 60
+blindtheftauto: posts the ante 60
+Patience1820: posts small blind 300
+SergMark: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 7s]
+Laky3004: calls 600
+Kevin12345Mc: folds 
+blindtheftauto: folds 
+Hopper121: folds 
+matioks: folds 
+Patience1820: folds 
+SergMark: checks 
+*** FLOP *** [3s Js Ts]
+SergMark: checks 
+Laky3004: bets 600
+SergMark: calls 600
+*** TURN *** [3s Js Ts] [2c]
+SergMark: checks 
+Laky3004: checks 
+*** RIVER *** [3s Js Ts 2c] [4c]
+SergMark: bets 1560
+Laky3004: folds 
+Uncalled bet (1560) returned to SergMark
+SergMark collected 3120 from pot
+SergMark: doesn't show hand 
+*** SUMMARY ***
+Total pot 3120 | Rake 0 
+Board [3s Js Ts 2c 4c]
+Seat 1: Hopper121 folded before Flop (didn't bet)
+Seat 3: matioks (button) folded before Flop (didn't bet)
+Seat 4: Patience1820 (small blind) folded before Flop
+Seat 5: SergMark (big blind) collected (3120)
+Seat 6: Laky3004 folded on the River
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: blindtheftauto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102234513: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2025/03/02 11:25:09 WET [2025/03/02 6:25:09 ET]
+Table '3861363285 6' 8-max Seat #4 is the button
+Seat 1: Hopper121 (7382 in chips) 
+Seat 3: matioks (9130 in chips) 
+Seat 4: Patience1820 (21815 in chips) 
+Seat 5: SergMark (18335 in chips) 
+Seat 6: Laky3004 (93124 in chips) 
+Seat 7: Kevin12345Mc (32027 in chips) 
+Seat 8: blindtheftauto (6660 in chips) 
+Hopper121: posts the ante 60
+matioks: posts the ante 60
+Patience1820: posts the ante 60
+SergMark: posts the ante 60
+Laky3004: posts the ante 60
+Kevin12345Mc: posts the ante 60
+blindtheftauto: posts the ante 60
+SergMark: posts small blind 300
+Laky3004: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Ah]
+Kevin12345Mc: raises 780 to 1380
+blindtheftauto: folds 
+Hopper121: folds 
+matioks: folds 
+Patience1820: folds 
+SergMark: folds 
+Laky3004: calls 780
+*** FLOP *** [8h 3d 8s]
+Laky3004: bets 600
+Kevin12345Mc: calls 600
+*** TURN *** [8h 3d 8s] [Tc]
+Laky3004: bets 600
+Kevin12345Mc: calls 600
+*** RIVER *** [8h 3d 8s Tc] [Ks]
+Laky3004: bets 600
+Kevin12345Mc: folds 
+Uncalled bet (600) returned to Laky3004
+Laky3004 collected 5880 from pot
+*** SUMMARY ***
+Total pot 5880 | Rake 0 
+Board [8h 3d 8s Tc Ks]
+Seat 1: Hopper121 folded before Flop (didn't bet)
+Seat 3: matioks folded before Flop (didn't bet)
+Seat 4: Patience1820 (button) folded before Flop (didn't bet)
+Seat 5: SergMark (small blind) folded before Flop
+Seat 6: Laky3004 (big blind) collected (5880)
+Seat 7: Kevin12345Mc folded on the River
+Seat 8: blindtheftauto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255102240615: Tournament #3861363285, $1.40+$0.10 USD Hold'em No Limit - Level VII (300/600) - 2025/03/02 11:25:55 WET [2025/03/02 6:25:55 ET]
+Table '3861363285 6' 8-max Seat #5 is the button
+Seat 1: Hopper121 (7322 in chips) 
+Seat 3: matioks (9070 in chips) 
+Seat 4: Patience1820 (21755 in chips) 
+Seat 5: SergMark (17975 in chips) 
+Seat 6: Laky3004 (96364 in chips) 
+Seat 7: Kevin12345Mc (29387 in chips) 
+Seat 8: blindtheftauto (6600 in chips) 
+Hopper121: posts the ante 60
+matioks: posts the ante 60
+Patience1820: posts the ante 60
+SergMark: posts the ante 60
+Laky3004: posts the ante 60
+Kevin12345Mc: posts the ante 60
+blindtheftauto: posts the ante 60
+Laky3004: posts small blind 300
+Kevin12345Mc: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Ks]
+blindtheftauto: raises 5940 to 6540 and is all-in
+Hopper121: folds 
+matioks: folds 
+Patience1820: folds 
+SergMark: folds 
+sasix62 is disconnected 
+Laky3004: calls 6240
+Kevin12345Mc: raises 22787 to 29327 and is all-in
+Laky3004: calls 22787
+*** FLOP *** [6s 8h Qh]
+*** TURN *** [6s 8h Qh] [9d]
+*** RIVER *** [6s 8h Qh 9d] [Jd]
+*** SHOW DOWN ***
+Laky3004: shows [9h 6h] (two pair, Nines and Sixes)
+Kevin12345Mc: shows [Kc Ks] (a pair of Kings)
+Laky3004 collected 45574 from side pot
+blindtheftauto: shows [9s Kd] (a pair of Nines)
+Laky3004 collected 20040 from main pot
+Kevin12345Mc finished the tournament
+blindtheftauto finished the tournament
+*** SUMMARY ***
+Total pot 65614 Main pot 20040. Side pot 45574. | Rake 0 
+Board [6s 8h Qh 9d Jd]
+Seat 1: Hopper121 folded before Flop (didn't bet)
+Seat 3: matioks folded before Flop (didn't bet)
+Seat 4: Patience1820 folded before Flop (didn't bet)
+Seat 5: SergMark (button) folded before Flop (didn't bet)
+Seat 6: Laky3004 (small blind) showed [9h 6h] and won (65614) with two pair, Nines and Sixes
+Seat 7: Kevin12345Mc (big blind) showed [Kc Ks] and lost with a pair of Kings
+Seat 8: blindtheftauto showed [9s Kd] and lost with a pair of Nines
+
+
+

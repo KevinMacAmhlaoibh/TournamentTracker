@@ -1,0 +1,4018 @@
+﻿PokerStars Hand #254671614363: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/02 16:59:54 WET [2025/02/02 11:59:54 ET]
+Table '3852815992 11' 8-max Seat #1 is the button
+Seat 1: Elbiète2Mons (5000 in chips) 
+Seat 2: Kevin12345Mc (5000 in chips) 
+Seat 3: KCUL13 (5000 in chips) 
+Seat 4: AnjinhoTrex (5000 in chips) 
+Seat 5: Dzon1ukaz (5000 in chips) 
+Seat 6: D.Brownlight (5000 in chips) 
+Seat 7: MathiasPela (5000 in chips) 
+Seat 8: P10KUS (5000 in chips) 
+Elbiète2Mons: posts the ante 4
+Kevin12345Mc: posts the ante 4
+KCUL13: posts the ante 4
+AnjinhoTrex: posts the ante 4
+Dzon1ukaz: posts the ante 4
+D.Brownlight: posts the ante 4
+MathiasPela: posts the ante 4
+P10KUS: posts the ante 4
+Kevin12345Mc: posts small blind 15
+KCUL13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad Ks]
+AnjinhoTrex: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 30
+MathiasPela: folds 
+P10KUS: folds 
+Elbiète2Mons: raises 75 to 105
+Kevin12345Mc: raises 255 to 360
+KCUL13: folds 
+D.Brownlight: folds 
+Elbiète2Mons: folds 
+Uncalled bet (255) returned to Kevin12345Mc
+Kevin12345Mc collected 302 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 302 | Rake 0 
+Seat 1: Elbiète2Mons (button) folded before Flop
+Seat 2: Kevin12345Mc (small blind) collected (302)
+Seat 3: KCUL13 (big blind) folded before Flop
+Seat 4: AnjinhoTrex folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: P10KUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671622841: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/02 17:00:37 WET [2025/02/02 12:00:37 ET]
+Table '3852815992 11' 8-max Seat #2 is the button
+Seat 1: Elbiète2Mons (4891 in chips) 
+Seat 2: Kevin12345Mc (5193 in chips) 
+Seat 3: KCUL13 (4966 in chips) 
+Seat 5: Dzon1ukaz (4996 in chips) 
+Seat 6: D.Brownlight (4966 in chips) 
+Seat 7: MathiasPela (4996 in chips) 
+Seat 8: P10KUS (4996 in chips) 
+Elbiète2Mons: posts the ante 4
+Kevin12345Mc: posts the ante 4
+KCUL13: posts the ante 4
+Dzon1ukaz: posts the ante 4
+D.Brownlight: posts the ante 4
+MathiasPela: posts the ante 4
+P10KUS: posts the ante 4
+KCUL13: posts small blind 15
+Dzon1ukaz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Ts]
+D.Brownlight: folds 
+MathiasPela: folds 
+P10KUS: folds 
+Elbiète2Mons: raises 60 to 90
+Kevin12345Mc: folds 
+KCUL13: folds 
+Dzon1ukaz: calls 60
+*** FLOP *** [Th Jc Jh]
+CharlysDad is disconnected 
+Dzon1ukaz: checks 
+Elbiète2Mons: checks 
+*** TURN *** [Th Jc Jh] [8s]
+Dzon1ukaz: bets 112
+Elbiète2Mons: calls 112
+*** RIVER *** [Th Jc Jh 8s] [7c]
+Dzon1ukaz: checks 
+Elbiète2Mons: checks 
+*** SHOW DOWN ***
+Dzon1ukaz: shows [Ad 4s] (a pair of Jacks)
+Elbiète2Mons: shows [8c Kh] (two pair, Jacks and Eights)
+Elbiète2Mons collected 447 from pot
+*** SUMMARY ***
+Total pot 447 | Rake 0 
+Board [Th Jc Jh 8s 7c]
+Seat 1: Elbiète2Mons showed [8c Kh] and won (447) with two pair, Jacks and Eights
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: KCUL13 (small blind) folded before Flop
+Seat 5: Dzon1ukaz (big blind) showed [Ad 4s] and lost with a pair of Jacks
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: P10KUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671633358: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/02 17:01:23 WET [2025/02/02 12:01:23 ET]
+Table '3852815992 11' 8-max Seat #3 is the button
+Seat 1: Elbiète2Mons (5132 in chips) 
+Seat 2: Kevin12345Mc (5189 in chips) 
+Seat 3: KCUL13 (4947 in chips) 
+Seat 4: CharlysDad (5000 in chips) out of hand (moved from another table into small blind)
+Seat 5: Dzon1ukaz (4790 in chips) 
+Seat 6: D.Brownlight (4962 in chips) 
+Seat 7: MathiasPela (4992 in chips) 
+Seat 8: P10KUS (4992 in chips) 
+CharlysDad will be allowed to play after the button
+Elbiète2Mons: posts the ante 4
+Kevin12345Mc: posts the ante 4
+KCUL13: posts the ante 4
+Dzon1ukaz: posts the ante 4
+D.Brownlight: posts the ante 4
+MathiasPela: posts the ante 4
+P10KUS: posts the ante 4
+Dzon1ukaz: posts small blind 15
+D.Brownlight: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 2d]
+MathiasPela: folds 
+P10KUS: folds 
+Elbiète2Mons: raises 60 to 90
+Kevin12345Mc: folds 
+KCUL13: calls 90
+Dzon1ukaz: raises 328 to 418
+D.Brownlight: calls 388
+Elbiète2Mons: calls 328
+KCUL13: calls 328
+*** FLOP *** [Ac 5d Jc]
+Dzon1ukaz: checks 
+D.Brownlight: checks 
+Elbiète2Mons: bets 561
+KCUL13: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 561
+*** TURN *** [Ac 5d Jc] [5c]
+D.Brownlight: checks 
+Elbiète2Mons: checks 
+*** RIVER *** [Ac 5d Jc 5c] [2c]
+D.Brownlight: bets 3979 and is all-in
+Elbiète2Mons: folds 
+Uncalled bet (3979) returned to D.Brownlight
+D.Brownlight collected 2822 from pot
+D.Brownlight: doesn't show hand 
+*** SUMMARY ***
+Total pot 2822 | Rake 0 
+Board [Ac 5d Jc 5c 2c]
+Seat 1: Elbiète2Mons folded on the River
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: KCUL13 (button) folded on the Flop
+Seat 5: Dzon1ukaz (small blind) folded on the Flop
+Seat 6: D.Brownlight (big blind) collected (2822)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: P10KUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671661324: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/02 17:03:05 WET [2025/02/02 12:03:05 ET]
+Table '3852815992 11' 8-max Seat #5 is the button
+Seat 1: Elbiète2Mons (4149 in chips) 
+Seat 2: Kevin12345Mc (5185 in chips) 
+Seat 3: KCUL13 (4525 in chips) 
+Seat 4: CharlysDad (5000 in chips) 
+Seat 5: Dzon1ukaz (4368 in chips) 
+Seat 6: D.Brownlight (6801 in chips) 
+Seat 7: MathiasPela (4988 in chips) 
+Seat 8: P10KUS (4988 in chips) 
+Elbiète2Mons: posts the ante 4
+Kevin12345Mc: posts the ante 4
+KCUL13: posts the ante 4
+CharlysDad: posts the ante 4
+Dzon1ukaz: posts the ante 4
+D.Brownlight: posts the ante 4
+MathiasPela: posts the ante 4
+P10KUS: posts the ante 4
+D.Brownlight: posts small blind 15
+MathiasPela: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Qh]
+P10KUS: folds 
+Elbiète2Mons: folds 
+Kevin12345Mc: folds 
+KCUL13: raises 30 to 60
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 45
+MathiasPela: calls 30
+*** FLOP *** [2c Ac 9d]
+D.Brownlight: checks 
+MathiasPela: checks 
+KCUL13: bets 106
+D.Brownlight: folds 
+MathiasPela: folds 
+Uncalled bet (106) returned to KCUL13
+KCUL13 collected 212 from pot
+KCUL13: doesn't show hand 
+*** SUMMARY ***
+Total pot 212 | Rake 0 
+Board [2c Ac 9d]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: KCUL13 collected (212)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz (button) folded before Flop (didn't bet)
+Seat 6: D.Brownlight (small blind) folded on the Flop
+Seat 7: MathiasPela (big blind) folded on the Flop
+Seat 8: P10KUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671673477: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/02 17:03:48 WET [2025/02/02 12:03:48 ET]
+Table '3852815992 11' 8-max Seat #6 is the button
+Seat 1: Elbiète2Mons (4145 in chips) 
+Seat 2: Kevin12345Mc (5181 in chips) 
+Seat 3: KCUL13 (4673 in chips) 
+Seat 4: CharlysDad (4996 in chips) 
+Seat 5: Dzon1ukaz (4364 in chips) 
+Seat 6: D.Brownlight (6737 in chips) 
+Seat 7: MathiasPela (4924 in chips) 
+Seat 8: P10KUS (4984 in chips) 
+Elbiète2Mons: posts the ante 4
+Kevin12345Mc: posts the ante 4
+KCUL13: posts the ante 4
+CharlysDad: posts the ante 4
+Dzon1ukaz: posts the ante 4
+D.Brownlight: posts the ante 4
+MathiasPela: posts the ante 4
+P10KUS: posts the ante 4
+MathiasPela: posts small blind 15
+P10KUS: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 2c]
+Elbiète2Mons: folds 
+Kevin12345Mc: folds 
+KCUL13: calls 30
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 30
+MathiasPela: raises 105 to 135
+P10KUS: folds 
+KCUL13: calls 105
+D.Brownlight: calls 105
+*** FLOP *** [2h 3h 7d]
+MathiasPela: bets 195
+KCUL13: calls 195
+D.Brownlight: calls 195
+*** TURN *** [2h 3h 7d] [Qs]
+MathiasPela: checks 
+KCUL13: checks 
+D.Brownlight: checks 
+*** RIVER *** [2h 3h 7d Qs] [9s]
+MathiasPela: checks 
+KCUL13: checks 
+D.Brownlight: bets 800
+MathiasPela: calls 800
+KCUL13: folds 
+*** SHOW DOWN ***
+D.Brownlight: shows [Ks 9h] (a pair of Nines)
+MathiasPela: shows [Js Jh] (a pair of Jacks)
+MathiasPela collected 2652 from pot
+*** SUMMARY ***
+Total pot 2652 | Rake 0 
+Board [2h 3h 7d Qs 9s]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: KCUL13 folded on the River
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz folded before Flop (didn't bet)
+Seat 6: D.Brownlight (button) showed [Ks 9h] and lost with a pair of Nines
+Seat 7: MathiasPela (small blind) showed [Js Jh] and won (2652) with a pair of Jacks
+Seat 8: P10KUS (big blind) folded before Flop
+
+
+
+PokerStars Hand #254671709793: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/02 17:05:48 WET [2025/02/02 12:05:48 ET]
+Table '3852815992 11' 8-max Seat #7 is the button
+Seat 1: Elbiète2Mons (4141 in chips) 
+Seat 2: Kevin12345Mc (5177 in chips) 
+Seat 3: KCUL13 (4339 in chips) 
+Seat 4: CharlysDad (4992 in chips) 
+Seat 5: Dzon1ukaz (4360 in chips) 
+Seat 6: D.Brownlight (5603 in chips) 
+Seat 7: MathiasPela (6442 in chips) 
+Seat 8: P10KUS (4950 in chips) 
+Elbiète2Mons: posts the ante 4
+Kevin12345Mc: posts the ante 4
+KCUL13: posts the ante 4
+CharlysDad: posts the ante 4
+Dzon1ukaz: posts the ante 4
+D.Brownlight: posts the ante 4
+MathiasPela: posts the ante 4
+P10KUS: posts the ante 4
+P10KUS: posts small blind 15
+Elbiète2Mons: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 7s]
+Kevin12345Mc: folds 
+KCUL13: folds 
+CharlysDad: folds 
+Dzon1ukaz: raises 30 to 60
+D.Brownlight: calls 60
+MathiasPela: folds 
+P10KUS: folds 
+Elbiète2Mons: calls 30
+*** FLOP *** [Kh Ks Ad]
+Elbiète2Mons: checks 
+Dzon1ukaz: checks 
+D.Brownlight: checks 
+*** TURN *** [Kh Ks Ad] [3h]
+Elbiète2Mons: checks 
+Dzon1ukaz: bets 30
+D.Brownlight: calls 30
+Elbiète2Mons: calls 30
+*** RIVER *** [Kh Ks Ad 3h] [Tc]
+Elbiète2Mons: checks 
+Dzon1ukaz: bets 360
+D.Brownlight: folds 
+Elbiète2Mons: folds 
+Uncalled bet (360) returned to Dzon1ukaz
+Dzon1ukaz collected 317 from pot
+Dzon1ukaz: doesn't show hand 
+*** SUMMARY ***
+Total pot 317 | Rake 0 
+Board [Kh Ks Ad 3h Tc]
+Seat 1: Elbiète2Mons (big blind) folded on the River
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: KCUL13 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz collected (317)
+Seat 6: D.Brownlight folded on the River
+Seat 7: MathiasPela (button) folded before Flop (didn't bet)
+Seat 8: P10KUS (small blind) folded before Flop
+
+
+
+PokerStars Hand #254671734438: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/02 17:07:10 WET [2025/02/02 12:07:10 ET]
+Table '3852815992 11' 8-max Seat #8 is the button
+Seat 1: Elbiète2Mons (4047 in chips) 
+Seat 2: Kevin12345Mc (5173 in chips) 
+Seat 3: KCUL13 (4335 in chips) 
+Seat 4: CharlysDad (4988 in chips) 
+Seat 5: Dzon1ukaz (4583 in chips) 
+Seat 6: D.Brownlight (5509 in chips) 
+Seat 7: MathiasPela (6438 in chips) 
+Seat 8: P10KUS (4931 in chips) 
+Elbiète2Mons: posts the ante 4
+Kevin12345Mc: posts the ante 4
+KCUL13: posts the ante 4
+CharlysDad: posts the ante 4
+Dzon1ukaz: posts the ante 4
+D.Brownlight: posts the ante 4
+MathiasPela: posts the ante 4
+P10KUS: posts the ante 4
+Elbiète2Mons: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 4d]
+KCUL13: folds 
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+P10KUS: folds 
+Elbiète2Mons: calls 15
+Kevin12345Mc: checks 
+*** FLOP *** [5c Th Qc]
+Elbiète2Mons: bets 30
+Kevin12345Mc: calls 30
+*** TURN *** [5c Th Qc] [Jd]
+Elbiète2Mons: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [5c Th Qc Jd] [5h]
+Elbiète2Mons: checks 
+Kevin12345Mc: bets 100
+Elbiète2Mons: calls 100
+*** SHOW DOWN ***
+Kevin12345Mc: shows [5d 4d] (three of a kind, Fives)
+Elbiète2Mons: mucks hand 
+Kevin12345Mc collected 352 from pot
+*** SUMMARY ***
+Total pot 352 | Rake 0 
+Board [5c Th Qc Jd 5h]
+Seat 1: Elbiète2Mons (small blind) mucked [Js Kd]
+Seat 2: Kevin12345Mc (big blind) showed [5d 4d] and won (352) with three of a kind, Fives
+Seat 3: KCUL13 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: P10KUS (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671744847: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/02 17:07:44 WET [2025/02/02 12:07:44 ET]
+Table '3852815992 11' 8-max Seat #1 is the button
+Seat 1: Elbiète2Mons (3883 in chips) 
+Seat 2: Kevin12345Mc (5361 in chips) 
+Seat 3: KCUL13 (4331 in chips) 
+Seat 4: CharlysDad (4984 in chips) 
+Seat 5: Dzon1ukaz (4579 in chips) 
+Seat 6: D.Brownlight (5505 in chips) 
+Seat 7: MathiasPela (6434 in chips) 
+Seat 8: P10KUS (4927 in chips) 
+Elbiète2Mons: posts the ante 4
+Kevin12345Mc: posts the ante 4
+KCUL13: posts the ante 4
+CharlysDad: posts the ante 4
+Dzon1ukaz: posts the ante 4
+D.Brownlight: posts the ante 4
+MathiasPela: posts the ante 4
+P10KUS: posts the ante 4
+Kevin12345Mc: posts small blind 15
+KCUL13: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Tc]
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 30
+MathiasPela: folds 
+P10KUS: folds 
+Elbiète2Mons: raises 75 to 105
+Kevin12345Mc: folds 
+KCUL13: calls 75
+D.Brownlight: raises 195 to 300
+Elbiète2Mons: calls 195
+KCUL13: calls 195
+*** FLOP *** [Kd 5h 9s]
+KCUL13: checks 
+D.Brownlight: checks 
+Elbiète2Mons: checks 
+*** TURN *** [Kd 5h 9s] [Js]
+KCUL13: checks 
+D.Brownlight: checks 
+Elbiète2Mons: checks 
+*** RIVER *** [Kd 5h 9s Js] [6c]
+KCUL13: checks 
+D.Brownlight: checks 
+Elbiète2Mons: checks 
+*** SHOW DOWN ***
+KCUL13: shows [4c 5d] (a pair of Fives)
+D.Brownlight: shows [As Jd] (a pair of Jacks)
+Elbiète2Mons: mucks hand 
+D.Brownlight collected 947 from pot
+*** SUMMARY ***
+Total pot 947 | Rake 0 
+Board [Kd 5h 9s Js 6c]
+Seat 1: Elbiète2Mons (button) mucked [Qh Ac]
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: KCUL13 (big blind) showed [4c 5d] and lost with a pair of Fives
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz folded before Flop (didn't bet)
+Seat 6: D.Brownlight showed [As Jd] and won (947) with a pair of Jacks
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: P10KUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671776128: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/02 17:09:27 WET [2025/02/02 12:09:27 ET]
+Table '3852815992 11' 8-max Seat #2 is the button
+Seat 1: Elbiète2Mons (3579 in chips) 
+Seat 2: Kevin12345Mc (5342 in chips) 
+Seat 3: KCUL13 (4027 in chips) 
+Seat 4: CharlysDad (4980 in chips) 
+Seat 5: Dzon1ukaz (4575 in chips) 
+Seat 6: D.Brownlight (6148 in chips) 
+Seat 7: MathiasPela (6430 in chips) 
+Seat 8: P10KUS (4923 in chips) 
+Elbiète2Mons: posts the ante 4
+Kevin12345Mc: posts the ante 4
+KCUL13: posts the ante 4
+CharlysDad: posts the ante 4
+Dzon1ukaz: posts the ante 4
+D.Brownlight: posts the ante 4
+MathiasPela: posts the ante 4
+P10KUS: posts the ante 4
+KCUL13: posts small blind 15
+CharlysDad: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 5s]
+Dzon1ukaz: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+P10KUS: folds 
+Elbiète2Mons: folds 
+Kevin12345Mc: raises 39 to 69
+KCUL13: folds 
+CharlysDad: folds 
+Uncalled bet (39) returned to Kevin12345Mc
+Kevin12345Mc collected 107 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 107 | Rake 0 
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) collected (107)
+Seat 3: KCUL13 (small blind) folded before Flop
+Seat 4: CharlysDad (big blind) folded before Flop
+Seat 5: Dzon1ukaz folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: P10KUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671782759: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/02 17:09:49 WET [2025/02/02 12:09:49 ET]
+Table '3852815992 11' 8-max Seat #3 is the button
+Seat 1: Elbiète2Mons (3575 in chips) 
+Seat 2: Kevin12345Mc (5415 in chips) 
+Seat 3: KCUL13 (4008 in chips) 
+Seat 4: CharlysDad (4946 in chips) 
+Seat 5: Dzon1ukaz (4571 in chips) 
+Seat 6: D.Brownlight (6144 in chips) 
+Seat 7: MathiasPela (6426 in chips) 
+Seat 8: P10KUS (4919 in chips) 
+Elbiète2Mons: posts the ante 4
+Kevin12345Mc: posts the ante 4
+KCUL13: posts the ante 4
+CharlysDad: posts the ante 4
+Dzon1ukaz: posts the ante 4
+D.Brownlight: posts the ante 4
+MathiasPela: posts the ante 4
+P10KUS: posts the ante 4
+CharlysDad: posts small blind 15
+Dzon1ukaz: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac Kh]
+D.Brownlight: folds 
+MathiasPela: folds 
+P10KUS: folds 
+Elbiète2Mons: folds 
+Kevin12345Mc: raises 39 to 69
+KCUL13: folds 
+CharlysDad: folds 
+Dzon1ukaz: raises 201 to 270
+Kevin12345Mc: raises 480 to 750
+Dzon1ukaz: raises 3817 to 4567 and is all-in
+Kevin12345Mc: calls 3817
+*** FLOP *** [5s Ts Qc]
+*** TURN *** [5s Ts Qc] [Kd]
+*** RIVER *** [5s Ts Qc Kd] [9s]
+*** SHOW DOWN ***
+Dzon1ukaz: shows [Ad Ah] (a pair of Aces)
+Kevin12345Mc: shows [Ac Kh] (a pair of Kings)
+Dzon1ukaz collected 9181 from pot
+*** SUMMARY ***
+Total pot 9181 | Rake 0 
+Board [5s Ts Qc Kd 9s]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc showed [Ac Kh] and lost with a pair of Kings
+Seat 3: KCUL13 (button) folded before Flop (didn't bet)
+Seat 4: CharlysDad (small blind) folded before Flop
+Seat 5: Dzon1ukaz (big blind) showed [Ad Ah] and won (9181) with a pair of Aces
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: P10KUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671801015: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/02 17:10:48 WET [2025/02/02 12:10:48 ET]
+Table '3852815992 11' 8-max Seat #4 is the button
+Seat 1: Elbiète2Mons (3571 in chips) 
+Seat 2: Kevin12345Mc (844 in chips) 
+Seat 3: KCUL13 (4004 in chips) 
+Seat 4: CharlysDad (4927 in chips) 
+Seat 5: Dzon1ukaz (9181 in chips) 
+Seat 6: D.Brownlight (6140 in chips) 
+Seat 7: MathiasPela (6422 in chips) 
+Seat 8: P10KUS (4915 in chips) 
+Elbiète2Mons: posts the ante 5
+Kevin12345Mc: posts the ante 5
+KCUL13: posts the ante 5
+CharlysDad: posts the ante 5
+Dzon1ukaz: posts the ante 5
+D.Brownlight: posts the ante 5
+MathiasPela: posts the ante 5
+P10KUS: posts the ante 5
+Dzon1ukaz: posts small blind 20
+D.Brownlight: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 3c]
+MathiasPela: folds 
+P10KUS: raises 52 to 92
+Elbiète2Mons: calls 92
+Kevin12345Mc: folds 
+KCUL13: calls 92
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: folds 
+*** FLOP *** [Ts 4h 2s]
+P10KUS: bets 248
+Elbiète2Mons: calls 248
+KCUL13: folds 
+*** TURN *** [Ts 4h 2s] [7s]
+P10KUS: bets 436
+Elbiète2Mons: raises 764 to 1200
+P10KUS: calls 764
+*** RIVER *** [Ts 4h 2s 7s] [Qc]
+P10KUS: checks 
+Elbiète2Mons: bets 2026 and is all-in
+P10KUS: folds 
+Uncalled bet (2026) returned to Elbiète2Mons
+Elbiète2Mons collected 3272 from pot
+Elbiète2Mons: doesn't show hand 
+*** SUMMARY ***
+Total pot 3272 | Rake 0 
+Board [Ts 4h 2s 7s Qc]
+Seat 1: Elbiète2Mons collected (3272)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: KCUL13 folded on the Flop
+Seat 4: CharlysDad (button) folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz (small blind) folded before Flop
+Seat 6: D.Brownlight (big blind) folded before Flop
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: P10KUS folded on the River
+
+
+
+PokerStars Hand #254671821067: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/02 17:11:52 WET [2025/02/02 12:11:52 ET]
+Table '3852815992 11' 8-max Seat #5 is the button
+Seat 1: Elbiète2Mons (5298 in chips) 
+Seat 2: Kevin12345Mc (839 in chips) 
+Seat 3: KCUL13 (3907 in chips) 
+Seat 4: CharlysDad (4922 in chips) 
+Seat 5: Dzon1ukaz (9156 in chips) 
+Seat 6: D.Brownlight (6095 in chips) 
+Seat 7: MathiasPela (6417 in chips) 
+Seat 8: P10KUS (3370 in chips) 
+Elbiète2Mons: posts the ante 5
+Kevin12345Mc: posts the ante 5
+KCUL13: posts the ante 5
+CharlysDad: posts the ante 5
+Dzon1ukaz: posts the ante 5
+D.Brownlight: posts the ante 5
+MathiasPela: posts the ante 5
+P10KUS: posts the ante 5
+D.Brownlight: posts small blind 20
+MathiasPela: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Ac]
+P10KUS: folds 
+Elbiète2Mons: raises 80 to 120
+Kevin12345Mc: folds 
+KCUL13: folds 
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 100
+MathiasPela: folds 
+*** FLOP *** [Jc 8h 4c]
+D.Brownlight: checks 
+Elbiète2Mons: bets 192
+D.Brownlight: calls 192
+*** TURN *** [Jc 8h 4c] [6h]
+D.Brownlight: checks 
+Elbiète2Mons: bets 502
+D.Brownlight: folds 
+Uncalled bet (502) returned to Elbiète2Mons
+Elbiète2Mons collected 704 from pot
+Elbiète2Mons: doesn't show hand 
+*** SUMMARY ***
+Total pot 704 | Rake 0 
+Board [Jc 8h 4c 6h]
+Seat 1: Elbiète2Mons collected (704)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: KCUL13 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz (button) folded before Flop (didn't bet)
+Seat 6: D.Brownlight (small blind) folded on the Turn
+Seat 7: MathiasPela (big blind) folded before Flop
+Seat 8: P10KUS folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671841082: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/02 17:12:56 WET [2025/02/02 12:12:56 ET]
+Table '3852815992 11' 8-max Seat #6 is the button
+Seat 1: Elbiète2Mons (5685 in chips) 
+Seat 2: Kevin12345Mc (834 in chips) 
+Seat 3: KCUL13 (3902 in chips) 
+Seat 4: CharlysDad (4917 in chips) 
+Seat 5: Dzon1ukaz (9151 in chips) 
+Seat 6: D.Brownlight (5778 in chips) 
+Seat 7: MathiasPela (6372 in chips) 
+Elbiète2Mons: posts the ante 5
+Kevin12345Mc: posts the ante 5
+KCUL13: posts the ante 5
+CharlysDad: posts the ante 5
+Dzon1ukaz: posts the ante 5
+D.Brownlight: posts the ante 5
+MathiasPela: posts the ante 5
+MathiasPela: posts small blind 20
+Elbiète2Mons: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 5d]
+Kevin12345Mc: folds 
+KCUL13: calls 40
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 40
+MathiasPela: calls 20
+Elbiète2Mons: checks 
+*** FLOP *** [Jc As 7c]
+MathiasPela: checks 
+Elbiète2Mons: checks 
+KCUL13: checks 
+D.Brownlight: checks 
+*** TURN *** [Jc As 7c] [9h]
+MathiasPela: checks 
+Elbiète2Mons: checks 
+KCUL13: checks 
+D.Brownlight: checks 
+*** RIVER *** [Jc As 7c 9h] [5c]
+MathiasPela: checks 
+Elbiète2Mons: checks 
+KCUL13: checks 
+D.Brownlight: checks 
+*** SHOW DOWN ***
+MathiasPela: shows [3s 6s] (high card Ace)
+Elbiète2Mons: shows [Ks 5s] (a pair of Fives)
+KCUL13: shows [Kh 9s] (a pair of Nines)
+D.Brownlight: mucks hand 
+KCUL13 collected 195 from pot
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [Jc As 7c 9h 5c]
+Seat 1: Elbiète2Mons (big blind) showed [Ks 5s] and lost with a pair of Fives
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: KCUL13 showed [Kh 9s] and won (195) with a pair of Nines
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz folded before Flop (didn't bet)
+Seat 6: D.Brownlight (button) mucked [2h 4d]
+Seat 7: MathiasPela (small blind) showed [3s 6s] and lost with high card Ace
+
+
+
+PokerStars Hand #254671863958: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/02 17:14:08 WET [2025/02/02 12:14:08 ET]
+Table '3852815992 11' 8-max Seat #7 is the button
+Seat 1: Elbiète2Mons (5640 in chips) 
+Seat 2: Kevin12345Mc (829 in chips) 
+Seat 3: KCUL13 (4052 in chips) 
+Seat 4: CharlysDad (4912 in chips) 
+Seat 5: Dzon1ukaz (9146 in chips) 
+Seat 6: D.Brownlight (5733 in chips) 
+Seat 7: MathiasPela (6327 in chips) 
+Seat 8: saoirse819 (5000 in chips) out of hand (moved from another table into small blind)
+saoirse819 will be allowed to play after the button
+Elbiète2Mons: posts the ante 5
+Kevin12345Mc: posts the ante 5
+KCUL13: posts the ante 5
+CharlysDad: posts the ante 5
+Dzon1ukaz: posts the ante 5
+D.Brownlight: posts the ante 5
+MathiasPela: posts the ante 5
+Elbiète2Mons: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 2d]
+KCUL13: calls 40
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 40
+MathiasPela: folds 
+Elbiète2Mons: calls 20
+Kevin12345Mc: checks 
+*** FLOP *** [4d Ah 2s]
+Elbiète2Mons: checks 
+Kevin12345Mc: checks 
+KCUL13: checks 
+D.Brownlight: checks 
+*** TURN *** [4d Ah 2s] [Td]
+Elbiète2Mons: checks 
+Kevin12345Mc: bets 64
+KCUL13: folds 
+D.Brownlight: folds 
+Elbiète2Mons: folds 
+Uncalled bet (64) returned to Kevin12345Mc
+Kevin12345Mc collected 195 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [4d Ah 2s Td]
+Seat 1: Elbiète2Mons (small blind) folded on the Turn
+Seat 2: Kevin12345Mc (big blind) collected (195)
+Seat 3: KCUL13 folded on the Turn
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded on the Turn
+Seat 7: MathiasPela (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671894553: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/02 17:15:45 WET [2025/02/02 12:15:45 ET]
+Table '3852815992 11' 8-max Seat #1 is the button
+Seat 1: Elbiète2Mons (5595 in chips) 
+Seat 2: Kevin12345Mc (979 in chips) 
+Seat 3: KCUL13 (4007 in chips) 
+Seat 4: CharlysDad (4907 in chips) 
+Seat 5: Dzon1ukaz (9141 in chips) 
+Seat 6: D.Brownlight (5688 in chips) 
+Seat 7: MathiasPela (6322 in chips) 
+Seat 8: saoirse819 (5000 in chips) 
+Elbiète2Mons: posts the ante 5
+Kevin12345Mc: posts the ante 5
+KCUL13: posts the ante 5
+CharlysDad: posts the ante 5
+Dzon1ukaz: posts the ante 5
+D.Brownlight: posts the ante 5
+MathiasPela: posts the ante 5
+saoirse819: posts the ante 5
+Kevin12345Mc: posts small blind 20
+KCUL13: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 4c]
+CharlysDad: folds 
+Dzon1ukaz: raises 40 to 80
+D.Brownlight: calls 80
+MathiasPela: folds 
+saoirse819: folds 
+Elbiète2Mons: folds 
+Kevin12345Mc: folds 
+KCUL13: calls 40
+*** FLOP *** [2d Ah 4d]
+KCUL13: checks 
+Dzon1ukaz: checks 
+D.Brownlight: checks 
+*** TURN *** [2d Ah 4d] [Js]
+KCUL13: bets 150
+Dzon1ukaz: calls 150
+D.Brownlight: folds 
+*** RIVER *** [2d Ah 4d Js] [7h]
+KCUL13: checks 
+Dzon1ukaz: checks 
+*** SHOW DOWN ***
+KCUL13: shows [3c Qc] (high card Ace)
+Dzon1ukaz: shows [6h 6c] (a pair of Sixes)
+Dzon1ukaz collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [2d Ah 4d Js 7h]
+Seat 1: Elbiète2Mons (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: KCUL13 (big blind) showed [3c Qc] and lost with high card Ace
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz showed [6h 6c] and won (600) with a pair of Sixes
+Seat 6: D.Brownlight folded on the Turn
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: saoirse819 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254671922261: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/02 17:17:13 WET [2025/02/02 12:17:13 ET]
+Table '3852815992 11' 8-max Seat #2 is the button
+Seat 1: Elbiète2Mons (5590 in chips) 
+Seat 2: Kevin12345Mc (954 in chips) 
+Seat 3: KCUL13 (3772 in chips) 
+Seat 4: CharlysDad (4902 in chips) 
+Seat 5: Dzon1ukaz (9506 in chips) 
+Seat 6: D.Brownlight (5603 in chips) 
+Seat 7: MathiasPela (6317 in chips) 
+Seat 8: saoirse819 (4995 in chips) 
+Elbiète2Mons: posts the ante 5
+Kevin12345Mc: posts the ante 5
+KCUL13: posts the ante 5
+CharlysDad: posts the ante 5
+Dzon1ukaz: posts the ante 5
+D.Brownlight: posts the ante 5
+MathiasPela: posts the ante 5
+saoirse819: posts the ante 5
+KCUL13: posts small blind 20
+CharlysDad: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 2c]
+Dzon1ukaz: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+saoirse819: calls 40
+Elbiète2Mons: folds 
+Kevin12345Mc: calls 40
+KCUL13: calls 20
+CharlysDad: checks 
+*** FLOP *** [5c Jd Kc]
+KCUL13: checks 
+CharlysDad: checks 
+saoirse819: checks 
+Kevin12345Mc: checks 
+*** TURN *** [5c Jd Kc] [9d]
+KCUL13: checks 
+CharlysDad: checks 
+saoirse819: bets 100
+Kevin12345Mc: folds 
+KCUL13: folds 
+CharlysDad: folds 
+Uncalled bet (100) returned to saoirse819
+saoirse819 collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [5c Jd Kc 9d]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded on the Turn
+Seat 3: KCUL13 (small blind) folded on the Turn
+Seat 4: CharlysDad (big blind) folded on the Turn
+Seat 5: Dzon1ukaz folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: saoirse819 collected (200)
+
+
+
+PokerStars Hand #254671940486: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/02 17:18:11 WET [2025/02/02 12:18:11 ET]
+Table '3852815992 11' 8-max Seat #3 is the button
+Seat 1: Elbiète2Mons (5585 in chips) 
+Seat 2: Kevin12345Mc (909 in chips) 
+Seat 3: KCUL13 (3727 in chips) 
+Seat 4: CharlysDad (4857 in chips) 
+Seat 5: Dzon1ukaz (9501 in chips) 
+Seat 6: D.Brownlight (5598 in chips) 
+Seat 7: MathiasPela (6312 in chips) 
+Seat 8: saoirse819 (5150 in chips) 
+Elbiète2Mons: posts the ante 5
+Kevin12345Mc: posts the ante 5
+KCUL13: posts the ante 5
+CharlysDad: posts the ante 5
+Dzon1ukaz: posts the ante 5
+D.Brownlight: posts the ante 5
+MathiasPela: posts the ante 5
+saoirse819: posts the ante 5
+CharlysDad: posts small blind 20
+Dzon1ukaz: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s Jc]
+D.Brownlight: calls 40
+MathiasPela: folds 
+saoirse819: calls 40
+Elbiète2Mons: folds 
+Kevin12345Mc: folds 
+KCUL13: raises 120 to 160
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 120
+saoirse819: calls 120
+*** FLOP *** [As 4h 4d]
+D.Brownlight: checks 
+saoirse819: checks 
+KCUL13: bets 290
+D.Brownlight: folds 
+saoirse819: folds 
+Uncalled bet (290) returned to KCUL13
+KCUL13 collected 580 from pot
+KCUL13: doesn't show hand 
+*** SUMMARY ***
+Total pot 580 | Rake 0 
+Board [As 4h 4d]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: KCUL13 (button) collected (580)
+Seat 4: CharlysDad (small blind) folded before Flop
+Seat 5: Dzon1ukaz (big blind) folded before Flop
+Seat 6: D.Brownlight folded on the Flop
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: saoirse819 folded on the Flop
+
+
+
+PokerStars Hand #254671967840: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/02 17:19:37 WET [2025/02/02 12:19:37 ET]
+Table '3852815992 11' 8-max Seat #4 is the button
+Seat 1: Elbiète2Mons (5580 in chips) 
+Seat 2: Kevin12345Mc (904 in chips) 
+Seat 3: KCUL13 (4142 in chips) 
+Seat 4: CharlysDad (4832 in chips) 
+Seat 5: Dzon1ukaz (9456 in chips) 
+Seat 6: D.Brownlight (5433 in chips) 
+Seat 7: MathiasPela (6307 in chips) 
+Seat 8: saoirse819 (4985 in chips) 
+Elbiète2Mons: posts the ante 5
+Kevin12345Mc: posts the ante 5
+KCUL13: posts the ante 5
+CharlysDad: posts the ante 5
+Dzon1ukaz: posts the ante 5
+D.Brownlight: posts the ante 5
+MathiasPela: posts the ante 5
+saoirse819: posts the ante 5
+Dzon1ukaz: posts small blind 20
+D.Brownlight: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 9s]
+MathiasPela: folds 
+saoirse819: calls 40
+Elbiète2Mons: folds 
+Kevin12345Mc: raises 92 to 132
+KCUL13: calls 132
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 92
+saoirse819: calls 92
+*** FLOP *** [7c 2d 4c]
+D.Brownlight: checks 
+saoirse819: checks 
+Kevin12345Mc: bets 194
+KCUL13: calls 194
+D.Brownlight: calls 194
+saoirse819: calls 194
+*** TURN *** [7c 2d 4c] [Th]
+D.Brownlight: checks 
+saoirse819: checks 
+Kevin12345Mc: bets 573 and is all-in
+KCUL13: folds 
+D.Brownlight: calls 573
+saoirse819: folds 
+*** RIVER *** [7c 2d 4c Th] [Td]
+*** SHOW DOWN ***
+D.Brownlight: shows [7d Ah] (two pair, Tens and Sevens)
+Kevin12345Mc: shows [9h 9s] (two pair, Tens and Nines)
+Kevin12345Mc collected 2510 from pot
+*** SUMMARY ***
+Total pot 2510 | Rake 0 
+Board [7c 2d 4c Th Td]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc showed [9h 9s] and won (2510) with two pair, Tens and Nines
+Seat 3: KCUL13 folded on the Turn
+Seat 4: CharlysDad (button) folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz (small blind) folded before Flop
+Seat 6: D.Brownlight (big blind) showed [7d Ah] and lost with two pair, Tens and Sevens
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: saoirse819 folded on the Turn
+
+
+
+PokerStars Hand #254672008753: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/02 17:21:48 WET [2025/02/02 12:21:48 ET]
+Table '3852815992 11' 8-max Seat #5 is the button
+Seat 1: Elbiète2Mons (5575 in chips) 
+Seat 2: Kevin12345Mc (2510 in chips) 
+Seat 3: KCUL13 (3811 in chips) 
+Seat 4: CharlysDad (4827 in chips) 
+Seat 5: Dzon1ukaz (9431 in chips) 
+Seat 6: D.Brownlight (4529 in chips) 
+Seat 7: MathiasPela (6302 in chips) 
+Seat 8: saoirse819 (4654 in chips) 
+Elbiète2Mons: posts the ante 6
+Kevin12345Mc: posts the ante 6
+KCUL13: posts the ante 6
+CharlysDad: posts the ante 6
+Dzon1ukaz: posts the ante 6
+D.Brownlight: posts the ante 6
+MathiasPela: posts the ante 6
+saoirse819: posts the ante 6
+D.Brownlight: posts small blind 25
+MathiasPela: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d Qh]
+saoirse819: calls 50
+Elbiète2Mons: folds 
+Kevin12345Mc: folds 
+KCUL13: folds 
+CharlysDad: folds 
+Dzon1ukaz: calls 50
+D.Brownlight: calls 25
+MathiasPela: checks 
+*** FLOP *** [As 7h 3h]
+D.Brownlight: checks 
+MathiasPela: bets 146
+saoirse819: calls 146
+Dzon1ukaz: folds 
+D.Brownlight: calls 146
+*** TURN *** [As 7h 3h] [9s]
+D.Brownlight: checks 
+MathiasPela: bets 625
+saoirse819: calls 625
+D.Brownlight: calls 625
+*** RIVER *** [As 7h 3h 9s] [Ks]
+D.Brownlight: checks 
+MathiasPela: checks 
+saoirse819: checks 
+*** SHOW DOWN ***
+D.Brownlight: shows [5d 2c] (high card Ace)
+MathiasPela: shows [7c 3c] (two pair, Sevens and Threes)
+saoirse819: mucks hand 
+MathiasPela collected 2561 from pot
+*** SUMMARY ***
+Total pot 2561 | Rake 0 
+Board [As 7h 3h 9s Ks]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: KCUL13 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz (button) folded on the Flop
+Seat 6: D.Brownlight (small blind) showed [5d 2c] and lost with high card Ace
+Seat 7: MathiasPela (big blind) showed [7c 3c] and won (2561) with two pair, Sevens and Threes
+Seat 8: saoirse819 mucked [2h Ah]
+
+
+
+PokerStars Hand #254672050186: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/02 17:23:59 WET [2025/02/02 12:23:59 ET]
+Table '3852815992 11' 8-max Seat #6 is the button
+Seat 1: Elbiète2Mons (5569 in chips) 
+Seat 2: Kevin12345Mc (2504 in chips) 
+Seat 3: KCUL13 (3805 in chips) 
+Seat 4: CharlysDad (4821 in chips) 
+Seat 5: Dzon1ukaz (9375 in chips) 
+Seat 6: D.Brownlight (3702 in chips) 
+Seat 7: MathiasPela (8036 in chips) 
+Seat 8: saoirse819 (3827 in chips) 
+Elbiète2Mons: posts the ante 6
+Kevin12345Mc: posts the ante 6
+KCUL13: posts the ante 6
+CharlysDad: posts the ante 6
+Dzon1ukaz: posts the ante 6
+D.Brownlight: posts the ante 6
+MathiasPela: posts the ante 6
+saoirse819: posts the ante 6
+MathiasPela: posts small blind 25
+saoirse819: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s As]
+Elbiète2Mons: folds 
+Kevin12345Mc: raises 65 to 115
+KCUL13: folds 
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 115
+MathiasPela: folds 
+saoirse819: calls 65
+*** FLOP *** [5c Qs 3d]
+saoirse819: checks 
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** TURN *** [5c Qs 3d] [8s]
+saoirse819: bets 418
+Kevin12345Mc: calls 418
+D.Brownlight: calls 418
+*** RIVER *** [5c Qs 3d 8s] [Jd]
+saoirse819: bets 836
+Kevin12345Mc: folds 
+D.Brownlight: raises 1064 to 1900
+saoirse819: calls 1064
+*** SHOW DOWN ***
+D.Brownlight: shows [3h 5d] (two pair, Fives and Threes)
+saoirse819: mucks hand 
+D.Brownlight collected 5472 from pot
+*** SUMMARY ***
+Total pot 5472 | Rake 0 
+Board [5c Qs 3d 8s Jd]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded on the River
+Seat 3: KCUL13 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz folded before Flop (didn't bet)
+Seat 6: D.Brownlight (button) showed [3h 5d] and won (5472) with two pair, Fives and Threes
+Seat 7: MathiasPela (small blind) folded before Flop
+Seat 8: saoirse819 (big blind) mucked [4c Qc]
+
+
+
+PokerStars Hand #254672078686: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/02 17:25:29 WET [2025/02/02 12:25:29 ET]
+Table '3852815992 11' 8-max Seat #7 is the button
+Seat 1: Elbiète2Mons (5563 in chips) 
+Seat 2: Kevin12345Mc (1965 in chips) 
+Seat 3: KCUL13 (3799 in chips) 
+Seat 4: CharlysDad (4815 in chips) 
+Seat 5: Dzon1ukaz (9369 in chips) 
+Seat 6: D.Brownlight (6735 in chips) 
+Seat 7: MathiasPela (8005 in chips) 
+Seat 8: saoirse819 (1388 in chips) 
+Elbiète2Mons: posts the ante 6
+Kevin12345Mc: posts the ante 6
+KCUL13: posts the ante 6
+CharlysDad: posts the ante 6
+Dzon1ukaz: posts the ante 6
+D.Brownlight: posts the ante 6
+MathiasPela: posts the ante 6
+saoirse819: posts the ante 6
+saoirse819: posts small blind 25
+Elbiète2Mons: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh Ts]
+Kevin12345Mc: folds 
+KCUL13: folds 
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 50
+MathiasPela: calls 50
+saoirse819: calls 25
+Elbiète2Mons: checks 
+*** FLOP *** [Kc 9s 3s]
+saoirse819: checks 
+Elbiète2Mons: checks 
+D.Brownlight: checks 
+MathiasPela: checks 
+*** TURN *** [Kc 9s 3s] [3c]
+saoirse819: bets 124
+Elbiète2Mons: calls 124
+D.Brownlight: folds 
+MathiasPela: folds 
+*** RIVER *** [Kc 9s 3s 3c] [2s]
+saoirse819: checks 
+Elbiète2Mons: checks 
+*** SHOW DOWN ***
+saoirse819: shows [Kd 5d] (two pair, Kings and Threes)
+Elbiète2Mons: mucks hand 
+saoirse819 collected 496 from pot
+*** SUMMARY ***
+Total pot 496 | Rake 0 
+Board [Kc 9s 3s 3c 2s]
+Seat 1: Elbiète2Mons (big blind) mucked [4c 9c]
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: KCUL13 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded on the Turn
+Seat 7: MathiasPela (button) folded on the Turn
+Seat 8: saoirse819 (small blind) showed [Kd 5d] and won (496) with two pair, Kings and Threes
+
+
+
+PokerStars Hand #254672107988: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/02 17:27:01 WET [2025/02/02 12:27:01 ET]
+Table '3852815992 11' 8-max Seat #8 is the button
+Seat 1: Elbiète2Mons (5383 in chips) 
+Seat 2: Kevin12345Mc (1959 in chips) 
+Seat 3: KCUL13 (3793 in chips) 
+Seat 4: CharlysDad (4809 in chips) 
+Seat 5: Dzon1ukaz (9363 in chips) 
+Seat 6: D.Brownlight (6679 in chips) 
+Seat 7: MathiasPela (7949 in chips) 
+Seat 8: saoirse819 (1704 in chips) 
+Elbiète2Mons: posts the ante 6
+Kevin12345Mc: posts the ante 6
+KCUL13: posts the ante 6
+CharlysDad: posts the ante 6
+Dzon1ukaz: posts the ante 6
+D.Brownlight: posts the ante 6
+MathiasPela: posts the ante 6
+saoirse819: posts the ante 6
+Elbiète2Mons: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Ts]
+KCUL13: folds 
+CharlysDad: folds 
+Dzon1ukaz: folds 
+D.Brownlight: calls 50
+MathiasPela: folds 
+saoirse819: calls 50
+Elbiète2Mons: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [9d 5h 5c]
+Kevin12345Mc: bets 147
+D.Brownlight: calls 147
+saoirse819: folds 
+*** TURN *** [9d 5h 5c] [8d]
+Kevin12345Mc: bets 441
+D.Brownlight: calls 441
+*** RIVER *** [9d 5h 5c 8d] [2c]
+Kevin12345Mc: bets 1315 and is all-in
+D.Brownlight: calls 1315
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9h Ts] (two pair, Nines and Fives)
+D.Brownlight: shows [9s Td] (two pair, Nines and Fives)
+Kevin12345Mc collected 2015 from pot
+D.Brownlight collected 2014 from pot
+*** SUMMARY ***
+Total pot 4029 | Rake 0 
+Board [9d 5h 5c 8d 2c]
+Seat 1: Elbiète2Mons (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) showed [9h Ts] and won (2015) with two pair, Nines and Fives
+Seat 3: KCUL13 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz folded before Flop (didn't bet)
+Seat 6: D.Brownlight showed [9s Td] and won (2014) with two pair, Nines and Fives
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: saoirse819 (button) folded on the Flop
+
+
+
+PokerStars Hand #254672134788: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/02 17:28:27 WET [2025/02/02 12:28:27 ET]
+Table '3852815992 11' 8-max Seat #1 is the button
+Seat 1: Elbiète2Mons (5352 in chips) 
+Seat 2: Kevin12345Mc (2015 in chips) 
+Seat 3: KCUL13 (3787 in chips) 
+Seat 4: CharlysDad (4803 in chips) 
+Seat 5: Dzon1ukaz (9357 in chips) 
+Seat 6: D.Brownlight (6734 in chips) 
+Seat 7: MathiasPela (7943 in chips) 
+Seat 8: saoirse819 (1648 in chips) 
+Elbiète2Mons: posts the ante 6
+Kevin12345Mc: posts the ante 6
+KCUL13: posts the ante 6
+CharlysDad: posts the ante 6
+Dzon1ukaz: posts the ante 6
+D.Brownlight: posts the ante 6
+MathiasPela: posts the ante 6
+saoirse819: posts the ante 6
+Kevin12345Mc: posts small blind 25
+KCUL13: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 2c]
+CharlysDad: folds 
+Dzon1ukaz: raises 50 to 100
+D.Brownlight: calls 100
+MathiasPela: folds 
+saoirse819: raises 1542 to 1642 and is all-in
+Elbiète2Mons: folds 
+Kevin12345Mc: folds 
+KCUL13: raises 2139 to 3781 and is all-in
+Dzon1ukaz: raises 5570 to 9351 and is all-in
+D.Brownlight: calls 6628 and is all-in
+Uncalled bet (2623) returned to Dzon1ukaz
+*** FLOP *** [As 9h 3c]
+*** TURN *** [As 9h 3c] [3d]
+*** RIVER *** [As 9h 3c 3d] [8h]
+*** SHOW DOWN ***
+Dzon1ukaz: shows [4h 4d] (two pair, Fours and Threes)
+D.Brownlight: shows [Ad 9d] (two pair, Aces and Nines)
+D.Brownlight collected 5894 from side pot-2 
+KCUL13: shows [7d 7c] (two pair, Sevens and Threes)
+D.Brownlight collected 6417 from side pot-1 
+saoirse819: shows [Ah Tc] (two pair, Aces and Threes)
+D.Brownlight collected 6641 from main pot
+KCUL13 finished the tournament
+saoirse819 finished the tournament
+PetramanGR is disconnected 
+*** SUMMARY ***
+Total pot 18952 Main pot 6641. Side pot-1 6417. Side pot-2 5894. | Rake 0 
+Board [As 9h 3c 3d 8h]
+Seat 1: Elbiète2Mons (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: KCUL13 (big blind) showed [7d 7c] and lost with two pair, Sevens and Threes
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Dzon1ukaz showed [4h 4d] and lost with two pair, Fours and Threes
+Seat 6: D.Brownlight showed [Ad 9d] and won (18952) with two pair, Aces and Nines
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: saoirse819 showed [Ah Tc] and lost with two pair, Aces and Threes
+
+
+
+PokerStars Hand #254672651676: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/02 17:29:20 WET [2025/02/02 12:29:20 ET]
+Table '3852815992 11' 8-max Seat #2 is the button
+Seat 1: Elbiète2Mons (5346 in chips) 
+Seat 2: Kevin12345Mc (1984 in chips) 
+Seat 3: PetramanGR (5207 in chips) out of hand (moved from another table into small blind)
+Seat 4: CharlysDad (4797 in chips) 
+Seat 5: Dzon1ukaz (2623 in chips) 
+Seat 6: D.Brownlight (18952 in chips) 
+Seat 7: MathiasPela (7937 in chips) 
+PetramanGR will be allowed to play after the button
+Elbiète2Mons: posts the ante 6
+Kevin12345Mc: posts the ante 6
+CharlysDad: posts the ante 6
+Dzon1ukaz: posts the ante 6
+D.Brownlight: posts the ante 6
+MathiasPela: posts the ante 6
+CharlysDad: posts small blind 25
+Dzon1ukaz: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s Jd]
+D.Brownlight: folds 
+MathiasPela: folds 
+Elbiète2Mons: folds 
+Kevin12345Mc: folds 
+CharlysDad: raises 55 to 105
+Dzon1ukaz: calls 55
+*** FLOP *** [8s 9h 4h]
+CharlysDad: bets 81
+Dzon1ukaz: raises 2431 to 2512 and is all-in
+CharlysDad: calls 2431
+caioirak is disconnected 
+*** TURN *** [8s 9h 4h] [Ad]
+*** RIVER *** [8s 9h 4h Ad] [Qd]
+*** SHOW DOWN ***
+CharlysDad: shows [9c Kd] (a pair of Nines)
+Dzon1ukaz: shows [8d 5s] (a pair of Eights)
+CharlysDad collected 5270 from pot
+Dzon1ukaz finished the tournament
+*** SUMMARY ***
+Total pot 5270 | Rake 0 
+Board [8s 9h 4h Ad Qd]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: CharlysDad (small blind) showed [9c Kd] and won (5270) with a pair of Nines
+Seat 5: Dzon1ukaz (big blind) showed [8d 5s] and lost with a pair of Eights
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254672666888: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 17:30:08 WET [2025/02/02 12:30:08 ET]
+Table '3852815992 11' 8-max Seat #4 is the button
+Seat 1: Elbiète2Mons (5340 in chips) 
+Seat 2: Kevin12345Mc (1978 in chips) 
+Seat 3: PetramanGR (5207 in chips) 
+Seat 4: CharlysDad (7444 in chips) 
+Seat 6: D.Brownlight (18946 in chips) 
+Seat 7: MathiasPela (7931 in chips) 
+Seat 8: caioirak (5000 in chips) 
+Elbiète2Mons: posts the ante 8
+Kevin12345Mc: posts the ante 8
+PetramanGR: posts the ante 8
+CharlysDad: posts the ante 8
+D.Brownlight: posts the ante 8
+MathiasPela: posts the ante 8
+caioirak: posts the ante 8
+D.Brownlight: posts small blind 30
+MathiasPela: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Kd]
+caioirak: folds 
+Gabrielst298 is disconnected 
+Elbiète2Mons: raises 90 to 150
+Kevin12345Mc: raises 1820 to 1970 and is all-in
+PetramanGR: folds 
+CharlysDad: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+Elbiète2Mons: folds 
+Uncalled bet (1820) returned to Kevin12345Mc
+Kevin12345Mc collected 446 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 446 | Rake 0 
+Seat 1: Elbiète2Mons folded before Flop
+Seat 2: Kevin12345Mc collected (446)
+Seat 3: PetramanGR folded before Flop (didn't bet)
+Seat 4: CharlysDad (button) folded before Flop (didn't bet)
+Seat 6: D.Brownlight (small blind) folded before Flop
+Seat 7: MathiasPela (big blind) folded before Flop
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254672674593: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 17:30:32 WET [2025/02/02 12:30:32 ET]
+Table '3852815992 11' 8-max Seat #6 is the button
+Seat 1: Elbiète2Mons (5182 in chips) 
+Seat 2: Kevin12345Mc (2266 in chips) 
+Seat 3: PetramanGR (5199 in chips) 
+Seat 4: CharlysDad (7436 in chips) 
+Seat 5: Gabrielst298 (5000 in chips) 
+Seat 6: D.Brownlight (18908 in chips) 
+Seat 7: MathiasPela (7863 in chips) 
+Seat 8: caioirak (4992 in chips) 
+Elbiète2Mons: posts the ante 8
+Kevin12345Mc: posts the ante 8
+PetramanGR: posts the ante 8
+CharlysDad: posts the ante 8
+Gabrielst298: posts the ante 8
+D.Brownlight: posts the ante 8
+MathiasPela: posts the ante 8
+caioirak: posts the ante 8
+MathiasPela: posts small blind 30
+caioirak: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s Jh]
+Elbiète2Mons: folds 
+Kevin12345Mc: folds 
+PetramanGR: folds 
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: calls 60
+MathiasPela: calls 30
+caioirak: checks 
+*** FLOP *** [8c 4c 5s]
+MathiasPela: checks 
+caioirak: checks 
+D.Brownlight: checks 
+*** TURN *** [8c 4c 5s] [5c]
+MathiasPela: bets 150
+caioirak: calls 150
+D.Brownlight: calls 150
+*** RIVER *** [8c 4c 5s 5c] [3h]
+MathiasPela: checks 
+caioirak: bets 521
+D.Brownlight: folds 
+MathiasPela: folds 
+Uncalled bet (521) returned to caioirak
+caioirak collected 694 from pot
+*** SUMMARY ***
+Total pot 694 | Rake 0 
+Board [8c 4c 5s 5c 3h]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: PetramanGR folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight (button) folded on the River
+Seat 7: MathiasPela (small blind) folded on the River
+Seat 8: caioirak (big blind) collected (694)
+
+
+
+PokerStars Hand #254672704503: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 17:32:06 WET [2025/02/02 12:32:06 ET]
+Table '3852815992 11' 8-max Seat #7 is the button
+Seat 1: Elbiète2Mons (5174 in chips) 
+Seat 2: Kevin12345Mc (2258 in chips) 
+Seat 3: PetramanGR (5191 in chips) 
+Seat 4: CharlysDad (7428 in chips) 
+Seat 5: Gabrielst298 (4992 in chips) 
+Seat 6: D.Brownlight (18690 in chips) 
+Seat 7: MathiasPela (7645 in chips) 
+Seat 8: caioirak (5468 in chips) 
+Elbiète2Mons: posts the ante 8
+Kevin12345Mc: posts the ante 8
+PetramanGR: posts the ante 8
+CharlysDad: posts the ante 8
+Gabrielst298: posts the ante 8
+D.Brownlight: posts the ante 8
+MathiasPela: posts the ante 8
+caioirak: posts the ante 8
+caioirak: posts small blind 30
+Elbiète2Mons: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Js]
+Kevin12345Mc: folds 
+PetramanGR: raises 72 to 132
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+caioirak: folds 
+Elbiète2Mons: calls 72
+*** FLOP *** [5h 7c 3d]
+Elbiète2Mons: checks 
+PetramanGR: bets 107
+Elbiète2Mons: raises 265 to 372
+PetramanGR: raises 540 to 912
+Elbiète2Mons: calls 540
+*** TURN *** [5h 7c 3d] [9d]
+Elbiète2Mons: checks 
+PetramanGR: bets 1527
+Elbiète2Mons: calls 1527
+*** RIVER *** [5h 7c 3d 9d] [4d]
+Elbiète2Mons: bets 2595 and is all-in
+PetramanGR: calls 2595
+*** SHOW DOWN ***
+Elbiète2Mons: shows [6s 6c] (a straight, Three to Seven)
+PetramanGR: shows [Ks Kd] (a pair of Kings)
+Elbiète2Mons collected 10426 from pot
+*** SUMMARY ***
+Total pot 10426 | Rake 0 
+Board [5h 7c 3d 9d 4d]
+Seat 1: Elbiète2Mons (big blind) showed [6s 6c] and won (10426) with a straight, Three to Seven
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: PetramanGR showed [Ks Kd] and lost with a pair of Kings
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela (button) folded before Flop (didn't bet)
+Seat 8: caioirak (small blind) folded before Flop
+
+
+
+PokerStars Hand #254672733064: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 17:33:34 WET [2025/02/02 12:33:34 ET]
+Table '3852815992 11' 8-max Seat #8 is the button
+Seat 1: Elbiète2Mons (10426 in chips) 
+Seat 2: Kevin12345Mc (2250 in chips) 
+Seat 3: PetramanGR (17 in chips) 
+Seat 4: CharlysDad (7420 in chips) 
+Seat 5: Gabrielst298 (4984 in chips) 
+Seat 6: D.Brownlight (18682 in chips) 
+Seat 7: MathiasPela (7637 in chips) 
+Seat 8: caioirak (5430 in chips) 
+Elbiète2Mons: posts the ante 8
+Kevin12345Mc: posts the ante 8
+PetramanGR: posts the ante 8
+CharlysDad: posts the ante 8
+Gabrielst298: posts the ante 8
+D.Brownlight: posts the ante 8
+MathiasPela: posts the ante 8
+caioirak: posts the ante 8
+Elbiète2Mons: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 3c]
+PetramanGR: calls 9 and is all-in
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: calls 60
+MathiasPela: folds 
+caioirak: folds 
+Elbiète2Mons: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [4s 2c 6s]
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** TURN *** [4s 2c 6s] [As]
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** RIVER *** [4s 2c 6s As] [8s]
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [8h 3c] (a pair of Eights)
+D.Brownlight: shows [Qd 8d] (a pair of Eights - Ace+Queen kicker)
+D.Brownlight collected 123 from side pot
+PetramanGR: shows [Ad 7h] (a pair of Aces)
+PetramanGR collected 100 from main pot
+*** SUMMARY ***
+Total pot 223 Main pot 100. Side pot 123. | Rake 0 
+Board [4s 2c 6s As 8s]
+Seat 1: Elbiète2Mons (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) showed [8h 3c] and lost with a pair of Eights
+Seat 3: PetramanGR showed [Ad 7h] and won (100) with a pair of Aces
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight showed [Qd 8d] and won (123) with a pair of Eights
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254672745625: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 17:34:13 WET [2025/02/02 12:34:13 ET]
+Table '3852815992 11' 8-max Seat #1 is the button
+Seat 1: Elbiète2Mons (10388 in chips) 
+Seat 2: Kevin12345Mc (2182 in chips) 
+Seat 3: PetramanGR (100 in chips) 
+Seat 4: CharlysDad (7412 in chips) 
+Seat 5: Gabrielst298 (4976 in chips) 
+Seat 6: D.Brownlight (18737 in chips) 
+Seat 7: MathiasPela (7629 in chips) 
+Seat 8: caioirak (5422 in chips) 
+Elbiète2Mons: posts the ante 8
+Kevin12345Mc: posts the ante 8
+PetramanGR: posts the ante 8
+CharlysDad: posts the ante 8
+Gabrielst298: posts the ante 8
+D.Brownlight: posts the ante 8
+MathiasPela: posts the ante 8
+caioirak: posts the ante 8
+Kevin12345Mc: posts small blind 30
+PetramanGR: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h As]
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: calls 60
+MathiasPela: folds 
+caioirak: folds 
+Elbiète2Mons: folds 
+Kevin12345Mc: calls 30
+PetramanGR: raises 32 to 92 and is all-in
+D.Brownlight: calls 32
+Kevin12345Mc: calls 32
+*** FLOP *** [Qs Kd Js]
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** TURN *** [Qs Kd Js] [Jh]
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** RIVER *** [Qs Kd Js Jh] [7s]
+Kevin12345Mc: checks 
+D.Brownlight: bets 600
+Kevin12345Mc: folds 
+Uncalled bet (600) returned to D.Brownlight
+*** SHOW DOWN ***
+D.Brownlight: shows [Th 9c] (a straight, Nine to King)
+PetramanGR: shows [Kc Jd] (a full house, Jacks full of Kings)
+PetramanGR collected 340 from pot
+*** SUMMARY ***
+Total pot 340 | Rake 0 
+Board [Qs Kd Js Jh 7s]
+Seat 1: Elbiète2Mons (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded on the River
+Seat 3: PetramanGR (big blind) showed [Kc Jd] and won (340) with a full house, Jacks full of Kings
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight showed [Th 9c] and lost with a straight, Nine to King
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254672777327: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 17:35:51 WET [2025/02/02 12:35:51 ET]
+Table '3852815992 11' 8-max Seat #2 is the button
+Seat 1: Elbiète2Mons (10380 in chips) 
+Seat 2: Kevin12345Mc (2082 in chips) 
+Seat 3: PetramanGR (340 in chips) 
+Seat 4: CharlysDad (7404 in chips) 
+Seat 5: Gabrielst298 (4968 in chips) 
+Seat 6: D.Brownlight (18637 in chips) 
+Seat 7: MathiasPela (7621 in chips) 
+Seat 8: caioirak (5414 in chips) 
+Elbiète2Mons: posts the ante 8
+Kevin12345Mc: posts the ante 8
+PetramanGR: posts the ante 8
+CharlysDad: posts the ante 8
+Gabrielst298: posts the ante 8
+D.Brownlight: posts the ante 8
+MathiasPela: posts the ante 8
+caioirak: posts the ante 8
+PetramanGR: posts small blind 30
+CharlysDad: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 9c]
+Gabrielst298: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+caioirak: folds 
+Elbiète2Mons: raises 120 to 180
+Kevin12345Mc: calls 180
+PetramanGR: folds 
+CharlysDad: folds 
+*** FLOP *** [8c 5c 8h]
+Elbiète2Mons: checks 
+Kevin12345Mc: bets 170
+Elbiète2Mons: calls 170
+*** TURN *** [8c 5c 8h] [2d]
+Elbiète2Mons: checks 
+Kevin12345Mc: bets 504
+Elbiète2Mons: folds 
+Uncalled bet (504) returned to Kevin12345Mc
+Kevin12345Mc collected 854 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 854 | Rake 0 
+Board [8c 5c 8h 2d]
+Seat 1: Elbiète2Mons folded on the Turn
+Seat 2: Kevin12345Mc (button) collected (854)
+Seat 3: PetramanGR (small blind) folded before Flop
+Seat 4: CharlysDad (big blind) folded before Flop
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254672797850: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 17:36:55 WET [2025/02/02 12:36:55 ET]
+Table '3852815992 11' 8-max Seat #3 is the button
+Seat 1: Elbiète2Mons (10022 in chips) 
+Seat 2: Kevin12345Mc (2578 in chips) 
+Seat 3: PetramanGR (302 in chips) 
+Seat 4: CharlysDad (7336 in chips) 
+Seat 5: Gabrielst298 (4960 in chips) 
+Seat 6: D.Brownlight (18629 in chips) 
+Seat 7: MathiasPela (7613 in chips) 
+Seat 8: caioirak (5406 in chips) 
+Elbiète2Mons: posts the ante 8
+Kevin12345Mc: posts the ante 8
+PetramanGR: posts the ante 8
+CharlysDad: posts the ante 8
+Gabrielst298: posts the ante 8
+D.Brownlight: posts the ante 8
+MathiasPela: posts the ante 8
+caioirak: posts the ante 8
+CharlysDad: posts small blind 30
+Gabrielst298: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 4d]
+D.Brownlight: calls 60
+MathiasPela: raises 78 to 138
+caioirak: raises 258 to 396
+Elbiète2Mons: folds 
+Kevin12345Mc: folds 
+PetramanGR: calls 294 and is all-in
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: folds 
+MathiasPela: raises 834 to 1230
+caioirak: folds 
+Uncalled bet (834) returned to MathiasPela
+*** FLOP *** [Ks Th 4c]
+*** TURN *** [Ks Th 4c] [6d]
+*** RIVER *** [Ks Th 4c 6d] [5c]
+*** SHOW DOWN ***
+MathiasPela: shows [Ad Kd] (a pair of Kings)
+MathiasPela collected 204 from side pot
+PetramanGR: shows [8d As] (high card Ace)
+MathiasPela collected 1096 from main pot
+PetramanGR finished the tournament
+*** SUMMARY ***
+Total pot 1300 Main pot 1096. Side pot 204. | Rake 0 
+Board [Ks Th 4c 6d 5c]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: PetramanGR (button) showed [8d As] and lost with high card Ace
+Seat 4: CharlysDad (small blind) folded before Flop
+Seat 5: Gabrielst298 (big blind) folded before Flop
+Seat 6: D.Brownlight folded before Flop
+Seat 7: MathiasPela showed [Ad Kd] and won (1300) with a pair of Kings
+Seat 8: caioirak folded before Flop
+
+
+
+PokerStars Hand #254672820663: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 17:38:07 WET [2025/02/02 12:38:07 ET]
+Table '3852815992 11' 8-max Seat #4 is the button
+Seat 1: Elbiète2Mons (10014 in chips) 
+Seat 2: Kevin12345Mc (2570 in chips) 
+Seat 4: CharlysDad (7298 in chips) 
+Seat 5: Gabrielst298 (4892 in chips) 
+Seat 6: D.Brownlight (18561 in chips) 
+Seat 7: MathiasPela (8509 in chips) 
+Seat 8: caioirak (5002 in chips) 
+Elbiète2Mons: posts the ante 8
+Kevin12345Mc: posts the ante 8
+CharlysDad: posts the ante 8
+Gabrielst298: posts the ante 8
+D.Brownlight: posts the ante 8
+MathiasPela: posts the ante 8
+caioirak: posts the ante 8
+Gabrielst298: posts small blind 30
+D.Brownlight: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 7d]
+MathiasPela: raises 78 to 138
+caioirak: folds 
+Elbiète2Mons: folds 
+Kevin12345Mc: folds 
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: raises 232 to 370
+MathiasPela: calls 232
+*** FLOP *** [8c Kc 8h]
+D.Brownlight: checks 
+MathiasPela: checks 
+*** TURN *** [8c Kc 8h] [3c]
+D.Brownlight: bets 600
+MathiasPela: folds 
+Uncalled bet (600) returned to D.Brownlight
+D.Brownlight collected 826 from pot
+D.Brownlight: doesn't show hand 
+*** SUMMARY ***
+Total pot 826 | Rake 0 
+Board [8c Kc 8h 3c]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: CharlysDad (button) folded before Flop (didn't bet)
+Seat 5: Gabrielst298 (small blind) folded before Flop
+Seat 6: D.Brownlight (big blind) collected (826)
+Seat 7: MathiasPela folded on the Turn
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254672843871: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/02 17:39:19 WET [2025/02/02 12:39:19 ET]
+Table '3852815992 11' 8-max Seat #5 is the button
+Seat 1: Elbiète2Mons (10006 in chips) 
+Seat 2: Kevin12345Mc (2562 in chips) 
+Seat 3: vailundum (5000 in chips) 
+Seat 4: CharlysDad (7290 in chips) 
+Seat 5: Gabrielst298 (4854 in chips) 
+Seat 6: D.Brownlight (19009 in chips) 
+Seat 7: MathiasPela (8131 in chips) 
+Seat 8: caioirak (4994 in chips) 
+Elbiète2Mons: posts the ante 8
+Kevin12345Mc: posts the ante 8
+vailundum: posts the ante 8
+CharlysDad: posts the ante 8
+Gabrielst298: posts the ante 8
+D.Brownlight: posts the ante 8
+MathiasPela: posts the ante 8
+caioirak: posts the ante 8
+D.Brownlight: posts small blind 30
+MathiasPela: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Td]
+caioirak: folds 
+Elbiète2Mons: folds 
+Kevin12345Mc: raises 78 to 138
+vailundum: folds 
+CharlysDad: calls 138
+Gabrielst298: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+*** FLOP *** [Th 8h 6s]
+Kevin12345Mc: bets 142
+CharlysDad: calls 142
+*** TURN *** [Th 8h 6s] [7h]
+Kevin12345Mc: bets 357
+CharlysDad: folds 
+Uncalled bet (357) returned to Kevin12345Mc
+Kevin12345Mc collected 714 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 714 | Rake 0 
+Board [Th 8h 6s 7h]
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc collected (714)
+Seat 3: vailundum folded before Flop (didn't bet)
+Seat 4: CharlysDad folded on the Turn
+Seat 5: Gabrielst298 (button) folded before Flop (didn't bet)
+Seat 6: D.Brownlight (small blind) folded before Flop
+Seat 7: MathiasPela (big blind) folded before Flop
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254672857937: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 17:40:03 WET [2025/02/02 12:40:03 ET]
+Table '3852815992 11' 8-max Seat #6 is the button
+Seat 1: Elbiète2Mons (9998 in chips) 
+Seat 2: Kevin12345Mc (2988 in chips) 
+Seat 3: vailundum (4992 in chips) 
+Seat 4: CharlysDad (7002 in chips) 
+Seat 5: Gabrielst298 (4846 in chips) 
+Seat 6: D.Brownlight (18971 in chips) 
+Seat 7: MathiasPela (8063 in chips) 
+Seat 8: caioirak (4986 in chips) 
+Elbiète2Mons: posts the ante 10
+Kevin12345Mc: posts the ante 10
+vailundum: posts the ante 10
+CharlysDad: posts the ante 10
+Gabrielst298: posts the ante 10
+D.Brownlight: posts the ante 10
+MathiasPela: posts the ante 10
+caioirak: posts the ante 10
+MathiasPela: posts small blind 40
+caioirak: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Th]
+Elbiète2Mons: folds 
+Kevin12345Mc: folds 
+vailundum: raises 80 to 160
+CharlysDad: folds 
+Gabrielst298: raises 320 to 480
+D.Brownlight: folds 
+MathiasPela: folds 
+caioirak: folds 
+vailundum: folds 
+Uncalled bet (320) returned to Gabrielst298
+Gabrielst298 collected 520 from pot
+Gabrielst298: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Seat 1: Elbiète2Mons folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: vailundum folded before Flop
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 collected (520)
+Seat 6: D.Brownlight (button) folded before Flop (didn't bet)
+Seat 7: MathiasPela (small blind) folded before Flop
+Seat 8: caioirak (big blind) folded before Flop
+
+
+
+PokerStars Hand #254672871151: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 17:40:44 WET [2025/02/02 12:40:44 ET]
+Table '3852815992 11' 8-max Seat #7 is the button
+Seat 2: Kevin12345Mc (2978 in chips) 
+Seat 3: vailundum (4822 in chips) 
+Seat 4: CharlysDad (6992 in chips) 
+Seat 5: Gabrielst298 (5196 in chips) 
+Seat 6: D.Brownlight (18961 in chips) 
+Seat 7: MathiasPela (8013 in chips) 
+Seat 8: caioirak (4896 in chips) 
+Kevin12345Mc: posts the ante 10
+vailundum: posts the ante 10
+CharlysDad: posts the ante 10
+Gabrielst298: posts the ante 10
+D.Brownlight: posts the ante 10
+MathiasPela: posts the ante 10
+caioirak: posts the ante 10
+caioirak: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Qh]
+vailundum: raises 80 to 160
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+caioirak: folds 
+Kevin12345Mc: calls 80
+*** FLOP *** [5d Tc Ah]
+Kevin12345Mc: checks 
+bgmDK9 is disconnected 
+vailundum: checks 
+*** TURN *** [5d Tc Ah] [3s]
+Kevin12345Mc: checks 
+vailundum: bets 323
+Kevin12345Mc: folds 
+Uncalled bet (323) returned to vailundum
+vailundum collected 430 from pot
+vailundum: doesn't show hand 
+*** SUMMARY ***
+Total pot 430 | Rake 0 
+Board [5d Tc Ah 3s]
+Seat 2: Kevin12345Mc (big blind) folded on the Turn
+Seat 3: vailundum collected (430)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela (button) folded before Flop (didn't bet)
+Seat 8: caioirak (small blind) folded before Flop
+
+
+
+PokerStars Hand #254672885511: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 17:41:29 WET [2025/02/02 12:41:29 ET]
+Table '3852815992 11' 8-max Seat #8 is the button
+Seat 1: bgmDK9 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 2: Kevin12345Mc (2808 in chips) 
+Seat 4: CharlysDad (6982 in chips) 
+Seat 5: Gabrielst298 (5186 in chips) 
+Seat 6: D.Brownlight (18951 in chips) 
+Seat 7: MathiasPela (8003 in chips) 
+Seat 8: caioirak (4846 in chips) 
+bgmDK9 will be allowed to play after the button
+Kevin12345Mc: posts the ante 10
+CharlysDad: posts the ante 10
+Gabrielst298: posts the ante 10
+D.Brownlight: posts the ante 10
+MathiasPela: posts the ante 10
+caioirak: posts the ante 10
+Kevin12345Mc: posts small blind 40
+CharlysDad: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Td]
+Gabrielst298: folds 
+D.Brownlight: calls 80
+MathiasPela: folds 
+caioirak: raises 280 to 360
+Cella01912 is disconnected 
+Kevin12345Mc: folds 
+CharlysDad: folds 
+D.Brownlight: calls 280
+*** FLOP *** [Jc 6h 2s]
+D.Brownlight: checks 
+caioirak: bets 297
+D.Brownlight: calls 297
+*** TURN *** [Jc 6h 2s] [9c]
+D.Brownlight: checks 
+caioirak: checks 
+*** RIVER *** [Jc 6h 2s 9c] [6c]
+D.Brownlight: checks 
+caioirak: bets 493
+D.Brownlight: folds 
+Uncalled bet (493) returned to caioirak
+caioirak collected 1494 from pot
+*** SUMMARY ***
+Total pot 1494 | Rake 0 
+Board [Jc 6h 2s 9c 6c]
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 4: CharlysDad (big blind) folded before Flop
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded on the River
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak (button) collected (1494)
+
+
+
+PokerStars Hand #254672927554: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 17:43:40 WET [2025/02/02 12:43:40 ET]
+Table '3852815992 11' 8-max Seat #2 is the button
+Seat 1: bgmDK9 (5000 in chips) 
+Seat 2: Kevin12345Mc (2758 in chips) 
+Seat 3: Cella01912 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 4: CharlysDad (6892 in chips) 
+Seat 5: Gabrielst298 (5176 in chips) 
+Seat 6: D.Brownlight (18284 in chips) 
+Seat 7: MathiasPela (7993 in chips) 
+Seat 8: caioirak (5673 in chips) 
+Cella01912 will be allowed to play after the button
+bgmDK9: posts the ante 10
+Kevin12345Mc: posts the ante 10
+CharlysDad: posts the ante 10
+Gabrielst298: posts the ante 10
+D.Brownlight: posts the ante 10
+MathiasPela: posts the ante 10
+caioirak: posts the ante 10
+CharlysDad: posts small blind 40
+Gabrielst298: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 5c]
+D.Brownlight: calls 80
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: raises 176 to 256
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: calls 176
+*** FLOP *** [9d 2s 4c]
+D.Brownlight: checks 
+Kevin12345Mc: bets 232
+D.Brownlight: folds 
+Uncalled bet (232) returned to Kevin12345Mc
+Kevin12345Mc collected 702 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 702 | Rake 0 
+Board [9d 2s 4c]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) collected (702)
+Seat 4: CharlysDad (small blind) folded before Flop
+Seat 5: Gabrielst298 (big blind) folded before Flop
+Seat 6: D.Brownlight folded on the Flop
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254672943129: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 17:44:29 WET [2025/02/02 12:44:29 ET]
+Table '3852815992 11' 8-max Seat #4 is the button
+Seat 1: bgmDK9 (4990 in chips) 
+Seat 2: Kevin12345Mc (3194 in chips) 
+Seat 3: Cella01912 (5000 in chips) 
+Seat 4: CharlysDad (6842 in chips) 
+Seat 5: Gabrielst298 (5086 in chips) 
+Seat 6: D.Brownlight (18018 in chips) 
+Seat 7: MathiasPela (7983 in chips) 
+Seat 8: caioirak (5663 in chips) 
+bgmDK9: posts the ante 10
+Kevin12345Mc: posts the ante 10
+Cella01912: posts the ante 10
+CharlysDad: posts the ante 10
+Gabrielst298: posts the ante 10
+D.Brownlight: posts the ante 10
+MathiasPela: posts the ante 10
+caioirak: posts the ante 10
+Gabrielst298: posts small blind 40
+D.Brownlight: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s Ah]
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+Cella01912: raises 80 to 160
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: calls 80
+*** FLOP *** [Qs Ad 6s]
+D.Brownlight: checks 
+Cella01912: bets 145
+D.Brownlight: calls 145
+*** TURN *** [Qs Ad 6s] [Kh]
+D.Brownlight: checks 
+Cella01912: bets 560
+D.Brownlight: calls 560
+*** RIVER *** [Qs Ad 6s Kh] [3s]
+D.Brownlight: checks 
+Cella01912: checks 
+*** SHOW DOWN ***
+D.Brownlight: shows [Th Kc] (a pair of Kings)
+Cella01912: mucks hand 
+D.Brownlight collected 1850 from pot
+*** SUMMARY ***
+Total pot 1850 | Rake 0 
+Board [Qs Ad 6s Kh 3s]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Cella01912 mucked [Jc Jd]
+Seat 4: CharlysDad (button) folded before Flop (didn't bet)
+Seat 5: Gabrielst298 (small blind) folded before Flop
+Seat 6: D.Brownlight (big blind) showed [Th Kc] and won (1850) with a pair of Kings
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254672964751: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 17:45:35 WET [2025/02/02 12:45:35 ET]
+Table '3852815992 11' 8-max Seat #5 is the button
+Seat 1: bgmDK9 (4980 in chips) 
+Seat 2: Kevin12345Mc (3184 in chips) 
+Seat 3: Cella01912 (4125 in chips) 
+Seat 4: CharlysDad (6832 in chips) 
+Seat 5: Gabrielst298 (5036 in chips) 
+Seat 6: D.Brownlight (18993 in chips) 
+Seat 7: MathiasPela (7973 in chips) 
+Seat 8: caioirak (5653 in chips) 
+bgmDK9: posts the ante 10
+Kevin12345Mc: posts the ante 10
+Cella01912: posts the ante 10
+CharlysDad: posts the ante 10
+Gabrielst298: posts the ante 10
+D.Brownlight: posts the ante 10
+MathiasPela: posts the ante 10
+caioirak: posts the ante 10
+D.Brownlight: posts small blind 40
+MathiasPela: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 9s]
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+Cella01912: folds 
+CharlysDad: folds 
+Gabrielst298: raises 80 to 160
+D.Brownlight: raises 200 to 360
+MathiasPela: folds 
+Gabrielst298: folds 
+Uncalled bet (200) returned to D.Brownlight
+D.Brownlight collected 480 from pot
+D.Brownlight: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Cella01912 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 (button) folded before Flop
+Seat 6: D.Brownlight (small blind) collected (480)
+Seat 7: MathiasPela (big blind) folded before Flop
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254672975538: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 17:46:08 WET [2025/02/02 12:46:08 ET]
+Table '3852815992 11' 8-max Seat #6 is the button
+Seat 1: bgmDK9 (4970 in chips) 
+Seat 2: Kevin12345Mc (3174 in chips) 
+Seat 3: Cella01912 (4115 in chips) 
+Seat 4: CharlysDad (6822 in chips) 
+Seat 5: Gabrielst298 (4866 in chips) 
+Seat 6: D.Brownlight (19303 in chips) 
+Seat 7: MathiasPela (7883 in chips) 
+Seat 8: caioirak (5643 in chips) 
+bgmDK9: posts the ante 10
+Kevin12345Mc: posts the ante 10
+Cella01912: posts the ante 10
+CharlysDad: posts the ante 10
+Gabrielst298: posts the ante 10
+D.Brownlight: posts the ante 10
+MathiasPela: posts the ante 10
+caioirak: posts the ante 10
+MathiasPela: posts small blind 40
+caioirak: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd As]
+bgmDK9: folds 
+Kevin12345Mc: raises 104 to 184
+Cella01912: calls 184
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+caioirak: folds 
+*** FLOP *** [9s Qc Kh]
+Kevin12345Mc: bets 187
+Cella01912: folds 
+Uncalled bet (187) returned to Kevin12345Mc
+Kevin12345Mc collected 568 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 568 | Rake 0 
+Board [9s Qc Kh]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc collected (568)
+Seat 3: Cella01912 folded on the Flop
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight (button) folded before Flop (didn't bet)
+Seat 7: MathiasPela (small blind) folded before Flop
+Seat 8: caioirak (big blind) folded before Flop
+
+
+
+PokerStars Hand #254672993709: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 17:47:04 WET [2025/02/02 12:47:04 ET]
+Table '3852815992 11' 8-max Seat #7 is the button
+Seat 1: bgmDK9 (4960 in chips) 
+Seat 2: Kevin12345Mc (3548 in chips) 
+Seat 3: Cella01912 (3921 in chips) 
+Seat 4: CharlysDad (6812 in chips) 
+Seat 5: Gabrielst298 (4856 in chips) 
+Seat 6: D.Brownlight (19293 in chips) 
+Seat 7: MathiasPela (7833 in chips) 
+Seat 8: caioirak (5553 in chips) 
+bgmDK9: posts the ante 10
+Kevin12345Mc: posts the ante 10
+Cella01912: posts the ante 10
+CharlysDad: posts the ante 10
+Gabrielst298: posts the ante 10
+D.Brownlight: posts the ante 10
+MathiasPela: posts the ante 10
+caioirak: posts the ante 10
+caioirak: posts small blind 40
+bgmDK9: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 3c]
+Kevin12345Mc: folds 
+Cella01912: folds 
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: calls 80
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: checks 
+*** FLOP *** [5c 7h 4d]
+bgmDK9: checks 
+D.Brownlight: checks 
+*** TURN *** [5c 7h 4d] [8h]
+bgmDK9: checks 
+D.Brownlight: checks 
+*** RIVER *** [5c 7h 4d 8h] [Ts]
+bgmDK9: bets 280
+D.Brownlight: calls 280
+*** SHOW DOWN ***
+bgmDK9: shows [Td 8d] (two pair, Tens and Eights)
+D.Brownlight: mucks hand 
+bgmDK9 collected 840 from pot
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Board [5c 7h 4d 8h Ts]
+Seat 1: bgmDK9 (big blind) showed [Td 8d] and won (840) with two pair, Tens and Eights
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Cella01912 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight mucked [Kd 5h]
+Seat 7: MathiasPela (button) folded before Flop (didn't bet)
+Seat 8: caioirak (small blind) folded before Flop
+
+
+
+PokerStars Hand #254673007039: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 17:47:45 WET [2025/02/02 12:47:45 ET]
+Table '3852815992 11' 8-max Seat #8 is the button
+Seat 1: bgmDK9 (5430 in chips) 
+Seat 2: Kevin12345Mc (3538 in chips) 
+Seat 3: Cella01912 (3911 in chips) 
+Seat 4: CharlysDad (6802 in chips) 
+Seat 5: Gabrielst298 (4846 in chips) 
+Seat 6: D.Brownlight (18923 in chips) 
+Seat 7: MathiasPela (7823 in chips) 
+Seat 8: caioirak (5503 in chips) 
+bgmDK9: posts the ante 10
+Kevin12345Mc: posts the ante 10
+Cella01912: posts the ante 10
+CharlysDad: posts the ante 10
+Gabrielst298: posts the ante 10
+D.Brownlight: posts the ante 10
+MathiasPela: posts the ante 10
+caioirak: posts the ante 10
+bgmDK9: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Ac]
+Cella01912: folds 
+CharlysDad: raises 88 to 168
+Gabrielst298: folds 
+D.Brownlight: calls 168
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: calls 88
+*** FLOP *** [4s 6d Jd]
+Kevin12345Mc: checks 
+CharlysDad: checks 
+D.Brownlight: checks 
+*** TURN *** [4s 6d Jd] [9s]
+Kevin12345Mc: checks 
+CharlysDad: checks 
+D.Brownlight: checks 
+*** RIVER *** [4s 6d Jd 9s] [2s]
+Kevin12345Mc: checks 
+CharlysDad: checks 
+D.Brownlight: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [7h Ac] (high card Ace)
+CharlysDad: shows [Ad Kh] (high card Ace - King kicker)
+D.Brownlight: mucks hand 
+CharlysDad collected 624 from pot
+*** SUMMARY ***
+Total pot 624 | Rake 0 
+Board [4s 6d Jd 9s 2s]
+Seat 1: bgmDK9 (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) showed [7h Ac] and lost with high card Ace
+Seat 3: Cella01912 folded before Flop (didn't bet)
+Seat 4: CharlysDad showed [Ad Kh] and won (624) with high card Ace
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight mucked [7c Qc]
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673034580: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/02 17:49:10 WET [2025/02/02 12:49:10 ET]
+Table '3852815992 11' 8-max Seat #1 is the button
+Seat 1: bgmDK9 (5380 in chips) 
+Seat 2: Kevin12345Mc (3360 in chips) 
+Seat 3: Cella01912 (3901 in chips) 
+Seat 4: CharlysDad (7248 in chips) 
+Seat 5: Gabrielst298 (4836 in chips) 
+Seat 6: D.Brownlight (18745 in chips) 
+Seat 7: MathiasPela (7813 in chips) 
+Seat 8: caioirak (5493 in chips) 
+bgmDK9: posts the ante 10
+Kevin12345Mc: posts the ante 10
+Cella01912: posts the ante 10
+CharlysDad: posts the ante 10
+Gabrielst298: posts the ante 10
+D.Brownlight: posts the ante 10
+MathiasPela: posts the ante 10
+caioirak: posts the ante 10
+Kevin12345Mc: posts small blind 40
+Cella01912: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 3c]
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: folds 
+MathiasPela: raises 88 to 168
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+Cella01912: calls 88
+*** FLOP *** [Tc 3s 3h]
+Cella01912: checks 
+MathiasPela: bets 120
+Cella01912: calls 120
+*** TURN *** [Tc 3s 3h] [2s]
+Cella01912: checks 
+MathiasPela: bets 520
+Cella01912: folds 
+Uncalled bet (520) returned to MathiasPela
+MathiasPela collected 696 from pot
+MathiasPela: doesn't show hand 
+*** SUMMARY ***
+Total pot 696 | Rake 0 
+Board [Tc 3s 3h 2s]
+Seat 1: bgmDK9 (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: Cella01912 (big blind) folded on the Turn
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela collected (696)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673062155: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 17:50:35 WET [2025/02/02 12:50:35 ET]
+Table '3852815992 11' 8-max Seat #2 is the button
+Seat 1: bgmDK9 (5370 in chips) 
+Seat 2: Kevin12345Mc (3310 in chips) 
+Seat 3: Cella01912 (3603 in chips) 
+Seat 4: CharlysDad (7238 in chips) 
+Seat 5: Gabrielst298 (4826 in chips) 
+Seat 6: D.Brownlight (18735 in chips) 
+Seat 7: MathiasPela (8211 in chips) 
+Seat 8: caioirak (5483 in chips) 
+bgmDK9: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Cella01912: posts the ante 12
+CharlysDad: posts the ante 12
+Gabrielst298: posts the ante 12
+D.Brownlight: posts the ante 12
+MathiasPela: posts the ante 12
+caioirak: posts the ante 12
+Cella01912: posts small blind 50
+CharlysDad: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 4s]
+Gabrielst298: folds 
+D.Brownlight: folds 
+MathiasPela: raises 110 to 210
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+Cella01912: folds 
+CharlysDad: folds 
+Uncalled bet (110) returned to MathiasPela
+MathiasPela collected 346 from pot
+MathiasPela: doesn't show hand 
+*** SUMMARY ***
+Total pot 346 | Rake 0 
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: Cella01912 (small blind) folded before Flop
+Seat 4: CharlysDad (big blind) folded before Flop
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela collected (346)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673079787: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 17:51:31 WET [2025/02/02 12:51:31 ET]
+Table '3852815992 11' 8-max Seat #3 is the button
+Seat 1: bgmDK9 (5358 in chips) 
+Seat 2: Kevin12345Mc (3298 in chips) 
+Seat 3: Cella01912 (3541 in chips) 
+Seat 4: CharlysDad (7126 in chips) 
+Seat 5: Gabrielst298 (4814 in chips) 
+Seat 6: D.Brownlight (18723 in chips) 
+Seat 7: MathiasPela (8445 in chips) 
+Seat 8: caioirak (5471 in chips) 
+bgmDK9: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Cella01912: posts the ante 12
+CharlysDad: posts the ante 12
+Gabrielst298: posts the ante 12
+D.Brownlight: posts the ante 12
+MathiasPela: posts the ante 12
+caioirak: posts the ante 12
+CharlysDad: posts small blind 50
+Gabrielst298: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 9s]
+D.Brownlight: calls 100
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+Cella01912: folds 
+CharlysDad: calls 50
+Gabrielst298: checks 
+*** FLOP *** [9c 8c As]
+CharlysDad: checks 
+Gabrielst298: checks 
+D.Brownlight: checks 
+*** TURN *** [9c 8c As] [5h]
+CharlysDad: checks 
+Gabrielst298: checks 
+D.Brownlight: checks 
+*** RIVER *** [9c 8c As 5h] [Ac]
+CharlysDad: checks 
+Gabrielst298: bets 100
+D.Brownlight: folds 
+CharlysDad: folds 
+Uncalled bet (100) returned to Gabrielst298
+Gabrielst298 collected 396 from pot
+Gabrielst298: doesn't show hand 
+*** SUMMARY ***
+Total pot 396 | Rake 0 
+Board [9c 8c As 5h Ac]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Cella01912 (button) folded before Flop (didn't bet)
+Seat 4: CharlysDad (small blind) folded on the River
+Seat 5: Gabrielst298 (big blind) collected (396)
+Seat 6: D.Brownlight folded on the River
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673103495: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 17:52:44 WET [2025/02/02 12:52:44 ET]
+Table '3852815992 11' 8-max Seat #4 is the button
+Seat 1: bgmDK9 (5346 in chips) 
+Seat 2: Kevin12345Mc (3286 in chips) 
+Seat 3: Cella01912 (3529 in chips) 
+Seat 4: CharlysDad (7014 in chips) 
+Seat 5: Gabrielst298 (5098 in chips) 
+Seat 6: D.Brownlight (18611 in chips) 
+Seat 7: MathiasPela (8433 in chips) 
+Seat 8: caioirak (5459 in chips) 
+bgmDK9: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Cella01912: posts the ante 12
+CharlysDad: posts the ante 12
+Gabrielst298: posts the ante 12
+D.Brownlight: posts the ante 12
+MathiasPela: posts the ante 12
+caioirak: posts the ante 12
+Gabrielst298: posts small blind 50
+D.Brownlight: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 3c]
+MathiasPela: raises 110 to 210
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+Cella01912: calls 210
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: folds 
+*** FLOP *** [7h Ks Jc]
+MathiasPela: bets 220
+Cella01912: calls 220
+*** TURN *** [7h Ks Jc] [3d]
+MathiasPela: checks 
+Cella01912: bets 653
+MathiasPela: folds 
+Uncalled bet (653) returned to Cella01912
+Cella01912 collected 1106 from pot
+Cella01912: doesn't show hand 
+*** SUMMARY ***
+Total pot 1106 | Rake 0 
+Board [7h Ks Jc 3d]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Cella01912 collected (1106)
+Seat 4: CharlysDad (button) folded before Flop (didn't bet)
+Seat 5: Gabrielst298 (small blind) folded before Flop
+Seat 6: D.Brownlight (big blind) folded before Flop
+Seat 7: MathiasPela folded on the Turn
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673127229: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 17:53:58 WET [2025/02/02 12:53:58 ET]
+Table '3852815992 11' 8-max Seat #5 is the button
+Seat 1: bgmDK9 (5334 in chips) 
+Seat 2: Kevin12345Mc (3274 in chips) 
+Seat 3: Cella01912 (4193 in chips) 
+Seat 4: CharlysDad (7002 in chips) 
+Seat 5: Gabrielst298 (5036 in chips) 
+Seat 6: D.Brownlight (18499 in chips) 
+Seat 7: MathiasPela (7991 in chips) 
+Seat 8: caioirak (5447 in chips) 
+bgmDK9: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Cella01912: posts the ante 12
+CharlysDad: posts the ante 12
+Gabrielst298: posts the ante 12
+D.Brownlight: posts the ante 12
+MathiasPela: posts the ante 12
+caioirak: posts the ante 12
+D.Brownlight: posts small blind 50
+MathiasPela: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h As]
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+Cella01912: folds 
+CharlysDad: folds 
+Gabrielst298: raises 100 to 200
+D.Brownlight: calls 150
+MathiasPela: calls 100
+*** FLOP *** [Qh Jd 8d]
+D.Brownlight: checks 
+MathiasPela: checks 
+Gabrielst298: bets 174
+D.Brownlight: calls 174
+MathiasPela: calls 174
+*** TURN *** [Qh Jd 8d] [Qd]
+D.Brownlight: checks 
+MathiasPela: checks 
+Gabrielst298: bets 670
+D.Brownlight: folds 
+MathiasPela: calls 670
+*** RIVER *** [Qh Jd 8d Qd] [8s]
+MathiasPela: checks 
+Gabrielst298: bets 1407
+MathiasPela: calls 1407
+*** SHOW DOWN ***
+Gabrielst298: shows [Td Qs] (a full house, Queens full of Eights)
+MathiasPela: mucks hand 
+Gabrielst298 collected 5372 from pot
+*** SUMMARY ***
+Total pot 5372 | Rake 0 
+Board [Qh Jd 8d Qd 8s]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Cella01912 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 (button) showed [Td Qs] and won (5372) with a full house, Queens full of Eights
+Seat 6: D.Brownlight (small blind) folded on the Turn
+Seat 7: MathiasPela (big blind) mucked [Ts Js]
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673240640: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 18:02:03 WET [2025/02/02 13:02:03 ET]
+Table '3852815992 11' 8-max Seat #6 is the button
+Seat 1: bgmDK9 (5322 in chips) 
+Seat 2: Kevin12345Mc (3262 in chips) 
+Seat 3: Cella01912 (4181 in chips) 
+Seat 4: CharlysDad (6990 in chips) 
+Seat 5: Gabrielst298 (7945 in chips) 
+Seat 6: D.Brownlight (18113 in chips) 
+Seat 7: MathiasPela (5528 in chips) 
+Seat 8: caioirak (5435 in chips) 
+bgmDK9: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Cella01912: posts the ante 12
+CharlysDad: posts the ante 12
+Gabrielst298: posts the ante 12
+D.Brownlight: posts the ante 12
+MathiasPela: posts the ante 12
+caioirak: posts the ante 12
+MathiasPela: posts small blind 50
+caioirak: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Jd]
+bgmDK9: folds 
+Kevin12345Mc: folds 
+Cella01912: raises 100 to 200
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: calls 200
+MathiasPela: folds 
+caioirak: folds 
+*** FLOP *** [2s 3c 3h]
+Cella01912: checks 
+D.Brownlight: checks 
+*** TURN *** [2s 3c 3h] [2d]
+Cella01912: checks 
+D.Brownlight: bets 250
+Cella01912: folds 
+Uncalled bet (250) returned to D.Brownlight
+D.Brownlight collected 646 from pot
+D.Brownlight: doesn't show hand 
+*** SUMMARY ***
+Total pot 646 | Rake 0 
+Board [2s 3c 3h 2d]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Cella01912 folded on the Turn
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight (button) collected (646)
+Seat 7: MathiasPela (small blind) folded before Flop
+Seat 8: caioirak (big blind) folded before Flop
+
+
+
+PokerStars Hand #254673264845: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 18:03:22 WET [2025/02/02 13:03:22 ET]
+Table '3852815992 11' 8-max Seat #7 is the button
+Seat 1: bgmDK9 (5310 in chips) 
+Seat 2: Kevin12345Mc (3250 in chips) 
+Seat 3: Cella01912 (3969 in chips) 
+Seat 4: CharlysDad (6978 in chips) 
+Seat 5: Gabrielst298 (7933 in chips) 
+Seat 6: D.Brownlight (18547 in chips) 
+Seat 7: MathiasPela (5466 in chips) 
+Seat 8: caioirak (5323 in chips) 
+bgmDK9: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Cella01912: posts the ante 12
+CharlysDad: posts the ante 12
+Gabrielst298: posts the ante 12
+D.Brownlight: posts the ante 12
+MathiasPela: posts the ante 12
+caioirak: posts the ante 12
+caioirak: posts small blind 50
+bgmDK9: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 4c]
+Kevin12345Mc: folds 
+Cella01912: raises 100 to 200
+CharlysDad: calls 200
+Gabrielst298: folds 
+D.Brownlight: calls 200
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: folds 
+*** FLOP *** [2c Qc 8s]
+Cella01912: bets 279
+CharlysDad: folds 
+D.Brownlight: calls 279
+*** TURN *** [2c Qc 8s] [9s]
+Cella01912: bets 802
+D.Brownlight: calls 802
+*** RIVER *** [2c Qc 8s 9s] [As]
+Cella01912: bets 2676 and is all-in
+D.Brownlight: calls 2676
+*** SHOW DOWN ***
+Cella01912: shows [Ac Kd] (a pair of Aces)
+D.Brownlight: shows [9c 9d] (three of a kind, Nines)
+D.Brownlight collected 8360 from pot
+Cella01912 finished the tournament
+*** SUMMARY ***
+Total pot 8360 | Rake 0 
+Board [2c Qc 8s 9s As]
+Seat 1: bgmDK9 (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: Cella01912 showed [Ac Kd] and lost with a pair of Aces
+Seat 4: CharlysDad folded on the Flop
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight showed [9c 9d] and won (8360) with three of a kind, Nines
+Seat 7: MathiasPela (button) folded before Flop (didn't bet)
+Seat 8: caioirak (small blind) folded before Flop
+
+
+
+PokerStars Hand #254673297660: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 18:05:01 WET [2025/02/02 13:05:01 ET]
+Table '3852815992 11' 8-max Seat #8 is the button
+Seat 1: bgmDK9 (5198 in chips) 
+Seat 2: Kevin12345Mc (3238 in chips) 
+Seat 4: CharlysDad (6766 in chips) 
+Seat 5: Gabrielst298 (7921 in chips) 
+Seat 6: D.Brownlight (22938 in chips) 
+Seat 7: MathiasPela (5454 in chips) 
+Seat 8: caioirak (5261 in chips) 
+bgmDK9: posts the ante 12
+Kevin12345Mc: posts the ante 12
+CharlysDad: posts the ante 12
+Gabrielst298: posts the ante 12
+D.Brownlight: posts the ante 12
+MathiasPela: posts the ante 12
+caioirak: posts the ante 12
+bgmDK9: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d Js]
+MSalt1 is disconnected 
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: calls 100
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [4c Ah 2s]
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** TURN *** [4c Ah 2s] [Ac]
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** RIVER *** [4c Ah 2s Ac] [5s]
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9d Js] (a pair of Aces)
+D.Brownlight: shows [6s Ks] (a pair of Aces - King kicker)
+D.Brownlight collected 334 from pot
+*** SUMMARY ***
+Total pot 334 | Rake 0 
+Board [4c Ah 2s Ac 5s]
+Seat 1: bgmDK9 (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) showed [9d Js] and lost with a pair of Aces
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight showed [6s Ks] and won (334) with a pair of Aces
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673320753: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/02 18:06:10 WET [2025/02/02 13:06:10 ET]
+Table '3852815992 11' 8-max Seat #1 is the button
+Seat 1: bgmDK9 (5136 in chips) 
+Seat 2: Kevin12345Mc (3126 in chips) 
+Seat 3: MSalt1 (5000 in chips) 
+Seat 4: CharlysDad (6754 in chips) 
+Seat 5: Gabrielst298 (7909 in chips) 
+Seat 6: D.Brownlight (23160 in chips) 
+Seat 7: MathiasPela (5442 in chips) 
+Seat 8: caioirak (5249 in chips) 
+bgmDK9: posts the ante 12
+Kevin12345Mc: posts the ante 12
+MSalt1: posts the ante 12
+CharlysDad: posts the ante 12
+Gabrielst298: posts the ante 12
+D.Brownlight: posts the ante 12
+MathiasPela: posts the ante 12
+caioirak: posts the ante 12
+Kevin12345Mc: posts small blind 50
+MSalt1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 3c]
+CharlysDad: folds 
+Gabrielst298: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: raises 100 to 200
+Kevin12345Mc: folds 
+MSalt1: calls 100
+*** FLOP *** [7h 3d Qh]
+MSalt1: checks 
+bgmDK9: checks 
+*** TURN *** [7h 3d Qh] [4h]
+MSalt1: bets 191
+bgmDK9: folds 
+Uncalled bet (191) returned to MSalt1
+MSalt1 collected 546 from pot
+MSalt1: doesn't show hand 
+*** SUMMARY ***
+Total pot 546 | Rake 0 
+Board [7h 3d Qh 4h]
+Seat 1: bgmDK9 (button) folded on the Turn
+Seat 2: Kevin12345Mc (small blind) folded before Flop
+Seat 3: MSalt1 (big blind) collected (546)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673336503: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 18:06:57 WET [2025/02/02 13:06:57 ET]
+Table '3852815992 11' 8-max Seat #2 is the button
+Seat 1: bgmDK9 (4924 in chips) 
+Seat 2: Kevin12345Mc (3064 in chips) 
+Seat 3: MSalt1 (5334 in chips) 
+Seat 4: CharlysDad (6742 in chips) 
+Seat 5: Gabrielst298 (7897 in chips) 
+Seat 6: D.Brownlight (23148 in chips) 
+Seat 7: MathiasPela (5430 in chips) 
+Seat 8: caioirak (5237 in chips) 
+bgmDK9: posts the ante 15
+Kevin12345Mc: posts the ante 15
+MSalt1: posts the ante 15
+CharlysDad: posts the ante 15
+Gabrielst298: posts the ante 15
+D.Brownlight: posts the ante 15
+MathiasPela: posts the ante 15
+caioirak: posts the ante 15
+MSalt1: posts small blind 60
+CharlysDad: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Tc]
+Gabrielst298: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: raises 120 to 240
+Kevin12345Mc: folds 
+MSalt1: folds 
+CharlysDad: folds 
+Uncalled bet (120) returned to bgmDK9
+bgmDK9 collected 420 from pot
+bgmDK9: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: bgmDK9 collected (420)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: MSalt1 (small blind) folded before Flop
+Seat 4: CharlysDad (big blind) folded before Flop
+Seat 5: Gabrielst298 folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673346152: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 18:07:26 WET [2025/02/02 13:07:26 ET]
+Table '3852815992 11' 8-max Seat #3 is the button
+Seat 1: bgmDK9 (5209 in chips) 
+Seat 2: Kevin12345Mc (3049 in chips) 
+Seat 3: MSalt1 (5259 in chips) 
+Seat 4: CharlysDad (6607 in chips) 
+Seat 6: D.Brownlight (23133 in chips) 
+Seat 7: MathiasPela (5415 in chips) 
+Seat 8: caioirak (5222 in chips) 
+bgmDK9: posts the ante 15
+Kevin12345Mc: posts the ante 15
+MSalt1: posts the ante 15
+CharlysDad: posts the ante 15
+D.Brownlight: posts the ante 15
+MathiasPela: posts the ante 15
+caioirak: posts the ante 15
+CharlysDad: posts small blind 60
+D.Brownlight: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 6d]
+MathiasPela: folds 
+caioirak: raises 120 to 240
+bgmDK9: folds 
+Kevin12345Mc: folds 
+MSalt1: folds 
+CharlysDad: folds 
+D.Brownlight: calls 120
+*** FLOP *** [Jh Kh Tc]
+D.Brownlight: checks 
+caioirak: bets 213
+D.Brownlight: calls 213
+*** TURN *** [Jh Kh Tc] [Qs]
+D.Brownlight: checks 
+caioirak: checks 
+*** RIVER *** [Jh Kh Tc Qs] [4s]
+D.Brownlight: bets 2700
+caioirak: folds 
+Uncalled bet (2700) returned to D.Brownlight
+D.Brownlight collected 1071 from pot
+D.Brownlight: doesn't show hand 
+*** SUMMARY ***
+Total pot 1071 | Rake 0 
+Board [Jh Kh Tc Qs 4s]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 (button) folded before Flop (didn't bet)
+Seat 4: CharlysDad (small blind) folded before Flop
+Seat 6: D.Brownlight (big blind) collected (1071)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak folded on the River
+
+
+
+PokerStars Hand #254673383046: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 18:09:14 WET [2025/02/02 13:09:14 ET]
+Table '3852815992 11' 8-max Seat #4 is the button
+Seat 1: bgmDK9 (5194 in chips) 
+Seat 2: Kevin12345Mc (3034 in chips) 
+Seat 3: MSalt1 (5244 in chips) 
+Seat 4: CharlysDad (6532 in chips) 
+Seat 5: Thaking77785 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 6: D.Brownlight (23736 in chips) 
+Seat 7: MathiasPela (5400 in chips) 
+Seat 8: caioirak (4754 in chips) 
+Thaking77785 will be allowed to play after the button
+bgmDK9: posts the ante 15
+Kevin12345Mc: posts the ante 15
+MSalt1: posts the ante 15
+CharlysDad: posts the ante 15
+D.Brownlight: posts the ante 15
+MathiasPela: posts the ante 15
+caioirak: posts the ante 15
+D.Brownlight: posts small blind 60
+MathiasPela: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 2c]
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+MSalt1: folds 
+CharlysDad: folds 
+D.Brownlight: calls 60
+MathiasPela: checks 
+*** FLOP *** [Ah 4h Jd]
+D.Brownlight: checks 
+MathiasPela: bets 180
+D.Brownlight: folds 
+Uncalled bet (180) returned to MathiasPela
+MathiasPela collected 345 from pot
+MathiasPela: doesn't show hand 
+*** SUMMARY ***
+Total pot 345 | Rake 0 
+Board [Ah 4h Jd]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 folded before Flop (didn't bet)
+Seat 4: CharlysDad (button) folded before Flop (didn't bet)
+Seat 6: D.Brownlight (small blind) folded on the Flop
+Seat 7: MathiasPela (big blind) collected (345)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673396231: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 18:09:53 WET [2025/02/02 13:09:53 ET]
+Table '3852815992 11' 8-max Seat #6 is the button
+Seat 1: bgmDK9 (5179 in chips) 
+Seat 2: Kevin12345Mc (3019 in chips) 
+Seat 3: MSalt1 (5229 in chips) 
+Seat 4: CharlysDad (6517 in chips) 
+Seat 5: Thaking77785 (5000 in chips) 
+Seat 6: D.Brownlight (23601 in chips) 
+Seat 7: MathiasPela (5610 in chips) 
+Seat 8: caioirak (4739 in chips) 
+bgmDK9: posts the ante 15
+Kevin12345Mc: posts the ante 15
+MSalt1: posts the ante 15
+CharlysDad: posts the ante 15
+Thaking77785: posts the ante 15
+D.Brownlight: posts the ante 15
+MathiasPela: posts the ante 15
+caioirak: posts the ante 15
+MathiasPela: posts small blind 60
+caioirak: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 6s]
+bgmDK9: folds 
+Kevin12345Mc: folds 
+MSalt1: folds 
+CharlysDad: folds 
+Thaking77785: raises 120 to 240
+D.Brownlight: folds 
+MathiasPela: folds 
+caioirak: folds 
+Uncalled bet (120) returned to Thaking77785
+Thaking77785 collected 420 from pot
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Thaking77785 collected (420)
+Seat 6: D.Brownlight (button) folded before Flop (didn't bet)
+Seat 7: MathiasPela (small blind) folded before Flop
+Seat 8: caioirak (big blind) folded before Flop
+
+
+
+PokerStars Hand #254673409756: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 18:10:34 WET [2025/02/02 13:10:34 ET]
+Table '3852815992 11' 8-max Seat #7 is the button
+Seat 1: bgmDK9 (5164 in chips) 
+Seat 2: Kevin12345Mc (3004 in chips) 
+Seat 3: MSalt1 (5214 in chips) 
+Seat 4: CharlysDad (6502 in chips) 
+Seat 5: Thaking77785 (5285 in chips) 
+Seat 6: D.Brownlight (23586 in chips) 
+Seat 7: MathiasPela (5535 in chips) 
+Seat 8: caioirak (4604 in chips) 
+bgmDK9: posts the ante 15
+Kevin12345Mc: posts the ante 15
+MSalt1: posts the ante 15
+CharlysDad: posts the ante 15
+Thaking77785: posts the ante 15
+D.Brownlight: posts the ante 15
+MathiasPela: posts the ante 15
+caioirak: posts the ante 15
+caioirak: posts small blind 60
+bgmDK9: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Qc]
+Kevin12345Mc: folds 
+MSalt1: folds 
+CharlysDad: folds 
+Thaking77785: raises 120 to 240
+D.Brownlight: folds 
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: calls 120
+*** FLOP *** [Ts 6d Kd]
+bgmDK9: checks 
+Thaking77785: checks 
+*** TURN *** [Ts 6d Kd] [5c]
+bgmDK9: bets 330
+Thaking77785: calls 330
+*** RIVER *** [Ts 6d Kd 5c] [Ad]
+bgmDK9: checks 
+Thaking77785: checks 
+*** SHOW DOWN ***
+bgmDK9: shows [7d 8s] (high card Ace)
+Thaking77785: shows [2d 2s] (a pair of Deuces)
+Thaking77785 collected 1320 from pot
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [Ts 6d Kd 5c Ad]
+Seat 1: bgmDK9 (big blind) showed [7d 8s] and lost with high card Ace
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Thaking77785 showed [2d 2s] and won (1320) with a pair of Deuces
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela (button) folded before Flop (didn't bet)
+Seat 8: caioirak (small blind) folded before Flop
+
+
+
+PokerStars Hand #254673435188: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 18:11:49 WET [2025/02/02 13:11:49 ET]
+Table '3852815992 11' 8-max Seat #8 is the button
+Seat 1: bgmDK9 (4579 in chips) 
+Seat 2: Kevin12345Mc (2989 in chips) 
+Seat 3: MSalt1 (5199 in chips) 
+Seat 4: CharlysDad (6487 in chips) 
+Seat 5: Thaking77785 (6020 in chips) 
+Seat 6: D.Brownlight (23571 in chips) 
+Seat 7: MathiasPela (5520 in chips) 
+Seat 8: caioirak (4529 in chips) 
+bgmDK9: posts the ante 15
+Kevin12345Mc: posts the ante 15
+MSalt1: posts the ante 15
+CharlysDad: posts the ante 15
+Thaking77785: posts the ante 15
+D.Brownlight: posts the ante 15
+MathiasPela: posts the ante 15
+caioirak: posts the ante 15
+bgmDK9: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 8c]
+MSalt1: folds 
+CharlysDad: folds 
+Thaking77785: folds 
+D.Brownlight: folds 
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: calls 60
+Kevin12345Mc: checks 
+*** FLOP *** [Kh 8s 9h]
+bgmDK9: bets 120
+Kevin12345Mc: calls 120
+*** TURN *** [Kh 8s 9h] [Jh]
+bgmDK9: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Kh 8s 9h Jh] [Ks]
+bgmDK9: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+bgmDK9: shows [4d 8d] (two pair, Kings and Eights)
+Kevin12345Mc: shows [7h 8c] (two pair, Kings and Eights)
+bgmDK9 collected 300 from pot
+Kevin12345Mc collected 300 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Kh 8s 9h Jh Ks]
+Seat 1: bgmDK9 (small blind) showed [4d 8d] and won (300) with two pair, Kings and Eights
+Seat 2: Kevin12345Mc (big blind) showed [7h 8c] and won (300) with two pair, Kings and Eights
+Seat 3: MSalt1 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Thaking77785 folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673451669: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 18:12:38 WET [2025/02/02 13:12:38 ET]
+Table '3852815992 11' 8-max Seat #1 is the button
+Seat 1: bgmDK9 (4624 in chips) 
+Seat 2: Kevin12345Mc (3034 in chips) 
+Seat 3: MSalt1 (5184 in chips) 
+Seat 4: CharlysDad (6472 in chips) 
+Seat 5: Thaking77785 (6005 in chips) 
+Seat 6: D.Brownlight (23556 in chips) 
+Seat 7: MathiasPela (5505 in chips) 
+Seat 8: caioirak (4514 in chips) 
+bgmDK9: posts the ante 15
+Kevin12345Mc: posts the ante 15
+MSalt1: posts the ante 15
+CharlysDad: posts the ante 15
+Thaking77785: posts the ante 15
+D.Brownlight: posts the ante 15
+MathiasPela: posts the ante 15
+caioirak: posts the ante 15
+Kevin12345Mc: posts small blind 60
+MSalt1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 2h]
+CharlysDad: folds 
+Thaking77785: folds 
+D.Brownlight: calls 120
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: raises 2899 to 3019 and is all-in
+MSalt1: folds 
+D.Brownlight: folds 
+Uncalled bet (2899) returned to Kevin12345Mc
+Kevin12345Mc collected 480 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 480 | Rake 0 
+Seat 1: bgmDK9 (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) collected (480)
+Seat 3: MSalt1 (big blind) folded before Flop
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Thaking77785 folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673468734: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 18:13:28 WET [2025/02/02 13:13:28 ET]
+Table '3852815992 11' 8-max Seat #2 is the button
+Seat 1: bgmDK9 (4609 in chips) 
+Seat 2: Kevin12345Mc (3379 in chips) 
+Seat 3: MSalt1 (5049 in chips) 
+Seat 4: CharlysDad (6457 in chips) 
+Seat 5: Thaking77785 (5990 in chips) 
+Seat 6: D.Brownlight (23421 in chips) 
+Seat 7: MathiasPela (5490 in chips) 
+Seat 8: caioirak (4499 in chips) 
+bgmDK9: posts the ante 15
+Kevin12345Mc: posts the ante 15
+MSalt1: posts the ante 15
+CharlysDad: posts the ante 15
+Thaking77785: posts the ante 15
+D.Brownlight: posts the ante 15
+MathiasPela: posts the ante 15
+caioirak: posts the ante 15
+MSalt1: posts small blind 60
+CharlysDad: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 8d]
+Thaking77785: raises 120 to 240
+D.Brownlight: calls 240
+MathiasPela: folds 
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+MSalt1: folds 
+CharlysDad: folds 
+*** FLOP *** [7h Jh 9h]
+Thaking77785: checks 
+D.Brownlight: checks 
+*** TURN *** [7h Jh 9h] [Ad]
+Thaking77785: checks 
+D.Brownlight: checks 
+*** RIVER *** [7h Jh 9h Ad] [Jc]
+Thaking77785: checks 
+D.Brownlight: checks 
+*** SHOW DOWN ***
+Thaking77785: shows [Ac 2s] (two pair, Aces and Jacks)
+D.Brownlight: mucks hand 
+Thaking77785 collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [7h Jh 9h Ad Jc]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: MSalt1 (small blind) folded before Flop
+Seat 4: CharlysDad (big blind) folded before Flop
+Seat 5: Thaking77785 showed [Ac 2s] and won (780) with two pair, Aces and Jacks
+Seat 6: D.Brownlight mucked [4h 4d]
+Seat 7: MathiasPela folded before Flop (didn't bet)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673484874: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 18:14:17 WET [2025/02/02 13:14:17 ET]
+Table '3852815992 11' 8-max Seat #3 is the button
+Seat 1: bgmDK9 (4594 in chips) 
+Seat 2: Kevin12345Mc (3364 in chips) 
+Seat 3: MSalt1 (4974 in chips) 
+Seat 4: CharlysDad (6322 in chips) 
+Seat 5: Thaking77785 (6515 in chips) 
+Seat 6: D.Brownlight (23166 in chips) 
+Seat 7: MathiasPela (5475 in chips) 
+Seat 8: caioirak (4484 in chips) 
+bgmDK9: posts the ante 15
+Kevin12345Mc: posts the ante 15
+MSalt1: posts the ante 15
+CharlysDad: posts the ante 15
+Thaking77785: posts the ante 15
+D.Brownlight: posts the ante 15
+MathiasPela: posts the ante 15
+caioirak: posts the ante 15
+CharlysDad: posts small blind 60
+Thaking77785: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 7h]
+D.Brownlight: calls 120
+MathiasPela: raises 300 to 420
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+MSalt1: calls 420
+CharlysDad: folds 
+Thaking77785: folds 
+D.Brownlight: calls 300
+*** FLOP *** [5s Qc 7d]
+D.Brownlight: checks 
+MathiasPela: bets 515
+MSalt1: folds 
+D.Brownlight: calls 515
+*** TURN *** [5s Qc 7d] [Js]
+D.Brownlight: checks 
+MathiasPela: bets 1980
+D.Brownlight: calls 1980
+*** RIVER *** [5s Qc 7d Js] [Ac]
+D.Brownlight: bets 20236 and is all-in
+MathiasPela: calls 2545 and is all-in
+Uncalled bet (17691) returned to D.Brownlight
+*** SHOW DOWN ***
+D.Brownlight: shows [7s Qs] (two pair, Queens and Sevens)
+MathiasPela: shows [Tc Ad] (a pair of Aces)
+D.Brownlight collected 11640 from pot
+MathiasPela finished the tournament
+*** SUMMARY ***
+Total pot 11640 | Rake 0 
+Board [5s Qc 7d Js Ac]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 (button) folded on the Flop
+Seat 4: CharlysDad (small blind) folded before Flop
+Seat 5: Thaking77785 (big blind) folded before Flop
+Seat 6: D.Brownlight showed [7s Qs] and won (11640) with two pair, Queens and Sevens
+Seat 7: MathiasPela showed [Tc Ad] and lost with a pair of Aces
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673524297: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/02 18:16:14 WET [2025/02/02 13:16:14 ET]
+Table '3852815992 11' 8-max Seat #4 is the button
+Seat 1: bgmDK9 (4579 in chips) 
+Seat 2: Kevin12345Mc (3349 in chips) 
+Seat 3: MSalt1 (4539 in chips) 
+Seat 4: CharlysDad (6247 in chips) 
+Seat 5: Thaking77785 (6380 in chips) 
+Seat 6: D.Brownlight (29331 in chips) 
+Seat 8: caioirak (4469 in chips) 
+bgmDK9: posts the ante 15
+Kevin12345Mc: posts the ante 15
+MSalt1: posts the ante 15
+CharlysDad: posts the ante 15
+Thaking77785: posts the ante 15
+D.Brownlight: posts the ante 15
+caioirak: posts the ante 15
+Thaking77785: posts small blind 60
+D.Brownlight: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Jd]
+caioirak: folds 
+bgmDK9: raises 120 to 240
+Kevin12345Mc: folds 
+MSalt1: folds 
+CharlysDad: folds 
+Thaking77785: calls 180
+D.Brownlight: calls 120
+*** FLOP *** [2c Kc 7d]
+Thaking77785: checks 
+D.Brownlight: checks 
+bgmDK9: checks 
+*** TURN *** [2c Kc 7d] [2d]
+Thaking77785: checks 
+D.Brownlight: checks 
+bgmDK9: bets 413
+Thaking77785: folds 
+D.Brownlight: folds 
+Uncalled bet (413) returned to bgmDK9
+bgmDK9 collected 825 from pot
+bgmDK9: doesn't show hand 
+*** SUMMARY ***
+Total pot 825 | Rake 0 
+Board [2c Kc 7d 2d]
+Seat 1: bgmDK9 collected (825)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 folded before Flop (didn't bet)
+Seat 4: CharlysDad (button) folded before Flop (didn't bet)
+Seat 5: Thaking77785 (small blind) folded on the Turn
+Seat 6: D.Brownlight (big blind) folded on the Turn
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673541144: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/02 18:17:04 WET [2025/02/02 13:17:04 ET]
+Table '3852815992 11' 8-max Seat #5 is the button
+Seat 1: bgmDK9 (5149 in chips) 
+Seat 2: Kevin12345Mc (3334 in chips) 
+Seat 3: MSalt1 (4524 in chips) 
+Seat 4: CharlysDad (6232 in chips) 
+Seat 5: Thaking77785 (6125 in chips) 
+Seat 6: D.Brownlight (29076 in chips) 
+Seat 8: caioirak (4454 in chips) 
+bgmDK9: posts the ante 20
+Kevin12345Mc: posts the ante 20
+MSalt1: posts the ante 20
+CharlysDad: posts the ante 20
+Thaking77785: posts the ante 20
+D.Brownlight: posts the ante 20
+caioirak: posts the ante 20
+D.Brownlight: posts small blind 75
+caioirak: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 6s]
+bgmDK9: raises 150 to 300
+Kevin12345Mc: folds 
+MSalt1: calls 300
+CharlysDad: calls 300
+Thaking77785: raises 5805 to 6105 and is all-in
+D.Brownlight: folds 
+caioirak: folds 
+bgmDK9: calls 4829 and is all-in
+MSalt1: folds 
+CharlysDad: folds 
+Uncalled bet (976) returned to Thaking77785
+*** FLOP *** [6d 5c 5s]
+*** TURN *** [6d 5c 5s] [Tc]
+*** RIVER *** [6d 5c 5s Tc] [5d]
+*** SHOW DOWN ***
+bgmDK9: shows [Kd Kh] (a full house, Fives full of Kings)
+Thaking77785: shows [As Qd] (three of a kind, Fives)
+bgmDK9 collected 11223 from pot
+*** SUMMARY ***
+Total pot 11223 | Rake 0 
+Board [6d 5c 5s Tc 5d]
+Seat 1: bgmDK9 showed [Kd Kh] and won (11223) with a full house, Fives full of Kings
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 folded before Flop
+Seat 4: CharlysDad folded before Flop
+Seat 5: Thaking77785 (button) showed [As Qd] and lost with three of a kind, Fives
+Seat 6: D.Brownlight (small blind) folded before Flop
+Seat 8: caioirak (big blind) folded before Flop
+
+
+
+PokerStars Hand #254673558162: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/02 18:17:54 WET [2025/02/02 13:17:54 ET]
+Table '3852815992 11' 8-max Seat #6 is the button
+Seat 1: bgmDK9 (11223 in chips) 
+Seat 2: Kevin12345Mc (3314 in chips) 
+Seat 3: MSalt1 (4204 in chips) 
+Seat 4: CharlysDad (5912 in chips) 
+Seat 5: Thaking77785 (976 in chips) 
+Seat 6: D.Brownlight (28981 in chips) 
+Seat 7: NezhaTTV (5000 in chips) out of hand (moved from another table into small blind)
+Seat 8: caioirak (4284 in chips) 
+NezhaTTV will be allowed to play after the button
+bgmDK9: posts the ante 20
+Kevin12345Mc: posts the ante 20
+MSalt1: posts the ante 20
+CharlysDad: posts the ante 20
+Thaking77785: posts the ante 20
+D.Brownlight: posts the ante 20
+caioirak: posts the ante 20
+caioirak: posts small blind 75
+bgmDK9: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Ks]
+Kevin12345Mc: folds 
+MSalt1: raises 180 to 330
+CharlysDad: folds 
+Thaking77785: raises 626 to 956 and is all-in
+D.Brownlight: folds 
+caioirak: folds 
+bgmDK9: folds 
+MSalt1: calls 626
+*** FLOP *** [6d 5h 8s]
+*** TURN *** [6d 5h 8s] [Js]
+*** RIVER *** [6d 5h 8s Js] [2d]
+*** SHOW DOWN ***
+MSalt1: shows [Qs Qc] (a pair of Queens)
+Thaking77785: shows [Td 8h] (a pair of Eights)
+MSalt1 collected 2277 from pot
+Thaking77785 finished the tournament
+*** SUMMARY ***
+Total pot 2277 | Rake 0 
+Board [6d 5h 8s Js 2d]
+Seat 1: bgmDK9 (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 showed [Qs Qc] and won (2277) with a pair of Queens
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: Thaking77785 showed [Td 8h] and lost with a pair of Eights
+Seat 6: D.Brownlight (button) folded before Flop (didn't bet)
+Seat 8: caioirak (small blind) folded before Flop
+
+
+
+PokerStars Hand #254673572608: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/02 18:18:37 WET [2025/02/02 13:18:37 ET]
+Table '3852815992 11' 8-max Seat #8 is the button
+Seat 1: bgmDK9 (11053 in chips) 
+Seat 2: Kevin12345Mc (3294 in chips) 
+Seat 3: MSalt1 (5505 in chips) 
+Seat 4: CharlysDad (5892 in chips) 
+Seat 6: D.Brownlight (28961 in chips) 
+Seat 7: NezhaTTV (5000 in chips) 
+Seat 8: caioirak (4189 in chips) 
+bgmDK9: posts the ante 20
+Kevin12345Mc: posts the ante 20
+MSalt1: posts the ante 20
+CharlysDad: posts the ante 20
+D.Brownlight: posts the ante 20
+NezhaTTV: posts the ante 20
+caioirak: posts the ante 20
+bgmDK9: posts small blind 75
+Kevin12345Mc: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 2d]
+MSalt1: folds 
+CharlysDad: folds 
+D.Brownlight: folds 
+3Dos is disconnected 
+NezhaTTV: folds 
+caioirak: folds 
+bgmDK9: raises 300 to 450
+Kevin12345Mc: calls 300
+*** FLOP *** [Th Qc 4s]
+bgmDK9: bets 520
+Kevin12345Mc: calls 520
+*** TURN *** [Th Qc 4s] [4h]
+bgmDK9: bets 2400
+Kevin12345Mc: folds 
+Uncalled bet (2400) returned to bgmDK9
+bgmDK9 collected 2080 from pot
+bgmDK9: doesn't show hand 
+*** SUMMARY ***
+Total pot 2080 | Rake 0 
+Board [Th Qc 4s 4h]
+Seat 1: bgmDK9 (small blind) collected (2080)
+Seat 2: Kevin12345Mc (big blind) folded on the Turn
+Seat 3: MSalt1 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: NezhaTTV folded before Flop (didn't bet)
+Seat 8: caioirak (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673597439: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/02 18:19:51 WET [2025/02/02 13:19:51 ET]
+Table '3852815992 11' 8-max Seat #1 is the button
+Seat 1: bgmDK9 (12143 in chips) 
+Seat 2: Kevin12345Mc (2304 in chips) 
+Seat 3: MSalt1 (5485 in chips) 
+Seat 4: CharlysDad (5872 in chips) 
+Seat 5: 3Dos (5000 in chips) 
+Seat 6: D.Brownlight (28941 in chips) 
+Seat 7: NezhaTTV (4980 in chips) 
+Seat 8: caioirak (4169 in chips) 
+bgmDK9: posts the ante 20
+Kevin12345Mc: posts the ante 20
+MSalt1: posts the ante 20
+CharlysDad: posts the ante 20
+3Dos: posts the ante 20
+D.Brownlight: posts the ante 20
+NezhaTTV: posts the ante 20
+caioirak: posts the ante 20
+Kevin12345Mc: posts small blind 75
+MSalt1: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 7s]
+CharlysDad: folds 
+3Dos: raises 165 to 315
+D.Brownlight: folds 
+NezhaTTV: folds 
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: raises 1969 to 2284 and is all-in
+MSalt1: folds 
+3Dos: folds 
+Uncalled bet (1969) returned to Kevin12345Mc
+Kevin12345Mc collected 940 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Seat 1: bgmDK9 (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) collected (940)
+Seat 3: MSalt1 (big blind) folded before Flop
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: 3Dos folded before Flop
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: NezhaTTV folded before Flop (didn't bet)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673619778: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/02 18:20:57 WET [2025/02/02 13:20:57 ET]
+Table '3852815992 11' 8-max Seat #2 is the button
+Seat 1: bgmDK9 (12123 in chips) 
+Seat 2: Kevin12345Mc (2909 in chips) 
+Seat 3: MSalt1 (5315 in chips) 
+Seat 4: CharlysDad (5852 in chips) 
+Seat 5: 3Dos (4665 in chips) 
+Seat 6: D.Brownlight (28921 in chips) 
+Seat 7: NezhaTTV (4960 in chips) 
+Seat 8: caioirak (4149 in chips) 
+bgmDK9: posts the ante 20
+Kevin12345Mc: posts the ante 20
+MSalt1: posts the ante 20
+CharlysDad: posts the ante 20
+3Dos: posts the ante 20
+D.Brownlight: posts the ante 20
+NezhaTTV: posts the ante 20
+caioirak: posts the ante 20
+MSalt1: posts small blind 75
+CharlysDad: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 2s]
+3Dos: folds 
+D.Brownlight: calls 150
+NezhaTTV: raises 600 to 750
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+MSalt1: folds 
+CharlysDad: folds 
+D.Brownlight: calls 600
+*** FLOP *** [Kh Ac 8h]
+D.Brownlight: checks 
+NezhaTTV: bets 600
+D.Brownlight: folds 
+Uncalled bet (600) returned to NezhaTTV
+NezhaTTV collected 1885 from pot
+*** SUMMARY ***
+Total pot 1885 | Rake 0 
+Board [Kh Ac 8h]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: MSalt1 (small blind) folded before Flop
+Seat 4: CharlysDad (big blind) folded before Flop
+Seat 5: 3Dos folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded on the Flop
+Seat 7: NezhaTTV collected (1885)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673643873: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/02 18:22:08 WET [2025/02/02 13:22:08 ET]
+Table '3852815992 11' 8-max Seat #3 is the button
+Seat 1: bgmDK9 (12103 in chips) 
+Seat 2: Kevin12345Mc (2889 in chips) 
+Seat 3: MSalt1 (5220 in chips) 
+Seat 4: CharlysDad (5682 in chips) 
+Seat 5: 3Dos (4645 in chips) 
+Seat 6: D.Brownlight (28151 in chips) 
+Seat 7: NezhaTTV (6075 in chips) 
+Seat 8: caioirak (4129 in chips) 
+bgmDK9: posts the ante 20
+Kevin12345Mc: posts the ante 20
+MSalt1: posts the ante 20
+CharlysDad: posts the ante 20
+3Dos: posts the ante 20
+D.Brownlight: posts the ante 20
+NezhaTTV: posts the ante 20
+caioirak: posts the ante 20
+CharlysDad: posts small blind 75
+3Dos: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 2c]
+D.Brownlight: calls 150
+NezhaTTV: calls 150
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: folds 
+MSalt1: folds 
+CharlysDad: folds 
+3Dos: checks 
+*** FLOP *** [Ah 6c As]
+3Dos: checks 
+D.Brownlight: checks 
+NezhaTTV: bets 300
+3Dos: folds 
+D.Brownlight: calls 300
+*** TURN *** [Ah 6c As] [Qd]
+D.Brownlight: checks 
+NezhaTTV: bets 750
+D.Brownlight: calls 750
+*** RIVER *** [Ah 6c As Qd] [Th]
+D.Brownlight: bets 1700
+NezhaTTV: folds 
+Uncalled bet (1700) returned to D.Brownlight
+D.Brownlight collected 2785 from pot
+D.Brownlight: doesn't show hand 
+*** SUMMARY ***
+Total pot 2785 | Rake 0 
+Board [Ah 6c As Qd Th]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 (button) folded before Flop (didn't bet)
+Seat 4: CharlysDad (small blind) folded before Flop
+Seat 5: 3Dos (big blind) folded on the Flop
+Seat 6: D.Brownlight collected (2785)
+Seat 7: NezhaTTV folded on the River
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673682426: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/02 18:24:02 WET [2025/02/02 13:24:02 ET]
+Table '3852815992 11' 8-max Seat #4 is the button
+Seat 1: bgmDK9 (12083 in chips) 
+Seat 2: Kevin12345Mc (2869 in chips) 
+Seat 3: MSalt1 (5200 in chips) 
+Seat 4: CharlysDad (5587 in chips) 
+Seat 5: 3Dos (4475 in chips) 
+Seat 6: D.Brownlight (29716 in chips) 
+Seat 7: NezhaTTV (4855 in chips) 
+Seat 8: caioirak (4109 in chips) 
+bgmDK9: posts the ante 20
+Kevin12345Mc: posts the ante 20
+MSalt1: posts the ante 20
+CharlysDad: posts the ante 20
+3Dos: posts the ante 20
+D.Brownlight: posts the ante 20
+NezhaTTV: posts the ante 20
+caioirak: posts the ante 20
+3Dos: posts small blind 75
+D.Brownlight: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Jc]
+NezhaTTV: folds 
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: raises 150 to 300
+MSalt1: raises 450 to 750
+CharlysDad: folds 
+3Dos: folds 
+D.Brownlight: folds 
+Kevin12345Mc: calls 450
+*** FLOP *** [6h 3d Kd]
+Kevin12345Mc: checks 
+MSalt1: checks 
+*** TURN *** [6h 3d Kd] [4d]
+Kevin12345Mc: checks 
+MSalt1: bets 434
+Kevin12345Mc: calls 434
+*** RIVER *** [6h 3d Kd 4d] [4s]
+Kevin12345Mc: checks 
+MSalt1: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Kc Jc] (two pair, Kings and Fours)
+MSalt1: mucks hand 
+Kevin12345Mc collected 2753 from pot
+*** SUMMARY ***
+Total pot 2753 | Rake 0 
+Board [6h 3d Kd 4d 4s]
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc showed [Kc Jc] and won (2753) with two pair, Kings and Fours
+Seat 3: MSalt1 mucked [Qs Qc]
+Seat 4: CharlysDad (button) folded before Flop (didn't bet)
+Seat 5: 3Dos (small blind) folded before Flop
+Seat 6: D.Brownlight (big blind) folded before Flop
+Seat 7: NezhaTTV folded before Flop (didn't bet)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673713757: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/02 18:25:34 WET [2025/02/02 13:25:34 ET]
+Table '3852815992 11' 8-max Seat #5 is the button
+Seat 1: bgmDK9 (12063 in chips) 
+Seat 2: Kevin12345Mc (4418 in chips) 
+Seat 3: MSalt1 (3996 in chips) 
+Seat 4: CharlysDad (5567 in chips) 
+Seat 5: 3Dos (4380 in chips) 
+Seat 6: D.Brownlight (29546 in chips) 
+Seat 7: NezhaTTV (4835 in chips) 
+Seat 8: caioirak (4089 in chips) 
+bgmDK9: posts the ante 20
+Kevin12345Mc: posts the ante 20
+MSalt1: posts the ante 20
+CharlysDad: posts the ante 20
+3Dos: posts the ante 20
+D.Brownlight: posts the ante 20
+NezhaTTV: posts the ante 20
+caioirak: posts the ante 20
+D.Brownlight: posts small blind 75
+NezhaTTV: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Kh]
+caioirak: folds 
+bgmDK9: raises 150 to 300
+Kevin12345Mc: folds 
+MSalt1: folds 
+CharlysDad: folds 
+3Dos: folds 
+D.Brownlight: folds 
+NezhaTTV: raises 450 to 750
+bgmDK9: calls 450
+*** FLOP *** [7s 9c Ts]
+NezhaTTV: bets 450
+bgmDK9: calls 450
+*** TURN *** [7s 9c Ts] [Qh]
+NezhaTTV: bets 600
+bgmDK9: calls 600
+*** RIVER *** [7s 9c Ts Qh] [Jc]
+NezhaTTV: bets 3015 and is all-in
+bgmDK9: folds 
+Uncalled bet (3015) returned to NezhaTTV
+NezhaTTV collected 3835 from pot
+*** SUMMARY ***
+Total pot 3835 | Rake 0 
+Board [7s 9c Ts Qh Jc]
+Seat 1: bgmDK9 folded on the River
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: 3Dos (button) folded before Flop (didn't bet)
+Seat 6: D.Brownlight (small blind) folded before Flop
+Seat 7: NezhaTTV (big blind) collected (3835)
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673733636: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/02 18:26:32 WET [2025/02/02 13:26:32 ET]
+Table '3852815992 11' 8-max Seat #6 is the button
+Seat 1: bgmDK9 (10243 in chips) 
+Seat 2: Kevin12345Mc (4398 in chips) 
+Seat 3: MSalt1 (3976 in chips) 
+Seat 4: CharlysDad (5547 in chips) 
+Seat 5: 3Dos (4360 in chips) 
+Seat 6: D.Brownlight (29451 in chips) 
+Seat 7: NezhaTTV (6850 in chips) 
+Seat 8: caioirak (4069 in chips) 
+bgmDK9: posts the ante 20
+Kevin12345Mc: posts the ante 20
+MSalt1: posts the ante 20
+CharlysDad: posts the ante 20
+3Dos: posts the ante 20
+D.Brownlight: posts the ante 20
+NezhaTTV: posts the ante 20
+caioirak: posts the ante 20
+NezhaTTV: posts small blind 75
+caioirak: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 6h]
+bgmDK9: folds 
+Kevin12345Mc: folds 
+MSalt1: folds 
+CharlysDad: folds 
+3Dos: folds 
+D.Brownlight: folds 
+NezhaTTV: folds 
+Uncalled bet (75) returned to caioirak
+caioirak collected 310 from pot
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Seat 1: bgmDK9 folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: 3Dos folded before Flop (didn't bet)
+Seat 6: D.Brownlight (button) folded before Flop (didn't bet)
+Seat 7: NezhaTTV (small blind) folded before Flop
+Seat 8: caioirak (big blind) collected (310)
+
+
+
+PokerStars Hand #254673742433: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2025/02/02 18:26:58 WET [2025/02/02 13:26:58 ET]
+Table '3852815992 11' 8-max Seat #7 is the button
+Seat 1: bgmDK9 (10223 in chips) 
+Seat 2: Kevin12345Mc (4378 in chips) 
+Seat 3: MSalt1 (3956 in chips) 
+Seat 4: CharlysDad (5527 in chips) 
+Seat 5: 3Dos (4340 in chips) 
+Seat 6: D.Brownlight (29431 in chips) 
+Seat 7: NezhaTTV (6755 in chips) 
+Seat 8: caioirak (4284 in chips) 
+bgmDK9: posts the ante 25
+Kevin12345Mc: posts the ante 25
+MSalt1: posts the ante 25
+CharlysDad: posts the ante 25
+3Dos: posts the ante 25
+D.Brownlight: posts the ante 25
+NezhaTTV: posts the ante 25
+caioirak: posts the ante 25
+caioirak: posts small blind 100
+bgmDK9: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 3s]
+Kevin12345Mc: folds 
+MSalt1: raises 200 to 400
+CharlysDad: folds 
+3Dos: folds 
+D.Brownlight: calls 400
+NezhaTTV: folds 
+caioirak: raises 3859 to 4259 and is all-in
+bgmDK9: folds 
+MSalt1: folds 
+D.Brownlight: calls 3859
+*** FLOP *** [5c Qh 8h]
+*** TURN *** [5c Qh 8h] [9c]
+*** RIVER *** [5c Qh 8h 9c] [6d]
+*** SHOW DOWN ***
+caioirak: shows [7s 7c] (a straight, Five to Nine)
+D.Brownlight: shows [Qd Kh] (a pair of Queens)
+caioirak collected 9318 from pot
+*** SUMMARY ***
+Total pot 9318 | Rake 0 
+Board [5c Qh 8h 9c 6d]
+Seat 1: bgmDK9 (big blind) folded before Flop
+Seat 2: Kevin12345Mc folded before Flop (didn't bet)
+Seat 3: MSalt1 folded before Flop
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: 3Dos folded before Flop (didn't bet)
+Seat 6: D.Brownlight showed [Qd Kh] and lost with a pair of Queens
+Seat 7: NezhaTTV (button) folded before Flop (didn't bet)
+Seat 8: caioirak (small blind) showed [7s 7c] and won (9318) with a straight, Five to Nine
+
+
+
+PokerStars Hand #254673762685: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2025/02/02 18:27:57 WET [2025/02/02 13:27:57 ET]
+Table '3852815992 11' 8-max Seat #8 is the button
+Seat 1: bgmDK9 (9998 in chips) 
+Seat 2: Kevin12345Mc (4353 in chips) 
+Seat 3: MSalt1 (3531 in chips) 
+Seat 4: CharlysDad (5502 in chips) 
+Seat 5: 3Dos (4315 in chips) 
+Seat 6: D.Brownlight (25147 in chips) 
+Seat 7: NezhaTTV (6730 in chips) 
+Seat 8: caioirak (9318 in chips) 
+bgmDK9: posts the ante 25
+Kevin12345Mc: posts the ante 25
+MSalt1: posts the ante 25
+CharlysDad: posts the ante 25
+3Dos: posts the ante 25
+D.Brownlight: posts the ante 25
+NezhaTTV: posts the ante 25
+caioirak: posts the ante 25
+bgmDK9: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 3s]
+MSalt1: folds 
+CharlysDad: folds 
+3Dos: folds 
+D.Brownlight: calls 200
+NezhaTTV: folds 
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [3h 7d Qd]
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** TURN *** [3h 7d Qd] [4d]
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** RIVER *** [3h 7d Qd 4d] [8s]
+Kevin12345Mc: checks 
+D.Brownlight: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Td 3s] (a pair of Threes)
+D.Brownlight: mucks hand 
+Kevin12345Mc collected 700 from pot
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Board [3h 7d Qd 4d 8s]
+Seat 1: bgmDK9 (small blind) folded before Flop
+Seat 2: Kevin12345Mc (big blind) showed [Td 3s] and won (700) with a pair of Threes
+Seat 3: MSalt1 folded before Flop (didn't bet)
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: 3Dos folded before Flop (didn't bet)
+Seat 6: D.Brownlight mucked [5s Ah]
+Seat 7: NezhaTTV folded before Flop (didn't bet)
+Seat 8: caioirak (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254673783038: Tournament #3852815992, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2025/02/02 18:28:57 WET [2025/02/02 13:28:57 ET]
+Table '3852815992 11' 8-max Seat #1 is the button
+Seat 1: bgmDK9 (9873 in chips) 
+Seat 2: Kevin12345Mc (4828 in chips) 
+Seat 3: MSalt1 (3506 in chips) 
+Seat 4: CharlysDad (5477 in chips) 
+Seat 5: 3Dos (4290 in chips) 
+Seat 6: D.Brownlight (24922 in chips) 
+Seat 7: NezhaTTV (6705 in chips) 
+Seat 8: caioirak (9293 in chips) 
+bgmDK9: posts the ante 25
+Kevin12345Mc: posts the ante 25
+MSalt1: posts the ante 25
+CharlysDad: posts the ante 25
+3Dos: posts the ante 25
+D.Brownlight: posts the ante 25
+NezhaTTV: posts the ante 25
+caioirak: posts the ante 25
+Kevin12345Mc: posts small blind 100
+MSalt1: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Kd]
+CharlysDad: folds 
+3Dos: folds 
+D.Brownlight: folds 
+NezhaTTV: raises 240 to 440
+caioirak: folds 
+bgmDK9: folds 
+Kevin12345Mc: raises 4363 to 4803 and is all-in
+MSalt1: folds 
+NezhaTTV: calls 4363
+*** FLOP *** [Qh 7s 5h]
+*** TURN *** [Qh 7s 5h] [3c]
+*** RIVER *** [Qh 7s 5h 3c] [Ah]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Qc Kd] (a pair of Queens)
+NezhaTTV: shows [Js Ad] (a pair of Aces)
+NezhaTTV collected 10006 from pot
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 10006 | Rake 0 
+Board [Qh 7s 5h 3c Ah]
+Seat 1: bgmDK9 (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) showed [Qc Kd] and lost with a pair of Queens
+Seat 3: MSalt1 (big blind) folded before Flop
+Seat 4: CharlysDad folded before Flop (didn't bet)
+Seat 5: 3Dos folded before Flop (didn't bet)
+Seat 6: D.Brownlight folded before Flop (didn't bet)
+Seat 7: NezhaTTV showed [Js Ad] and won (10006) with a pair of Aces
+Seat 8: caioirak folded before Flop (didn't bet)
+
+
+

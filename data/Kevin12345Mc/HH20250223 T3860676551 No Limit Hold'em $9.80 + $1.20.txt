@@ -1,0 +1,5242 @@
+﻿PokerStars Hand #255003575852: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/23 16:32:54 WET [2025/02/23 11:32:54 ET]
+Table '3860676551 86' 8-max Seat #5 is the button
+Seat 1: One3211 (4976 in chips, $5 bounty) 
+Seat 2: cairnsy1916 (5562 in chips, $5 bounty) 
+Seat 3: 05gambler50 (4901 in chips, $5 bounty) 
+Seat 4: Mortan23 (5000 in chips, $5 bounty) 
+Seat 5: asiancutiee (4364 in chips, $5 bounty) 
+Seat 6: tigaio (5815 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4976 in chips, $5 bounty) 
+Seat 8: lpedrov (4414 in chips, $5 bounty) 
+One3211: posts the ante 8
+cairnsy1916: posts the ante 8
+05gambler50: posts the ante 8
+Mortan23: posts the ante 8
+asiancutiee: posts the ante 8
+tigaio: posts the ante 8
+Kevin12345Mc: posts the ante 8
+lpedrov: posts the ante 8
+tigaio: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Ac]
+lpedrov: raises 50 to 100
+One3211: folds 
+cairnsy1916: folds 
+Kevin12345Mc is disconnected 
+05gambler50: folds 
+Mortan23: folds 
+asiancutiee: calls 100
+tigaio: folds 
+Kevin12345Mc: calls 50
+*** FLOP *** [Ks 4h 2c]
+Kevin12345Mc: checks 
+lpedrov: bets 128
+asiancutiee: calls 128
+Kevin12345Mc: folds 
+*** TURN *** [Ks 4h 2c] [Ad]
+lpedrov: checks 
+asiancutiee: checks 
+*** RIVER *** [Ks 4h 2c Ad] [Kd]
+lpedrov: checks 
+asiancutiee: bets 467
+lpedrov: folds 
+Uncalled bet (467) returned to asiancutiee
+asiancutiee collected 645 from pot
+asiancutiee: doesn't show hand 
+*** SUMMARY ***
+Total pot 645 | Rake 0 
+Board [Ks 4h 2c Ad Kd]
+Seat 1: One3211 folded before Flop (didn't bet)
+Seat 2: cairnsy1916 folded before Flop (didn't bet)
+Seat 3: 05gambler50 folded before Flop (didn't bet)
+Seat 4: Mortan23 folded before Flop (didn't bet)
+Seat 5: asiancutiee (button) collected (645)
+Seat 6: tigaio (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Flop
+Seat 8: lpedrov folded on the River
+
+
+
+PokerStars Hand #255003607746: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/23 16:34:53 WET [2025/02/23 11:34:53 ET]
+Table '3860676551 86' 8-max Seat #6 is the button
+Seat 1: One3211 (4968 in chips, $5 bounty) 
+Seat 2: cairnsy1916 (5554 in chips, $5 bounty) 
+Seat 3: 05gambler50 (4893 in chips, $5 bounty) 
+Seat 4: Mortan23 (4992 in chips, $5 bounty) 
+Seat 5: asiancutiee (4773 in chips, $5 bounty) 
+Seat 6: tigaio (5782 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4868 in chips, $5 bounty) 
+Seat 8: lpedrov (4178 in chips, $5 bounty) 
+One3211: posts the ante 8
+cairnsy1916: posts the ante 8
+05gambler50: posts the ante 8
+Mortan23: posts the ante 8
+asiancutiee: posts the ante 8
+tigaio: posts the ante 8
+Kevin12345Mc: posts the ante 8
+lpedrov: posts the ante 8
+Kevin12345Mc: posts small blind 25
+lpedrov: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 9s]
+One3211: folds 
+cairnsy1916: folds 
+05gambler50: folds 
+Mortan23: folds 
+asiancutiee: folds 
+tigaio: raises 75 to 125
+Kevin12345Mc: folds 
+lpedrov: calls 75
+*** FLOP *** [8c Jd Jc]
+lpedrov: checks 
+tigaio: checks 
+*** TURN *** [8c Jd Jc] [7c]
+lpedrov: bets 374
+tigaio: folds 
+Uncalled bet (374) returned to lpedrov
+lpedrov collected 339 from pot
+lpedrov: doesn't show hand 
+*** SUMMARY ***
+Total pot 339 | Rake 0 
+Board [8c Jd Jc 7c]
+Seat 1: One3211 folded before Flop (didn't bet)
+Seat 2: cairnsy1916 folded before Flop (didn't bet)
+Seat 3: 05gambler50 folded before Flop (didn't bet)
+Seat 4: Mortan23 folded before Flop (didn't bet)
+Seat 5: asiancutiee folded before Flop (didn't bet)
+Seat 6: tigaio (button) folded on the Turn
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: lpedrov (big blind) collected (339)
+
+
+
+PokerStars Hand #255003623595: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/23 16:35:53 WET [2025/02/23 11:35:53 ET]
+Table '3860676551 86' 8-max Seat #7 is the button
+Seat 1: One3211 (4960 in chips, $5 bounty) 
+Seat 2: cairnsy1916 (5546 in chips, $5 bounty) 
+Seat 3: 05gambler50 (4885 in chips, $5 bounty) 
+Seat 4: Mortan23 (4984 in chips, $5 bounty) 
+Seat 5: asiancutiee (4765 in chips, $5 bounty) 
+Seat 6: tigaio (5649 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4835 in chips, $5 bounty) 
+Seat 8: lpedrov (4384 in chips, $5 bounty) 
+One3211: posts the ante 8
+cairnsy1916: posts the ante 8
+05gambler50: posts the ante 8
+Mortan23: posts the ante 8
+asiancutiee: posts the ante 8
+tigaio: posts the ante 8
+Kevin12345Mc: posts the ante 8
+lpedrov: posts the ante 8
+lpedrov: posts small blind 25
+One3211: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 5s]
+cairnsy1916: folds 
+05gambler50: folds 
+Mortan23: folds 
+asiancutiee: folds 
+tigaio: raises 75 to 125
+Kevin12345Mc: folds 
+lpedrov: calls 100
+One3211: folds 
+*** FLOP *** [Ks Th Qs]
+lpedrov: checks 
+tigaio: bets 240
+lpedrov: calls 240
+*** TURN *** [Ks Th Qs] [6h]
+lpedrov: checks 
+tigaio: checks 
+*** RIVER *** [Ks Th Qs 6h] [7s]
+lpedrov: bets 1055
+tigaio: folds 
+Uncalled bet (1055) returned to lpedrov
+lpedrov collected 844 from pot
+lpedrov: doesn't show hand 
+*** SUMMARY ***
+Total pot 844 | Rake 0 
+Board [Ks Th Qs 6h 7s]
+Seat 1: One3211 (big blind) folded before Flop
+Seat 2: cairnsy1916 folded before Flop (didn't bet)
+Seat 3: 05gambler50 folded before Flop (didn't bet)
+Seat 4: Mortan23 folded before Flop (didn't bet)
+Seat 5: asiancutiee folded before Flop (didn't bet)
+Seat 6: tigaio folded on the River
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: lpedrov (small blind) collected (844)
+
+
+
+PokerStars Hand #255003640565: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/23 16:36:55 WET [2025/02/23 11:36:55 ET]
+Table '3860676551 86' 8-max Seat #8 is the button
+Seat 1: One3211 (4902 in chips, $5 bounty) 
+Seat 2: cairnsy1916 (5538 in chips, $5 bounty) 
+Seat 3: 05gambler50 (4877 in chips, $5 bounty) 
+Seat 4: Mortan23 (4976 in chips, $5 bounty) 
+Seat 5: asiancutiee (4757 in chips, $5 bounty) 
+Seat 6: tigaio (5276 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4827 in chips, $5 bounty) 
+Seat 8: lpedrov (4855 in chips, $5 bounty) 
+One3211: posts the ante 8
+cairnsy1916: posts the ante 8
+05gambler50: posts the ante 8
+Mortan23: posts the ante 8
+asiancutiee: posts the ante 8
+tigaio: posts the ante 8
+Kevin12345Mc: posts the ante 8
+lpedrov: posts the ante 8
+One3211: posts small blind 25
+cairnsy1916: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th Ks]
+05gambler50: folds 
+Mortan23: folds 
+asiancutiee: raises 62 to 112
+tigaio: folds 
+Kevin12345Mc: folds 
+lpedrov: folds 
+One3211: raises 280 to 392
+cairnsy1916: calls 342
+asiancutiee: folds 
+*** FLOP *** [8c Qd 9c]
+One3211: checks 
+cairnsy1916: checks 
+*** TURN *** [8c Qd 9c] [5h]
+One3211: checks 
+cairnsy1916: checks 
+*** RIVER *** [8c Qd 9c 5h] [As]
+One3211: bets 768
+cairnsy1916: calls 768
+*** SHOW DOWN ***
+One3211: shows [Ad Kd] (a pair of Aces)
+cairnsy1916: mucks hand 
+One3211 collected 2496 from pot
+*** SUMMARY ***
+Total pot 2496 | Rake 0 
+Board [8c Qd 9c 5h As]
+Seat 1: One3211 (small blind) showed [Ad Kd] and won (2496) with a pair of Aces
+Seat 2: cairnsy1916 (big blind) mucked [Ts Ah]
+Seat 3: 05gambler50 folded before Flop (didn't bet)
+Seat 4: Mortan23 folded before Flop (didn't bet)
+Seat 5: asiancutiee folded before Flop
+Seat 6: tigaio folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: lpedrov (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003657688: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:37:58 WET [2025/02/23 11:37:58 ET]
+Table '3860676551 86' 8-max Seat #1 is the button
+Seat 1: One3211 (6230 in chips, $5 bounty) 
+Seat 2: cairnsy1916 (4370 in chips, $5 bounty) 
+Seat 4: Mortan23 (4968 in chips, $5 bounty) 
+Seat 5: asiancutiee (4637 in chips, $5 bounty) 
+Seat 6: tigaio (5268 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4819 in chips, $5 bounty) 
+Seat 8: lpedrov (4847 in chips, $5 bounty) 
+One3211: posts the ante 9
+cairnsy1916: posts the ante 9
+Mortan23: posts the ante 9
+asiancutiee: posts the ante 9
+tigaio: posts the ante 9
+Kevin12345Mc: posts the ante 9
+lpedrov: posts the ante 9
+cairnsy1916: posts small blind 30
+Mortan23: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s Qd]
+asiancutiee: folds 
+tigaio: folds 
+Kevin12345Mc: folds 
+akim265 is disconnected 
+lpedrov: raises 60 to 120
+One3211: calls 120
+cairnsy1916: calls 90
+Mortan23: calls 60
+*** FLOP *** [Kd 9s Td]
+cairnsy1916: checks 
+Mortan23: checks 
+lpedrov: checks 
+One3211: bets 90
+cairnsy1916: calls 90
+Mortan23: folds 
+lpedrov: calls 90
+*** TURN *** [Kd 9s Td] [9h]
+cairnsy1916: checks 
+lpedrov: checks 
+One3211: checks 
+*** RIVER *** [Kd 9s Td 9h] [8c]
+cairnsy1916: checks 
+lpedrov: checks 
+One3211: checks 
+*** SHOW DOWN ***
+cairnsy1916: shows [Kh 5d] (two pair, Kings and Nines)
+lpedrov: mucks hand 
+One3211: mucks hand 
+cairnsy1916 collected 813 from pot
+*** SUMMARY ***
+Total pot 813 | Rake 0 
+Board [Kd 9s Td 9h 8c]
+Seat 1: One3211 (button) mucked [Ah 7h]
+Seat 2: cairnsy1916 (small blind) showed [Kh 5d] and won (813) with two pair, Kings and Nines
+Seat 4: Mortan23 (big blind) folded on the Flop
+Seat 5: asiancutiee folded before Flop (didn't bet)
+Seat 6: tigaio folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: lpedrov mucked [Ac Th]
+
+
+
+PokerStars Hand #255003674509: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:39:01 WET [2025/02/23 11:39:01 ET]
+Table '3860676551 86' 8-max Seat #2 is the button
+Seat 1: One3211 (6011 in chips, $5 bounty) 
+Seat 2: cairnsy1916 (4964 in chips, $5 bounty) 
+Seat 3: akim265 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 4: Mortan23 (4839 in chips, $5 bounty) 
+Seat 5: asiancutiee (4628 in chips, $5 bounty) 
+Seat 6: tigaio (5259 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4810 in chips, $5 bounty) 
+Seat 8: lpedrov (4628 in chips, $5 bounty) 
+akim265 will be allowed to play after the button
+One3211: posts the ante 9
+cairnsy1916: posts the ante 9
+Mortan23: posts the ante 9
+asiancutiee: posts the ante 9
+tigaio: posts the ante 9
+Kevin12345Mc: posts the ante 9
+lpedrov: posts the ante 9
+Mortan23: posts small blind 30
+asiancutiee: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s Kh]
+tigaio: folds 
+Kevin12345Mc: folds 
+lpedrov: raises 72 to 132
+One3211: folds 
+cairnsy1916: folds 
+Mortan23: folds 
+asiancutiee: folds 
+Uncalled bet (72) returned to lpedrov
+lpedrov collected 213 from pot
+lpedrov: doesn't show hand 
+*** SUMMARY ***
+Total pot 213 | Rake 0 
+Seat 1: One3211 folded before Flop (didn't bet)
+Seat 2: cairnsy1916 (button) folded before Flop (didn't bet)
+Seat 4: Mortan23 (small blind) folded before Flop
+Seat 5: asiancutiee (big blind) folded before Flop
+Seat 6: tigaio folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: lpedrov collected (213)
+
+
+
+PokerStars Hand #255003681335: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:39:26 WET [2025/02/23 11:39:26 ET]
+Table '3860676551 86' 8-max Seat #4 is the button
+Seat 1: One3211 (6002 in chips, $5 bounty) 
+Seat 2: cairnsy1916 (4955 in chips, $5 bounty) 
+Seat 3: akim265 (5000 in chips, $5 bounty) 
+Seat 4: Mortan23 (4800 in chips, $5 bounty) 
+Seat 5: asiancutiee (4559 in chips, $5 bounty) 
+Seat 6: tigaio (5250 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4801 in chips, $5 bounty) 
+Seat 8: lpedrov (4772 in chips, $5 bounty) 
+One3211: posts the ante 9
+cairnsy1916: posts the ante 9
+akim265: posts the ante 9
+Mortan23: posts the ante 9
+asiancutiee: posts the ante 9
+tigaio: posts the ante 9
+Kevin12345Mc: posts the ante 9
+lpedrov: posts the ante 9
+asiancutiee: posts small blind 30
+tigaio: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Tc]
+Kevin12345Mc: folds 
+lpedrov: folds 
+One3211: folds 
+cairnsy1916: raises 120 to 180
+akim265: folds 
+Mortan23: folds 
+asiancutiee: raises 420 to 600
+tigaio: folds 
+cairnsy1916: raises 720 to 1320
+asiancutiee: raises 3230 to 4550 and is all-in
+cairnsy1916: calls 3230
+*** FLOP *** [9h 6h 7d]
+*** TURN *** [9h 6h 7d] [3s]
+*** RIVER *** [9h 6h 7d 3s] [3c]
+*** SHOW DOWN ***
+asiancutiee: shows [Kh As] (a pair of Threes)
+cairnsy1916: shows [Kc Ad] (a pair of Threes)
+asiancutiee collected 4616 from pot
+cairnsy1916 collected 4616 from pot
+*** SUMMARY ***
+Total pot 9232 | Rake 0 
+Board [9h 6h 7d 3s 3c]
+Seat 1: One3211 folded before Flop (didn't bet)
+Seat 2: cairnsy1916 showed [Kc Ad] and won (4616) with a pair of Threes
+Seat 3: akim265 folded before Flop (didn't bet)
+Seat 4: Mortan23 (button) folded before Flop (didn't bet)
+Seat 5: asiancutiee (small blind) showed [Kh As] and won (4616) with a pair of Threes
+Seat 6: tigaio (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: lpedrov folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003693395: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:40:11 WET [2025/02/23 11:40:11 ET]
+Table '3860676551 224' 8-max Seat #1 is the button
+Seat 1: Kombucha7 (4167 in chips, $5 bounty) 
+Seat 2: Biceps82 (5820 in chips, $5 bounty) 
+Seat 3: felipepe17 (4120 in chips, $5 bounty) 
+Seat 4: jorgeq2002 (5000 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (4792 in chips, $5 bounty) 
+Seat 6: stamos2699 (5000 in chips, $5 bounty) 
+Seat 8: otto647 (5000 in chips, $5 bounty) 
+Kombucha7: posts the ante 9
+Biceps82: posts the ante 9
+felipepe17: posts the ante 9
+jorgeq2002: posts the ante 9
+Kevin12345Mc: posts the ante 9
+stamos2699: posts the ante 9
+otto647: posts the ante 9
+Biceps82: posts small blind 30
+felipepe17: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th Kd]
+Kevin12345Mc is disconnected 
+felipepe17 is disconnected 
+jorgeq2002 is disconnected 
+jorgeq2002 is connected 
+Soouuzzaa is disconnected 
+otto647 is disconnected 
+jorgeq2002: folds 
+Kevin12345Mc: folds 
+stamos2699: folds 
+otto647: calls 60
+Kombucha7: folds 
+Biceps82: folds 
+felipepe17: checks 
+*** FLOP *** [Jh 5d 9h]
+felipepe17: checks 
+otto647: checks 
+*** TURN *** [Jh 5d 9h] [Jd]
+felipepe17: bets 210
+otto647: folds 
+Uncalled bet (210) returned to felipepe17
+felipepe17 collected 213 from pot
+felipepe17: doesn't show hand 
+*** SUMMARY ***
+Total pot 213 | Rake 0 
+Board [Jh 5d 9h Jd]
+Seat 1: Kombucha7 (button) folded before Flop (didn't bet)
+Seat 2: Biceps82 (small blind) folded before Flop
+Seat 3: felipepe17 (big blind) collected (213)
+Seat 4: jorgeq2002 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: stamos2699 folded before Flop (didn't bet)
+Seat 8: otto647 folded on the Turn
+
+
+
+PokerStars Hand #255003705893: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:40:57 WET [2025/02/23 11:40:57 ET]
+Table '3860676551 224' 8-max Seat #2 is the button
+Seat 1: Kombucha7 (4158 in chips, $5 bounty) 
+Seat 2: Biceps82 (5781 in chips, $5 bounty) 
+Seat 3: felipepe17 (4264 in chips, $5 bounty) 
+Seat 4: jorgeq2002 (4991 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (4783 in chips, $5 bounty) 
+Seat 6: stamos2699 (4991 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (5000 in chips, $5 bounty) 
+Seat 8: otto647 (4931 in chips, $5 bounty) 
+Kombucha7: posts the ante 9
+Biceps82: posts the ante 9
+felipepe17: posts the ante 9
+jorgeq2002: posts the ante 9
+Kevin12345Mc: posts the ante 9
+stamos2699: posts the ante 9
+Soouuzzaa: posts the ante 9
+otto647: posts the ante 9
+felipepe17: posts small blind 30
+jorgeq2002: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Td]
+Kevin12345Mc: folds 
+stamos2699: folds 
+Soouuzzaa: raises 90 to 150
+otto647: folds 
+Kombucha7: folds 
+Biceps82: folds 
+felipepe17: calls 120
+jorgeq2002: raises 450 to 600
+Soouuzzaa: calls 450
+felipepe17: folds 
+*** FLOP *** [5s 7s 4h]
+jorgeq2002: bets 711
+Soouuzzaa: calls 711
+*** TURN *** [5s 7s 4h] [Js]
+jorgeq2002: bets 3671 and is all-in
+Soouuzzaa: calls 3671
+*** RIVER *** [5s 7s 4h Js] [Ts]
+*** SHOW DOWN ***
+jorgeq2002: shows [Kd Ks] (a flush, King high)
+Soouuzzaa: shows [8s As] (a flush, Ace high)
+Soouuzzaa collected 10186 from pot
+Soouuzzaa wins $2.50 for eliminating jorgeq2002 and their own bounty increases by $2.50 to $7.50
+jorgeq2002 finished the tournament
+$0$a is disconnected 
+*** SUMMARY ***
+Total pot 10186 | Rake 0 
+Board [5s 7s 4h Js Ts]
+Seat 1: Kombucha7 folded before Flop (didn't bet)
+Seat 2: Biceps82 (button) folded before Flop (didn't bet)
+Seat 3: felipepe17 (small blind) folded before Flop
+Seat 4: jorgeq2002 (big blind) showed [Kd Ks] and lost with a flush, King high
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: stamos2699 folded before Flop (didn't bet)
+Seat 7: Soouuzzaa showed [8s As] and won (10186) with a flush, Ace high
+Seat 8: otto647 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003718038: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:41:42 WET [2025/02/23 11:41:42 ET]
+Table '3860676551 224' 8-max Seat #3 is the button
+Seat 1: Kombucha7 (4149 in chips, $5 bounty) 
+Seat 2: Biceps82 (5772 in chips, $5 bounty) 
+Seat 3: felipepe17 (4105 in chips, $5 bounty) 
+Seat 4: $0$a (5000 in chips) out of hand (moved from another table into small blind)
+Seat 5: Kevin12345Mc (4774 in chips, $5 bounty) 
+Seat 6: stamos2699 (4982 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (10195 in chips, $7.50 bounty) 
+Seat 8: otto647 (4922 in chips, $5 bounty) 
+$0$a will be allowed to play after the button
+Kombucha7: posts the ante 9
+Biceps82: posts the ante 9
+felipepe17: posts the ante 9
+Kevin12345Mc: posts the ante 9
+stamos2699: posts the ante 9
+Soouuzzaa: posts the ante 9
+otto647: posts the ante 9
+Kevin12345Mc: posts small blind 30
+stamos2699: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 6s]
+Soouuzzaa: folds 
+otto647: folds 
+Kombucha7: folds 
+Biceps82: folds 
+felipepe17: raises 60 to 120
+Kevin12345Mc: folds 
+stamos2699: calls 60
+*** FLOP *** [8d 5d Jh]
+stamos2699: checks 
+felipepe17: bets 73
+stamos2699: raises 359 to 432
+felipepe17: calls 359
+*** TURN *** [8d 5d Jh] [5s]
+stamos2699: checks 
+felipepe17: checks 
+*** RIVER *** [8d 5d Jh 5s] [4h]
+stamos2699: bets 4421 and is all-in
+felipepe17: folds 
+Uncalled bet (4421) returned to stamos2699
+stamos2699 collected 1197 from pot
+*** SUMMARY ***
+Total pot 1197 | Rake 0 
+Board [8d 5d Jh 5s 4h]
+Seat 1: Kombucha7 folded before Flop (didn't bet)
+Seat 2: Biceps82 folded before Flop (didn't bet)
+Seat 3: felipepe17 (button) folded on the River
+Seat 5: Kevin12345Mc (small blind) folded before Flop
+Seat 6: stamos2699 (big blind) collected (1197)
+Seat 7: Soouuzzaa folded before Flop (didn't bet)
+Seat 8: otto647 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003750027: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:43:40 WET [2025/02/23 11:43:40 ET]
+Table '3860676551 224' 8-max Seat #5 is the button
+Seat 2: Biceps82 (5763 in chips, $5 bounty) 
+Seat 3: felipepe17 (3544 in chips, $5 bounty) 
+Seat 4: $0$a (5000 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (4735 in chips, $5 bounty) 
+Seat 6: stamos2699 (5618 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (10186 in chips, $7.50 bounty) 
+Seat 8: otto647 (4913 in chips, $5 bounty) 
+Biceps82: posts the ante 9
+felipepe17: posts the ante 9
+$0$a: posts the ante 9
+Kevin12345Mc: posts the ante 9
+stamos2699: posts the ante 9
+Soouuzzaa: posts the ante 9
+otto647: posts the ante 9
+stamos2699: posts small blind 30
+Soouuzzaa: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 9h]
+Stealzin is disconnected 
+otto647: folds 
+Biceps82: folds 
+felipepe17: folds 
+$0$a: folds 
+Kevin12345Mc: raises 78 to 138
+stamos2699: calls 108
+Soouuzzaa: calls 78
+*** FLOP *** [Ad 6s Th]
+stamos2699: checks 
+Soouuzzaa: checks 
+Kevin12345Mc: bets 157
+stamos2699: calls 157
+Soouuzzaa: folds 
+*** TURN *** [Ad 6s Th] [7s]
+stamos2699: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Ad 6s Th 7s] [8s]
+stamos2699: checks 
+Kevin12345Mc: bets 522
+stamos2699: folds 
+Uncalled bet (522) returned to Kevin12345Mc
+Kevin12345Mc collected 791 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 791 | Rake 0 
+Board [Ad 6s Th 7s 8s]
+Seat 2: Biceps82 folded before Flop (didn't bet)
+Seat 3: felipepe17 folded before Flop (didn't bet)
+Seat 4: $0$a folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (button) collected (791)
+Seat 6: stamos2699 (small blind) folded on the River
+Seat 7: Soouuzzaa (big blind) folded on the Flop
+Seat 8: otto647 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003781249: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/23 16:45:35 WET [2025/02/23 11:45:35 ET]
+Table '3860676551 224' 8-max Seat #6 is the button
+Seat 1: Stealzin (5000 in chips, $5 bounty) 
+Seat 2: Biceps82 (5754 in chips, $5 bounty) 
+Seat 3: felipepe17 (3535 in chips, $5 bounty) 
+Seat 4: $0$a (4991 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (5222 in chips, $5 bounty) 
+Seat 6: stamos2699 (5314 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (10039 in chips, $7.50 bounty) 
+Seat 8: otto647 (4904 in chips, $5 bounty) 
+Stealzin: posts the ante 9
+Biceps82: posts the ante 9
+felipepe17: posts the ante 9
+$0$a: posts the ante 9
+Kevin12345Mc: posts the ante 9
+stamos2699: posts the ante 9
+Soouuzzaa: posts the ante 9
+otto647: posts the ante 9
+Soouuzzaa: posts small blind 30
+otto647: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc Th]
+Stealzin: folds 
+Biceps82: folds 
+felipepe17: folds 
+$0$a: folds 
+Kevin12345Mc: folds 
+stamos2699: folds 
+Soouuzzaa: folds 
+Uncalled bet (30) returned to otto647
+otto647 collected 132 from pot
+otto647: doesn't show hand 
+Valdis_ok!!! is disconnected 
+*** SUMMARY ***
+Total pot 132 | Rake 0 
+Seat 1: Stealzin folded before Flop (didn't bet)
+Seat 2: Biceps82 folded before Flop (didn't bet)
+Seat 3: felipepe17 folded before Flop (didn't bet)
+Seat 4: $0$a folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: stamos2699 (button) folded before Flop (didn't bet)
+Seat 7: Soouuzzaa (small blind) folded before Flop
+Seat 8: otto647 (big blind) collected (132)
+
+
+
+PokerStars Hand #255003792074: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:46:15 WET [2025/02/23 11:46:15 ET]
+Table '3860676551 224' 8-max Seat #7 is the button
+Seat 1: Valdis_ok!!! (5000 in chips, $5 bounty) 
+Seat 2: Biceps82 (5745 in chips, $5 bounty) 
+Seat 3: felipepe17 (3526 in chips, $5 bounty) 
+Seat 4: $0$a (4982 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (5213 in chips, $5 bounty) 
+Seat 6: stamos2699 (5305 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (10000 in chips, $7.50 bounty) 
+Seat 8: otto647 (4997 in chips, $5 bounty) 
+Valdis_ok!!!: posts the ante 11
+Biceps82: posts the ante 11
+felipepe17: posts the ante 11
+$0$a: posts the ante 11
+Kevin12345Mc: posts the ante 11
+stamos2699: posts the ante 11
+Soouuzzaa: posts the ante 11
+otto647: posts the ante 11
+otto647: posts small blind 35
+Valdis_ok!!!: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Kh]
+Biceps82: folds 
+felipepe17: folds 
+$0$a: raises 70 to 140
+Kevin12345Mc: folds 
+stamos2699: calls 140
+Soouuzzaa: folds 
+otto647: calls 105
+Valdis_ok!!!: calls 70
+*** FLOP *** [Jc 6c 4s]
+otto647: checks 
+Valdis_ok!!!: checks 
+$0$a: checks 
+stamos2699: bets 350
+otto647: calls 350
+Valdis_ok!!!: folds 
+$0$a: folds 
+*** TURN *** [Jc 6c 4s] [8h]
+otto647: checks 
+stamos2699: checks 
+*** RIVER *** [Jc 6c 4s 8h] [6d]
+otto647: checks 
+stamos2699: checks 
+*** SHOW DOWN ***
+otto647: shows [Js 9c] (two pair, Jacks and Sixes)
+stamos2699: mucks hand 
+otto647 collected 1348 from pot
+*** SUMMARY ***
+Total pot 1348 | Rake 0 
+Board [Jc 6c 4s 8h 6d]
+Seat 1: Valdis_ok!!! (big blind) folded on the Flop
+Seat 2: Biceps82 folded before Flop (didn't bet)
+Seat 3: felipepe17 folded before Flop (didn't bet)
+Seat 4: $0$a folded on the Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: stamos2699 mucked [Ac 3c]
+Seat 7: Soouuzzaa (button) folded before Flop (didn't bet)
+Seat 8: otto647 (small blind) showed [Js 9c] and won (1348) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #255003811337: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:47:26 WET [2025/02/23 11:47:26 ET]
+Table '3860676551 224' 8-max Seat #8 is the button
+Seat 1: Valdis_ok!!! (4849 in chips, $5 bounty) 
+Seat 2: Biceps82 (5734 in chips, $5 bounty) 
+Seat 3: felipepe17 (3515 in chips, $5 bounty) 
+Seat 4: $0$a (4831 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (5202 in chips, $5 bounty) 
+Seat 6: stamos2699 (4804 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (9989 in chips, $7.50 bounty) 
+Seat 8: otto647 (5844 in chips, $5 bounty) 
+Valdis_ok!!!: posts the ante 11
+Biceps82: posts the ante 11
+felipepe17: posts the ante 11
+$0$a: posts the ante 11
+Kevin12345Mc: posts the ante 11
+stamos2699: posts the ante 11
+Soouuzzaa: posts the ante 11
+otto647: posts the ante 11
+Valdis_ok!!!: posts small blind 35
+Biceps82: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 2c]
+felipepe17: folds 
+$0$a: raises 70 to 140
+Kevin12345Mc: folds 
+stamos2699: folds 
+Soouuzzaa: folds 
+otto647: folds 
+Valdis_ok!!!: folds 
+Biceps82: raises 420 to 560
+$0$a: calls 420
+*** FLOP *** [3c Qs 3h]
+Biceps82: bets 311
+$0$a: calls 311
+*** TURN *** [3c Qs 3h] [8h]
+Biceps82: bets 951
+$0$a: calls 951
+*** RIVER *** [3c Qs 3h 8h] [6s]
+Biceps82: checks 
+$0$a: bets 2940
+Biceps82: folds 
+Uncalled bet (2940) returned to $0$a
+$0$a collected 3767 from pot
+$0$a: doesn't show hand 
+*** SUMMARY ***
+Total pot 3767 | Rake 0 
+Board [3c Qs 3h 8h 6s]
+Seat 1: Valdis_ok!!! (small blind) folded before Flop
+Seat 2: Biceps82 (big blind) folded on the River
+Seat 3: felipepe17 folded before Flop (didn't bet)
+Seat 4: $0$a collected (3767)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: stamos2699 folded before Flop (didn't bet)
+Seat 7: Soouuzzaa folded before Flop (didn't bet)
+Seat 8: otto647 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003848965: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:49:43 WET [2025/02/23 11:49:43 ET]
+Table '3860676551 224' 8-max Seat #1 is the button
+Seat 1: Valdis_ok!!! (4803 in chips, $5 bounty) 
+Seat 2: Biceps82 (3901 in chips, $5 bounty) 
+Seat 3: felipepe17 (3504 in chips, $5 bounty) 
+Seat 4: $0$a (6765 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (5191 in chips, $5 bounty) 
+Seat 6: stamos2699 (4793 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (9978 in chips, $7.50 bounty) 
+Seat 8: otto647 (5833 in chips, $5 bounty) 
+Valdis_ok!!!: posts the ante 11
+Biceps82: posts the ante 11
+felipepe17: posts the ante 11
+$0$a: posts the ante 11
+Kevin12345Mc: posts the ante 11
+stamos2699: posts the ante 11
+Soouuzzaa: posts the ante 11
+otto647: posts the ante 11
+Biceps82: posts small blind 35
+felipepe17: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Qc]
+$0$a: folds 
+Kevin12345Mc: folds 
+stamos2699: folds 
+Soouuzzaa: raises 105 to 175
+otto647: raises 543 to 718
+Valdis_ok!!!: folds 
+Biceps82: folds 
+felipepe17: folds 
+Soouuzzaa: folds 
+Uncalled bet (543) returned to otto647
+otto647 collected 543 from pot
+otto647: doesn't show hand 
+*** SUMMARY ***
+Total pot 543 | Rake 0 
+Seat 1: Valdis_ok!!! (button) folded before Flop (didn't bet)
+Seat 2: Biceps82 (small blind) folded before Flop
+Seat 3: felipepe17 (big blind) folded before Flop
+Seat 4: $0$a folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: stamos2699 folded before Flop (didn't bet)
+Seat 7: Soouuzzaa folded before Flop
+Seat 8: otto647 collected (543)
+
+
+
+PokerStars Hand #255003861692: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:50:30 WET [2025/02/23 11:50:30 ET]
+Table '3860676551 224' 8-max Seat #2 is the button
+Seat 1: Valdis_ok!!! (4792 in chips, $5 bounty) 
+Seat 2: Biceps82 (3855 in chips, $5 bounty) 
+Seat 3: felipepe17 (3423 in chips, $5 bounty) 
+Seat 4: $0$a (6754 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (5180 in chips, $5 bounty) 
+Seat 6: stamos2699 (4782 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (9792 in chips, $7.50 bounty) 
+Seat 8: otto647 (6190 in chips, $5 bounty) 
+Valdis_ok!!!: posts the ante 11
+Biceps82: posts the ante 11
+felipepe17: posts the ante 11
+$0$a: posts the ante 11
+Kevin12345Mc: posts the ante 11
+stamos2699: posts the ante 11
+Soouuzzaa: posts the ante 11
+otto647: posts the ante 11
+felipepe17: posts small blind 35
+$0$a: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 6c]
+Kevin12345Mc: folds 
+stamos2699: folds 
+Soouuzzaa: folds 
+otto647: raises 70 to 140
+Valdis_ok!!!: folds 
+Biceps82: folds 
+felipepe17: raises 420 to 560
+$0$a: folds 
+otto647: folds 
+Uncalled bet (420) returned to felipepe17
+felipepe17 collected 438 from pot
+felipepe17: doesn't show hand 
+*** SUMMARY ***
+Total pot 438 | Rake 0 
+Seat 1: Valdis_ok!!! folded before Flop (didn't bet)
+Seat 2: Biceps82 (button) folded before Flop (didn't bet)
+Seat 3: felipepe17 (small blind) collected (438)
+Seat 4: $0$a (big blind) folded before Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: stamos2699 folded before Flop (didn't bet)
+Seat 7: Soouuzzaa folded before Flop (didn't bet)
+Seat 8: otto647 folded before Flop
+
+
+
+PokerStars Hand #255003870173: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:51:01 WET [2025/02/23 11:51:01 ET]
+Table '3860676551 224' 8-max Seat #3 is the button
+Seat 1: Valdis_ok!!! (4781 in chips, $5 bounty) 
+Seat 2: Biceps82 (3844 in chips, $5 bounty) 
+Seat 3: felipepe17 (3710 in chips, $5 bounty) 
+Seat 4: $0$a (6673 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (5169 in chips, $5 bounty) 
+Seat 6: stamos2699 (4771 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (9781 in chips, $7.50 bounty) 
+Seat 8: otto647 (6039 in chips, $5 bounty) 
+Valdis_ok!!!: posts the ante 11
+Biceps82: posts the ante 11
+felipepe17: posts the ante 11
+$0$a: posts the ante 11
+Kevin12345Mc: posts the ante 11
+stamos2699: posts the ante 11
+Soouuzzaa: posts the ante 11
+otto647: posts the ante 11
+$0$a: posts small blind 35
+Kevin12345Mc: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Tc]
+stamos2699: folds 
+Soouuzzaa: folds 
+otto647: raises 70 to 140
+Valdis_ok!!!: folds 
+Biceps82: folds 
+felipepe17: folds 
+$0$a: folds 
+Kevin12345Mc: calls 70
+*** FLOP *** [Ad 7c Td]
+Kevin12345Mc: checks 
+otto647: checks 
+*** TURN *** [Ad 7c Td] [4d]
+Kevin12345Mc: checks 
+otto647: checks 
+*** RIVER *** [Ad 7c Td 4d] [Qc]
+Kevin12345Mc: bets 202
+otto647: folds 
+Uncalled bet (202) returned to Kevin12345Mc
+Kevin12345Mc collected 403 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 403 | Rake 0 
+Board [Ad 7c Td 4d Qc]
+Seat 1: Valdis_ok!!! folded before Flop (didn't bet)
+Seat 2: Biceps82 folded before Flop (didn't bet)
+Seat 3: felipepe17 (button) folded before Flop (didn't bet)
+Seat 4: $0$a (small blind) folded before Flop
+Seat 5: Kevin12345Mc (big blind) collected (403)
+Seat 6: stamos2699 folded before Flop (didn't bet)
+Seat 7: Soouuzzaa folded before Flop (didn't bet)
+Seat 8: otto647 folded on the River
+
+
+
+PokerStars Hand #255003881448: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:51:42 WET [2025/02/23 11:51:42 ET]
+Table '3860676551 224' 8-max Seat #4 is the button
+Seat 1: Valdis_ok!!! (4770 in chips, $5 bounty) 
+Seat 2: Biceps82 (3833 in chips, $5 bounty) 
+Seat 3: felipepe17 (3699 in chips, $5 bounty) 
+Seat 4: $0$a (6627 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (5421 in chips, $5 bounty) 
+Seat 6: stamos2699 (4760 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (9770 in chips, $7.50 bounty) 
+Seat 8: otto647 (5888 in chips, $5 bounty) 
+Valdis_ok!!!: posts the ante 11
+Biceps82: posts the ante 11
+felipepe17: posts the ante 11
+$0$a: posts the ante 11
+Kevin12345Mc: posts the ante 11
+stamos2699: posts the ante 11
+Soouuzzaa: posts the ante 11
+otto647: posts the ante 11
+Kevin12345Mc: posts small blind 35
+stamos2699: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 5s]
+Soouuzzaa: folds 
+otto647: folds 
+Valdis_ok!!!: folds 
+Biceps82: folds 
+felipepe17: folds 
+$0$a: folds 
+Kevin12345Mc: calls 35
+stamos2699: checks 
+*** FLOP *** [Jd 5c As]
+Kevin12345Mc: checks 
+stamos2699: bets 70
+Kevin12345Mc: calls 70
+*** TURN *** [Jd 5c As] [6c]
+Kevin12345Mc: checks 
+stamos2699: bets 184
+Kevin12345Mc: folds 
+Uncalled bet (184) returned to stamos2699
+stamos2699 collected 368 from pot
+*** SUMMARY ***
+Total pot 368 | Rake 0 
+Board [Jd 5c As 6c]
+Seat 1: Valdis_ok!!! folded before Flop (didn't bet)
+Seat 2: Biceps82 folded before Flop (didn't bet)
+Seat 3: felipepe17 folded before Flop (didn't bet)
+Seat 4: $0$a (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) folded on the Turn
+Seat 6: stamos2699 (big blind) collected (368)
+Seat 7: Soouuzzaa folded before Flop (didn't bet)
+Seat 8: otto647 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003894794: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:52:31 WET [2025/02/23 11:52:31 ET]
+Table '3860676551 224' 8-max Seat #5 is the button
+Seat 1: Valdis_ok!!! (4759 in chips, $5 bounty) 
+Seat 2: Biceps82 (3822 in chips, $5 bounty) 
+Seat 3: felipepe17 (3688 in chips, $5 bounty) 
+Seat 4: $0$a (6616 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (5270 in chips, $5 bounty) 
+Seat 6: stamos2699 (4977 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (9759 in chips, $7.50 bounty) 
+Seat 8: otto647 (5877 in chips, $5 bounty) 
+Valdis_ok!!!: posts the ante 11
+Biceps82: posts the ante 11
+felipepe17: posts the ante 11
+$0$a: posts the ante 11
+Kevin12345Mc: posts the ante 11
+stamos2699: posts the ante 11
+Soouuzzaa: posts the ante 11
+otto647: posts the ante 11
+stamos2699: posts small blind 35
+Soouuzzaa: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 8s]
+otto647: folds 
+Valdis_ok!!!: folds 
+Biceps82: folds 
+felipepe17: folds 
+$0$a: raises 70 to 140
+Kevin12345Mc: folds 
+stamos2699: raises 140 to 280
+Soouuzzaa: folds 
+$0$a: calls 140
+*** FLOP *** [7h 5d 3d]
+stamos2699: bets 490
+$0$a: folds 
+Uncalled bet (490) returned to stamos2699
+stamos2699 collected 718 from pot
+*** SUMMARY ***
+Total pot 718 | Rake 0 
+Board [7h 5d 3d]
+Seat 1: Valdis_ok!!! folded before Flop (didn't bet)
+Seat 2: Biceps82 folded before Flop (didn't bet)
+Seat 3: felipepe17 folded before Flop (didn't bet)
+Seat 4: $0$a folded on the Flop
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: stamos2699 (small blind) collected (718)
+Seat 7: Soouuzzaa (big blind) folded before Flop
+Seat 8: otto647 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003905734: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:53:12 WET [2025/02/23 11:53:12 ET]
+Table '3860676551 224' 8-max Seat #6 is the button
+Seat 1: Valdis_ok!!! (4748 in chips, $5 bounty) 
+Seat 2: Biceps82 (3811 in chips, $5 bounty) 
+Seat 3: felipepe17 (3677 in chips, $5 bounty) 
+Seat 4: $0$a (6325 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (5259 in chips, $5 bounty) 
+Seat 6: stamos2699 (5404 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (9678 in chips, $7.50 bounty) 
+Seat 8: otto647 (5866 in chips, $5 bounty) 
+Valdis_ok!!!: posts the ante 11
+Biceps82: posts the ante 11
+felipepe17: posts the ante 11
+$0$a: posts the ante 11
+Kevin12345Mc: posts the ante 11
+stamos2699: posts the ante 11
+Soouuzzaa: posts the ante 11
+otto647: posts the ante 11
+Soouuzzaa: posts small blind 35
+otto647: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 5d]
+Valdis_ok!!!: folds 
+Biceps82: folds 
+felipepe17: folds 
+$0$a: folds 
+Kevin12345Mc: folds 
+stamos2699: raises 70 to 140
+Soouuzzaa: folds 
+otto647: folds 
+Uncalled bet (70) returned to stamos2699
+stamos2699 collected 263 from pot
+*** SUMMARY ***
+Total pot 263 | Rake 0 
+Seat 1: Valdis_ok!!! folded before Flop (didn't bet)
+Seat 2: Biceps82 folded before Flop (didn't bet)
+Seat 3: felipepe17 folded before Flop (didn't bet)
+Seat 4: $0$a folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: stamos2699 (button) collected (263)
+Seat 7: Soouuzzaa (small blind) folded before Flop
+Seat 8: otto647 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255003913531: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/23 16:53:40 WET [2025/02/23 11:53:40 ET]
+Table '3860676551 224' 8-max Seat #7 is the button
+Seat 1: Valdis_ok!!! (4737 in chips, $5 bounty) 
+Seat 2: Biceps82 (3800 in chips, $5 bounty) 
+Seat 3: felipepe17 (3666 in chips, $5 bounty) 
+Seat 4: $0$a (6314 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (5248 in chips, $5 bounty) 
+Seat 6: stamos2699 (5586 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (9632 in chips, $7.50 bounty) 
+Seat 8: otto647 (5785 in chips, $5 bounty) 
+Valdis_ok!!!: posts the ante 11
+Biceps82: posts the ante 11
+felipepe17: posts the ante 11
+$0$a: posts the ante 11
+Kevin12345Mc: posts the ante 11
+stamos2699: posts the ante 11
+Soouuzzaa: posts the ante 11
+otto647: posts the ante 11
+otto647: posts small blind 35
+Valdis_ok!!!: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Js]
+Biceps82: raises 82 to 152
+felipepe17: folds 
+$0$a: raises 6151 to 6303 and is all-in
+Kevin12345Mc: folds 
+stamos2699: folds 
+Soouuzzaa: folds 
+otto647: folds 
+Valdis_ok!!!: folds 
+Biceps82: folds 
+Uncalled bet (6151) returned to $0$a
+$0$a collected 497 from pot
+$0$a: doesn't show hand 
+*** SUMMARY ***
+Total pot 497 | Rake 0 
+Seat 1: Valdis_ok!!! (big blind) folded before Flop
+Seat 2: Biceps82 folded before Flop
+Seat 3: felipepe17 folded before Flop (didn't bet)
+Seat 4: $0$a collected (497)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: stamos2699 folded before Flop (didn't bet)
+Seat 7: Soouuzzaa (button) folded before Flop (didn't bet)
+Seat 8: otto647 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255003926757: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 16:54:29 WET [2025/02/23 11:54:29 ET]
+Table '3860676551 224' 8-max Seat #8 is the button
+Seat 1: Valdis_ok!!! (4656 in chips, $5 bounty) 
+Seat 2: Biceps82 (3637 in chips, $5 bounty) 
+Seat 3: felipepe17 (3655 in chips, $5 bounty) 
+Seat 4: $0$a (6648 in chips, $5 bounty) 
+Seat 5: Kevin12345Mc (5237 in chips, $5 bounty) 
+Seat 6: stamos2699 (5575 in chips, $5 bounty) 
+Seat 7: Soouuzzaa (9621 in chips, $7.50 bounty) 
+Seat 8: otto647 (5739 in chips, $5 bounty) 
+Valdis_ok!!!: posts the ante 12
+Biceps82: posts the ante 12
+felipepe17: posts the ante 12
+$0$a: posts the ante 12
+Kevin12345Mc: posts the ante 12
+stamos2699: posts the ante 12
+Soouuzzaa: posts the ante 12
+otto647: posts the ante 12
+Valdis_ok!!!: posts small blind 40
+Biceps82: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 9d]
+felipepe17: folds 
+$0$a: raises 120 to 200
+Kevin12345Mc: folds 
+stamos2699: folds 
+Soouuzzaa: calls 200
+otto647: folds 
+Valdis_ok!!!: folds 
+Biceps82: folds 
+*** FLOP *** [3d 3h 3s]
+$0$a: bets 173
+Soouuzzaa: calls 173
+*** TURN *** [3d 3h 3s] [4d]
+$0$a: checks 
+Soouuzzaa: bets 760
+$0$a: folds 
+Uncalled bet (760) returned to Soouuzzaa
+Soouuzzaa collected 962 from pot
+Soouuzzaa: doesn't show hand 
+*** SUMMARY ***
+Total pot 962 | Rake 0 
+Board [3d 3h 3s 4d]
+Seat 1: Valdis_ok!!! (small blind) folded before Flop
+Seat 2: Biceps82 (big blind) folded before Flop
+Seat 3: felipepe17 folded before Flop (didn't bet)
+Seat 4: $0$a folded on the Turn
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: stamos2699 folded before Flop (didn't bet)
+Seat 7: Soouuzzaa collected (962)
+Seat 8: otto647 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004017560: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:02:16 WET [2025/02/23 12:02:16 ET]
+Table '3860676551 290' 8-max Seat #1 is the button
+Seat 1: Ø 88 (9502 in chips, $5 bounty) 
+Seat 2: guccioguc695 (5000 in chips, $5 bounty) 
+Seat 3: lordsimeone (4035 in chips, $5 bounty) 
+Seat 4: Chizhik-d (4332 in chips, $5 bounty) 
+Seat 5: johnflux (4966 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5225 in chips, $5 bounty) 
+Seat 7: kostas974 (15536 in chips, $10 bounty) 
+Seat 8: duduzeras968 (5000 in chips, $5 bounty) 
+Ø 88: posts the ante 12
+guccioguc695: posts the ante 12
+lordsimeone: posts the ante 12
+Chizhik-d: posts the ante 12
+johnflux: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kostas974: posts the ante 12
+duduzeras968: posts the ante 12
+guccioguc695: posts small blind 40
+lordsimeone: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 2s]
+Chizhik-d: folds 
+johnflux: folds 
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+Ø 88: raises 88 to 168
+guccioguc695 has timed out while disconnected
+guccioguc695: folds 
+guccioguc695 is sitting out
+lordsimeone: calls 88
+*** FLOP *** [9s 7s Js]
+lordsimeone: checks 
+Ø 88: bets 94
+lordsimeone: calls 94
+*** TURN *** [9s 7s Js] [5c]
+lordsimeone: checks 
+Ø 88: bets 400
+lordsimeone: calls 400
+*** RIVER *** [9s 7s Js 5c] [9d]
+lordsimeone: checks 
+Ø 88: checks 
+*** SHOW DOWN ***
+lordsimeone: shows [8s Ad] (a pair of Nines)
+Ø 88: shows [Kc Ah] (a pair of Nines - Ace+King kicker)
+Ø 88 collected 1460 from pot
+*** SUMMARY ***
+Total pot 1460 | Rake 0 
+Board [9s 7s Js 5c 9d]
+Seat 1: Ø 88 (button) showed [Kc Ah] and won (1460) with a pair of Nines
+Seat 2: guccioguc695 (small blind) folded before Flop
+Seat 3: lordsimeone (big blind) showed [8s Ad] and lost with a pair of Nines
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: johnflux folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004041290: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:03:42 WET [2025/02/23 12:03:42 ET]
+Table '3860676551 290' 8-max Seat #2 is the button
+Seat 1: Ø 88 (10288 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4948 in chips, $5 bounty) is sitting out
+Seat 3: lordsimeone (3361 in chips, $5 bounty) 
+Seat 4: Chizhik-d (4320 in chips, $5 bounty) 
+Seat 5: johnflux (4954 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5213 in chips, $5 bounty) 
+Seat 7: kostas974 (15524 in chips, $10 bounty) 
+Seat 8: duduzeras968 (4988 in chips, $5 bounty) 
+Ø 88: posts the ante 12
+guccioguc695: posts the ante 12
+lordsimeone: posts the ante 12
+Chizhik-d: posts the ante 12
+johnflux: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kostas974: posts the ante 12
+duduzeras968: posts the ante 12
+lordsimeone: posts small blind 40
+Chizhik-d: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Kc]
+johnflux: folds 
+Kevin12345Mc: folds 
+kostas974: raises 80 to 160
+duduzeras968: folds 
+Ø 88: raises 400 to 560
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: folds 
+kostas974: raises 1120 to 1680
+Ø 88: raises 1920 to 3600
+kostas974: calls 1920
+*** FLOP *** [3h Jh Qc]
+kostas974: checks 
+Ø 88: bets 2447
+kostas974: raises 9465 to 11912 and is all-in
+Ø 88: calls 4229 and is all-in
+Uncalled bet (5236) returned to kostas974
+*** TURN *** [3h Jh Qc] [2d]
+*** RIVER *** [3h Jh Qc 2d] [4h]
+*** SHOW DOWN ***
+kostas974: shows [Qd Qs] (three of a kind, Queens)
+Ø 88: shows [Ks Kh] (a pair of Kings)
+kostas974 collected 20768 from pot
+kostas974 wins $2.50 for eliminating Ø 88 and their own bounty increases by $2.50 to $12.50
+Ø 88 finished the tournament
+*** SUMMARY ***
+Total pot 20768 | Rake 0 
+Board [3h Jh Qc 2d 4h]
+Seat 1: Ø 88 showed [Ks Kh] and lost with a pair of Kings
+Seat 2: guccioguc695 (button) folded before Flop (didn't bet)
+Seat 3: lordsimeone (small blind) folded before Flop
+Seat 4: Chizhik-d (big blind) folded before Flop
+Seat 5: johnflux folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 showed [Qd Qs] and won (20768) with three of a kind, Queens
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004069863: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:05:22 WET [2025/02/23 12:05:22 ET]
+Table '3860676551 290' 8-max Seat #3 is the button
+Seat 2: guccioguc695 (4936 in chips, $5 bounty) is sitting out
+Seat 3: lordsimeone (3309 in chips, $5 bounty) 
+Seat 4: Chizhik-d (4228 in chips, $5 bounty) 
+Seat 5: johnflux (4942 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5201 in chips, $5 bounty) 
+Seat 7: kostas974 (26004 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (4976 in chips, $5 bounty) 
+guccioguc695: posts the ante 12
+lordsimeone: posts the ante 12
+Chizhik-d: posts the ante 12
+johnflux: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kostas974: posts the ante 12
+duduzeras968: posts the ante 12
+Chizhik-d: posts small blind 40
+johnflux: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 8d]
+Kevin12345Mc: folds 
+Pxba is disconnected 
+kostas974: raises 80 to 160
+duduzeras968: folds 
+guccioguc695: folds 
+lordsimeone: calls 160
+Chizhik-d: folds 
+johnflux: folds 
+*** FLOP *** [Kd 9c 7s]
+kostas974: bets 400
+lordsimeone: raises 2737 to 3137 and is all-in
+kostas974: folds 
+Uncalled bet (2737) returned to lordsimeone
+lordsimeone collected 1324 from pot
+lordsimeone: doesn't show hand 
+*** SUMMARY ***
+Total pot 1324 | Rake 0 
+Board [Kd 9c 7s]
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone (button) collected (1324)
+Seat 4: Chizhik-d (small blind) folded before Flop
+Seat 5: johnflux (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded on the Flop
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004088419: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:06:28 WET [2025/02/23 12:06:28 ET]
+Table '3860676551 290' 8-max Seat #4 is the button
+Seat 1: Pxba (5000 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4924 in chips, $5 bounty) is sitting out
+Seat 3: lordsimeone (4061 in chips, $5 bounty) 
+Seat 4: Chizhik-d (4176 in chips, $5 bounty) 
+Seat 5: johnflux (4850 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5189 in chips, $5 bounty) 
+Seat 7: kostas974 (25432 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (4964 in chips, $5 bounty) 
+Pxba: posts the ante 12
+guccioguc695: posts the ante 12
+lordsimeone: posts the ante 12
+Chizhik-d: posts the ante 12
+johnflux: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kostas974: posts the ante 12
+duduzeras968: posts the ante 12
+johnflux: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 7s]
+kostas974: calls 80
+duduzeras968: folds 
+Pxba: raises 200 to 280
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: folds 
+johnflux: calls 240
+Kevin12345Mc: folds 
+kostas974: calls 200
+*** FLOP *** [3c Jc Kd]
+johnflux: checks 
+kostas974: checks 
+Pxba: checks 
+*** TURN *** [3c Jc Kd] [Ac]
+johnflux: bets 480
+kostas974: folds 
+Pxba: folds 
+Uncalled bet (480) returned to johnflux
+johnflux collected 1016 from pot
+johnflux: doesn't show hand 
+*** SUMMARY ***
+Total pot 1016 | Rake 0 
+Board [3c Jc Kd Ac]
+Seat 1: Pxba folded on the Turn
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d (button) folded before Flop (didn't bet)
+Seat 5: johnflux (small blind) collected (1016)
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: kostas974 folded on the Turn
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004107343: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/23 17:07:35 WET [2025/02/23 12:07:35 ET]
+Table '3860676551 290' 8-max Seat #5 is the button
+Seat 1: Pxba (4708 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4912 in chips, $5 bounty) is sitting out
+Seat 3: lordsimeone (4049 in chips, $5 bounty) 
+Seat 4: Chizhik-d (4164 in chips, $5 bounty) 
+Seat 5: johnflux (5574 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5097 in chips, $5 bounty) 
+Seat 7: kostas974 (25140 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (4952 in chips, $5 bounty) 
+Pxba: posts the ante 12
+guccioguc695: posts the ante 12
+lordsimeone: posts the ante 12
+Chizhik-d: posts the ante 12
+johnflux: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kostas974: posts the ante 12
+duduzeras968: posts the ante 12
+Kevin12345Mc: posts small blind 40
+kostas974: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 6c]
+duduzeras968: raises 160 to 240
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: folds 
+johnflux: folds 
+Kevin12345Mc: folds 
+kostas974: calls 160
+*** FLOP *** [Qc Td 6s]
+kostas974: checks 
+duduzeras968: bets 160
+kostas974: raises 480 to 640
+duduzeras968: calls 480
+*** TURN *** [Qc Td 6s] [4c]
+kostas974: bets 1040
+duduzeras968: calls 1040
+*** RIVER *** [Qc Td 6s 4c] [Jc]
+kostas974: bets 3176
+duduzeras968: folds 
+Uncalled bet (3176) returned to kostas974
+kostas974 collected 3976 from pot
+kostas974: doesn't show hand 
+*** SUMMARY ***
+Total pot 3976 | Rake 0 
+Board [Qc Td 6s 4c Jc]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: johnflux (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: kostas974 (big blind) collected (3976)
+Seat 8: duduzeras968 folded on the River
+
+
+
+PokerStars Hand #255004142797: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:09:40 WET [2025/02/23 12:09:40 ET]
+Table '3860676551 290' 8-max Seat #6 is the button
+Seat 1: Pxba (4696 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4900 in chips, $5 bounty) is sitting out
+Seat 3: lordsimeone (4037 in chips, $5 bounty) 
+Seat 4: Chizhik-d (4152 in chips, $5 bounty) 
+Seat 5: johnflux (5562 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5045 in chips, $5 bounty) 
+Seat 7: kostas974 (27184 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (3020 in chips, $5 bounty) 
+Pxba: posts the ante 14
+guccioguc695: posts the ante 14
+lordsimeone: posts the ante 14
+Chizhik-d: posts the ante 14
+johnflux: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kostas974: posts the ante 14
+duduzeras968: posts the ante 14
+kostas974: posts small blind 45
+duduzeras968: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 7c]
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: raises 135 to 225
+johnflux: calls 225
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+*** FLOP *** [Th Kd 3h]
+Chizhik-d: checks 
+johnflux: checks 
+*** TURN *** [Th Kd 3h] [7s]
+Chizhik-d: bets 300
+johnflux: calls 300
+*** RIVER *** [Th Kd 3h 7s] [Jd]
+Chizhik-d: bets 3613 and is all-in
+johnflux: calls 3613
+*** SHOW DOWN ***
+Chizhik-d: shows [Qd Ad] (a straight, Ten to Ace)
+johnflux: shows [Ts Js] (two pair, Jacks and Tens)
+Chizhik-d collected 8523 from pot
+*** SUMMARY ***
+Total pot 8523 | Rake 0 
+Board [Th Kd 3h 7s Jd]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d showed [Qd Ad] and won (8523) with a straight, Ten to Ace
+Seat 5: johnflux showed [Ts Js] and lost with two pair, Jacks and Tens
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: kostas974 (small blind) folded before Flop
+Seat 8: duduzeras968 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004155834: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:10:25 WET [2025/02/23 12:10:25 ET]
+Table '3860676551 290' 8-max Seat #7 is the button
+Seat 1: Pxba (4682 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4886 in chips, $5 bounty) is sitting out
+Seat 3: lordsimeone (4023 in chips, $5 bounty) 
+Seat 4: Chizhik-d (8523 in chips, $5 bounty) 
+Seat 5: johnflux (1410 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5031 in chips, $5 bounty) 
+Seat 7: kostas974 (27125 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (2916 in chips, $5 bounty) 
+Pxba: posts the ante 14
+guccioguc695: posts the ante 14
+lordsimeone: posts the ante 14
+Chizhik-d: posts the ante 14
+johnflux: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kostas974: posts the ante 14
+duduzeras968: posts the ante 14
+duduzeras968: posts small blind 45
+Pxba: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 4c]
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: folds 
+johnflux: folds 
+Kevin12345Mc: folds 
+kostas974: raises 90 to 180
+duduzeras968: folds 
+Pxba: raises 540 to 720
+kostas974: folds 
+Uncalled bet (540) returned to Pxba
+Pxba collected 517 from pot
+Pxba: doesn't show hand 
+*** SUMMARY ***
+Total pot 517 | Rake 0 
+Seat 1: Pxba (big blind) collected (517)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: johnflux folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 (button) folded before Flop
+Seat 8: duduzeras968 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255004165272: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:10:58 WET [2025/02/23 12:10:58 ET]
+Table '3860676551 290' 8-max Seat #8 is the button
+Seat 1: Pxba (5005 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4872 in chips, $5 bounty) is sitting out
+Seat 3: lordsimeone (4009 in chips, $5 bounty) 
+Seat 4: Chizhik-d (8509 in chips, $5 bounty) 
+Seat 5: johnflux (1396 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5017 in chips, $5 bounty) 
+Seat 7: kostas974 (26931 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (2857 in chips, $5 bounty) 
+Pxba: posts the ante 14
+guccioguc695: posts the ante 14
+lordsimeone: posts the ante 14
+Chizhik-d: posts the ante 14
+johnflux: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kostas974: posts the ante 14
+duduzeras968: posts the ante 14
+Pxba: posts small blind 45
+guccioguc695: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Ah]
+lordsimeone: folds 
+Chizhik-d: raises 180 to 270
+johnflux: folds 
+Kevin12345Mc: calls 270
+kostas974: folds 
+duduzeras968: folds 
+Pxba: calls 225
+guccioguc695: folds 
+*** FLOP *** [4c 8d 3c]
+Pxba: checks 
+Chizhik-d: bets 891
+Kevin12345Mc: folds 
+Pxba: folds 
+Uncalled bet (891) returned to Chizhik-d
+Chizhik-d collected 1012 from pot
+Chizhik-d: doesn't show hand 
+*** SUMMARY ***
+Total pot 1012 | Rake 0 
+Board [4c 8d 3c]
+Seat 1: Pxba (small blind) folded on the Flop
+Seat 2: guccioguc695 (big blind) folded before Flop
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d collected (1012)
+Seat 5: johnflux folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded on the Flop
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004178893: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:11:44 WET [2025/02/23 12:11:44 ET]
+Table '3860676551 290' 8-max Seat #1 is the button
+Seat 1: Pxba (4721 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4768 in chips, $5 bounty) is sitting out
+Seat 3: lordsimeone (3995 in chips, $5 bounty) 
+Seat 4: Chizhik-d (9237 in chips, $5 bounty) 
+Seat 5: johnflux (1382 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4733 in chips, $5 bounty) 
+Seat 7: kostas974 (26917 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (2843 in chips, $5 bounty) 
+Pxba: posts the ante 14
+guccioguc695: posts the ante 14
+lordsimeone: posts the ante 14
+Chizhik-d: posts the ante 14
+johnflux: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kostas974: posts the ante 14
+duduzeras968: posts the ante 14
+guccioguc695: posts small blind 45
+lordsimeone: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 5c]
+Chizhik-d: folds 
+johnflux: folds 
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: folds 
+Uncalled bet (45) returned to lordsimeone
+lordsimeone collected 202 from pot
+lordsimeone: doesn't show hand 
+*** SUMMARY ***
+Total pot 202 | Rake 0 
+Seat 1: Pxba (button) folded before Flop (didn't bet)
+Seat 2: guccioguc695 (small blind) folded before Flop
+Seat 3: lordsimeone (big blind) collected (202)
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: johnflux folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004183465: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:12:00 WET [2025/02/23 12:12:00 ET]
+Table '3860676551 290' 8-max Seat #2 is the button
+Seat 1: Pxba (4707 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4709 in chips, $5 bounty) is sitting out
+Seat 3: lordsimeone (4138 in chips, $5 bounty) 
+Seat 4: Chizhik-d (9223 in chips, $5 bounty) 
+Seat 5: johnflux (1368 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4719 in chips, $5 bounty) 
+Seat 7: kostas974 (26903 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (2829 in chips, $5 bounty) 
+Pxba: posts the ante 14
+guccioguc695: posts the ante 14
+lordsimeone: posts the ante 14
+Chizhik-d: posts the ante 14
+johnflux: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kostas974: posts the ante 14
+duduzeras968: posts the ante 14
+lordsimeone: posts small blind 45
+Chizhik-d: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 8s]
+johnflux: folds 
+guccioguc695 is disconnected 
+Kevin12345Mc: folds 
+guccioguc695 has returned
+kostas974: folds 
+duduzeras968: raises 90 to 180
+Pxba: folds 
+guccioguc695: calls 180
+lordsimeone: calls 135
+Chizhik-d: raises 9029 to 9209 and is all-in
+duduzeras968: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Uncalled bet (9029) returned to Chizhik-d
+Chizhik-d collected 832 from pot
+Chizhik-d: doesn't show hand 
+*** SUMMARY ***
+Total pot 832 | Rake 0 
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 (button) folded before Flop
+Seat 3: lordsimeone (small blind) folded before Flop
+Seat 4: Chizhik-d (big blind) collected (832)
+Seat 5: johnflux folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 folded before Flop
+
+
+
+PokerStars Hand #255004196919: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:12:46 WET [2025/02/23 12:12:46 ET]
+Table '3860676551 290' 8-max Seat #3 is the button
+Seat 1: Pxba (4693 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4515 in chips, $5 bounty) 
+Seat 3: lordsimeone (3944 in chips, $5 bounty) 
+Seat 4: Chizhik-d (9861 in chips, $5 bounty) 
+Seat 5: johnflux (1354 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4705 in chips, $5 bounty) 
+Seat 7: kostas974 (26889 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (2635 in chips, $5 bounty) 
+Pxba: posts the ante 14
+guccioguc695: posts the ante 14
+lordsimeone: posts the ante 14
+Chizhik-d: posts the ante 14
+johnflux: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kostas974: posts the ante 14
+duduzeras968: posts the ante 14
+Chizhik-d: posts small blind 45
+johnflux: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 5h]
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: raises 180 to 270
+lordsimeone: calls 270
+Chizhik-d: folds 
+johnflux: folds 
+*** FLOP *** [8d Ts 7s]
+guccioguc695: checks 
+lordsimeone: checks 
+*** TURN *** [8d Ts 7s] [7d]
+guccioguc695: checks 
+lordsimeone: checks 
+*** RIVER *** [8d Ts 7s 7d] [5d]
+guccioguc695: checks 
+lordsimeone: checks 
+*** SHOW DOWN ***
+guccioguc695: shows [Kc Jd] (a pair of Sevens)
+lordsimeone: shows [Kh Jh] (a pair of Sevens)
+guccioguc695 collected 394 from pot
+lordsimeone collected 393 from pot
+*** SUMMARY ***
+Total pot 787 | Rake 0 
+Board [8d Ts 7s 7d 5d]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 showed [Kc Jd] and won (394) with a pair of Sevens
+Seat 3: lordsimeone (button) showed [Kh Jh] and won (393) with a pair of Sevens
+Seat 4: Chizhik-d (small blind) folded before Flop
+Seat 5: johnflux (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004208857: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:13:27 WET [2025/02/23 12:13:27 ET]
+Table '3860676551 290' 8-max Seat #4 is the button
+Seat 1: Pxba (4679 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4625 in chips, $5 bounty) 
+Seat 3: lordsimeone (4053 in chips, $5 bounty) 
+Seat 4: Chizhik-d (9802 in chips, $5 bounty) 
+Seat 5: johnflux (1250 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4691 in chips, $5 bounty) 
+Seat 7: kostas974 (26875 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (2621 in chips, $5 bounty) 
+Pxba: posts the ante 14
+guccioguc695: posts the ante 14
+lordsimeone: posts the ante 14
+Chizhik-d: posts the ante 14
+johnflux: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kostas974: posts the ante 14
+duduzeras968: posts the ante 14
+johnflux: posts small blind 45
+Kevin12345Mc: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Jh]
+kostas974: raises 450 to 540
+duduzeras968: calls 540
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: folds 
+johnflux: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [9s 6d 5s]
+kostas974: bets 664
+duduzeras968: folds 
+Uncalled bet (664) returned to kostas974
+kostas974 collected 1327 from pot
+kostas974: doesn't show hand 
+*** SUMMARY ***
+Total pot 1327 | Rake 0 
+Board [9s 6d 5s]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d (button) folded before Flop (didn't bet)
+Seat 5: johnflux (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: kostas974 collected (1327)
+Seat 8: duduzeras968 folded on the Flop
+
+
+
+PokerStars Hand #255004227783: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:14:31 WET [2025/02/23 12:14:31 ET]
+Table '3860676551 290' 8-max Seat #5 is the button
+Seat 1: Pxba (4665 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4611 in chips, $5 bounty) 
+Seat 3: lordsimeone (4039 in chips, $5 bounty) 
+Seat 4: Chizhik-d (9788 in chips, $5 bounty) 
+Seat 5: johnflux (1191 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4587 in chips, $5 bounty) 
+Seat 7: kostas974 (27648 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (2067 in chips, $5 bounty) 
+Pxba: posts the ante 14
+guccioguc695: posts the ante 14
+lordsimeone: posts the ante 14
+Chizhik-d: posts the ante 14
+johnflux: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kostas974: posts the ante 14
+duduzeras968: posts the ante 14
+Kevin12345Mc: posts small blind 45
+kostas974: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 9h]
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: raises 180 to 270
+lordsimeone: raises 450 to 720
+Chizhik-d: folds 
+johnflux: folds 
+Kevin12345Mc: folds 
+kostas974: folds 
+guccioguc695: calls 450
+*** FLOP *** [Js Td 6h]
+guccioguc695: checks 
+lordsimeone: checks 
+*** TURN *** [Js Td 6h] [Th]
+guccioguc695: checks 
+lordsimeone: checks 
+*** RIVER *** [Js Td 6h Th] [Kh]
+guccioguc695: checks 
+lordsimeone: bets 844
+guccioguc695: folds 
+Uncalled bet (844) returned to lordsimeone
+lordsimeone collected 1687 from pot
+lordsimeone: doesn't show hand 
+*** SUMMARY ***
+Total pot 1687 | Rake 0 
+Board [Js Td 6h Th Kh]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded on the River
+Seat 3: lordsimeone collected (1687)
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: johnflux (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: kostas974 (big blind) folded before Flop
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004245600: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:15:30 WET [2025/02/23 12:15:30 ET]
+Table '3860676551 290' 8-max Seat #6 is the button
+Seat 1: Pxba (4651 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3877 in chips, $5 bounty) 
+Seat 3: lordsimeone (4992 in chips, $5 bounty) 
+Seat 4: Chizhik-d (9774 in chips, $5 bounty) 
+Seat 5: johnflux (1177 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4528 in chips, $5 bounty) 
+Seat 7: kostas974 (27544 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (2053 in chips, $5 bounty) 
+Pxba: posts the ante 14
+guccioguc695: posts the ante 14
+lordsimeone: posts the ante 14
+Chizhik-d: posts the ante 14
+johnflux: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kostas974: posts the ante 14
+duduzeras968: posts the ante 14
+kostas974: posts small blind 45
+duduzeras968: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 7d]
+Pxba: folds 
+guccioguc695: raises 180 to 270
+lordsimeone: folds 
+Chizhik-d: raises 495 to 765
+johnflux: folds 
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+guccioguc695: raises 1485 to 2250
+Chizhik-d: raises 7510 to 9760 and is all-in
+guccioguc695: calls 1613 and is all-in
+Uncalled bet (5897) returned to Chizhik-d
+*** FLOP *** [Td Jd Js]
+*** TURN *** [Td Jd Js] [8h]
+*** RIVER *** [Td Jd Js 8h] [Qc]
+*** SHOW DOWN ***
+guccioguc695: shows [Ks Kh] (two pair, Kings and Jacks)
+Chizhik-d: shows [Kc Kd] (two pair, Kings and Jacks)
+guccioguc695 collected 3987 from pot
+Chizhik-d collected 3986 from pot
+*** SUMMARY ***
+Total pot 7973 | Rake 0 
+Board [Td Jd Js 8h Qc]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 showed [Ks Kh] and won (3987) with two pair, Kings and Jacks
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d showed [Kc Kd] and won (3986) with two pair, Kings and Jacks
+Seat 5: johnflux folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: kostas974 (small blind) folded before Flop
+Seat 8: duduzeras968 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004258053: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/23 17:16:12 WET [2025/02/23 12:16:12 ET]
+Table '3860676551 290' 8-max Seat #7 is the button
+Seat 1: Pxba (4637 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3987 in chips, $5 bounty) 
+Seat 3: lordsimeone (4978 in chips, $5 bounty) 
+Seat 4: Chizhik-d (9883 in chips, $5 bounty) 
+Seat 5: johnflux (1163 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4514 in chips, $5 bounty) 
+Seat 7: kostas974 (27485 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (1949 in chips, $5 bounty) 
+Pxba: posts the ante 14
+guccioguc695: posts the ante 14
+lordsimeone: posts the ante 14
+Chizhik-d: posts the ante 14
+johnflux: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kostas974: posts the ante 14
+duduzeras968: posts the ante 14
+duduzeras968: posts small blind 45
+Pxba: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Ah]
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: raises 90 to 180
+johnflux: folds 
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+Pxba: calls 90
+*** FLOP *** [Kd Td 6c]
+Pxba: checks 
+Chizhik-d: bets 222
+Pxba: calls 222
+*** TURN *** [Kd Td 6c] [8s]
+Pxba: checks 
+Chizhik-d: bets 846
+Pxba: folds 
+Uncalled bet (846) returned to Chizhik-d
+Chizhik-d collected 961 from pot
+Chizhik-d: doesn't show hand 
+*** SUMMARY ***
+Total pot 961 | Rake 0 
+Board [Kd Td 6c 8s]
+Seat 1: Pxba (big blind) folded on the Turn
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d collected (961)
+Seat 5: johnflux folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 (button) folded before Flop (didn't bet)
+Seat 8: duduzeras968 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255004284457: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:17:40 WET [2025/02/23 12:17:40 ET]
+Table '3860676551 290' 8-max Seat #8 is the button
+Seat 1: Pxba (4221 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3973 in chips, $5 bounty) 
+Seat 3: lordsimeone (4964 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10428 in chips, $5 bounty) 
+Seat 5: johnflux (1149 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4500 in chips, $5 bounty) 
+Seat 7: kostas974 (27471 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (1890 in chips, $5 bounty) 
+Pxba: posts the ante 15
+guccioguc695: posts the ante 15
+lordsimeone: posts the ante 15
+Chizhik-d: posts the ante 15
+johnflux: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kostas974: posts the ante 15
+duduzeras968: posts the ante 15
+Pxba: posts small blind 50
+guccioguc695: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th Jh]
+lordsimeone: folds 
+Chizhik-d: raises 100 to 200
+johnflux: folds 
+Kevin12345Mc: calls 200
+kostas974: folds 
+duduzeras968: folds 
+Pxba: calls 150
+guccioguc695: folds 
+*** FLOP *** [3d Ks Td]
+Pxba: checks 
+Chizhik-d: checks 
+Kevin12345Mc: checks 
+*** TURN *** [3d Ks Td] [Kc]
+Pxba: checks 
+Chizhik-d: bets 200
+Kevin12345Mc: calls 200
+Pxba: calls 200
+*** RIVER *** [3d Ks Td Kc] [6c]
+Pxba: checks 
+Chizhik-d: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+Pxba: shows [Qs Js] (a pair of Kings)
+Chizhik-d: shows [6s As] (two pair, Kings and Sixes)
+Kevin12345Mc: shows [Th Jh] (two pair, Kings and Tens)
+Kevin12345Mc collected 1420 from pot
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Board [3d Ks Td Kc 6c]
+Seat 1: Pxba (small blind) showed [Qs Js] and lost with a pair of Kings
+Seat 2: guccioguc695 (big blind) folded before Flop
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d showed [6s As] and lost with two pair, Kings and Sixes
+Seat 5: johnflux folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc showed [Th Jh] and won (1420) with two pair, Kings and Tens
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004317097: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:19:30 WET [2025/02/23 12:19:30 ET]
+Table '3860676551 290' 8-max Seat #1 is the button
+Seat 1: Pxba (3806 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3858 in chips, $5 bounty) 
+Seat 3: lordsimeone (4949 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10013 in chips, $5 bounty) 
+Seat 5: johnflux (1134 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5505 in chips, $5 bounty) 
+Seat 7: kostas974 (27456 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (1875 in chips, $5 bounty) 
+Pxba: posts the ante 15
+guccioguc695: posts the ante 15
+lordsimeone: posts the ante 15
+Chizhik-d: posts the ante 15
+johnflux: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kostas974: posts the ante 15
+duduzeras968: posts the ante 15
+guccioguc695: posts small blind 50
+lordsimeone: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 4d]
+Chizhik-d: folds 
+johnflux: folds 
+Kevin12345Mc: folds 
+kostas974: raises 300 to 400
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Uncalled bet (300) returned to kostas974
+kostas974 collected 370 from pot
+kostas974: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: Pxba (button) folded before Flop (didn't bet)
+Seat 2: guccioguc695 (small blind) folded before Flop
+Seat 3: lordsimeone (big blind) folded before Flop
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: johnflux folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 collected (370)
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004325279: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:19:57 WET [2025/02/23 12:19:57 ET]
+Table '3860676551 290' 8-max Seat #2 is the button
+Seat 1: Pxba (3791 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3793 in chips, $5 bounty) 
+Seat 3: lordsimeone (4834 in chips, $5 bounty) 
+Seat 4: Chizhik-d (9998 in chips, $5 bounty) 
+Seat 5: johnflux (1119 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5490 in chips, $5 bounty) 
+Seat 7: kostas974 (27711 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (1860 in chips, $5 bounty) 
+Pxba: posts the ante 15
+guccioguc695: posts the ante 15
+lordsimeone: posts the ante 15
+Chizhik-d: posts the ante 15
+johnflux: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kostas974: posts the ante 15
+duduzeras968: posts the ante 15
+lordsimeone: posts small blind 50
+Chizhik-d: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 8d]
+johnflux: folds 
+Kevin12345Mc: folds 
+kostas974: calls 100
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: calls 100
+lordsimeone: folds 
+Chizhik-d: checks 
+*** FLOP *** [4h Ah 6d]
+Chizhik-d: checks 
+kostas974: checks 
+guccioguc695: bets 255
+Chizhik-d: folds 
+kostas974: folds 
+Uncalled bet (255) returned to guccioguc695
+guccioguc695 collected 470 from pot
+guccioguc695: doesn't show hand 
+*** SUMMARY ***
+Total pot 470 | Rake 0 
+Board [4h Ah 6d]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 (button) collected (470)
+Seat 3: lordsimeone (small blind) folded before Flop
+Seat 4: Chizhik-d (big blind) folded on the Flop
+Seat 5: johnflux folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded on the Flop
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004336158: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:20:34 WET [2025/02/23 12:20:34 ET]
+Table '3860676551 290' 8-max Seat #3 is the button
+Seat 1: Pxba (3776 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4148 in chips, $5 bounty) 
+Seat 3: lordsimeone (4769 in chips, $5 bounty) 
+Seat 4: Chizhik-d (9883 in chips, $5 bounty) 
+Seat 5: johnflux (1104 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5475 in chips, $5 bounty) 
+Seat 7: kostas974 (27596 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (1845 in chips, $5 bounty) 
+Pxba: posts the ante 15
+guccioguc695: posts the ante 15
+lordsimeone: posts the ante 15
+Chizhik-d: posts the ante 15
+johnflux: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kostas974: posts the ante 15
+duduzeras968: posts the ante 15
+Chizhik-d: posts small blind 50
+johnflux: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Kh]
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: raises 1050 to 1150
+johnflux: calls 989 and is all-in
+Uncalled bet (61) returned to Chizhik-d
+*** FLOP *** [Jd Tc Td]
+*** TURN *** [Jd Tc Td] [As]
+*** RIVER *** [Jd Tc Td As] [Qs]
+*** SHOW DOWN ***
+Chizhik-d: shows [8s 6d] (a pair of Tens)
+johnflux: shows [5c 4h] (a pair of Tens)
+Chizhik-d collected 1149 from pot
+johnflux collected 1149 from pot
+*** SUMMARY ***
+Total pot 2298 | Rake 0 
+Board [Jd Tc Td As Qs]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone (button) folded before Flop (didn't bet)
+Seat 4: Chizhik-d (small blind) showed [8s 6d] and won (1149) with a pair of Tens
+Seat 5: johnflux (big blind) showed [5c 4h] and won (1149) with a pair of Tens
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004345817: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:21:06 WET [2025/02/23 12:21:06 ET]
+Table '3860676551 290' 8-max Seat #4 is the button
+Seat 1: Pxba (3761 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4133 in chips, $5 bounty) 
+Seat 3: lordsimeone (4754 in chips, $5 bounty) 
+Seat 4: Chizhik-d (9928 in chips, $5 bounty) 
+Seat 5: johnflux (1149 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5460 in chips, $5 bounty) 
+Seat 7: kostas974 (27581 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (1830 in chips, $5 bounty) 
+Pxba: posts the ante 15
+guccioguc695: posts the ante 15
+lordsimeone: posts the ante 15
+Chizhik-d: posts the ante 15
+johnflux: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kostas974: posts the ante 15
+duduzeras968: posts the ante 15
+johnflux: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 2h]
+kostas974: calls 100
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: calls 100
+Chizhik-d: calls 100
+johnflux: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [Qd 4c Tc]
+Kevin12345Mc: checks 
+kostas974: checks 
+lordsimeone: checks 
+Chizhik-d: checks 
+*** TURN *** [Qd 4c Tc] [9h]
+Kevin12345Mc: checks 
+kostas974: checks 
+lordsimeone: checks 
+Chizhik-d: bets 200
+Kevin12345Mc: calls 200
+kostas974: folds 
+lordsimeone: calls 200
+*** RIVER *** [Qd 4c Tc 9h] [Kh]
+Kevin12345Mc: checks 
+lordsimeone: checks 
+Chizhik-d: bets 700
+Kevin12345Mc: folds 
+lordsimeone: folds 
+Uncalled bet (700) returned to Chizhik-d
+Chizhik-d collected 1170 from pot
+Chizhik-d: doesn't show hand 
+*** SUMMARY ***
+Total pot 1170 | Rake 0 
+Board [Qd 4c Tc 9h Kh]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded on the River
+Seat 4: Chizhik-d (button) collected (1170)
+Seat 5: johnflux (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded on the River
+Seat 7: kostas974 folded on the Turn
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004365273: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:22:11 WET [2025/02/23 12:22:11 ET]
+Table '3860676551 290' 8-max Seat #5 is the button
+Seat 1: Pxba (3746 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4118 in chips, $5 bounty) 
+Seat 3: lordsimeone (4439 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10783 in chips, $5 bounty) 
+Seat 5: johnflux (1084 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5145 in chips, $5 bounty) 
+Seat 7: kostas974 (27466 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (1815 in chips, $5 bounty) 
+Pxba: posts the ante 15
+guccioguc695: posts the ante 15
+lordsimeone: posts the ante 15
+Chizhik-d: posts the ante 15
+johnflux: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kostas974: posts the ante 15
+duduzeras968: posts the ante 15
+Kevin12345Mc: posts small blind 50
+kostas974: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Th]
+duduzeras968: raises 100 to 200
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: folds 
+johnflux: raises 869 to 1069 and is all-in
+Kevin12345Mc: folds 
+kostas974: raises 26382 to 27451 and is all-in
+duduzeras968: calls 1600 and is all-in
+Uncalled bet (25651) returned to kostas974
+*** FLOP *** [6c Kh 6h]
+*** TURN *** [6c Kh 6h] [6d]
+*** RIVER *** [6c Kh 6h 6d] [5d]
+*** SHOW DOWN ***
+kostas974: shows [8d Qc] (three of a kind, Sixes)
+duduzeras968: shows [Qd Qs] (a full house, Sixes full of Queens)
+duduzeras968 collected 1462 from side pot
+johnflux: shows [2s 2c] (a full house, Sixes full of Deuces)
+duduzeras968 collected 3377 from main pot
+duduzeras968 wins $2.50 for eliminating johnflux and their own bounty increases by $2.50 to $7.50
+johnflux finished the tournament
+*** SUMMARY ***
+Total pot 4839 Main pot 3377. Side pot 1462. | Rake 0 
+Board [6c Kh 6h 6d 5d]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: johnflux (button) showed [2s 2c] and lost with a full house, Sixes full of Deuces
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: kostas974 (big blind) showed [8d Qc] and lost with three of a kind, Sixes
+Seat 8: duduzeras968 showed [Qd Qs] and won (4839) with a full house, Sixes full of Queens
+
+
+
+PokerStars Hand #255004383562: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:23:12 WET [2025/02/23 12:23:12 ET]
+Table '3860676551 290' 8-max Seat #6 is the button
+Seat 1: Pxba (3731 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4103 in chips, $5 bounty) 
+Seat 3: lordsimeone (4424 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10768 in chips, $5 bounty) 
+Seat 5: YouAreaTowel (5000 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5080 in chips, $5 bounty) 
+Seat 7: kostas974 (25651 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (4839 in chips, $7.50 bounty) 
+Pxba: posts the ante 15
+guccioguc695: posts the ante 15
+lordsimeone: posts the ante 15
+Chizhik-d: posts the ante 15
+YouAreaTowel: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kostas974: posts the ante 15
+duduzeras968: posts the ante 15
+kostas974: posts small blind 50
+duduzeras968: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 6s]
+YouAreaTowel is disconnected 
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: raises 100 to 200
+YouAreaTowel: calls 200
+Kevin12345Mc: folds 
+kostas974: calls 150
+duduzeras968: folds 
+*** FLOP *** [Ks 2h Ah]
+kostas974: checks 
+Chizhik-d: checks 
+YouAreaTowel: checks 
+*** TURN *** [Ks 2h Ah] [7s]
+kostas974: checks 
+Chizhik-d: checks 
+YouAreaTowel: checks 
+*** RIVER *** [Ks 2h Ah 7s] [Kc]
+kostas974: checks 
+Chizhik-d: checks 
+YouAreaTowel: checks 
+*** SHOW DOWN ***
+kostas974: shows [Jh 9s] (a pair of Kings)
+Chizhik-d: shows [Ts Qd] (a pair of Kings - Ace+Queen kicker)
+YouAreaTowel: shows [Jc Qc] (a pair of Kings - Ace+Queen+Jack kicker)
+YouAreaTowel collected 820 from pot
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Ks 2h Ah 7s Kc]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d showed [Ts Qd] and lost with a pair of Kings
+Seat 5: YouAreaTowel showed [Jc Qc] and won (820) with a pair of Kings
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: kostas974 (small blind) showed [Jh 9s] and lost with a pair of Kings
+Seat 8: duduzeras968 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004407554: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/23 17:24:31 WET [2025/02/23 12:24:31 ET]
+Table '3860676551 290' 8-max Seat #7 is the button
+Seat 1: Pxba (3716 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4088 in chips, $5 bounty) 
+Seat 3: lordsimeone (4409 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10553 in chips, $5 bounty) 
+Seat 5: YouAreaTowel (5605 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5065 in chips, $5 bounty) 
+Seat 7: kostas974 (25436 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (4724 in chips, $7.50 bounty) 
+Pxba: posts the ante 15
+guccioguc695: posts the ante 15
+lordsimeone: posts the ante 15
+Chizhik-d: posts the ante 15
+YouAreaTowel: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kostas974: posts the ante 15
+duduzeras968: posts the ante 15
+duduzeras968: posts small blind 50
+Pxba: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Tc]
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: folds 
+YouAreaTowel: folds 
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: calls 50
+Pxba: raises 250 to 350
+duduzeras968: calls 250
+*** FLOP *** [Kd 8d 6h]
+duduzeras968: checks 
+Pxba: bets 350
+duduzeras968: folds 
+Uncalled bet (350) returned to Pxba
+Pxba collected 820 from pot
+Pxba: doesn't show hand 
+*** SUMMARY ***
+Total pot 820 | Rake 0 
+Board [Kd 8d 6h]
+Seat 1: Pxba (big blind) collected (820)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: YouAreaTowel folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 (button) folded before Flop (didn't bet)
+Seat 8: duduzeras968 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #255004425372: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:25:30 WET [2025/02/23 12:25:30 ET]
+Table '3860676551 290' 8-max Seat #8 is the button
+Seat 1: Pxba (4171 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4073 in chips, $5 bounty) 
+Seat 3: lordsimeone (4394 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10538 in chips, $5 bounty) 
+Seat 5: YouAreaTowel (5590 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5050 in chips, $5 bounty) 
+Seat 7: kostas974 (25421 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (4359 in chips, $7.50 bounty) 
+Pxba: posts the ante 18
+guccioguc695: posts the ante 18
+lordsimeone: posts the ante 18
+Chizhik-d: posts the ante 18
+YouAreaTowel: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kostas974: posts the ante 18
+duduzeras968: posts the ante 18
+Pxba: posts small blind 60
+guccioguc695: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 9d]
+lordsimeone: folds 
+Chizhik-d: raises 120 to 240
+YouAreaTowel: folds 
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: calls 120
+*** FLOP *** [Ks Kd Kc]
+guccioguc695: checks 
+Chizhik-d: checks 
+*** TURN *** [Ks Kd Kc] [Qh]
+guccioguc695: checks 
+Chizhik-d: bets 240
+guccioguc695: folds 
+Uncalled bet (240) returned to Chizhik-d
+Chizhik-d collected 684 from pot
+Chizhik-d: doesn't show hand 
+*** SUMMARY ***
+Total pot 684 | Rake 0 
+Board [Ks Kd Kc Qh]
+Seat 1: Pxba (small blind) folded before Flop
+Seat 2: guccioguc695 (big blind) folded on the Turn
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d collected (684)
+Seat 5: YouAreaTowel folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004445130: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:26:36 WET [2025/02/23 12:26:36 ET]
+Table '3860676551 290' 8-max Seat #1 is the button
+Seat 1: Pxba (4093 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3815 in chips, $5 bounty) 
+Seat 3: lordsimeone (4376 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10964 in chips, $5 bounty) 
+Seat 5: YouAreaTowel (5572 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5032 in chips, $5 bounty) 
+Seat 7: kostas974 (25403 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (4341 in chips, $7.50 bounty) 
+Pxba: posts the ante 18
+guccioguc695: posts the ante 18
+lordsimeone: posts the ante 18
+Chizhik-d: posts the ante 18
+YouAreaTowel: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kostas974: posts the ante 18
+duduzeras968: posts the ante 18
+guccioguc695: posts small blind 60
+lordsimeone: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Jh]
+Chizhik-d: raises 120 to 240
+YouAreaTowel: folds 
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+Pxba: raises 480 to 720
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: folds 
+Uncalled bet (480) returned to Pxba
+Pxba collected 804 from pot
+Pxba: doesn't show hand 
+*** SUMMARY ***
+Total pot 804 | Rake 0 
+Seat 1: Pxba (button) collected (804)
+Seat 2: guccioguc695 (small blind) folded before Flop
+Seat 3: lordsimeone (big blind) folded before Flop
+Seat 4: Chizhik-d folded before Flop
+Seat 5: YouAreaTowel folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004455651: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:27:11 WET [2025/02/23 12:27:11 ET]
+Table '3860676551 290' 8-max Seat #2 is the button
+Seat 1: Pxba (4639 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3737 in chips, $5 bounty) 
+Seat 3: lordsimeone (4238 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10706 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5014 in chips, $5 bounty) 
+Seat 7: kostas974 (25385 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (4323 in chips, $7.50 bounty) 
+Pxba: posts the ante 18
+guccioguc695: posts the ante 18
+lordsimeone: posts the ante 18
+Chizhik-d: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kostas974: posts the ante 18
+duduzeras968: posts the ante 18
+lordsimeone: posts small blind 60
+Chizhik-d: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 7s]
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: raises 120 to 240
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: calls 120
+*** FLOP *** [3d 9h Kd]
+Chizhik-d: checks 
+duduzeras968: bets 180
+Krank3nhaus is disconnected 
+Chizhik-d: calls 180
+*** TURN *** [3d 9h Kd] [Ks]
+Chizhik-d: checks 
+duduzeras968: bets 564
+Chizhik-d: calls 564
+*** RIVER *** [3d 9h Kd Ks] [Js]
+Chizhik-d: checks 
+duduzeras968: bets 1437
+Chizhik-d: folds 
+Uncalled bet (1437) returned to duduzeras968
+duduzeras968 collected 2154 from pot
+duduzeras968: doesn't show hand 
+*** SUMMARY ***
+Total pot 2154 | Rake 0 
+Board [3d 9h Kd Ks Js]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 (button) folded before Flop (didn't bet)
+Seat 3: lordsimeone (small blind) folded before Flop
+Seat 4: Chizhik-d (big blind) folded on the River
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 collected (2154)
+
+
+
+PokerStars Hand #255004484403: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:28:47 WET [2025/02/23 12:28:47 ET]
+Table '3860676551 290' 8-max Seat #3 is the button
+Seat 1: Pxba (4621 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3719 in chips, $5 bounty) 
+Seat 3: lordsimeone (4160 in chips, $5 bounty) 
+Seat 4: Chizhik-d (9704 in chips, $5 bounty) 
+Seat 5: Krank3nhaus (5000 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4996 in chips, $5 bounty) 
+Seat 7: kostas974 (25367 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (5475 in chips, $7.50 bounty) 
+Pxba: posts the ante 18
+guccioguc695: posts the ante 18
+lordsimeone: posts the ante 18
+Chizhik-d: posts the ante 18
+Krank3nhaus: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kostas974: posts the ante 18
+duduzeras968: posts the ante 18
+Chizhik-d: posts small blind 60
+Krank3nhaus: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Ks]
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: raises 180 to 300
+Krank3nhaus: calls 180
+*** FLOP *** [6c As Qd]
+Chizhik-d: checks 
+Krank3nhaus: checks 
+*** TURN *** [6c As Qd] [Jh]
+Chizhik-d: bets 320
+Krank3nhaus: folds 
+Uncalled bet (320) returned to Chizhik-d
+Chizhik-d collected 744 from pot
+Chizhik-d: doesn't show hand 
+*** SUMMARY ***
+Total pot 744 | Rake 0 
+Board [6c As Qd Jh]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone (button) folded before Flop (didn't bet)
+Seat 4: Chizhik-d (small blind) collected (744)
+Seat 5: Krank3nhaus (big blind) folded on the Turn
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004494538: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:29:21 WET [2025/02/23 12:29:21 ET]
+Table '3860676551 290' 8-max Seat #4 is the button
+Seat 1: Pxba (4603 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3701 in chips, $5 bounty) 
+Seat 3: lordsimeone (4142 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10130 in chips, $5 bounty) 
+Seat 5: Krank3nhaus (4682 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4978 in chips, $5 bounty) 
+Seat 7: kostas974 (25349 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (5457 in chips, $7.50 bounty) 
+Pxba: posts the ante 18
+guccioguc695: posts the ante 18
+lordsimeone: posts the ante 18
+Chizhik-d: posts the ante 18
+Krank3nhaus: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kostas974: posts the ante 18
+duduzeras968: posts the ante 18
+Krank3nhaus: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Qc]
+kostas974: raises 240 to 360
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: folds 
+Krank3nhaus: folds 
+Kevin12345Mc: folds 
+Uncalled bet (240) returned to kostas974
+kostas974 collected 444 from pot
+kostas974: doesn't show hand 
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d (button) folded before Flop (didn't bet)
+Seat 5: Krank3nhaus (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: kostas974 collected (444)
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004503754: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:29:50 WET [2025/02/23 12:29:50 ET]
+Table '3860676551 290' 8-max Seat #5 is the button
+Seat 1: Pxba (4585 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3683 in chips, $5 bounty) 
+Seat 3: lordsimeone (4124 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10112 in chips, $5 bounty) 
+Seat 5: Krank3nhaus (4604 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4840 in chips, $5 bounty) 
+Seat 7: kostas974 (25655 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (5439 in chips, $7.50 bounty) 
+Pxba: posts the ante 18
+guccioguc695: posts the ante 18
+lordsimeone: posts the ante 18
+Chizhik-d: posts the ante 18
+Krank3nhaus: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kostas974: posts the ante 18
+duduzeras968: posts the ante 18
+Kevin12345Mc: posts small blind 60
+kostas974: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 9d]
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: raises 132 to 252
+lordsimeone: folds 
+Chizhik-d: folds 
+Krank3nhaus: folds 
+Kevin12345Mc: folds 
+kostas974: calls 132
+*** FLOP *** [9s Ad 3c]
+kostas974: checks 
+guccioguc695: bets 142
+kostas974: folds 
+Uncalled bet (142) returned to guccioguc695
+guccioguc695 collected 708 from pot
+guccioguc695: doesn't show hand 
+*** SUMMARY ***
+Total pot 708 | Rake 0 
+Board [9s Ad 3c]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 collected (708)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: Krank3nhaus (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: kostas974 (big blind) folded on the Flop
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004513306: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:30:21 WET [2025/02/23 12:30:21 ET]
+Table '3860676551 290' 8-max Seat #6 is the button
+Seat 1: Pxba (4567 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4121 in chips, $5 bounty) 
+Seat 3: lordsimeone (4106 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10094 in chips, $5 bounty) 
+Seat 5: Krank3nhaus (4586 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (4762 in chips, $5 bounty) 
+Seat 7: kostas974 (25385 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (5421 in chips, $7.50 bounty) 
+Pxba: posts the ante 18
+guccioguc695: posts the ante 18
+lordsimeone: posts the ante 18
+Chizhik-d: posts the ante 18
+Krank3nhaus: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kostas974: posts the ante 18
+duduzeras968: posts the ante 18
+kostas974: posts small blind 60
+duduzeras968: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Kh]
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: folds 
+Krank3nhaus: raises 120 to 240
+Kevin12345Mc: calls 240
+kostas974: calls 180
+duduzeras968: folds 
+*** FLOP *** [2s Qd 4c]
+kostas974: checks 
+Krank3nhaus: checks 
+Kevin12345Mc: bets 492
+kostas974: folds 
+Krank3nhaus: folds 
+Uncalled bet (492) returned to Kevin12345Mc
+Kevin12345Mc collected 984 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 984 | Rake 0 
+Board [2s Qd 4c]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: Krank3nhaus folded on the Flop
+Seat 6: Kevin12345Mc (button) collected (984)
+Seat 7: kostas974 (small blind) folded on the Flop
+Seat 8: duduzeras968 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004530044: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:31:15 WET [2025/02/23 12:31:15 ET]
+Table '3860676551 290' 8-max Seat #7 is the button
+Seat 1: Pxba (4549 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4103 in chips, $5 bounty) 
+Seat 3: lordsimeone (4088 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10076 in chips, $5 bounty) 
+Seat 5: Krank3nhaus (4328 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5488 in chips, $5 bounty) 
+Seat 7: kostas974 (25127 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (5283 in chips, $7.50 bounty) 
+Pxba: posts the ante 18
+guccioguc695: posts the ante 18
+lordsimeone: posts the ante 18
+Chizhik-d: posts the ante 18
+Krank3nhaus: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kostas974: posts the ante 18
+duduzeras968: posts the ante 18
+duduzeras968: posts small blind 60
+Pxba: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 3h]
+guccioguc695: folds 
+lordsimeone: raises 120 to 240
+Chizhik-d: folds 
+Krank3nhaus: calls 240
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+Pxba: folds 
+*** FLOP *** [5s 7s Js]
+lordsimeone: checks 
+Krank3nhaus: checks 
+*** TURN *** [5s 7s Js] [3d]
+lordsimeone: checks 
+Krank3nhaus: checks 
+*** RIVER *** [5s 7s Js 3d] [Qc]
+lordsimeone: checks 
+Krank3nhaus: checks 
+*** SHOW DOWN ***
+lordsimeone: shows [8d Ad] (high card Ace)
+Krank3nhaus: mucks hand 
+lordsimeone collected 804 from pot
+*** SUMMARY ***
+Total pot 804 | Rake 0 
+Board [5s 7s Js 3d Qc]
+Seat 1: Pxba (big blind) folded before Flop
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone showed [8d Ad] and won (804) with high card Ace
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: Krank3nhaus mucked [8h 6h]
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 (button) folded before Flop (didn't bet)
+Seat 8: duduzeras968 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255004546100: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:32:07 WET [2025/02/23 12:32:07 ET]
+Table '3860676551 290' 8-max Seat #8 is the button
+Seat 1: Pxba (4411 in chips, $5 bounty) 
+Seat 2: guccioguc695 (4085 in chips, $5 bounty) 
+Seat 3: lordsimeone (4634 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10058 in chips, $5 bounty) 
+Seat 5: Krank3nhaus (4070 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5470 in chips, $5 bounty) 
+Seat 7: kostas974 (25109 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (5205 in chips, $7.50 bounty) 
+Pxba: posts the ante 18
+guccioguc695: posts the ante 18
+lordsimeone: posts the ante 18
+Chizhik-d: posts the ante 18
+Krank3nhaus: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kostas974: posts the ante 18
+duduzeras968: posts the ante 18
+Pxba: posts small blind 60
+guccioguc695: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 5c]
+lordsimeone: folds 
+Chizhik-d: raises 120 to 240
+Krank3nhaus: calls 240
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: calls 120
+*** FLOP *** [4c 4h Th]
+guccioguc695: checks 
+Chizhik-d: checks 
+Krank3nhaus: checks 
+*** TURN *** [4c 4h Th] [6d]
+guccioguc695: checks 
+Chizhik-d: bets 397
+Krank3nhaus: folds 
+guccioguc695: folds 
+Uncalled bet (397) returned to Chizhik-d
+Chizhik-d collected 924 from pot
+Chizhik-d: doesn't show hand 
+*** SUMMARY ***
+Total pot 924 | Rake 0 
+Board [4c 4h Th 6d]
+Seat 1: Pxba (small blind) folded before Flop
+Seat 2: guccioguc695 (big blind) folded on the Turn
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d collected (924)
+Seat 5: Krank3nhaus folded on the Turn
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004557001: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/23 17:32:42 WET [2025/02/23 12:32:42 ET]
+Table '3860676551 290' 8-max Seat #1 is the button
+Seat 1: Pxba (4333 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3827 in chips, $5 bounty) 
+Seat 3: lordsimeone (4616 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10724 in chips, $5 bounty) 
+Seat 5: Krank3nhaus (3812 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5452 in chips, $5 bounty) 
+Seat 7: kostas974 (25091 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (5187 in chips, $7.50 bounty) 
+Pxba: posts the ante 18
+guccioguc695: posts the ante 18
+lordsimeone: posts the ante 18
+Chizhik-d: posts the ante 18
+Krank3nhaus: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kostas974: posts the ante 18
+duduzeras968: posts the ante 18
+guccioguc695: posts small blind 60
+lordsimeone: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 2c]
+Chizhik-d: folds 
+Krank3nhaus: folds 
+Kevin12345Mc: folds 
+kostas974: folds 
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: calls 60
+lordsimeone: checks 
+*** FLOP *** [8d Qd 7h]
+guccioguc695: checks 
+lordsimeone: checks 
+*** TURN *** [8d Qd 7h] [3c]
+guccioguc695: checks 
+lordsimeone: checks 
+*** RIVER *** [8d Qd 7h 3c] [4d]
+guccioguc695: checks 
+lordsimeone: bets 384
+guccioguc695: folds 
+Uncalled bet (384) returned to lordsimeone
+lordsimeone collected 384 from pot
+lordsimeone: doesn't show hand 
+*** SUMMARY ***
+Total pot 384 | Rake 0 
+Board [8d Qd 7h 3c 4d]
+Seat 1: Pxba (button) folded before Flop (didn't bet)
+Seat 2: guccioguc695 (small blind) folded on the River
+Seat 3: lordsimeone (big blind) collected (384)
+Seat 4: Chizhik-d folded before Flop (didn't bet)
+Seat 5: Krank3nhaus folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004565792: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:33:10 WET [2025/02/23 12:33:10 ET]
+Table '3860676551 290' 8-max Seat #2 is the button
+Seat 1: Pxba (4315 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3689 in chips, $5 bounty) 
+Seat 3: lordsimeone (4862 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10706 in chips, $5 bounty) 
+Seat 5: Krank3nhaus (3794 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5434 in chips, $5 bounty) 
+Seat 7: kostas974 (25073 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (5169 in chips, $7.50 bounty) 
+Pxba: posts the ante 21
+guccioguc695: posts the ante 21
+lordsimeone: posts the ante 21
+Chizhik-d: posts the ante 21
+Krank3nhaus: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kostas974: posts the ante 21
+duduzeras968: posts the ante 21
+lordsimeone: posts small blind 70
+Chizhik-d: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 9d]
+Krank3nhaus: folds 
+Kevin12345Mc: folds 
+kostas974: raises 280 to 420
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: calls 350
+Chizhik-d: calls 280
+*** FLOP *** [3d 9c Td]
+lordsimeone: checks 
+Krank3nhaus is disconnected 
+Chizhik-d: checks 
+kostas974: bets 1120
+lordsimeone: folds 
+Chizhik-d: folds 
+Uncalled bet (1120) returned to kostas974
+kostas974 collected 1428 from pot
+kostas974: doesn't show hand 
+*** SUMMARY ***
+Total pot 1428 | Rake 0 
+Board [3d 9c Td]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 (button) folded before Flop (didn't bet)
+Seat 3: lordsimeone (small blind) folded on the Flop
+Seat 4: Chizhik-d (big blind) folded on the Flop
+Seat 5: Krank3nhaus folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 collected (1428)
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004586952: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:34:18 WET [2025/02/23 12:34:18 ET]
+Table '3860676551 290' 8-max Seat #3 is the button
+Seat 1: Pxba (4294 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3668 in chips, $5 bounty) 
+Seat 3: lordsimeone (4421 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10265 in chips, $5 bounty) 
+Seat 5: Krank3nhaus (3773 in chips, $5 bounty) 
+Seat 6: Kevin12345Mc (5413 in chips, $5 bounty) 
+Seat 7: kostas974 (26060 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (5148 in chips, $7.50 bounty) 
+Pxba: posts the ante 21
+guccioguc695: posts the ante 21
+lordsimeone: posts the ante 21
+Chizhik-d: posts the ante 21
+Krank3nhaus: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kostas974: posts the ante 21
+duduzeras968: posts the ante 21
+Chizhik-d: posts small blind 70
+Krank3nhaus: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 3s]
+Kevin12345Mc: folds 
+kostas974: raises 280 to 420
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: raises 700 to 1120
+Chizhik-d: folds 
+Krank3nhaus has timed out while disconnected
+Krank3nhaus: folds 
+Krank3nhaus is sitting out
+kostas974: calls 700
+*** FLOP *** [Tc 2c 9c]
+kostas974: checks 
+lordsimeone: bets 655
+kostas974: folds 
+Uncalled bet (655) returned to lordsimeone
+lordsimeone collected 2618 from pot
+lordsimeone: doesn't show hand 
+*** SUMMARY ***
+Total pot 2618 | Rake 0 
+Board [Tc 2c 9c]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone (button) collected (2618)
+Seat 4: Chizhik-d (small blind) folded before Flop
+Seat 5: Krank3nhaus (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: kostas974 folded on the Flop
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004607150: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:35:22 WET [2025/02/23 12:35:22 ET]
+Table '3860676551 290' 8-max Seat #4 is the button
+Seat 1: Pxba (4273 in chips, $5 bounty) 
+Seat 2: guccioguc695 (3647 in chips, $5 bounty) 
+Seat 3: lordsimeone (5898 in chips, $5 bounty) 
+Seat 4: Chizhik-d (10174 in chips, $5 bounty) 
+Seat 5: Krank3nhaus (3612 in chips, $5 bounty) is sitting out
+Seat 6: Kevin12345Mc (5392 in chips, $5 bounty) 
+Seat 7: kostas974 (24919 in chips, $12.50 bounty) 
+Seat 8: duduzeras968 (5127 in chips, $7.50 bounty) 
+Pxba: posts the ante 21
+guccioguc695: posts the ante 21
+lordsimeone: posts the ante 21
+Chizhik-d: posts the ante 21
+Krank3nhaus: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kostas974: posts the ante 21
+duduzeras968: posts the ante 21
+Krank3nhaus: posts small blind 70
+Kevin12345Mc: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 9s]
+kostas974: folds 
+duduzeras968: folds 
+Pxba: folds 
+guccioguc695: folds 
+lordsimeone: folds 
+Chizhik-d: raises 210 to 350
+Krank3nhaus: folds 
+Kevin12345Mc: calls 210
+*** FLOP *** [7h Ad Th]
+Kevin12345Mc: checks 
+Chizhik-d: bets 825
+Kevin12345Mc: calls 825
+*** TURN *** [7h Ad Th] [4d]
+Kevin12345Mc: checks 
+Chizhik-d: bets 2277
+Kevin12345Mc: calls 2277
+*** RIVER *** [7h Ad Th 4d] [Jc]
+Kevin12345Mc: checks 
+Chizhik-d: bets 3928
+Kevin12345Mc: calls 1919 and is all-in
+Uncalled bet (2009) returned to Chizhik-d
+*** SHOW DOWN ***
+Chizhik-d: shows [As Kd] (a pair of Aces)
+Kevin12345Mc: shows [Ah 9s] (a pair of Aces - lower kicker)
+Chizhik-d collected 10980 from pot
+Chizhik-d wins $2.50 for eliminating Kevin12345Mc and their own bounty increases by $2.50 to $7.50
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 10980 | Rake 0 
+Board [7h Ad Th 4d Jc]
+Seat 1: Pxba folded before Flop (didn't bet)
+Seat 2: guccioguc695 folded before Flop (didn't bet)
+Seat 3: lordsimeone folded before Flop (didn't bet)
+Seat 4: Chizhik-d (button) showed [As Kd] and won (10980) with a pair of Aces
+Seat 5: Krank3nhaus (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) showed [Ah 9s] and lost with a pair of Aces
+Seat 7: kostas974 folded before Flop (didn't bet)
+Seat 8: duduzeras968 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004658492: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:38:06 WET [2025/02/23 12:38:06 ET]
+Table '3860676551 301' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (5000 in chips, $5 bounty) 
+Seat 2: calilcha (30572 in chips, $22.50 bounty) 
+Seat 4: vel'koz lvl4 (15050 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15712 in chips, $5 bounty) 
+Seat 6: Daveygravy60 (4588 in chips, $5 bounty) 
+Seat 7: RaffaPK (8394 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (10555 in chips, $10 bounty) 
+Kevin12345Mc: posts the ante 21
+calilcha: posts the ante 21
+vel'koz lvl4: posts the ante 21
+ACÁCIO28: posts the ante 21
+Daveygravy60: posts the ante 21
+RaffaPK: posts the ante 21
+AmyJ21: posts the ante 21
+vel'koz lvl4: posts small blind 70
+ACÁCIO28: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Ac]
+Daveygravy60: folds 
+RaffaPK: folds 
+AmyJ21: folds 
+Kevin12345Mc: raises 168 to 308
+calilcha: folds 
+vel'koz lvl4: folds 
+ACÁCIO28: calls 168
+*** FLOP *** [7h 2s 6s]
+ACÁCIO28: checks 
+Kevin12345Mc: bets 275
+ACÁCIO28: folds 
+Uncalled bet (275) returned to Kevin12345Mc
+Kevin12345Mc collected 833 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 833 | Rake 0 
+Board [7h 2s 6s]
+Seat 1: Kevin12345Mc collected (833)
+Seat 2: calilcha (button) folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 (small blind) folded before Flop
+Seat 5: ACÁCIO28 (big blind) folded on the Flop
+Seat 6: Daveygravy60 folded before Flop (didn't bet)
+Seat 7: RaffaPK folded before Flop (didn't bet)
+Seat 8: AmyJ21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004676165: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:39:03 WET [2025/02/23 12:39:03 ET]
+Table '3860676551 301' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (5504 in chips, $5 bounty) 
+Seat 2: calilcha (30551 in chips, $22.50 bounty) 
+Seat 4: vel'koz lvl4 (14959 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15383 in chips, $5 bounty) 
+Seat 6: Daveygravy60 (4567 in chips, $5 bounty) 
+Seat 7: RaffaPK (8373 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (10534 in chips, $10 bounty) 
+Kevin12345Mc: posts the ante 21
+calilcha: posts the ante 21
+vel'koz lvl4: posts the ante 21
+ACÁCIO28: posts the ante 21
+Daveygravy60: posts the ante 21
+RaffaPK: posts the ante 21
+AmyJ21: posts the ante 21
+ACÁCIO28: posts small blind 70
+Daveygravy60: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 7s]
+RaffaPK: raises 140 to 280
+AmyJ21: calls 280
+Kevin12345Mc: calls 280
+calilcha: folds 
+vel'koz lvl4: calls 280
+ACÁCIO28: calls 210
+Daveygravy60: folds 
+*** FLOP *** [3c 3s 2s]
+ACÁCIO28: checks 
+RaffaPK: checks 
+AmyJ21: checks 
+cdimoiu is disconnected 
+Kevin12345Mc: bets 1113
+vel'koz lvl4: folds 
+cdimoiu is disconnected 
+ACÁCIO28: folds 
+RaffaPK: folds 
+AmyJ21: folds 
+Uncalled bet (1113) returned to Kevin12345Mc
+Kevin12345Mc collected 1687 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1687 | Rake 0 
+Board [3c 3s 2s]
+Seat 1: Kevin12345Mc collected (1687)
+Seat 2: calilcha folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 (button) folded on the Flop
+Seat 5: ACÁCIO28 (small blind) folded on the Flop
+Seat 6: Daveygravy60 (big blind) folded before Flop
+Seat 7: RaffaPK folded on the Flop
+Seat 8: AmyJ21 folded on the Flop
+
+
+
+PokerStars Hand #255004708400: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/23 17:40:47 WET [2025/02/23 12:40:47 ET]
+Table '3860676551 301' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (6890 in chips, $5 bounty) 
+Seat 2: calilcha (30530 in chips, $22.50 bounty) 
+Seat 3: cdimoiu (5000 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (14658 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15082 in chips, $5 bounty) 
+Seat 6: Daveygravy60 (4406 in chips, $5 bounty) 
+Seat 7: RaffaPK (8072 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (10233 in chips, $10 bounty) 
+Kevin12345Mc: posts the ante 21
+calilcha: posts the ante 21
+cdimoiu: posts the ante 21
+vel'koz lvl4: posts the ante 21
+ACÁCIO28: posts the ante 21
+Daveygravy60: posts the ante 21
+RaffaPK: posts the ante 21
+AmyJ21: posts the ante 21
+Daveygravy60: posts small blind 70
+RaffaPK: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Qc]
+AmyJ21: folds 
+Kevin12345Mc: folds 
+calilcha: calls 140
+cdimoiu: folds 
+vel'koz lvl4: raises 420 to 560
+ACÁCIO28: folds 
+Daveygravy60: folds 
+RaffaPK: calls 420
+calilcha: calls 420
+*** FLOP *** [4h Ah 6h]
+RaffaPK: checks 
+calilcha: bets 140
+vel'koz lvl4: calls 140
+RaffaPK: calls 140
+*** TURN *** [4h Ah 6h] [Qh]
+RaffaPK: checks 
+calilcha: checks 
+vel'koz lvl4: bets 772
+RaffaPK: calls 772
+calilcha: folds 
+*** RIVER *** [4h Ah 6h Qh] [4d]
+RaffaPK: checks 
+vel'koz lvl4: bets 1281
+RaffaPK: folds 
+Uncalled bet (1281) returned to vel'koz lvl4
+vel'koz lvl4 collected 3882 from pot
+vel'koz lvl4: doesn't show hand 
+*** SUMMARY ***
+Total pot 3882 | Rake 0 
+Board [4h Ah 6h Qh 4d]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha folded on the Turn
+Seat 3: cdimoiu folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 collected (3882)
+Seat 5: ACÁCIO28 (button) folded before Flop (didn't bet)
+Seat 6: Daveygravy60 (small blind) folded before Flop
+Seat 7: RaffaPK (big blind) folded on the River
+Seat 8: AmyJ21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004745423: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:42:45 WET [2025/02/23 12:42:45 ET]
+Table '3860676551 301' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (6869 in chips, $5 bounty) 
+Seat 2: calilcha (29809 in chips, $22.50 bounty) 
+Seat 3: cdimoiu (4979 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (17047 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15061 in chips, $5 bounty) 
+Seat 6: Daveygravy60 (4315 in chips, $5 bounty) 
+Seat 7: RaffaPK (6579 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (10212 in chips, $10 bounty) 
+Kevin12345Mc: posts the ante 24
+calilcha: posts the ante 24
+cdimoiu: posts the ante 24
+vel'koz lvl4: posts the ante 24
+ACÁCIO28: posts the ante 24
+Daveygravy60: posts the ante 24
+RaffaPK: posts the ante 24
+AmyJ21: posts the ante 24
+RaffaPK: posts small blind 80
+AmyJ21: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Jd]
+Kevin12345Mc: folds 
+calilcha: calls 160
+cdimoiu: raises 320 to 480
+vel'koz lvl4: folds 
+ACÁCIO28: calls 480
+Daveygravy60: folds 
+RaffaPK: folds 
+AmyJ21: folds 
+calilcha: calls 320
+*** FLOP *** [Td 9s As]
+calilcha: checks 
+cdimoiu: bets 936
+ACÁCIO28: folds 
+calilcha: folds 
+Uncalled bet (936) returned to cdimoiu
+cdimoiu collected 1872 from pot
+*** SUMMARY ***
+Total pot 1872 | Rake 0 
+Board [Td 9s As]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha folded on the Flop
+Seat 3: cdimoiu collected (1872)
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 folded on the Flop
+Seat 6: Daveygravy60 (button) folded before Flop (didn't bet)
+Seat 7: RaffaPK (small blind) folded before Flop
+Seat 8: AmyJ21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255004757505: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:43:25 WET [2025/02/23 12:43:25 ET]
+Table '3860676551 301' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (6845 in chips, $5 bounty) 
+Seat 2: calilcha (29305 in chips, $22.50 bounty) 
+Seat 3: cdimoiu (6347 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (17023 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (14557 in chips, $5 bounty) 
+Seat 6: Daveygravy60 (4291 in chips, $5 bounty) 
+Seat 7: RaffaPK (6475 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (10028 in chips, $10 bounty) 
+Kevin12345Mc: posts the ante 24
+calilcha: posts the ante 24
+cdimoiu: posts the ante 24
+vel'koz lvl4: posts the ante 24
+ACÁCIO28: posts the ante 24
+Daveygravy60: posts the ante 24
+RaffaPK: posts the ante 24
+AmyJ21: posts the ante 24
+AmyJ21: posts small blind 80
+Kevin12345Mc: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Qh]
+calilcha: folds 
+cdimoiu: raises 320 to 480
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Daveygravy60: folds 
+RaffaPK: folds 
+AmyJ21: folds 
+Kevin12345Mc: folds 
+Uncalled bet (320) returned to cdimoiu
+cdimoiu collected 592 from pot
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: Kevin12345Mc (big blind) folded before Flop
+Seat 2: calilcha folded before Flop (didn't bet)
+Seat 3: cdimoiu collected (592)
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Daveygravy60 folded before Flop (didn't bet)
+Seat 7: RaffaPK (button) folded before Flop (didn't bet)
+Seat 8: AmyJ21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255004770131: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:44:06 WET [2025/02/23 12:44:06 ET]
+Table '3860676551 301' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (6661 in chips, $5 bounty) 
+Seat 2: calilcha (29281 in chips, $22.50 bounty) 
+Seat 3: cdimoiu (6755 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (16999 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (14533 in chips, $5 bounty) 
+Seat 6: Daveygravy60 (4267 in chips, $5 bounty) 
+Seat 7: RaffaPK (6451 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (9924 in chips, $10 bounty) 
+Kevin12345Mc: posts the ante 24
+calilcha: posts the ante 24
+cdimoiu: posts the ante 24
+vel'koz lvl4: posts the ante 24
+ACÁCIO28: posts the ante 24
+Daveygravy60: posts the ante 24
+RaffaPK: posts the ante 24
+AmyJ21: posts the ante 24
+Kevin12345Mc: posts small blind 80
+calilcha: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 6c]
+cdimoiu: folds 
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Daveygravy60: folds 
+RaffaPK: folds 
+AmyJ21: raises 160 to 320
+Kevin12345Mc: folds 
+calilcha: calls 160
+*** FLOP *** [Js 2c 2d]
+calilcha: checks 
+AmyJ21: checks 
+*** TURN *** [Js 2c 2d] [8h]
+calilcha: checks 
+AmyJ21: checks 
+*** RIVER *** [Js 2c 2d 8h] [9h]
+calilcha: bets 160
+AmyJ21: calls 160
+*** SHOW DOWN ***
+calilcha: shows [9c Qd] (two pair, Nines and Deuces)
+AmyJ21: mucks hand 
+calilcha collected 1232 from pot
+*** SUMMARY ***
+Total pot 1232 | Rake 0 
+Board [Js 2c 2d 8h 9h]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: calilcha (big blind) showed [9c Qd] and won (1232) with two pair, Nines and Deuces
+Seat 3: cdimoiu folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Daveygravy60 folded before Flop (didn't bet)
+Seat 7: RaffaPK folded before Flop (didn't bet)
+Seat 8: AmyJ21 (button) mucked [6h As]
+
+
+
+PokerStars Hand #255004780428: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:44:39 WET [2025/02/23 12:44:39 ET]
+Table '3860676551 301' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (6557 in chips, $5 bounty) 
+Seat 2: calilcha (30009 in chips, $22.50 bounty) 
+Seat 3: cdimoiu (6731 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (16975 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (14509 in chips, $5 bounty) 
+Seat 6: Daveygravy60 (4243 in chips, $5 bounty) 
+Seat 7: RaffaPK (6427 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (9420 in chips, $10 bounty) 
+Kevin12345Mc: posts the ante 24
+calilcha: posts the ante 24
+cdimoiu: posts the ante 24
+vel'koz lvl4: posts the ante 24
+ACÁCIO28: posts the ante 24
+Daveygravy60: posts the ante 24
+RaffaPK: posts the ante 24
+AmyJ21: posts the ante 24
+calilcha: posts small blind 80
+cdimoiu: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Jc]
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Daveygravy60: raises 320 to 480
+RaffaPK: folds 
+AmyJ21: folds 
+Kevin12345Mc: folds 
+calilcha: folds 
+cdimoiu: folds 
+Uncalled bet (320) returned to Daveygravy60
+Daveygravy60 collected 592 from pot
+Daveygravy60: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: calilcha (small blind) folded before Flop
+Seat 3: cdimoiu (big blind) folded before Flop
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Daveygravy60 collected (592)
+Seat 7: RaffaPK folded before Flop (didn't bet)
+Seat 8: AmyJ21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004790947: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:45:12 WET [2025/02/23 12:45:12 ET]
+Table '3860676551 301' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (6533 in chips, $5 bounty) 
+Seat 2: calilcha (29905 in chips, $22.50 bounty) 
+Seat 3: cdimoiu (6547 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (16951 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (14485 in chips, $5 bounty) 
+Seat 6: Daveygravy60 (4651 in chips, $5 bounty) 
+Seat 7: RaffaPK (6403 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (9396 in chips, $10 bounty) 
+Kevin12345Mc: posts the ante 24
+calilcha: posts the ante 24
+cdimoiu: posts the ante 24
+vel'koz lvl4: posts the ante 24
+ACÁCIO28: posts the ante 24
+Daveygravy60: posts the ante 24
+RaffaPK: posts the ante 24
+AmyJ21: posts the ante 24
+cdimoiu: posts small blind 80
+vel'koz lvl4: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Qd]
+ACÁCIO28: folds 
+Daveygravy60: raises 160 to 320
+RaffaPK: folds 
+AmyJ21: raises 480 to 800
+Kevin12345Mc: folds 
+calilcha: folds 
+cdimoiu: raises 5723 to 6523 and is all-in
+vel'koz lvl4: folds 
+Daveygravy60: calls 4307 and is all-in
+AmyJ21: calls 5723
+*** FLOP *** [Js Ah 8c]
+*** TURN *** [Js Ah 8c] [7d]
+*** RIVER *** [Js Ah 8c 7d] [3h]
+*** SHOW DOWN ***
+cdimoiu: shows [2h 2c] (a pair of Deuces)
+AmyJ21: shows [Ac As] (three of a kind, Aces)
+AmyJ21 collected 3792 from side pot
+Daveygravy60: shows [Kc Ks] (a pair of Kings)
+AmyJ21 collected 14233 from main pot
+AmyJ21 wins $2.50 for eliminating cdimoiu and their own bounty increases by $2.50 to $12.50
+AmyJ21 wins $2.50 for eliminating Daveygravy60 and their own bounty increases by $2.50 to $15
+cdimoiu finished the tournament
+Daveygravy60 finished the tournament
+Guzsma6almas is disconnected 
+*** SUMMARY ***
+Total pot 18025 Main pot 14233. Side pot 3792. | Rake 0 
+Board [Js Ah 8c 7d 3h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha (button) folded before Flop (didn't bet)
+Seat 3: cdimoiu (small blind) showed [2h 2c] and lost with a pair of Deuces
+Seat 4: vel'koz lvl4 (big blind) folded before Flop
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Daveygravy60 showed [Kc Ks] and lost with a pair of Kings
+Seat 7: RaffaPK folded before Flop (didn't bet)
+Seat 8: AmyJ21 showed [Ac As] and won (18025) with three of a kind, Aces
+
+
+
+PokerStars Hand #255004804602: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:45:55 WET [2025/02/23 12:45:55 ET]
+Table '3860676551 301' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (6509 in chips, $5 bounty) 
+Seat 2: calilcha (29881 in chips, $22.50 bounty) 
+Seat 4: vel'koz lvl4 (16767 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (14461 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (6679 in chips, $5 bounty) 
+Seat 7: RaffaPK (6379 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (20874 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 24
+calilcha: posts the ante 24
+vel'koz lvl4: posts the ante 24
+ACÁCIO28: posts the ante 24
+Guzsma6almas: posts the ante 24
+RaffaPK: posts the ante 24
+AmyJ21: posts the ante 24
+ACÁCIO28: posts small blind 80
+Guzsma6almas: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 9d]
+RaffaPK: raises 160 to 320
+AmyJ21: calls 320
+Kevin12345Mc: folds 
+calilcha: folds 
+vel'koz lvl4: folds 
+ACÁCIO28 has timed out
+ACÁCIO28: folds 
+ACÁCIO28 is sitting out
+Guzsma6almas: folds 
+*** FLOP *** [5h 6d 2c]
+momie95 is disconnected 
+RaffaPK: checks 
+AmyJ21: checks 
+*** TURN *** [5h 6d 2c] [8h]
+RaffaPK: checks 
+AmyJ21: bets 524
+RaffaPK: calls 524
+*** RIVER *** [5h 6d 2c 8h] [Th]
+RaffaPK: checks 
+AmyJ21: checks 
+*** SHOW DOWN ***
+RaffaPK: shows [Ah Jh] (a flush, Ace high)
+AmyJ21: mucks hand 
+RaffaPK collected 2096 from pot
+*** SUMMARY ***
+Total pot 2096 | Rake 0 
+Board [5h 6d 2c 8h Th]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 (button) folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 (small blind) folded before Flop
+Seat 6: Guzsma6almas (big blind) folded before Flop
+Seat 7: RaffaPK showed [Ah Jh] and won (2096) with a flush, Ace high
+Seat 8: AmyJ21 mucked [9h As]
+
+
+
+PokerStars Hand #255004829552: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:47:14 WET [2025/02/23 12:47:14 ET]
+Table '3860676551 301' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (6485 in chips, $5 bounty) 
+Seat 2: calilcha (29857 in chips, $22.50 bounty) 
+Seat 3: momie95 (5000 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (16743 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (14357 in chips, $5 bounty) is sitting out
+Seat 6: Guzsma6almas (6495 in chips, $5 bounty) 
+Seat 7: RaffaPK (7607 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (20006 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 24
+calilcha: posts the ante 24
+momie95: posts the ante 24
+vel'koz lvl4: posts the ante 24
+ACÁCIO28: posts the ante 24
+Guzsma6almas: posts the ante 24
+RaffaPK: posts the ante 24
+AmyJ21: posts the ante 24
+Guzsma6almas: posts small blind 80
+RaffaPK: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 6c]
+AmyJ21: raises 160 to 320
+Kevin12345Mc: folds 
+calilcha: folds 
+momie95: folds 
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Guzsma6almas: folds 
+RaffaPK: folds 
+Uncalled bet (160) returned to AmyJ21
+AmyJ21 collected 592 from pot
+AmyJ21: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha folded before Flop (didn't bet)
+Seat 3: momie95 folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 (button) folded before Flop (didn't bet)
+Seat 6: Guzsma6almas (small blind) folded before Flop
+Seat 7: RaffaPK (big blind) folded before Flop
+Seat 8: AmyJ21 collected (592)
+
+
+
+PokerStars Hand #255004835255: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/23 17:47:32 WET [2025/02/23 12:47:32 ET]
+Table '3860676551 301' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (6461 in chips, $5 bounty) 
+Seat 2: calilcha (29833 in chips, $22.50 bounty) 
+Seat 3: momie95 (4976 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (16719 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (14333 in chips, $5 bounty) is sitting out
+Seat 6: Guzsma6almas (6391 in chips, $5 bounty) 
+Seat 7: RaffaPK (7423 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (20414 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 24
+calilcha: posts the ante 24
+momie95: posts the ante 24
+vel'koz lvl4: posts the ante 24
+ACÁCIO28: posts the ante 24
+Guzsma6almas: posts the ante 24
+RaffaPK: posts the ante 24
+AmyJ21: posts the ante 24
+RaffaPK: posts small blind 80
+AmyJ21: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 6h]
+Kevin12345Mc: folds 
+ACÁCIO28 has returned
+calilcha: calls 160
+momie95: folds 
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Guzsma6almas: folds 
+RaffaPK: calls 80
+AmyJ21: checks 
+*** FLOP *** [2d 7c 6c]
+RaffaPK: checks 
+AmyJ21: checks 
+calilcha: checks 
+*** TURN *** [2d 7c 6c] [7h]
+RaffaPK: checks 
+AmyJ21: bets 336
+calilcha: calls 336
+RaffaPK: folds 
+*** RIVER *** [2d 7c 6c 7h] [2s]
+AmyJ21: bets 512
+calilcha: folds 
+Uncalled bet (512) returned to AmyJ21
+AmyJ21 collected 1344 from pot
+AmyJ21: doesn't show hand 
+*** SUMMARY ***
+Total pot 1344 | Rake 0 
+Board [2d 7c 6c 7h 2s]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha folded on the River
+Seat 3: momie95 folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Guzsma6almas (button) folded before Flop (didn't bet)
+Seat 7: RaffaPK (small blind) folded on the Turn
+Seat 8: AmyJ21 (big blind) collected (1344)
+
+
+
+PokerStars Hand #255004867655: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:49:15 WET [2025/02/23 12:49:15 ET]
+Table '3860676551 301' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (6437 in chips, $5 bounty) 
+Seat 2: calilcha (29313 in chips, $22.50 bounty) 
+Seat 3: momie95 (4952 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (16695 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (14309 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (6367 in chips, $5 bounty) 
+Seat 7: RaffaPK (7239 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (21238 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 27
+calilcha: posts the ante 27
+momie95: posts the ante 27
+vel'koz lvl4: posts the ante 27
+ACÁCIO28: posts the ante 27
+Guzsma6almas: posts the ante 27
+RaffaPK: posts the ante 27
+AmyJ21: posts the ante 27
+AmyJ21: posts small blind 90
+Kevin12345Mc: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Ac]
+calilcha: folds 
+momie95: folds 
+vel'koz lvl4: folds 
+ACÁCIO28: raises 180 to 360
+Guzsma6almas: folds 
+RaffaPK: folds 
+AmyJ21: folds 
+Kevin12345Mc: calls 180
+*** FLOP *** [7h 9d 8c]
+Kevin12345Mc: checks 
+ACÁCIO28: bets 698
+Kevin12345Mc: calls 698
+*** TURN *** [7h 9d 8c] [3s]
+Kevin12345Mc: checks 
+ACÁCIO28: bets 1647
+Kevin12345Mc: folds 
+Uncalled bet (1647) returned to ACÁCIO28
+ACÁCIO28 collected 2422 from pot
+*** SUMMARY ***
+Total pot 2422 | Rake 0 
+Board [7h 9d 8c 3s]
+Seat 1: Kevin12345Mc (big blind) folded on the Turn
+Seat 2: calilcha folded before Flop (didn't bet)
+Seat 3: momie95 folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 collected (2422)
+Seat 6: Guzsma6almas folded before Flop (didn't bet)
+Seat 7: RaffaPK (button) folded before Flop (didn't bet)
+Seat 8: AmyJ21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255004880307: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:49:55 WET [2025/02/23 12:49:55 ET]
+Table '3860676551 301' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (5352 in chips, $5 bounty) 
+Seat 2: calilcha (29286 in chips, $22.50 bounty) 
+Seat 3: momie95 (4925 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (16668 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15646 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (6340 in chips, $5 bounty) 
+Seat 7: RaffaPK (7212 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (21121 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 27
+calilcha: posts the ante 27
+momie95: posts the ante 27
+vel'koz lvl4: posts the ante 27
+ACÁCIO28: posts the ante 27
+Guzsma6almas: posts the ante 27
+RaffaPK: posts the ante 27
+AmyJ21: posts the ante 27
+Kevin12345Mc: posts small blind 90
+calilcha: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 4d]
+momie95: folds 
+vel'koz lvl4: raises 180 to 360
+ACÁCIO28: folds 
+Guzsma6almas: folds 
+RaffaPK: folds 
+AmyJ21: folds 
+Kevin12345Mc: folds 
+calilcha: calls 180
+*** FLOP *** [9h 7d 6h]
+calilcha: checks 
+vel'koz lvl4: checks 
+*** TURN *** [9h 7d 6h] [Ah]
+calilcha: bets 180
+vel'koz lvl4: folds 
+Uncalled bet (180) returned to calilcha
+calilcha collected 1026 from pot
+*** SUMMARY ***
+Total pot 1026 | Rake 0 
+Board [9h 7d 6h Ah]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: calilcha (big blind) collected (1026)
+Seat 3: momie95 folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 folded on the Turn
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Guzsma6almas folded before Flop (didn't bet)
+Seat 7: RaffaPK folded before Flop (didn't bet)
+Seat 8: AmyJ21 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004899860: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:50:58 WET [2025/02/23 12:50:58 ET]
+Table '3860676551 301' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (5235 in chips, $5 bounty) 
+Seat 2: calilcha (29925 in chips, $22.50 bounty) 
+Seat 3: momie95 (4898 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (16281 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15619 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (6313 in chips, $5 bounty) 
+Seat 7: RaffaPK (7185 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (21094 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 27
+calilcha: posts the ante 27
+momie95: posts the ante 27
+vel'koz lvl4: posts the ante 27
+ACÁCIO28: posts the ante 27
+Guzsma6almas: posts the ante 27
+RaffaPK: posts the ante 27
+AmyJ21: posts the ante 27
+calilcha: posts small blind 90
+momie95: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh Js]
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Guzsma6almas: folds 
+RaffaPK: raises 180 to 360
+AmyJ21: folds 
+Kevin12345Mc: raises 720 to 1080
+calilcha: folds 
+momie95: folds 
+RaffaPK: calls 720
+*** FLOP *** [5c Ks Qd]
+RaffaPK: checks 
+Kevin12345Mc: bets 873
+RaffaPK: folds 
+Uncalled bet (873) returned to Kevin12345Mc
+Kevin12345Mc collected 2646 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2646 | Rake 0 
+Board [5c Ks Qd]
+Seat 1: Kevin12345Mc (button) collected (2646)
+Seat 2: calilcha (small blind) folded before Flop
+Seat 3: momie95 (big blind) folded before Flop
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Guzsma6almas folded before Flop (didn't bet)
+Seat 7: RaffaPK folded on the Flop
+Seat 8: AmyJ21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004919415: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:52:00 WET [2025/02/23 12:52:00 ET]
+Table '3860676551 301' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (6774 in chips, $5 bounty) 
+Seat 2: calilcha (29808 in chips, $22.50 bounty) 
+Seat 3: momie95 (4691 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (16254 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15592 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (6286 in chips, $5 bounty) 
+Seat 7: RaffaPK (6078 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (21067 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 27
+calilcha: posts the ante 27
+momie95: posts the ante 27
+vel'koz lvl4: posts the ante 27
+ACÁCIO28: posts the ante 27
+Guzsma6almas: posts the ante 27
+RaffaPK: posts the ante 27
+AmyJ21: posts the ante 27
+momie95: posts small blind 90
+vel'koz lvl4: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 2d]
+ACÁCIO28: folds 
+Guzsma6almas: folds 
+RaffaPK: folds 
+AmyJ21: raises 360 to 540
+Kevin12345Mc: folds 
+calilcha: calls 540
+momie95: folds 
+vel'koz lvl4: folds 
+*** FLOP *** [9d 4s 5h]
+AmyJ21: checks 
+calilcha: bets 783
+AmyJ21: calls 783
+*** TURN *** [9d 4s 5h] [Jd]
+AmyJ21: checks 
+calilcha: bets 1566
+AmyJ21: folds 
+Uncalled bet (1566) returned to calilcha
+calilcha collected 3132 from pot
+*** SUMMARY ***
+Total pot 3132 | Rake 0 
+Board [9d 4s 5h Jd]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha (button) collected (3132)
+Seat 3: momie95 (small blind) folded before Flop
+Seat 4: vel'koz lvl4 (big blind) folded before Flop
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Guzsma6almas folded before Flop (didn't bet)
+Seat 7: RaffaPK folded before Flop (didn't bet)
+Seat 8: AmyJ21 folded on the Turn
+
+
+
+PokerStars Hand #255004933666: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:52:46 WET [2025/02/23 12:52:46 ET]
+Table '3860676551 301' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (6747 in chips, $5 bounty) 
+Seat 2: calilcha (31590 in chips, $22.50 bounty) 
+Seat 3: momie95 (4574 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (16047 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15565 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (6259 in chips, $5 bounty) 
+Seat 7: RaffaPK (6051 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (19717 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 27
+calilcha: posts the ante 27
+momie95: posts the ante 27
+vel'koz lvl4: posts the ante 27
+ACÁCIO28: posts the ante 27
+Guzsma6almas: posts the ante 27
+RaffaPK: posts the ante 27
+AmyJ21: posts the ante 27
+vel'koz lvl4: posts small blind 90
+ACÁCIO28: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 4h]
+Guzsma6almas: folds 
+RaffaPK: raises 180 to 360
+AmyJ21: folds 
+Kevin12345Mc: folds 
+calilcha: calls 360
+momie95: folds 
+vel'koz lvl4: raises 1440 to 1800
+ACÁCIO28: folds 
+RaffaPK: folds 
+calilcha: calls 1440
+*** FLOP *** [3c 3d Td]
+vel'koz lvl4: bets 1437
+calilcha: calls 1437
+*** TURN *** [3c 3d Td] [8h]
+vel'koz lvl4: bets 2386
+calilcha: calls 2386
+*** RIVER *** [3c 3d Td 8h] [6c]
+vel'koz lvl4: checks 
+calilcha: checks 
+*** SHOW DOWN ***
+vel'koz lvl4: shows [Qh Ah] (a pair of Threes)
+calilcha: shows [8s 9c] (two pair, Eights and Threes)
+calilcha collected 12002 from pot
+*** SUMMARY ***
+Total pot 12002 | Rake 0 
+Board [3c 3d Td 8h 6c]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha showed [8s 9c] and won (12002) with two pair, Eights and Threes
+Seat 3: momie95 (button) folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 (small blind) showed [Qh Ah] and lost with a pair of Threes
+Seat 5: ACÁCIO28 (big blind) folded before Flop
+Seat 6: Guzsma6almas folded before Flop (didn't bet)
+Seat 7: RaffaPK folded before Flop
+Seat 8: AmyJ21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004955547: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:53:56 WET [2025/02/23 12:53:56 ET]
+Table '3860676551 301' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (6720 in chips, $5 bounty) 
+Seat 2: calilcha (37942 in chips, $22.50 bounty) 
+Seat 3: momie95 (4547 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (10397 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15358 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (6232 in chips, $5 bounty) 
+Seat 7: RaffaPK (5664 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (19690 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 27
+calilcha: posts the ante 27
+momie95: posts the ante 27
+vel'koz lvl4: posts the ante 27
+ACÁCIO28: posts the ante 27
+Guzsma6almas: posts the ante 27
+RaffaPK: posts the ante 27
+AmyJ21: posts the ante 27
+ACÁCIO28: posts small blind 90
+Guzsma6almas: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Qd]
+RaffaPK: folds 
+AmyJ21: folds 
+Kevin12345Mc: raises 216 to 396
+calilcha: folds 
+momie95: calls 396
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Guzsma6almas: calls 216
+*** FLOP *** [2s Kh Ts]
+Guzsma6almas: checks 
+Kevin12345Mc: bets 493
+momie95: calls 493
+Guzsma6almas: calls 493
+*** TURN *** [2s Kh Ts] [Js]
+Guzsma6almas: checks 
+Kevin12345Mc: checks 
+momie95: checks 
+*** RIVER *** [2s Kh Ts Js] [9h]
+Guzsma6almas: bets 981
+Kevin12345Mc: raises 4823 to 5804 and is all-in
+momie95: folds 
+Guzsma6almas: folds 
+Uncalled bet (4823) returned to Kevin12345Mc
+Kevin12345Mc collected 4935 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 4935 | Rake 0 
+Board [2s Kh Ts Js 9h]
+Seat 1: Kevin12345Mc collected (4935)
+Seat 2: calilcha folded before Flop (didn't bet)
+Seat 3: momie95 folded on the River
+Seat 4: vel'koz lvl4 (button) folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 (small blind) folded before Flop
+Seat 6: Guzsma6almas (big blind) folded on the River
+Seat 7: RaffaPK folded before Flop (didn't bet)
+Seat 8: AmyJ21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255004976827: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 17:55:04 WET [2025/02/23 12:55:04 ET]
+Table '3860676551 301' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (9758 in chips, $5 bounty) 
+Seat 2: calilcha (37915 in chips, $22.50 bounty) 
+Seat 3: momie95 (3631 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (10370 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15241 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (4335 in chips, $5 bounty) 
+Seat 7: RaffaPK (5637 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (19663 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 27
+calilcha: posts the ante 27
+momie95: posts the ante 27
+vel'koz lvl4: posts the ante 27
+ACÁCIO28: posts the ante 27
+Guzsma6almas: posts the ante 27
+RaffaPK: posts the ante 27
+AmyJ21: posts the ante 27
+Guzsma6almas: posts small blind 90
+RaffaPK: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 9d]
+AmyJ21: folds 
+Kevin12345Mc: folds 
+calilcha: calls 180
+momie95: calls 180
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Guzsma6almas: folds 
+RaffaPK: checks 
+*** FLOP *** [Qd 9h 3h]
+RaffaPK: checks 
+calilcha: bets 180
+momie95: calls 180
+RaffaPK: calls 180
+*** TURN *** [Qd 9h 3h] [2d]
+RaffaPK: checks 
+calilcha: checks 
+momie95: checks 
+*** RIVER *** [Qd 9h 3h 2d] [4h]
+RaffaPK: bets 540
+calilcha: calls 540
+momie95: folds 
+*** SHOW DOWN ***
+RaffaPK: shows [7s Qh] (a pair of Queens)
+calilcha: shows [4s 9s] (two pair, Nines and Fours)
+calilcha collected 2466 from pot
+*** SUMMARY ***
+Total pot 2466 | Rake 0 
+Board [Qd 9h 3h 2d 4h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha showed [4s 9s] and won (2466) with two pair, Nines and Fours
+Seat 3: momie95 folded on the River
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 (button) folded before Flop (didn't bet)
+Seat 6: Guzsma6almas (small blind) folded before Flop
+Seat 7: RaffaPK (big blind) showed [7s Qh] and lost with a pair of Queens
+Seat 8: AmyJ21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005070739: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/23 18:02:23 WET [2025/02/23 13:02:23 ET]
+Table '3860676551 301' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (9731 in chips, $5 bounty) 
+Seat 2: calilcha (39454 in chips, $22.50 bounty) 
+Seat 3: momie95 (3244 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (10343 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15214 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (4218 in chips, $5 bounty) 
+Seat 7: RaffaPK (4710 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (19636 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 27
+calilcha: posts the ante 27
+momie95: posts the ante 27
+vel'koz lvl4: posts the ante 27
+ACÁCIO28: posts the ante 27
+Guzsma6almas: posts the ante 27
+RaffaPK: posts the ante 27
+AmyJ21: posts the ante 27
+RaffaPK: posts small blind 90
+AmyJ21: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 6h]
+Kevin12345Mc: raises 234 to 414
+calilcha: folds 
+momie95 has timed out
+momie95: folds 
+momie95 is sitting out
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Guzsma6almas: calls 414
+RaffaPK: folds 
+AmyJ21: calls 234
+*** FLOP *** [Qs Th 6c]
+AmyJ21: checks 
+Kevin12345Mc: checks 
+Guzsma6almas: checks 
+*** TURN *** [Qs Th 6c] [Kd]
+AmyJ21: checks 
+Kevin12345Mc: checks 
+Guzsma6almas: checks 
+*** RIVER *** [Qs Th 6c Kd] [Ac]
+AmyJ21: checks 
+Kevin12345Mc: checks 
+Guzsma6almas: checks 
+*** SHOW DOWN ***
+AmyJ21: shows [8c 9d] (high card Ace)
+Kevin12345Mc: shows [Ah 6h] (two pair, Aces and Sixes)
+Guzsma6almas: mucks hand 
+Kevin12345Mc collected 1548 from pot
+*** SUMMARY ***
+Total pot 1548 | Rake 0 
+Board [Qs Th 6c Kd Ac]
+Seat 1: Kevin12345Mc showed [Ah 6h] and won (1548) with two pair, Aces and Sixes
+Seat 2: calilcha folded before Flop (didn't bet)
+Seat 3: momie95 folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Guzsma6almas (button) mucked [Ad 3d]
+Seat 7: RaffaPK (small blind) folded before Flop
+Seat 8: AmyJ21 (big blind) showed [8c 9d] and lost with high card Ace
+
+
+
+PokerStars Hand #255005110917: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:04:30 WET [2025/02/23 13:04:30 ET]
+Table '3860676551 301' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (10838 in chips, $5 bounty) 
+Seat 2: calilcha (39427 in chips, $22.50 bounty) 
+Seat 3: momie95 (3217 in chips, $5 bounty) is sitting out
+Seat 4: vel'koz lvl4 (10316 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15187 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (3777 in chips, $5 bounty) 
+Seat 7: RaffaPK (4593 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (19195 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 30
+calilcha: posts the ante 30
+momie95: posts the ante 30
+vel'koz lvl4: posts the ante 30
+ACÁCIO28: posts the ante 30
+Guzsma6almas: posts the ante 30
+RaffaPK: posts the ante 30
+AmyJ21: posts the ante 30
+AmyJ21: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Kc]
+calilcha: folds 
+momie95: folds 
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Guzsma6almas: folds 
+RaffaPK: folds 
+AmyJ21: calls 100
+Kevin12345Mc: raises 660 to 860
+AmyJ21: calls 660
+*** FLOP *** [Qs Kd 4c]
+AmyJ21: checks 
+Kevin12345Mc: bets 647
+AmyJ21: calls 647
+*** TURN *** [Qs Kd 4c] [4s]
+AmyJ21: checks 
+Kevin12345Mc: bets 1627
+AmyJ21: raises 1627 to 3254
+Kevin12345Mc: calls 1627
+*** RIVER *** [Qs Kd 4c 4s] [As]
+AmyJ21: bets 9762
+momie95 has returned
+Kevin12345Mc: folds 
+Uncalled bet (9762) returned to AmyJ21
+AmyJ21 collected 9762 from pot
+AmyJ21: doesn't show hand 
+*** SUMMARY ***
+Total pot 9762 | Rake 0 
+Board [Qs Kd 4c 4s As]
+Seat 1: Kevin12345Mc (big blind) folded on the River
+Seat 2: calilcha folded before Flop (didn't bet)
+Seat 3: momie95 folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Guzsma6almas folded before Flop (didn't bet)
+Seat 7: RaffaPK (button) folded before Flop (didn't bet)
+Seat 8: AmyJ21 (small blind) collected (9762)
+
+
+
+PokerStars Hand #255005140325: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:06:01 WET [2025/02/23 13:06:01 ET]
+Table '3860676551 301' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (6047 in chips, $5 bounty) 
+Seat 2: calilcha (39397 in chips, $22.50 bounty) 
+Seat 3: momie95 (3187 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (10286 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15157 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (3747 in chips, $5 bounty) 
+Seat 7: RaffaPK (4563 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (24166 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 30
+calilcha: posts the ante 30
+momie95: posts the ante 30
+vel'koz lvl4: posts the ante 30
+ACÁCIO28: posts the ante 30
+Guzsma6almas: posts the ante 30
+RaffaPK: posts the ante 30
+AmyJ21: posts the ante 30
+Kevin12345Mc: posts small blind 100
+calilcha: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Td]
+momie95: folds 
+vel'koz lvl4: folds 
+ACÁCIO28 has timed out
+ACÁCIO28: folds 
+ACÁCIO28 is sitting out
+ACÁCIO28 has returned
+Guzsma6almas: folds 
+RaffaPK: raises 200 to 400
+AmyJ21: calls 400
+Kevin12345Mc: folds 
+calilcha: calls 200
+*** FLOP *** [Jc As Js]
+calilcha: checks 
+RaffaPK: bets 370
+AmyJ21: folds 
+calilcha: folds 
+Uncalled bet (370) returned to RaffaPK
+RaffaPK collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Board [Jc As Js]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: calilcha (big blind) folded on the Flop
+Seat 3: momie95 folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Guzsma6almas folded before Flop (didn't bet)
+Seat 7: RaffaPK collected (1540)
+Seat 8: AmyJ21 (button) folded on the Flop
+
+
+
+PokerStars Hand #255005155296: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:06:47 WET [2025/02/23 13:06:47 ET]
+Table '3860676551 301' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (5917 in chips, $5 bounty) 
+Seat 2: calilcha (38967 in chips, $22.50 bounty) 
+Seat 3: momie95 (3157 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (10256 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15127 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (3717 in chips, $5 bounty) 
+Seat 7: RaffaPK (5673 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (23736 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 30
+calilcha: posts the ante 30
+momie95: posts the ante 30
+vel'koz lvl4: posts the ante 30
+ACÁCIO28: posts the ante 30
+Guzsma6almas: posts the ante 30
+RaffaPK: posts the ante 30
+AmyJ21: posts the ante 30
+calilcha: posts small blind 100
+momie95: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Jh]
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Guzsma6almas: folds 
+RaffaPK: folds 
+AmyJ21: folds 
+Kevin12345Mc: raises 240 to 440
+calilcha: calls 340
+momie95: calls 240
+*** FLOP *** [4h 3d Qh]
+calilcha: checks 
+momie95: checks 
+Kevin12345Mc: bets 1030
+calilcha: folds 
+momie95: raises 1657 to 2687 and is all-in
+Kevin12345Mc: calls 1657
+*** TURN *** [4h 3d Qh] [6s]
+*** RIVER *** [4h 3d Qh 6s] [Ad]
+*** SHOW DOWN ***
+momie95: shows [Kh 3s] (a pair of Threes)
+Kevin12345Mc: shows [9h Jh] (high card Ace)
+momie95 collected 6934 from pot
+*** SUMMARY ***
+Total pot 6934 | Rake 0 
+Board [4h 3d Qh 6s Ad]
+Seat 1: Kevin12345Mc (button) showed [9h Jh] and lost with high card Ace
+Seat 2: calilcha (small blind) folded on the Flop
+Seat 3: momie95 (big blind) showed [Kh 3s] and won (6934) with a pair of Threes
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Guzsma6almas folded before Flop (didn't bet)
+Seat 7: RaffaPK folded before Flop (didn't bet)
+Seat 8: AmyJ21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005173497: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:07:44 WET [2025/02/23 13:07:44 ET]
+Table '3860676551 301' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (2760 in chips, $5 bounty) 
+Seat 2: calilcha (38497 in chips, $22.50 bounty) 
+Seat 3: momie95 (6934 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (10226 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15097 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (3687 in chips, $5 bounty) 
+Seat 7: RaffaPK (5643 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (23706 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 30
+calilcha: posts the ante 30
+momie95: posts the ante 30
+vel'koz lvl4: posts the ante 30
+ACÁCIO28: posts the ante 30
+Guzsma6almas: posts the ante 30
+RaffaPK: posts the ante 30
+AmyJ21: posts the ante 30
+momie95: posts small blind 100
+vel'koz lvl4: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 9c]
+ACÁCIO28: folds 
+Guzsma6almas: folds 
+RaffaPK: folds 
+AmyJ21: folds 
+Kevin12345Mc: folds 
+calilcha: calls 200
+momie95: folds 
+vel'koz lvl4: checks 
+*** FLOP *** [8c Td 7d]
+vel'koz lvl4: checks 
+calilcha: bets 200
+vel'koz lvl4: folds 
+Uncalled bet (200) returned to calilcha
+calilcha collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Board [8c Td 7d]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha (button) collected (740)
+Seat 3: momie95 (small blind) folded before Flop
+Seat 4: vel'koz lvl4 (big blind) folded on the Flop
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Guzsma6almas folded before Flop (didn't bet)
+Seat 7: RaffaPK folded before Flop (didn't bet)
+Seat 8: AmyJ21 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005184759: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:08:19 WET [2025/02/23 13:08:19 ET]
+Table '3860676551 301' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (2730 in chips, $5 bounty) 
+Seat 2: calilcha (39007 in chips, $22.50 bounty) 
+Seat 3: momie95 (6804 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (9996 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (15067 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (3657 in chips, $5 bounty) 
+Seat 7: RaffaPK (5613 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (23676 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 30
+calilcha: posts the ante 30
+momie95: posts the ante 30
+vel'koz lvl4: posts the ante 30
+ACÁCIO28: posts the ante 30
+Guzsma6almas: posts the ante 30
+RaffaPK: posts the ante 30
+AmyJ21: posts the ante 30
+vel'koz lvl4: posts small blind 100
+ACÁCIO28: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Td]
+Guzsma6almas: folds 
+RaffaPK: folds 
+AmyJ21: raises 200 to 400
+Kevin12345Mc: folds 
+calilcha: calls 400
+momie95: calls 400
+vel'koz lvl4: folds 
+ACÁCIO28: calls 200
+*** FLOP *** [3s 3h 5d]
+ACÁCIO28: checks 
+AmyJ21: checks 
+calilcha: checks 
+momie95: checks 
+*** TURN *** [3s 3h 5d] [2h]
+ACÁCIO28: bets 1319
+AmyJ21: folds 
+calilcha: folds 
+momie95: folds 
+Uncalled bet (1319) returned to ACÁCIO28
+ACÁCIO28 collected 1940 from pot
+*** SUMMARY ***
+Total pot 1940 | Rake 0 
+Board [3s 3h 5d 2h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha folded on the Turn
+Seat 3: momie95 (button) folded on the Turn
+Seat 4: vel'koz lvl4 (small blind) folded before Flop
+Seat 5: ACÁCIO28 (big blind) collected (1940)
+Seat 6: Guzsma6almas folded before Flop (didn't bet)
+Seat 7: RaffaPK folded before Flop (didn't bet)
+Seat 8: AmyJ21 folded on the Turn
+
+
+
+PokerStars Hand #255005211232: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:09:41 WET [2025/02/23 13:09:41 ET]
+Table '3860676551 301' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (2700 in chips, $5 bounty) 
+Seat 2: calilcha (38577 in chips, $22.50 bounty) 
+Seat 3: momie95 (6374 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (9866 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (16577 in chips, $5 bounty) 
+Seat 6: Guzsma6almas (3627 in chips, $5 bounty) 
+Seat 7: RaffaPK (5583 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (23246 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 30
+calilcha: posts the ante 30
+momie95: posts the ante 30
+vel'koz lvl4: posts the ante 30
+ACÁCIO28: posts the ante 30
+Guzsma6almas: posts the ante 30
+RaffaPK: posts the ante 30
+AmyJ21: posts the ante 30
+ACÁCIO28: posts small blind 100
+Guzsma6almas: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Ks]
+RaffaPK: folds 
+AmyJ21: raises 200 to 400
+Kevin12345Mc: folds 
+calilcha: calls 400
+momie95: calls 400
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Guzsma6almas: raises 3197 to 3597 and is all-in
+AmyJ21: folds 
+calilcha: raises 34950 to 38547 and is all-in
+momie95: folds 
+Uncalled bet (34950) returned to calilcha
+*** FLOP *** [Tc Jh 5s]
+*** TURN *** [Tc Jh 5s] [As]
+*** RIVER *** [Tc Jh 5s As] [3d]
+*** SHOW DOWN ***
+Guzsma6almas: shows [4h 4s] (a pair of Fours)
+calilcha: shows [Qs Js] (a pair of Jacks)
+calilcha collected 8334 from pot
+calilcha wins $2.50 for eliminating Guzsma6almas and their own bounty increases by $2.50 to $25
+Guzsma6almas finished the tournament
+*** SUMMARY ***
+Total pot 8334 | Rake 0 
+Board [Tc Jh 5s As 3d]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha showed [Qs Js] and won (8334) with a pair of Jacks
+Seat 3: momie95 folded before Flop
+Seat 4: vel'koz lvl4 (button) folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 (small blind) folded before Flop
+Seat 6: Guzsma6almas (big blind) showed [4h 4s] and lost with a pair of Fours
+Seat 7: RaffaPK folded before Flop (didn't bet)
+Seat 8: AmyJ21 folded before Flop
+
+
+
+PokerStars Hand #255005224437: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:10:22 WET [2025/02/23 13:10:22 ET]
+Table '3860676551 301' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (2670 in chips, $5 bounty) 
+Seat 2: calilcha (43284 in chips, $25 bounty) 
+Seat 3: momie95 (5944 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (9836 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (16447 in chips, $5 bounty) 
+Seat 7: RaffaPK (5553 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (22816 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 30
+calilcha: posts the ante 30
+momie95: posts the ante 30
+vel'koz lvl4: posts the ante 30
+ACÁCIO28: posts the ante 30
+RaffaPK: posts the ante 30
+AmyJ21: posts the ante 30
+RaffaPK: posts small blind 100
+AmyJ21: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Kc]
+Kevin12345Mc: folds 
+calilcha: calls 200
+momie95: folds 
+vel'koz lvl4: raises 400 to 600
+ACÁCIO28: folds 
+RaffaPK: folds 
+AmyJ21: folds 
+calilcha: calls 400
+*** FLOP *** [Jd Ah Js]
+calilcha: checks 
+vel'koz lvl4: bets 564
+calilcha: folds 
+Uncalled bet (564) returned to vel'koz lvl4
+vel'koz lvl4 collected 1710 from pot
+vel'koz lvl4: doesn't show hand 
+*** SUMMARY ***
+Total pot 1710 | Rake 0 
+Board [Jd Ah Js]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: calilcha folded on the Flop
+Seat 3: momie95 folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 collected (1710)
+Seat 5: ACÁCIO28 (button) folded before Flop (didn't bet)
+Seat 7: RaffaPK (small blind) folded before Flop
+Seat 8: AmyJ21 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255005236783: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/23 18:11:00 WET [2025/02/23 13:11:00 ET]
+Table '3860676551 301' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (2640 in chips, $5 bounty) 
+Seat 2: calilcha (42654 in chips, $25 bounty) 
+Seat 3: momie95 (5914 in chips, $5 bounty) 
+Seat 4: vel'koz lvl4 (10916 in chips, $7.50 bounty) 
+Seat 5: ACÁCIO28 (16417 in chips, $5 bounty) 
+Seat 6: Gymwear13 (5000 in chips, $5 bounty) 
+Seat 7: RaffaPK (5423 in chips, $7.50 bounty) 
+Seat 8: AmyJ21 (22586 in chips, $15 bounty) 
+Kevin12345Mc: posts the ante 30
+calilcha: posts the ante 30
+momie95: posts the ante 30
+vel'koz lvl4: posts the ante 30
+ACÁCIO28: posts the ante 30
+Gymwear13: posts the ante 30
+RaffaPK: posts the ante 30
+AmyJ21: posts the ante 30
+AmyJ21: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 5s]
+calilcha: calls 200
+momie95: folds 
+vel'koz lvl4: folds 
+ACÁCIO28: folds 
+Gymwear13: calls 200
+RaffaPK: calls 200
+AmyJ21: folds 
+Kevin12345Mc: raises 2410 to 2610 and is all-in
+calilcha: folds 
+Gymwear13: folds 
+RaffaPK: calls 2410
+*** FLOP *** [Qs 2d 9c]
+*** TURN *** [Qs 2d 9c] [6c]
+*** RIVER *** [Qs 2d 9c 6c] [7h]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [As 5s] (high card Ace)
+RaffaPK: shows [9h 8h] (a pair of Nines)
+RaffaPK collected 5960 from pot
+RaffaPK wins $2.50 for eliminating Kevin12345Mc and their own bounty increases by $2.50 to $10
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 5960 | Rake 0 
+Board [Qs 2d 9c 6c 7h]
+Seat 1: Kevin12345Mc (big blind) showed [As 5s] and lost with high card Ace
+Seat 2: calilcha folded before Flop
+Seat 3: momie95 folded before Flop (didn't bet)
+Seat 4: vel'koz lvl4 folded before Flop (didn't bet)
+Seat 5: ACÁCIO28 folded before Flop (didn't bet)
+Seat 6: Gymwear13 folded before Flop
+Seat 7: RaffaPK (button) showed [9h 8h] and won (5960) with a pair of Nines
+Seat 8: AmyJ21 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255005290768: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:13:47 WET [2025/02/23 13:13:47 ET]
+Table '3860676551 15' 8-max Seat #1 is the button
+Seat 1: Pakatoss13 (3079 in chips, $7.50 bounty) 
+Seat 2: ZebraOrange (21501 in chips, $10 bounty) 
+Seat 3: cris7ko (9130 in chips, $5 bounty) 
+Seat 4: Ivo Neto 12 (6397 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (12126 in chips, $8.75 bounty) 
+Seat 6: Varle84 (6484 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5000 in chips, $5 bounty) 
+Seat 8: Rikill8 (4841 in chips, $5 bounty) 
+Pakatoss13: posts the ante 36
+ZebraOrange: posts the ante 36
+cris7ko: posts the ante 36
+Ivo Neto 12: posts the ante 36
+jerseypoker89: posts the ante 36
+Varle84: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Rikill8: posts the ante 36
+ZebraOrange: posts small blind 125
+cris7ko: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 7c]
+Ivo Neto 12: folds 
+jerseypoker89: calls 250
+Varle84: folds 
+Kevin12345Mc: folds 
+Rikill8: folds 
+Pakatoss13: folds 
+ZebraOrange: folds 
+cris7ko: checks 
+*** FLOP *** [3s Jc 7s]
+cris7ko: checks 
+jerseypoker89: checks 
+*** TURN *** [3s Jc 7s] [4s]
+cris7ko: checks 
+jerseypoker89: checks 
+*** RIVER *** [3s Jc 7s 4s] [Tc]
+cris7ko: checks 
+jerseypoker89: checks 
+*** SHOW DOWN ***
+cris7ko: shows [6d Kc] (high card King)
+jerseypoker89: shows [Kh Qs] (high card King - Queen kicker)
+jerseypoker89 collected 913 from pot
+*** SUMMARY ***
+Total pot 913 | Rake 0 
+Board [3s Jc 7s 4s Tc]
+Seat 1: Pakatoss13 (button) folded before Flop (didn't bet)
+Seat 2: ZebraOrange (small blind) folded before Flop
+Seat 3: cris7ko (big blind) showed [6d Kc] and lost with high card King
+Seat 4: Ivo Neto 12 folded before Flop (didn't bet)
+Seat 5: jerseypoker89 showed [Kh Qs] and won (913) with high card King
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Rikill8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005308427: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:14:41 WET [2025/02/23 13:14:41 ET]
+Table '3860676551 15' 8-max Seat #2 is the button
+Seat 1: Pakatoss13 (3043 in chips, $7.50 bounty) 
+Seat 2: ZebraOrange (21340 in chips, $10 bounty) 
+Seat 3: cris7ko (8844 in chips, $5 bounty) 
+Seat 4: Ivo Neto 12 (6361 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (12753 in chips, $8.75 bounty) 
+Seat 6: Varle84 (6448 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4964 in chips, $5 bounty) 
+Seat 8: Rikill8 (4805 in chips, $5 bounty) 
+Pakatoss13: posts the ante 36
+ZebraOrange: posts the ante 36
+cris7ko: posts the ante 36
+Ivo Neto 12: posts the ante 36
+jerseypoker89: posts the ante 36
+Varle84: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Rikill8: posts the ante 36
+cris7ko: posts small blind 125
+Ivo Neto 12: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 5s]
+jerseypoker89: raises 913 to 1163
+Varle84: folds 
+Kevin12345Mc: folds 
+Rikill8: folds 
+Pakatoss13: folds 
+ZebraOrange: folds 
+cris7ko: folds 
+Ivo Neto 12: calls 913
+*** FLOP *** [Ad 9c Tc]
+Ivo Neto 12: checks 
+jerseypoker89: checks 
+*** TURN *** [Ad 9c Tc] [4s]
+Ivo Neto 12: checks 
+jerseypoker89: bets 1120
+Ivo Neto 12: calls 1120
+*** RIVER *** [Ad 9c Tc 4s] [Ts]
+Ivo Neto 12: checks 
+jerseypoker89: checks 
+*** SHOW DOWN ***
+Ivo Neto 12: shows [3h Ah] (two pair, Aces and Tens)
+jerseypoker89: shows [Ks Kh] (two pair, Kings and Tens)
+Ivo Neto 12 collected 4979 from pot
+*** SUMMARY ***
+Total pot 4979 | Rake 0 
+Board [Ad 9c Tc 4s Ts]
+Seat 1: Pakatoss13 folded before Flop (didn't bet)
+Seat 2: ZebraOrange (button) folded before Flop (didn't bet)
+Seat 3: cris7ko (small blind) folded before Flop
+Seat 4: Ivo Neto 12 (big blind) showed [3h Ah] and won (4979) with two pair, Aces and Tens
+Seat 5: jerseypoker89 showed [Ks Kh] and lost with two pair, Kings and Tens
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Rikill8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005330438: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:15:48 WET [2025/02/23 13:15:48 ET]
+Table '3860676551 15' 8-max Seat #3 is the button
+Seat 1: Pakatoss13 (3007 in chips, $7.50 bounty) 
+Seat 2: ZebraOrange (21304 in chips, $10 bounty) 
+Seat 3: cris7ko (8683 in chips, $5 bounty) 
+Seat 4: Ivo Neto 12 (9021 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (10434 in chips, $8.75 bounty) 
+Seat 6: Varle84 (6412 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4928 in chips, $5 bounty) 
+Seat 8: Rikill8 (4769 in chips, $5 bounty) 
+Pakatoss13: posts the ante 36
+ZebraOrange: posts the ante 36
+cris7ko: posts the ante 36
+Ivo Neto 12: posts the ante 36
+jerseypoker89: posts the ante 36
+Varle84: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Rikill8: posts the ante 36
+Ivo Neto 12: posts small blind 125
+jerseypoker89: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 7s]
+Varle84: folds 
+Kevin12345Mc: folds 
+Rikill8: raises 500 to 750
+Pakatoss13: folds 
+ZebraOrange: folds 
+cris7ko: folds 
+Ivo Neto 12: folds 
+jerseypoker89: folds 
+Uncalled bet (500) returned to Rikill8
+Rikill8 collected 913 from pot
+Rikill8: doesn't show hand 
+*** SUMMARY ***
+Total pot 913 | Rake 0 
+Seat 1: Pakatoss13 folded before Flop (didn't bet)
+Seat 2: ZebraOrange folded before Flop (didn't bet)
+Seat 3: cris7ko (button) folded before Flop (didn't bet)
+Seat 4: Ivo Neto 12 (small blind) folded before Flop
+Seat 5: jerseypoker89 (big blind) folded before Flop
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Rikill8 collected (913)
+
+
+
+PokerStars Hand #255005338741: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:16:13 WET [2025/02/23 13:16:13 ET]
+Table '3860676551 15' 8-max Seat #4 is the button
+Seat 1: Pakatoss13 (2971 in chips, $7.50 bounty) 
+Seat 2: ZebraOrange (21268 in chips, $10 bounty) 
+Seat 3: cris7ko (8647 in chips, $5 bounty) 
+Seat 4: Ivo Neto 12 (8860 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (10148 in chips, $8.75 bounty) 
+Seat 6: Varle84 (6376 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4892 in chips, $5 bounty) 
+Seat 8: Rikill8 (5396 in chips, $5 bounty) 
+Pakatoss13: posts the ante 36
+ZebraOrange: posts the ante 36
+cris7ko: posts the ante 36
+Ivo Neto 12: posts the ante 36
+jerseypoker89: posts the ante 36
+Varle84: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Rikill8: posts the ante 36
+jerseypoker89: posts small blind 125
+Varle84: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Jh]
+Kevin12345Mc: folds 
+Rikill8: folds 
+Pakatoss13: folds 
+ZebraOrange: folds 
+cris7ko: folds 
+Ivo Neto 12: folds 
+jerseypoker89: raises 500 to 750
+Varle84: raises 5590 to 6340 and is all-in
+jerseypoker89: folds [Ac]
+Uncalled bet (5590) returned to Varle84
+Varle84 collected 1788 from pot
+*** SUMMARY ***
+Total pot 1788 | Rake 0 
+Seat 1: Pakatoss13 folded before Flop (didn't bet)
+Seat 2: ZebraOrange folded before Flop (didn't bet)
+Seat 3: cris7ko folded before Flop (didn't bet)
+Seat 4: Ivo Neto 12 (button) folded before Flop (didn't bet)
+Seat 5: jerseypoker89 (small blind) folded before Flop
+Seat 6: Varle84 (big blind) collected (1788)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Rikill8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005354074: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:17:00 WET [2025/02/23 13:17:00 ET]
+Table '3860676551 15' 8-max Seat #5 is the button
+Seat 1: Pakatoss13 (2935 in chips, $7.50 bounty) 
+Seat 2: ZebraOrange (21232 in chips, $10 bounty) 
+Seat 3: cris7ko (8611 in chips, $5 bounty) 
+Seat 4: Ivo Neto 12 (8824 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (9362 in chips, $8.75 bounty) 
+Seat 6: Varle84 (7378 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4856 in chips, $5 bounty) 
+Seat 8: Rikill8 (5360 in chips, $5 bounty) 
+Pakatoss13: posts the ante 36
+ZebraOrange: posts the ante 36
+cris7ko: posts the ante 36
+Ivo Neto 12: posts the ante 36
+jerseypoker89: posts the ante 36
+Varle84: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Rikill8: posts the ante 36
+Varle84: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 3s]
+Rikill8: folds 
+Pakatoss13: folds 
+ZebraOrange: folds 
+cris7ko: folds 
+Ivo Neto 12: raises 250 to 500
+jerseypoker89: folds 
+Varle84: calls 375
+Kevin12345Mc: folds 
+*** FLOP *** [9c 6h Tc]
+Varle84: checks 
+Ivo Neto 12: bets 508
+Varle84: raises 6334 to 6842 and is all-in
+Ivo Neto 12: folds 
+Uncalled bet (6334) returned to Varle84
+Varle84 collected 2554 from pot
+*** SUMMARY ***
+Total pot 2554 | Rake 0 
+Board [9c 6h Tc]
+Seat 1: Pakatoss13 folded before Flop (didn't bet)
+Seat 2: ZebraOrange folded before Flop (didn't bet)
+Seat 3: cris7ko folded before Flop (didn't bet)
+Seat 4: Ivo Neto 12 folded on the Flop
+Seat 5: jerseypoker89 (button) folded before Flop (didn't bet)
+Seat 6: Varle84 (small blind) collected (2554)
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: Rikill8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005374510: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:18:03 WET [2025/02/23 13:18:03 ET]
+Table '3860676551 15' 8-max Seat #6 is the button
+Seat 1: Pakatoss13 (2899 in chips, $7.50 bounty) 
+Seat 2: ZebraOrange (21196 in chips, $10 bounty) 
+Seat 3: cris7ko (8575 in chips, $5 bounty) 
+Seat 4: Ivo Neto 12 (7780 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (9326 in chips, $8.75 bounty) 
+Seat 6: Varle84 (8888 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4570 in chips, $5 bounty) 
+Seat 8: Rikill8 (5324 in chips, $5 bounty) 
+Pakatoss13: posts the ante 36
+ZebraOrange: posts the ante 36
+cris7ko: posts the ante 36
+Ivo Neto 12: posts the ante 36
+jerseypoker89: posts the ante 36
+Varle84: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Rikill8: posts the ante 36
+Kevin12345Mc: posts small blind 125
+Rikill8: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 5d]
+Pakatoss13: folds 
+ZebraOrange: folds 
+cris7ko: folds 
+Ivo Neto 12: raises 250 to 500
+jerseypoker89: folds 
+Varle84: folds 
+Kevin12345Mc: folds 
+Rikill8: calls 250
+*** FLOP *** [As Ts 3c]
+Rikill8: checks 
+Ivo Neto 12: bets 375
+Rikill8: raises 1082 to 1457
+Ivo Neto 12: folds 
+Uncalled bet (1082) returned to Rikill8
+Rikill8 collected 2163 from pot
+Rikill8: doesn't show hand 
+*** SUMMARY ***
+Total pot 2163 | Rake 0 
+Board [As Ts 3c]
+Seat 1: Pakatoss13 folded before Flop (didn't bet)
+Seat 2: ZebraOrange folded before Flop (didn't bet)
+Seat 3: cris7ko folded before Flop (didn't bet)
+Seat 4: Ivo Neto 12 folded on the Flop
+Seat 5: jerseypoker89 folded before Flop (didn't bet)
+Seat 6: Varle84 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Rikill8 (big blind) collected (2163)
+
+
+
+PokerStars Hand #255005394890: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:19:05 WET [2025/02/23 13:19:05 ET]
+Table '3860676551 15' 8-max Seat #7 is the button
+Seat 1: Pakatoss13 (2863 in chips, $7.50 bounty) 
+Seat 2: ZebraOrange (21160 in chips, $10 bounty) 
+Seat 3: cris7ko (8539 in chips, $5 bounty) 
+Seat 4: Ivo Neto 12 (6869 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (9290 in chips, $8.75 bounty) 
+Seat 6: Varle84 (8852 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4409 in chips, $5 bounty) 
+Seat 8: Rikill8 (6576 in chips, $5 bounty) 
+Pakatoss13: posts the ante 36
+ZebraOrange: posts the ante 36
+cris7ko: posts the ante 36
+Ivo Neto 12: posts the ante 36
+jerseypoker89: posts the ante 36
+Varle84: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Rikill8: posts the ante 36
+Rikill8: posts small blind 125
+Pakatoss13: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Ks]
+ZebraOrange: folds 
+cris7ko: folds 
+Ivo Neto 12: folds 
+jerseypoker89: calls 250
+Varle84: calls 250
+Kevin12345Mc: folds 
+Rikill8: folds 
+Pakatoss13: checks 
+*** FLOP *** [Ad Jh 2c]
+Pakatoss13: checks 
+jerseypoker89: bets 250
+Varle84: calls 250
+Pakatoss13: calls 250
+*** TURN *** [Ad Jh 2c] [Tc]
+Pakatoss13: checks 
+jerseypoker89: checks 
+Varle84: bets 630
+Pakatoss13: folds 
+jerseypoker89: folds 
+Uncalled bet (630) returned to Varle84
+Varle84 collected 1913 from pot
+*** SUMMARY ***
+Total pot 1913 | Rake 0 
+Board [Ad Jh 2c Tc]
+Seat 1: Pakatoss13 (big blind) folded on the Turn
+Seat 2: ZebraOrange folded before Flop (didn't bet)
+Seat 3: cris7ko folded before Flop (didn't bet)
+Seat 4: Ivo Neto 12 folded before Flop (didn't bet)
+Seat 5: jerseypoker89 folded on the Turn
+Seat 6: Varle84 collected (1913)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Rikill8 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255005415578: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/23 18:20:09 WET [2025/02/23 13:20:09 ET]
+Table '3860676551 15' 8-max Seat #8 is the button
+Seat 1: Pakatoss13 (2327 in chips, $7.50 bounty) 
+Seat 2: ZebraOrange (21124 in chips, $10 bounty) 
+Seat 3: cris7ko (8503 in chips, $5 bounty) 
+Seat 4: Ivo Neto 12 (6833 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (8754 in chips, $8.75 bounty) 
+Seat 6: Varle84 (10229 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4373 in chips, $5 bounty) 
+Seat 8: Rikill8 (6415 in chips, $5 bounty) 
+Pakatoss13: posts the ante 36
+ZebraOrange: posts the ante 36
+cris7ko: posts the ante 36
+Ivo Neto 12: posts the ante 36
+jerseypoker89: posts the ante 36
+Varle84: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Rikill8: posts the ante 36
+Pakatoss13: posts small blind 125
+ZebraOrange: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 5h]
+cris7ko: folds 
+Ivo Neto 12: folds 
+jerseypoker89: folds 
+Varle84: folds 
+Kevin12345Mc: folds 
+Rikill8: raises 250 to 500
+Pakatoss13: folds 
+ZebraOrange: folds 
+Uncalled bet (250) returned to Rikill8
+Rikill8 collected 913 from pot
+Rikill8: doesn't show hand 
+*** SUMMARY ***
+Total pot 913 | Rake 0 
+Seat 1: Pakatoss13 (small blind) folded before Flop
+Seat 2: ZebraOrange (big blind) folded before Flop
+Seat 3: cris7ko folded before Flop (didn't bet)
+Seat 4: Ivo Neto 12 folded before Flop (didn't bet)
+Seat 5: jerseypoker89 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Rikill8 (button) collected (913)
+
+
+
+PokerStars Hand #255005424670: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/23 18:20:36 WET [2025/02/23 13:20:36 ET]
+Table '3860676551 15' 8-max Seat #1 is the button
+Seat 1: Pakatoss13 (2166 in chips, $7.50 bounty) 
+Seat 2: ZebraOrange (20838 in chips, $10 bounty) 
+Seat 3: cris7ko (8467 in chips, $5 bounty) 
+Seat 4: Ivo Neto 12 (6797 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (8718 in chips, $8.75 bounty) 
+Seat 6: Varle84 (10193 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4337 in chips, $5 bounty) 
+Seat 8: Rikill8 (7042 in chips, $5 bounty) 
+Pakatoss13: posts the ante 42
+ZebraOrange: posts the ante 42
+cris7ko: posts the ante 42
+Ivo Neto 12: posts the ante 42
+jerseypoker89: posts the ante 42
+Varle84: posts the ante 42
+Kevin12345Mc: posts the ante 42
+Rikill8: posts the ante 42
+ZebraOrange: posts small blind 150
+cris7ko: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 4d]
+Ivo Neto 12: folds 
+jerseypoker89: folds 
+Varle84: folds 
+Kevin12345Mc: raises 3995 to 4295 and is all-in
+Rikill8: folds 
+Pakatoss13: folds 
+ZebraOrange: folds 
+cris7ko: folds 
+Uncalled bet (3995) returned to Kevin12345Mc
+Kevin12345Mc collected 1086 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1086 | Rake 0 
+Seat 1: Pakatoss13 (button) folded before Flop (didn't bet)
+Seat 2: ZebraOrange (small blind) folded before Flop
+Seat 3: cris7ko (big blind) folded before Flop
+Seat 4: Ivo Neto 12 folded before Flop (didn't bet)
+Seat 5: jerseypoker89 folded before Flop (didn't bet)
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (1086)
+Seat 8: Rikill8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005444124: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/23 18:21:35 WET [2025/02/23 13:21:35 ET]
+Table '3860676551 15' 8-max Seat #3 is the button
+Seat 1: Pakatoss13 (2124 in chips, $7.50 bounty) 
+Seat 3: cris7ko (8125 in chips, $5 bounty) 
+Seat 4: Ivo Neto 12 (6755 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (8676 in chips, $8.75 bounty) 
+Seat 6: Varle84 (10151 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5081 in chips, $5 bounty) 
+Seat 8: Rikill8 (7000 in chips, $5 bounty) 
+Pakatoss13: posts the ante 42
+cris7ko: posts the ante 42
+Ivo Neto 12: posts the ante 42
+jerseypoker89: posts the ante 42
+Varle84: posts the ante 42
+Kevin12345Mc: posts the ante 42
+Rikill8: posts the ante 42
+Ivo Neto 12: posts small blind 150
+jerseypoker89: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 4d]
+Varle84: folds 
+lolgath is disconnected 
+Kevin12345Mc: folds 
+Rikill8: folds 
+Pakatoss13: raises 360 to 660
+cris7ko: raises 1140 to 1800
+Ivo Neto 12: folds 
+jerseypoker89: folds 
+Pakatoss13: raises 282 to 2082 and is all-in
+cris7ko: calls 282
+*** FLOP *** [4s Qd 6d]
+*** TURN *** [4s Qd 6d] [Ts]
+*** RIVER *** [4s Qd 6d Ts] [Jh]
+*** SHOW DOWN ***
+Pakatoss13: shows [Td Ac] (a pair of Tens)
+cris7ko: shows [Qh Tc] (two pair, Queens and Tens)
+cris7ko collected 4908 from pot
+cris7ko wins $3.75 for eliminating Pakatoss13 and their own bounty increases by $3.75 to $8.75
+Pakatoss13 finished the tournament in 1719th place
+*** SUMMARY ***
+Total pot 4908 | Rake 0 
+Board [4s Qd 6d Ts Jh]
+Seat 1: Pakatoss13 showed [Td Ac] and lost with a pair of Tens
+Seat 3: cris7ko (button) showed [Qh Tc] and won (4908) with two pair, Queens and Tens
+Seat 4: Ivo Neto 12 (small blind) folded before Flop
+Seat 5: jerseypoker89 (big blind) folded before Flop
+Seat 6: Varle84 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Rikill8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005470637: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/23 18:22:57 WET [2025/02/23 13:22:57 ET]
+Table '3860676551 15' 8-max Seat #4 is the button
+Seat 2: lolgath (10261 in chips, $10 bounty) 
+Seat 3: cris7ko (10909 in chips, $8.75 bounty) 
+Seat 4: Ivo Neto 12 (6563 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (8334 in chips, $8.75 bounty) 
+Seat 6: Varle84 (10109 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (5039 in chips, $5 bounty) 
+Seat 8: Rikill8 (6958 in chips, $5 bounty) 
+lolgath: posts the ante 42
+cris7ko: posts the ante 42
+Ivo Neto 12: posts the ante 42
+jerseypoker89: posts the ante 42
+Varle84: posts the ante 42
+Kevin12345Mc: posts the ante 42
+Rikill8: posts the ante 42
+jerseypoker89: posts small blind 150
+Varle84: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 7h]
+4THEGLORY4 is disconnected 
+Kevin12345Mc: folds 
+Rikill8: folds 
+lolgath: raises 330 to 630
+cris7ko: folds 
+Ivo Neto 12: folds 
+jerseypoker89: folds 
+Varle84: folds 
+Uncalled bet (330) returned to lolgath
+lolgath collected 1044 from pot
+lolgath: doesn't show hand 
+*** SUMMARY ***
+Total pot 1044 | Rake 0 
+Seat 2: lolgath collected (1044)
+Seat 3: cris7ko folded before Flop (didn't bet)
+Seat 4: Ivo Neto 12 (button) folded before Flop (didn't bet)
+Seat 5: jerseypoker89 (small blind) folded before Flop
+Seat 6: Varle84 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Rikill8 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255005486163: Tournament #3860676551, $4.80+$5.00+$1.20 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/23 18:23:44 WET [2025/02/23 13:23:44 ET]
+Table '3860676551 15' 8-max Seat #5 is the button
+Seat 1: 4THEGLORY4 (22538 in chips, $13.75 bounty) 
+Seat 2: lolgath (10963 in chips, $10 bounty) 
+Seat 3: cris7ko (10867 in chips, $8.75 bounty) 
+Seat 4: Ivo Neto 12 (6521 in chips, $8.75 bounty) 
+Seat 5: jerseypoker89 (8142 in chips, $8.75 bounty) 
+Seat 6: Varle84 (9767 in chips, $5 bounty) 
+Seat 7: Kevin12345Mc (4997 in chips, $5 bounty) 
+Seat 8: Rikill8 (6916 in chips, $5 bounty) 
+4THEGLORY4: posts the ante 42
+lolgath: posts the ante 42
+cris7ko: posts the ante 42
+Ivo Neto 12: posts the ante 42
+jerseypoker89: posts the ante 42
+Varle84: posts the ante 42
+Kevin12345Mc: posts the ante 42
+Rikill8: posts the ante 42
+Varle84: posts small blind 150
+Kevin12345Mc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 9c]
+Rikill8: raises 300 to 600
+4THEGLORY4: folds 
+lolgath: folds 
+cris7ko: calls 600
+Ivo Neto 12: folds 
+jerseypoker89: folds 
+Varle84: folds 
+Kevin12345Mc: calls 300
+*** FLOP *** [3s 9h 3h]
+Kevin12345Mc: checks 
+Rikill8: checks 
+cris7ko: bets 754
+Kevin12345Mc: raises 3601 to 4355 and is all-in
+Rikill8: folds 
+cris7ko: calls 3601
+*** TURN *** [3s 9h 3h] [Ks]
+*** RIVER *** [3s 9h 3h Ks] [Td]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ts 9c] (two pair, Tens and Nines)
+cris7ko: shows [Qh Jh] (a straight, Nine to King)
+cris7ko collected 10996 from pot
+cris7ko wins $2.50 for eliminating Kevin12345Mc and their own bounty increases by $2.50 to $11.25
+Kevin12345Mc finished the tournament in 1639th place
+*** SUMMARY ***
+Total pot 10996 | Rake 0 
+Board [3s 9h 3h Ks Td]
+Seat 1: 4THEGLORY4 folded before Flop (didn't bet)
+Seat 2: lolgath folded before Flop (didn't bet)
+Seat 3: cris7ko showed [Qh Jh] and won (10996) with a straight, Nine to King
+Seat 4: Ivo Neto 12 folded before Flop (didn't bet)
+Seat 5: jerseypoker89 (button) folded before Flop (didn't bet)
+Seat 6: Varle84 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) showed [Ts 9c] and lost with two pair, Tens and Nines
+Seat 8: Rikill8 folded on the Flop
+
+
+

@@ -1,0 +1,5649 @@
+﻿PokerStars Hand #254985994367: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 15:29:47 WET [2025/02/22 10:29:47 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: ThouVou00265 (5000 in chips) 
+Seat 2: U&A&J (5000 in chips) 
+Seat 3: kr1vv (5000 in chips) 
+Seat 4: duki12 (5000 in chips) 
+Seat 5: noroc111 (5000 in chips) 
+Seat 6: pedroh2010 (5000 in chips) 
+Seat 7: marney78 (5000 in chips) 
+Seat 8: Kevin12345Mc (5000 in chips) 
+ThouVou00265: posts the ante 8
+U&A&J: posts the ante 8
+kr1vv: posts the ante 8
+duki12: posts the ante 8
+noroc111: posts the ante 8
+pedroh2010: posts the ante 8
+marney78: posts the ante 8
+Kevin12345Mc: posts the ante 8
+U&A&J: posts small blind 25
+kr1vv: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s Td]
+duki12: folds 
+noroc111: folds 
+pedroh2010: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: raises 50 to 100
+U&A&J: folds 
+kr1vv: calls 50
+*** FLOP *** [8c 9s 6d]
+kr1vv: checks 
+ThouVou00265: bets 145
+kr1vv: raises 382 to 527
+ThouVou00265: calls 382
+*** TURN *** [8c 9s 6d] [Tc]
+kr1vv: bets 672
+ThouVou00265: raises 922 to 1594
+kr1vv: folds 
+Uncalled bet (922) returned to ThouVou00265
+ThouVou00265 collected 2687 from pot
+ThouVou00265: doesn't show hand 
+*** SUMMARY ***
+Total pot 2687 | Rake 0 
+Board [8c 9s 6d Tc]
+Seat 1: ThouVou00265 (button) collected (2687)
+Seat 2: U&A&J (small blind) folded before Flop
+Seat 3: kr1vv (big blind) folded on the Turn
+Seat 4: duki12 folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: pedroh2010 folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986011910: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 15:31:08 WET [2025/02/22 10:31:08 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: ThouVou00265 (6380 in chips) 
+Seat 2: U&A&J (4967 in chips) 
+Seat 3: kr1vv (3693 in chips) 
+Seat 4: duki12 (4992 in chips) 
+Seat 5: noroc111 (4992 in chips) 
+Seat 6: pedroh2010 (4992 in chips) 
+Seat 7: marney78 (4992 in chips) 
+Seat 8: Kevin12345Mc (4992 in chips) 
+ThouVou00265: posts the ante 8
+U&A&J: posts the ante 8
+kr1vv: posts the ante 8
+duki12: posts the ante 8
+noroc111: posts the ante 8
+pedroh2010: posts the ante 8
+marney78: posts the ante 8
+Kevin12345Mc: posts the ante 8
+kr1vv: posts small blind 25
+duki12: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 4d]
+noroc111: folds 
+pedroh2010: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+U&A&J: folds 
+kr1vv: raises 125 to 175
+duki12: calls 125
+*** FLOP *** [Jd 7s 7h]
+kr1vv: bets 137
+duki12: folds 
+Uncalled bet (137) returned to kr1vv
+kr1vv collected 414 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 414 | Rake 0 
+Board [Jd 7s 7h]
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: U&A&J (button) folded before Flop (didn't bet)
+Seat 3: kr1vv (small blind) collected (414)
+Seat 4: duki12 (big blind) folded on the Flop
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: pedroh2010 folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986023078: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 15:31:59 WET [2025/02/22 10:31:59 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: ThouVou00265 (6372 in chips) 
+Seat 2: U&A&J (4959 in chips) 
+Seat 3: kr1vv (3924 in chips) 
+Seat 4: duki12 (4809 in chips) 
+Seat 5: noroc111 (4984 in chips) 
+Seat 6: pedroh2010 (4984 in chips) 
+Seat 7: marney78 (4984 in chips) 
+Seat 8: Kevin12345Mc (4984 in chips) 
+ThouVou00265: posts the ante 8
+U&A&J: posts the ante 8
+kr1vv: posts the ante 8
+duki12: posts the ante 8
+noroc111: posts the ante 8
+pedroh2010: posts the ante 8
+marney78: posts the ante 8
+Kevin12345Mc: posts the ante 8
+duki12: posts small blind 25
+noroc111: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 2s]
+pedroh2010: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+U&A&J: folds 
+kr1vv: raises 50 to 100
+duki12: calls 75
+noroc111: folds 
+*** FLOP *** [4c 7h 5d]
+duki12: bets 314
+kr1vv: calls 314
+*** TURN *** [4c 7h 5d] [8h]
+duki12: checks 
+kr1vv: bets 622
+duki12: folds 
+Uncalled bet (622) returned to kr1vv
+kr1vv collected 942 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 942 | Rake 0 
+Board [4c 7h 5d 8h]
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: U&A&J folded before Flop (didn't bet)
+Seat 3: kr1vv (button) collected (942)
+Seat 4: duki12 (small blind) folded on the Turn
+Seat 5: noroc111 (big blind) folded before Flop
+Seat 6: pedroh2010 folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986036772: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 15:33:01 WET [2025/02/22 10:33:01 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: ThouVou00265 (6364 in chips) 
+Seat 2: U&A&J (4951 in chips) 
+Seat 3: kr1vv (4444 in chips) 
+Seat 4: duki12 (4387 in chips) 
+Seat 5: noroc111 (4926 in chips) 
+Seat 6: pedroh2010 (4976 in chips) 
+Seat 7: marney78 (4976 in chips) 
+Seat 8: Kevin12345Mc (4976 in chips) 
+ThouVou00265: posts the ante 8
+U&A&J: posts the ante 8
+kr1vv: posts the ante 8
+duki12: posts the ante 8
+noroc111: posts the ante 8
+pedroh2010: posts the ante 8
+marney78: posts the ante 8
+Kevin12345Mc: posts the ante 8
+noroc111: posts small blind 25
+pedroh2010: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 4s]
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+U&A&J: folds 
+kr1vv: raises 50 to 100
+duki12: raises 150 to 250
+noroc111: folds 
+pedroh2010: folds 
+kr1vv: folds 
+Uncalled bet (150) returned to duki12
+duki12 collected 339 from pot
+*** SUMMARY ***
+Total pot 339 | Rake 0 
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: U&A&J folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop
+Seat 4: duki12 (button) collected (339)
+Seat 5: noroc111 (small blind) folded before Flop
+Seat 6: pedroh2010 (big blind) folded before Flop
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986044604: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 15:33:36 WET [2025/02/22 10:33:36 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: ThouVou00265 (6356 in chips) 
+Seat 2: U&A&J (4943 in chips) 
+Seat 3: kr1vv (4336 in chips) 
+Seat 4: duki12 (4618 in chips) 
+Seat 5: noroc111 (4893 in chips) 
+Seat 6: pedroh2010 (4918 in chips) 
+Seat 7: marney78 (4968 in chips) 
+Seat 8: Kevin12345Mc (4968 in chips) 
+ThouVou00265: posts the ante 8
+U&A&J: posts the ante 8
+kr1vv: posts the ante 8
+duki12: posts the ante 8
+noroc111: posts the ante 8
+pedroh2010: posts the ante 8
+marney78: posts the ante 8
+Kevin12345Mc: posts the ante 8
+pedroh2010: posts small blind 25
+marney78: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 9h]
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+U&A&J: raises 75 to 125
+kr1vv: folds 
+duki12: raises 175 to 300
+noroc111: folds 
+pedroh2010: folds 
+marney78: folds 
+U&A&J: calls 175
+*** FLOP *** [9d Tc 8h]
+U&A&J: checks 
+duki12: bets 739
+U&A&J: calls 739
+*** TURN *** [9d Tc 8h] [Qc]
+U&A&J: checks 
+duki12: bets 1109
+U&A&J: folds 
+Uncalled bet (1109) returned to duki12
+duki12 collected 2217 from pot
+*** SUMMARY ***
+Total pot 2217 | Rake 0 
+Board [9d Tc 8h Qc]
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: U&A&J folded on the Turn
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: duki12 collected (2217)
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: pedroh2010 (small blind) folded before Flop
+Seat 7: marney78 (big blind) folded before Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986060624: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 15:34:49 WET [2025/02/22 10:34:49 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: ThouVou00265 (6348 in chips) 
+Seat 3: kr1vv (4328 in chips) 
+Seat 4: duki12 (5788 in chips) 
+Seat 5: noroc111 (4885 in chips) 
+Seat 6: pedroh2010 (4885 in chips) 
+Seat 7: marney78 (4910 in chips) 
+Seat 8: Kevin12345Mc (4960 in chips) 
+ThouVou00265: posts the ante 8
+kr1vv: posts the ante 8
+duki12: posts the ante 8
+noroc111: posts the ante 8
+pedroh2010: posts the ante 8
+marney78: posts the ante 8
+Kevin12345Mc: posts the ante 8
+marney78: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d Th]
+ThouVou00265: raises 50 to 100
+kr1vv: folds 
+duki12: raises 150 to 250
+noroc111: folds 
+pedroh2010: folds 
+Ratopolis_jr is disconnected 
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: calls 150
+*** FLOP *** [Jc 9c 2h]
+ThouVou00265: checks 
+duki12: bets 316
+ThouVou00265: calls 316
+*** TURN *** [Jc 9c 2h] [5d]
+ThouVou00265: checks 
+duki12: bets 632
+ThouVou00265: calls 632
+*** RIVER *** [Jc 9c 2h 5d] [6s]
+ThouVou00265: checks 
+duki12: checks 
+*** SHOW DOWN ***
+ThouVou00265: shows [Ac 6c] (a pair of Sixes)
+duki12: mucks hand 
+ThouVou00265 collected 2527 from pot
+*** SUMMARY ***
+Total pot 2527 | Rake 0 
+Board [Jc 9c 2h 5d 6s]
+Seat 1: ThouVou00265 showed [Ac 6c] and won (2527) with a pair of Sixes
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: duki12 mucked [Qs As]
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: pedroh2010 (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) folded before Flop
+Seat 8: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254986076434: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 15:36:00 WET [2025/02/22 10:36:00 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: ThouVou00265 (7669 in chips) 
+Seat 2: Ratopolis_jr (5000 in chips) 
+Seat 3: kr1vv (4320 in chips) 
+Seat 4: duki12 (4582 in chips) 
+Seat 5: noroc111 (4877 in chips) 
+Seat 6: pedroh2010 (4877 in chips) 
+Seat 7: marney78 (4877 in chips) 
+Seat 8: Kevin12345Mc (4902 in chips) 
+ThouVou00265: posts the ante 8
+Ratopolis_jr: posts the ante 8
+kr1vv: posts the ante 8
+duki12: posts the ante 8
+noroc111: posts the ante 8
+pedroh2010: posts the ante 8
+marney78: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Kevin12345Mc: posts small blind 25
+ThouVou00265: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 4c]
+Ratopolis_jr: raises 50 to 100
+kr1vv: folds 
+duki12: folds 
+noroc111: folds 
+pedroh2010: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: calls 50
+*** FLOP *** [2d 6s Ad]
+ThouVou00265: checks 
+Ratopolis_jr: bets 145
+ThouVou00265: calls 145
+*** TURN *** [2d 6s Ad] [Th]
+ThouVou00265: checks 
+Ratopolis_jr: bets 290
+ThouVou00265: folds 
+Uncalled bet (290) returned to Ratopolis_jr
+Ratopolis_jr collected 579 from pot
+Ratopolis_jr: doesn't show hand 
+*** SUMMARY ***
+Total pot 579 | Rake 0 
+Board [2d 6s Ad Th]
+Seat 1: ThouVou00265 (big blind) folded on the Turn
+Seat 2: Ratopolis_jr collected (579)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: duki12 folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: pedroh2010 folded before Flop (didn't bet)
+Seat 7: marney78 (button) folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254986086088: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 15:36:44 WET [2025/02/22 10:36:44 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: ThouVou00265 (7416 in chips) 
+Seat 2: Ratopolis_jr (5326 in chips) 
+Seat 3: kr1vv (4312 in chips) 
+Seat 4: duki12 (4574 in chips) 
+Seat 5: noroc111 (4869 in chips) 
+Seat 6: pedroh2010 (4869 in chips) 
+Seat 7: marney78 (4869 in chips) 
+Seat 8: Kevin12345Mc (4869 in chips) 
+ThouVou00265: posts the ante 8
+Ratopolis_jr: posts the ante 8
+kr1vv: posts the ante 8
+duki12: posts the ante 8
+noroc111: posts the ante 8
+pedroh2010: posts the ante 8
+marney78: posts the ante 8
+Kevin12345Mc: posts the ante 8
+ThouVou00265: posts small blind 25
+Ratopolis_jr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 3c]
+kr1vv: folds 
+duki12: calls 50
+noroc111: folds 
+pedroh2010: raises 225 to 275
+marney78: folds 
+Kevin12345Mc is connected 
+Kevin12345Mc is connected 
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+duki12: calls 225
+*** FLOP *** [3s 2d 4d]
+duki12: checks 
+pedroh2010: bets 245
+duki12: calls 245
+*** TURN *** [3s 2d 4d] [4s]
+duki12: checks 
+pedroh2010: bets 995
+duki12: calls 995
+*** RIVER *** [3s 2d 4d 4s] [6c]
+duki12: checks 
+pedroh2010: checks 
+*** SHOW DOWN ***
+duki12: shows [8d Qd] (a pair of Fours)
+pedroh2010: shows [As Kc] (a pair of Fours - Ace kicker)
+pedroh2010 collected 3169 from pot
+*** SUMMARY ***
+Total pot 3169 | Rake 0 
+Board [3s 2d 4d 4s 6c]
+Seat 1: ThouVou00265 (small blind) folded before Flop
+Seat 2: Ratopolis_jr (big blind) folded before Flop
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: duki12 showed [8d Qd] and lost with a pair of Fours
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: pedroh2010 showed [As Kc] and won (3169) with a pair of Fours
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986097998: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 15:37:38 WET [2025/02/22 10:37:38 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: ThouVou00265 (7383 in chips) 
+Seat 2: Ratopolis_jr (5268 in chips) 
+Seat 3: kr1vv (4304 in chips) 
+Seat 4: duki12 (3051 in chips) 
+Seat 5: noroc111 (4861 in chips) 
+Seat 6: pedroh2010 (6515 in chips) 
+Seat 7: marney78 (4861 in chips) 
+Seat 8: Kevin12345Mc (4861 in chips) 
+ThouVou00265: posts the ante 8
+Ratopolis_jr: posts the ante 8
+kr1vv: posts the ante 8
+duki12: posts the ante 8
+noroc111: posts the ante 8
+pedroh2010: posts the ante 8
+marney78: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Ratopolis_jr: posts small blind 25
+kr1vv: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Qd]
+duki12: calls 50
+noroc111: folds 
+pedroh2010: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: checks 
+*** FLOP *** [4h Ts 2h]
+kr1vv: checks 
+duki12: checks 
+*** TURN *** [4h Ts 2h] [9d]
+kr1vv: bets 95
+duki12: folds 
+Uncalled bet (95) returned to kr1vv
+kr1vv collected 189 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 189 | Rake 0 
+Board [4h Ts 2h 9d]
+Seat 1: ThouVou00265 (button) folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr (small blind) folded before Flop
+Seat 3: kr1vv (big blind) collected (189)
+Seat 4: duki12 folded on the Turn
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: pedroh2010 folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986114111: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 15:38:51 WET [2025/02/22 10:38:51 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: ThouVou00265 (7375 in chips) 
+Seat 2: Ratopolis_jr (5235 in chips) 
+Seat 3: kr1vv (4435 in chips) 
+Seat 4: duki12 (2993 in chips) 
+Seat 5: noroc111 (4853 in chips) 
+Seat 6: pedroh2010 (6507 in chips) 
+Seat 7: marney78 (4853 in chips) 
+Seat 8: Kevin12345Mc (4853 in chips) 
+ThouVou00265: posts the ante 9
+Ratopolis_jr: posts the ante 9
+kr1vv: posts the ante 9
+duki12: posts the ante 9
+noroc111: posts the ante 9
+pedroh2010: posts the ante 9
+marney78: posts the ante 9
+Kevin12345Mc: posts the ante 9
+kr1vv: posts small blind 30
+duki12: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 9c]
+noroc111: folds 
+pedroh2010: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: raises 60 to 120
+kr1vv: folds 
+duki12: folds 
+Uncalled bet (60) returned to Ratopolis_jr
+Ratopolis_jr collected 222 from pot
+Ratopolis_jr: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr (button) collected (222)
+Seat 3: kr1vv (small blind) folded before Flop
+Seat 4: duki12 (big blind) folded before Flop
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: pedroh2010 folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986118578: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 15:39:11 WET [2025/02/22 10:39:11 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: ThouVou00265 (7366 in chips) 
+Seat 2: Ratopolis_jr (5388 in chips) 
+Seat 3: kr1vv (4396 in chips) 
+Seat 4: duki12 (2924 in chips) 
+Seat 5: noroc111 (4844 in chips) 
+Seat 6: pedroh2010 (6498 in chips) 
+Seat 7: marney78 (4844 in chips) 
+Seat 8: Kevin12345Mc (4844 in chips) 
+ThouVou00265: posts the ante 9
+Ratopolis_jr: posts the ante 9
+kr1vv: posts the ante 9
+duki12: posts the ante 9
+noroc111: posts the ante 9
+pedroh2010: posts the ante 9
+marney78: posts the ante 9
+Kevin12345Mc: posts the ante 9
+duki12: posts small blind 30
+noroc111: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Jd]
+pedroh2010: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: raises 60 to 120
+kr1vv: calls 120
+duki12: calls 90
+noroc111: folds 
+*** FLOP *** [Ah 6c 9s]
+duki12: checks 
+Ratopolis_jr: bets 148
+kr1vv: calls 148
+duki12: folds 
+*** TURN *** [Ah 6c 9s] [7c]
+Ratopolis_jr: bets 394
+kr1vv: raises 926 to 1320
+Ratopolis_jr: calls 926
+*** RIVER *** [Ah 6c 9s 7c] [Qd]
+Ratopolis_jr: checks 
+kr1vv: bets 2799 and is all-in
+Ratopolis_jr: folds 
+Uncalled bet (2799) returned to kr1vv
+kr1vv collected 3428 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 3428 | Rake 0 
+Board [Ah 6c 9s 7c Qd]
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded on the River
+Seat 3: kr1vv (button) collected (3428)
+Seat 4: duki12 (small blind) folded on the Flop
+Seat 5: noroc111 (big blind) folded before Flop
+Seat 6: pedroh2010 folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986138534: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 15:40:42 WET [2025/02/22 10:40:42 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: ThouVou00265 (7357 in chips) 
+Seat 2: Ratopolis_jr (3791 in chips) 
+Seat 3: kr1vv (6227 in chips) 
+Seat 4: duki12 (2795 in chips) 
+Seat 5: noroc111 (4775 in chips) 
+Seat 7: marney78 (4835 in chips) 
+Seat 8: Kevin12345Mc (4835 in chips) 
+ThouVou00265: posts the ante 9
+Ratopolis_jr: posts the ante 9
+kr1vv: posts the ante 9
+duki12: posts the ante 9
+noroc111: posts the ante 9
+marney78: posts the ante 9
+Kevin12345Mc: posts the ante 9
+noroc111: posts small blind 30
+marney78: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 9d]
+Kevin12345Mc: folds 
+ThouVou00265: raises 60 to 120
+Ratopolis_jr: folds 
+kr1vv: folds 
+duki12: calls 120
+noroc111: calls 90
+marney78: calls 60
+*** FLOP *** [2c Ts 6d]
+boyimartinez is disconnected 
+noroc111: checks 
+marney78: checks 
+ThouVou00265: bets 272
+duki12: calls 272
+noroc111: folds 
+marney78: calls 272
+*** TURN *** [2c Ts 6d] [4s]
+marney78: checks 
+ThouVou00265: bets 680
+duki12: calls 680
+marney78: folds 
+*** RIVER *** [2c Ts 6d 4s] [Kh]
+ThouVou00265: bets 1860
+duki12: calls 1714 and is all-in
+Uncalled bet (146) returned to ThouVou00265
+*** SHOW DOWN ***
+ThouVou00265: shows [Ad Td] (a pair of Tens)
+duki12: shows [2h 2s] (three of a kind, Deuces)
+duki12 collected 6147 from pot
+*** SUMMARY ***
+Total pot 6147 | Rake 0 
+Board [2c Ts 6d 4s Kh]
+Seat 1: ThouVou00265 showed [Ad Td] and lost with a pair of Tens
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: duki12 (button) showed [2h 2s] and won (6147) with three of a kind, Deuces
+Seat 5: noroc111 (small blind) folded on the Flop
+Seat 7: marney78 (big blind) folded on the Turn
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986152136: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 15:41:43 WET [2025/02/22 10:41:43 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: ThouVou00265 (4562 in chips) 
+Seat 2: Ratopolis_jr (3782 in chips) 
+Seat 3: kr1vv (6218 in chips) 
+Seat 4: duki12 (6147 in chips) 
+Seat 5: noroc111 (4646 in chips) 
+Seat 6: boyimartinez (5000 in chips) out of hand (moved from another table into small blind)
+Seat 7: marney78 (4434 in chips) 
+Seat 8: Kevin12345Mc (4826 in chips) 
+boyimartinez will be allowed to play after the button
+ThouVou00265: posts the ante 9
+Ratopolis_jr: posts the ante 9
+kr1vv: posts the ante 9
+duki12: posts the ante 9
+noroc111: posts the ante 9
+marney78: posts the ante 9
+Kevin12345Mc: posts the ante 9
+marney78: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Js]
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+duki12: calls 60
+noroc111: folds 
+marney78: calls 30
+Kevin12345Mc: checks 
+*** FLOP *** [9h 4h 5h]
+marney78: checks 
+Kevin12345Mc: checks 
+duki12: checks 
+*** TURN *** [9h 4h 5h] [8d]
+marney78: checks 
+Kevin12345Mc: checks 
+duki12: bets 243
+marney78: folds 
+Kevin12345Mc: folds 
+Uncalled bet (243) returned to duki12
+duki12 collected 243 from pot
+*** SUMMARY ***
+Total pot 243 | Rake 0 
+Board [9h 4h 5h 8d]
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: duki12 collected (243)
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) folded on the Turn
+Seat 8: Kevin12345Mc (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254986162108: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 15:42:28 WET [2025/02/22 10:42:28 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: ThouVou00265 (4553 in chips) 
+Seat 2: Ratopolis_jr (3773 in chips) 
+Seat 3: kr1vv (6209 in chips) 
+Seat 4: duki12 (6321 in chips) 
+Seat 5: noroc111 (4637 in chips) 
+Seat 6: boyimartinez (5000 in chips) 
+Seat 7: marney78 (4365 in chips) 
+Seat 8: Kevin12345Mc (4757 in chips) 
+ThouVou00265: posts the ante 9
+Ratopolis_jr: posts the ante 9
+kr1vv: posts the ante 9
+duki12: posts the ante 9
+noroc111: posts the ante 9
+boyimartinez: posts the ante 9
+marney78: posts the ante 9
+Kevin12345Mc: posts the ante 9
+Kevin12345Mc: posts small blind 30
+ThouVou00265: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh Ts]
+Ratopolis_jr: folds 
+kr1vv: folds 
+duki12: calls 60
+noroc111: folds 
+boyimartinez: folds 
+marney78: raises 282 to 342
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+duki12: calls 282
+*** FLOP *** [8c Td 7s]
+duki12: bets 846
+marney78: raises 2538 to 3384
+duki12: raises 2586 to 5970 and is all-in
+marney78: calls 630 and is all-in
+Uncalled bet (1956) returned to duki12
+*** TURN *** [8c Td 7s] [8h]
+*** RIVER *** [8c Td 7s 8h] [4d]
+*** SHOW DOWN ***
+duki12: shows [9d Tc] (two pair, Tens and Eights)
+marney78: shows [Qd Qh] (two pair, Queens and Eights)
+marney78 collected 8874 from pot
+*** SUMMARY ***
+Total pot 8874 | Rake 0 
+Board [8c Td 7s 8h 4d]
+Seat 1: ThouVou00265 (big blind) folded before Flop
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: duki12 showed [9d Tc] and lost with two pair, Tens and Eights
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) showed [Qd Qh] and won (8874) with two pair, Queens and Eights
+Seat 8: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254986172967: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 15:43:17 WET [2025/02/22 10:43:17 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: ThouVou00265 (4484 in chips) 
+Seat 2: Ratopolis_jr (3764 in chips) 
+Seat 3: kr1vv (6200 in chips) 
+Seat 4: duki12 (1956 in chips) 
+Seat 5: noroc111 (4628 in chips) 
+Seat 6: boyimartinez (4991 in chips) 
+Seat 7: marney78 (8874 in chips) 
+Seat 8: Kevin12345Mc (4718 in chips) 
+ThouVou00265: posts the ante 9
+Ratopolis_jr: posts the ante 9
+kr1vv: posts the ante 9
+duki12: posts the ante 9
+noroc111: posts the ante 9
+boyimartinez: posts the ante 9
+marney78: posts the ante 9
+Kevin12345Mc: posts the ante 9
+ThouVou00265: posts small blind 30
+Ratopolis_jr: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Qs]
+kr1vv: folds 
+duki12: folds 
+noroc111: calls 60
+boyimartinez: folds 
+marney78: raises 282 to 342
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: calls 282
+noroc111: calls 282
+*** FLOP *** [9c 9s Ts]
+Ratopolis_jr: checks 
+noroc111: bets 60
+marney78: raises 1248 to 1308
+Ratopolis_jr: folds 
+noroc111: folds 
+Uncalled bet (1248) returned to marney78
+marney78 collected 1248 from pot
+*** SUMMARY ***
+Total pot 1248 | Rake 0 
+Board [9c 9s Ts]
+Seat 1: ThouVou00265 (small blind) folded before Flop
+Seat 2: Ratopolis_jr (big blind) folded on the Flop
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: duki12 folded before Flop (didn't bet)
+Seat 5: noroc111 folded on the Flop
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 collected (1248)
+Seat 8: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986185297: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 15:44:13 WET [2025/02/22 10:44:13 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: ThouVou00265 (4445 in chips) 
+Seat 2: Ratopolis_jr (3413 in chips) 
+Seat 3: kr1vv (6191 in chips) 
+Seat 4: duki12 (1947 in chips) 
+Seat 5: noroc111 (4217 in chips) 
+Seat 6: boyimartinez (4982 in chips) 
+Seat 7: marney78 (9711 in chips) 
+Seat 8: Kevin12345Mc (4709 in chips) 
+ThouVou00265: posts the ante 9
+Ratopolis_jr: posts the ante 9
+kr1vv: posts the ante 9
+duki12: posts the ante 9
+noroc111: posts the ante 9
+boyimartinez: posts the ante 9
+marney78: posts the ante 9
+Kevin12345Mc: posts the ante 9
+Ratopolis_jr: posts small blind 30
+kr1vv: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Kc]
+duki12: calls 60
+noroc111: folds 
+boyimartinez: raises 90 to 150
+marney78: calls 150
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+duki12: calls 90
+*** FLOP *** [4h Qs 3d]
+duki12: checks 
+boyimartinez: checks 
+marney78: bets 612
+duki12: raises 1176 to 1788 and is all-in
+boyimartinez: folds 
+marney78: calls 1176
+*** TURN *** [4h Qs 3d] [3h]
+*** RIVER *** [4h Qs 3d 3h] [Jh]
+*** SHOW DOWN ***
+duki12: shows [4s 9s] (two pair, Fours and Threes)
+marney78: shows [Ad Qh] (two pair, Queens and Threes)
+marney78 collected 4188 from pot
+duki12 finished the tournament
+*** SUMMARY ***
+Total pot 4188 | Rake 0 
+Board [4h Qs 3d 3h Jh]
+Seat 1: ThouVou00265 (button) folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr (small blind) folded before Flop
+Seat 3: kr1vv (big blind) folded before Flop
+Seat 4: duki12 showed [4s 9s] and lost with two pair, Fours and Threes
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded on the Flop
+Seat 7: marney78 showed [Ad Qh] and won (4188) with two pair, Queens and Threes
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986195370: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 15:44:59 WET [2025/02/22 10:44:59 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: ThouVou00265 (4436 in chips) 
+Seat 2: Ratopolis_jr (3374 in chips) 
+Seat 3: kr1vv (6122 in chips) 
+Seat 5: noroc111 (4208 in chips) 
+Seat 6: boyimartinez (4823 in chips) 
+Seat 7: marney78 (11952 in chips) 
+Seat 8: Kevin12345Mc (4700 in chips) 
+ThouVou00265: posts the ante 9
+Ratopolis_jr: posts the ante 9
+kr1vv: posts the ante 9
+noroc111: posts the ante 9
+boyimartinez: posts the ante 9
+marney78: posts the ante 9
+Kevin12345Mc: posts the ante 9
+kr1vv: posts small blind 30
+noroc111: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Qh]
+boyimartinez: folds 
+anusila is disconnected 
+marney78: calls 60
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+noroc111: checks 
+*** FLOP *** [9d 5h 8d]
+noroc111: checks 
+marney78: checks 
+*** TURN *** [9d 5h 8d] [7c]
+noroc111: checks 
+marney78: bets 60
+noroc111: folds 
+Uncalled bet (60) returned to marney78
+marney78 collected 213 from pot
+*** SUMMARY ***
+Total pot 213 | Rake 0 
+Board [9d 5h 8d 7c]
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr (button) folded before Flop (didn't bet)
+Seat 3: kr1vv (small blind) folded before Flop
+Seat 5: noroc111 (big blind) folded on the Turn
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 collected (213)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986202899: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 15:45:33 WET [2025/02/22 10:45:33 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: ThouVou00265 (4427 in chips) 
+Seat 2: Ratopolis_jr (3365 in chips) 
+Seat 3: kr1vv (6083 in chips) 
+Seat 4: anusila (5000 in chips) out of hand (moved from another table into small blind)
+Seat 5: noroc111 (4139 in chips) 
+Seat 6: boyimartinez (4814 in chips) 
+Seat 7: marney78 (12096 in chips) 
+Seat 8: Kevin12345Mc (4691 in chips) 
+anusila will be allowed to play after the button
+ThouVou00265: posts the ante 9
+Ratopolis_jr: posts the ante 9
+kr1vv: posts the ante 9
+noroc111: posts the ante 9
+boyimartinez: posts the ante 9
+marney78: posts the ante 9
+Kevin12345Mc: posts the ante 9
+noroc111: posts small blind 30
+boyimartinez: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 7d]
+marney78: calls 60
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: raises 150 to 210
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Uncalled bet (150) returned to kr1vv
+kr1vv collected 273 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 273 | Rake 0 
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv (button) collected (273)
+Seat 5: noroc111 (small blind) folded before Flop
+Seat 6: boyimartinez (big blind) folded before Flop
+Seat 7: marney78 folded before Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986207990: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 15:45:56 WET [2025/02/22 10:45:56 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: ThouVou00265 (4418 in chips) 
+Seat 2: Ratopolis_jr (3356 in chips) 
+Seat 3: kr1vv (6287 in chips) 
+Seat 4: anusila (5000 in chips) 
+Seat 5: noroc111 (4100 in chips) 
+Seat 6: boyimartinez (4745 in chips) 
+Seat 7: marney78 (12027 in chips) 
+Seat 8: Kevin12345Mc (4682 in chips) 
+ThouVou00265: posts the ante 11
+Ratopolis_jr: posts the ante 11
+kr1vv: posts the ante 11
+anusila: posts the ante 11
+noroc111: posts the ante 11
+boyimartinez: posts the ante 11
+marney78: posts the ante 11
+Kevin12345Mc: posts the ante 11
+boyimartinez: posts small blind 35
+marney78: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Ac]
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+anusila: raises 70 to 140
+noroc111: folds 
+boyimartinez: calls 105
+marney78: calls 70
+*** FLOP *** [Kh 3h 5c]
+boyimartinez: checks 
+marney78: checks 
+anusila: bets 254
+boyimartinez: calls 254
+marney78: calls 254
+*** TURN *** [Kh 3h 5c] [Td]
+boyimartinez: checks 
+marney78: checks 
+anusila: bets 635
+boyimartinez: raises 838 to 1473
+marney78: folds 
+anusila: calls 838
+*** RIVER *** [Kh 3h 5c Td] [6h]
+boyimartinez: bets 2867 and is all-in
+anusila: calls 2867
+*** SHOW DOWN ***
+boyimartinez: shows [3d 3c] (three of a kind, Threes)
+anusila: shows [7c Kd] (a pair of Kings)
+boyimartinez collected 9950 from pot
+*** SUMMARY ***
+Total pot 9950 | Rake 0 
+Board [Kh 3h 5c Td 6h]
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: anusila showed [7c Kd] and lost with a pair of Kings
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) showed [3d 3c] and won (9950) with three of a kind, Threes
+Seat 7: marney78 (big blind) folded on the Turn
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986233962: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 15:47:52 WET [2025/02/22 10:47:52 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: ThouVou00265 (4407 in chips) 
+Seat 2: Ratopolis_jr (3345 in chips) 
+Seat 3: kr1vv (6276 in chips) 
+Seat 4: anusila (255 in chips) 
+Seat 5: noroc111 (4089 in chips) 
+Seat 6: boyimartinez (9950 in chips) 
+Seat 7: marney78 (11622 in chips) 
+Seat 8: Kevin12345Mc (4671 in chips) 
+ThouVou00265: posts the ante 11
+Ratopolis_jr: posts the ante 11
+kr1vv: posts the ante 11
+anusila: posts the ante 11
+noroc111: posts the ante 11
+boyimartinez: posts the ante 11
+marney78: posts the ante 11
+Kevin12345Mc: posts the ante 11
+marney78: posts small blind 35
+Kevin12345Mc: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 4s]
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+anusila: raises 174 to 244 and is all-in
+noroc111: folds 
+boyimartinez: folds 
+marney78: calls 209
+Kevin12345Mc: folds 
+*** FLOP *** [7c Jh Ts]
+*** TURN *** [7c Jh Ts] [8d]
+*** RIVER *** [7c Jh Ts 8d] [4c]
+*** SHOW DOWN ***
+marney78: shows [Tc Ac] (a pair of Tens)
+anusila: shows [Ad 8s] (a pair of Eights)
+marney78 collected 646 from pot
+anusila finished the tournament
+*** SUMMARY ***
+Total pot 646 | Rake 0 
+Board [7c Jh Ts 8d 4c]
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: anusila showed [Ad 8s] and lost with a pair of Eights
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) showed [Tc Ac] and won (646) with a pair of Tens
+Seat 8: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254986240058: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 15:48:19 WET [2025/02/22 10:48:19 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: ThouVou00265 (4396 in chips) 
+Seat 2: Ratopolis_jr (3334 in chips) 
+Seat 3: kr1vv (6265 in chips) 
+Seat 5: noroc111 (4078 in chips) 
+Seat 6: boyimartinez (9939 in chips) 
+Seat 7: marney78 (12013 in chips) 
+Seat 8: Kevin12345Mc (4590 in chips) 
+ThouVou00265: posts the ante 11
+Ratopolis_jr: posts the ante 11
+kr1vv: posts the ante 11
+noroc111: posts the ante 11
+boyimartinez: posts the ante 11
+marney78: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Kevin12345Mc: posts small blind 35
+ThouVou00265: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 4d]
+me win me is disconnected 
+Ratopolis_jr: folds 
+kr1vv: raises 105 to 175
+noroc111: calls 175
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: calls 105
+*** FLOP *** [7c 7d Kc]
+ThouVou00265: checks 
+kr1vv: bets 319
+noroc111: folds 
+ThouVou00265: folds 
+Uncalled bet (319) returned to kr1vv
+kr1vv collected 637 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 637 | Rake 0 
+Board [7c 7d Kc]
+Seat 1: ThouVou00265 (big blind) folded on the Flop
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv collected (637)
+Seat 5: noroc111 folded on the Flop
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254986248541: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 15:48:57 WET [2025/02/22 10:48:57 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: ThouVou00265 (4210 in chips) 
+Seat 2: Ratopolis_jr (3323 in chips) 
+Seat 3: kr1vv (6716 in chips) 
+Seat 4: me win me (5000 in chips) 
+Seat 5: noroc111 (3892 in chips) 
+Seat 6: boyimartinez (9928 in chips) 
+Seat 7: marney78 (12002 in chips) 
+Seat 8: Kevin12345Mc (4544 in chips) 
+ThouVou00265: posts the ante 11
+Ratopolis_jr: posts the ante 11
+kr1vv: posts the ante 11
+me win me: posts the ante 11
+noroc111: posts the ante 11
+boyimartinez: posts the ante 11
+marney78: posts the ante 11
+Kevin12345Mc: posts the ante 11
+ThouVou00265: posts small blind 35
+Ratopolis_jr: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Ad]
+kr1vv: raises 70 to 140
+me win me: folds 
+noroc111: folds 
+boyimartinez: raises 280 to 420
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: calls 280
+*** FLOP *** [Ah 9s Qh]
+kr1vv: checks 
+boyimartinez: bets 412
+kr1vv: folds 
+Uncalled bet (412) returned to boyimartinez
+boyimartinez collected 1033 from pot
+boyimartinez: doesn't show hand 
+*** SUMMARY ***
+Total pot 1033 | Rake 0 
+Board [Ah 9s Qh]
+Seat 1: ThouVou00265 (small blind) folded before Flop
+Seat 2: Ratopolis_jr (big blind) folded before Flop
+Seat 3: kr1vv folded on the Flop
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez collected (1033)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986257224: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 15:49:36 WET [2025/02/22 10:49:36 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: ThouVou00265 (4164 in chips) 
+Seat 2: Ratopolis_jr (3242 in chips) 
+Seat 3: kr1vv (6285 in chips) 
+Seat 4: me win me (4989 in chips) 
+Seat 5: noroc111 (3881 in chips) 
+Seat 6: boyimartinez (10530 in chips) 
+Seat 7: marney78 (11991 in chips) 
+Seat 8: Kevin12345Mc (4533 in chips) 
+ThouVou00265: posts the ante 11
+Ratopolis_jr: posts the ante 11
+kr1vv: posts the ante 11
+me win me: posts the ante 11
+noroc111: posts the ante 11
+boyimartinez: posts the ante 11
+marney78: posts the ante 11
+Kevin12345Mc: posts the ante 11
+Ratopolis_jr: posts small blind 35
+kr1vv: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 7c]
+me win me: raises 70 to 140
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: calls 70
+*** FLOP *** [3h 6c Kh]
+kr1vv: checks 
+me win me: bets 202
+kr1vv: folds 
+Uncalled bet (202) returned to me win me
+me win me collected 403 from pot
+me win me: doesn't show hand 
+*** SUMMARY ***
+Total pot 403 | Rake 0 
+Board [3h 6c Kh]
+Seat 1: ThouVou00265 (button) folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr (small blind) folded before Flop
+Seat 3: kr1vv (big blind) folded on the Flop
+Seat 4: me win me collected (403)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986271417: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 15:50:40 WET [2025/02/22 10:50:40 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: ThouVou00265 (4153 in chips) 
+Seat 2: Ratopolis_jr (3196 in chips) 
+Seat 3: kr1vv (6134 in chips) 
+Seat 4: me win me (5241 in chips) 
+Seat 5: noroc111 (3870 in chips) 
+Seat 6: boyimartinez (10519 in chips) 
+Seat 7: marney78 (11980 in chips) 
+Seat 8: Kevin12345Mc (4522 in chips) 
+ThouVou00265: posts the ante 11
+Ratopolis_jr: posts the ante 11
+kr1vv: posts the ante 11
+me win me: posts the ante 11
+noroc111: posts the ante 11
+boyimartinez: posts the ante 11
+marney78: posts the ante 11
+Kevin12345Mc: posts the ante 11
+kr1vv: posts small blind 35
+me win me: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 4s]
+noroc111: calls 70
+boyimartinez: folds 
+marney78: calls 70
+Kevin12345Mc: folds 
+ThouVou00265: raises 403 to 473
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: folds 
+noroc111: folds 
+marney78: calls 403
+*** FLOP *** [7d 3h Jh]
+marney78: checks 
+ThouVou00265: bets 535
+marney78: folds 
+Uncalled bet (535) returned to ThouVou00265
+ThouVou00265 collected 1209 from pot
+ThouVou00265: doesn't show hand 
+*** SUMMARY ***
+Total pot 1209 | Rake 0 
+Board [7d 3h Jh]
+Seat 1: ThouVou00265 collected (1209)
+Seat 2: Ratopolis_jr (button) folded before Flop (didn't bet)
+Seat 3: kr1vv (small blind) folded before Flop
+Seat 4: me win me (big blind) folded before Flop
+Seat 5: noroc111 folded before Flop
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded on the Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986285732: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 15:51:44 WET [2025/02/22 10:51:44 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: ThouVou00265 (4878 in chips) 
+Seat 2: Ratopolis_jr (3185 in chips) 
+Seat 3: kr1vv (6088 in chips) 
+Seat 4: me win me (5160 in chips) 
+Seat 5: noroc111 (3789 in chips) 
+Seat 6: boyimartinez (10508 in chips) 
+Seat 7: marney78 (11496 in chips) 
+Seat 8: Kevin12345Mc (4511 in chips) 
+ThouVou00265: posts the ante 11
+Ratopolis_jr: posts the ante 11
+kr1vv: posts the ante 11
+me win me: posts the ante 11
+noroc111: posts the ante 11
+boyimartinez: posts the ante 11
+marney78: posts the ante 11
+Kevin12345Mc: posts the ante 11
+me win me: posts small blind 35
+noroc111: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 5h]
+boyimartinez: raises 70 to 140
+marney78: calls 140
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: folds 
+noroc111: calls 70
+*** FLOP *** [2h 7h 8h]
+noroc111: checks 
+boyimartinez: checks 
+marney78: checks 
+*** TURN *** [2h 7h 8h] [5d]
+noroc111: checks 
+boyimartinez: checks 
+marney78: checks 
+*** RIVER *** [2h 7h 8h 5d] [Th]
+noroc111: checks 
+boyimartinez: checks 
+marney78: checks 
+*** SHOW DOWN ***
+noroc111: shows [Qd 4d] (high card Queen)
+boyimartinez: shows [6s Ac] (high card Ace)
+marney78: shows [Ks Ad] (high card Ace - King kicker)
+marney78 collected 543 from pot
+*** SUMMARY ***
+Total pot 543 | Rake 0 
+Board [2h 7h 8h 5d Th]
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv (button) folded before Flop (didn't bet)
+Seat 4: me win me (small blind) folded before Flop
+Seat 5: noroc111 (big blind) showed [Qd 4d] and lost with high card Queen
+Seat 6: boyimartinez showed [6s Ac] and lost with high card Ace
+Seat 7: marney78 showed [Ks Ad] and won (543) with high card Ace
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986306598: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 15:53:16 WET [2025/02/22 10:53:16 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: ThouVou00265 (4867 in chips) 
+Seat 2: Ratopolis_jr (3174 in chips) 
+Seat 3: kr1vv (6077 in chips) 
+Seat 4: me win me (5114 in chips) 
+Seat 5: noroc111 (3638 in chips) 
+Seat 6: boyimartinez (10357 in chips) 
+Seat 7: marney78 (11888 in chips) 
+Seat 8: Kevin12345Mc (4500 in chips) 
+ThouVou00265: posts the ante 11
+Ratopolis_jr: posts the ante 11
+kr1vv: posts the ante 11
+me win me: posts the ante 11
+noroc111: posts the ante 11
+boyimartinez: posts the ante 11
+marney78: posts the ante 11
+Kevin12345Mc: posts the ante 11
+noroc111: posts small blind 35
+boyimartinez: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Jc]
+marney78: folds 
+Kevin12345Mc: folds 
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: raises 70 to 140
+noroc111: folds 
+boyimartinez: calls 70
+*** FLOP *** [3h 5d 4c]
+boyimartinez: bets 202
+me win me: calls 202
+*** TURN *** [3h 5d 4c] [8c]
+boyimartinez: bets 535
+me win me: calls 535
+*** RIVER *** [3h 5d 4c 8c] [Kd]
+boyimartinez: bets 619
+me win me: calls 619
+*** SHOW DOWN ***
+boyimartinez: shows [6h 8h] (a pair of Eights)
+me win me: mucks hand 
+boyimartinez collected 3115 from pot
+*** SUMMARY ***
+Total pot 3115 | Rake 0 
+Board [3h 5d 4c 8c Kd]
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me (button) mucked [7c 7d]
+Seat 5: noroc111 (small blind) folded before Flop
+Seat 6: boyimartinez (big blind) showed [6h 8h] and won (3115) with a pair of Eights
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986321427: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 15:54:23 WET [2025/02/22 10:54:23 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: ThouVou00265 (4856 in chips) 
+Seat 2: Ratopolis_jr (3163 in chips) 
+Seat 3: kr1vv (6066 in chips) 
+Seat 4: me win me (3607 in chips) 
+Seat 5: noroc111 (3592 in chips) 
+Seat 6: boyimartinez (11965 in chips) 
+Seat 7: marney78 (11877 in chips) 
+Seat 8: Kevin12345Mc (4489 in chips) 
+ThouVou00265: posts the ante 12
+Ratopolis_jr: posts the ante 12
+kr1vv: posts the ante 12
+me win me: posts the ante 12
+noroc111: posts the ante 12
+boyimartinez: posts the ante 12
+marney78: posts the ante 12
+Kevin12345Mc: posts the ante 12
+boyimartinez: posts small blind 40
+marney78: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 7d]
+Kevin12345Mc: folds 
+ThouVou00265: raises 80 to 160
+Ratopolis_jr: folds 
+kr1vv: raises 480 to 640
+me win me: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+ThouVou00265: folds 
+Uncalled bet (480) returned to kr1vv
+kr1vv collected 536 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 536 | Rake 0 
+Seat 1: ThouVou00265 folded before Flop
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv collected (536)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) folded before Flop
+Seat 7: marney78 (big blind) folded before Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986328666: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 15:54:56 WET [2025/02/22 10:54:56 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: ThouVou00265 (4684 in chips) 
+Seat 2: Ratopolis_jr (3151 in chips) 
+Seat 3: kr1vv (6430 in chips) 
+Seat 4: me win me (3595 in chips) 
+Seat 5: noroc111 (3580 in chips) 
+Seat 6: boyimartinez (11913 in chips) 
+Seat 7: marney78 (11785 in chips) 
+Seat 8: Kevin12345Mc (4477 in chips) 
+ThouVou00265: posts the ante 12
+Ratopolis_jr: posts the ante 12
+kr1vv: posts the ante 12
+me win me: posts the ante 12
+noroc111: posts the ante 12
+boyimartinez: posts the ante 12
+marney78: posts the ante 12
+Kevin12345Mc: posts the ante 12
+marney78: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 2c]
+ThouVou00265: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: folds 
+noroc111: calls 80
+boyimartinez: raises 160 to 240
+marney78: calls 200
+Kevin12345Mc: folds 
+noroc111: calls 160
+*** FLOP *** [9c Jc 7h]
+marney78: checks 
+noroc111: checks 
+boyimartinez: bets 448
+marney78: folds 
+noroc111: calls 448
+*** TURN *** [9c Jc 7h] [Jh]
+noroc111: checks 
+boyimartinez: checks 
+*** RIVER *** [9c Jc 7h Jh] [4d]
+noroc111: bets 2880 and is all-in
+boyimartinez: calls 2880
+me win me is sitting out
+*** SHOW DOWN ***
+noroc111: shows [8s Td] (a straight, Seven to Jack)
+boyimartinez: shows [As Ah] (two pair, Aces and Jacks)
+noroc111 collected 7552 from pot
+*** SUMMARY ***
+Total pot 7552 | Rake 0 
+Board [9c Jc 7h Jh 4d]
+Seat 1: ThouVou00265 folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 showed [8s Td] and won (7552) with a straight, Seven to Jack
+Seat 6: boyimartinez (button) showed [As Ah] and lost with two pair, Aces and Jacks
+Seat 7: marney78 (small blind) folded on the Flop
+Seat 8: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254986402106: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 16:01:56 WET [2025/02/22 11:01:56 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: Vikgork (5000 in chips) 
+Seat 2: Ratopolis_jr (3139 in chips) 
+Seat 3: kr1vv (6418 in chips) 
+Seat 4: me win me (3583 in chips) 
+Seat 5: noroc111 (7552 in chips) 
+Seat 6: boyimartinez (8333 in chips) 
+Seat 7: marney78 (11533 in chips) 
+Seat 8: Kevin12345Mc (4385 in chips) 
+Vikgork: posts the ante 12
+Ratopolis_jr: posts the ante 12
+kr1vv: posts the ante 12
+me win me: posts the ante 12
+noroc111: posts the ante 12
+boyimartinez: posts the ante 12
+marney78: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Kevin12345Mc: posts small blind 40
+Vikgork: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 9s]
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: folds 
+noroc111: raises 296 to 376
+boyimartinez: folds 
+marney78: calls 376
+Kevin12345Mc is connected 
+Kevin12345Mc is connected 
+Kevin12345Mc: folds 
+Vikgork: folds 
+*** FLOP *** [2c 4s 5d]
+noroc111: checks 
+marney78: checks 
+*** TURN *** [2c 4s 5d] [7s]
+noroc111: checks 
+marney78: checks 
+*** RIVER *** [2c 4s 5d 7s] [Js]
+noroc111: checks 
+marney78: checks 
+*** SHOW DOWN ***
+noroc111: shows [Ad Qh] (high card Ace)
+marney78: mucks hand 
+noroc111 collected 968 from pot
+*** SUMMARY ***
+Total pot 968 | Rake 0 
+Board [2c 4s 5d 7s Js]
+Seat 1: Vikgork (big blind) folded before Flop
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 showed [Ad Qh] and won (968) with high card Ace
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) mucked [Kc Qs]
+Seat 8: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254986414573: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 16:02:54 WET [2025/02/22 11:02:54 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: Vikgork (4908 in chips) 
+Seat 2: Ratopolis_jr (3127 in chips) 
+Seat 3: kr1vv (6406 in chips) 
+Seat 4: me win me (3571 in chips) 
+Seat 5: noroc111 (8132 in chips) 
+Seat 6: boyimartinez (8321 in chips) 
+Seat 7: marney78 (11145 in chips) 
+Seat 8: Kevin12345Mc (4333 in chips) 
+Vikgork: posts the ante 12
+Ratopolis_jr: posts the ante 12
+kr1vv: posts the ante 12
+me win me: posts the ante 12
+noroc111: posts the ante 12
+boyimartinez: posts the ante 12
+marney78: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Vikgork: posts small blind 40
+Ratopolis_jr: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd Td]
+kr1vv: folds 
+me win me: folds 
+noroc111: folds 
+boyimartinez: raises 80 to 160
+marney78: folds 
+Kevin12345Mc: raises 400 to 560
+Vikgork: folds 
+Ratopolis_jr: raises 2555 to 3115 and is all-in
+boyimartinez: folds 
+Kevin12345Mc: folds 
+Uncalled bet (2555) returned to Ratopolis_jr
+Ratopolis_jr collected 1416 from pot
+Ratopolis_jr: doesn't show hand 
+*** SUMMARY ***
+Total pot 1416 | Rake 0 
+Seat 1: Vikgork (small blind) folded before Flop
+Seat 2: Ratopolis_jr (big blind) collected (1416)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (button) folded before Flop
+
+
+
+PokerStars Hand #254986422480: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 16:03:29 WET [2025/02/22 11:03:29 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: Vikgork (4856 in chips) 
+Seat 2: Ratopolis_jr (3971 in chips) 
+Seat 3: kr1vv (6394 in chips) 
+Seat 4: me win me (3559 in chips) 
+Seat 5: noroc111 (8120 in chips) 
+Seat 6: boyimartinez (8149 in chips) 
+Seat 7: marney78 (11133 in chips) 
+Seat 8: Kevin12345Mc (3761 in chips) 
+Vikgork: posts the ante 12
+Ratopolis_jr: posts the ante 12
+kr1vv: posts the ante 12
+me win me: posts the ante 12
+noroc111: posts the ante 12
+boyimartinez: posts the ante 12
+marney78: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Ratopolis_jr: posts small blind 40
+kr1vv: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 2h]
+me win me: calls 80
+noroc111: raises 8028 to 8108 and is all-in
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: folds 
+Uncalled bet (8028) returned to noroc111
+noroc111 collected 376 from pot
+noroc111: doesn't show hand 
+*** SUMMARY ***
+Total pot 376 | Rake 0 
+Seat 1: Vikgork (button) folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr (small blind) folded before Flop
+Seat 3: kr1vv (big blind) folded before Flop
+Seat 4: me win me folded before Flop
+Seat 5: noroc111 collected (376)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986430966: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 16:04:08 WET [2025/02/22 11:04:08 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: Vikgork (4844 in chips) 
+Seat 2: Ratopolis_jr (3919 in chips) 
+Seat 3: kr1vv (6302 in chips) 
+Seat 4: me win me (3467 in chips) 
+Seat 5: noroc111 (8404 in chips) 
+Seat 6: boyimartinez (8137 in chips) 
+Seat 7: marney78 (11121 in chips) 
+Seat 8: Kevin12345Mc (3749 in chips) 
+Vikgork: posts the ante 12
+Ratopolis_jr: posts the ante 12
+kr1vv: posts the ante 12
+me win me: posts the ante 12
+noroc111: posts the ante 12
+boyimartinez: posts the ante 12
+marney78: posts the ante 12
+Kevin12345Mc: posts the ante 12
+kr1vv: posts small blind 40
+me win me: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 3d]
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 80 to 160
+Ratopolis_jr: raises 320 to 480
+kr1vv: folds 
+me win me: folds 
+Vikgork: folds 
+Uncalled bet (320) returned to Ratopolis_jr
+Ratopolis_jr collected 536 from pot
+Ratopolis_jr: doesn't show hand 
+*** SUMMARY ***
+Total pot 536 | Rake 0 
+Seat 1: Vikgork folded before Flop
+Seat 2: Ratopolis_jr (button) collected (536)
+Seat 3: kr1vv (small blind) folded before Flop
+Seat 4: me win me (big blind) folded before Flop
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986442012: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 16:04:56 WET [2025/02/22 11:04:56 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: Vikgork (4672 in chips) 
+Seat 2: Ratopolis_jr (4283 in chips) 
+Seat 3: kr1vv (6250 in chips) 
+Seat 4: me win me (3375 in chips) 
+Seat 5: noroc111 (8392 in chips) 
+Seat 6: boyimartinez (8125 in chips) 
+Seat 7: marney78 (11109 in chips) 
+Seat 8: Kevin12345Mc (3737 in chips) 
+Vikgork: posts the ante 12
+Ratopolis_jr: posts the ante 12
+kr1vv: posts the ante 12
+me win me: posts the ante 12
+noroc111: posts the ante 12
+boyimartinez: posts the ante 12
+marney78: posts the ante 12
+Kevin12345Mc: posts the ante 12
+me win me: posts small blind 40
+noroc111: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Qh]
+boyimartinez: calls 80
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+Ratopolis_jr: raises 240 to 320
+kr1vv: raises 640 to 960
+me win me: folds 
+noroc111: folds 
+boyimartinez: folds 
+Ratopolis_jr: folds 
+Uncalled bet (640) returned to kr1vv
+kr1vv collected 936 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 936 | Rake 0 
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop
+Seat 3: kr1vv (button) collected (936)
+Seat 4: me win me (small blind) folded before Flop
+Seat 5: noroc111 (big blind) folded before Flop
+Seat 6: boyimartinez folded before Flop
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986457596: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 16:06:04 WET [2025/02/22 11:06:04 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: Vikgork (4660 in chips) 
+Seat 2: Ratopolis_jr (3951 in chips) 
+Seat 3: kr1vv (6854 in chips) 
+Seat 4: me win me (3323 in chips) 
+Seat 5: noroc111 (8300 in chips) 
+Seat 6: boyimartinez (8033 in chips) 
+Seat 7: marney78 (11097 in chips) 
+Seat 8: Kevin12345Mc (3725 in chips) 
+Vikgork: posts the ante 12
+Ratopolis_jr: posts the ante 12
+kr1vv: posts the ante 12
+me win me: posts the ante 12
+noroc111: posts the ante 12
+boyimartinez: posts the ante 12
+marney78: posts the ante 12
+Kevin12345Mc: posts the ante 12
+noroc111: posts small blind 40
+boyimartinez: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 3c]
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 80 to 160
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: calls 160
+noroc111: folds 
+boyimartinez has timed out
+boyimartinez: folds 
+boyimartinez is sitting out
+*** FLOP *** [Kh 2c 4h]
+boyimartinez has returned
+Vikgork: bets 134
+me win me: folds 
+Uncalled bet (134) returned to Vikgork
+Vikgork collected 536 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 536 | Rake 0 
+Board [Kh 2c 4h]
+Seat 1: Vikgork collected (536)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me (button) folded on the Flop
+Seat 5: noroc111 (small blind) folded before Flop
+Seat 6: boyimartinez (big blind) folded before Flop
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986470297: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 16:07:01 WET [2025/02/22 11:07:01 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: Vikgork (5024 in chips) 
+Seat 2: Ratopolis_jr (3939 in chips) 
+Seat 3: kr1vv (6842 in chips) 
+Seat 4: me win me (3151 in chips) 
+Seat 5: noroc111 (8248 in chips) 
+Seat 6: boyimartinez (7941 in chips) 
+Seat 7: marney78 (11085 in chips) 
+Seat 8: Kevin12345Mc (3713 in chips) 
+Vikgork: posts the ante 12
+Ratopolis_jr: posts the ante 12
+kr1vv: posts the ante 12
+me win me: posts the ante 12
+noroc111: posts the ante 12
+boyimartinez: posts the ante 12
+marney78: posts the ante 12
+Kevin12345Mc: posts the ante 12
+boyimartinez: posts small blind 40
+marney78: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 5c]
+Kevin12345Mc: folds 
+Vikgork: folds 
+Ratopolis_jr: folds 
+kr1vv: raises 80 to 160
+me win me: calls 160
+noroc111: folds 
+boyimartinez: calls 120
+marney78: calls 80
+*** FLOP *** [6c 6h 2h]
+boyimartinez: checks 
+marney78: checks 
+kr1vv: checks 
+me win me: bets 368
+boyimartinez: folds 
+marney78: folds 
+kr1vv: folds 
+Uncalled bet (368) returned to me win me
+me win me collected 736 from pot
+me win me: doesn't show hand 
+*** SUMMARY ***
+Total pot 736 | Rake 0 
+Board [6c 6h 2h]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded on the Flop
+Seat 4: me win me collected (736)
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) folded on the Flop
+Seat 7: marney78 (big blind) folded on the Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986486983: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 16:08:14 WET [2025/02/22 11:08:14 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: Vikgork (5012 in chips) 
+Seat 2: Ratopolis_jr (3927 in chips) 
+Seat 3: kr1vv (6670 in chips) 
+Seat 4: me win me (3715 in chips) 
+Seat 5: noroc111 (8236 in chips) 
+Seat 6: boyimartinez (7769 in chips) 
+Seat 7: marney78 (10913 in chips) 
+Seat 8: Kevin12345Mc (3701 in chips) 
+Vikgork: posts the ante 12
+Ratopolis_jr: posts the ante 12
+kr1vv: posts the ante 12
+me win me: posts the ante 12
+noroc111: posts the ante 12
+boyimartinez: posts the ante 12
+marney78: posts the ante 12
+Kevin12345Mc: posts the ante 12
+marney78: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad Tc]
+Vikgork: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: raises 80 to 160
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: calls 80
+*** FLOP *** [9h Jc 6h]
+Kevin12345Mc: checks 
+me win me: checks 
+*** TURN *** [9h Jc 6h] [Ac]
+Kevin12345Mc: checks 
+me win me: checks 
+*** RIVER *** [9h Jc 6h Ac] [9s]
+Kevin12345Mc: bets 301
+me win me: folds 
+Uncalled bet (301) returned to Kevin12345Mc
+Kevin12345Mc collected 456 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 456 | Rake 0 
+Board [9h Jc 6h Ac 9s]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded on the River
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) folded before Flop
+Seat 8: Kevin12345Mc (big blind) collected (456)
+
+
+
+PokerStars Hand #254986499263: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 16:09:09 WET [2025/02/22 11:09:09 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: Vikgork (5000 in chips) 
+Seat 2: Ratopolis_jr (3915 in chips) 
+Seat 3: kr1vv (6658 in chips) 
+Seat 4: me win me (3543 in chips) 
+Seat 5: noroc111 (8224 in chips) 
+Seat 6: boyimartinez (7757 in chips) 
+Seat 7: marney78 (10861 in chips) 
+Seat 8: Kevin12345Mc (3985 in chips) 
+Vikgork: posts the ante 14
+Ratopolis_jr: posts the ante 14
+kr1vv: posts the ante 14
+me win me: posts the ante 14
+noroc111: posts the ante 14
+boyimartinez: posts the ante 14
+marney78: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Kevin12345Mc: posts small blind 45
+Vikgork: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 8h]
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: calls 90
+noroc111: folds 
+boyimartinez: folds 
+marney78: raises 427 to 517
+Kevin12345Mc: folds 
+Vikgork: folds 
+me win me: folds 
+Uncalled bet (427) returned to marney78
+marney78 collected 427 from pot
+*** SUMMARY ***
+Total pot 427 | Rake 0 
+Seat 1: Vikgork (big blind) folded before Flop
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) collected (427)
+Seat 8: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254986506593: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 16:09:41 WET [2025/02/22 11:09:41 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: Vikgork (4896 in chips) 
+Seat 2: Ratopolis_jr (3901 in chips) 
+Seat 3: kr1vv (6644 in chips) 
+Seat 4: me win me (3439 in chips) 
+Seat 5: noroc111 (8210 in chips) 
+Seat 6: boyimartinez (7743 in chips) 
+Seat 7: marney78 (11184 in chips) 
+Seat 8: Kevin12345Mc (3926 in chips) 
+Vikgork: posts the ante 14
+Ratopolis_jr: posts the ante 14
+kr1vv: posts the ante 14
+me win me: posts the ante 14
+noroc111: posts the ante 14
+boyimartinez: posts the ante 14
+marney78: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Vikgork: posts small blind 45
+Ratopolis_jr: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Jh]
+kr1vv: folds 
+me win me: calls 90
+noroc111: folds 
+boyimartinez: folds 
+marney78: calls 90
+Kevin12345Mc: folds 
+Vikgork: raises 270 to 360
+Ratopolis_jr: folds 
+me win me: calls 270
+marney78: folds 
+*** FLOP *** [Ad 7s Tc]
+Vikgork: bets 253
+me win me: calls 253
+*** TURN *** [Ad 7s Tc] [3h]
+Vikgork: bets 380
+me win me: calls 380
+*** RIVER *** [Ad 7s Tc 3h] [Kc]
+Vikgork: bets 1769
+me win me: raises 663 to 2432 and is all-in
+Vikgork: folds 
+Uncalled bet (663) returned to me win me
+me win me collected 5816 from pot
+me win me: doesn't show hand 
+*** SUMMARY ***
+Total pot 5816 | Rake 0 
+Board [Ad 7s Tc 3h Kc]
+Seat 1: Vikgork (small blind) folded on the River
+Seat 2: Ratopolis_jr (big blind) folded before Flop
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me collected (5816)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop
+Seat 8: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986522078: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 16:10:49 WET [2025/02/22 11:10:49 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: Vikgork (2120 in chips) 
+Seat 2: Ratopolis_jr (3797 in chips) 
+Seat 3: kr1vv (6630 in chips) 
+Seat 4: me win me (6479 in chips) 
+Seat 5: noroc111 (8196 in chips) 
+Seat 6: boyimartinez (7729 in chips) 
+Seat 7: marney78 (11080 in chips) 
+Seat 8: Kevin12345Mc (3912 in chips) 
+Vikgork: posts the ante 14
+Ratopolis_jr: posts the ante 14
+kr1vv: posts the ante 14
+me win me: posts the ante 14
+noroc111: posts the ante 14
+boyimartinez: posts the ante 14
+marney78: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Ratopolis_jr: posts small blind 45
+kr1vv: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd Kd]
+me win me: folds 
+noroc111: folds 
+boyimartinez: raises 135 to 225
+marney78: folds 
+Kevin12345Mc: calls 225
+Vikgork: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+*** FLOP *** [Jc 3s 2h]
+boyimartinez: bets 304
+Kevin12345Mc: calls 304
+*** TURN *** [Jc 3s 2h] [Th]
+boyimartinez: checks 
+Kevin12345Mc: bets 431
+boyimartinez: calls 431
+*** RIVER *** [Jc 3s 2h Th] [7d]
+boyimartinez: bets 2925
+Kevin12345Mc: calls 2925
+*** SHOW DOWN ***
+boyimartinez: shows [Qs 9s] (high card Queen)
+Kevin12345Mc: shows [Jd Kd] (a pair of Jacks)
+Kevin12345Mc collected 8017 from pot
+*** SUMMARY ***
+Total pot 8017 | Rake 0 
+Board [Jc 3s 2h Th 7d]
+Seat 1: Vikgork (button) folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr (small blind) folded before Flop
+Seat 3: kr1vv (big blind) folded before Flop
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez showed [Qs 9s] and lost with high card Queen
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc showed [Jd Kd] and won (8017) with a pair of Jacks
+
+
+
+PokerStars Hand #254986538892: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 16:12:03 WET [2025/02/22 11:12:03 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: Vikgork (2106 in chips) 
+Seat 2: Ratopolis_jr (3738 in chips) 
+Seat 3: kr1vv (6526 in chips) 
+Seat 4: me win me (6465 in chips) 
+Seat 5: noroc111 (8182 in chips) 
+Seat 6: boyimartinez (3830 in chips) 
+Seat 7: marney78 (11066 in chips) 
+Seat 8: Kevin12345Mc (8030 in chips) 
+Vikgork: posts the ante 14
+Ratopolis_jr: posts the ante 14
+kr1vv: posts the ante 14
+me win me: posts the ante 14
+noroc111: posts the ante 14
+boyimartinez: posts the ante 14
+marney78: posts the ante 14
+Kevin12345Mc: posts the ante 14
+kr1vv: posts small blind 45
+me win me: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 7s]
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+Ratopolis_jr: raises 90 to 180
+kr1vv: folds 
+me win me: calls 90
+*** FLOP *** [Tc Ac 6d]
+me win me: checks 
+Ratopolis_jr: checks 
+*** TURN *** [Tc Ac 6d] [8c]
+me win me: checks 
+Ratopolis_jr: checks 
+*** RIVER *** [Tc Ac 6d 8c] [3h]
+me win me: checks 
+Ratopolis_jr: checks 
+*** SHOW DOWN ***
+me win me: shows [8d 9h] (a pair of Eights)
+Ratopolis_jr: mucks hand 
+me win me collected 517 from pot
+*** SUMMARY ***
+Total pot 517 | Rake 0 
+Board [Tc Ac 6d 8c 3h]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr (button) mucked [2s 2d]
+Seat 3: kr1vv (small blind) folded before Flop
+Seat 4: me win me (big blind) showed [8d 9h] and won (517) with a pair of Eights
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986555185: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 16:13:13 WET [2025/02/22 11:13:13 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: Vikgork (2092 in chips) 
+Seat 2: Ratopolis_jr (3544 in chips) 
+Seat 3: kr1vv (6467 in chips) 
+Seat 4: me win me (6788 in chips) 
+Seat 5: noroc111 (8168 in chips) 
+Seat 6: boyimartinez (3816 in chips) 
+Seat 7: marney78 (11052 in chips) 
+Seat 8: Kevin12345Mc (8016 in chips) 
+Vikgork: posts the ante 14
+Ratopolis_jr: posts the ante 14
+kr1vv: posts the ante 14
+me win me: posts the ante 14
+noroc111: posts the ante 14
+boyimartinez: posts the ante 14
+marney78: posts the ante 14
+Kevin12345Mc: posts the ante 14
+me win me: posts small blind 45
+noroc111: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 9c]
+boyimartinez: raises 90 to 180
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: folds 
+noroc111: calls 90
+*** FLOP *** [5c 2s Qh]
+noroc111: checks 
+boyimartinez: bets 214
+noroc111: folds 
+Uncalled bet (214) returned to boyimartinez
+boyimartinez collected 517 from pot
+boyimartinez: doesn't show hand 
+*** SUMMARY ***
+Total pot 517 | Rake 0 
+Board [5c 2s Qh]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv (button) folded before Flop (didn't bet)
+Seat 4: me win me (small blind) folded before Flop
+Seat 5: noroc111 (big blind) folded on the Flop
+Seat 6: boyimartinez collected (517)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986562827: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 16:13:46 WET [2025/02/22 11:13:46 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: Vikgork (2078 in chips) 
+Seat 2: Ratopolis_jr (3530 in chips) 
+Seat 3: kr1vv (6453 in chips) 
+Seat 4: me win me (6729 in chips) 
+Seat 5: noroc111 (7974 in chips) 
+Seat 6: boyimartinez (4139 in chips) 
+Seat 7: marney78 (11038 in chips) 
+Seat 8: Kevin12345Mc (8002 in chips) 
+Vikgork: posts the ante 14
+Ratopolis_jr: posts the ante 14
+kr1vv: posts the ante 14
+me win me: posts the ante 14
+noroc111: posts the ante 14
+boyimartinez: posts the ante 14
+marney78: posts the ante 14
+Kevin12345Mc: posts the ante 14
+noroc111: posts small blind 45
+boyimartinez: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Kc]
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+Ratopolis_jr: raises 90 to 180
+kr1vv: folds 
+me win me: calls 180
+noroc111: calls 135
+boyimartinez: raises 3945 to 4125 and is all-in
+Ratopolis_jr: folds 
+me win me: folds 
+noroc111: folds 
+Uncalled bet (3945) returned to boyimartinez
+boyimartinez collected 832 from pot
+boyimartinez: doesn't show hand 
+*** SUMMARY ***
+Total pot 832 | Rake 0 
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me (button) folded before Flop
+Seat 5: noroc111 (small blind) folded before Flop
+Seat 6: boyimartinez (big blind) collected (832)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986570096: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 16:14:18 WET [2025/02/22 11:14:18 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: Vikgork (2064 in chips) 
+Seat 2: Ratopolis_jr (3336 in chips) 
+Seat 3: kr1vv (6439 in chips) 
+Seat 4: me win me (6535 in chips) 
+Seat 5: noroc111 (7780 in chips) 
+Seat 6: boyimartinez (4777 in chips) 
+Seat 7: marney78 (11024 in chips) 
+Seat 8: Kevin12345Mc (7988 in chips) 
+Vikgork: posts the ante 14
+Ratopolis_jr: posts the ante 14
+kr1vv: posts the ante 14
+me win me: posts the ante 14
+noroc111: posts the ante 14
+boyimartinez: posts the ante 14
+marney78: posts the ante 14
+Kevin12345Mc: posts the ante 14
+boyimartinez: posts small blind 45
+marney78: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 7c]
+Kevin12345Mc: folds 
+Vikgork: folds 
+Ratopolis_jr: raises 90 to 180
+kr1vv: folds 
+me win me: calls 180
+noroc111: folds 
+boyimartinez: calls 135
+marney78: calls 90
+*** FLOP *** [6s 6d Kc]
+boyimartinez: checks 
+marney78: checks 
+Ratopolis_jr: bets 250
+me win me: folds 
+boyimartinez: calls 250
+marney78: folds 
+*** TURN *** [6s 6d Kc] [7d]
+boyimartinez: bets 666
+Ratopolis_jr: calls 666
+*** RIVER *** [6s 6d Kc 7d] [Ks]
+boyimartinez: checks 
+Ratopolis_jr: checks 
+*** SHOW DOWN ***
+boyimartinez: shows [5s 6h] (a full house, Sixes full of Kings)
+Ratopolis_jr: mucks hand 
+boyimartinez collected 2664 from pot
+*** SUMMARY ***
+Total pot 2664 | Rake 0 
+Board [6s 6d Kc 7d Ks]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr mucked [8s 8c]
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded on the Flop
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) showed [5s 6h] and won (2664) with a full house, Sixes full of Kings
+Seat 7: marney78 (big blind) folded on the Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986586856: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 16:15:30 WET [2025/02/22 11:15:30 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: Vikgork (2050 in chips) 
+Seat 2: Ratopolis_jr (2226 in chips) 
+Seat 3: kr1vv (6425 in chips) 
+Seat 4: me win me (6341 in chips) 
+Seat 5: noroc111 (7766 in chips) 
+Seat 6: boyimartinez (6331 in chips) 
+Seat 7: marney78 (10830 in chips) 
+Seat 8: Kevin12345Mc (7974 in chips) 
+Vikgork: posts the ante 14
+Ratopolis_jr: posts the ante 14
+kr1vv: posts the ante 14
+me win me: posts the ante 14
+noroc111: posts the ante 14
+boyimartinez: posts the ante 14
+marney78: posts the ante 14
+Kevin12345Mc: posts the ante 14
+marney78: posts small blind 45
+Kevin12345Mc: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 6d]
+Vikgork: folds 
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: calls 90
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [8d Jc As]
+Kevin12345Mc: checks 
+me win me: checks 
+*** TURN *** [8d Jc As] [9c]
+Kevin12345Mc: checks 
+me win me: checks 
+*** RIVER *** [8d Jc As 9c] [Ac]
+Kevin12345Mc: checks 
+me win me: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [8c 6d] (two pair, Aces and Eights)
+me win me: shows [9d Ks] (two pair, Aces and Nines)
+me win me collected 337 from pot
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Board [8d Jc As 9c Ac]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me showed [9d Ks] and won (337) with two pair, Aces and Nines
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) folded before Flop
+Seat 8: Kevin12345Mc (big blind) showed [8c 6d] and lost with two pair, Aces and Eights
+
+
+
+PokerStars Hand #254986601715: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 16:16:33 WET [2025/02/22 11:16:33 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: Vikgork (2036 in chips) 
+Seat 2: Ratopolis_jr (2212 in chips) 
+Seat 3: kr1vv (6411 in chips) 
+Seat 4: me win me (6574 in chips) 
+Seat 5: noroc111 (7752 in chips) 
+Seat 6: boyimartinez (6317 in chips) 
+Seat 7: marney78 (10771 in chips) 
+Seat 8: Kevin12345Mc (7870 in chips) 
+Vikgork: posts the ante 14
+Ratopolis_jr: posts the ante 14
+kr1vv: posts the ante 14
+me win me: posts the ante 14
+noroc111: posts the ante 14
+boyimartinez: posts the ante 14
+marney78: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Kevin12345Mc: posts small blind 45
+Vikgork: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 2h]
+Ratopolis_jr: folds 
+kr1vv: folds 
+me win me: folds 
+noroc111: calls 90
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: checks 
+*** FLOP *** [5s Qs 3d]
+Vikgork: checks 
+noroc111: bets 270
+Vikgork: folds 
+Uncalled bet (270) returned to noroc111
+noroc111 collected 337 from pot
+noroc111: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Board [5s Qs 3d]
+Seat 1: Vikgork (big blind) folded on the Flop
+Seat 2: Ratopolis_jr folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 collected (337)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254986609084: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 16:17:04 WET [2025/02/22 11:17:04 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: Vikgork (1932 in chips) 
+Seat 2: Ratopolis_jr (2198 in chips) 
+Seat 3: kr1vv (6397 in chips) 
+Seat 4: me win me (6560 in chips) 
+Seat 5: noroc111 (7985 in chips) 
+Seat 6: boyimartinez (6303 in chips) 
+Seat 7: marney78 (10757 in chips) 
+Seat 8: Kevin12345Mc (7811 in chips) 
+Vikgork: posts the ante 15
+Ratopolis_jr: posts the ante 15
+kr1vv: posts the ante 15
+me win me: posts the ante 15
+noroc111: posts the ante 15
+boyimartinez: posts the ante 15
+marney78: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Vikgork: posts small blind 50
+Ratopolis_jr: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 2s]
+kr1vv: folds 
+me win me: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: raises 200 to 300
+Kevin12345Mc: folds 
+Vikgork: folds 
+Ratopolis_jr: raises 1883 to 2183 and is all-in
+marney78: calls 1883
+*** FLOP *** [7c 3h Ah]
+*** TURN *** [7c 3h Ah] [As]
+*** RIVER *** [7c 3h Ah As] [Js]
+*** SHOW DOWN ***
+Ratopolis_jr: shows [9d 9c] (two pair, Aces and Nines)
+marney78: shows [Jc Tc] (two pair, Aces and Jacks)
+marney78 collected 4536 from pot
+Ratopolis_jr finished the tournament
+*** SUMMARY ***
+Total pot 4536 | Rake 0 
+Board [7c 3h Ah As Js]
+Seat 1: Vikgork (small blind) folded before Flop
+Seat 2: Ratopolis_jr (big blind) showed [9d 9c] and lost with two pair, Aces and Nines
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 showed [Jc Tc] and won (4536) with two pair, Aces and Jacks
+Seat 8: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986615616: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 16:17:32 WET [2025/02/22 11:17:32 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: Vikgork (1867 in chips) 
+Seat 3: kr1vv (6382 in chips) 
+Seat 4: me win me (6545 in chips) 
+Seat 5: noroc111 (7970 in chips) 
+Seat 6: boyimartinez (6288 in chips) 
+Seat 7: marney78 (13095 in chips) 
+Seat 8: Kevin12345Mc (7796 in chips) 
+Vikgork: posts the ante 15
+kr1vv: posts the ante 15
+me win me: posts the ante 15
+noroc111: posts the ante 15
+boyimartinez: posts the ante 15
+marney78: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kr1vv: posts small blind 50
+me win me: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Ac]
+noroc111: folds 
+boyimartinez: raises 150 to 250
+marney78: calls 250
+Kevin12345Mc: raises 500 to 750
+Vikgork: folds 
+kr1vv: folds 
+me win me: calls 650
+boyimartinez: calls 500
+marney78: calls 500
+*** FLOP *** [2d Qh 5s]
+me win me: checks 
+boyimartinez: checks 
+marney78: checks 
+Kevin12345Mc: bets 2082
+me win me: folds 
+boyimartinez: folds 
+marney78: folds 
+Uncalled bet (2082) returned to Kevin12345Mc
+Kevin12345Mc collected 3155 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 3155 | Rake 0 
+Board [2d Qh 5s]
+Seat 1: Vikgork (button) folded before Flop (didn't bet)
+Seat 3: kr1vv (small blind) folded before Flop
+Seat 4: me win me (big blind) folded on the Flop
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded on the Flop
+Seat 7: marney78 folded on the Flop
+Seat 8: Kevin12345Mc collected (3155)
+
+
+
+PokerStars Hand #254986629555: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 16:18:33 WET [2025/02/22 11:18:33 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: Vikgork (1852 in chips) 
+Seat 2: bluffing021 (5000 in chips) 
+Seat 3: kr1vv (6317 in chips) 
+Seat 4: me win me (5780 in chips) 
+Seat 5: noroc111 (7955 in chips) 
+Seat 6: boyimartinez (5523 in chips) 
+Seat 7: marney78 (12330 in chips) 
+Seat 8: Kevin12345Mc (10186 in chips) 
+Vikgork: posts the ante 15
+bluffing021: posts the ante 15
+kr1vv: posts the ante 15
+me win me: posts the ante 15
+noroc111: posts the ante 15
+boyimartinez: posts the ante 15
+marney78: posts the ante 15
+Kevin12345Mc: posts the ante 15
+me win me: posts small blind 50
+noroc111: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Kc]
+boyimartinez: calls 100
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+bluffing021: folds 
+kr1vv: folds 
+me win me: folds 
+noroc111: checks 
+*** FLOP *** [Ah 7d 7s]
+noroc111: checks 
+boyimartinez: checks 
+*** TURN *** [Ah 7d 7s] [6s]
+noroc111: checks 
+boyimartinez: bets 278
+noroc111: folds 
+Uncalled bet (278) returned to boyimartinez
+boyimartinez collected 370 from pot
+boyimartinez: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [Ah 7d 7s 6s]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: bluffing021 folded before Flop (didn't bet)
+Seat 3: kr1vv (button) folded before Flop (didn't bet)
+Seat 4: me win me (small blind) folded before Flop
+Seat 5: noroc111 (big blind) folded on the Turn
+Seat 6: boyimartinez collected (370)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986634688: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 16:18:55 WET [2025/02/22 11:18:55 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: Vikgork (1837 in chips) 
+Seat 2: bluffing021 (4985 in chips) 
+Seat 3: kr1vv (6302 in chips) 
+Seat 4: me win me (5715 in chips) 
+Seat 5: noroc111 (7840 in chips) 
+Seat 6: boyimartinez (5778 in chips) 
+Seat 7: marney78 (12315 in chips) 
+Seat 8: Kevin12345Mc (10171 in chips) 
+Vikgork: posts the ante 15
+bluffing021: posts the ante 15
+kr1vv: posts the ante 15
+me win me: posts the ante 15
+noroc111: posts the ante 15
+boyimartinez: posts the ante 15
+marney78: posts the ante 15
+Kevin12345Mc: posts the ante 15
+noroc111: posts small blind 50
+boyimartinez: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s Ah]
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+bluffing021: folds 
+kr1vv: raises 100 to 200
+me win me: calls 200
+noroc111: folds 
+boyimartinez: calls 100
+*** FLOP *** [5d Tc Qc]
+boyimartinez: checks 
+kr1vv: checks 
+me win me: bets 385
+boyimartinez: calls 385
+kr1vv: folds 
+*** TURN *** [5d Tc Qc] [Jc]
+boyimartinez: checks 
+me win me: checks 
+*** RIVER *** [5d Tc Qc Jc] [6d]
+boyimartinez: checks 
+me win me: checks 
+*** SHOW DOWN ***
+boyimartinez: shows [4s Td] (a pair of Tens)
+me win me: shows [Ad Qs] (a pair of Queens)
+me win me collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Board [5d Tc Qc Jc 6d]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: bluffing021 folded before Flop (didn't bet)
+Seat 3: kr1vv folded on the Flop
+Seat 4: me win me (button) showed [Ad Qs] and won (1540) with a pair of Queens
+Seat 5: noroc111 (small blind) folded before Flop
+Seat 6: boyimartinez (big blind) showed [4s Td] and lost with a pair of Tens
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986644467: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 16:19:38 WET [2025/02/22 11:19:38 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: Vikgork (1822 in chips) 
+Seat 2: bluffing021 (4970 in chips) 
+Seat 3: kr1vv (6087 in chips) 
+Seat 4: me win me (6655 in chips) 
+Seat 5: noroc111 (7775 in chips) 
+Seat 6: boyimartinez (5178 in chips) 
+Seat 7: marney78 (12300 in chips) 
+Seat 8: Kevin12345Mc (10156 in chips) 
+Vikgork: posts the ante 15
+bluffing021: posts the ante 15
+kr1vv: posts the ante 15
+me win me: posts the ante 15
+noroc111: posts the ante 15
+boyimartinez: posts the ante 15
+marney78: posts the ante 15
+Kevin12345Mc: posts the ante 15
+boyimartinez: posts small blind 50
+marney78: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 7s]
+Kevin12345Mc: folds 
+Vikgork: folds 
+bluffing021: folds 
+kr1vv: folds 
+me win me: raises 100 to 200
+noroc111: folds 
+boyimartinez: raises 4963 to 5163 and is all-in
+marney78: folds 
+me win me: folds 
+Uncalled bet (4963) returned to boyimartinez
+boyimartinez collected 620 from pot
+boyimartinez: doesn't show hand 
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: bluffing021 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) collected (620)
+Seat 7: marney78 (big blind) folded before Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986656819: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 16:20:32 WET [2025/02/22 11:20:32 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: Vikgork (1807 in chips) 
+Seat 2: bluffing021 (4955 in chips) 
+Seat 3: kr1vv (6072 in chips) 
+Seat 4: me win me (6440 in chips) 
+Seat 5: noroc111 (7760 in chips) 
+Seat 6: boyimartinez (5583 in chips) 
+Seat 7: marney78 (12185 in chips) 
+Seat 8: Kevin12345Mc (10141 in chips) 
+Vikgork: posts the ante 15
+bluffing021: posts the ante 15
+kr1vv: posts the ante 15
+me win me: posts the ante 15
+noroc111: posts the ante 15
+boyimartinez: posts the ante 15
+marney78: posts the ante 15
+Kevin12345Mc: posts the ante 15
+marney78: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 5s]
+Vikgork: folds 
+bluffing021: folds 
+kr1vv: folds 
+me win me: folds 
+noroc111: folds 
+boyimartinez: raises 150 to 250
+marney78: folds 
+Kevin12345Mc: folds 
+Uncalled bet (150) returned to boyimartinez
+boyimartinez collected 370 from pot
+boyimartinez: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: bluffing021 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez (button) collected (370)
+Seat 7: marney78 (small blind) folded before Flop
+Seat 8: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254986663109: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 16:20:59 WET [2025/02/22 11:20:59 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: Vikgork (1792 in chips) 
+Seat 2: bluffing021 (4940 in chips) 
+Seat 3: kr1vv (6057 in chips) 
+Seat 4: me win me (6425 in chips) 
+Seat 5: noroc111 (7745 in chips) 
+Seat 6: boyimartinez (5838 in chips) 
+Seat 7: marney78 (12120 in chips) 
+Seat 8: Kevin12345Mc (10026 in chips) 
+Vikgork: posts the ante 15
+bluffing021: posts the ante 15
+kr1vv: posts the ante 15
+me win me: posts the ante 15
+noroc111: posts the ante 15
+boyimartinez: posts the ante 15
+marney78: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Kevin12345Mc: posts small blind 50
+Vikgork: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 5d]
+bluffing021: folds 
+kr1vv: folds 
+me win me: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: calls 50
+Vikgork: checks 
+*** FLOP *** [6c Js 7h]
+Kevin12345Mc: checks 
+Vikgork: bets 106
+Kevin12345Mc: folds 
+Uncalled bet (106) returned to Vikgork
+Vikgork collected 320 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Board [6c Js 7h]
+Seat 1: Vikgork (big blind) collected (320)
+Seat 2: bluffing021 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254986670167: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 16:21:29 WET [2025/02/22 11:21:29 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: Vikgork (1997 in chips) 
+Seat 2: bluffing021 (4925 in chips) 
+Seat 3: kr1vv (6042 in chips) 
+Seat 4: me win me (6410 in chips) 
+Seat 5: noroc111 (7730 in chips) 
+Seat 6: boyimartinez (5823 in chips) 
+Seat 7: marney78 (12105 in chips) 
+Seat 8: Kevin12345Mc (9911 in chips) 
+Vikgork: posts the ante 15
+bluffing021: posts the ante 15
+kr1vv: posts the ante 15
+me win me: posts the ante 15
+noroc111: posts the ante 15
+boyimartinez: posts the ante 15
+marney78: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Vikgork: posts small blind 50
+bluffing021: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 7s]
+kr1vv: folds 
+me win me: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 200 to 300
+bluffing021: folds 
+Uncalled bet (200) returned to Vikgork
+Vikgork collected 320 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: Vikgork (small blind) collected (320)
+Seat 2: bluffing021 (big blind) folded before Flop
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986674471: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 16:21:48 WET [2025/02/22 11:21:48 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: Vikgork (2202 in chips) 
+Seat 2: bluffing021 (4810 in chips) 
+Seat 3: kr1vv (6027 in chips) 
+Seat 4: me win me (6395 in chips) 
+Seat 5: noroc111 (7715 in chips) 
+Seat 6: boyimartinez (5808 in chips) 
+Seat 7: marney78 (12090 in chips) 
+Seat 8: Kevin12345Mc (9896 in chips) 
+Vikgork: posts the ante 15
+bluffing021: posts the ante 15
+kr1vv: posts the ante 15
+me win me: posts the ante 15
+noroc111: posts the ante 15
+boyimartinez: posts the ante 15
+marney78: posts the ante 15
+Kevin12345Mc: posts the ante 15
+bluffing021: posts small blind 50
+kr1vv: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 5d]
+me win me: folds 
+noroc111: folds 
+boyimartinez: raises 150 to 250
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+bluffing021: folds 
+kr1vv: calls 150
+*** FLOP *** [8h 6s Td]
+kr1vv: checks 
+boyimartinez: checks 
+*** TURN *** [8h 6s Td] [Ts]
+kr1vv: bets 221
+boyimartinez: folds 
+Uncalled bet (221) returned to kr1vv
+kr1vv collected 670 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 670 | Rake 0 
+Board [8h 6s Td Ts]
+Seat 1: Vikgork (button) folded before Flop (didn't bet)
+Seat 2: bluffing021 (small blind) folded before Flop
+Seat 3: kr1vv (big blind) collected (670)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded on the Turn
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986685599: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 16:22:36 WET [2025/02/22 11:22:36 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: Vikgork (2187 in chips) 
+Seat 2: bluffing021 (4745 in chips) 
+Seat 3: kr1vv (6432 in chips) 
+Seat 4: me win me (6380 in chips) 
+Seat 5: noroc111 (7700 in chips) 
+Seat 6: boyimartinez (5543 in chips) 
+Seat 7: marney78 (12075 in chips) 
+Seat 8: Kevin12345Mc (9881 in chips) 
+Vikgork: posts the ante 15
+bluffing021: posts the ante 15
+kr1vv: posts the ante 15
+me win me: posts the ante 15
+noroc111: posts the ante 15
+boyimartinez: posts the ante 15
+marney78: posts the ante 15
+Kevin12345Mc: posts the ante 15
+kr1vv: posts small blind 50
+me win me: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 2c]
+noroc111: folds 
+boyimartinez: folds 
+marney78: calls 100
+Kevin12345Mc: folds 
+Vikgork: folds 
+bluffing021: calls 100
+kr1vv: folds 
+me win me: checks 
+*** FLOP *** [3s 2d 2h]
+me win me: bets 235
+marney78: calls 235
+bluffing021: folds 
+*** TURN *** [3s 2d 2h] [9d]
+me win me: checks 
+marney78: checks 
+*** RIVER *** [3s 2d 2h 9d] [2s]
+me win me: checks 
+marney78: checks 
+*** SHOW DOWN ***
+me win me: shows [Jc 3d] (a full house, Deuces full of Threes)
+marney78: shows [6c 6s] (a full house, Deuces full of Sixes)
+marney78 collected 940 from pot
+*** SUMMARY ***
+Total pot 940 | Rake 0 
+Board [3s 2d 2h 9d 2s]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: bluffing021 (button) folded on the Flop
+Seat 3: kr1vv (small blind) folded before Flop
+Seat 4: me win me (big blind) showed [Jc 3d] and lost with a full house, Deuces full of Threes
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 showed [6c 6s] and won (940) with a full house, Deuces full of Sixes
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986697702: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 16:23:28 WET [2025/02/22 11:23:28 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: Vikgork (2172 in chips) 
+Seat 2: bluffing021 (4630 in chips) 
+Seat 3: kr1vv (6367 in chips) 
+Seat 4: me win me (6030 in chips) 
+Seat 5: noroc111 (7685 in chips) 
+Seat 6: boyimartinez (5528 in chips) 
+Seat 7: marney78 (12665 in chips) 
+Seat 8: Kevin12345Mc (9866 in chips) 
+Vikgork: posts the ante 15
+bluffing021: posts the ante 15
+kr1vv: posts the ante 15
+me win me: posts the ante 15
+noroc111: posts the ante 15
+boyimartinez: posts the ante 15
+marney78: posts the ante 15
+Kevin12345Mc: posts the ante 15
+me win me: posts small blind 50
+noroc111: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 7d]
+boyimartinez has timed out
+boyimartinez: folds 
+boyimartinez is sitting out
+marney78: folds 
+Kevin12345Mc: folds 
+boyimartinez has returned
+Vikgork: raises 100 to 200
+bluffing021: folds 
+kr1vv: folds 
+me win me: calls 150
+noroc111: calls 100
+*** FLOP *** [8d 3s 9s]
+me win me: checks 
+noroc111: bets 720
+Vikgork: folds 
+me win me: folds 
+Uncalled bet (720) returned to noroc111
+noroc111 collected 720 from pot
+noroc111: doesn't show hand 
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [8d 3s 9s]
+Seat 1: Vikgork folded on the Flop
+Seat 2: bluffing021 folded before Flop (didn't bet)
+Seat 3: kr1vv (button) folded before Flop (didn't bet)
+Seat 4: me win me (small blind) folded on the Flop
+Seat 5: noroc111 (big blind) collected (720)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986715192: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 16:24:43 WET [2025/02/22 11:24:43 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: Vikgork (1957 in chips) 
+Seat 2: bluffing021 (4615 in chips) 
+Seat 3: kr1vv (6352 in chips) 
+Seat 4: me win me (5815 in chips) 
+Seat 5: noroc111 (8190 in chips) 
+Seat 6: boyimartinez (5513 in chips) 
+Seat 7: marney78 (12650 in chips) 
+Seat 8: Kevin12345Mc (9851 in chips) 
+Vikgork: posts the ante 18
+bluffing021: posts the ante 18
+kr1vv: posts the ante 18
+me win me: posts the ante 18
+noroc111: posts the ante 18
+boyimartinez: posts the ante 18
+marney78: posts the ante 18
+Kevin12345Mc: posts the ante 18
+noroc111: posts small blind 60
+boyimartinez: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Qs]
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 120 to 240
+bluffing021: calls 240
+kr1vv: folds 
+me win me: folds 
+noroc111: folds 
+boyimartinez: calls 120
+*** FLOP *** [6s 7h 3c]
+boyimartinez: checks 
+Vikgork: bets 231
+bluffing021: raises 4126 to 4357 and is all-in
+boyimartinez: calls 4357
+Vikgork: folds 
+*** TURN *** [6s 7h 3c] [Ac]
+*** RIVER *** [6s 7h 3c Ac] [Th]
+*** SHOW DOWN ***
+boyimartinez: shows [3s 7d] (two pair, Sevens and Threes)
+bluffing021: shows [5s 7s] (a pair of Sevens)
+boyimartinez collected 9869 from pot
+bluffing021 finished the tournament
+*** SUMMARY ***
+Total pot 9869 | Rake 0 
+Board [6s 7h 3c Ac Th]
+Seat 1: Vikgork folded on the Flop
+Seat 2: bluffing021 showed [5s 7s] and lost with a pair of Sevens
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me (button) folded before Flop (didn't bet)
+Seat 5: noroc111 (small blind) folded before Flop
+Seat 6: boyimartinez (big blind) showed [3s 7d] and won (9869) with two pair, Sevens and Threes
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986728247: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 16:25:39 WET [2025/02/22 11:25:39 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: Vikgork (1468 in chips) 
+Seat 3: kr1vv (6334 in chips) 
+Seat 4: me win me (5797 in chips) 
+Seat 5: noroc111 (8112 in chips) 
+Seat 6: boyimartinez (10767 in chips) 
+Seat 7: marney78 (12632 in chips) 
+Seat 8: Kevin12345Mc (9833 in chips) 
+Vikgork: posts the ante 18
+kr1vv: posts the ante 18
+me win me: posts the ante 18
+noroc111: posts the ante 18
+boyimartinez: posts the ante 18
+marney78: posts the ante 18
+Kevin12345Mc: posts the ante 18
+boyimartinez: posts small blind 60
+marney78: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Tc]
+Jovem_FBPA1 is disconnected 
+Kevin12345Mc: raises 156 to 276
+Vikgork: raises 1174 to 1450 and is all-in
+kr1vv: folds 
+me win me: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: calls 1174
+*** FLOP *** [5d 7d Ah]
+*** TURN *** [5d 7d Ah] [Qc]
+*** RIVER *** [5d 7d Ah Qc] [8s]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [As Tc] (a pair of Aces)
+Vikgork: shows [Ac Jh] (a pair of Aces - Queen+Jack kicker)
+Vikgork collected 3206 from pot
+*** SUMMARY ***
+Total pot 3206 | Rake 0 
+Board [5d 7d Ah Qc 8s]
+Seat 1: Vikgork showed [Ac Jh] and won (3206) with a pair of Aces
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) folded before Flop
+Seat 7: marney78 (big blind) folded before Flop
+Seat 8: Kevin12345Mc showed [As Tc] and lost with a pair of Aces
+
+
+
+PokerStars Hand #254986737854: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 16:26:19 WET [2025/02/22 11:26:19 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: Vikgork (3206 in chips) 
+Seat 2: Jovem_FBPA1 (5000 in chips) 
+Seat 3: kr1vv (6316 in chips) 
+Seat 4: me win me (5779 in chips) 
+Seat 5: noroc111 (8094 in chips) 
+Seat 6: boyimartinez (10689 in chips) 
+Seat 7: marney78 (12494 in chips) 
+Seat 8: Kevin12345Mc (8365 in chips) 
+Vikgork: posts the ante 18
+Jovem_FBPA1: posts the ante 18
+kr1vv: posts the ante 18
+me win me: posts the ante 18
+noroc111: posts the ante 18
+boyimartinez: posts the ante 18
+marney78: posts the ante 18
+Kevin12345Mc: posts the ante 18
+marney78: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 4c]
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+me win me: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Uncalled bet (60) returned to Kevin12345Mc
+Kevin12345Mc collected 264 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 264 | Rake 0 
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) folded before Flop
+Seat 8: Kevin12345Mc (big blind) collected (264)
+
+
+
+PokerStars Hand #254986745709: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 16:26:52 WET [2025/02/22 11:26:52 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: Vikgork (3188 in chips) 
+Seat 2: Jovem_FBPA1 (4982 in chips) 
+Seat 3: kr1vv (6298 in chips) 
+Seat 4: me win me (5761 in chips) 
+Seat 5: noroc111 (8076 in chips) 
+Seat 6: boyimartinez (10671 in chips) 
+Seat 7: marney78 (12416 in chips) 
+Seat 8: Kevin12345Mc (8551 in chips) 
+Vikgork: posts the ante 18
+Jovem_FBPA1: posts the ante 18
+kr1vv: posts the ante 18
+me win me: posts the ante 18
+noroc111: posts the ante 18
+boyimartinez: posts the ante 18
+marney78: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Kevin12345Mc: posts small blind 60
+Vikgork: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 7c]
+Jovem_FBPA1: raises 120 to 240
+kr1vv: raises 120 to 360
+me win me: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: raises 720 to 1080
+kr1vv: folds 
+Uncalled bet (720) returned to Jovem_FBPA1
+Jovem_FBPA1 collected 1044 from pot
+Jovem_FBPA1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1044 | Rake 0 
+Seat 1: Vikgork (big blind) folded before Flop
+Seat 2: Jovem_FBPA1 collected (1044)
+Seat 3: kr1vv folded before Flop
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254986754540: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 16:27:30 WET [2025/02/22 11:27:30 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: Vikgork (3050 in chips) 
+Seat 2: Jovem_FBPA1 (5648 in chips) 
+Seat 3: kr1vv (5920 in chips) 
+Seat 4: me win me (5743 in chips) 
+Seat 5: noroc111 (8058 in chips) 
+Seat 6: boyimartinez (10653 in chips) 
+Seat 7: marney78 (12398 in chips) 
+Seat 8: Kevin12345Mc (8473 in chips) 
+Vikgork: posts the ante 18
+Jovem_FBPA1: posts the ante 18
+kr1vv: posts the ante 18
+me win me: posts the ante 18
+noroc111: posts the ante 18
+boyimartinez: posts the ante 18
+marney78: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Vikgork: posts small blind 60
+Jovem_FBPA1: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc As]
+kr1vv: raises 120 to 240
+me win me: folds 
+noroc111: folds 
+boyimartinez: calls 240
+marney78: folds 
+Kevin12345Mc: raises 600 to 840
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: calls 600
+boyimartinez: folds 
+*** FLOP *** [5h 4h 6c]
+kr1vv: checks 
+Kevin12345Mc: bets 741
+kr1vv: raises 1863 to 2604
+Kevin12345Mc: folds 
+Uncalled bet (1863) returned to kr1vv
+kr1vv collected 3726 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 3726 | Rake 0 
+Board [5h 4h 6c]
+Seat 1: Vikgork (small blind) folded before Flop
+Seat 2: Jovem_FBPA1 (big blind) folded before Flop
+Seat 3: kr1vv collected (3726)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (button) folded on the Flop
+
+
+
+PokerStars Hand #254986780533: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 16:29:21 WET [2025/02/22 11:29:21 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: Vikgork (2972 in chips) 
+Seat 2: Jovem_FBPA1 (5510 in chips) 
+Seat 3: kr1vv (8047 in chips) 
+Seat 4: me win me (5725 in chips) 
+Seat 5: noroc111 (8040 in chips) 
+Seat 6: boyimartinez (10395 in chips) 
+Seat 7: marney78 (12380 in chips) 
+Seat 8: Kevin12345Mc (6874 in chips) 
+Vikgork: posts the ante 18
+Jovem_FBPA1: posts the ante 18
+kr1vv: posts the ante 18
+me win me: posts the ante 18
+noroc111: posts the ante 18
+boyimartinez: posts the ante 18
+marney78: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Jovem_FBPA1: posts small blind 60
+kr1vv: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Js]
+me win me: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 120 to 240
+Jovem_FBPA1: folds 
+kr1vv: raises 7789 to 8029 and is all-in
+Vikgork: folds 
+Uncalled bet (7789) returned to kr1vv
+kr1vv collected 684 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 684 | Rake 0 
+Seat 1: Vikgork (button) folded before Flop
+Seat 2: Jovem_FBPA1 (small blind) folded before Flop
+Seat 3: kr1vv (big blind) collected (684)
+Seat 4: me win me folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986792514: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 16:30:11 WET [2025/02/22 11:30:11 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: Vikgork (2714 in chips) 
+Seat 2: Jovem_FBPA1 (5432 in chips) 
+Seat 3: kr1vv (8473 in chips) 
+Seat 4: me win me (5707 in chips) 
+Seat 5: noroc111 (8022 in chips) 
+Seat 6: boyimartinez (10377 in chips) 
+Seat 7: marney78 (12362 in chips) 
+Seat 8: Kevin12345Mc (6856 in chips) 
+Vikgork: posts the ante 18
+Jovem_FBPA1: posts the ante 18
+kr1vv: posts the ante 18
+me win me: posts the ante 18
+noroc111: posts the ante 18
+boyimartinez: posts the ante 18
+marney78: posts the ante 18
+Kevin12345Mc: posts the ante 18
+kr1vv: posts small blind 60
+me win me: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Ah]
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: raises 156 to 276
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+me win me: calls 156
+*** FLOP *** [6h 2s Kd]
+me win me: bets 378
+Kevin12345Mc: folds 
+Uncalled bet (378) returned to me win me
+me win me collected 756 from pot
+me win me: doesn't show hand 
+*** SUMMARY ***
+Total pot 756 | Rake 0 
+Board [6h 2s Kd]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 (button) folded before Flop (didn't bet)
+Seat 3: kr1vv (small blind) folded before Flop
+Seat 4: me win me (big blind) collected (756)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded on the Flop
+
+
+
+PokerStars Hand #254986802518: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 16:30:52 WET [2025/02/22 11:30:52 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: Vikgork (2696 in chips) 
+Seat 2: Jovem_FBPA1 (5414 in chips) 
+Seat 3: kr1vv (8395 in chips) 
+Seat 4: me win me (6169 in chips) 
+Seat 5: noroc111 (8004 in chips) 
+Seat 6: boyimartinez (10359 in chips) 
+Seat 7: marney78 (12344 in chips) 
+Seat 8: Kevin12345Mc (6562 in chips) 
+Vikgork: posts the ante 18
+Jovem_FBPA1: posts the ante 18
+kr1vv: posts the ante 18
+me win me: posts the ante 18
+noroc111: posts the ante 18
+boyimartinez: posts the ante 18
+marney78: posts the ante 18
+Kevin12345Mc: posts the ante 18
+me win me: posts small blind 60
+noroc111: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 5c]
+boyimartinez: raises 180 to 300
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+me win me: calls 240
+noroc111: calls 180
+*** FLOP *** [Kc 5s Qs]
+me win me: checks 
+noroc111: checks 
+boyimartinez: bets 345
+me win me: calls 345
+noroc111: folds 
+*** TURN *** [Kc 5s Qs] [3c]
+me win me: checks 
+boyimartinez: checks 
+*** RIVER *** [Kc 5s Qs 3c] [6h]
+me win me: checks 
+boyimartinez: checks 
+*** SHOW DOWN ***
+me win me: shows [9s Jc] (high card King)
+boyimartinez: shows [9d Ac] (high card Ace)
+boyimartinez collected 1734 from pot
+*** SUMMARY ***
+Total pot 1734 | Rake 0 
+Board [Kc 5s Qs 3c 6h]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv (button) folded before Flop (didn't bet)
+Seat 4: me win me (small blind) showed [9s Jc] and lost with high card King
+Seat 5: noroc111 (big blind) folded on the Flop
+Seat 6: boyimartinez showed [9d Ac] and won (1734) with high card Ace
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986817738: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 16:31:56 WET [2025/02/22 11:31:56 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: Vikgork (2678 in chips) 
+Seat 2: Jovem_FBPA1 (5396 in chips) 
+Seat 3: kr1vv (8377 in chips) 
+Seat 4: me win me (5506 in chips) 
+Seat 5: noroc111 (7686 in chips) 
+Seat 6: boyimartinez (11430 in chips) 
+Seat 7: marney78 (12326 in chips) 
+Seat 8: Kevin12345Mc (6544 in chips) 
+Vikgork: posts the ante 18
+Jovem_FBPA1: posts the ante 18
+kr1vv: posts the ante 18
+me win me: posts the ante 18
+noroc111: posts the ante 18
+boyimartinez: posts the ante 18
+marney78: posts the ante 18
+Kevin12345Mc: posts the ante 18
+noroc111: posts small blind 60
+boyimartinez: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 5c]
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 120 to 240
+Jovem_FBPA1: folds 
+kr1vv: raises 720 to 960
+me win me: calls 960
+noroc111: raises 6708 to 7668 and is all-in
+boyimartinez: folds 
+Vikgork: folds 
+kr1vv: folds 
+me win me: calls 4528 and is all-in
+Uncalled bet (2180) returned to noroc111
+*** FLOP *** [3s 2h 4d]
+*** TURN *** [3s 2h 4d] [6h]
+*** RIVER *** [3s 2h 4d 6h] [8s]
+*** SHOW DOWN ***
+noroc111: shows [Jh Jc] (a pair of Jacks)
+me win me: shows [Ks Ac] (high card Ace)
+noroc111 collected 12440 from pot
+me win me finished the tournament
+*** SUMMARY ***
+Total pot 12440 | Rake 0 
+Board [3s 2h 4d 6h 8s]
+Seat 1: Vikgork folded before Flop
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop
+Seat 4: me win me (button) showed [Ks Ac] and lost with high card Ace
+Seat 5: noroc111 (small blind) showed [Jh Jc] and won (12440) with a pair of Jacks
+Seat 6: boyimartinez (big blind) folded before Flop
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986836754: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 16:33:14 WET [2025/02/22 11:33:14 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: Vikgork (2420 in chips) 
+Seat 2: Jovem_FBPA1 (5378 in chips) 
+Seat 3: kr1vv (7399 in chips) 
+Seat 5: noroc111 (14620 in chips) 
+Seat 6: boyimartinez (11292 in chips) 
+Seat 7: marney78 (12308 in chips) 
+Seat 8: Kevin12345Mc (6526 in chips) 
+Vikgork: posts the ante 21
+Jovem_FBPA1: posts the ante 21
+kr1vv: posts the ante 21
+noroc111: posts the ante 21
+boyimartinez: posts the ante 21
+marney78: posts the ante 21
+Kevin12345Mc: posts the ante 21
+boyimartinez: posts small blind 70
+marney78: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 7h]
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+noroc111: folds 
+boyimartinez: calls 70
+marney78: checks 
+*** FLOP *** [3s 3h 3d]
+boyimartinez: checks 
+marney78: checks 
+*** TURN *** [3s 3h 3d] [2d]
+Submittgi is disconnected 
+boyimartinez: checks 
+marney78: checks 
+*** RIVER *** [3s 3h 3d 2d] [Qs]
+boyimartinez: checks 
+marney78: checks 
+*** SHOW DOWN ***
+boyimartinez: shows [9h 6c] (three of a kind, Threes)
+marney78: shows [5d Ah] (three of a kind, Threes - Ace kicker)
+marney78 collected 427 from pot
+*** SUMMARY ***
+Total pot 427 | Rake 0 
+Board [3s 3h 3d 2d Qs]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) showed [9h 6c] and lost with three of a kind, Threes
+Seat 7: marney78 (big blind) showed [5d Ah] and won (427) with three of a kind, Threes
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986844862: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 16:33:48 WET [2025/02/22 11:33:48 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: Vikgork (2399 in chips) 
+Seat 2: Jovem_FBPA1 (5357 in chips) 
+Seat 3: kr1vv (7378 in chips) 
+Seat 4: Submittgi (5000 in chips) 
+Seat 5: noroc111 (14599 in chips) 
+Seat 6: boyimartinez (11131 in chips) 
+Seat 7: marney78 (12574 in chips) 
+Seat 8: Kevin12345Mc (6505 in chips) 
+Vikgork: posts the ante 21
+Jovem_FBPA1: posts the ante 21
+kr1vv: posts the ante 21
+Submittgi: posts the ante 21
+noroc111: posts the ante 21
+boyimartinez: posts the ante 21
+marney78: posts the ante 21
+Kevin12345Mc: posts the ante 21
+marney78: posts small blind 70
+Kevin12345Mc: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 3c]
+Vikgork: raises 140 to 280
+Jovem_FBPA1: folds 
+kr1vv: folds 
+Submittgi: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: calls 140
+*** FLOP *** [4h Ks 5h]
+Kevin12345Mc: checks 
+Vikgork: bets 263
+Kevin12345Mc: folds 
+Uncalled bet (263) returned to Vikgork
+Vikgork collected 798 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 798 | Rake 0 
+Board [4h Ks 5h]
+Seat 1: Vikgork collected (798)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: Submittgi folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) folded before Flop
+Seat 8: Kevin12345Mc (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254986855589: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 16:34:33 WET [2025/02/22 11:34:33 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: Vikgork (2896 in chips) 
+Seat 2: Jovem_FBPA1 (5336 in chips) 
+Seat 3: kr1vv (7357 in chips) 
+Seat 4: Submittgi (4979 in chips) 
+Seat 5: noroc111 (14578 in chips) 
+Seat 6: boyimartinez (11110 in chips) 
+Seat 7: marney78 (12483 in chips) 
+Seat 8: Kevin12345Mc (6204 in chips) 
+Vikgork: posts the ante 21
+Jovem_FBPA1: posts the ante 21
+kr1vv: posts the ante 21
+Submittgi: posts the ante 21
+noroc111: posts the ante 21
+boyimartinez: posts the ante 21
+marney78: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Kevin12345Mc: posts small blind 70
+Vikgork: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 2s]
+Jovem_FBPA1: raises 140 to 280
+kr1vv: folds 
+Submittgi: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: calls 140
+*** FLOP *** [7c 8s 9s]
+Vikgork: checks 
+Jovem_FBPA1: checks 
+*** TURN *** [7c 8s 9s] [3d]
+Vikgork: bets 200
+Jovem_FBPA1: calls 200
+*** RIVER *** [7c 8s 9s 3d] [9c]
+Vikgork: bets 395
+Jovem_FBPA1: folds 
+Uncalled bet (395) returned to Vikgork
+Vikgork collected 1198 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 1198 | Rake 0 
+Board [7c 8s 9s 3d 9c]
+Seat 1: Vikgork (big blind) collected (1198)
+Seat 2: Jovem_FBPA1 folded on the River
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: Submittgi folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254986867322: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 16:35:23 WET [2025/02/22 11:35:23 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: Vikgork (3593 in chips) 
+Seat 2: Jovem_FBPA1 (4835 in chips) 
+Seat 3: kr1vv (7336 in chips) 
+Seat 4: Submittgi (4958 in chips) 
+Seat 5: noroc111 (14557 in chips) 
+Seat 6: boyimartinez (11089 in chips) 
+Seat 7: marney78 (12462 in chips) 
+Seat 8: Kevin12345Mc (6113 in chips) 
+Vikgork: posts the ante 21
+Jovem_FBPA1: posts the ante 21
+kr1vv: posts the ante 21
+Submittgi: posts the ante 21
+noroc111: posts the ante 21
+boyimartinez: posts the ante 21
+marney78: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Vikgork: posts small blind 70
+Jovem_FBPA1: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 7s]
+kr1vv: folds 
+Submittgi: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: calls 140
+Kevin12345Mc: calls 140
+Vikgork: raises 280 to 420
+Jovem_FBPA1: folds 
+marney78: calls 280
+Kevin12345Mc: calls 280
+*** FLOP *** [3d 8s 3c]
+Vikgork: bets 784
+marney78: folds 
+Kevin12345Mc: calls 784
+*** TURN *** [3d 8s 3c] [2c]
+Vikgork: bets 2368 and is all-in
+Kevin12345Mc: calls 2368
+*** RIVER *** [3d 8s 3c 2c] [5s]
+*** SHOW DOWN ***
+Vikgork: shows [8d 9d] (two pair, Eights and Threes)
+Kevin12345Mc: shows [7d 7s] (two pair, Sevens and Threes)
+Vikgork collected 7872 from pot
+*** SUMMARY ***
+Total pot 7872 | Rake 0 
+Board [3d 8s 3c 2c 5s]
+Seat 1: Vikgork (small blind) showed [8d 9d] and won (7872) with two pair, Eights and Threes
+Seat 2: Jovem_FBPA1 (big blind) folded before Flop
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: Submittgi folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded on the Flop
+Seat 8: Kevin12345Mc (button) showed [7d 7s] and lost with two pair, Sevens and Threes
+
+
+
+PokerStars Hand #254986882243: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 16:36:25 WET [2025/02/22 11:36:25 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: Vikgork (7872 in chips) 
+Seat 2: Jovem_FBPA1 (4674 in chips) 
+Seat 3: kr1vv (7315 in chips) 
+Seat 4: Submittgi (4937 in chips) 
+Seat 5: noroc111 (14536 in chips) 
+Seat 6: boyimartinez (11068 in chips) 
+Seat 7: marney78 (12021 in chips) 
+Seat 8: Kevin12345Mc (2520 in chips) 
+Vikgork: posts the ante 21
+Jovem_FBPA1: posts the ante 21
+kr1vv: posts the ante 21
+Submittgi: posts the ante 21
+noroc111: posts the ante 21
+boyimartinez: posts the ante 21
+marney78: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Jovem_FBPA1: posts small blind 70
+kr1vv: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Kc]
+Submittgi: raises 140 to 280
+noroc111: folds 
+boyimartinez: folds 
+marney78: calls 280
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: calls 140
+*** FLOP *** [Th As 3h]
+kr1vv: checks 
+Submittgi: checks 
+marney78: checks 
+*** TURN *** [Th As 3h] [Tc]
+kr1vv: bets 539
+Submittgi: folds 
+marney78: raises 1078 to 1617
+kr1vv: calls 1078
+*** RIVER *** [Th As 3h Tc] [8d]
+kr1vv: checks 
+marney78: bets 2156
+kr1vv: calls 2156
+*** SHOW DOWN ***
+marney78: shows [Kh Td] (three of a kind, Tens)
+kr1vv: mucks hand 
+marney78 collected 8624 from pot
+*** SUMMARY ***
+Total pot 8624 | Rake 0 
+Board [Th As 3h Tc 8d]
+Seat 1: Vikgork (button) folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 (small blind) folded before Flop
+Seat 3: kr1vv (big blind) mucked [9d Ts]
+Seat 4: Submittgi folded on the Turn
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 showed [Kh Td] and won (8624) with three of a kind, Tens
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986897053: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 16:37:27 WET [2025/02/22 11:37:27 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: Vikgork (7851 in chips) 
+Seat 2: Jovem_FBPA1 (4583 in chips) 
+Seat 3: kr1vv (3241 in chips) 
+Seat 4: Submittgi (4636 in chips) 
+Seat 5: noroc111 (14515 in chips) 
+Seat 6: boyimartinez (11047 in chips) 
+Seat 7: marney78 (16571 in chips) 
+Seat 8: Kevin12345Mc (2499 in chips) 
+Vikgork: posts the ante 21
+Jovem_FBPA1: posts the ante 21
+kr1vv: posts the ante 21
+Submittgi: posts the ante 21
+noroc111: posts the ante 21
+boyimartinez: posts the ante 21
+marney78: posts the ante 21
+Kevin12345Mc: posts the ante 21
+kr1vv: posts small blind 70
+Submittgi: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Js]
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 140 to 280
+Jovem_FBPA1: folds 
+kr1vv: raises 2940 to 3220 and is all-in
+Submittgi: folds 
+Vikgork: folds 
+Uncalled bet (2940) returned to kr1vv
+kr1vv collected 868 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 868 | Rake 0 
+Seat 1: Vikgork folded before Flop
+Seat 2: Jovem_FBPA1 (button) folded before Flop (didn't bet)
+Seat 3: kr1vv (small blind) collected (868)
+Seat 4: Submittgi (big blind) folded before Flop
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986905126: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 16:38:01 WET [2025/02/22 11:38:01 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: Vikgork (7550 in chips) 
+Seat 2: Jovem_FBPA1 (4562 in chips) 
+Seat 3: kr1vv (3808 in chips) 
+Seat 4: Submittgi (4475 in chips) 
+Seat 5: noroc111 (14494 in chips) 
+Seat 6: boyimartinez (11026 in chips) 
+Seat 7: marney78 (16550 in chips) 
+Seat 8: Kevin12345Mc (2478 in chips) 
+Vikgork: posts the ante 21
+Jovem_FBPA1: posts the ante 21
+kr1vv: posts the ante 21
+Submittgi: posts the ante 21
+noroc111: posts the ante 21
+boyimartinez: posts the ante 21
+marney78: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Submittgi: posts small blind 70
+noroc111: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad Ts]
+boyimartinez: folds 
+marney78: raises 140 to 280
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+Submittgi: folds 
+noroc111: folds 
+Uncalled bet (140) returned to marney78
+marney78 collected 518 from pot
+*** SUMMARY ***
+Total pot 518 | Rake 0 
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv (button) folded before Flop (didn't bet)
+Seat 4: Submittgi (small blind) folded before Flop
+Seat 5: noroc111 (big blind) folded before Flop
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 collected (518)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986916937: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 16:38:50 WET [2025/02/22 11:38:50 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: Vikgork (7529 in chips) 
+Seat 2: Jovem_FBPA1 (4541 in chips) 
+Seat 3: kr1vv (3787 in chips) 
+Seat 4: Submittgi (4384 in chips) 
+Seat 5: noroc111 (14333 in chips) 
+Seat 6: boyimartinez (11005 in chips) 
+Seat 7: marney78 (16907 in chips) 
+Seat 8: Kevin12345Mc (2457 in chips) 
+Vikgork: posts the ante 21
+Jovem_FBPA1: posts the ante 21
+kr1vv: posts the ante 21
+Submittgi: posts the ante 21
+noroc111: posts the ante 21
+boyimartinez: posts the ante 21
+marney78: posts the ante 21
+Kevin12345Mc: posts the ante 21
+noroc111: posts small blind 70
+boyimartinez: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks Kd]
+marney78: folds 
+Kevin12345Mc: raises 140 to 280
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+Submittgi: calls 280
+noroc111: folds 
+boyimartinez: calls 140
+*** FLOP *** [2c Jc 2d]
+boyimartinez: checks 
+Kevin12345Mc: bets 399
+Submittgi: calls 399
+boyimartinez: folds 
+*** TURN *** [2c Jc 2d] [9h]
+Kevin12345Mc: bets 479
+Submittgi: raises 3205 to 3684 and is all-in
+Kevin12345Mc: calls 1278 and is all-in
+Uncalled bet (1927) returned to Submittgi
+*** RIVER *** [2c Jc 2d 9h] [4c]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ks Kd] (two pair, Kings and Deuces)
+Submittgi: shows [Td Jd] (two pair, Jacks and Deuces)
+Kevin12345Mc collected 5390 from pot
+*** SUMMARY ***
+Total pot 5390 | Rake 0 
+Board [2c Jc 2d 9h 4c]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: Submittgi (button) showed [Td Jd] and lost with two pair, Jacks and Deuces
+Seat 5: noroc111 (small blind) folded before Flop
+Seat 6: boyimartinez (big blind) folded on the Flop
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc showed [Ks Kd] and won (5390) with two pair, Kings and Deuces
+
+
+
+PokerStars Hand #254986935399: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 16:40:08 WET [2025/02/22 11:40:08 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: Vikgork (7508 in chips) 
+Seat 2: Jovem_FBPA1 (4520 in chips) 
+Seat 3: kr1vv (3766 in chips) 
+Seat 4: Submittgi (1927 in chips) 
+Seat 5: noroc111 (14242 in chips) 
+Seat 6: boyimartinez (10704 in chips) 
+Seat 7: marney78 (16886 in chips) 
+Seat 8: Kevin12345Mc (5390 in chips) 
+Vikgork: posts the ante 21
+Jovem_FBPA1: posts the ante 21
+kr1vv: posts the ante 21
+Submittgi: posts the ante 21
+noroc111: posts the ante 21
+boyimartinez: posts the ante 21
+marney78: posts the ante 21
+Kevin12345Mc: posts the ante 21
+boyimartinez: posts small blind 70
+marney78: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h Ad]
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+Submittgi: folds 
+noroc111: folds 
+boyimartinez: calls 70
+marney78: checks 
+*** FLOP *** [Tc 3s Ah]
+boyimartinez: checks 
+marney78: checks 
+*** TURN *** [Tc 3s Ah] [4s]
+boyimartinez: bets 224
+marney78: calls 224
+*** RIVER *** [Tc 3s Ah 4s] [9h]
+boyimartinez: bets 448
+marney78: folds 
+Uncalled bet (448) returned to boyimartinez
+boyimartinez collected 896 from pot
+boyimartinez: doesn't show hand 
+*** SUMMARY ***
+Total pot 896 | Rake 0 
+Board [Tc 3s Ah 4s 9h]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: Submittgi folded before Flop (didn't bet)
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) collected (896)
+Seat 7: marney78 (big blind) folded on the River
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254986951696: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 16:41:17 WET [2025/02/22 11:41:17 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: Vikgork (7487 in chips) 
+Seat 2: Jovem_FBPA1 (4499 in chips) 
+Seat 3: kr1vv (3745 in chips) 
+Seat 4: Submittgi (1906 in chips) 
+Seat 5: noroc111 (14221 in chips) 
+Seat 6: boyimartinez (11215 in chips) 
+Seat 7: marney78 (16501 in chips) 
+Seat 8: Kevin12345Mc (5369 in chips) 
+Vikgork: posts the ante 24
+Jovem_FBPA1: posts the ante 24
+kr1vv: posts the ante 24
+Submittgi: posts the ante 24
+noroc111: posts the ante 24
+boyimartinez: posts the ante 24
+marney78: posts the ante 24
+Kevin12345Mc: posts the ante 24
+marney78: posts small blind 80
+Kevin12345Mc: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 6c]
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv has timed out
+kr1vv: folds 
+kr1vv is sitting out
+Submittgi: folds 
+noroc111: folds 
+boyimartinez: folds 
+kr1vv has returned
+marney78: calls 80
+Kevin12345Mc: checks 
+*** FLOP *** [7c Kc 5d]
+marney78: checks 
+Kevin12345Mc: checks 
+*** TURN *** [7c Kc 5d] [Qh]
+marney78: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [7c Kc 5d Qh] [6h]
+marney78: checks 
+Kevin12345Mc: bets 338
+marney78: folds 
+Uncalled bet (338) returned to Kevin12345Mc
+Kevin12345Mc collected 512 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 512 | Rake 0 
+Board [7c Kc 5d Qh 6h]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: Submittgi folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) folded on the River
+Seat 8: Kevin12345Mc (big blind) collected (512)
+
+
+
+PokerStars Hand #254987476980: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 16:43:02 WET [2025/02/22 11:43:02 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: Vikgork (7463 in chips) 
+Seat 2: Jovem_FBPA1 (4475 in chips) 
+Seat 3: kr1vv (3721 in chips) 
+Seat 4: Submittgi (1882 in chips) 
+Seat 5: noroc111 (14197 in chips) 
+Seat 6: boyimartinez (11191 in chips) 
+Seat 7: marney78 (16317 in chips) 
+Seat 8: Kevin12345Mc (5697 in chips) 
+Vikgork: posts the ante 24
+Jovem_FBPA1: posts the ante 24
+kr1vv: posts the ante 24
+Submittgi: posts the ante 24
+noroc111: posts the ante 24
+boyimartinez: posts the ante 24
+marney78: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Kevin12345Mc: posts small blind 80
+Vikgork: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 5c]
+Jovem_FBPA1: raises 160 to 320
+kr1vv: folds 
+Submittgi: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: calls 160
+*** FLOP *** [4d Ad Kc]
+Vikgork: checks 
+Jovem_FBPA1: bets 300
+Vikgork: raises 620 to 920
+Jovem_FBPA1: folds 
+Uncalled bet (620) returned to Vikgork
+Vikgork collected 1512 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 1512 | Rake 0 
+Board [4d Ad Kc]
+Seat 1: Vikgork (big blind) collected (1512)
+Seat 2: Jovem_FBPA1 folded on the Flop
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: Submittgi folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254987490808: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 16:44:00 WET [2025/02/22 11:44:00 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: Vikgork (8331 in chips) 
+Seat 2: Jovem_FBPA1 (3831 in chips) 
+Seat 3: kr1vv (3697 in chips) 
+Seat 4: Submittgi (1858 in chips) 
+Seat 5: noroc111 (14173 in chips) 
+Seat 6: boyimartinez (11167 in chips) 
+Seat 7: marney78 (16293 in chips) 
+Seat 8: Kevin12345Mc (5593 in chips) 
+Vikgork: posts the ante 24
+Jovem_FBPA1: posts the ante 24
+kr1vv: posts the ante 24
+Submittgi: posts the ante 24
+noroc111: posts the ante 24
+boyimartinez: posts the ante 24
+marney78: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Vikgork: posts small blind 80
+Jovem_FBPA1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks Ts]
+kr1vv: raises 160 to 320
+Submittgi: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: calls 320
+Vikgork: calls 240
+Jovem_FBPA1: folds 
+*** FLOP *** [8c Qd 7h]
+Vikgork: bets 328
+kr1vv: calls 328
+Kevin12345Mc: folds 
+*** TURN *** [8c Qd 7h] [2s]
+Vikgork: bets 984
+kr1vv: folds 
+Uncalled bet (984) returned to Vikgork
+Vikgork collected 1968 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 1968 | Rake 0 
+Board [8c Qd 7h 2s]
+Seat 1: Vikgork (small blind) collected (1968)
+Seat 2: Jovem_FBPA1 (big blind) folded before Flop
+Seat 3: kr1vv folded on the Turn
+Seat 4: Submittgi folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (button) folded on the Flop
+
+
+
+PokerStars Hand #254987511162: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 16:45:25 WET [2025/02/22 11:45:25 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: Vikgork (9627 in chips) 
+Seat 2: Jovem_FBPA1 (3647 in chips) 
+Seat 3: kr1vv (3025 in chips) 
+Seat 4: Submittgi (1834 in chips) 
+Seat 5: noroc111 (14149 in chips) 
+Seat 6: boyimartinez (11143 in chips) 
+Seat 7: marney78 (16269 in chips) 
+Seat 8: Kevin12345Mc (5249 in chips) 
+Vikgork: posts the ante 24
+Jovem_FBPA1: posts the ante 24
+kr1vv: posts the ante 24
+Submittgi: posts the ante 24
+noroc111: posts the ante 24
+boyimartinez: posts the ante 24
+marney78: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Jovem_FBPA1: posts small blind 80
+kr1vv: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Qd]
+Submittgi: raises 1650 to 1810 and is all-in
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 7793 to 9603 and is all-in
+Jovem_FBPA1: folds 
+kr1vv: folds 
+Uncalled bet (7793) returned to Vikgork
+*** FLOP *** [5c 2h 2c]
+*** TURN *** [5c 2h 2c] [Kh]
+*** RIVER *** [5c 2h 2c Kh] [Qc]
+*** SHOW DOWN ***
+Submittgi: shows [Ad 9d] (a pair of Deuces)
+Vikgork: shows [3s 3d] (two pair, Threes and Deuces)
+Vikgork collected 4052 from pot
+Submittgi finished the tournament
+*** SUMMARY ***
+Total pot 4052 | Rake 0 
+Board [5c 2h 2c Kh Qc]
+Seat 1: Vikgork (button) showed [3s 3d] and won (4052) with two pair, Threes and Deuces
+Seat 2: Jovem_FBPA1 (small blind) folded before Flop
+Seat 3: kr1vv (big blind) folded before Flop
+Seat 4: Submittgi showed [Ad 9d] and lost with a pair of Deuces
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987519034: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 16:45:58 WET [2025/02/22 11:45:58 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: Vikgork (11845 in chips) 
+Seat 2: Jovem_FBPA1 (3543 in chips) 
+Seat 3: kr1vv (2841 in chips) 
+Seat 5: noroc111 (14125 in chips) 
+Seat 6: boyimartinez (11119 in chips) 
+Seat 7: marney78 (16245 in chips) 
+Seat 8: Kevin12345Mc (5225 in chips) 
+Vikgork: posts the ante 24
+Jovem_FBPA1: posts the ante 24
+kr1vv: posts the ante 24
+noroc111: posts the ante 24
+boyimartinez: posts the ante 24
+marney78: posts the ante 24
+Kevin12345Mc: posts the ante 24
+kr1vv: posts small blind 80
+noroc111: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 4c]
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: raises 160 to 320
+kr1vv: folds 
+noroc111: folds 
+Uncalled bet (160) returned to Jovem_FBPA1
+Jovem_FBPA1 collected 568 from pot
+Jovem_FBPA1: doesn't show hand 
+*** SUMMARY ***
+Total pot 568 | Rake 0 
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 (button) collected (568)
+Seat 3: kr1vv (small blind) folded before Flop
+Seat 5: noroc111 (big blind) folded before Flop
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987526505: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 16:46:30 WET [2025/02/22 11:46:30 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: Vikgork (11821 in chips) 
+Seat 2: Jovem_FBPA1 (3927 in chips) 
+Seat 3: kr1vv (2737 in chips) 
+Seat 5: noroc111 (13941 in chips) 
+Seat 6: boyimartinez (11095 in chips) 
+Seat 7: marney78 (16221 in chips) 
+Seat 8: Kevin12345Mc (5201 in chips) 
+Vikgork: posts the ante 24
+Jovem_FBPA1: posts the ante 24
+kr1vv: posts the ante 24
+noroc111: posts the ante 24
+boyimartinez: posts the ante 24
+marney78: posts the ante 24
+Kevin12345Mc: posts the ante 24
+noroc111: posts small blind 80
+boyimartinez: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah Kd]
+marney78: folds 
+Kevin12345Mc: raises 192 to 352
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+noroc111: calls 272
+boyimartinez: calls 192
+*** FLOP *** [Ks 7s 9s]
+noroc111: checks 
+POHLAD is disconnected 
+boyimartinez: checks 
+Kevin12345Mc: bets 404
+noroc111: folds 
+boyimartinez: calls 404
+*** TURN *** [Ks 7s 9s] [7c]
+boyimartinez: checks 
+Kevin12345Mc: bets 671
+boyimartinez: calls 671
+*** RIVER *** [Ks 7s 9s 7c] [4h]
+boyimartinez: checks 
+Kevin12345Mc: bets 1113
+boyimartinez: calls 1113
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ah Kd] (two pair, Kings and Sevens)
+boyimartinez: mucks hand 
+Kevin12345Mc collected 5600 from pot
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Board [Ks 7s 9s 7c 4h]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv (button) folded before Flop (didn't bet)
+Seat 5: noroc111 (small blind) folded on the Flop
+Seat 6: boyimartinez (big blind) mucked [9h 8d]
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc showed [Ah Kd] and won (5600) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #254987544510: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 16:47:45 WET [2025/02/22 11:47:45 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: Vikgork (11797 in chips) 
+Seat 2: Jovem_FBPA1 (3903 in chips) 
+Seat 3: kr1vv (2713 in chips) 
+Seat 4: POHLAD (5000 in chips) 
+Seat 5: noroc111 (13565 in chips) 
+Seat 6: boyimartinez (8531 in chips) 
+Seat 7: marney78 (16197 in chips) 
+Seat 8: Kevin12345Mc (8237 in chips) 
+Vikgork: posts the ante 24
+Jovem_FBPA1: posts the ante 24
+kr1vv: posts the ante 24
+POHLAD: posts the ante 24
+noroc111: posts the ante 24
+boyimartinez: posts the ante 24
+marney78: posts the ante 24
+Kevin12345Mc: posts the ante 24
+boyimartinez: posts small blind 80
+marney78: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Th]
+Kevin12345Mc: folds 
+Vikgork: raises 160 to 320
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: calls 320
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+*** FLOP *** [4d 6h 4s]
+Vikgork: bets 268
+POHLAD: calls 268
+*** TURN *** [4d 6h 4s] [Kc]
+Vikgork: bets 804
+POHLAD: folds 
+Uncalled bet (804) returned to Vikgork
+Vikgork collected 1608 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 1608 | Rake 0 
+Board [4d 6h 4s Kc]
+Seat 1: Vikgork collected (1608)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD folded on the Turn
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) folded before Flop
+Seat 7: marney78 (big blind) folded before Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987557902: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 16:48:41 WET [2025/02/22 11:48:41 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: Vikgork (12793 in chips) 
+Seat 2: Jovem_FBPA1 (3879 in chips) 
+Seat 3: kr1vv (2689 in chips) 
+Seat 4: POHLAD (4388 in chips) 
+Seat 5: noroc111 (13541 in chips) 
+Seat 6: boyimartinez (8427 in chips) 
+Seat 7: marney78 (16013 in chips) 
+Seat 8: Kevin12345Mc (8213 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+marney78: posts small blind 90
+Kevin12345Mc: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Ad]
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: raises 180 to 360
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: calls 180
+*** FLOP *** [Js Kc 2h]
+Kevin12345Mc: checks 
+POHLAD: bets 339
+Kevin12345Mc: calls 339
+*** TURN *** [Js Kc 2h] [5s]
+Kevin12345Mc: checks 
+POHLAD: checks 
+*** RIVER *** [Js Kc 2h 5s] [Qh]
+Kevin12345Mc: checks 
+POHLAD: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [2s Ad] (a pair of Deuces)
+POHLAD: mucks hand 
+Kevin12345Mc collected 1704 from pot
+*** SUMMARY ***
+Total pot 1704 | Rake 0 
+Board [Js Kc 2h 5s Qh]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD mucked [Ah 7h]
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) folded before Flop
+Seat 8: Kevin12345Mc (big blind) showed [2s Ad] and won (1704) with a pair of Deuces
+
+
+
+PokerStars Hand #254987571768: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 16:49:39 WET [2025/02/22 11:49:39 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: Vikgork (12766 in chips) 
+Seat 2: Jovem_FBPA1 (3852 in chips) 
+Seat 3: kr1vv (2662 in chips) 
+Seat 4: POHLAD (3662 in chips) 
+Seat 5: noroc111 (13514 in chips) 
+Seat 6: boyimartinez (8400 in chips) 
+Seat 7: marney78 (15896 in chips) 
+Seat 8: Kevin12345Mc (9191 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Kevin12345Mc: posts small blind 90
+Vikgork: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Ad]
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: calls 180
+Kevin12345Mc: calls 90
+Vikgork: checks 
+*** FLOP *** [2d 2c Jc]
+Kevin12345Mc: checks 
+Vikgork: bets 249
+marney78: calls 249
+Kevin12345Mc: folds 
+*** TURN *** [2d 2c Jc] [Js]
+Vikgork: bets 627
+marney78: calls 627
+*** RIVER *** [2d 2c Jc Js] [2s]
+Vikgork: checks 
+marney78: checks 
+*** SHOW DOWN ***
+Vikgork: shows [3s 6c] (a full house, Deuces full of Jacks)
+marney78: shows [Ac 7c] (a full house, Deuces full of Jacks)
+Vikgork collected 1254 from pot
+marney78 collected 1254 from pot
+*** SUMMARY ***
+Total pot 2508 | Rake 0 
+Board [2d 2c Jc Js 2s]
+Seat 1: Vikgork (big blind) showed [3s 6c] and won (1254) with a full house, Deuces full of Jacks
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) showed [Ac 7c] and won (1254) with a full house, Deuces full of Jacks
+Seat 8: Kevin12345Mc (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254987581148: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 16:50:18 WET [2025/02/22 11:50:18 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: Vikgork (12937 in chips) 
+Seat 2: Jovem_FBPA1 (3825 in chips) 
+Seat 3: kr1vv (2635 in chips) 
+Seat 4: POHLAD (3635 in chips) 
+Seat 5: noroc111 (13487 in chips) 
+Seat 6: boyimartinez (8373 in chips) 
+Seat 7: marney78 (16067 in chips) 
+Seat 8: Kevin12345Mc (8984 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Vikgork: posts small blind 90
+Jovem_FBPA1: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Kd]
+kr1vv: folds 
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 360 to 540
+Jovem_FBPA1: raises 3258 to 3798 and is all-in
+Vikgork: folds 
+Uncalled bet (3258) returned to Jovem_FBPA1
+Jovem_FBPA1 collected 1296 from pot
+Jovem_FBPA1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1296 | Rake 0 
+Seat 1: Vikgork (small blind) folded before Flop
+Seat 2: Jovem_FBPA1 (big blind) collected (1296)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987588978: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 16:50:51 WET [2025/02/22 11:50:51 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: Vikgork (12370 in chips) 
+Seat 2: Jovem_FBPA1 (4554 in chips) 
+Seat 3: kr1vv (2608 in chips) 
+Seat 4: POHLAD (3608 in chips) 
+Seat 5: noroc111 (13460 in chips) 
+Seat 6: boyimartinez (8346 in chips) 
+Seat 7: marney78 (16040 in chips) 
+Seat 8: Kevin12345Mc (8957 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Jovem_FBPA1: posts small blind 90
+kr1vv: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 4d]
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 180 to 360
+Jovem_FBPA1: folds 
+kr1vv: calls 180
+*** FLOP *** [Kc 3s Qh]
+kr1vv: checks 
+Vikgork: bets 339
+kr1vv: folds 
+Uncalled bet (339) returned to Vikgork
+Vikgork collected 1026 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 1026 | Rake 0 
+Board [Kc 3s Qh]
+Seat 1: Vikgork (button) collected (1026)
+Seat 2: Jovem_FBPA1 (small blind) folded before Flop
+Seat 3: kr1vv (big blind) folded on the Flop
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987597100: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 16:51:25 WET [2025/02/22 11:51:25 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: Vikgork (13009 in chips) 
+Seat 2: Jovem_FBPA1 (4437 in chips) 
+Seat 3: kr1vv (2221 in chips) 
+Seat 4: POHLAD (3581 in chips) 
+Seat 5: noroc111 (13433 in chips) 
+Seat 6: boyimartinez (8319 in chips) 
+Seat 7: marney78 (16013 in chips) 
+Seat 8: Kevin12345Mc (8930 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+kr1vv: posts small blind 90
+POHLAD: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 5s]
+noroc111: folds 
+boyimartinez: folds 
+marney78: calls 180
+Kevin12345Mc: folds 
+Vikgork: raises 360 to 540
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: folds 
+marney78: calls 360
+*** FLOP *** [Js 4h As]
+marney78: checks 
+Vikgork: bets 392
+marney78: folds 
+Uncalled bet (392) returned to Vikgork
+Vikgork collected 1566 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 1566 | Rake 0 
+Board [Js 4h As]
+Seat 1: Vikgork collected (1566)
+Seat 2: Jovem_FBPA1 (button) folded before Flop (didn't bet)
+Seat 3: kr1vv (small blind) folded before Flop
+Seat 4: POHLAD (big blind) folded before Flop
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded on the Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987605281: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 16:52:00 WET [2025/02/22 11:52:00 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: Vikgork (14008 in chips) 
+Seat 2: Jovem_FBPA1 (4410 in chips) 
+Seat 3: kr1vv (2104 in chips) 
+Seat 4: POHLAD (3374 in chips) 
+Seat 5: noroc111 (13406 in chips) 
+Seat 6: boyimartinez (8292 in chips) 
+Seat 7: marney78 (15446 in chips) 
+Seat 8: Kevin12345Mc (8903 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+POHLAD: posts small blind 90
+noroc111: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh Qc]
+boyimartinez: raises 180 to 360
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: calls 360
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: calls 270
+noroc111: folds 
+*** FLOP *** [3c 7d Ac]
+POHLAD: checks 
+boyimartinez: checks 
+Vikgork: bets 1098
+POHLAD: folds 
+boyimartinez: folds 
+Uncalled bet (1098) returned to Vikgork
+Vikgork collected 1476 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 1476 | Rake 0 
+Board [3c 7d Ac]
+Seat 1: Vikgork collected (1476)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv (button) folded before Flop (didn't bet)
+Seat 4: POHLAD (small blind) folded on the Flop
+Seat 5: noroc111 (big blind) folded before Flop
+Seat 6: boyimartinez folded on the Flop
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987618661: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 16:52:56 WET [2025/02/22 11:52:56 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: Vikgork (15097 in chips) 
+Seat 2: Jovem_FBPA1 (4383 in chips) 
+Seat 3: kr1vv (2077 in chips) 
+Seat 4: POHLAD (2987 in chips) 
+Seat 5: noroc111 (13199 in chips) 
+Seat 6: boyimartinez (7905 in chips) 
+Seat 7: marney78 (15419 in chips) 
+Seat 8: Kevin12345Mc (8876 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+noroc111: posts small blind 90
+boyimartinez: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 2c]
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: raises 180 to 360
+noroc111: folds 
+boyimartinez: calls 180
+*** FLOP *** [6c Ac 6h]
+boyimartinez: checks 
+POHLAD: bets 339
+boyimartinez: folds 
+Uncalled bet (339) returned to POHLAD
+POHLAD collected 1026 from pot
+POHLAD: doesn't show hand 
+*** SUMMARY ***
+Total pot 1026 | Rake 0 
+Board [6c Ac 6h]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD (button) collected (1026)
+Seat 5: noroc111 (small blind) folded before Flop
+Seat 6: boyimartinez (big blind) folded on the Flop
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987633473: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 16:53:59 WET [2025/02/22 11:53:59 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: Vikgork (15070 in chips) 
+Seat 2: Jovem_FBPA1 (4356 in chips) 
+Seat 3: kr1vv (2050 in chips) 
+Seat 4: POHLAD (3626 in chips) 
+Seat 5: noroc111 (13082 in chips) 
+Seat 6: boyimartinez (7518 in chips) 
+Seat 7: marney78 (15392 in chips) 
+Seat 8: Kevin12345Mc (8849 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+boyimartinez: posts small blind 90
+marney78: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 3d]
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: calls 90
+marney78: checks 
+*** FLOP *** [9s Tc 6s]
+boyimartinez: bets 288
+marney78: folds 
+Uncalled bet (288) returned to boyimartinez
+boyimartinez collected 576 from pot
+boyimartinez: doesn't show hand 
+*** SUMMARY ***
+Total pot 576 | Rake 0 
+Board [9s Tc 6s]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) collected (576)
+Seat 7: marney78 (big blind) folded on the Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987643850: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 16:54:44 WET [2025/02/22 11:54:44 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: Vikgork (15043 in chips) 
+Seat 2: Jovem_FBPA1 (4329 in chips) 
+Seat 3: kr1vv (2023 in chips) 
+Seat 4: POHLAD (3599 in chips) 
+Seat 5: noroc111 (13055 in chips) 
+Seat 6: boyimartinez (7887 in chips) 
+Seat 7: marney78 (15185 in chips) 
+Seat 8: Kevin12345Mc (8822 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+marney78: posts small blind 90
+Kevin12345Mc: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Ts]
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+boyimartinez is disconnected 
+POHLAD: folds 
+noroc111: folds 
+boyimartinez has timed out while disconnected
+boyimartinez: folds 
+boyimartinez is sitting out
+marney78: folds 
+Uncalled bet (90) returned to Kevin12345Mc
+Kevin12345Mc collected 396 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 396 | Rake 0 
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) folded before Flop
+Seat 8: Kevin12345Mc (big blind) collected (396)
+
+
+
+PokerStars Hand #254987731072: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 17:02:29 WET [2025/02/22 12:02:29 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: Vikgork (15016 in chips) 
+Seat 2: Jovem_FBPA1 (4302 in chips) 
+Seat 3: kr1vv (1996 in chips) 
+Seat 4: POHLAD (3572 in chips) 
+Seat 5: noroc111 (13028 in chips) 
+Seat 6: boyimartinez (7860 in chips) is sitting out
+Seat 7: marney78 (15068 in chips) 
+Seat 8: Kevin12345Mc (9101 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Kevin12345Mc: posts small blind 90
+Vikgork: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 9h]
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78 has timed out
+marney78: folds 
+marney78 is sitting out
+Kevin12345Mc: folds 
+Uncalled bet (90) returned to Vikgork
+Vikgork collected 396 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 396 | Rake 0 
+Seat 1: Vikgork (big blind) collected (396)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254987742741: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 17:03:18 WET [2025/02/22 12:03:18 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: Vikgork (15295 in chips) 
+Seat 2: Jovem_FBPA1 (4275 in chips) 
+Seat 3: kr1vv (1969 in chips) 
+Seat 4: POHLAD (3545 in chips) 
+Seat 5: noroc111 (13001 in chips) 
+Seat 6: boyimartinez (7833 in chips) is sitting out
+Seat 7: marney78 (15041 in chips) is sitting out
+Seat 8: Kevin12345Mc (8984 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Vikgork: posts small blind 90
+Jovem_FBPA1: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Ts]
+kr1vv: folds 
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 360 to 540
+Jovem_FBPA1: folds 
+Uncalled bet (360) returned to Vikgork
+marney78 has returned
+Vikgork collected 576 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 576 | Rake 0 
+Seat 1: Vikgork (small blind) collected (576)
+Seat 2: Jovem_FBPA1 (big blind) folded before Flop
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987747281: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 17:03:37 WET [2025/02/22 12:03:37 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: Vikgork (15664 in chips) 
+Seat 2: Jovem_FBPA1 (4068 in chips) 
+Seat 3: kr1vv (1942 in chips) 
+Seat 4: POHLAD (3518 in chips) 
+Seat 5: noroc111 (12974 in chips) 
+Seat 6: boyimartinez (7806 in chips) is sitting out
+Seat 7: marney78 (15014 in chips) 
+Seat 8: Kevin12345Mc (8957 in chips) 
+Vikgork: posts the ante 27
+Jovem_FBPA1: posts the ante 27
+kr1vv: posts the ante 27
+POHLAD: posts the ante 27
+noroc111: posts the ante 27
+boyimartinez: posts the ante 27
+marney78: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Jovem_FBPA1: posts small blind 90
+kr1vv: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 9h]
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: calls 180
+Kevin12345Mc: folds 
+Vikgork: raises 360 to 540
+Jovem_FBPA1: folds 
+kr1vv: raises 1375 to 1915 and is all-in
+marney78: calls 1735
+Vikgork: folds 
+*** FLOP *** [Tc 5s Ad]
+*** TURN *** [Tc 5s Ad] [8h]
+*** RIVER *** [Tc 5s Ad 8h] [9s]
+*** SHOW DOWN ***
+kr1vv: shows [Jc Ac] (a pair of Aces)
+marney78: shows [Jh As] (a pair of Aces)
+kr1vv collected 2338 from pot
+marney78 collected 2338 from pot
+*** SUMMARY ***
+Total pot 4676 | Rake 0 
+Board [Tc 5s Ad 8h 9s]
+Seat 1: Vikgork (button) folded before Flop
+Seat 2: Jovem_FBPA1 (small blind) folded before Flop
+Seat 3: kr1vv (big blind) showed [Jc Ac] and won (2338) with a pair of Aces
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 showed [Jh As] and won (2338) with a pair of Aces
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987755754: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:04:14 WET [2025/02/22 12:04:14 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: Vikgork (15097 in chips) 
+Seat 2: Jovem_FBPA1 (3951 in chips) 
+Seat 3: kr1vv (2338 in chips) 
+Seat 4: POHLAD (3491 in chips) 
+Seat 5: noroc111 (12947 in chips) 
+Seat 6: boyimartinez (7779 in chips) is sitting out
+Seat 7: marney78 (15410 in chips) 
+Seat 8: Kevin12345Mc (8930 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+kr1vv: posts small blind 100
+POHLAD: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 8s]
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 200 to 400
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: folds 
+Uncalled bet (200) returned to Vikgork
+Vikgork collected 740 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Seat 1: Vikgork collected (740)
+Seat 2: Jovem_FBPA1 (button) folded before Flop (didn't bet)
+Seat 3: kr1vv (small blind) folded before Flop
+Seat 4: POHLAD (big blind) folded before Flop
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987762262: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:04:41 WET [2025/02/22 12:04:41 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: Vikgork (15607 in chips) 
+Seat 2: Jovem_FBPA1 (3921 in chips) 
+Seat 3: kr1vv (2208 in chips) 
+Seat 4: POHLAD (3261 in chips) 
+Seat 5: noroc111 (12917 in chips) 
+Seat 6: boyimartinez (7749 in chips) is sitting out
+Seat 7: marney78 (15380 in chips) 
+Seat 8: Kevin12345Mc (8900 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+POHLAD: posts small blind 100
+noroc111: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 6c]
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 200 to 400
+Jovem_FBPA1: folds 
+kr1vv: raises 1778 to 2178 and is all-in
+POHLAD: folds 
+noroc111: folds 
+Vikgork: folds 
+Uncalled bet (1778) returned to kr1vv
+kr1vv collected 1340 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Seat 1: Vikgork folded before Flop
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv (button) collected (1340)
+Seat 4: POHLAD (small blind) folded before Flop
+Seat 5: noroc111 (big blind) folded before Flop
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987770514: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:05:15 WET [2025/02/22 12:05:15 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: Vikgork (15177 in chips) 
+Seat 2: Jovem_FBPA1 (3891 in chips) 
+Seat 3: kr1vv (3118 in chips) 
+Seat 4: POHLAD (3131 in chips) 
+Seat 5: noroc111 (12687 in chips) 
+Seat 6: boyimartinez (7719 in chips) is sitting out
+Seat 7: marney78 (15350 in chips) 
+Seat 8: Kevin12345Mc (8870 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+noroc111: posts small blind 100
+boyimartinez: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Ah]
+marney78: raises 200 to 400
+Kevin12345Mc: calls 400
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: folds 
+noroc111: calls 300
+boyimartinez: folds 
+*** FLOP *** [8c 2d Jc]
+noroc111: checks 
+marney78: checks 
+Kevin12345Mc: checks 
+*** TURN *** [8c 2d Jc] [5h]
+noroc111: checks 
+marney78: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [8c 2d Jc 5h] [Th]
+noroc111: checks 
+marney78: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+noroc111: shows [6h Qh] (high card Queen)
+marney78: shows [Ad Kc] (high card Ace)
+Kevin12345Mc: mucks hand 
+marney78 collected 1640 from pot
+*** SUMMARY ***
+Total pot 1640 | Rake 0 
+Board [8c 2d Jc 5h Th]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD (button) folded before Flop (didn't bet)
+Seat 5: noroc111 (small blind) showed [6h Qh] and lost with high card Queen
+Seat 6: boyimartinez (big blind) folded before Flop
+Seat 7: marney78 showed [Ad Kc] and won (1640) with high card Ace
+Seat 8: Kevin12345Mc mucked [4h Ah]
+
+
+
+PokerStars Hand #254987784829: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:06:14 WET [2025/02/22 12:06:14 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: Vikgork (15147 in chips) 
+Seat 2: Jovem_FBPA1 (3861 in chips) 
+Seat 3: kr1vv (3088 in chips) 
+Seat 4: POHLAD (3101 in chips) 
+Seat 5: noroc111 (12257 in chips) 
+Seat 6: boyimartinez (7489 in chips) is sitting out
+Seat 7: marney78 (16560 in chips) 
+Seat 8: Kevin12345Mc (8440 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+boyimartinez: posts small blind 100
+marney78: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 7c]
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: folds 
+Uncalled bet (100) returned to marney78
+marney78 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) folded before Flop
+Seat 7: marney78 (big blind) collected (440)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987788418: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:06:30 WET [2025/02/22 12:06:30 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: Vikgork (15117 in chips) 
+Seat 2: Jovem_FBPA1 (3831 in chips) 
+Seat 3: kr1vv (3058 in chips) 
+Seat 4: POHLAD (3071 in chips) 
+Seat 5: noroc111 (12227 in chips) 
+Seat 6: boyimartinez (7359 in chips) is sitting out
+Seat 7: marney78 (16870 in chips) 
+Seat 8: Kevin12345Mc (8410 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+marney78: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Jd]
+Vikgork: folds 
+Jovem_FBPA1: raises 200 to 400
+kr1vv: folds 
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: calls 200
+*** FLOP *** [3s Kd 7d]
+Kevin12345Mc: checks 
+Jovem_FBPA1: bets 376
+Kevin12345Mc: folds 
+Uncalled bet (376) returned to Jovem_FBPA1
+Jovem_FBPA1 collected 1140 from pot
+Jovem_FBPA1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [3s Kd 7d]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 collected (1140)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) folded before Flop
+Seat 8: Kevin12345Mc (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254987804961: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:07:39 WET [2025/02/22 12:07:39 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: Vikgork (15087 in chips) 
+Seat 2: Jovem_FBPA1 (4541 in chips) 
+Seat 3: kr1vv (3028 in chips) 
+Seat 4: POHLAD (3041 in chips) 
+Seat 5: noroc111 (12197 in chips) 
+Seat 6: boyimartinez (7329 in chips) is sitting out
+Seat 7: marney78 (16740 in chips) 
+Seat 8: Kevin12345Mc (7980 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Kevin12345Mc: posts small blind 100
+Vikgork: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 3s]
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: raises 400 to 600
+Kevin12345Mc: folds 
+Vikgork: raises 14457 to 15057 and is all-in
+marney78 has timed out
+marney78: folds 
+marney78 is sitting out
+Uncalled bet (14457) returned to Vikgork
+Vikgork collected 1540 from pot
+Vikgork: doesn't show hand 
+marney78 has returned
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Seat 1: Vikgork (big blind) collected (1540)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) folded before Flop
+Seat 8: Kevin12345Mc (small blind) folded before Flop
+
+
+
+PokerStars Hand #254987817929: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:08:33 WET [2025/02/22 12:08:33 ET]
+Table '3858857102 73' 8-max Seat #8 is the button
+Seat 1: Vikgork (15997 in chips) 
+Seat 2: Jovem_FBPA1 (4511 in chips) 
+Seat 3: kr1vv (2998 in chips) 
+Seat 4: POHLAD (3011 in chips) 
+Seat 5: noroc111 (12167 in chips) 
+Seat 6: boyimartinez (7299 in chips) is sitting out
+Seat 7: marney78 (16110 in chips) 
+Seat 8: Kevin12345Mc (7850 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Vikgork: posts small blind 100
+Jovem_FBPA1: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Jc]
+kr1vv: folds 
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 400 to 600
+Jovem_FBPA1: folds 
+Uncalled bet (400) returned to Vikgork
+Vikgork collected 640 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Seat 1: Vikgork (small blind) collected (640)
+Seat 2: Jovem_FBPA1 (big blind) folded before Flop
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987826240: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:09:08 WET [2025/02/22 12:09:08 ET]
+Table '3858857102 73' 8-max Seat #1 is the button
+Seat 1: Vikgork (16407 in chips) 
+Seat 2: Jovem_FBPA1 (4281 in chips) 
+Seat 3: kr1vv (2968 in chips) 
+Seat 4: POHLAD (2981 in chips) 
+Seat 5: noroc111 (12137 in chips) 
+Seat 6: boyimartinez (7269 in chips) is sitting out
+Seat 7: marney78 (16080 in chips) 
+Seat 8: Kevin12345Mc (7820 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Jovem_FBPA1: posts small blind 100
+kr1vv: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 5s]
+POHLAD: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: raises 4051 to 4251 and is all-in
+kr1vv: folds 
+Uncalled bet (4051) returned to Jovem_FBPA1
+Jovem_FBPA1 collected 640 from pot
+Jovem_FBPA1: doesn't show hand 
+*** SUMMARY ***
+Total pot 640 | Rake 0 
+Seat 1: Vikgork (button) folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 (small blind) collected (640)
+Seat 3: kr1vv (big blind) folded before Flop
+Seat 4: POHLAD folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987830392: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:09:25 WET [2025/02/22 12:09:25 ET]
+Table '3858857102 73' 8-max Seat #2 is the button
+Seat 1: Vikgork (16377 in chips) 
+Seat 2: Jovem_FBPA1 (4691 in chips) 
+Seat 3: kr1vv (2738 in chips) 
+Seat 4: POHLAD (2951 in chips) 
+Seat 5: noroc111 (12107 in chips) 
+Seat 6: boyimartinez (7239 in chips) is sitting out
+Seat 7: marney78 (16050 in chips) 
+Seat 8: Kevin12345Mc (7790 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+kr1vv: posts small blind 100
+POHLAD: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Qh]
+noroc111: folds 
+boyimartinez: folds 
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: raises 200 to 400
+Jovem_FBPA1: folds 
+kr1vv: raises 2308 to 2708 and is all-in
+POHLAD: folds 
+Vikgork: folds 
+Uncalled bet (2308) returned to kr1vv
+kr1vv collected 1240 from pot
+kr1vv: doesn't show hand 
+*** SUMMARY ***
+Total pot 1240 | Rake 0 
+Seat 1: Vikgork folded before Flop
+Seat 2: Jovem_FBPA1 (button) folded before Flop (didn't bet)
+Seat 3: kr1vv (small blind) collected (1240)
+Seat 4: POHLAD (big blind) folded before Flop
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987836966: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:09:53 WET [2025/02/22 12:09:53 ET]
+Table '3858857102 73' 8-max Seat #3 is the button
+Seat 1: Vikgork (15947 in chips) 
+Seat 2: Jovem_FBPA1 (4661 in chips) 
+Seat 3: kr1vv (3548 in chips) 
+Seat 4: POHLAD (2721 in chips) 
+Seat 5: noroc111 (12077 in chips) 
+Seat 6: boyimartinez (7209 in chips) is sitting out
+Seat 7: marney78 (16020 in chips) 
+Seat 8: Kevin12345Mc (7760 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+POHLAD: posts small blind 100
+noroc111: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 7s]
+boyimartinez: folds 
+marney78: calls 200
+Kevin12345Mc: folds 
+Vikgork: calls 200
+Jovem_FBPA1: folds 
+kr1vv: raises 500 to 700
+POHLAD: folds 
+noroc111: folds 
+marney78: calls 500
+Vikgork: calls 500
+*** FLOP *** [3s As 2d]
+marney78: checks 
+Vikgork: bets 860
+kr1vv: folds 
+marney78: folds 
+Uncalled bet (860) returned to Vikgork
+Vikgork collected 2640 from pot
+Vikgork: doesn't show hand 
+*** SUMMARY ***
+Total pot 2640 | Rake 0 
+Board [3s As 2d]
+Seat 1: Vikgork collected (2640)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv (button) folded on the Flop
+Seat 4: POHLAD (small blind) folded before Flop
+Seat 5: noroc111 (big blind) folded before Flop
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 folded on the Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987854842: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:11:06 WET [2025/02/22 12:11:06 ET]
+Table '3858857102 73' 8-max Seat #4 is the button
+Seat 1: Vikgork (17857 in chips) 
+Seat 2: Jovem_FBPA1 (4631 in chips) 
+Seat 3: kr1vv (2818 in chips) 
+Seat 4: POHLAD (2591 in chips) 
+Seat 5: noroc111 (11847 in chips) 
+Seat 6: boyimartinez (7179 in chips) is sitting out
+Seat 7: marney78 (15290 in chips) 
+Seat 8: Kevin12345Mc (7730 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+noroc111: posts small blind 100
+boyimartinez: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 2s]
+marney78: folds 
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: folds 
+noroc111: folds 
+Uncalled bet (100) returned to boyimartinez
+boyimartinez collected 440 from pot
+boyimartinez: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD (button) folded before Flop (didn't bet)
+Seat 5: noroc111 (small blind) folded before Flop
+Seat 6: boyimartinez (big blind) collected (440)
+Seat 7: marney78 folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987860443: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 17:11:29 WET [2025/02/22 12:11:29 ET]
+Table '3858857102 73' 8-max Seat #5 is the button
+Seat 1: Vikgork (17827 in chips) 
+Seat 2: Jovem_FBPA1 (4601 in chips) 
+Seat 3: kr1vv (2788 in chips) 
+Seat 4: POHLAD (2561 in chips) 
+Seat 5: noroc111 (11717 in chips) 
+Seat 6: boyimartinez (7489 in chips) is sitting out
+Seat 7: marney78 (15260 in chips) 
+Seat 8: Kevin12345Mc (7700 in chips) 
+Vikgork: posts the ante 30
+Jovem_FBPA1: posts the ante 30
+kr1vv: posts the ante 30
+POHLAD: posts the ante 30
+noroc111: posts the ante 30
+boyimartinez: posts the ante 30
+marney78: posts the ante 30
+Kevin12345Mc: posts the ante 30
+boyimartinez: posts small blind 100
+marney78: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 5d]
+Kevin12345Mc: folds 
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: folds 
+POHLAD: raises 2331 to 2531 and is all-in
+noroc111: folds 
+boyimartinez: folds 
+marney78: calls 2331
+*** FLOP *** [8s Tc Qc]
+*** TURN *** [8s Tc Qc] [4d]
+*** RIVER *** [8s Tc Qc 4d] [5s]
+*** SHOW DOWN ***
+marney78: shows [7d 6s] (a straight, Four to Eight)
+POHLAD: shows [Jh Qd] (a pair of Queens)
+marney78 collected 5402 from pot
+POHLAD finished the tournament
+*** SUMMARY ***
+Total pot 5402 | Rake 0 
+Board [8s Tc Qc 4d 5s]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: POHLAD showed [Jh Qd] and lost with a pair of Queens
+Seat 5: noroc111 (button) folded before Flop (didn't bet)
+Seat 6: boyimartinez (small blind) folded before Flop
+Seat 7: marney78 (big blind) showed [7d 6s] and won (5402) with a straight, Four to Eight
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254987873523: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XII (125/250) - 2025/02/22 17:12:23 WET [2025/02/22 12:12:23 ET]
+Table '3858857102 73' 8-max Seat #6 is the button
+Seat 1: Vikgork (17797 in chips) 
+Seat 2: Jovem_FBPA1 (4571 in chips) 
+Seat 3: kr1vv (2758 in chips) 
+Seat 4: jefrey112 (5000 in chips) 
+Seat 5: noroc111 (11687 in chips) 
+Seat 6: boyimartinez (7359 in chips) is sitting out
+Seat 7: marney78 (18101 in chips) 
+Seat 8: Kevin12345Mc (7670 in chips) 
+Vikgork: posts the ante 36
+Jovem_FBPA1: posts the ante 36
+kr1vv: posts the ante 36
+jefrey112: posts the ante 36
+noroc111: posts the ante 36
+boyimartinez: posts the ante 36
+marney78: posts the ante 36
+Kevin12345Mc: posts the ante 36
+marney78: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 3d]
+Vikgork: folds 
+Jovem_FBPA1: folds 
+kr1vv: raises 2472 to 2722 and is all-in
+jefrey112: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: calls 2597
+Kevin12345Mc: folds 
+*** FLOP *** [Qd Ks 4d]
+*** TURN *** [Qd Ks 4d] [8s]
+*** RIVER *** [Qd Ks 4d 8s] [Th]
+*** SHOW DOWN ***
+marney78: shows [7c Ac] (high card Ace)
+kr1vv: shows [6h 6s] (a pair of Sixes)
+kr1vv collected 5982 from pot
+*** SUMMARY ***
+Total pot 5982 | Rake 0 
+Board [Qd Ks 4d 8s Th]
+Seat 1: Vikgork folded before Flop (didn't bet)
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv showed [6h 6s] and won (5982) with a pair of Sixes
+Seat 4: jefrey112 folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez (button) folded before Flop (didn't bet)
+Seat 7: marney78 (small blind) showed [7c Ac] and lost with high card Ace
+Seat 8: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254987882861: Tournament #3858857102, $1.96+$1.96+$0.48 USD Hold'em No Limit - Level XII (125/250) - 2025/02/22 17:13:01 WET [2025/02/22 12:13:01 ET]
+Table '3858857102 73' 8-max Seat #7 is the button
+Seat 1: Vikgork (17761 in chips) 
+Seat 2: Jovem_FBPA1 (4535 in chips) 
+Seat 3: kr1vv (5982 in chips) 
+Seat 4: jefrey112 (4964 in chips) 
+Seat 5: noroc111 (11651 in chips) 
+Seat 6: boyimartinez (7323 in chips) is sitting out
+Seat 7: marney78 (15343 in chips) 
+Seat 8: Kevin12345Mc (7384 in chips) 
+Vikgork: posts the ante 36
+Jovem_FBPA1: posts the ante 36
+kr1vv: posts the ante 36
+jefrey112: posts the ante 36
+noroc111: posts the ante 36
+boyimartinez: posts the ante 36
+marney78: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Kevin12345Mc: posts small blind 125
+Vikgork: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Td]
+Jovem_FBPA1: folds 
+kr1vv has timed out
+kr1vv: folds 
+kr1vv is sitting out
+jefrey112: folds 
+noroc111: folds 
+boyimartinez: folds 
+marney78: calls 250
+Kevin12345Mc: calls 125
+Vikgork: checks 
+*** FLOP *** [5h 6h 6s]
+Kevin12345Mc: checks 
+Vikgork: bets 343
+marney78: calls 343
+Kevin12345Mc: calls 343
+*** TURN *** [5h 6h 6s] [5c]
+Kevin12345Mc: checks 
+Vikgork: bets 1784
+marney78: folds 
+Kevin12345Mc: calls 1784
+*** RIVER *** [5h 6h 6s 5c] [2s]
+Kevin12345Mc: checks 
+Vikgork: bets 15348 and is all-in
+Kevin12345Mc: calls 4971 and is all-in
+Uncalled bet (10377) returned to Vikgork
+*** SHOW DOWN ***
+Vikgork: shows [6d Qs] (a full house, Sixes full of Fives)
+Kevin12345Mc: shows [5d Td] (a full house, Fives full of Sixes)
+Vikgork collected 15577 from pot
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 15577 | Rake 0 
+Board [5h 6h 6s 5c 2s]
+Seat 1: Vikgork (big blind) showed [6d Qs] and won (15577) with a full house, Sixes full of Fives
+Seat 2: Jovem_FBPA1 folded before Flop (didn't bet)
+Seat 3: kr1vv folded before Flop (didn't bet)
+Seat 4: jefrey112 folded before Flop (didn't bet)
+Seat 5: noroc111 folded before Flop (didn't bet)
+Seat 6: boyimartinez folded before Flop (didn't bet)
+Seat 7: marney78 (button) folded on the Turn
+Seat 8: Kevin12345Mc (small blind) showed [5d Td] and lost with a full house, Fives full of Sixes
+
+
+

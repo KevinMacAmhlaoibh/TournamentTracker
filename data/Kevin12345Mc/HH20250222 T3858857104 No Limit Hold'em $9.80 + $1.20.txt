@@ -1,0 +1,4852 @@
+﻿PokerStars Hand #254988136128: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 17:29:47 WET [2025/02/22 12:29:47 ET]
+Table '3858857104 83' 8-max Seat #1 is the button
+Seat 1: Dron C K M 3 (5000 in chips) 
+Seat 2: Jimmycthag (5000 in chips) 
+Seat 3: blackwutach (5000 in chips) 
+Seat 4: Marinelord27 (5000 in chips) 
+Seat 5: Kevin12345Mc (5000 in chips) 
+Seat 6: 1walker1 (5000 in chips) 
+Seat 7: Dutra_Ítalo (5000 in chips) 
+Seat 8: Foebiii (5000 in chips) 
+Dron C K M 3: posts the ante 8
+Jimmycthag: posts the ante 8
+blackwutach: posts the ante 8
+Marinelord27: posts the ante 8
+Kevin12345Mc: posts the ante 8
+1walker1: posts the ante 8
+Dutra_Ítalo: posts the ante 8
+Foebiii: posts the ante 8
+Jimmycthag: posts small blind 25
+blackwutach: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Kh]
+Jimmycthag is disconnected 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Dutra_Ítalo: folds 
+Foebiii: folds 
+Dron C K M 3: raises 50 to 100
+Jimmycthag: folds 
+blackwutach: folds 
+Uncalled bet (50) returned to Dron C K M 3
+Dron C K M 3 collected 189 from pot
+Dron C K M 3: doesn't show hand 
+*** SUMMARY ***
+Total pot 189 | Rake 0 
+Seat 1: Dron C K M 3 (button) collected (189)
+Seat 2: Jimmycthag (small blind) folded before Flop
+Seat 3: blackwutach (big blind) folded before Flop
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Dutra_Ítalo folded before Flop (didn't bet)
+Seat 8: Foebiii folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988145430: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 17:30:23 WET [2025/02/22 12:30:23 ET]
+Table '3858857104 83' 8-max Seat #2 is the button
+Seat 1: Dron C K M 3 (5131 in chips) 
+Seat 2: Jimmycthag (4967 in chips) 
+Seat 3: blackwutach (4942 in chips) 
+Seat 4: Marinelord27 (4992 in chips) 
+Seat 5: Kevin12345Mc (4992 in chips) 
+Seat 6: 1walker1 (4992 in chips) 
+Seat 7: Dutra_Ítalo (4992 in chips) 
+Seat 8: Foebiii (4992 in chips) 
+Dron C K M 3: posts the ante 8
+Jimmycthag: posts the ante 8
+blackwutach: posts the ante 8
+Marinelord27: posts the ante 8
+Kevin12345Mc: posts the ante 8
+1walker1: posts the ante 8
+Dutra_Ítalo: posts the ante 8
+Foebiii: posts the ante 8
+blackwutach: posts small blind 25
+Marinelord27: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 5d]
+Kevin12345Mc: folds 
+1walker1: folds 
+Dutra_Ítalo: folds 
+Foebiii: folds 
+Dron C K M 3: raises 50 to 100
+Jimmycthag: calls 100
+blackwutach: folds 
+Marinelord27: folds 
+*** FLOP *** [9c 4c Ks]
+Dron C K M 3: bets 85
+Jimmycthag: raises 355 to 440
+Dron C K M 3: calls 355
+*** TURN *** [9c 4c Ks] [Ts]
+Dron C K M 3: checks 
+Jimmycthag: checks 
+*** RIVER *** [9c 4c Ks Ts] [3h]
+Dron C K M 3: bets 1250
+Jimmycthag: folds 
+Uncalled bet (1250) returned to Dron C K M 3
+Dron C K M 3 collected 1219 from pot
+Dron C K M 3: doesn't show hand 
+*** SUMMARY ***
+Total pot 1219 | Rake 0 
+Board [9c 4c Ks Ts 3h]
+Seat 1: Dron C K M 3 collected (1219)
+Seat 2: Jimmycthag (button) folded on the River
+Seat 3: blackwutach (small blind) folded before Flop
+Seat 4: Marinelord27 (big blind) folded before Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Dutra_Ítalo folded before Flop (didn't bet)
+Seat 8: Foebiii folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988162468: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 17:31:30 WET [2025/02/22 12:31:30 ET]
+Table '3858857104 83' 8-max Seat #3 is the button
+Seat 1: Dron C K M 3 (5802 in chips) 
+Seat 2: Jimmycthag (4419 in chips) 
+Seat 3: blackwutach (4909 in chips) 
+Seat 4: Marinelord27 (4934 in chips) 
+Seat 5: Kevin12345Mc (4984 in chips) 
+Seat 6: 1walker1 (4984 in chips) 
+Seat 8: Foebiii (4984 in chips) 
+Dron C K M 3: posts the ante 8
+Jimmycthag: posts the ante 8
+blackwutach: posts the ante 8
+Marinelord27: posts the ante 8
+Kevin12345Mc: posts the ante 8
+1walker1: posts the ante 8
+Foebiii: posts the ante 8
+Marinelord27: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 7h]
+Gun1o is disconnected 
+1walker1: folds 
+Foebiii: folds 
+Dron C K M 3: folds 
+Jimmycthag: folds 
+blackwutach: folds 
+Marinelord27: calls 25
+Kevin12345Mc: checks 
+*** FLOP *** [Kc Jc 3d]
+Marinelord27: checks 
+Kevin12345Mc: checks 
+*** TURN *** [Kc Jc 3d] [As]
+Marinelord27: bets 62
+Kevin12345Mc: folds 
+Uncalled bet (62) returned to Marinelord27
+Marinelord27 collected 156 from pot
+*** SUMMARY ***
+Total pot 156 | Rake 0 
+Board [Kc Jc 3d As]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: Jimmycthag folded before Flop (didn't bet)
+Seat 3: blackwutach (button) folded before Flop (didn't bet)
+Seat 4: Marinelord27 (small blind) collected (156)
+Seat 5: Kevin12345Mc (big blind) folded on the Turn
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 8: Foebiii folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988174194: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 17:32:16 WET [2025/02/22 12:32:16 ET]
+Table '3858857104 83' 8-max Seat #4 is the button
+Seat 1: Dron C K M 3 (5794 in chips) 
+Seat 2: Jimmycthag (4411 in chips) 
+Seat 3: blackwutach (4901 in chips) 
+Seat 4: Marinelord27 (5032 in chips) 
+Seat 5: Kevin12345Mc (4926 in chips) 
+Seat 6: 1walker1 (4976 in chips) 
+Seat 7: Gun1o (5000 in chips) 
+Seat 8: Foebiii (4976 in chips) 
+Dron C K M 3: posts the ante 8
+Jimmycthag: posts the ante 8
+blackwutach: posts the ante 8
+Marinelord27: posts the ante 8
+Kevin12345Mc: posts the ante 8
+1walker1: posts the ante 8
+Gun1o: posts the ante 8
+Foebiii: posts the ante 8
+Kevin12345Mc: posts small blind 25
+1walker1: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s Kc]
+Gun1o: folds 
+Foebiii: folds 
+Dron C K M 3: raises 50 to 100
+Jimmycthag: folds 
+blackwutach: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: raises 300 to 400
+Dron C K M 3: folds 
+Uncalled bet (300) returned to 1walker1
+1walker1 collected 289 from pot
+*** SUMMARY ***
+Total pot 289 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop
+Seat 2: Jimmycthag folded before Flop (didn't bet)
+Seat 3: blackwutach folded before Flop (didn't bet)
+Seat 4: Marinelord27 (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) folded before Flop
+Seat 6: 1walker1 (big blind) collected (289)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: Foebiii folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988185709: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 17:33:01 WET [2025/02/22 12:33:01 ET]
+Table '3858857104 83' 8-max Seat #5 is the button
+Seat 1: Dron C K M 3 (5686 in chips) 
+Seat 2: Jimmycthag (4403 in chips) 
+Seat 3: blackwutach (4893 in chips) 
+Seat 4: Marinelord27 (5024 in chips) 
+Seat 5: Kevin12345Mc (4893 in chips) 
+Seat 6: 1walker1 (5157 in chips) 
+Seat 7: Gun1o (4992 in chips) 
+Seat 8: Foebiii (4968 in chips) 
+Dron C K M 3: posts the ante 8
+Jimmycthag: posts the ante 8
+blackwutach: posts the ante 8
+Marinelord27: posts the ante 8
+Kevin12345Mc: posts the ante 8
+1walker1: posts the ante 8
+Gun1o: posts the ante 8
+Foebiii: posts the ante 8
+1walker1: posts small blind 25
+Gun1o: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Qc]
+Foebiii: folds 
+Dron C K M 3: folds 
+Jimmycthag: folds 
+blackwutach: folds 
+Marinelord27: raises 50 to 100
+Kevin12345Mc: calls 100
+1walker1: folds 
+Gun1o: calls 50
+*** FLOP *** [Th 9s Qs]
+Gun1o: checks 
+Marinelord27: bets 156
+Kevin12345Mc: calls 156
+Gun1o: raises 429 to 585
+Marinelord27: calls 429
+Kevin12345Mc: calls 429
+*** TURN *** [Th 9s Qs] [Jh]
+Gun1o: bets 1072
+Marinelord27: calls 1072
+Kevin12345Mc: folds 
+*** RIVER *** [Th 9s Qs Jh] [5h]
+Gun1o: checks 
+Marinelord27: checks 
+*** SHOW DOWN ***
+Gun1o: shows [Js Kh] (a straight, Nine to King)
+Marinelord27: mucks hand 
+Gun1o collected 4288 from pot
+*** SUMMARY ***
+Total pot 4288 | Rake 0 
+Board [Th 9s Qs Jh 5h]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: Jimmycthag folded before Flop (didn't bet)
+Seat 3: blackwutach folded before Flop (didn't bet)
+Seat 4: Marinelord27 mucked [Jd Qd]
+Seat 5: Kevin12345Mc (button) folded on the Turn
+Seat 6: 1walker1 (small blind) folded before Flop
+Seat 7: Gun1o (big blind) showed [Js Kh] and won (4288) with a straight, Nine to King
+Seat 8: Foebiii folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988217474: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 17:35:06 WET [2025/02/22 12:35:06 ET]
+Table '3858857104 83' 8-max Seat #6 is the button
+Seat 1: Dron C K M 3 (5678 in chips) 
+Seat 2: Jimmycthag (4395 in chips) 
+Seat 3: blackwutach (4885 in chips) 
+Seat 4: Marinelord27 (3259 in chips) 
+Seat 5: Kevin12345Mc (4200 in chips) 
+Seat 6: 1walker1 (5124 in chips) 
+Seat 7: Gun1o (7515 in chips) 
+Dron C K M 3: posts the ante 8
+Jimmycthag: posts the ante 8
+blackwutach: posts the ante 8
+Marinelord27: posts the ante 8
+Kevin12345Mc: posts the ante 8
+1walker1: posts the ante 8
+Gun1o: posts the ante 8
+Gun1o: posts small blind 25
+Dron C K M 3: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 4s]
+louchyAA is disconnected 
+Jimmycthag: folds 
+blackwutach: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: raises 60 to 110
+Gun1o: folds 
+Dron C K M 3: folds 
+Uncalled bet (60) returned to 1walker1
+1walker1 collected 181 from pot
+*** SUMMARY ***
+Total pot 181 | Rake 0 
+Seat 1: Dron C K M 3 (big blind) folded before Flop
+Seat 2: Jimmycthag folded before Flop (didn't bet)
+Seat 3: blackwutach folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 (button) collected (181)
+Seat 7: Gun1o (small blind) folded before Flop
+
+
+
+PokerStars Hand #254988224763: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 17:35:35 WET [2025/02/22 12:35:35 ET]
+Table '3858857104 83' 8-max Seat #7 is the button
+Seat 1: Dron C K M 3 (5620 in chips) 
+Seat 2: Jimmycthag (4387 in chips) 
+Seat 3: blackwutach (4877 in chips) 
+Seat 4: Marinelord27 (3251 in chips) 
+Seat 5: Kevin12345Mc (4192 in chips) 
+Seat 6: 1walker1 (5247 in chips) 
+Seat 7: Gun1o (7482 in chips) 
+Seat 8: louchyAA (5000 in chips) out of hand (moved from another table into small blind)
+louchyAA will be allowed to play after the button
+Dron C K M 3: posts the ante 8
+Jimmycthag: posts the ante 8
+blackwutach: posts the ante 8
+Marinelord27: posts the ante 8
+Kevin12345Mc: posts the ante 8
+1walker1: posts the ante 8
+Gun1o: posts the ante 8
+Dron C K M 3: posts small blind 25
+Jimmycthag: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 4s]
+blackwutach: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: folds 
+Dron C K M 3: raises 125 to 175
+Jimmycthag: calls 125
+*** FLOP *** [2c 3d Qc]
+Dron C K M 3: checks 
+Jimmycthag: bets 203
+Dron C K M 3: calls 203
+*** TURN *** [2c 3d Qc] [Ah]
+Dron C K M 3: checks 
+Jimmycthag: bets 406
+Dron C K M 3: folds 
+Uncalled bet (406) returned to Jimmycthag
+Jimmycthag collected 812 from pot
+*** SUMMARY ***
+Total pot 812 | Rake 0 
+Board [2c 3d Qc Ah]
+Seat 1: Dron C K M 3 (small blind) folded on the Turn
+Seat 2: Jimmycthag (big blind) collected (812)
+Seat 3: blackwutach folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988238370: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 17:36:29 WET [2025/02/22 12:36:29 ET]
+Table '3858857104 83' 8-max Seat #1 is the button
+Seat 1: Dron C K M 3 (5234 in chips) 
+Seat 2: Jimmycthag (4813 in chips) 
+Seat 4: Marinelord27 (3243 in chips) 
+Seat 5: Kevin12345Mc (4184 in chips) 
+Seat 6: 1walker1 (5239 in chips) 
+Seat 7: Gun1o (7474 in chips) 
+Seat 8: louchyAA (5000 in chips) 
+Dron C K M 3: posts the ante 8
+Jimmycthag: posts the ante 8
+Marinelord27: posts the ante 8
+Kevin12345Mc: posts the ante 8
+1walker1: posts the ante 8
+Gun1o: posts the ante 8
+louchyAA: posts the ante 8
+Jimmycthag: posts small blind 25
+Marinelord27: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 3s]
+Kevin12345Mc: folds 
+mikk30 is disconnected 
+1walker1: folds 
+Gun1o: raises 55 to 105
+louchyAA: folds 
+Dron C K M 3: folds 
+Jimmycthag: folds 
+Marinelord27: calls 55
+*** FLOP *** [Qc Tc 9h]
+Marinelord27: checks 
+Gun1o: bets 96
+Marinelord27: folds 
+Uncalled bet (96) returned to Gun1o
+Gun1o collected 291 from pot
+Gun1o: doesn't show hand 
+*** SUMMARY ***
+Total pot 291 | Rake 0 
+Board [Qc Tc 9h]
+Seat 1: Dron C K M 3 (button) folded before Flop (didn't bet)
+Seat 2: Jimmycthag (small blind) folded before Flop
+Seat 4: Marinelord27 (big blind) folded on the Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o collected (291)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988249501: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/22 17:37:12 WET [2025/02/22 12:37:12 ET]
+Table '3858857104 83' 8-max Seat #2 is the button
+Seat 1: Dron C K M 3 (5226 in chips) 
+Seat 2: Jimmycthag (4780 in chips) 
+Seat 3: mikk30 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 4: Marinelord27 (3130 in chips) 
+Seat 5: Kevin12345Mc (4176 in chips) 
+Seat 6: 1walker1 (5231 in chips) 
+Seat 7: Gun1o (7652 in chips) 
+Seat 8: louchyAA (4992 in chips) 
+mikk30 will be allowed to play after the button
+Dron C K M 3: posts the ante 8
+Jimmycthag: posts the ante 8
+Marinelord27: posts the ante 8
+Kevin12345Mc: posts the ante 8
+1walker1: posts the ante 8
+Gun1o: posts the ante 8
+louchyAA: posts the ante 8
+Marinelord27: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 9d]
+1walker1: folds 
+Gun1o: raises 55 to 105
+louchyAA: folds 
+Dron C K M 3: folds 
+Jimmycthag: calls 105
+Marinelord27: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [9c 8h 4h]
+Gun1o: bets 216
+Jimmycthag: calls 216
+*** TURN *** [9c 8h 4h] [4s]
+Gun1o: bets 1100
+Jimmycthag: calls 1100
+*** RIVER *** [9c 8h 4h 4s] [Qd]
+Gun1o: bets 6223 and is all-in
+Jimmycthag: calls 3351 and is all-in
+Uncalled bet (2872) returned to Gun1o
+*** SHOW DOWN ***
+Gun1o: shows [Qc Qh] (a full house, Queens full of Fours)
+Jimmycthag: shows [4c 3c] (three of a kind, Fours)
+Gun1o collected 9675 from pot
+Jimmycthag finished the tournament
+*** SUMMARY ***
+Total pot 9675 | Rake 0 
+Board [9c 8h 4h 4s Qd]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: Jimmycthag (button) showed [4c 3c] and lost with three of a kind, Fours
+Seat 4: Marinelord27 (small blind) folded before Flop
+Seat 5: Kevin12345Mc (big blind) folded before Flop
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o showed [Qc Qh] and won (9675) with a full house, Queens full of Fours
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988271137: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 17:38:36 WET [2025/02/22 12:38:36 ET]
+Table '3858857104 83' 8-max Seat #4 is the button
+Seat 1: Dron C K M 3 (5218 in chips) 
+Seat 3: mikk30 (5000 in chips) 
+Seat 4: Marinelord27 (3097 in chips) 
+Seat 5: Kevin12345Mc (4118 in chips) 
+Seat 6: 1walker1 (5223 in chips) 
+Seat 7: Gun1o (12547 in chips) 
+Seat 8: louchyAA (4984 in chips) 
+Dron C K M 3: posts the ante 9
+mikk30: posts the ante 9
+Marinelord27: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1walker1: posts the ante 9
+Gun1o: posts the ante 9
+louchyAA: posts the ante 9
+Kevin12345Mc: posts small blind 30
+1walker1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 3c]
+Gun1o: raises 60 to 120
+miexxx is disconnected 
+louchyAA: folds 
+Dron C K M 3: folds 
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Uncalled bet (60) returned to Gun1o
+Gun1o collected 213 from pot
+Gun1o: doesn't show hand 
+*** SUMMARY ***
+Total pot 213 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) folded before Flop
+Seat 6: 1walker1 (big blind) folded before Flop
+Seat 7: Gun1o collected (213)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988275655: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 17:38:54 WET [2025/02/22 12:38:54 ET]
+Table '3858857104 83' 8-max Seat #5 is the button
+Seat 1: Dron C K M 3 (5209 in chips) 
+Seat 2: miexxx (5000 in chips) 
+Seat 3: mikk30 (4991 in chips) 
+Seat 4: Marinelord27 (3088 in chips) 
+Seat 5: Kevin12345Mc (4079 in chips) 
+Seat 6: 1walker1 (5154 in chips) 
+Seat 7: Gun1o (12691 in chips) 
+Seat 8: louchyAA (4975 in chips) 
+Dron C K M 3: posts the ante 9
+miexxx: posts the ante 9
+mikk30: posts the ante 9
+Marinelord27: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1walker1: posts the ante 9
+Gun1o: posts the ante 9
+louchyAA: posts the ante 9
+1walker1: posts small blind 30
+Gun1o: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 6c]
+louchyAA: folds 
+Dron C K M 3: raises 60 to 120
+miexxx: folds 
+mikk30: folds 
+Marinelord27: raises 294 to 414
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: folds 
+Dron C K M 3: folds 
+Uncalled bet (294) returned to Marinelord27
+Marinelord27 collected 402 from pot
+*** SUMMARY ***
+Total pot 402 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop
+Seat 2: miexxx folded before Flop (didn't bet)
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 collected (402)
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: 1walker1 (small blind) folded before Flop
+Seat 7: Gun1o (big blind) folded before Flop
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988285787: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 17:39:34 WET [2025/02/22 12:39:34 ET]
+Table '3858857104 83' 8-max Seat #6 is the button
+Seat 1: Dron C K M 3 (5080 in chips) 
+Seat 2: miexxx (4991 in chips) 
+Seat 3: mikk30 (4982 in chips) 
+Seat 4: Marinelord27 (3361 in chips) 
+Seat 5: Kevin12345Mc (4070 in chips) 
+Seat 6: 1walker1 (5115 in chips) 
+Seat 7: Gun1o (12622 in chips) 
+Seat 8: louchyAA (4966 in chips) 
+Dron C K M 3: posts the ante 9
+miexxx: posts the ante 9
+mikk30: posts the ante 9
+Marinelord27: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1walker1: posts the ante 9
+Gun1o: posts the ante 9
+louchyAA: posts the ante 9
+Gun1o: posts small blind 30
+louchyAA: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 8c]
+Dron C K M 3: folds 
+miexxx: folds 
+mikk30: raises 72 to 132
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: folds 
+louchyAA: folds 
+Uncalled bet (72) returned to mikk30
+mikk30 collected 222 from pot
+mikk30: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: miexxx folded before Flop (didn't bet)
+Seat 3: mikk30 collected (222)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 (button) folded before Flop (didn't bet)
+Seat 7: Gun1o (small blind) folded before Flop
+Seat 8: louchyAA (big blind) folded before Flop
+
+
+
+PokerStars Hand #254988292620: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 17:40:01 WET [2025/02/22 12:40:01 ET]
+Table '3858857104 83' 8-max Seat #7 is the button
+Seat 1: Dron C K M 3 (5071 in chips) 
+Seat 2: miexxx (4982 in chips) 
+Seat 3: mikk30 (5135 in chips) 
+Seat 4: Marinelord27 (3352 in chips) 
+Seat 5: Kevin12345Mc (4061 in chips) 
+Seat 6: 1walker1 (5106 in chips) 
+Seat 7: Gun1o (12583 in chips) 
+Seat 8: louchyAA (4897 in chips) 
+Dron C K M 3: posts the ante 9
+miexxx: posts the ante 9
+mikk30: posts the ante 9
+Marinelord27: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1walker1: posts the ante 9
+Gun1o: posts the ante 9
+louchyAA: posts the ante 9
+louchyAA: posts small blind 30
+Dron C K M 3: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Kh]
+miexxx: folds 
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: folds 
+louchyAA: raises 60 to 120
+Dron C K M 3: folds 
+Uncalled bet (60) returned to louchyAA
+louchyAA collected 192 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 192 | Rake 0 
+Seat 1: Dron C K M 3 (big blind) folded before Flop
+Seat 2: miexxx folded before Flop (didn't bet)
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o (button) folded before Flop (didn't bet)
+Seat 8: louchyAA (small blind) collected (192)
+
+
+
+PokerStars Hand #254988312811: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 17:41:21 WET [2025/02/22 12:41:21 ET]
+Table '3858857104 83' 8-max Seat #8 is the button
+Seat 1: Dron C K M 3 (5002 in chips) 
+Seat 2: miexxx (4973 in chips) 
+Seat 3: mikk30 (5126 in chips) 
+Seat 4: Marinelord27 (3343 in chips) 
+Seat 5: Kevin12345Mc (4052 in chips) 
+Seat 6: 1walker1 (5097 in chips) 
+Seat 7: Gun1o (12574 in chips) 
+Seat 8: louchyAA (5020 in chips) 
+Dron C K M 3: posts the ante 9
+miexxx: posts the ante 9
+mikk30: posts the ante 9
+Marinelord27: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1walker1: posts the ante 9
+Gun1o: posts the ante 9
+louchyAA: posts the ante 9
+Dron C K M 3: posts small blind 30
+miexxx: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 4h]
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: raises 72 to 132
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: folds 
+Uncalled bet (72) returned to 1walker1
+1walker1 collected 222 from pot
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Seat 1: Dron C K M 3 (small blind) folded before Flop
+Seat 2: miexxx (big blind) folded before Flop
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 collected (222)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988321697: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 17:41:56 WET [2025/02/22 12:41:56 ET]
+Table '3858857104 83' 8-max Seat #1 is the button
+Seat 1: Dron C K M 3 (4963 in chips) 
+Seat 2: miexxx (4904 in chips) 
+Seat 3: mikk30 (5117 in chips) 
+Seat 4: Marinelord27 (3334 in chips) 
+Seat 5: Kevin12345Mc (4043 in chips) 
+Seat 6: 1walker1 (5250 in chips) 
+Seat 7: Gun1o (12565 in chips) 
+Seat 8: louchyAA (5011 in chips) 
+Dron C K M 3: posts the ante 9
+miexxx: posts the ante 9
+mikk30: posts the ante 9
+Marinelord27: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1walker1: posts the ante 9
+Gun1o: posts the ante 9
+louchyAA: posts the ante 9
+miexxx: posts small blind 30
+mikk30: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Qd]
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: folds 
+Uncalled bet (30) returned to mikk30
+mikk30 collected 132 from pot
+mikk30: doesn't show hand 
+*** SUMMARY ***
+Total pot 132 | Rake 0 
+Seat 1: Dron C K M 3 (button) folded before Flop (didn't bet)
+Seat 2: miexxx (small blind) folded before Flop
+Seat 3: mikk30 (big blind) collected (132)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988329284: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 17:42:27 WET [2025/02/22 12:42:27 ET]
+Table '3858857104 83' 8-max Seat #2 is the button
+Seat 1: Dron C K M 3 (4954 in chips) 
+Seat 2: miexxx (4865 in chips) 
+Seat 3: mikk30 (5210 in chips) 
+Seat 4: Marinelord27 (3325 in chips) 
+Seat 5: Kevin12345Mc (4034 in chips) 
+Seat 6: 1walker1 (5241 in chips) 
+Seat 7: Gun1o (12556 in chips) 
+Seat 8: louchyAA (5002 in chips) 
+Dron C K M 3: posts the ante 9
+miexxx: posts the ante 9
+mikk30: posts the ante 9
+Marinelord27: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1walker1: posts the ante 9
+Gun1o: posts the ante 9
+louchyAA: posts the ante 9
+mikk30: posts small blind 30
+Marinelord27: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Jh]
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: raises 60 to 120
+mikk30: folds 
+Marinelord27: folds 
+Uncalled bet (60) returned to miexxx
+miexxx collected 222 from pot
+miexxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: miexxx (button) collected (222)
+Seat 3: mikk30 (small blind) folded before Flop
+Seat 4: Marinelord27 (big blind) folded before Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988342847: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 17:43:20 WET [2025/02/22 12:43:20 ET]
+Table '3858857104 83' 8-max Seat #3 is the button
+Seat 1: Dron C K M 3 (4945 in chips) 
+Seat 2: miexxx (5018 in chips) 
+Seat 3: mikk30 (5171 in chips) 
+Seat 4: Marinelord27 (3256 in chips) 
+Seat 5: Kevin12345Mc (4025 in chips) 
+Seat 6: 1walker1 (5232 in chips) 
+Seat 7: Gun1o (12547 in chips) 
+Seat 8: louchyAA (4993 in chips) 
+Dron C K M 3: posts the ante 9
+miexxx: posts the ante 9
+mikk30: posts the ante 9
+Marinelord27: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1walker1: posts the ante 9
+Gun1o: posts the ante 9
+louchyAA: posts the ante 9
+Marinelord27: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Ad]
+1walker1: folds 
+Gun1o: raises 66 to 126
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: folds 
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: calls 66
+*** FLOP *** [7s 5d 8s]
+Kevin12345Mc: checks 
+Gun1o: checks 
+*** TURN *** [7s 5d 8s] [2h]
+Kevin12345Mc: checks 
+Gun1o: checks 
+*** RIVER *** [7s 5d 8s 2h] [Tc]
+Kevin12345Mc: checks 
+Gun1o: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [7h Ad] (a pair of Sevens)
+Gun1o: mucks hand 
+Kevin12345Mc collected 354 from pot
+*** SUMMARY ***
+Total pot 354 | Rake 0 
+Board [7s 5d 8s 2h Tc]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: miexxx folded before Flop (didn't bet)
+Seat 3: mikk30 (button) folded before Flop (didn't bet)
+Seat 4: Marinelord27 (small blind) folded before Flop
+Seat 5: Kevin12345Mc (big blind) showed [7h Ad] and won (354) with a pair of Sevens
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o mucked [Jc Qh]
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988354831: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 17:44:08 WET [2025/02/22 12:44:08 ET]
+Table '3858857104 83' 8-max Seat #4 is the button
+Seat 1: Dron C K M 3 (4936 in chips) 
+Seat 2: miexxx (5009 in chips) 
+Seat 3: mikk30 (5162 in chips) 
+Seat 4: Marinelord27 (3217 in chips) 
+Seat 5: Kevin12345Mc (4244 in chips) 
+Seat 6: 1walker1 (5223 in chips) 
+Seat 7: Gun1o (12412 in chips) 
+Seat 8: louchyAA (4984 in chips) 
+Dron C K M 3: posts the ante 9
+miexxx: posts the ante 9
+mikk30: posts the ante 9
+Marinelord27: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1walker1: posts the ante 9
+Gun1o: posts the ante 9
+louchyAA: posts the ante 9
+Kevin12345Mc: posts small blind 30
+1walker1: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Qs]
+Gun1o: folds 
+louchyAA: raises 72 to 132
+Dron C K M 3: folds 
+miexxx: folds 
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Uncalled bet (72) returned to louchyAA
+louchyAA collected 222 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: miexxx folded before Flop (didn't bet)
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) folded before Flop
+Seat 6: 1walker1 (big blind) folded before Flop
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA collected (222)
+
+
+
+PokerStars Hand #254988362888: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/22 17:44:41 WET [2025/02/22 12:44:41 ET]
+Table '3858857104 83' 8-max Seat #5 is the button
+Seat 1: Dron C K M 3 (4927 in chips) 
+Seat 2: miexxx (5000 in chips) 
+Seat 3: mikk30 (5153 in chips) 
+Seat 4: Marinelord27 (3208 in chips) 
+Seat 5: Kevin12345Mc (4205 in chips) 
+Seat 6: 1walker1 (5154 in chips) 
+Seat 7: Gun1o (12403 in chips) 
+Seat 8: louchyAA (5137 in chips) 
+Dron C K M 3: posts the ante 9
+miexxx: posts the ante 9
+mikk30: posts the ante 9
+Marinelord27: posts the ante 9
+Kevin12345Mc: posts the ante 9
+1walker1: posts the ante 9
+Gun1o: posts the ante 9
+louchyAA: posts the ante 9
+1walker1: posts small blind 30
+Gun1o: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 5d]
+louchyAA: folds 
+Dron C K M 3: raises 60 to 120
+miexxx: folds 
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: calls 60
+*** FLOP *** [2h Jh 8h]
+Gun1o: checks 
+Dron C K M 3: bets 60
+Gun1o: calls 60
+*** TURN *** [2h Jh 8h] [Tc]
+Gun1o: bets 270
+Dron C K M 3: calls 270
+*** RIVER *** [2h Jh 8h Tc] [7c]
+Gun1o: bets 1032
+Dron C K M 3: folds 
+Uncalled bet (1032) returned to Gun1o
+Gun1o collected 1002 from pot
+Gun1o: doesn't show hand 
+*** SUMMARY ***
+Total pot 1002 | Rake 0 
+Board [2h Jh 8h Tc 7c]
+Seat 1: Dron C K M 3 folded on the River
+Seat 2: miexxx folded before Flop (didn't bet)
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: 1walker1 (small blind) folded before Flop
+Seat 7: Gun1o (big blind) collected (1002)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988382025: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 17:45:56 WET [2025/02/22 12:45:56 ET]
+Table '3858857104 83' 8-max Seat #6 is the button
+Seat 1: Dron C K M 3 (4468 in chips) 
+Seat 2: miexxx (4991 in chips) 
+Seat 3: mikk30 (5144 in chips) 
+Seat 4: Marinelord27 (3199 in chips) 
+Seat 5: Kevin12345Mc (4196 in chips) 
+Seat 6: 1walker1 (5115 in chips) 
+Seat 7: Gun1o (12946 in chips) 
+Seat 8: louchyAA (5128 in chips) 
+Dron C K M 3: posts the ante 11
+miexxx: posts the ante 11
+mikk30: posts the ante 11
+Marinelord27: posts the ante 11
+Kevin12345Mc: posts the ante 11
+1walker1: posts the ante 11
+Gun1o: posts the ante 11
+louchyAA: posts the ante 11
+Gun1o: posts small blind 35
+louchyAA: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 7c]
+Dron C K M 3: folds 
+miexxx: raises 70 to 140
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: calls 105
+louchyAA: calls 70
+*** FLOP *** [Tc 6d Js]
+Gun1o: checks 
+louchyAA: bets 508
+miexxx: folds 
+Gun1o: calls 508
+*** TURN *** [Tc 6d Js] [Jc]
+Gun1o: checks 
+louchyAA: bets 1006
+Gun1o: folds 
+Uncalled bet (1006) returned to louchyAA
+louchyAA collected 1524 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 1524 | Rake 0 
+Board [Tc 6d Js Jc]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: miexxx folded on the Flop
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 (button) folded before Flop (didn't bet)
+Seat 7: Gun1o (small blind) folded on the Turn
+Seat 8: louchyAA (big blind) collected (1524)
+
+
+
+PokerStars Hand #254988401232: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 17:47:11 WET [2025/02/22 12:47:11 ET]
+Table '3858857104 83' 8-max Seat #7 is the button
+Seat 1: Dron C K M 3 (4457 in chips) 
+Seat 2: miexxx (4840 in chips) 
+Seat 3: mikk30 (5133 in chips) 
+Seat 4: Marinelord27 (3188 in chips) 
+Seat 5: Kevin12345Mc (4185 in chips) 
+Seat 6: 1walker1 (5104 in chips) 
+Seat 7: Gun1o (12287 in chips) 
+Seat 8: louchyAA (5993 in chips) 
+Dron C K M 3: posts the ante 11
+miexxx: posts the ante 11
+mikk30: posts the ante 11
+Marinelord27: posts the ante 11
+Kevin12345Mc: posts the ante 11
+1walker1: posts the ante 11
+Gun1o: posts the ante 11
+louchyAA: posts the ante 11
+louchyAA: posts small blind 35
+Dron C K M 3: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 6c]
+miexxx: raises 70 to 140
+mikk30: folds 
+Marinelord27: calls 140
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: raises 665 to 805
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: raises 2030 to 2835
+Marinelord27: folds 
+Gun1o: raises 9441 to 12276 and is all-in
+miexxx: calls 1994 and is all-in
+Uncalled bet (7447) returned to Gun1o
+*** FLOP *** [4d Kd Js]
+*** TURN *** [4d Kd Js] [4h]
+*** RIVER *** [4d Kd Js 4h] [8s]
+*** SHOW DOWN ***
+miexxx: shows [Kh Ks] (a full house, Kings full of Fours)
+Gun1o: shows [Kc Ad] (two pair, Kings and Fours)
+miexxx collected 9991 from pot
+*** SUMMARY ***
+Total pot 9991 | Rake 0 
+Board [4d Kd Js 4h 8s]
+Seat 1: Dron C K M 3 (big blind) folded before Flop
+Seat 2: miexxx showed [Kh Ks] and won (9991) with a full house, Kings full of Fours
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o (button) showed [Kc Ad] and lost with two pair, Kings and Fours
+Seat 8: louchyAA (small blind) folded before Flop
+
+
+
+PokerStars Hand #254988421097: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 17:48:29 WET [2025/02/22 12:48:29 ET]
+Table '3858857104 83' 8-max Seat #8 is the button
+Seat 1: Dron C K M 3 (4376 in chips) 
+Seat 2: miexxx (9991 in chips) 
+Seat 3: mikk30 (5122 in chips) 
+Seat 4: Marinelord27 (3037 in chips) 
+Seat 5: Kevin12345Mc (4174 in chips) 
+Seat 6: 1walker1 (5093 in chips) 
+Seat 7: Gun1o (7447 in chips) 
+Seat 8: louchyAA (5947 in chips) 
+Dron C K M 3: posts the ante 11
+miexxx: posts the ante 11
+mikk30: posts the ante 11
+Marinelord27: posts the ante 11
+Kevin12345Mc: posts the ante 11
+1walker1: posts the ante 11
+Gun1o: posts the ante 11
+louchyAA: posts the ante 11
+Dron C K M 3: posts small blind 35
+miexxx: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Tc]
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: raises 84 to 154
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: folds 
+Uncalled bet (84) returned to 1walker1
+1walker1 collected 263 from pot
+*** SUMMARY ***
+Total pot 263 | Rake 0 
+Seat 1: Dron C K M 3 (small blind) folded before Flop
+Seat 2: miexxx (big blind) folded before Flop
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 collected (263)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988431495: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 17:49:10 WET [2025/02/22 12:49:10 ET]
+Table '3858857104 83' 8-max Seat #1 is the button
+Seat 1: Dron C K M 3 (4330 in chips) 
+Seat 2: miexxx (9910 in chips) 
+Seat 3: mikk30 (5111 in chips) 
+Seat 4: Marinelord27 (3026 in chips) 
+Seat 5: Kevin12345Mc (4163 in chips) 
+Seat 6: 1walker1 (5275 in chips) 
+Seat 7: Gun1o (7436 in chips) 
+Seat 8: louchyAA (5936 in chips) 
+Dron C K M 3: posts the ante 11
+miexxx: posts the ante 11
+mikk30: posts the ante 11
+Marinelord27: posts the ante 11
+Kevin12345Mc: posts the ante 11
+1walker1: posts the ante 11
+Gun1o: posts the ante 11
+louchyAA: posts the ante 11
+miexxx: posts small blind 35
+mikk30: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 5h]
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: raises 77 to 147
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: calls 112
+mikk30: folds 
+*** FLOP *** [5d 3d 2d]
+miexxx: checks 
+Gun1o: checks 
+*** TURN *** [5d 3d 2d] [Qs]
+miexxx: checks 
+Gun1o: checks 
+*** RIVER *** [5d 3d 2d Qs] [4c]
+miexxx: checks 
+Gun1o: bets 245
+miexxx: folds 
+Uncalled bet (245) returned to Gun1o
+Gun1o collected 452 from pot
+Gun1o: doesn't show hand 
+*** SUMMARY ***
+Total pot 452 | Rake 0 
+Board [5d 3d 2d Qs 4c]
+Seat 1: Dron C K M 3 (button) folded before Flop (didn't bet)
+Seat 2: miexxx (small blind) folded on the River
+Seat 3: mikk30 (big blind) folded before Flop
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o collected (452)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988451910: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 17:50:30 WET [2025/02/22 12:50:30 ET]
+Table '3858857104 83' 8-max Seat #2 is the button
+Seat 1: Dron C K M 3 (4319 in chips) 
+Seat 2: miexxx (9752 in chips) 
+Seat 3: mikk30 (5030 in chips) 
+Seat 4: Marinelord27 (3015 in chips) 
+Seat 5: Kevin12345Mc (4152 in chips) 
+Seat 6: 1walker1 (5264 in chips) 
+Seat 7: Gun1o (7730 in chips) 
+Seat 8: louchyAA (5925 in chips) 
+Dron C K M 3: posts the ante 11
+miexxx: posts the ante 11
+mikk30: posts the ante 11
+Marinelord27: posts the ante 11
+Kevin12345Mc: posts the ante 11
+1walker1: posts the ante 11
+Gun1o: posts the ante 11
+louchyAA: posts the ante 11
+mikk30: posts small blind 35
+Marinelord27: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Qc]
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: raises 84 to 154
+louchyAA: folds 
+Dron C K M 3: calls 154
+miexxx: folds 
+mikk30: calls 119
+Marinelord27: calls 84
+*** FLOP *** [5h 3d Ad]
+mikk30: checks 
+Marinelord27: checks 
+Gun1o: bets 564
+Dron C K M 3: folds 
+mikk30: folds 
+Marinelord27: folds 
+Uncalled bet (564) returned to Gun1o
+Gun1o collected 704 from pot
+Gun1o: doesn't show hand 
+*** SUMMARY ***
+Total pot 704 | Rake 0 
+Board [5h 3d Ad]
+Seat 1: Dron C K M 3 folded on the Flop
+Seat 2: miexxx (button) folded before Flop (didn't bet)
+Seat 3: mikk30 (small blind) folded on the Flop
+Seat 4: Marinelord27 (big blind) folded on the Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o collected (704)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988470891: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 17:51:44 WET [2025/02/22 12:51:44 ET]
+Table '3858857104 83' 8-max Seat #3 is the button
+Seat 1: Dron C K M 3 (4154 in chips) 
+Seat 2: miexxx (9741 in chips) 
+Seat 3: mikk30 (4865 in chips) 
+Seat 4: Marinelord27 (2850 in chips) 
+Seat 5: Kevin12345Mc (4141 in chips) 
+Seat 6: 1walker1 (5253 in chips) 
+Seat 7: Gun1o (8269 in chips) 
+Seat 8: louchyAA (5914 in chips) 
+Dron C K M 3: posts the ante 11
+miexxx: posts the ante 11
+mikk30: posts the ante 11
+Marinelord27: posts the ante 11
+Kevin12345Mc: posts the ante 11
+1walker1: posts the ante 11
+Gun1o: posts the ante 11
+louchyAA: posts the ante 11
+Marinelord27: posts small blind 35
+Kevin12345Mc: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 2s]
+1walker1: raises 84 to 154
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: calls 154
+miexxx: folds 
+mikk30: folds 
+Marinelord27: raises 553 to 707
+Kevin12345Mc: folds 
+1walker1: raises 4535 to 5242 and is all-in
+Dron C K M 3: folds 
+Marinelord27: calls 2132 and is all-in
+Uncalled bet (2403) returned to 1walker1
+*** FLOP *** [Th 6c 2d]
+*** TURN *** [Th 6c 2d] [Jd]
+*** RIVER *** [Th 6c 2d Jd] [Ks]
+*** SHOW DOWN ***
+Marinelord27: shows [Kc Ad] (a pair of Kings)
+1walker1: shows [Kh As] (a pair of Kings)
+Marinelord27 collected 2995 from pot
+1walker1 collected 2995 from pot
+*** SUMMARY ***
+Total pot 5990 | Rake 0 
+Board [Th 6c 2d Jd Ks]
+Seat 1: Dron C K M 3 folded before Flop
+Seat 2: miexxx folded before Flop (didn't bet)
+Seat 3: mikk30 (button) folded before Flop (didn't bet)
+Seat 4: Marinelord27 (small blind) showed [Kc Ad] and won (2995) with a pair of Kings
+Seat 5: Kevin12345Mc (big blind) folded before Flop
+Seat 6: 1walker1 showed [Kh As] and won (2995) with a pair of Kings
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988483361: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 17:52:33 WET [2025/02/22 12:52:33 ET]
+Table '3858857104 83' 8-max Seat #4 is the button
+Seat 1: Dron C K M 3 (3989 in chips) 
+Seat 2: miexxx (9730 in chips) 
+Seat 3: mikk30 (4854 in chips) 
+Seat 4: Marinelord27 (2995 in chips) 
+Seat 5: Kevin12345Mc (4060 in chips) 
+Seat 6: 1walker1 (5398 in chips) 
+Seat 7: Gun1o (8258 in chips) 
+Seat 8: louchyAA (5903 in chips) 
+Dron C K M 3: posts the ante 11
+miexxx: posts the ante 11
+mikk30: posts the ante 11
+Marinelord27: posts the ante 11
+Kevin12345Mc: posts the ante 11
+1walker1: posts the ante 11
+Gun1o: posts the ante 11
+louchyAA: posts the ante 11
+Kevin12345Mc: posts small blind 35
+1walker1: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah Kh]
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: raises 70 to 140
+mikk30: calls 140
+Marinelord27: folds 
+Kevin12345Mc: raises 560 to 700
+1walker1: folds 
+miexxx: folds 
+mikk30: folds 
+Uncalled bet (560) returned to Kevin12345Mc
+Kevin12345Mc collected 578 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 578 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: miexxx folded before Flop
+Seat 3: mikk30 folded before Flop
+Seat 4: Marinelord27 (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) collected (578)
+Seat 6: 1walker1 (big blind) folded before Flop
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988495891: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/22 17:53:22 WET [2025/02/22 12:53:22 ET]
+Table '3858857104 83' 8-max Seat #5 is the button
+Seat 1: Dron C K M 3 (3978 in chips) 
+Seat 2: miexxx (9579 in chips) 
+Seat 3: mikk30 (4703 in chips) 
+Seat 4: Marinelord27 (2984 in chips) 
+Seat 5: Kevin12345Mc (4487 in chips) 
+Seat 6: 1walker1 (5317 in chips) 
+Seat 7: Gun1o (8247 in chips) 
+Seat 8: louchyAA (5892 in chips) 
+Dron C K M 3: posts the ante 11
+miexxx: posts the ante 11
+mikk30: posts the ante 11
+Marinelord27: posts the ante 11
+Kevin12345Mc: posts the ante 11
+1walker1: posts the ante 11
+Gun1o: posts the ante 11
+louchyAA: posts the ante 11
+1walker1: posts small blind 35
+Gun1o: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 8s]
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: raises 70 to 140
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: calls 105
+Gun1o: calls 70
+*** FLOP *** [Ac 2d 4c]
+1walker1: checks 
+Gun1o: checks 
+miexxx: bets 175
+1walker1: folds 
+Gun1o: calls 175
+*** TURN *** [Ac 2d 4c] [Ks]
+Gun1o: checks 
+miexxx: bets 472
+Gun1o: folds 
+Uncalled bet (472) returned to miexxx
+miexxx collected 858 from pot
+miexxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 858 | Rake 0 
+Board [Ac 2d 4c Ks]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: miexxx collected (858)
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: 1walker1 (small blind) folded on the Flop
+Seat 7: Gun1o (big blind) folded on the Turn
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988513492: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 17:54:31 WET [2025/02/22 12:54:31 ET]
+Table '3858857104 83' 8-max Seat #6 is the button
+Seat 1: Dron C K M 3 (3967 in chips) 
+Seat 2: miexxx (10111 in chips) 
+Seat 3: mikk30 (4692 in chips) 
+Seat 4: Marinelord27 (2973 in chips) 
+Seat 5: Kevin12345Mc (4476 in chips) 
+Seat 6: 1walker1 (5166 in chips) 
+Seat 7: Gun1o (7921 in chips) 
+Seat 8: louchyAA (5881 in chips) 
+Dron C K M 3: posts the ante 12
+miexxx: posts the ante 12
+mikk30: posts the ante 12
+Marinelord27: posts the ante 12
+Kevin12345Mc: posts the ante 12
+1walker1: posts the ante 12
+Gun1o: posts the ante 12
+louchyAA: posts the ante 12
+Gun1o: posts small blind 40
+louchyAA: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 6s]
+Dron C K M 3: folds 
+miexxx: folds 
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: raises 80 to 160
+louchyAA: folds 
+Uncalled bet (80) returned to Gun1o
+Gun1o collected 256 from pot
+Gun1o: doesn't show hand 
+*** SUMMARY ***
+Total pot 256 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: miexxx folded before Flop (didn't bet)
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 (button) folded before Flop (didn't bet)
+Seat 7: Gun1o (small blind) collected (256)
+Seat 8: louchyAA (big blind) folded before Flop
+
+
+
+PokerStars Hand #254988519101: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 17:54:53 WET [2025/02/22 12:54:53 ET]
+Table '3858857104 83' 8-max Seat #7 is the button
+Seat 1: Dron C K M 3 (3955 in chips) 
+Seat 2: miexxx (10099 in chips) 
+Seat 3: mikk30 (4680 in chips) 
+Seat 4: Marinelord27 (2961 in chips) 
+Seat 5: Kevin12345Mc (4464 in chips) 
+Seat 6: 1walker1 (5154 in chips) 
+Seat 7: Gun1o (8085 in chips) 
+Seat 8: louchyAA (5789 in chips) 
+Dron C K M 3: posts the ante 12
+miexxx: posts the ante 12
+mikk30: posts the ante 12
+Marinelord27: posts the ante 12
+Kevin12345Mc: posts the ante 12
+1walker1: posts the ante 12
+Gun1o: posts the ante 12
+louchyAA: posts the ante 12
+louchyAA: posts small blind 40
+Dron C K M 3: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 7s]
+miexxx: raises 80 to 160
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: calls 80
+*** FLOP *** [6h Ts 7h]
+Dron C K M 3: checks 
+miexxx: bets 200
+Dron C K M 3: calls 200
+*** TURN *** [6h Ts 7h] [Js]
+Dron C K M 3: checks 
+miexxx: checks 
+*** RIVER *** [6h Ts 7h Js] [Ks]
+Dron C K M 3: checks 
+miexxx: checks 
+*** SHOW DOWN ***
+Dron C K M 3: shows [9h As] (high card Ace)
+miexxx: shows [8c 8h] (a pair of Eights)
+miexxx collected 856 from pot
+*** SUMMARY ***
+Total pot 856 | Rake 0 
+Board [6h Ts 7h Js Ks]
+Seat 1: Dron C K M 3 (big blind) showed [9h As] and lost with high card Ace
+Seat 2: miexxx showed [8c 8h] and won (856) with a pair of Eights
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o (button) folded before Flop (didn't bet)
+Seat 8: louchyAA (small blind) folded before Flop
+
+
+
+PokerStars Hand #254988622729: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 18:03:27 WET [2025/02/22 13:03:27 ET]
+Table '3858857104 83' 8-max Seat #8 is the button
+Seat 1: Dron C K M 3 (3583 in chips) 
+Seat 2: miexxx (10583 in chips) 
+Seat 3: mikk30 (4668 in chips) 
+Seat 4: Marinelord27 (2949 in chips) 
+Seat 5: Kevin12345Mc (4452 in chips) 
+Seat 6: 1walker1 (5142 in chips) 
+Seat 7: Gun1o (8073 in chips) 
+Seat 8: louchyAA (5737 in chips) 
+Dron C K M 3: posts the ante 12
+miexxx: posts the ante 12
+mikk30: posts the ante 12
+Marinelord27: posts the ante 12
+Kevin12345Mc: posts the ante 12
+1walker1: posts the ante 12
+Gun1o: posts the ante 12
+louchyAA: posts the ante 12
+Dron C K M 3: posts small blind 40
+miexxx: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 4s]
+mikk30: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: raises 88 to 168
+louchyAA: raises 472 to 640
+Dron C K M 3: folds 
+miexxx: folds 
+Gun1o: folds 
+Uncalled bet (472) returned to louchyAA
+louchyAA collected 552 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 552 | Rake 0 
+Seat 1: Dron C K M 3 (small blind) folded before Flop
+Seat 2: miexxx (big blind) folded before Flop
+Seat 3: mikk30 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop
+Seat 8: louchyAA (button) collected (552)
+
+
+
+PokerStars Hand #254988629807: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 18:03:55 WET [2025/02/22 13:03:55 ET]
+Table '3858857104 83' 8-max Seat #1 is the button
+Seat 1: Dron C K M 3 (3531 in chips) 
+Seat 2: miexxx (10491 in chips) 
+Seat 4: Marinelord27 (2937 in chips) 
+Seat 5: Kevin12345Mc (4440 in chips) 
+Seat 6: 1walker1 (5130 in chips) 
+Seat 7: Gun1o (7893 in chips) 
+Seat 8: louchyAA (6109 in chips) 
+Dron C K M 3: posts the ante 12
+miexxx: posts the ante 12
+Marinelord27: posts the ante 12
+Kevin12345Mc: posts the ante 12
+1walker1: posts the ante 12
+Gun1o: posts the ante 12
+louchyAA: posts the ante 12
+miexxx: posts small blind 40
+Marinelord27: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 7c]
+Kevin12345Mc: folds 
+1walker1: folds 
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: folds 
+Uncalled bet (40) returned to Marinelord27
+Marinelord27 collected 164 from pot
+*** SUMMARY ***
+Total pot 164 | Rake 0 
+Seat 1: Dron C K M 3 (button) folded before Flop (didn't bet)
+Seat 2: miexxx (small blind) folded before Flop
+Seat 4: Marinelord27 (big blind) collected (164)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: 1walker1 folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988635640: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 18:04:17 WET [2025/02/22 13:04:17 ET]
+Table '3858857104 83' 8-max Seat #2 is the button
+Seat 1: Dron C K M 3 (3519 in chips) 
+Seat 2: miexxx (10439 in chips) 
+Seat 3: panthere446 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 4: Marinelord27 (3049 in chips) 
+Seat 5: Kevin12345Mc (4428 in chips) 
+Seat 7: Gun1o (7881 in chips) 
+Seat 8: louchyAA (6097 in chips) 
+panthere446 will be allowed to play after the button
+Dron C K M 3: posts the ante 12
+miexxx: posts the ante 12
+Marinelord27: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Gun1o: posts the ante 12
+louchyAA: posts the ante 12
+Marinelord27: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Kh]
+Gun1o: folds 
+louchyAA: folds 
+Phill2Kill is disconnected 
+Dron C K M 3: folds 
+miexxx: raises 80 to 160
+Marinelord27: folds 
+Kevin12345Mc: calls 80
+*** FLOP *** [5h 7d Jd]
+Kevin12345Mc: checks 
+miexxx: bets 120
+Kevin12345Mc: folds 
+Uncalled bet (120) returned to miexxx
+miexxx collected 432 from pot
+miexxx: doesn't show hand 
+*** SUMMARY ***
+Total pot 432 | Rake 0 
+Board [5h 7d Jd]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: miexxx (button) collected (432)
+Seat 4: Marinelord27 (small blind) folded before Flop
+Seat 5: Kevin12345Mc (big blind) folded on the Flop
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988648266: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 18:05:06 WET [2025/02/22 13:05:06 ET]
+Table '3858857104 83' 8-max Seat #4 is the button
+Seat 1: Dron C K M 3 (3507 in chips) 
+Seat 2: miexxx (10699 in chips) 
+Seat 3: panthere446 (5000 in chips) 
+Seat 4: Marinelord27 (2997 in chips) 
+Seat 5: Kevin12345Mc (4256 in chips) 
+Seat 6: Phill2Kill (5000 in chips) 
+Seat 7: Gun1o (7869 in chips) 
+Seat 8: louchyAA (6085 in chips) 
+Dron C K M 3: posts the ante 12
+miexxx: posts the ante 12
+panthere446: posts the ante 12
+Marinelord27: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Phill2Kill: posts the ante 12
+Gun1o: posts the ante 12
+louchyAA: posts the ante 12
+Kevin12345Mc: posts small blind 40
+Phill2Kill: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 6s]
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: raises 80 to 160
+miexxx: folds 
+panthere446: raises 336 to 496
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Dron C K M 3: folds 
+Uncalled bet (336) returned to panthere446
+panthere446 collected 536 from pot
+*** SUMMARY ***
+Total pot 536 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop
+Seat 2: miexxx folded before Flop (didn't bet)
+Seat 3: panthere446 collected (536)
+Seat 4: Marinelord27 (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) folded before Flop
+Seat 6: Phill2Kill (big blind) folded before Flop
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988658088: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 18:05:44 WET [2025/02/22 13:05:44 ET]
+Table '3858857104 83' 8-max Seat #5 is the button
+Seat 1: Dron C K M 3 (3335 in chips) 
+Seat 2: miexxx (10687 in chips) 
+Seat 3: panthere446 (5364 in chips) 
+Seat 4: Marinelord27 (2985 in chips) 
+Seat 5: Kevin12345Mc (4204 in chips) 
+Seat 6: Phill2Kill (4908 in chips) 
+Seat 7: Gun1o (7857 in chips) 
+Seat 8: louchyAA (6073 in chips) 
+Dron C K M 3: posts the ante 12
+miexxx: posts the ante 12
+panthere446: posts the ante 12
+Marinelord27: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Phill2Kill: posts the ante 12
+Gun1o: posts the ante 12
+louchyAA: posts the ante 12
+Phill2Kill: posts small blind 40
+Gun1o: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 7s]
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: folds 
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: calls 40
+Gun1o: checks 
+*** FLOP *** [7d 8d Jh]
+Phill2Kill: checks 
+Gun1o: checks 
+*** TURN *** [7d 8d Jh] [Js]
+Phill2Kill: checks 
+Gun1o: bets 80
+Phill2Kill: folds 
+Uncalled bet (80) returned to Gun1o
+Gun1o collected 256 from pot
+Gun1o: doesn't show hand 
+*** SUMMARY ***
+Total pot 256 | Rake 0 
+Board [7d 8d Jh Js]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: miexxx folded before Flop (didn't bet)
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: Phill2Kill (small blind) folded on the Turn
+Seat 7: Gun1o (big blind) collected (256)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988669770: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 18:06:29 WET [2025/02/22 13:06:29 ET]
+Table '3858857104 83' 8-max Seat #6 is the button
+Seat 1: Dron C K M 3 (3323 in chips) 
+Seat 2: miexxx (10675 in chips) 
+Seat 3: panthere446 (5352 in chips) 
+Seat 4: Marinelord27 (2973 in chips) 
+Seat 5: Kevin12345Mc (4192 in chips) 
+Seat 6: Phill2Kill (4816 in chips) 
+Seat 7: Gun1o (8021 in chips) 
+Seat 8: louchyAA (6061 in chips) 
+Dron C K M 3: posts the ante 12
+miexxx: posts the ante 12
+panthere446: posts the ante 12
+Marinelord27: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Phill2Kill: posts the ante 12
+Gun1o: posts the ante 12
+louchyAA: posts the ante 12
+Gun1o: posts small blind 40
+louchyAA: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Jc]
+Dron C K M 3: raises 80 to 160
+miexxx: folds 
+panthere446: calls 160
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: folds 
+*** FLOP *** [5h 6h 3h]
+Dron C K M 3: bets 134
+panthere446: folds 
+Uncalled bet (134) returned to Dron C K M 3
+Dron C K M 3 collected 536 from pot
+Dron C K M 3: doesn't show hand 
+*** SUMMARY ***
+Total pot 536 | Rake 0 
+Board [5h 6h 3h]
+Seat 1: Dron C K M 3 collected (536)
+Seat 2: miexxx folded before Flop (didn't bet)
+Seat 3: panthere446 folded on the Flop
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill (button) folded before Flop (didn't bet)
+Seat 7: Gun1o (small blind) folded before Flop
+Seat 8: louchyAA (big blind) folded before Flop
+
+
+
+PokerStars Hand #254988680467: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 18:07:10 WET [2025/02/22 13:07:10 ET]
+Table '3858857104 83' 8-max Seat #7 is the button
+Seat 1: Dron C K M 3 (3687 in chips) 
+Seat 2: miexxx (10663 in chips) 
+Seat 3: panthere446 (5180 in chips) 
+Seat 4: Marinelord27 (2961 in chips) 
+Seat 5: Kevin12345Mc (4180 in chips) 
+Seat 6: Phill2Kill (4804 in chips) 
+Seat 7: Gun1o (7969 in chips) 
+Seat 8: louchyAA (5969 in chips) 
+Dron C K M 3: posts the ante 12
+miexxx: posts the ante 12
+panthere446: posts the ante 12
+Marinelord27: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Phill2Kill: posts the ante 12
+Gun1o: posts the ante 12
+louchyAA: posts the ante 12
+louchyAA: posts small blind 40
+Dron C K M 3: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h Ad]
+miexxx: raises 80 to 160
+panthere446: raises 192 to 352
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+miexxx: calls 192
+*** FLOP *** [8d 3c 3d]
+miexxx: checks 
+panthere446: bets 368
+miexxx: folds 
+Uncalled bet (368) returned to panthere446
+panthere446 collected 920 from pot
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [8d 3c 3d]
+Seat 1: Dron C K M 3 (big blind) folded before Flop
+Seat 2: miexxx folded on the Flop
+Seat 3: panthere446 collected (920)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o (button) folded before Flop (didn't bet)
+Seat 8: louchyAA (small blind) folded before Flop
+
+
+
+PokerStars Hand #254988697222: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 18:08:15 WET [2025/02/22 13:08:15 ET]
+Table '3858857104 83' 8-max Seat #8 is the button
+Seat 1: Dron C K M 3 (3595 in chips) 
+Seat 3: panthere446 (5736 in chips) 
+Seat 4: Marinelord27 (2949 in chips) 
+Seat 5: Kevin12345Mc (4168 in chips) 
+Seat 6: Phill2Kill (4792 in chips) 
+Seat 7: Gun1o (7957 in chips) 
+Seat 8: louchyAA (5917 in chips) 
+Dron C K M 3: posts the ante 12
+panthere446: posts the ante 12
+Marinelord27: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Phill2Kill: posts the ante 12
+Gun1o: posts the ante 12
+louchyAA: posts the ante 12
+Dron C K M 3: posts small blind 40
+panthere446: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 5c]
+Marinelord27: raises 80 to 160
+Kevin12345Mc: folds 
+carsten2407 is disconnected 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+panthere446: calls 80
+*** FLOP *** [Qc Jd 8d]
+panthere446: checks 
+Marinelord27: bets 178
+panthere446: calls 178
+*** TURN *** [Qc Jd 8d] [Qd]
+panthere446: checks 
+Marinelord27: checks 
+*** RIVER *** [Qc Jd 8d Qd] [Jh]
+panthere446: bets 400
+Marinelord27: folds 
+Uncalled bet (400) returned to panthere446
+panthere446 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Qc Jd 8d Qd Jh]
+Seat 1: Dron C K M 3 (small blind) folded before Flop
+Seat 3: panthere446 (big blind) collected (800)
+Seat 4: Marinelord27 folded on the River
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988720129: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/22 18:09:43 WET [2025/02/22 13:09:43 ET]
+Table '3858857104 83' 8-max Seat #1 is the button
+Seat 1: Dron C K M 3 (3543 in chips) 
+Seat 2: carsten2407 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 3: panthere446 (6186 in chips) 
+Seat 4: Marinelord27 (2599 in chips) 
+Seat 5: Kevin12345Mc (4156 in chips) 
+Seat 6: Phill2Kill (4780 in chips) 
+Seat 7: Gun1o (7945 in chips) 
+Seat 8: louchyAA (5905 in chips) 
+carsten2407 will be allowed to play after the button
+Dron C K M 3: posts the ante 12
+panthere446: posts the ante 12
+Marinelord27: posts the ante 12
+Kevin12345Mc: posts the ante 12
+Phill2Kill: posts the ante 12
+Gun1o: posts the ante 12
+louchyAA: posts the ante 12
+panthere446: posts small blind 40
+Marinelord27: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Qd]
+Kevin12345Mc: folds 
+Phill2Kill: calls 80
+Gun1o: raises 80 to 160
+louchyAA: calls 160
+Dron C K M 3: folds 
+panthere446: raises 280 to 440
+Marinelord27: folds 
+Phill2Kill: folds 
+Gun1o: calls 280
+louchyAA: calls 280
+*** FLOP *** [3s 8d Tc]
+panthere446: bets 696
+Gun1o: calls 696
+louchyAA: calls 696
+*** TURN *** [3s 8d Tc] [6h]
+panthere446: bets 5038 and is all-in
+Gun1o: folds 
+louchyAA: folds 
+Uncalled bet (5038) returned to panthere446
+panthere446 collected 3652 from pot
+*** SUMMARY ***
+Total pot 3652 | Rake 0 
+Board [3s 8d Tc 6h]
+Seat 1: Dron C K M 3 (button) folded before Flop (didn't bet)
+Seat 3: panthere446 (small blind) collected (3652)
+Seat 4: Marinelord27 (big blind) folded before Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop
+Seat 7: Gun1o folded on the Turn
+Seat 8: louchyAA folded on the Turn
+
+
+
+PokerStars Hand #254988760722: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 18:12:18 WET [2025/02/22 13:12:18 ET]
+Table '3858857104 83' 8-max Seat #3 is the button
+Seat 1: Dron C K M 3 (3531 in chips) 
+Seat 2: carsten2407 (5000 in chips) 
+Seat 3: panthere446 (8690 in chips) 
+Seat 4: Marinelord27 (2507 in chips) 
+Seat 5: Kevin12345Mc (4144 in chips) 
+Seat 6: Phill2Kill (4688 in chips) 
+Seat 7: Gun1o (6797 in chips) 
+Seat 8: louchyAA (4757 in chips) 
+Dron C K M 3: posts the ante 14
+carsten2407: posts the ante 14
+panthere446: posts the ante 14
+Marinelord27: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Phill2Kill: posts the ante 14
+Gun1o: posts the ante 14
+louchyAA: posts the ante 14
+Marinelord27: posts small blind 45
+Kevin12345Mc: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 4d]
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: raises 90 to 180
+Dron C K M 3: folds 
+carsten2407: folds 
+panthere446: calls 180
+Marinelord27: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [4h 8s Td]
+louchyAA: checks 
+panthere446: bets 304
+louchyAA: calls 304
+*** TURN *** [4h 8s Td] [Ad]
+louchyAA: checks 
+panthere446: bets 423
+louchyAA: raises 3836 to 4259 and is all-in
+panthere446: folds 
+Uncalled bet (3836) returned to louchyAA
+louchyAA collected 2061 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 2061 | Rake 0 
+Board [4h 8s Td Ad]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 (button) folded on the Turn
+Seat 4: Marinelord27 (small blind) folded before Flop
+Seat 5: Kevin12345Mc (big blind) folded before Flop
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA collected (2061)
+
+
+
+PokerStars Hand #254988786872: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 18:13:58 WET [2025/02/22 13:13:58 ET]
+Table '3858857104 83' 8-max Seat #4 is the button
+Seat 1: Dron C K M 3 (3517 in chips) 
+Seat 2: carsten2407 (4986 in chips) 
+Seat 3: panthere446 (7769 in chips) 
+Seat 4: Marinelord27 (2448 in chips) 
+Seat 5: Kevin12345Mc (4040 in chips) 
+Seat 6: Phill2Kill (4674 in chips) 
+Seat 7: Gun1o (6783 in chips) 
+Seat 8: louchyAA (5897 in chips) 
+Dron C K M 3: posts the ante 14
+carsten2407: posts the ante 14
+panthere446: posts the ante 14
+Marinelord27: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Phill2Kill: posts the ante 14
+Gun1o: posts the ante 14
+louchyAA: posts the ante 14
+Kevin12345Mc: posts small blind 45
+Phill2Kill: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 4d]
+Gun1o: folds 
+louchyAA: raises 108 to 198
+Dron C K M 3: folds 
+carsten2407: folds 
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Gun1o is sitting out
+Phill2Kill: folds 
+Uncalled bet (108) returned to louchyAA
+louchyAA collected 337 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) folded before Flop
+Seat 6: Phill2Kill (big blind) folded before Flop
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA collected (337)
+
+
+
+PokerStars Hand #254988793160: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 18:14:22 WET [2025/02/22 13:14:22 ET]
+Table '3858857104 83' 8-max Seat #5 is the button
+Seat 1: Dron C K M 3 (3503 in chips) 
+Seat 2: carsten2407 (4972 in chips) 
+Seat 3: panthere446 (7755 in chips) 
+Seat 4: Marinelord27 (2434 in chips) 
+Seat 5: Kevin12345Mc (3981 in chips) 
+Seat 6: Phill2Kill (4570 in chips) 
+Seat 7: Gun1o (6769 in chips) is sitting out
+Seat 8: louchyAA (6130 in chips) 
+Dron C K M 3: posts the ante 14
+carsten2407: posts the ante 14
+panthere446: posts the ante 14
+Marinelord27: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Phill2Kill: posts the ante 14
+Gun1o: posts the ante 14
+louchyAA: posts the ante 14
+Phill2Kill: posts small blind 45
+Gun1o: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 6h]
+louchyAA: raises 108 to 198
+Gun1o has returned
+Dron C K M 3: folds 
+carsten2407: calls 198
+panthere446: folds 
+Marinelord27: raises 2222 to 2420 and is all-in
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: raises 3696 to 6116 and is all-in
+carsten2407: folds 
+Uncalled bet (3696) returned to louchyAA
+*** FLOP *** [3d Qh 6d]
+*** TURN *** [3d Qh 6d] [Kh]
+*** RIVER *** [3d Qh 6d Kh] [Th]
+*** SHOW DOWN ***
+louchyAA: shows [Tc Ah] (a pair of Tens)
+Marinelord27: shows [Qc As] (a pair of Queens)
+Marinelord27 collected 5285 from pot
+*** SUMMARY ***
+Total pot 5285 | Rake 0 
+Board [3d Qh 6d Kh Th]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: carsten2407 folded before Flop
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 showed [Qc As] and won (5285) with a pair of Queens
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: Phill2Kill (small blind) folded before Flop
+Seat 7: Gun1o (big blind) folded before Flop
+Seat 8: louchyAA showed [Tc Ah] and lost with a pair of Tens
+
+
+
+PokerStars Hand #254988809343: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 18:15:21 WET [2025/02/22 13:15:21 ET]
+Table '3858857104 83' 8-max Seat #6 is the button
+Seat 1: Dron C K M 3 (3489 in chips) 
+Seat 2: carsten2407 (4760 in chips) 
+Seat 3: panthere446 (7741 in chips) 
+Seat 4: Marinelord27 (5285 in chips) 
+Seat 5: Kevin12345Mc (3967 in chips) 
+Seat 6: Phill2Kill (4511 in chips) 
+Seat 7: Gun1o (6665 in chips) 
+Seat 8: louchyAA (3696 in chips) 
+Dron C K M 3: posts the ante 14
+carsten2407: posts the ante 14
+panthere446: posts the ante 14
+Marinelord27: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Phill2Kill: posts the ante 14
+Gun1o: posts the ante 14
+louchyAA: posts the ante 14
+Gun1o: posts small blind 45
+louchyAA: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 4h]
+Dron C K M 3: folds 
+carsten2407: folds 
+panthere446: raises 90 to 180
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: calls 135
+louchyAA: calls 90
+*** FLOP *** [7d 9d 4c]
+Gun1o: checks 
+louchyAA: checks 
+panthere446: bets 270
+Gun1o: calls 270
+louchyAA: calls 270
+*** TURN *** [7d 9d 4c] [Js]
+Gun1o: checks 
+louchyAA: bets 3232 and is all-in
+panthere446: folds 
+Gun1o: folds 
+Uncalled bet (3232) returned to louchyAA
+louchyAA collected 1462 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 1462 | Rake 0 
+Board [7d 9d 4c Js]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 folded on the Turn
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill (button) folded before Flop (didn't bet)
+Seat 7: Gun1o (small blind) folded on the Turn
+Seat 8: louchyAA (big blind) collected (1462)
+
+
+
+PokerStars Hand #254988833987: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 18:16:50 WET [2025/02/22 13:16:50 ET]
+Table '3858857104 83' 8-max Seat #7 is the button
+Seat 1: Dron C K M 3 (3475 in chips) 
+Seat 2: carsten2407 (4746 in chips) 
+Seat 3: panthere446 (7277 in chips) 
+Seat 4: Marinelord27 (5271 in chips) 
+Seat 5: Kevin12345Mc (3953 in chips) 
+Seat 6: Phill2Kill (4497 in chips) 
+Seat 7: Gun1o (6201 in chips) 
+Seat 8: louchyAA (4694 in chips) 
+Dron C K M 3: posts the ante 14
+carsten2407: posts the ante 14
+panthere446: posts the ante 14
+Marinelord27: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Phill2Kill: posts the ante 14
+Gun1o: posts the ante 14
+louchyAA: posts the ante 14
+louchyAA: posts small blind 45
+Dron C K M 3: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Ah]
+carsten2407: folds 
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: raises 4590 to 4680 and is all-in
+Dron C K M 3: folds 
+Uncalled bet (4590) returned to louchyAA
+louchyAA collected 292 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 292 | Rake 0 
+Seat 1: Dron C K M 3 (big blind) folded before Flop
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o (button) folded before Flop (didn't bet)
+Seat 8: louchyAA (small blind) collected (292)
+
+
+
+PokerStars Hand #254988841713: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/22 18:17:17 WET [2025/02/22 13:17:17 ET]
+Table '3858857104 83' 8-max Seat #8 is the button
+Seat 1: Dron C K M 3 (3371 in chips) 
+Seat 2: carsten2407 (4732 in chips) 
+Seat 3: panthere446 (7263 in chips) 
+Seat 4: Marinelord27 (5257 in chips) 
+Seat 5: Kevin12345Mc (3939 in chips) 
+Seat 6: Phill2Kill (4483 in chips) 
+Seat 7: Gun1o (6187 in chips) 
+Seat 8: louchyAA (4882 in chips) 
+Dron C K M 3: posts the ante 14
+carsten2407: posts the ante 14
+panthere446: posts the ante 14
+Marinelord27: posts the ante 14
+Kevin12345Mc: posts the ante 14
+Phill2Kill: posts the ante 14
+Gun1o: posts the ante 14
+louchyAA: posts the ante 14
+Dron C K M 3: posts small blind 45
+carsten2407: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 2d]
+panthere446: folds 
+Marinelord27: raises 90 to 180
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: raises 270 to 450
+Dron C K M 3: folds 
+carsten2407: folds 
+Marinelord27: calls 270
+*** FLOP *** [4c Jd 8h]
+Marinelord27: checks 
+louchyAA: bets 906
+Marinelord27: folds 
+Uncalled bet (906) returned to louchyAA
+louchyAA collected 1147 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 1147 | Rake 0 
+Board [4c Jd 8h]
+Seat 1: Dron C K M 3 (small blind) folded before Flop
+Seat 2: carsten2407 (big blind) folded before Flop
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded on the Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA (button) collected (1147)
+
+
+
+PokerStars Hand #254988860601: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 18:18:24 WET [2025/02/22 13:18:24 ET]
+Table '3858857104 83' 8-max Seat #1 is the button
+Seat 1: Dron C K M 3 (3312 in chips) 
+Seat 2: carsten2407 (4628 in chips) 
+Seat 3: panthere446 (7249 in chips) 
+Seat 4: Marinelord27 (4793 in chips) 
+Seat 5: Kevin12345Mc (3925 in chips) 
+Seat 6: Phill2Kill (4469 in chips) 
+Seat 7: Gun1o (6173 in chips) 
+Seat 8: louchyAA (5565 in chips) 
+Dron C K M 3: posts the ante 15
+carsten2407: posts the ante 15
+panthere446: posts the ante 15
+Marinelord27: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Phill2Kill: posts the ante 15
+Gun1o: posts the ante 15
+louchyAA: posts the ante 15
+carsten2407: posts small blind 50
+panthere446: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Qd]
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: raises 110 to 210
+louchyAA: raises 690 to 900
+Dron C K M 3: folds 
+carsten2407: folds 
+panthere446: calls 800
+Gun1o: folds 
+*** FLOP *** [Th 5s 5h]
+panthere446: checks 
+louchyAA: bets 1439
+panthere446: folds 
+Uncalled bet (1439) returned to louchyAA
+louchyAA collected 2180 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 2180 | Rake 0 
+Board [Th 5s 5h]
+Seat 1: Dron C K M 3 (button) folded before Flop (didn't bet)
+Seat 2: carsten2407 (small blind) folded before Flop
+Seat 3: panthere446 (big blind) folded on the Flop
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop
+Seat 8: louchyAA collected (2180)
+
+
+
+PokerStars Hand #254988876305: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 18:19:20 WET [2025/02/22 13:19:20 ET]
+Table '3858857104 83' 8-max Seat #2 is the button
+Seat 1: Dron C K M 3 (3297 in chips) 
+Seat 2: carsten2407 (4563 in chips) 
+Seat 3: panthere446 (6334 in chips) 
+Seat 4: Marinelord27 (4778 in chips) 
+Seat 5: Kevin12345Mc (3910 in chips) 
+Seat 6: Phill2Kill (4454 in chips) 
+Seat 7: Gun1o (5948 in chips) 
+Seat 8: louchyAA (6830 in chips) 
+Dron C K M 3: posts the ante 15
+carsten2407: posts the ante 15
+panthere446: posts the ante 15
+Marinelord27: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Phill2Kill: posts the ante 15
+Gun1o: posts the ante 15
+louchyAA: posts the ante 15
+panthere446: posts small blind 50
+Marinelord27: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 9h]
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+carsten2407: raises 100 to 200
+panthere446: folds 
+Marinelord27: calls 100
+*** FLOP *** [Ad Tc 3d]
+Marinelord27: checks 
+carsten2407: bets 254
+Marinelord27: folds 
+Uncalled bet (254) returned to carsten2407
+carsten2407 collected 570 from pot
+carsten2407: doesn't show hand 
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Ad Tc 3d]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: carsten2407 (button) collected (570)
+Seat 3: panthere446 (small blind) folded before Flop
+Seat 4: Marinelord27 (big blind) folded on the Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988894849: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 18:20:26 WET [2025/02/22 13:20:26 ET]
+Table '3858857104 83' 8-max Seat #3 is the button
+Seat 1: Dron C K M 3 (3282 in chips) 
+Seat 2: carsten2407 (4918 in chips) 
+Seat 3: panthere446 (6269 in chips) 
+Seat 4: Marinelord27 (4563 in chips) 
+Seat 5: Kevin12345Mc (3895 in chips) 
+Seat 6: Phill2Kill (4439 in chips) 
+Seat 7: Gun1o (5933 in chips) 
+Seat 8: louchyAA (6815 in chips) 
+Dron C K M 3: posts the ante 15
+carsten2407: posts the ante 15
+panthere446: posts the ante 15
+Marinelord27: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Phill2Kill: posts the ante 15
+Gun1o: posts the ante 15
+louchyAA: posts the ante 15
+Marinelord27: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 7s]
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: raises 100 to 200
+carsten2407: folds 
+panthere446: calls 200
+Marinelord27: calls 150
+Kevin12345Mc: calls 100
+*** FLOP *** [2h 9h 3d]
+Marinelord27: checks 
+Kevin12345Mc: checks 
+Dron C K M 3: bets 400
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Uncalled bet (400) returned to Dron C K M 3
+Dron C K M 3 collected 920 from pot
+Dron C K M 3: doesn't show hand 
+*** SUMMARY ***
+Total pot 920 | Rake 0 
+Board [2h 9h 3d]
+Seat 1: Dron C K M 3 collected (920)
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 (button) folded on the Flop
+Seat 4: Marinelord27 (small blind) folded on the Flop
+Seat 5: Kevin12345Mc (big blind) folded on the Flop
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988911434: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 18:21:25 WET [2025/02/22 13:21:25 ET]
+Table '3858857104 83' 8-max Seat #4 is the button
+Seat 1: Dron C K M 3 (3987 in chips) 
+Seat 2: carsten2407 (4903 in chips) 
+Seat 3: panthere446 (6054 in chips) 
+Seat 4: Marinelord27 (4348 in chips) 
+Seat 5: Kevin12345Mc (3680 in chips) 
+Seat 6: Phill2Kill (4424 in chips) 
+Seat 7: Gun1o (5918 in chips) 
+Seat 8: louchyAA (6800 in chips) 
+Dron C K M 3: posts the ante 15
+carsten2407: posts the ante 15
+panthere446: posts the ante 15
+Marinelord27: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Phill2Kill: posts the ante 15
+Gun1o: posts the ante 15
+louchyAA: posts the ante 15
+Kevin12345Mc: posts small blind 50
+Phill2Kill: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 3c]
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+carsten2407: folds 
+panthere446: calls 100
+Marinelord27: raises 250 to 350
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+panthere446: calls 250
+*** FLOP *** [6c Qc As]
+panthere446: checks 
+Marinelord27: bets 388
+panthere446: calls 388
+*** TURN *** [6c Qc As] [4d]
+panthere446: checks 
+Marinelord27: bets 1120
+panthere446: folds 
+Uncalled bet (1120) returned to Marinelord27
+Marinelord27 collected 1746 from pot
+*** SUMMARY ***
+Total pot 1746 | Rake 0 
+Board [6c Qc As 4d]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 folded on the Turn
+Seat 4: Marinelord27 (button) collected (1746)
+Seat 5: Kevin12345Mc (small blind) folded before Flop
+Seat 6: Phill2Kill (big blind) folded before Flop
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988927760: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 18:22:23 WET [2025/02/22 13:22:23 ET]
+Table '3858857104 83' 8-max Seat #5 is the button
+Seat 1: Dron C K M 3 (3972 in chips) 
+Seat 2: carsten2407 (4888 in chips) 
+Seat 3: panthere446 (5301 in chips) 
+Seat 4: Marinelord27 (5341 in chips) 
+Seat 5: Kevin12345Mc (3615 in chips) 
+Seat 6: Phill2Kill (4309 in chips) 
+Seat 7: Gun1o (5903 in chips) 
+Seat 8: louchyAA (6785 in chips) 
+Dron C K M 3: posts the ante 15
+carsten2407: posts the ante 15
+panthere446: posts the ante 15
+Marinelord27: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Phill2Kill: posts the ante 15
+Gun1o: posts the ante 15
+louchyAA: posts the ante 15
+Phill2Kill: posts small blind 50
+Gun1o: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 4c]
+louchyAA: folds 
+Dron C K M 3: folds 
+carsten2407: folds 
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Uncalled bet (50) returned to Gun1o
+Gun1o collected 220 from pot
+Gun1o: doesn't show hand 
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: Phill2Kill (small blind) folded before Flop
+Seat 7: Gun1o (big blind) collected (220)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988931848: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 18:22:38 WET [2025/02/22 13:22:38 ET]
+Table '3858857104 83' 8-max Seat #6 is the button
+Seat 1: Dron C K M 3 (3957 in chips) 
+Seat 2: carsten2407 (4873 in chips) 
+Seat 3: panthere446 (5286 in chips) 
+Seat 4: Marinelord27 (5326 in chips) 
+Seat 5: Kevin12345Mc (3600 in chips) 
+Seat 6: Phill2Kill (4244 in chips) 
+Seat 7: Gun1o (6058 in chips) 
+Seat 8: louchyAA (6770 in chips) 
+Dron C K M 3: posts the ante 15
+carsten2407: posts the ante 15
+panthere446: posts the ante 15
+Marinelord27: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Phill2Kill: posts the ante 15
+Gun1o: posts the ante 15
+louchyAA: posts the ante 15
+Gun1o: posts small blind 50
+louchyAA: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 4d]
+Dron C K M 3: raises 100 to 200
+carsten2407: folds 
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: raises 700 to 900
+Dron C K M 3: calls 700
+*** FLOP *** [4h Jc Jh]
+louchyAA: checks 
+Dron C K M 3: checks 
+*** TURN *** [4h Jc Jh] [3d]
+louchyAA: checks 
+Dron C K M 3: bets 300
+louchyAA: calls 300
+*** RIVER *** [4h Jc Jh 3d] [Kh]
+louchyAA: checks 
+Dron C K M 3: checks 
+*** SHOW DOWN ***
+louchyAA: shows [Ac Qc] (a pair of Jacks)
+Dron C K M 3: shows [Kd Qd] (two pair, Kings and Jacks)
+Dron C K M 3 collected 2570 from pot
+*** SUMMARY ***
+Total pot 2570 | Rake 0 
+Board [4h Jc Jh 3d Kh]
+Seat 1: Dron C K M 3 showed [Kd Qd] and won (2570) with two pair, Kings and Jacks
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill (button) folded before Flop (didn't bet)
+Seat 7: Gun1o (small blind) folded before Flop
+Seat 8: louchyAA (big blind) showed [Ac Qc] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254988946839: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 18:23:32 WET [2025/02/22 13:23:32 ET]
+Table '3858857104 83' 8-max Seat #7 is the button
+Seat 1: Dron C K M 3 (5312 in chips) 
+Seat 2: carsten2407 (4858 in chips) 
+Seat 3: panthere446 (5271 in chips) 
+Seat 4: Marinelord27 (5311 in chips) 
+Seat 5: Kevin12345Mc (3585 in chips) 
+Seat 6: Phill2Kill (4229 in chips) 
+Seat 7: Gun1o (5993 in chips) 
+Seat 8: louchyAA (5555 in chips) 
+Dron C K M 3: posts the ante 15
+carsten2407: posts the ante 15
+panthere446: posts the ante 15
+Marinelord27: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Phill2Kill: posts the ante 15
+Gun1o: posts the ante 15
+louchyAA: posts the ante 15
+louchyAA: posts small blind 50
+Dron C K M 3: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 4c]
+carsten2407: raises 100 to 200
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: calls 200
+Gun1o: calls 200
+louchyAA: calls 150
+Dron C K M 3: calls 100
+*** FLOP *** [4h 3d Th]
+louchyAA: checks 
+Dron C K M 3: checks 
+carsten2407: checks 
+Phill2Kill: checks 
+Gun1o: bets 1120
+louchyAA: folds 
+Dron C K M 3: folds 
+carsten2407: folds 
+Phill2Kill: folds 
+Uncalled bet (1120) returned to Gun1o
+Gun1o collected 1120 from pot
+Gun1o: doesn't show hand 
+*** SUMMARY ***
+Total pot 1120 | Rake 0 
+Board [4h 3d Th]
+Seat 1: Dron C K M 3 (big blind) folded on the Flop
+Seat 2: carsten2407 folded on the Flop
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded on the Flop
+Seat 7: Gun1o (button) collected (1120)
+Seat 8: louchyAA (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254988962295: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 18:24:28 WET [2025/02/22 13:24:28 ET]
+Table '3858857104 83' 8-max Seat #8 is the button
+Seat 1: Dron C K M 3 (5097 in chips) 
+Seat 2: carsten2407 (4643 in chips) 
+Seat 3: panthere446 (5256 in chips) 
+Seat 4: Marinelord27 (5296 in chips) 
+Seat 5: Kevin12345Mc (3570 in chips) 
+Seat 6: Phill2Kill (4014 in chips) 
+Seat 7: Gun1o (6898 in chips) 
+Seat 8: louchyAA (5340 in chips) 
+Dron C K M 3: posts the ante 15
+carsten2407: posts the ante 15
+panthere446: posts the ante 15
+Marinelord27: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Phill2Kill: posts the ante 15
+Gun1o: posts the ante 15
+louchyAA: posts the ante 15
+Dron C K M 3: posts small blind 50
+carsten2407: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Td]
+panthere446: calls 100
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: calls 100
+Dron C K M 3: calls 50
+carsten2407: checks 
+*** FLOP *** [Ad 5d Qd]
+Dron C K M 3: checks 
+carsten2407: checks 
+panthere446: bets 260
+louchyAA: raises 686 to 946
+Dron C K M 3: folds 
+carsten2407: folds 
+panthere446: folds 
+Uncalled bet (686) returned to louchyAA
+louchyAA collected 1040 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 1040 | Rake 0 
+Board [Ad 5d Qd]
+Seat 1: Dron C K M 3 (small blind) folded on the Flop
+Seat 2: carsten2407 (big blind) folded on the Flop
+Seat 3: panthere446 folded on the Flop
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA (button) collected (1040)
+
+
+
+PokerStars Hand #254988983623: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/22 18:25:44 WET [2025/02/22 13:25:44 ET]
+Table '3858857104 83' 8-max Seat #1 is the button
+Seat 1: Dron C K M 3 (4982 in chips) 
+Seat 2: carsten2407 (4528 in chips) 
+Seat 3: panthere446 (4881 in chips) 
+Seat 4: Marinelord27 (5281 in chips) 
+Seat 5: Kevin12345Mc (3555 in chips) 
+Seat 6: Phill2Kill (3999 in chips) 
+Seat 7: Gun1o (6883 in chips) 
+Seat 8: louchyAA (6005 in chips) 
+Dron C K M 3: posts the ante 15
+carsten2407: posts the ante 15
+panthere446: posts the ante 15
+Marinelord27: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Phill2Kill: posts the ante 15
+Gun1o: posts the ante 15
+louchyAA: posts the ante 15
+carsten2407: posts small blind 50
+panthere446: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Th]
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: raises 512 to 612
+carsten2407: raises 3901 to 4513 and is all-in
+panthere446: folds 
+Dron C K M 3: folds 
+Uncalled bet (3901) returned to carsten2407
+carsten2407 collected 1444 from pot
+carsten2407: doesn't show hand 
+*** SUMMARY ***
+Total pot 1444 | Rake 0 
+Seat 1: Dron C K M 3 (button) folded before Flop
+Seat 2: carsten2407 (small blind) collected (1444)
+Seat 3: panthere446 (big blind) folded before Flop
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254988994270: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 18:26:22 WET [2025/02/22 13:26:22 ET]
+Table '3858857104 83' 8-max Seat #2 is the button
+Seat 1: Dron C K M 3 (4355 in chips) 
+Seat 2: carsten2407 (5345 in chips) 
+Seat 3: panthere446 (4766 in chips) 
+Seat 4: Marinelord27 (5266 in chips) 
+Seat 5: Kevin12345Mc (3540 in chips) 
+Seat 6: Phill2Kill (3984 in chips) 
+Seat 7: Gun1o (6868 in chips) 
+Seat 8: louchyAA (5990 in chips) 
+Dron C K M 3: posts the ante 18
+carsten2407: posts the ante 18
+panthere446: posts the ante 18
+Marinelord27: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Phill2Kill: posts the ante 18
+Gun1o: posts the ante 18
+louchyAA: posts the ante 18
+panthere446: posts small blind 60
+Marinelord27: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 6d]
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: raises 120 to 240
+carsten2407: folds 
+panthere446: calls 180
+Marinelord27: calls 120
+*** FLOP *** [Ks 4c 6h]
+panthere446: checks 
+Marinelord27: checks 
+Dron C K M 3: bets 360
+panthere446: calls 360
+Marinelord27: folds 
+*** TURN *** [Ks 4c 6h] [Qs]
+panthere446: checks 
+Dron C K M 3: bets 523
+panthere446: folds 
+Uncalled bet (523) returned to Dron C K M 3
+Dron C K M 3 collected 1584 from pot
+Dron C K M 3: doesn't show hand 
+*** SUMMARY ***
+Total pot 1584 | Rake 0 
+Board [Ks 4c 6h Qs]
+Seat 1: Dron C K M 3 collected (1584)
+Seat 2: carsten2407 (button) folded before Flop (didn't bet)
+Seat 3: panthere446 (small blind) folded on the Turn
+Seat 4: Marinelord27 (big blind) folded on the Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989013175: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 18:27:29 WET [2025/02/22 13:27:29 ET]
+Table '3858857104 83' 8-max Seat #3 is the button
+Seat 1: Dron C K M 3 (5321 in chips) 
+Seat 2: carsten2407 (5327 in chips) 
+Seat 3: panthere446 (4148 in chips) 
+Seat 4: Marinelord27 (5008 in chips) 
+Seat 5: Kevin12345Mc (3522 in chips) 
+Seat 6: Phill2Kill (3966 in chips) 
+Seat 7: Gun1o (6850 in chips) 
+Seat 8: louchyAA (5972 in chips) 
+Dron C K M 3: posts the ante 18
+carsten2407: posts the ante 18
+panthere446: posts the ante 18
+Marinelord27: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Phill2Kill: posts the ante 18
+Gun1o: posts the ante 18
+louchyAA: posts the ante 18
+Marinelord27: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 6d]
+Phill2Kill: calls 120
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+carsten2407: folds 
+panthere446: folds 
+Marinelord27: calls 60
+Kevin12345Mc: checks 
+*** FLOP *** [4h Qd 6c]
+Marinelord27: checks 
+Kevin12345Mc: bets 166
+Phill2Kill: calls 166
+Marinelord27: folds 
+*** TURN *** [4h Qd 6c] [3s]
+Kevin12345Mc: bets 418
+Phill2Kill: folds 
+Uncalled bet (418) returned to Kevin12345Mc
+Kevin12345Mc collected 836 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 836 | Rake 0 
+Board [4h Qd 6c 3s]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 (button) folded before Flop (didn't bet)
+Seat 4: Marinelord27 (small blind) folded on the Flop
+Seat 5: Kevin12345Mc (big blind) collected (836)
+Seat 6: Phill2Kill folded on the Turn
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989027832: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 18:28:21 WET [2025/02/22 13:28:21 ET]
+Table '3858857104 83' 8-max Seat #4 is the button
+Seat 1: Dron C K M 3 (5303 in chips) 
+Seat 2: carsten2407 (5309 in chips) 
+Seat 3: panthere446 (4130 in chips) 
+Seat 4: Marinelord27 (4870 in chips) 
+Seat 5: Kevin12345Mc (4054 in chips) 
+Seat 6: Phill2Kill (3662 in chips) 
+Seat 7: Gun1o (6832 in chips) 
+Seat 8: louchyAA (5954 in chips) 
+Dron C K M 3: posts the ante 18
+carsten2407: posts the ante 18
+panthere446: posts the ante 18
+Marinelord27: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Phill2Kill: posts the ante 18
+Gun1o: posts the ante 18
+louchyAA: posts the ante 18
+Kevin12345Mc: posts small blind 60
+Phill2Kill: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Qs]
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+carsten2407: folds 
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: calls 60
+Phill2Kill: checks 
+*** FLOP *** [6s Qc Ad]
+Kevin12345Mc: checks 
+Phill2Kill: checks 
+*** TURN *** [6s Qc Ad] [6c]
+Kevin12345Mc: bets 127
+Phill2Kill: folds 
+Uncalled bet (127) returned to Kevin12345Mc
+Kevin12345Mc collected 384 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 384 | Rake 0 
+Board [6s Qc Ad 6c]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) collected (384)
+Seat 6: Phill2Kill (big blind) folded on the Turn
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989040809: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 18:29:08 WET [2025/02/22 13:29:08 ET]
+Table '3858857104 83' 8-max Seat #5 is the button
+Seat 1: Dron C K M 3 (5285 in chips) 
+Seat 2: carsten2407 (5291 in chips) 
+Seat 3: panthere446 (4112 in chips) 
+Seat 4: Marinelord27 (4852 in chips) 
+Seat 5: Kevin12345Mc (4300 in chips) 
+Seat 6: Phill2Kill (3524 in chips) 
+Seat 7: Gun1o (6814 in chips) 
+Seat 8: louchyAA (5936 in chips) 
+Dron C K M 3: posts the ante 18
+carsten2407: posts the ante 18
+panthere446: posts the ante 18
+Marinelord27: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Phill2Kill: posts the ante 18
+Gun1o: posts the ante 18
+louchyAA: posts the ante 18
+Phill2Kill: posts small blind 60
+Gun1o: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 9d]
+louchyAA: raises 144 to 264
+Dron C K M 3: folds 
+carsten2407: folds 
+panthere446: folds 
+Marinelord27: raises 564 to 828
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: calls 564
+*** FLOP *** [8h Ks 5s]
+louchyAA: checks 
+Marinelord27: bets 696
+louchyAA: raises 4394 to 5090 and is all-in
+Marinelord27: folds 
+Uncalled bet (4394) returned to louchyAA
+louchyAA collected 3372 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 3372 | Rake 0 
+Board [8h Ks 5s]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded on the Flop
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: Phill2Kill (small blind) folded before Flop
+Seat 7: Gun1o (big blind) folded before Flop
+Seat 8: louchyAA collected (3372)
+
+
+
+PokerStars Hand #254989054719: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 18:29:56 WET [2025/02/22 13:29:56 ET]
+Table '3858857104 83' 8-max Seat #6 is the button
+Seat 1: Dron C K M 3 (5267 in chips) 
+Seat 2: carsten2407 (5273 in chips) 
+Seat 3: panthere446 (4094 in chips) 
+Seat 4: Marinelord27 (3310 in chips) 
+Seat 5: Kevin12345Mc (4282 in chips) 
+Seat 6: Phill2Kill (3446 in chips) 
+Seat 7: Gun1o (6676 in chips) 
+Seat 8: louchyAA (7766 in chips) 
+Dron C K M 3: posts the ante 18
+carsten2407: posts the ante 18
+panthere446: posts the ante 18
+Marinelord27: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Phill2Kill: posts the ante 18
+Gun1o: posts the ante 18
+louchyAA: posts the ante 18
+Gun1o: posts small blind 60
+louchyAA: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 2d]
+Dron C K M 3: raises 120 to 240
+carsten2407: folds 
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: calls 120
+*** FLOP *** [4c Tc 6d]
+louchyAA: checks 
+Dron C K M 3: bets 171
+louchyAA: raises 677 to 848
+Dron C K M 3: folds 
+Uncalled bet (677) returned to louchyAA
+louchyAA collected 1026 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 1026 | Rake 0 
+Board [4c Tc 6d]
+Seat 1: Dron C K M 3 folded on the Flop
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill (button) folded before Flop (didn't bet)
+Seat 7: Gun1o (small blind) folded before Flop
+Seat 8: louchyAA (big blind) collected (1026)
+
+
+
+PokerStars Hand #254989067210: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 18:30:39 WET [2025/02/22 13:30:39 ET]
+Table '3858857104 83' 8-max Seat #7 is the button
+Seat 1: Dron C K M 3 (4838 in chips) 
+Seat 2: carsten2407 (5255 in chips) 
+Seat 3: panthere446 (4076 in chips) 
+Seat 4: Marinelord27 (3292 in chips) 
+Seat 5: Kevin12345Mc (4264 in chips) 
+Seat 6: Phill2Kill (3428 in chips) 
+Seat 7: Gun1o (6598 in chips) 
+Seat 8: louchyAA (8363 in chips) 
+Dron C K M 3: posts the ante 18
+carsten2407: posts the ante 18
+panthere446: posts the ante 18
+Marinelord27: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Phill2Kill: posts the ante 18
+Gun1o: posts the ante 18
+louchyAA: posts the ante 18
+louchyAA: posts small blind 60
+Dron C K M 3: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 4d]
+carsten2407: folds 
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: folds 
+Uncalled bet (60) returned to Dron C K M 3
+Dron C K M 3 collected 264 from pot
+Dron C K M 3: doesn't show hand 
+*** SUMMARY ***
+Total pot 264 | Rake 0 
+Seat 1: Dron C K M 3 (big blind) collected (264)
+Seat 2: carsten2407 folded before Flop (didn't bet)
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o (button) folded before Flop (didn't bet)
+Seat 8: louchyAA (small blind) folded before Flop
+
+
+
+PokerStars Hand #254989070540: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 18:30:51 WET [2025/02/22 13:30:51 ET]
+Table '3858857104 83' 8-max Seat #8 is the button
+Seat 1: Dron C K M 3 (5024 in chips) 
+Seat 2: carsten2407 (5237 in chips) 
+Seat 3: panthere446 (4058 in chips) 
+Seat 4: Marinelord27 (3274 in chips) 
+Seat 5: Kevin12345Mc (4246 in chips) 
+Seat 6: Phill2Kill (3410 in chips) 
+Seat 7: Gun1o (6580 in chips) 
+Seat 8: louchyAA (8285 in chips) 
+Dron C K M 3: posts the ante 18
+carsten2407: posts the ante 18
+panthere446: posts the ante 18
+Marinelord27: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Phill2Kill: posts the ante 18
+Gun1o: posts the ante 18
+louchyAA: posts the ante 18
+Dron C K M 3: posts small blind 60
+carsten2407: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Ac]
+panthere446: raises 120 to 240
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: calls 240
+louchyAA: folds 
+Dron C K M 3: folds 
+carsten2407: calls 120
+*** FLOP *** [Kd 6s Jc]
+carsten2407: checks 
+panthere446: bets 462
+Gun1o: folds 
+carsten2407: folds 
+Uncalled bet (462) returned to panthere446
+panthere446 collected 924 from pot
+*** SUMMARY ***
+Total pot 924 | Rake 0 
+Board [Kd 6s Jc]
+Seat 1: Dron C K M 3 (small blind) folded before Flop
+Seat 2: carsten2407 (big blind) folded on the Flop
+Seat 3: panthere446 collected (924)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded on the Flop
+Seat 8: louchyAA (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989088410: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 18:31:53 WET [2025/02/22 13:31:53 ET]
+Table '3858857104 83' 8-max Seat #1 is the button
+Seat 1: Dron C K M 3 (4946 in chips) 
+Seat 2: carsten2407 (4979 in chips) 
+Seat 3: panthere446 (4724 in chips) 
+Seat 4: Marinelord27 (3256 in chips) 
+Seat 5: Kevin12345Mc (4228 in chips) 
+Seat 6: Phill2Kill (3392 in chips) 
+Seat 7: Gun1o (6322 in chips) 
+Seat 8: louchyAA (8267 in chips) 
+Dron C K M 3: posts the ante 18
+carsten2407: posts the ante 18
+panthere446: posts the ante 18
+Marinelord27: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Phill2Kill: posts the ante 18
+Gun1o: posts the ante 18
+louchyAA: posts the ante 18
+carsten2407: posts small blind 60
+panthere446: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 4d]
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: raises 120 to 240
+louchyAA: folds 
+Dron C K M 3: calls 240
+carsten2407: raises 4721 to 4961 and is all-in
+panthere446: folds 
+Gun1o: raises 1343 to 6304 and is all-in
+Dron C K M 3: folds 
+Uncalled bet (1343) returned to Gun1o
+*** FLOP *** [Th 6h 5h]
+*** TURN *** [Th 6h 5h] [Qd]
+*** RIVER *** [Th 6h 5h Qd] [5s]
+*** SHOW DOWN ***
+carsten2407: shows [Jc Ah] (a pair of Fives)
+Gun1o: shows [Qh Qs] (a full house, Queens full of Fives)
+Gun1o collected 10426 from pot
+carsten2407 finished the tournament
+*** SUMMARY ***
+Total pot 10426 | Rake 0 
+Board [Th 6h 5h Qd 5s]
+Seat 1: Dron C K M 3 (button) folded before Flop
+Seat 2: carsten2407 (small blind) showed [Jc Ah] and lost with a pair of Fives
+Seat 3: panthere446 (big blind) folded before Flop
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o showed [Qh Qs] and won (10426) with a full house, Queens full of Fives
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989107056: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/22 18:32:57 WET [2025/02/22 13:32:57 ET]
+Table '3858857104 83' 8-max Seat #3 is the button
+Seat 1: Dron C K M 3 (4688 in chips) 
+Seat 3: panthere446 (4586 in chips) 
+Seat 4: Marinelord27 (3238 in chips) 
+Seat 5: Kevin12345Mc (4210 in chips) 
+Seat 6: Phill2Kill (3374 in chips) 
+Seat 7: Gun1o (11769 in chips) 
+Seat 8: louchyAA (8249 in chips) 
+Dron C K M 3: posts the ante 18
+panthere446: posts the ante 18
+Marinelord27: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Phill2Kill: posts the ante 18
+Gun1o: posts the ante 18
+louchyAA: posts the ante 18
+Marinelord27: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Qc]
+Banderaz85 is disconnected 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: raises 144 to 264
+Dron C K M 3: folds 
+panthere446: calls 264
+Marinelord27: folds 
+Kevin12345Mc: raises 936 to 1200
+louchyAA: calls 936
+panthere446: folds 
+*** FLOP *** [Ad 3s 4h]
+Kevin12345Mc: bets 701
+louchyAA: calls 701
+*** TURN *** [Ad 3s 4h] [Td]
+Kevin12345Mc: checks 
+louchyAA: bets 4252
+Kevin12345Mc: folds 
+Uncalled bet (4252) returned to louchyAA
+louchyAA collected 4252 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 4252 | Rake 0 
+Board [Ad 3s 4h Td]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 3: panthere446 (button) folded before Flop
+Seat 4: Marinelord27 (small blind) folded before Flop
+Seat 5: Kevin12345Mc (big blind) folded on the Turn
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA collected (4252)
+
+
+
+PokerStars Hand #254989135852: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 18:34:37 WET [2025/02/22 13:34:37 ET]
+Table '3858857104 83' 8-max Seat #4 is the button
+Seat 1: Dron C K M 3 (4670 in chips) 
+Seat 2: Banderaz85 (5000 in chips) 
+Seat 3: panthere446 (4304 in chips) 
+Seat 4: Marinelord27 (3160 in chips) 
+Seat 5: Kevin12345Mc (2291 in chips) 
+Seat 6: Phill2Kill (3356 in chips) 
+Seat 7: Gun1o (11751 in chips) 
+Seat 8: louchyAA (10582 in chips) 
+Dron C K M 3: posts the ante 21
+Banderaz85: posts the ante 21
+panthere446: posts the ante 21
+Marinelord27: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Phill2Kill: posts the ante 21
+Gun1o: posts the ante 21
+louchyAA: posts the ante 21
+Kevin12345Mc: posts small blind 70
+Phill2Kill: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 6s]
+Gun1o: raises 140 to 280
+louchyAA: folds 
+Dron C K M 3: folds 
+Banderaz85: folds 
+panthere446: calls 280
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: calls 140
+*** FLOP *** [2h 4h 5d]
+Phill2Kill: checks 
+Gun1o: bets 630
+panthere446: folds 
+Phill2Kill: folds 
+Uncalled bet (630) returned to Gun1o
+Gun1o collected 1078 from pot
+Gun1o: doesn't show hand 
+*** SUMMARY ***
+Total pot 1078 | Rake 0 
+Board [2h 4h 5d]
+Seat 1: Dron C K M 3 folded before Flop (didn't bet)
+Seat 2: Banderaz85 folded before Flop (didn't bet)
+Seat 3: panthere446 folded on the Flop
+Seat 4: Marinelord27 (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) folded before Flop
+Seat 6: Phill2Kill (big blind) folded on the Flop
+Seat 7: Gun1o collected (1078)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989147594: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 18:35:18 WET [2025/02/22 13:35:18 ET]
+Table '3858857104 83' 8-max Seat #5 is the button
+Seat 1: Dron C K M 3 (4649 in chips) 
+Seat 2: Banderaz85 (4979 in chips) 
+Seat 3: panthere446 (4003 in chips) 
+Seat 4: Marinelord27 (3139 in chips) 
+Seat 5: Kevin12345Mc (2200 in chips) 
+Seat 6: Phill2Kill (3055 in chips) 
+Seat 7: Gun1o (12528 in chips) 
+Seat 8: louchyAA (10561 in chips) 
+Dron C K M 3: posts the ante 21
+Banderaz85: posts the ante 21
+panthere446: posts the ante 21
+Marinelord27: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Phill2Kill: posts the ante 21
+Gun1o: posts the ante 21
+louchyAA: posts the ante 21
+Phill2Kill: posts small blind 70
+Gun1o: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 8s]
+louchyAA: raises 140 to 280
+Dron C K M 3: calls 280
+Banderaz85: folds 
+panthere446: raises 3702 to 3982 and is all-in
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: folds 
+Dron C K M 3: folds 
+Uncalled bet (3702) returned to panthere446
+panthere446 collected 1218 from pot
+*** SUMMARY ***
+Total pot 1218 | Rake 0 
+Seat 1: Dron C K M 3 folded before Flop
+Seat 2: Banderaz85 folded before Flop (didn't bet)
+Seat 3: panthere446 collected (1218)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: Phill2Kill (small blind) folded before Flop
+Seat 7: Gun1o (big blind) folded before Flop
+Seat 8: louchyAA folded before Flop
+
+
+
+PokerStars Hand #254989159578: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 18:36:00 WET [2025/02/22 13:36:00 ET]
+Table '3858857104 83' 8-max Seat #6 is the button
+Seat 1: Dron C K M 3 (4348 in chips) 
+Seat 2: Banderaz85 (4958 in chips) 
+Seat 3: panthere446 (4920 in chips) 
+Seat 4: Marinelord27 (3118 in chips) 
+Seat 5: Kevin12345Mc (2179 in chips) 
+Seat 6: Phill2Kill (2964 in chips) 
+Seat 7: Gun1o (12367 in chips) 
+Seat 8: louchyAA (10260 in chips) 
+Dron C K M 3: posts the ante 21
+Banderaz85: posts the ante 21
+panthere446: posts the ante 21
+Marinelord27: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Phill2Kill: posts the ante 21
+Gun1o: posts the ante 21
+louchyAA: posts the ante 21
+Gun1o: posts small blind 70
+louchyAA: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d Qh]
+Dron C K M 3: raises 140 to 280
+Banderaz85: folds 
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: raises 560 to 840
+louchyAA: folds 
+Dron C K M 3: raises 3487 to 4327 and is all-in
+Gun1o: calls 3487
+*** FLOP *** [Ah 2c 6d]
+*** TURN *** [Ah 2c 6d] [Ac]
+*** RIVER *** [Ah 2c 6d Ac] [8c]
+*** SHOW DOWN ***
+Gun1o: shows [Qs Qd] (two pair, Aces and Queens)
+Dron C K M 3: shows [9c 9s] (two pair, Aces and Nines)
+Gun1o collected 8962 from pot
+Dron C K M 3 finished the tournament
+*** SUMMARY ***
+Total pot 8962 | Rake 0 
+Board [Ah 2c 6d Ac 8c]
+Seat 1: Dron C K M 3 showed [9c 9s] and lost with two pair, Aces and Nines
+Seat 2: Banderaz85 folded before Flop (didn't bet)
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill (button) folded before Flop (didn't bet)
+Seat 7: Gun1o (small blind) showed [Qs Qd] and won (8962) with two pair, Aces and Queens
+Seat 8: louchyAA (big blind) folded before Flop
+
+
+
+PokerStars Hand #254989176919: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 18:37:00 WET [2025/02/22 13:37:00 ET]
+Table '3858857104 83' 8-max Seat #7 is the button
+Seat 2: Banderaz85 (4937 in chips) 
+Seat 3: panthere446 (4899 in chips) 
+Seat 4: Marinelord27 (3097 in chips) 
+Seat 5: Kevin12345Mc (2158 in chips) 
+Seat 6: Phill2Kill (2943 in chips) 
+Seat 7: Gun1o (16981 in chips) 
+Seat 8: louchyAA (10099 in chips) 
+Banderaz85: posts the ante 21
+panthere446: posts the ante 21
+Marinelord27: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Phill2Kill: posts the ante 21
+Gun1o: posts the ante 21
+louchyAA: posts the ante 21
+louchyAA: posts small blind 70
+Banderaz85: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 6d]
+Fave1 is disconnected 
+panthere446: folds 
+Marinelord27: raises 140 to 280
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: folds 
+Banderaz85: calls 140
+*** FLOP *** [9d 8c 7h]
+Banderaz85: checks 
+Marinelord27: checks 
+*** TURN *** [9d 8c 7h] [5c]
+Banderaz85: bets 583
+Marinelord27: folds 
+Uncalled bet (583) returned to Banderaz85
+Banderaz85 collected 777 from pot
+*** SUMMARY ***
+Total pot 777 | Rake 0 
+Board [9d 8c 7h 5c]
+Seat 2: Banderaz85 (big blind) collected (777)
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 folded on the Turn
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o (button) folded before Flop (didn't bet)
+Seat 8: louchyAA (small blind) folded before Flop
+
+
+
+PokerStars Hand #254989195420: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 18:38:04 WET [2025/02/22 13:38:04 ET]
+Table '3858857104 83' 8-max Seat #8 is the button
+Seat 1: Fave1 (2995 in chips) out of hand (moved from another table into small blind)
+Seat 2: Banderaz85 (5413 in chips) 
+Seat 3: panthere446 (4878 in chips) 
+Seat 4: Marinelord27 (2796 in chips) 
+Seat 5: Kevin12345Mc (2137 in chips) 
+Seat 6: Phill2Kill (2922 in chips) 
+Seat 7: Gun1o (16960 in chips) 
+Seat 8: louchyAA (10008 in chips) 
+Fave1 will be allowed to play after the button
+Banderaz85: posts the ante 21
+panthere446: posts the ante 21
+Marinelord27: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Phill2Kill: posts the ante 21
+Gun1o: posts the ante 21
+louchyAA: posts the ante 21
+Banderaz85: posts small blind 70
+panthere446: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 6s]
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: raises 168 to 308
+Banderaz85: calls 238
+panthere446: calls 168
+*** FLOP *** [Td Jc 4s]
+Banderaz85: checks 
+panthere446: bets 396
+louchyAA: calls 396
+Banderaz85: calls 396
+*** TURN *** [Td Jc 4s] [Qs]
+Banderaz85: checks 
+panthere446: bets 1130
+louchyAA: calls 1130
+Banderaz85: calls 1130
+*** RIVER *** [Td Jc 4s Qs] [2h]
+Banderaz85: bets 1864
+panthere446: raises 1159 to 3023 and is all-in
+louchyAA: folds 
+Banderaz85: calls 1159
+*** SHOW DOWN ***
+panthere446: shows [Js 4c] (two pair, Jacks and Fours)
+Banderaz85: shows [Qc 6c] (a pair of Queens)
+panthere446 collected 11695 from pot
+*** SUMMARY ***
+Total pot 11695 | Rake 0 
+Board [Td Jc 4s Qs 2h]
+Seat 2: Banderaz85 (small blind) showed [Qc 6c] and lost with a pair of Queens
+Seat 3: panthere446 (big blind) showed [Js 4c] and won (11695) with two pair, Jacks and Fours
+Seat 4: Marinelord27 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA (button) folded on the River
+
+
+
+PokerStars Hand #254989238271: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 18:40:33 WET [2025/02/22 13:40:33 ET]
+Table '3858857104 83' 8-max Seat #2 is the button
+Seat 1: Fave1 (2995 in chips) 
+Seat 2: Banderaz85 (535 in chips) 
+Seat 3: panthere446 (11695 in chips) 
+Seat 4: Marinelord27 (2775 in chips) 
+Seat 5: Kevin12345Mc (2116 in chips) 
+Seat 6: Phill2Kill (2901 in chips) 
+Seat 7: Gun1o (16939 in chips) 
+Seat 8: louchyAA (8153 in chips) 
+Fave1: posts the ante 21
+Banderaz85: posts the ante 21
+panthere446: posts the ante 21
+Marinelord27: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Phill2Kill: posts the ante 21
+Gun1o: posts the ante 21
+louchyAA: posts the ante 21
+panthere446: posts small blind 70
+Marinelord27: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Kc]
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: raises 168 to 308
+Fave1: folds 
+Banderaz85: folds 
+panthere446: folds 
+Marinelord27: calls 168
+*** FLOP *** [3c 9c 5c]
+Marinelord27: checks 
+louchyAA: bets 675
+Marinelord27: folds 
+Uncalled bet (675) returned to louchyAA
+louchyAA collected 854 from pot
+louchyAA: doesn't show hand 
+*** SUMMARY ***
+Total pot 854 | Rake 0 
+Board [3c 9c 5c]
+Seat 1: Fave1 folded before Flop (didn't bet)
+Seat 2: Banderaz85 (button) folded before Flop (didn't bet)
+Seat 3: panthere446 (small blind) folded before Flop
+Seat 4: Marinelord27 (big blind) folded on the Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA collected (854)
+
+
+
+PokerStars Hand #254989260999: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/22 18:41:52 WET [2025/02/22 13:41:52 ET]
+Table '3858857104 83' 8-max Seat #3 is the button
+Seat 1: Fave1 (2974 in chips) 
+Seat 2: Banderaz85 (514 in chips) 
+Seat 3: panthere446 (11604 in chips) 
+Seat 4: Marinelord27 (2446 in chips) 
+Seat 5: Kevin12345Mc (2095 in chips) 
+Seat 6: Phill2Kill (2880 in chips) 
+Seat 7: Gun1o (16918 in chips) 
+Seat 8: louchyAA (8678 in chips) 
+Fave1: posts the ante 21
+Banderaz85: posts the ante 21
+panthere446: posts the ante 21
+Marinelord27: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Phill2Kill: posts the ante 21
+Gun1o: posts the ante 21
+louchyAA: posts the ante 21
+Marinelord27: posts small blind 70
+Kevin12345Mc: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah Tc]
+Phill2Kill: folds 
+Gun1o: folds 
+louchyAA: raises 168 to 308
+Fave1: folds 
+Banderaz85: folds 
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: raises 1766 to 2074 and is all-in
+louchyAA: folds 
+Uncalled bet (1766) returned to Kevin12345Mc
+Kevin12345Mc collected 854 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 854 | Rake 0 
+Seat 1: Fave1 folded before Flop (didn't bet)
+Seat 2: Banderaz85 folded before Flop (didn't bet)
+Seat 3: panthere446 (button) folded before Flop (didn't bet)
+Seat 4: Marinelord27 (small blind) folded before Flop
+Seat 5: Kevin12345Mc (big blind) collected (854)
+Seat 6: Phill2Kill folded before Flop (didn't bet)
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop
+
+
+
+PokerStars Hand #254989278010: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 18:42:52 WET [2025/02/22 13:42:52 ET]
+Table '3858857104 83' 8-max Seat #4 is the button
+Seat 1: Fave1 (2953 in chips) 
+Seat 2: Banderaz85 (493 in chips) 
+Seat 3: panthere446 (11583 in chips) 
+Seat 4: Marinelord27 (2355 in chips) 
+Seat 5: Kevin12345Mc (2620 in chips) 
+Seat 6: Phill2Kill (2859 in chips) 
+Seat 7: Gun1o (16897 in chips) 
+Seat 8: louchyAA (8349 in chips) 
+Fave1: posts the ante 24
+Banderaz85: posts the ante 24
+panthere446: posts the ante 24
+Marinelord27: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Phill2Kill: posts the ante 24
+Gun1o: posts the ante 24
+louchyAA: posts the ante 24
+Kevin12345Mc: posts small blind 80
+Phill2Kill: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 2d]
+Gun1o: folds 
+louchyAA: folds 
+Fave1: folds 
+Banderaz85: raises 160 to 320
+panthere446: folds 
+Marinelord27: folds 
+Kevin12345Mc: folds 
+Phill2Kill: calls 160
+*** FLOP *** [6d 3h 3c]
+Phill2Kill: checks 
+Banderaz85: checks 
+*** TURN *** [6d 3h 3c] [Th]
+Phill2Kill: bets 2515 and is all-in
+Banderaz85: calls 149 and is all-in
+Uncalled bet (2366) returned to Phill2Kill
+*** RIVER *** [6d 3h 3c Th] [4c]
+*** SHOW DOWN ***
+Phill2Kill: shows [7d Jd] (a pair of Threes)
+Banderaz85: shows [Ts Js] (two pair, Tens and Threes)
+Banderaz85 collected 1210 from pot
+*** SUMMARY ***
+Total pot 1210 | Rake 0 
+Board [6d 3h 3c Th 4c]
+Seat 1: Fave1 folded before Flop (didn't bet)
+Seat 2: Banderaz85 showed [Ts Js] and won (1210) with two pair, Tens and Threes
+Seat 3: panthere446 folded before Flop (didn't bet)
+Seat 4: Marinelord27 (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) folded before Flop
+Seat 6: Phill2Kill (big blind) showed [7d Jd] and lost with a pair of Threes
+Seat 7: Gun1o folded before Flop (didn't bet)
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989297945: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 18:44:01 WET [2025/02/22 13:44:01 ET]
+Table '3858857104 83' 8-max Seat #5 is the button
+Seat 1: Fave1 (2929 in chips) 
+Seat 2: Banderaz85 (1210 in chips) 
+Seat 3: panthere446 (11559 in chips) 
+Seat 4: Marinelord27 (2331 in chips) 
+Seat 5: Kevin12345Mc (2516 in chips) 
+Seat 6: Phill2Kill (2366 in chips) 
+Seat 7: Gun1o (16873 in chips) 
+Seat 8: louchyAA (8325 in chips) 
+Fave1: posts the ante 24
+Banderaz85: posts the ante 24
+panthere446: posts the ante 24
+Marinelord27: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Phill2Kill: posts the ante 24
+Gun1o: posts the ante 24
+louchyAA: posts the ante 24
+Phill2Kill: posts small blind 80
+Gun1o: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 8c]
+louchyAA: folds 
+Fave1: folds 
+Banderaz85: folds 
+panthere446: raises 160 to 320
+Marinelord27: raises 1987 to 2307 and is all-in
+Kevin12345Mc: folds 
+Phill2Kill: folds 
+Gun1o: folds 
+panthere446: calls 1987
+*** FLOP *** [9s 5d Jd]
+*** TURN *** [9s 5d Jd] [8h]
+*** RIVER *** [9s 5d Jd 8h] [Ts]
+*** SHOW DOWN ***
+panthere446: shows [Kc 9d] (a pair of Nines)
+Marinelord27: shows [Ad 4d] (high card Ace)
+panthere446 collected 5046 from pot
+Marinelord27 finished the tournament
+*** SUMMARY ***
+Total pot 5046 | Rake 0 
+Board [9s 5d Jd 8h Ts]
+Seat 1: Fave1 folded before Flop (didn't bet)
+Seat 2: Banderaz85 folded before Flop (didn't bet)
+Seat 3: panthere446 showed [Kc 9d] and won (5046) with a pair of Nines
+Seat 4: Marinelord27 showed [Ad 4d] and lost with high card Ace
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: Phill2Kill (small blind) folded before Flop
+Seat 7: Gun1o (big blind) folded before Flop
+Seat 8: louchyAA folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989331215: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 18:46:00 WET [2025/02/22 13:46:00 ET]
+Table '3858857104 44' 8-max Seat #5 is the button
+Seat 1: ChrisFreeFlow (6026 in chips) 
+Seat 2: skt.97 (19065 in chips) 
+Seat 3: Engiiner (3932 in chips) 
+Seat 4: Kevin12345Mc (2492 in chips) 
+Seat 5: Filip Daandi (20587 in chips) 
+Seat 6: Canada0404 (7418 in chips) 
+Seat 7: napje25 (3931 in chips) 
+Seat 8: pablo_loto (3540 in chips) 
+ChrisFreeFlow: posts the ante 24
+skt.97: posts the ante 24
+Engiiner: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Filip Daandi: posts the ante 24
+Canada0404: posts the ante 24
+napje25: posts the ante 24
+pablo_loto: posts the ante 24
+Canada0404: posts small blind 80
+napje25: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 9s]
+pablo_loto: folds 
+ChrisFreeFlow: folds 
+skt.97: folds 
+Engiiner: raises 160 to 320
+Kevin12345Mc: folds 
+Filip Daandi: calls 320
+Canada0404: calls 240
+napje25: folds 
+*** FLOP *** [2s Td 3d]
+Canada0404: checks 
+Engiiner: bets 449
+Filip Daandi: calls 449
+Canada0404: folds 
+*** TURN *** [2s Td 3d] [Kd]
+Engiiner: checks 
+Filip Daandi: bets 625
+Engiiner: folds 
+Uncalled bet (625) returned to Filip Daandi
+Filip Daandi collected 2210 from pot
+Filip Daandi: doesn't show hand 
+*** SUMMARY ***
+Total pot 2210 | Rake 0 
+Board [2s Td 3d Kd]
+Seat 1: ChrisFreeFlow folded before Flop (didn't bet)
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 3: Engiiner folded on the Turn
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Filip Daandi (button) collected (2210)
+Seat 6: Canada0404 (small blind) folded on the Flop
+Seat 7: napje25 (big blind) folded before Flop
+Seat 8: pablo_loto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989357063: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 18:47:31 WET [2025/02/22 13:47:31 ET]
+Table '3858857104 44' 8-max Seat #6 is the button
+Seat 1: ChrisFreeFlow (6002 in chips) 
+Seat 2: skt.97 (19041 in chips) 
+Seat 3: Engiiner (3139 in chips) 
+Seat 4: Kevin12345Mc (2468 in chips) 
+Seat 5: Filip Daandi (22004 in chips) 
+Seat 6: Canada0404 (7074 in chips) 
+Seat 7: napje25 (3747 in chips) 
+Seat 8: pablo_loto (3516 in chips) 
+ChrisFreeFlow: posts the ante 24
+skt.97: posts the ante 24
+Engiiner: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Filip Daandi: posts the ante 24
+Canada0404: posts the ante 24
+napje25: posts the ante 24
+pablo_loto: posts the ante 24
+napje25: posts small blind 80
+pablo_loto: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Js]
+ChrisFreeFlow: folds 
+skt.97: folds 
+Engiiner: folds 
+Kevin12345Mc: folds 
+Filip Daandi: folds 
+Canada0404: folds 
+napje25: calls 80
+pablo_loto: checks 
+*** FLOP *** [6c Qc 6h]
+napje25: checks 
+pablo_loto: checks 
+*** TURN *** [6c Qc 6h] [4h]
+napje25: bets 338
+pablo_loto: folds 
+Uncalled bet (338) returned to napje25
+napje25 collected 512 from pot
+*** SUMMARY ***
+Total pot 512 | Rake 0 
+Board [6c Qc 6h 4h]
+Seat 1: ChrisFreeFlow folded before Flop (didn't bet)
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 3: Engiiner folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Filip Daandi folded before Flop (didn't bet)
+Seat 6: Canada0404 (button) folded before Flop (didn't bet)
+Seat 7: napje25 (small blind) collected (512)
+Seat 8: pablo_loto (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254989379202: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 18:48:48 WET [2025/02/22 13:48:48 ET]
+Table '3858857104 44' 8-max Seat #7 is the button
+Seat 1: ChrisFreeFlow (5978 in chips) 
+Seat 2: skt.97 (19017 in chips) 
+Seat 3: Engiiner (3115 in chips) 
+Seat 4: Kevin12345Mc (2444 in chips) 
+Seat 5: Filip Daandi (21980 in chips) 
+Seat 6: Canada0404 (7050 in chips) 
+Seat 7: napje25 (4075 in chips) 
+Seat 8: pablo_loto (3332 in chips) 
+ChrisFreeFlow: posts the ante 24
+skt.97: posts the ante 24
+Engiiner: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Filip Daandi: posts the ante 24
+Canada0404: posts the ante 24
+napje25: posts the ante 24
+pablo_loto: posts the ante 24
+pablo_loto: posts small blind 80
+ChrisFreeFlow: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h Jd]
+skt.97: folds 
+Engiiner: folds 
+Kevin12345Mc: folds 
+Filip Daandi: raises 160 to 320
+Canada0404: calls 320
+napje25: folds 
+pablo_loto: folds 
+ChrisFreeFlow: calls 160
+*** FLOP *** [5c Qd 3s]
+ChrisFreeFlow: checks 
+Filip Daandi: bets 320
+Canada0404: folds 
+ChrisFreeFlow: folds 
+Uncalled bet (320) returned to Filip Daandi
+Filip Daandi collected 1232 from pot
+Filip Daandi: doesn't show hand 
+*** SUMMARY ***
+Total pot 1232 | Rake 0 
+Board [5c Qd 3s]
+Seat 1: ChrisFreeFlow (big blind) folded on the Flop
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 3: Engiiner folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Filip Daandi collected (1232)
+Seat 6: Canada0404 folded on the Flop
+Seat 7: napje25 (button) folded before Flop (didn't bet)
+Seat 8: pablo_loto (small blind) folded before Flop
+
+
+
+PokerStars Hand #254989393728: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/22 18:49:40 WET [2025/02/22 13:49:40 ET]
+Table '3858857104 44' 8-max Seat #8 is the button
+Seat 1: ChrisFreeFlow (5634 in chips) 
+Seat 2: skt.97 (18993 in chips) 
+Seat 3: Engiiner (3091 in chips) 
+Seat 4: Kevin12345Mc (2420 in chips) 
+Seat 5: Filip Daandi (22868 in chips) 
+Seat 6: Canada0404 (6706 in chips) 
+Seat 7: napje25 (4051 in chips) 
+Seat 8: pablo_loto (3228 in chips) 
+ChrisFreeFlow: posts the ante 24
+skt.97: posts the ante 24
+Engiiner: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Filip Daandi: posts the ante 24
+Canada0404: posts the ante 24
+napje25: posts the ante 24
+pablo_loto: posts the ante 24
+ChrisFreeFlow: posts small blind 80
+skt.97: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 8d]
+Engiiner: folds 
+Kevin12345Mc: folds 
+Filip Daandi: folds 
+Canada0404: raises 160 to 320
+napje25: folds 
+pablo_loto: folds 
+ChrisFreeFlow: folds 
+skt.97: calls 160
+*** FLOP *** [6h 8c 3d]
+skt.97: checks 
+Canada0404: checks 
+*** TURN *** [6h 8c 3d] [2h]
+skt.97: bets 500
+Canada0404: folds 
+Uncalled bet (500) returned to skt.97
+skt.97 collected 912 from pot
+skt.97: doesn't show hand 
+*** SUMMARY ***
+Total pot 912 | Rake 0 
+Board [6h 8c 3d 2h]
+Seat 1: ChrisFreeFlow (small blind) folded before Flop
+Seat 2: skt.97 (big blind) collected (912)
+Seat 3: Engiiner folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Filip Daandi folded before Flop (didn't bet)
+Seat 6: Canada0404 folded on the Turn
+Seat 7: napje25 folded before Flop (didn't bet)
+Seat 8: pablo_loto (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989421660: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 18:51:20 WET [2025/02/22 13:51:20 ET]
+Table '3858857104 44' 8-max Seat #1 is the button
+Seat 1: ChrisFreeFlow (5530 in chips) 
+Seat 2: skt.97 (19561 in chips) 
+Seat 3: Engiiner (3067 in chips) 
+Seat 4: Kevin12345Mc (2396 in chips) 
+Seat 5: Filip Daandi (22844 in chips) 
+Seat 6: Canada0404 (6362 in chips) 
+Seat 7: napje25 (4027 in chips) 
+Seat 8: pablo_loto (3204 in chips) 
+ChrisFreeFlow: posts the ante 27
+skt.97: posts the ante 27
+Engiiner: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Filip Daandi: posts the ante 27
+Canada0404: posts the ante 27
+napje25: posts the ante 27
+pablo_loto: posts the ante 27
+skt.97: posts small blind 90
+Engiiner: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c As]
+Kevin12345Mc: folds 
+Filip Daandi: raises 180 to 360
+Canada0404: folds 
+napje25: raises 3640 to 4000 and is all-in
+pablo_loto: folds 
+ChrisFreeFlow: folds 
+skt.97: folds 
+Engiiner: folds 
+Filip Daandi: folds [Ad]
+Uncalled bet (3640) returned to napje25
+napje25 collected 1206 from pot
+*** SUMMARY ***
+Total pot 1206 | Rake 0 
+Seat 1: ChrisFreeFlow (button) folded before Flop (didn't bet)
+Seat 2: skt.97 (small blind) folded before Flop
+Seat 3: Engiiner (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Filip Daandi folded before Flop
+Seat 6: Canada0404 folded before Flop (didn't bet)
+Seat 7: napje25 collected (1206)
+Seat 8: pablo_loto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989440398: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 18:52:26 WET [2025/02/22 13:52:26 ET]
+Table '3858857104 44' 8-max Seat #2 is the button
+Seat 1: ChrisFreeFlow (5503 in chips) 
+Seat 2: skt.97 (19444 in chips) 
+Seat 3: Engiiner (2860 in chips) 
+Seat 4: Kevin12345Mc (2369 in chips) 
+Seat 5: Filip Daandi (22457 in chips) 
+Seat 6: Canada0404 (6335 in chips) 
+Seat 7: napje25 (4846 in chips) 
+Seat 8: pablo_loto (3177 in chips) 
+ChrisFreeFlow: posts the ante 27
+skt.97: posts the ante 27
+Engiiner: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Filip Daandi: posts the ante 27
+Canada0404: posts the ante 27
+napje25: posts the ante 27
+pablo_loto: posts the ante 27
+Engiiner: posts small blind 90
+Kevin12345Mc: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 8d]
+Filip Daandi: folds 
+Canada0404: folds 
+napje25: raises 180 to 360
+pablo_loto: folds 
+ChrisFreeFlow: folds 
+skt.97: folds 
+Engiiner: raises 2473 to 2833 and is all-in
+Kevin12345Mc: folds 
+napje25: folds 
+Uncalled bet (2473) returned to Engiiner
+Engiiner collected 1116 from pot
+*** SUMMARY ***
+Total pot 1116 | Rake 0 
+Seat 1: ChrisFreeFlow folded before Flop (didn't bet)
+Seat 2: skt.97 (button) folded before Flop (didn't bet)
+Seat 3: Engiiner (small blind) collected (1116)
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: Filip Daandi folded before Flop (didn't bet)
+Seat 6: Canada0404 folded before Flop (didn't bet)
+Seat 7: napje25 folded before Flop
+Seat 8: pablo_loto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989452973: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 18:53:11 WET [2025/02/22 13:53:11 ET]
+Table '3858857104 44' 8-max Seat #3 is the button
+Seat 1: ChrisFreeFlow (5476 in chips) 
+Seat 2: skt.97 (19417 in chips) 
+Seat 3: Engiiner (3589 in chips) 
+Seat 4: Kevin12345Mc (2162 in chips) 
+Seat 5: Filip Daandi (22430 in chips) 
+Seat 6: Canada0404 (6308 in chips) 
+Seat 7: napje25 (4459 in chips) 
+Seat 8: pablo_loto (3150 in chips) 
+ChrisFreeFlow: posts the ante 27
+skt.97: posts the ante 27
+Engiiner: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Filip Daandi: posts the ante 27
+Canada0404: posts the ante 27
+napje25: posts the ante 27
+pablo_loto: posts the ante 27
+Kevin12345Mc: posts small blind 90
+Filip Daandi: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h As]
+Canada0404: raises 180 to 360
+napje25: folds 
+pablo_loto: folds 
+ChrisFreeFlow: folds 
+skt.97: folds 
+Engiiner: raises 3202 to 3562 and is all-in
+Kevin12345Mc: folds 
+Filip Daandi: folds 
+Canada0404: folds 
+Uncalled bet (3202) returned to Engiiner
+Engiiner collected 1206 from pot
+*** SUMMARY ***
+Total pot 1206 | Rake 0 
+Seat 1: ChrisFreeFlow folded before Flop (didn't bet)
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 3: Engiiner (button) collected (1206)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Filip Daandi (big blind) folded before Flop
+Seat 6: Canada0404 folded before Flop
+Seat 7: napje25 folded before Flop (didn't bet)
+Seat 8: pablo_loto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989463166: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 18:53:48 WET [2025/02/22 13:53:48 ET]
+Table '3858857104 44' 8-max Seat #4 is the button
+Seat 1: ChrisFreeFlow (5449 in chips) 
+Seat 2: skt.97 (19390 in chips) 
+Seat 3: Engiiner (4408 in chips) 
+Seat 4: Kevin12345Mc (2045 in chips) 
+Seat 5: Filip Daandi (22223 in chips) 
+Seat 6: Canada0404 (5921 in chips) 
+Seat 7: napje25 (4432 in chips) 
+Seat 8: pablo_loto (3123 in chips) 
+ChrisFreeFlow: posts the ante 27
+skt.97: posts the ante 27
+Engiiner: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Filip Daandi: posts the ante 27
+Canada0404: posts the ante 27
+napje25: posts the ante 27
+pablo_loto: posts the ante 27
+Filip Daandi: posts small blind 90
+Canada0404: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 3s]
+napje25: folds 
+pablo_loto: folds 
+ChrisFreeFlow: raises 180 to 360
+skt.97: folds 
+Engiiner: folds 
+Kevin12345Mc: folds 
+Filip Daandi: calls 270
+Canada0404: calls 180
+*** FLOP *** [6s 6d Ts]
+Filip Daandi: checks 
+Canada0404: checks 
+ChrisFreeFlow: bets 428
+Filip Daandi: calls 428
+Canada0404: calls 428
+*** TURN *** [6s 6d Ts] [Ac]
+Filip Daandi: checks 
+Canada0404: checks 
+ChrisFreeFlow: checks 
+*** RIVER *** [6s 6d Ts Ac] [Td]
+Filip Daandi: checks 
+Canada0404: bets 5106 and is all-in
+ChrisFreeFlow: folds 
+Filip Daandi: calls 5106
+*** SHOW DOWN ***
+Canada0404: shows [9c Tc] (a full house, Tens full of Sixes)
+Filip Daandi: shows [6h 6c] (four of a kind, Sixes)
+Filip Daandi collected 12792 from pot
+Canada0404 finished the tournament
+*** SUMMARY ***
+Total pot 12792 | Rake 0 
+Board [6s 6d Ts Ac Td]
+Seat 1: ChrisFreeFlow folded on the River
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 3: Engiiner folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: Filip Daandi (small blind) showed [6h 6c] and won (12792) with four of a kind, Sixes
+Seat 6: Canada0404 (big blind) showed [9c Tc] and lost with a full house, Tens full of Sixes
+Seat 7: napje25 folded before Flop (didn't bet)
+Seat 8: pablo_loto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254989576248: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 19:02:33 WET [2025/02/22 14:02:33 ET]
+Table '3858857104 44' 8-max Seat #5 is the button
+Seat 1: ChrisFreeFlow (4634 in chips) 
+Seat 2: skt.97 (19363 in chips) 
+Seat 3: Engiiner (4381 in chips) 
+Seat 4: Kevin12345Mc (2018 in chips) 
+Seat 5: Filip Daandi (29094 in chips) 
+Seat 6: Cn1441 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 7: napje25 (4405 in chips) 
+Seat 8: pablo_loto (3096 in chips) 
+Cn1441 will be allowed to play after the button
+ChrisFreeFlow: posts the ante 27
+skt.97: posts the ante 27
+Engiiner: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Filip Daandi: posts the ante 27
+napje25: posts the ante 27
+pablo_loto: posts the ante 27
+napje25: posts small blind 90
+pablo_loto: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 2h]
+ChrisFreeFlow: raises 180 to 360
+skt.97: raises 540 to 900
+Engiiner: raises 3454 to 4354 and is all-in
+Kevin12345Mc: folds 
+Filip Daandi is disconnected 
+Filip Daandi is connected 
+Filip Daandi is connected 
+Filip Daandi: folds 
+napje25: folds 
+pablo_loto: folds 
+ChrisFreeFlow: folds 
+skt.97: folds 
+Uncalled bet (3454) returned to Engiiner
+Engiiner collected 2619 from pot
+Engiiner: doesn't show hand 
+*** SUMMARY ***
+Total pot 2619 | Rake 0 
+Seat 1: ChrisFreeFlow folded before Flop
+Seat 2: skt.97 folded before Flop
+Seat 3: Engiiner collected (2619)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Filip Daandi (button) folded before Flop (didn't bet)
+Seat 7: napje25 (small blind) folded before Flop
+Seat 8: pablo_loto (big blind) folded before Flop
+
+
+
+PokerStars Hand #254989587591: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 19:03:12 WET [2025/02/22 14:03:12 ET]
+Table '3858857104 44' 8-max Seat #7 is the button
+Seat 1: ChrisFreeFlow (4247 in chips) 
+Seat 2: skt.97 (18436 in chips) 
+Seat 4: Kevin12345Mc (1991 in chips) 
+Seat 5: Filip Daandi (29067 in chips) 
+Seat 6: Cn1441 (5000 in chips) 
+Seat 7: napje25 (4288 in chips) 
+Seat 8: pablo_loto (2889 in chips) 
+ChrisFreeFlow: posts the ante 27
+skt.97: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Filip Daandi: posts the ante 27
+Cn1441: posts the ante 27
+napje25: posts the ante 27
+pablo_loto: posts the ante 27
+pablo_loto: posts small blind 90
+ChrisFreeFlow: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Ks]
+skt.97: folds 
+Kevin12345Mc: raises 1784 to 1964 and is all-in
+Filip Daandi: folds 
+Cn1441 has timed out
+Cn1441: folds 
+Cn1441 is sitting out
+napje25: folds 
+pablo_loto: folds 
+ChrisFreeFlow: folds 
+Uncalled bet (1784) returned to Kevin12345Mc
+Kevin12345Mc collected 639 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 639 | Rake 0 
+Seat 1: ChrisFreeFlow (big blind) folded before Flop
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (639)
+Seat 5: Filip Daandi folded before Flop (didn't bet)
+Seat 6: Cn1441 folded before Flop (didn't bet)
+Seat 7: napje25 (button) folded before Flop (didn't bet)
+Seat 8: pablo_loto (small blind) folded before Flop
+
+
+
+PokerStars Hand #254990114248: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 19:04:45 WET [2025/02/22 14:04:45 ET]
+Table '3858857104 44' 8-max Seat #8 is the button
+Seat 1: ChrisFreeFlow (4040 in chips) 
+Seat 2: skt.97 (18409 in chips) 
+Seat 3: Artysa (5000 in chips) 
+Seat 4: Kevin12345Mc (2423 in chips) 
+Seat 5: Filip Daandi (29040 in chips) 
+Seat 6: Cn1441 (4973 in chips) is sitting out
+Seat 7: napje25 (4261 in chips) 
+Seat 8: pablo_loto (2772 in chips) 
+ChrisFreeFlow: posts the ante 27
+skt.97: posts the ante 27
+Artysa: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Filip Daandi: posts the ante 27
+Cn1441: posts the ante 27
+napje25: posts the ante 27
+pablo_loto: posts the ante 27
+ChrisFreeFlow: posts small blind 90
+skt.97: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs As]
+Artysa: folds 
+Kevin12345Mc: raises 2216 to 2396 and is all-in
+Filip Daandi: folds 
+Cn1441: folds 
+napje25: folds 
+pablo_loto: folds 
+ChrisFreeFlow: folds 
+skt.97: folds 
+Uncalled bet (2216) returned to Kevin12345Mc
+Kevin12345Mc collected 666 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: ChrisFreeFlow (small blind) folded before Flop
+Seat 2: skt.97 (big blind) folded before Flop
+Seat 3: Artysa folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (666)
+Seat 5: Filip Daandi folded before Flop (didn't bet)
+Seat 6: Cn1441 folded before Flop (didn't bet)
+Seat 7: napje25 folded before Flop (didn't bet)
+Seat 8: pablo_loto (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254990124357: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/22 19:05:20 WET [2025/02/22 14:05:20 ET]
+Table '3858857104 44' 8-max Seat #1 is the button
+Seat 1: ChrisFreeFlow (3923 in chips) 
+Seat 2: skt.97 (18202 in chips) 
+Seat 3: Artysa (4973 in chips) 
+Seat 4: Kevin12345Mc (2882 in chips) 
+Seat 5: Filip Daandi (29013 in chips) 
+Seat 6: Cn1441 (4946 in chips) is sitting out
+Seat 7: napje25 (4234 in chips) 
+Seat 8: pablo_loto (2745 in chips) 
+ChrisFreeFlow: posts the ante 27
+skt.97: posts the ante 27
+Artysa: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Filip Daandi: posts the ante 27
+Cn1441: posts the ante 27
+napje25: posts the ante 27
+pablo_loto: posts the ante 27
+skt.97: posts small blind 90
+Artysa: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 5c]
+Cn1441 is disconnected 
+Kevin12345Mc: folds 
+Filip Daandi: folds 
+Cn1441: folds 
+napje25: raises 180 to 360
+pablo_loto: folds 
+ChrisFreeFlow: folds 
+skt.97: folds 
+Cn1441 has returned
+Artysa: raises 4586 to 4946 and is all-in
+napje25: folds 
+Uncalled bet (4586) returned to Artysa
+Artysa collected 1026 from pot
+*** SUMMARY ***
+Total pot 1026 | Rake 0 
+Seat 1: ChrisFreeFlow (button) folded before Flop (didn't bet)
+Seat 2: skt.97 (small blind) folded before Flop
+Seat 3: Artysa (big blind) collected (1026)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Filip Daandi folded before Flop (didn't bet)
+Seat 6: Cn1441 folded before Flop (didn't bet)
+Seat 7: napje25 folded before Flop
+Seat 8: pablo_loto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254990134935: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 19:05:57 WET [2025/02/22 14:05:57 ET]
+Table '3858857104 44' 8-max Seat #2 is the button
+Seat 1: ChrisFreeFlow (3896 in chips) 
+Seat 2: skt.97 (18085 in chips) 
+Seat 3: Artysa (5612 in chips) 
+Seat 4: Kevin12345Mc (2855 in chips) 
+Seat 5: Filip Daandi (28986 in chips) 
+Seat 6: Cn1441 (4919 in chips) 
+Seat 7: napje25 (3847 in chips) 
+Seat 8: pablo_loto (2718 in chips) 
+ChrisFreeFlow: posts the ante 30
+skt.97: posts the ante 30
+Artysa: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Filip Daandi: posts the ante 30
+Cn1441: posts the ante 30
+napje25: posts the ante 30
+pablo_loto: posts the ante 30
+Artysa: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh Ts]
+Filip Daandi: folds 
+Cn1441: folds 
+napje25: folds 
+pablo_loto: folds 
+ChrisFreeFlow: raises 200 to 400
+skt.97: calls 400
+Artysa: folds 
+Kevin12345Mc: calls 200
+*** FLOP *** [2d 3d 5s]
+Kevin12345Mc: checks 
+ChrisFreeFlow: bets 385
+skt.97: folds 
+Kevin12345Mc: folds 
+Uncalled bet (385) returned to ChrisFreeFlow
+ChrisFreeFlow collected 1540 from pot
+ChrisFreeFlow: doesn't show hand 
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Board [2d 3d 5s]
+Seat 1: ChrisFreeFlow collected (1540)
+Seat 2: skt.97 (button) folded on the Flop
+Seat 3: Artysa (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded on the Flop
+Seat 5: Filip Daandi folded before Flop (didn't bet)
+Seat 6: Cn1441 folded before Flop (didn't bet)
+Seat 7: napje25 folded before Flop (didn't bet)
+Seat 8: pablo_loto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254990146286: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 19:06:36 WET [2025/02/22 14:06:36 ET]
+Table '3858857104 44' 8-max Seat #3 is the button
+Seat 1: ChrisFreeFlow (5006 in chips) 
+Seat 2: skt.97 (17655 in chips) 
+Seat 3: Artysa (5482 in chips) 
+Seat 4: Kevin12345Mc (2425 in chips) 
+Seat 5: Filip Daandi (28956 in chips) 
+Seat 6: Cn1441 (4889 in chips) 
+Seat 7: napje25 (3817 in chips) 
+Seat 8: pablo_loto (2688 in chips) 
+ChrisFreeFlow: posts the ante 30
+skt.97: posts the ante 30
+Artysa: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Filip Daandi: posts the ante 30
+Cn1441: posts the ante 30
+napje25: posts the ante 30
+pablo_loto: posts the ante 30
+Kevin12345Mc: posts small blind 100
+Filip Daandi: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s Qh]
+Cn1441: raises 200 to 400
+napje25: folds 
+pablo_loto: folds 
+ChrisFreeFlow: folds 
+skt.97: folds 
+Artysa: folds 
+Kevin12345Mc: folds 
+Filip Daandi: calls 200
+*** FLOP *** [3c 2h Qs]
+Filip Daandi: checks 
+Cn1441: bets 4459 and is all-in
+Filip Daandi: folds 
+Uncalled bet (4459) returned to Cn1441
+Cn1441 collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [3c 2h Qs]
+Seat 1: ChrisFreeFlow folded before Flop (didn't bet)
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 3: Artysa (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Filip Daandi (big blind) folded on the Flop
+Seat 6: Cn1441 collected (1140)
+Seat 7: napje25 folded before Flop (didn't bet)
+Seat 8: pablo_loto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254990158213: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 19:07:17 WET [2025/02/22 14:07:17 ET]
+Table '3858857104 44' 8-max Seat #4 is the button
+Seat 1: ChrisFreeFlow (4976 in chips) 
+Seat 2: skt.97 (17625 in chips) 
+Seat 3: Artysa (5452 in chips) 
+Seat 4: Kevin12345Mc (2295 in chips) 
+Seat 5: Filip Daandi (28526 in chips) 
+Seat 6: Cn1441 (5599 in chips) 
+Seat 7: napje25 (3787 in chips) 
+Seat 8: pablo_loto (2658 in chips) 
+ChrisFreeFlow: posts the ante 30
+skt.97: posts the ante 30
+Artysa: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Filip Daandi: posts the ante 30
+Cn1441: posts the ante 30
+napje25: posts the ante 30
+pablo_loto: posts the ante 30
+Filip Daandi: posts small blind 100
+Cn1441: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 7d]
+napje25: folds 
+pablo_loto: raises 2428 to 2628 and is all-in
+ChrisFreeFlow: folds 
+skt.97: folds 
+Artysa: folds 
+Kevin12345Mc: folds 
+Filip Daandi: folds 
+Cn1441: folds 
+Uncalled bet (2428) returned to pablo_loto
+pablo_loto collected 740 from pot
+pablo_loto: doesn't show hand 
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Seat 1: ChrisFreeFlow folded before Flop (didn't bet)
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 3: Artysa folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: Filip Daandi (small blind) folded before Flop
+Seat 6: Cn1441 (big blind) folded before Flop
+Seat 7: napje25 folded before Flop (didn't bet)
+Seat 8: pablo_loto collected (740)
+
+
+
+PokerStars Hand #254990166180: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 19:07:45 WET [2025/02/22 14:07:45 ET]
+Table '3858857104 44' 8-max Seat #5 is the button
+Seat 1: ChrisFreeFlow (4946 in chips) 
+Seat 2: skt.97 (17595 in chips) 
+Seat 3: Artysa (5422 in chips) 
+Seat 4: Kevin12345Mc (2265 in chips) 
+Seat 5: Filip Daandi (28396 in chips) 
+Seat 6: Cn1441 (5369 in chips) 
+Seat 7: napje25 (3757 in chips) 
+Seat 8: pablo_loto (3168 in chips) 
+ChrisFreeFlow: posts the ante 30
+skt.97: posts the ante 30
+Artysa: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Filip Daandi: posts the ante 30
+Cn1441: posts the ante 30
+napje25: posts the ante 30
+pablo_loto: posts the ante 30
+Cn1441: posts small blind 100
+napje25: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Jh]
+pablo_loto: folds 
+ChrisFreeFlow: raises 200 to 400
+skt.97: folds 
+Artysa: folds 
+Kevin12345Mc: folds 
+Filip Daandi: folds 
+Cn1441: calls 300
+napje25: folds 
+*** FLOP *** [2d Qd As]
+Cn1441: bets 400
+ChrisFreeFlow: raises 673 to 1073
+Cn1441: calls 673
+*** TURN *** [2d Qd As] [9d]
+Cn1441: bets 400
+ChrisFreeFlow: raises 3043 to 3443 and is all-in
+Cn1441: calls 3043
+*** RIVER *** [2d Qd As 9d] [2c]
+*** SHOW DOWN ***
+Cn1441: shows [Jd 8d] (a flush, Queen high)
+ChrisFreeFlow: shows [Qc Ah] (two pair, Aces and Queens)
+Cn1441 collected 10272 from pot
+ChrisFreeFlow is sitting out
+ChrisFreeFlow finished the tournament
+*** SUMMARY ***
+Total pot 10272 | Rake 0 
+Board [2d Qd As 9d 2c]
+Seat 1: ChrisFreeFlow showed [Qc Ah] and lost with two pair, Aces and Queens
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 3: Artysa folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Filip Daandi (button) folded before Flop (didn't bet)
+Seat 6: Cn1441 (small blind) showed [Jd 8d] and won (10272) with a flush, Queen high
+Seat 7: napje25 (big blind) folded before Flop
+Seat 8: pablo_loto folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254990181684: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 19:08:39 WET [2025/02/22 14:08:39 ET]
+Table '3858857104 44' 8-max Seat #6 is the button
+Seat 2: skt.97 (17565 in chips) 
+Seat 3: Artysa (5392 in chips) 
+Seat 4: Kevin12345Mc (2235 in chips) 
+Seat 5: Filip Daandi (28366 in chips) 
+Seat 6: Cn1441 (10695 in chips) 
+Seat 7: napje25 (3527 in chips) 
+Seat 8: pablo_loto (3138 in chips) 
+skt.97: posts the ante 30
+Artysa: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Filip Daandi: posts the ante 30
+Cn1441: posts the ante 30
+napje25: posts the ante 30
+pablo_loto: posts the ante 30
+napje25: posts small blind 100
+pablo_loto: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 7c]
+skt.97: raises 200 to 400
+Artysa: folds 
+Kevin12345Mc: folds 
+Filip Daandi: folds 
+Cn1441: folds 
+napje25: folds 
+pablo_loto: calls 200
+*** FLOP *** [6h 3c 4d]
+pablo_loto: checks 
+skt.97: bets 488
+pablo_loto: calls 488
+*** TURN *** [6h 3c 4d] [7s]
+pablo_loto: bets 2220 and is all-in
+skt.97: calls 2220
+*** RIVER *** [6h 3c 4d 7s] [2d]
+*** SHOW DOWN ***
+pablo_loto: shows [Th Ac] (high card Ace)
+skt.97: shows [Js Jh] (a pair of Jacks)
+skt.97 collected 6526 from pot
+pablo_loto finished the tournament
+*** SUMMARY ***
+Total pot 6526 | Rake 0 
+Board [6h 3c 4d 7s 2d]
+Seat 2: skt.97 showed [Js Jh] and won (6526) with a pair of Jacks
+Seat 3: Artysa folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Filip Daandi folded before Flop (didn't bet)
+Seat 6: Cn1441 (button) folded before Flop (didn't bet)
+Seat 7: napje25 (small blind) folded before Flop
+Seat 8: pablo_loto (big blind) showed [Th Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #254990193665: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 19:09:21 WET [2025/02/22 14:09:21 ET]
+Table '3858857104 44' 8-max Seat #7 is the button
+Seat 1: Harry p0k3r (5000 in chips) out of hand (moved from another table into small blind)
+Seat 2: skt.97 (20953 in chips) 
+Seat 3: Artysa (5362 in chips) 
+Seat 4: Kevin12345Mc (2205 in chips) 
+Seat 5: Filip Daandi (28336 in chips) 
+Seat 6: Cn1441 (10665 in chips) 
+Seat 7: napje25 (3397 in chips) 
+Seat 8: dacxs (5000 in chips) out of hand (moved from another table into small blind)
+dacxs will be allowed to play after the button
+Harry p0k3r will be allowed to play after the button
+skt.97: posts the ante 30
+Artysa: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Filip Daandi: posts the ante 30
+Cn1441: posts the ante 30
+napje25: posts the ante 30
+skt.97: posts small blind 100
+Artysa: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Th]
+Kevin12345Mc: folds 
+Filip Daandi: raises 200 to 400
+Cn1441: calls 400
+napje25: folds 
+skt.97: calls 300
+Artysa: calls 200
+*** FLOP *** [Ah Kd 4c]
+skt.97: checks 
+Artysa: checks 
+Filip Daandi: checks 
+Cn1441: checks 
+*** TURN *** [Ah Kd 4c] [3h]
+skt.97: checks 
+Artysa: checks 
+Filip Daandi: bets 400
+Cn1441: folds 
+skt.97: folds 
+Artysa: calls 400
+*** RIVER *** [Ah Kd 4c 3h] [6c]
+Artysa: checks 
+Filip Daandi: checks 
+*** SHOW DOWN ***
+Artysa: shows [Ks 8d] (a pair of Kings)
+Filip Daandi: shows [Kh Jc] (a pair of Kings - Ace+Jack kicker)
+Filip Daandi collected 2580 from pot
+*** SUMMARY ***
+Total pot 2580 | Rake 0 
+Board [Ah Kd 4c 3h 6c]
+Seat 2: skt.97 (small blind) folded on the Turn
+Seat 3: Artysa (big blind) showed [Ks 8d] and lost with a pair of Kings
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Filip Daandi showed [Kh Jc] and won (2580) with a pair of Kings
+Seat 6: Cn1441 folded on the Turn
+Seat 7: napje25 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254990215205: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 19:10:36 WET [2025/02/22 14:10:36 ET]
+Table '3858857104 44' 8-max Seat #2 is the button
+Seat 1: Harry p0k3r (5000 in chips) 
+Seat 2: skt.97 (20523 in chips) 
+Seat 3: Artysa (4532 in chips) 
+Seat 4: Kevin12345Mc (2175 in chips) 
+Seat 5: Filip Daandi (30086 in chips) 
+Seat 6: Cn1441 (10235 in chips) 
+Seat 7: napje25 (3367 in chips) 
+Seat 8: dacxs (5000 in chips) 
+Harry p0k3r: posts the ante 30
+skt.97: posts the ante 30
+Artysa: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Filip Daandi: posts the ante 30
+Cn1441: posts the ante 30
+napje25: posts the ante 30
+dacxs: posts the ante 30
+Artysa: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 7h]
+Filip Daandi: raises 200 to 400
+Cn1441: folds 
+napje25: folds 
+dacxs: folds 
+Harry p0k3r: calls 400
+skt.97: folds 
+Artysa: folds 
+Kevin12345Mc: calls 200
+*** FLOP *** [Jc 8c Kc]
+Kevin12345Mc: checks 
+Filip Daandi: checks 
+Harry p0k3r: checks 
+*** TURN *** [Jc 8c Kc] [As]
+Kevin12345Mc: checks 
+Filip Daandi: checks 
+Harry p0k3r: checks 
+*** RIVER *** [Jc 8c Kc As] [Ad]
+Kevin12345Mc: checks 
+Filip Daandi: checks 
+Harry p0k3r: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Th 7h] (a pair of Aces)
+Filip Daandi: shows [Qh Qd] (two pair, Aces and Queens)
+Harry p0k3r: mucks hand 
+Filip Daandi collected 1540 from pot
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Board [Jc 8c Kc As Ad]
+Seat 1: Harry p0k3r mucked [8h 9h]
+Seat 2: skt.97 (button) folded before Flop (didn't bet)
+Seat 3: Artysa (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) showed [Th 7h] and lost with a pair of Aces
+Seat 5: Filip Daandi showed [Qh Qd] and won (1540) with two pair, Aces and Queens
+Seat 6: Cn1441 folded before Flop (didn't bet)
+Seat 7: napje25 folded before Flop (didn't bet)
+Seat 8: dacxs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254990226754: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 19:11:16 WET [2025/02/22 14:11:16 ET]
+Table '3858857104 44' 8-max Seat #3 is the button
+Seat 1: Harry p0k3r (4570 in chips) 
+Seat 2: skt.97 (20493 in chips) 
+Seat 3: Artysa (4402 in chips) 
+Seat 4: Kevin12345Mc (1745 in chips) 
+Seat 5: Filip Daandi (31196 in chips) 
+Seat 6: Cn1441 (10205 in chips) 
+Seat 7: napje25 (3337 in chips) 
+Seat 8: dacxs (4970 in chips) 
+Harry p0k3r: posts the ante 30
+skt.97: posts the ante 30
+Artysa: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Filip Daandi: posts the ante 30
+Cn1441: posts the ante 30
+napje25: posts the ante 30
+dacxs: posts the ante 30
+Kevin12345Mc: posts small blind 100
+Filip Daandi: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 2d]
+Cn1441: folds 
+napje25: folds 
+dacxs: calls 200
+Harry p0k3r: folds 
+skt.97: raises 500 to 700
+Artysa: folds 
+Kevin12345Mc: folds 
+Filip Daandi: folds 
+dacxs: calls 500
+*** FLOP *** [Ts 5d 2c]
+dacxs: checks 
+skt.97: bets 678
+dacxs: calls 678
+*** TURN *** [Ts 5d 2c] [Td]
+dacxs: checks 
+skt.97: bets 9869
+dacxs: calls 3562 and is all-in
+Uncalled bet (6307) returned to skt.97
+*** RIVER *** [Ts 5d 2c Td] [Qs]
+*** SHOW DOWN ***
+dacxs: shows [Tc Ks] (three of a kind, Tens)
+skt.97: shows [Jd As] (a pair of Tens)
+dacxs collected 10420 from pot
+*** SUMMARY ***
+Total pot 10420 | Rake 0 
+Board [Ts 5d 2c Td Qs]
+Seat 1: Harry p0k3r folded before Flop (didn't bet)
+Seat 2: skt.97 showed [Jd As] and lost with a pair of Tens
+Seat 3: Artysa (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Filip Daandi (big blind) folded before Flop
+Seat 6: Cn1441 folded before Flop (didn't bet)
+Seat 7: napje25 folded before Flop (didn't bet)
+Seat 8: dacxs showed [Tc Ks] and won (10420) with three of a kind, Tens
+
+
+
+PokerStars Hand #254990244210: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 19:12:17 WET [2025/02/22 14:12:17 ET]
+Table '3858857104 44' 8-max Seat #4 is the button
+Seat 1: Harry p0k3r (4540 in chips) 
+Seat 2: skt.97 (15523 in chips) 
+Seat 3: Artysa (4372 in chips) 
+Seat 4: Kevin12345Mc (1615 in chips) 
+Seat 5: Filip Daandi (30966 in chips) 
+Seat 6: Cn1441 (10175 in chips) 
+Seat 7: napje25 (3307 in chips) 
+Seat 8: dacxs (10420 in chips) 
+Harry p0k3r: posts the ante 30
+skt.97: posts the ante 30
+Artysa: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Filip Daandi: posts the ante 30
+Cn1441: posts the ante 30
+napje25: posts the ante 30
+dacxs: posts the ante 30
+Filip Daandi: posts small blind 100
+Cn1441: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s Kc]
+napje25: folds 
+dacxs: folds 
+Harry p0k3r: folds 
+skt.97: folds 
+Artysa: folds 
+Kevin12345Mc: folds 
+Filip Daandi: folds 
+Uncalled bet (100) returned to Cn1441
+Cn1441 collected 440 from pot
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Seat 1: Harry p0k3r folded before Flop (didn't bet)
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 3: Artysa folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: Filip Daandi (small blind) folded before Flop
+Seat 6: Cn1441 (big blind) collected (440)
+Seat 7: napje25 folded before Flop (didn't bet)
+Seat 8: dacxs folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254990255382: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/22 19:12:56 WET [2025/02/22 14:12:56 ET]
+Table '3858857104 44' 8-max Seat #5 is the button
+Seat 1: Harry p0k3r (4510 in chips) 
+Seat 2: skt.97 (15493 in chips) 
+Seat 3: Artysa (4342 in chips) 
+Seat 4: Kevin12345Mc (1585 in chips) 
+Seat 5: Filip Daandi (30836 in chips) 
+Seat 6: Cn1441 (10485 in chips) 
+Seat 7: napje25 (3277 in chips) 
+Seat 8: dacxs (10390 in chips) 
+Harry p0k3r: posts the ante 30
+skt.97: posts the ante 30
+Artysa: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Filip Daandi: posts the ante 30
+Cn1441: posts the ante 30
+napje25: posts the ante 30
+dacxs: posts the ante 30
+Cn1441: posts small blind 100
+napje25: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 3c]
+dacxs: calls 200
+Harry p0k3r: raises 500 to 700
+skt.97: folds 
+Artysa: calls 700
+Kevin12345Mc: folds 
+Filip Daandi: calls 700
+Cn1441: folds 
+napje25: folds 
+dacxs: calls 500
+*** FLOP *** [Qc Jc 7c]
+dacxs: checks 
+Harry p0k3r: bets 3780 and is all-in
+Artysa: calls 3612 and is all-in
+Filip Daandi: folds 
+dacxs: folds 
+Uncalled bet (168) returned to Harry p0k3r
+*** TURN *** [Qc Jc 7c] [9s]
+*** RIVER *** [Qc Jc 7c 9s] [5h]
+*** SHOW DOWN ***
+Harry p0k3r: shows [Ac Ad] (a pair of Aces)
+Artysa: shows [8c 9c] (a flush, Queen high)
+Artysa collected 10564 from pot
+*** SUMMARY ***
+Total pot 10564 | Rake 0 
+Board [Qc Jc 7c 9s 5h]
+Seat 1: Harry p0k3r showed [Ac Ad] and lost with a pair of Aces
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 3: Artysa showed [8c 9c] and won (10564) with a flush, Queen high
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Filip Daandi (button) folded on the Flop
+Seat 6: Cn1441 (small blind) folded before Flop
+Seat 7: napje25 (big blind) folded before Flop
+Seat 8: dacxs folded on the Flop
+
+
+
+PokerStars Hand #254990276927: Tournament #3858857104, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/22 19:14:10 WET [2025/02/22 14:14:10 ET]
+Table '3858857104 44' 8-max Seat #6 is the button
+Seat 1: Harry p0k3r (168 in chips) 
+Seat 2: skt.97 (15463 in chips) 
+Seat 3: Artysa (10564 in chips) 
+Seat 4: Kevin12345Mc (1555 in chips) 
+Seat 5: Filip Daandi (30106 in chips) 
+Seat 6: Cn1441 (10355 in chips) 
+Seat 7: napje25 (3047 in chips) 
+Seat 8: dacxs (9660 in chips) 
+Harry p0k3r: posts the ante 36
+skt.97: posts the ante 36
+Artysa: posts the ante 36
+Kevin12345Mc: posts the ante 36
+Filip Daandi: posts the ante 36
+Cn1441: posts the ante 36
+napje25: posts the ante 36
+dacxs: posts the ante 36
+napje25: posts small blind 125
+dacxs: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 9c]
+Harry p0k3r: calls 132 and is all-in
+skt.97: folds 
+Artysa: raises 250 to 500
+Kevin12345Mc: raises 1019 to 1519 and is all-in
+Filip Daandi: folds 
+Cn1441: folds 
+napje25: folds 
+dacxs: calls 1269
+Artysa: calls 1019
+*** FLOP *** [9d Ks 3h]
+dacxs: checks 
+Artysa: checks 
+*** TURN *** [9d Ks 3h] [2s]
+dacxs: checks 
+Artysa: checks 
+*** RIVER *** [9d Ks 3h 2s] [Tc]
+dacxs: checks 
+Artysa: checks 
+*** SHOW DOWN ***
+dacxs: shows [Jh Jc] (a pair of Jacks)
+Artysa: mucks hand 
+Kevin12345Mc: mucks hand 
+dacxs collected 4161 from side pot
+Harry p0k3r: mucks hand 
+dacxs collected 941 from main pot
+Kevin12345Mc finished the tournament
+Harry p0k3r finished the tournament
+Roger Ruivo is disconnected 
+*** SUMMARY ***
+Total pot 5102 Main pot 941. Side pot 4161. | Rake 0 
+Board [9d Ks 3h 2s Tc]
+Seat 1: Harry p0k3r mucked [Qs 4h]
+Seat 2: skt.97 folded before Flop (didn't bet)
+Seat 3: Artysa mucked [Ac 8s]
+Seat 4: Kevin12345Mc mucked [Ad 9c]
+Seat 5: Filip Daandi folded before Flop (didn't bet)
+Seat 6: Cn1441 (button) folded before Flop (didn't bet)
+Seat 7: napje25 (small blind) folded before Flop
+Seat 8: dacxs (big blind) showed [Jh Jc] and won (5102) with a pair of Jacks
+
+
+

@@ -1,0 +1,2529 @@
+﻿PokerStars Hand #255007373435: Tournament #3860779143, Freeroll  Hold'em No Limit - Level I (50/100) - 2025/02/23 19:59:57 WET [2025/02/23 14:59:57 ET]
+Table '3860779143 87' 9-max Seat #1 is the button
+Seat 1: LUSYONOK (10000 in chips) 
+Seat 2: ...arrow.415 (10000 in chips) 
+Seat 3: andrfz1 (10000 in chips) 
+Seat 4: Belu Mundial (10000 in chips) 
+Seat 5: michelle19111 (10000 in chips) is sitting out
+Seat 6: Alexey_5301 (10000 in chips) 
+Seat 7: Kevin12345Mc (10000 in chips) 
+Seat 8: sukhoj (10000 in chips) is sitting out
+Seat 9: akitmeo (10000 in chips) 
+LUSYONOK: posts the ante 10
+...arrow.415: posts the ante 10
+andrfz1: posts the ante 10
+Belu Mundial: posts the ante 10
+michelle19111: posts the ante 10
+Alexey_5301: posts the ante 10
+Kevin12345Mc: posts the ante 10
+sukhoj: posts the ante 10
+akitmeo: posts the ante 10
+...arrow.415: posts small blind 50
+andrfz1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 2s]
+Belu Mundial: raises 100 to 200
+michelle19111: folds 
+Alexey_5301 has timed out
+Alexey_5301: folds 
+Alexey_5301 is sitting out
+Kevin12345Mc has timed out
+Kevin12345Mc: folds 
+Kevin12345Mc is sitting out
+sukhoj: folds 
+Kevin12345Mc has returned
+akitmeo: raises 911 to 1111
+LUSYONOK: folds 
+...arrow.415: calls 1061
+andrfz1: folds 
+Belu Mundial: calls 911
+*** FLOP *** [2c 4d Jh]
+...arrow.415: bets 8879 and is all-in
+Belu Mundial: folds 
+akitmeo: calls 8879 and is all-in
+*** TURN *** [2c 4d Jh] [Jd]
+*** RIVER *** [2c 4d Jh Jd] [Qd]
+*** SHOW DOWN ***
+...arrow.415: shows [Ac 4c] (two pair, Jacks and Fours)
+akitmeo: shows [3h Ah] (a pair of Jacks)
+...arrow.415 collected 21281 from pot
+akitmeo finished the tournament
+*** SUMMARY ***
+Total pot 21281 | Rake 0 
+Board [2c 4d Jh Jd Qd]
+Seat 1: LUSYONOK (button) folded before Flop (didn't bet)
+Seat 2: ...arrow.415 (small blind) showed [Ac 4c] and won (21281) with two pair, Jacks and Fours
+Seat 3: andrfz1 (big blind) folded before Flop
+Seat 4: Belu Mundial folded on the Flop
+Seat 5: michelle19111 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: akitmeo showed [3h Ah] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #255007410141: Tournament #3860779143, Freeroll  Hold'em No Limit - Level I (50/100) - 2025/02/23 20:02:17 WET [2025/02/23 15:02:17 ET]
+Table '3860779143 87' 9-max Seat #2 is the button
+Seat 1: LUSYONOK (9990 in chips) 
+Seat 2: ...arrow.415 (21281 in chips) 
+Seat 3: andrfz1 (9890 in chips) 
+Seat 4: Belu Mundial (8879 in chips) 
+Seat 5: michelle19111 (9990 in chips) is sitting out
+Seat 6: Alexey_5301 (9990 in chips) is sitting out
+Seat 7: Kevin12345Mc (9990 in chips) 
+Seat 8: sukhoj (9990 in chips) is sitting out
+LUSYONOK: posts the ante 10
+...arrow.415: posts the ante 10
+andrfz1: posts the ante 10
+Belu Mundial: posts the ante 10
+michelle19111: posts the ante 10
+Alexey_5301: posts the ante 10
+Kevin12345Mc: posts the ante 10
+sukhoj: posts the ante 10
+andrfz1: posts small blind 50
+Belu Mundial: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Ah]
+michelle19111: folds 
+Alexey_5301: folds 
+Kevin12345Mc: raises 130 to 230
+sukhoj: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: folds 
+Belu Mundial: calls 130
+*** FLOP *** [8d Js Qc]
+Belu Mundial: checks 
+Kevin12345Mc is connected 
+Kevin12345Mc: bets 195
+Belu Mundial: folds 
+Uncalled bet (195) returned to Kevin12345Mc
+Kevin12345Mc collected 590 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 590 | Rake 0 
+Board [8d Js Qc]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 (button) folded before Flop (didn't bet)
+Seat 3: andrfz1 (small blind) folded before Flop
+Seat 4: Belu Mundial (big blind) folded on the Flop
+Seat 5: michelle19111 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (590)
+Seat 8: sukhoj folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007422325: Tournament #3860779143, Freeroll  Hold'em No Limit - Level I (50/100) - 2025/02/23 20:02:50 WET [2025/02/23 15:02:50 ET]
+Table '3860779143 87' 9-max Seat #3 is the button
+Seat 1: LUSYONOK (9980 in chips) 
+Seat 2: ...arrow.415 (21271 in chips) 
+Seat 3: andrfz1 (9830 in chips) 
+Seat 4: Belu Mundial (8639 in chips) 
+Seat 5: michelle19111 (9980 in chips) is sitting out
+Seat 6: Alexey_5301 (9980 in chips) is sitting out
+Seat 7: Kevin12345Mc (10340 in chips) 
+Seat 8: sukhoj (9980 in chips) is sitting out
+Seat 9: Gotenkslll (9360 in chips) 
+LUSYONOK: posts the ante 10
+...arrow.415: posts the ante 10
+andrfz1: posts the ante 10
+Belu Mundial: posts the ante 10
+michelle19111: posts the ante 10
+Alexey_5301: posts the ante 10
+Kevin12345Mc: posts the ante 10
+sukhoj: posts the ante 10
+Gotenkslll: posts the ante 10
+Belu Mundial: posts small blind 50
+michelle19111: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Kd]
+Alexey_5301: folds 
+Kevin12345Mc: raises 130 to 230
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: calls 230
+Belu Mundial: calls 180
+michelle19111: folds 
+*** FLOP *** [2h 9h Ah]
+Belu Mundial: checks 
+Kevin12345Mc: checks 
+andrfz1: checks 
+*** TURN *** [2h 9h Ah] [Qs]
+Belu Mundial: checks 
+Kevin12345Mc: checks 
+andrfz1: bets 880
+Belu Mundial: folds 
+Kevin12345Mc: calls 880
+*** RIVER *** [2h 9h Ah Qs] [Td]
+Kevin12345Mc: checks 
+andrfz1: bets 8710 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (8710) returned to andrfz1
+andrfz1 collected 2640 from pot
+andrfz1: doesn't show hand 
+*** SUMMARY ***
+Total pot 2640 | Rake 0 
+Board [2h 9h Ah Qs Td]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 (button) collected (2640)
+Seat 4: Belu Mundial (small blind) folded on the Turn
+Seat 5: michelle19111 (big blind) folded before Flop
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded on the River
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007446601: Tournament #3860779143, Freeroll  Hold'em No Limit - Level I (50/100) - 2025/02/23 20:04:01 WET [2025/02/23 15:04:01 ET]
+Table '3860779143 87' 9-max Seat #4 is the button
+Seat 1: LUSYONOK (9970 in chips) 
+Seat 2: ...arrow.415 (21261 in chips) 
+Seat 3: andrfz1 (11350 in chips) 
+Seat 4: Belu Mundial (8399 in chips) 
+Seat 5: michelle19111 (9870 in chips) is sitting out
+Seat 6: Alexey_5301 (9970 in chips) is sitting out
+Seat 7: Kevin12345Mc (9220 in chips) 
+Seat 8: sukhoj (9970 in chips) is sitting out
+Seat 9: Gotenkslll (9350 in chips) 
+LUSYONOK: posts the ante 10
+...arrow.415: posts the ante 10
+andrfz1: posts the ante 10
+Belu Mundial: posts the ante 10
+michelle19111: posts the ante 10
+Alexey_5301: posts the ante 10
+Kevin12345Mc: posts the ante 10
+sukhoj: posts the ante 10
+Gotenkslll: posts the ante 10
+michelle19111: posts small blind 50
+Alexey_5301: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 5h]
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: raises 100 to 200
+LUSYONOK: folds 
+...arrow.415: raises 100 to 300
+andrfz1: folds 
+Belu Mundial: calls 300
+michelle19111: folds 
+Alexey_5301: folds 
+Gotenkslll: calls 100
+*** FLOP *** [Th Qs 7c]
+Gotenkslll: checks 
+...arrow.415: checks 
+Belu Mundial: checks 
+*** TURN *** [Th Qs 7c] [Jd]
+Gotenkslll: bets 670
+...arrow.415: folds 
+Belu Mundial: folds 
+Uncalled bet (670) returned to Gotenkslll
+Gotenkslll collected 1140 from pot
+Gotenkslll: doesn't show hand 
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [Th Qs 7c Jd]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded on the Turn
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial (button) folded on the Turn
+Seat 5: michelle19111 (small blind) folded before Flop
+Seat 6: Alexey_5301 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll collected (1140)
+
+
+
+PokerStars Hand #255007463176: Tournament #3860779143, Freeroll  Hold'em No Limit - Level I (50/100) - 2025/02/23 20:04:46 WET [2025/02/23 15:04:46 ET]
+Table '3860779143 87' 9-max Seat #5 is the button
+Seat 1: LUSYONOK (9960 in chips) 
+Seat 2: ...arrow.415 (20951 in chips) 
+Seat 3: andrfz1 (11340 in chips) 
+Seat 4: Belu Mundial (8089 in chips) 
+Seat 5: michelle19111 (9810 in chips) is sitting out
+Seat 6: Alexey_5301 (9860 in chips) is sitting out
+Seat 7: Kevin12345Mc (9210 in chips) 
+Seat 8: sukhoj (9960 in chips) is sitting out
+Seat 9: Gotenkslll (10180 in chips) 
+LUSYONOK: posts the ante 10
+...arrow.415: posts the ante 10
+andrfz1: posts the ante 10
+Belu Mundial: posts the ante 10
+michelle19111: posts the ante 10
+Alexey_5301: posts the ante 10
+Kevin12345Mc: posts the ante 10
+sukhoj: posts the ante 10
+Gotenkslll: posts the ante 10
+Alexey_5301: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 3s]
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: calls 100
+andrfz1: folds 
+Belu Mundial: calls 100
+michelle19111: folds 
+Alexey_5301: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [9h Qd As]
+Kevin12345Mc: checks 
+...arrow.415: checks 
+Belu Mundial: checks 
+*** TURN *** [9h Qd As] [Js]
+Kevin12345Mc: checks 
+...arrow.415: checks 
+Belu Mundial: bets 440
+Kevin12345Mc: folds 
+...arrow.415: folds 
+Uncalled bet (440) returned to Belu Mundial
+Belu Mundial collected 440 from pot
+Belu Mundial: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [9h Qd As Js]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded on the Turn
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial collected (440)
+Seat 5: michelle19111 (button) folded before Flop (didn't bet)
+Seat 6: Alexey_5301 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Turn
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007483109: Tournament #3860779143, Freeroll  Hold'em No Limit - Level II (75/150) - 2025/02/23 20:05:40 WET [2025/02/23 15:05:40 ET]
+Table '3860779143 87' 9-max Seat #6 is the button
+Seat 1: LUSYONOK (9950 in chips) 
+Seat 2: ...arrow.415 (20841 in chips) 
+Seat 3: andrfz1 (11330 in chips) 
+Seat 4: Belu Mundial (8419 in chips) 
+Seat 5: michelle19111 (9800 in chips) is sitting out
+Seat 6: Alexey_5301 (9800 in chips) is sitting out
+Seat 7: Kevin12345Mc (9100 in chips) 
+Seat 8: sukhoj (9950 in chips) is sitting out
+Seat 9: Gotenkslll (10170 in chips) 
+LUSYONOK: posts the ante 15
+...arrow.415: posts the ante 15
+andrfz1: posts the ante 15
+Belu Mundial: posts the ante 15
+michelle19111: posts the ante 15
+Alexey_5301: posts the ante 15
+Kevin12345Mc: posts the ante 15
+sukhoj: posts the ante 15
+Gotenkslll: posts the ante 15
+Kevin12345Mc: posts small blind 75
+sukhoj: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Js]
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: folds 
+Belu Mundial: raises 510 to 660
+michelle19111: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+Uncalled bet (510) returned to Belu Mundial
+Belu Mundial collected 510 from pot
+Belu Mundial: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial collected (510)
+Seat 5: michelle19111 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: sukhoj (big blind) folded before Flop
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007488690: Tournament #3860779143, Freeroll  Hold'em No Limit - Level II (75/150) - 2025/02/23 20:05:54 WET [2025/02/23 15:05:54 ET]
+Table '3860779143 87' 9-max Seat #7 is the button
+Seat 1: LUSYONOK (9935 in chips) 
+Seat 2: ...arrow.415 (20826 in chips) 
+Seat 3: andrfz1 (11315 in chips) 
+Seat 4: Belu Mundial (8764 in chips) 
+Seat 5: michelle19111 (9785 in chips) is sitting out
+Seat 6: Alexey_5301 (9785 in chips) is sitting out
+Seat 7: Kevin12345Mc (9010 in chips) 
+Seat 8: sukhoj (9785 in chips) is sitting out
+Seat 9: Gotenkslll (10155 in chips) 
+LUSYONOK: posts the ante 15
+...arrow.415: posts the ante 15
+andrfz1: posts the ante 15
+Belu Mundial: posts the ante 15
+michelle19111: posts the ante 15
+Alexey_5301: posts the ante 15
+Kevin12345Mc: posts the ante 15
+sukhoj: posts the ante 15
+Gotenkslll: posts the ante 15
+sukhoj: posts small blind 75
+Gotenkslll: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Qh]
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: folds 
+Belu Mundial: calls 150
+michelle19111: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: checks 
+*** FLOP *** [Jc 7s 9c]
+Gotenkslll: checks 
+Belu Mundial: checks 
+*** TURN *** [Jc 7s 9c] [Jh]
+Gotenkslll: checks 
+Belu Mundial: checks 
+*** RIVER *** [Jc 7s 9c Jh] [8c]
+Gotenkslll: bets 150
+Belu Mundial: folds 
+Uncalled bet (150) returned to Gotenkslll
+Gotenkslll collected 510 from pot
+Gotenkslll: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Jc 7s 9c Jh 8c]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial folded on the River
+Seat 5: michelle19111 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: sukhoj (small blind) folded before Flop
+Seat 9: Gotenkslll (big blind) collected (510)
+
+
+
+PokerStars Hand #255007501220: Tournament #3860779143, Freeroll  Hold'em No Limit - Level II (75/150) - 2025/02/23 20:06:28 WET [2025/02/23 15:06:28 ET]
+Table '3860779143 87' 9-max Seat #8 is the button
+Seat 1: LUSYONOK (9920 in chips) 
+Seat 2: ...arrow.415 (20811 in chips) 
+Seat 3: andrfz1 (11300 in chips) 
+Seat 4: Belu Mundial (8599 in chips) 
+Seat 5: michelle19111 (9770 in chips) is sitting out
+Seat 6: Alexey_5301 (9770 in chips) is sitting out
+Seat 7: Kevin12345Mc (8995 in chips) 
+Seat 8: sukhoj (9695 in chips) is sitting out
+Seat 9: Gotenkslll (10500 in chips) 
+LUSYONOK: posts the ante 15
+...arrow.415: posts the ante 15
+andrfz1: posts the ante 15
+Belu Mundial: posts the ante 15
+michelle19111: posts the ante 15
+Alexey_5301: posts the ante 15
+Kevin12345Mc: posts the ante 15
+sukhoj: posts the ante 15
+Gotenkslll: posts the ante 15
+Gotenkslll: posts small blind 75
+LUSYONOK: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 3h]
+...arrow.415: folds 
+andrfz1: calls 150
+Belu Mundial: folds 
+michelle19111: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: calls 75
+LUSYONOK: checks 
+*** FLOP *** [5s 7s 3c]
+Alexey_5301 has returned
+Gotenkslll: bets 300
+LUSYONOK: folds 
+andrfz1: folds 
+Uncalled bet (300) returned to Gotenkslll
+Gotenkslll collected 585 from pot
+Gotenkslll: doesn't show hand 
+*** SUMMARY ***
+Total pot 585 | Rake 0 
+Board [5s 7s 3c]
+Seat 1: LUSYONOK (big blind) folded on the Flop
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded on the Flop
+Seat 4: Belu Mundial folded before Flop (didn't bet)
+Seat 5: michelle19111 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj (button) folded before Flop (didn't bet)
+Seat 9: Gotenkslll (small blind) collected (585)
+
+
+
+PokerStars Hand #255007516224: Tournament #3860779143, Freeroll  Hold'em No Limit - Level II (75/150) - 2025/02/23 20:07:08 WET [2025/02/23 15:07:08 ET]
+Table '3860779143 87' 9-max Seat #9 is the button
+Seat 1: LUSYONOK (9755 in chips) 
+Seat 2: ...arrow.415 (20796 in chips) 
+Seat 3: andrfz1 (11135 in chips) 
+Seat 4: Belu Mundial (8584 in chips) 
+Seat 5: michelle19111 (9755 in chips) is sitting out
+Seat 6: Alexey_5301 (9755 in chips) 
+Seat 7: Kevin12345Mc (8980 in chips) 
+Seat 8: sukhoj (9680 in chips) is sitting out
+Seat 9: Gotenkslll (10920 in chips) 
+LUSYONOK: posts the ante 15
+...arrow.415: posts the ante 15
+andrfz1: posts the ante 15
+Belu Mundial: posts the ante 15
+michelle19111: posts the ante 15
+Alexey_5301: posts the ante 15
+Kevin12345Mc: posts the ante 15
+sukhoj: posts the ante 15
+Gotenkslll: posts the ante 15
+LUSYONOK: posts small blind 75
+...arrow.415: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 7h]
+andrfz1: raises 510 to 660
+Belu Mundial: calls 660
+michelle19111: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: calls 510
+*** FLOP *** [4h 2h 4c]
+...arrow.415: checks 
+andrfz1: checks 
+Belu Mundial: bets 1350
+sukhoj is disconnected 
+sukhoj has returned
+...arrow.415: folds 
+andrfz1: folds 
+Uncalled bet (1350) returned to Belu Mundial
+Belu Mundial collected 2190 from pot
+Belu Mundial: doesn't show hand 
+*** SUMMARY ***
+Total pot 2190 | Rake 0 
+Board [4h 2h 4c]
+Seat 1: LUSYONOK (small blind) folded before Flop
+Seat 2: ...arrow.415 (big blind) folded on the Flop
+Seat 3: andrfz1 folded on the Flop
+Seat 4: Belu Mundial collected (2190)
+Seat 5: michelle19111 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007547563: Tournament #3860779143, Freeroll  Hold'em No Limit - Level II (75/150) - 2025/02/23 20:08:31 WET [2025/02/23 15:08:31 ET]
+Table '3860779143 87' 9-max Seat #1 is the button
+Seat 1: LUSYONOK (9665 in chips) 
+Seat 2: ...arrow.415 (20121 in chips) 
+Seat 3: andrfz1 (10460 in chips) 
+Seat 4: Belu Mundial (10099 in chips) 
+Seat 5: michelle19111 (9740 in chips) is sitting out
+Seat 6: Alexey_5301 (9740 in chips) 
+Seat 7: Kevin12345Mc (8965 in chips) 
+Seat 8: sukhoj (9665 in chips) 
+Seat 9: Gotenkslll (10905 in chips) 
+LUSYONOK: posts the ante 15
+...arrow.415: posts the ante 15
+andrfz1: posts the ante 15
+Belu Mundial: posts the ante 15
+michelle19111: posts the ante 15
+Alexey_5301: posts the ante 15
+Kevin12345Mc: posts the ante 15
+sukhoj: posts the ante 15
+Gotenkslll: posts the ante 15
+...arrow.415: posts small blind 75
+andrfz1: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 3s]
+Belu Mundial: folds 
+michelle19111: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: calls 150
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: checks 
+*** FLOP *** [Jc Jd 4c]
+andrfz1: checks 
+sukhoj: checks 
+*** TURN *** [Jc Jd 4c] [Tc]
+andrfz1: checks 
+sukhoj: bets 150
+andrfz1: folds 
+Uncalled bet (150) returned to sukhoj
+sukhoj collected 510 from pot
+sukhoj: doesn't show hand 
+*** SUMMARY ***
+Total pot 510 | Rake 0 
+Board [Jc Jd 4c Tc]
+Seat 1: LUSYONOK (button) folded before Flop (didn't bet)
+Seat 2: ...arrow.415 (small blind) folded before Flop
+Seat 3: andrfz1 (big blind) folded on the Turn
+Seat 4: Belu Mundial folded before Flop (didn't bet)
+Seat 5: michelle19111 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj collected (510)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007563700: Tournament #3860779143, Freeroll  Hold'em No Limit - Level II (75/150) - 2025/02/23 20:09:14 WET [2025/02/23 15:09:14 ET]
+Table '3860779143 87' 9-max Seat #2 is the button
+Seat 1: LUSYONOK (9650 in chips) 
+Seat 2: ...arrow.415 (20031 in chips) 
+Seat 3: andrfz1 (10295 in chips) 
+Seat 4: Belu Mundial (10084 in chips) 
+Seat 5: michelle19111 (9725 in chips) is sitting out
+Seat 6: Alexey_5301 (9725 in chips) 
+Seat 7: Kevin12345Mc (8950 in chips) 
+Seat 8: sukhoj (10010 in chips) 
+Seat 9: Gotenkslll (10890 in chips) 
+LUSYONOK: posts the ante 15
+...arrow.415: posts the ante 15
+andrfz1: posts the ante 15
+Belu Mundial: posts the ante 15
+michelle19111: posts the ante 15
+Alexey_5301: posts the ante 15
+Kevin12345Mc: posts the ante 15
+sukhoj: posts the ante 15
+Gotenkslll: posts the ante 15
+andrfz1: posts small blind 75
+Belu Mundial: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 7d]
+michelle19111: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: calls 150
+Gotenkslll: calls 150
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: raises 1800 to 1950
+Belu Mundial: folds 
+sukhoj: calls 1800
+Gotenkslll: folds 
+*** FLOP *** [Js 5h 5s]
+andrfz1: bets 8330 and is all-in
+sukhoj: folds 
+Uncalled bet (8330) returned to andrfz1
+andrfz1 collected 4335 from pot
+andrfz1: doesn't show hand 
+*** SUMMARY ***
+Total pot 4335 | Rake 0 
+Board [Js 5h 5s]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 (button) folded before Flop (didn't bet)
+Seat 3: andrfz1 (small blind) collected (4335)
+Seat 4: Belu Mundial (big blind) folded before Flop
+Seat 5: michelle19111 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj folded on the Flop
+Seat 9: Gotenkslll folded before Flop
+
+
+
+PokerStars Hand #255007596545: Tournament #3860779143, Freeroll  Hold'em No Limit - Level III (100/200) - 2025/02/23 20:10:40 WET [2025/02/23 15:10:40 ET]
+Table '3860779143 87' 9-max Seat #3 is the button
+Seat 1: LUSYONOK (9635 in chips) 
+Seat 2: ...arrow.415 (20016 in chips) 
+Seat 3: andrfz1 (12665 in chips) 
+Seat 4: Belu Mundial (9919 in chips) 
+Seat 5: michelle19111 (9710 in chips) is sitting out
+Seat 6: Alexey_5301 (9710 in chips) 
+Seat 7: Kevin12345Mc (8935 in chips) 
+Seat 8: sukhoj (8045 in chips) 
+Seat 9: Gotenkslll (10725 in chips) 
+LUSYONOK: posts the ante 20
+...arrow.415: posts the ante 20
+andrfz1: posts the ante 20
+Belu Mundial: posts the ante 20
+michelle19111: posts the ante 20
+Alexey_5301: posts the ante 20
+Kevin12345Mc: posts the ante 20
+sukhoj: posts the ante 20
+Gotenkslll: posts the ante 20
+Belu Mundial: posts small blind 100
+michelle19111: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 6h]
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: calls 200
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: calls 200
+Belu Mundial: calls 100
+michelle19111: folds 
+*** FLOP *** [Kd Ac 3h]
+Belu Mundial: checks 
+sukhoj: bets 600
+andrfz1: folds 
+Belu Mundial: folds 
+Uncalled bet (600) returned to sukhoj
+sukhoj collected 980 from pot
+sukhoj: doesn't show hand 
+*** SUMMARY ***
+Total pot 980 | Rake 0 
+Board [Kd Ac 3h]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 (button) folded on the Flop
+Seat 4: Belu Mundial (small blind) folded on the Flop
+Seat 5: michelle19111 (big blind) folded before Flop
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj collected (980)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007612309: Tournament #3860779143, Freeroll  Hold'em No Limit - Level III (100/200) - 2025/02/23 20:11:22 WET [2025/02/23 15:11:22 ET]
+Table '3860779143 87' 9-max Seat #4 is the button
+Seat 1: LUSYONOK (9615 in chips) 
+Seat 2: ...arrow.415 (19996 in chips) 
+Seat 3: andrfz1 (12445 in chips) 
+Seat 4: Belu Mundial (9699 in chips) 
+Seat 5: michelle19111 (9490 in chips) is sitting out
+Seat 6: Alexey_5301 (9690 in chips) 
+Seat 7: Kevin12345Mc (8915 in chips) 
+Seat 8: sukhoj (8805 in chips) 
+Seat 9: Gotenkslll (10705 in chips) 
+LUSYONOK: posts the ante 20
+...arrow.415: posts the ante 20
+andrfz1: posts the ante 20
+Belu Mundial: posts the ante 20
+michelle19111: posts the ante 20
+Alexey_5301: posts the ante 20
+Kevin12345Mc: posts the ante 20
+sukhoj: posts the ante 20
+Gotenkslll: posts the ante 20
+michelle19111: posts small blind 100
+Alexey_5301: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 8s]
+Kevin12345Mc has timed out
+Kevin12345Mc: folds 
+Kevin12345Mc is sitting out
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: raises 400 to 600
+Kevin12345Mc has returned
+andrfz1: raises 11825 to 12425 and is all-in
+Belu Mundial: folds 
+michelle19111: folds 
+Alexey_5301: folds 
+...arrow.415: folds 
+Uncalled bet (11825) returned to andrfz1
+andrfz1 collected 1680 from pot
+andrfz1: doesn't show hand 
+*** SUMMARY ***
+Total pot 1680 | Rake 0 
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop
+Seat 3: andrfz1 collected (1680)
+Seat 4: Belu Mundial (button) folded before Flop (didn't bet)
+Seat 5: michelle19111 (small blind) folded before Flop
+Seat 6: Alexey_5301 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007632259: Tournament #3860779143, Freeroll  Hold'em No Limit - Level III (100/200) - 2025/02/23 20:12:14 WET [2025/02/23 15:12:14 ET]
+Table '3860779143 87' 9-max Seat #5 is the button
+Seat 1: LUSYONOK (9595 in chips) 
+Seat 2: ...arrow.415 (19376 in chips) 
+Seat 3: andrfz1 (13505 in chips) 
+Seat 4: Belu Mundial (9679 in chips) 
+Seat 5: michelle19111 (9370 in chips) is sitting out
+Seat 6: Alexey_5301 (9470 in chips) 
+Seat 7: Kevin12345Mc (8895 in chips) 
+Seat 8: sukhoj (8785 in chips) 
+Seat 9: Gotenkslll (10685 in chips) 
+LUSYONOK: posts the ante 20
+...arrow.415: posts the ante 20
+andrfz1: posts the ante 20
+Belu Mundial: posts the ante 20
+michelle19111: posts the ante 20
+Alexey_5301: posts the ante 20
+Kevin12345Mc: posts the ante 20
+sukhoj: posts the ante 20
+Gotenkslll: posts the ante 20
+Alexey_5301: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 6c]
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: calls 200
+Belu Mundial: folds 
+michelle19111: folds 
+Alexey_5301: calls 100
+Kevin12345Mc: checks 
+*** FLOP *** [5s Qs 5h]
+Alexey_5301: checks 
+Kevin12345Mc: checks 
+andrfz1: checks 
+*** TURN *** [5s Qs 5h] [9h]
+michelle19111 is disconnected 
+Alexey_5301: checks 
+michelle19111 has returned
+Kevin12345Mc: checks 
+andrfz1: checks 
+*** RIVER *** [5s Qs 5h 9h] [Jh]
+Alexey_5301: checks 
+Kevin12345Mc: checks 
+andrfz1: checks 
+*** SHOW DOWN ***
+Alexey_5301: shows [Ks 3d] (a pair of Fives)
+Kevin12345Mc: shows [Ad 6c] (a pair of Fives - Ace kicker)
+andrfz1: mucks hand 
+Kevin12345Mc collected 780 from pot
+*** SUMMARY ***
+Total pot 780 | Rake 0 
+Board [5s Qs 5h 9h Jh]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 mucked [6d 7d]
+Seat 4: Belu Mundial folded before Flop (didn't bet)
+Seat 5: michelle19111 (button) folded before Flop (didn't bet)
+Seat 6: Alexey_5301 (small blind) showed [Ks 3d] and lost with a pair of Fives
+Seat 7: Kevin12345Mc (big blind) showed [Ad 6c] and won (780) with a pair of Fives
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007654041: Tournament #3860779143, Freeroll  Hold'em No Limit - Level III (100/200) - 2025/02/23 20:13:11 WET [2025/02/23 15:13:11 ET]
+Table '3860779143 87' 9-max Seat #6 is the button
+Seat 1: LUSYONOK (9575 in chips) 
+Seat 2: ...arrow.415 (19356 in chips) 
+Seat 3: andrfz1 (13285 in chips) 
+Seat 4: Belu Mundial (9659 in chips) 
+Seat 5: michelle19111 (9350 in chips) 
+Seat 6: Alexey_5301 (9250 in chips) 
+Seat 7: Kevin12345Mc (9455 in chips) 
+Seat 8: sukhoj (8765 in chips) 
+Seat 9: Gotenkslll (10665 in chips) 
+LUSYONOK: posts the ante 20
+...arrow.415: posts the ante 20
+andrfz1: posts the ante 20
+Belu Mundial: posts the ante 20
+michelle19111: posts the ante 20
+Alexey_5301: posts the ante 20
+Kevin12345Mc: posts the ante 20
+sukhoj: posts the ante 20
+Gotenkslll: posts the ante 20
+Kevin12345Mc: posts small blind 100
+sukhoj: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 8s]
+Gotenkslll: folds 
+LUSYONOK: raises 200 to 400
+...arrow.415: folds 
+andrfz1: raises 1280 to 1680
+Belu Mundial: folds 
+michelle19111: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+LUSYONOK: calls 1280
+*** FLOP *** [9c Kc 3h]
+LUSYONOK: checks 
+andrfz1: bets 3840
+LUSYONOK: folds 
+Uncalled bet (3840) returned to andrfz1
+andrfz1 collected 3840 from pot
+andrfz1: doesn't show hand 
+*** SUMMARY ***
+Total pot 3840 | Rake 0 
+Board [9c Kc 3h]
+Seat 1: LUSYONOK folded on the Flop
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 collected (3840)
+Seat 4: Belu Mundial folded before Flop (didn't bet)
+Seat 5: michelle19111 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: sukhoj (big blind) folded before Flop
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007668393: Tournament #3860779143, Freeroll  Hold'em No Limit - Level III (100/200) - 2025/02/23 20:13:49 WET [2025/02/23 15:13:49 ET]
+Table '3860779143 87' 9-max Seat #7 is the button
+Seat 1: LUSYONOK (7875 in chips) 
+Seat 2: ...arrow.415 (19336 in chips) 
+Seat 3: andrfz1 (15425 in chips) 
+Seat 4: Belu Mundial (9639 in chips) 
+Seat 5: michelle19111 (9330 in chips) 
+Seat 6: Alexey_5301 (9230 in chips) 
+Seat 7: Kevin12345Mc (9335 in chips) 
+Seat 8: sukhoj (8545 in chips) 
+Seat 9: Gotenkslll (10645 in chips) 
+LUSYONOK: posts the ante 20
+...arrow.415: posts the ante 20
+andrfz1: posts the ante 20
+Belu Mundial: posts the ante 20
+michelle19111: posts the ante 20
+Alexey_5301: posts the ante 20
+Kevin12345Mc: posts the ante 20
+sukhoj: posts the ante 20
+Gotenkslll: posts the ante 20
+sukhoj: posts small blind 100
+Gotenkslll: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 7c]
+LUSYONOK: folds 
+...arrow.415: calls 200
+andrfz1: raises 1400 to 1600
+Belu Mundial: folds 
+michelle19111: raises 7710 to 9310 and is all-in
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: folds 
+...arrow.415: folds 
+andrfz1: calls 7710
+*** FLOP *** [9c Tc Kc]
+*** TURN *** [9c Tc Kc] [5s]
+*** RIVER *** [9c Tc Kc 5s] [4h]
+*** SHOW DOWN ***
+andrfz1: shows [Ad As] (a pair of Aces)
+michelle19111: shows [Qd Qh] (a pair of Queens)
+andrfz1 collected 19300 from pot
+michelle19111 finished the tournament
+*** SUMMARY ***
+Total pot 19300 | Rake 0 
+Board [9c Tc Kc 5s 4h]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop
+Seat 3: andrfz1 showed [Ad As] and won (19300) with a pair of Aces
+Seat 4: Belu Mundial folded before Flop (didn't bet)
+Seat 5: michelle19111 showed [Qd Qh] and lost with a pair of Queens
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: sukhoj (small blind) folded before Flop
+Seat 9: Gotenkslll (big blind) folded before Flop
+
+
+
+PokerStars Hand #255007683616: Tournament #3860779143, Freeroll  Hold'em No Limit - Level III (100/200) - 2025/02/23 20:14:30 WET [2025/02/23 15:14:30 ET]
+Table '3860779143 87' 9-max Seat #8 is the button
+Seat 1: LUSYONOK (7855 in chips) 
+Seat 2: ...arrow.415 (19116 in chips) 
+Seat 3: andrfz1 (25395 in chips) 
+Seat 4: Belu Mundial (9619 in chips) 
+Seat 6: Alexey_5301 (9210 in chips) 
+Seat 7: Kevin12345Mc (9315 in chips) 
+Seat 8: sukhoj (8425 in chips) 
+Seat 9: Gotenkslll (10425 in chips) 
+LUSYONOK: posts the ante 20
+...arrow.415: posts the ante 20
+andrfz1: posts the ante 20
+Belu Mundial: posts the ante 20
+Alexey_5301: posts the ante 20
+Kevin12345Mc: posts the ante 20
+sukhoj: posts the ante 20
+Gotenkslll: posts the ante 20
+Gotenkslll: posts small blind 100
+LUSYONOK: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 4d]
+J_O_R_I_K734 is disconnected 
+...arrow.415: raises 200 to 400
+andrfz1: folds 
+Belu Mundial: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: calls 300
+LUSYONOK: folds 
+*** FLOP *** [Jc Ad 5d]
+Gotenkslll: checks 
+...arrow.415: checks 
+*** TURN *** [Jc Ad 5d] [2h]
+Gotenkslll: bets 580
+...arrow.415: calls 580
+*** RIVER *** [Jc Ad 5d 2h] [Kc]
+Gotenkslll: checks 
+...arrow.415: bets 400
+Gotenkslll: raises 600 to 1000
+...arrow.415: calls 600
+*** SHOW DOWN ***
+Gotenkslll: shows [Tc Qd] (a straight, Ten to Ace)
+...arrow.415: mucks hand 
+Gotenkslll collected 4320 from pot
+*** SUMMARY ***
+Total pot 4320 | Rake 0 
+Board [Jc Ad 5d 2h Kc]
+Seat 1: LUSYONOK (big blind) folded before Flop
+Seat 2: ...arrow.415 mucked [Qc Kd]
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj (button) folded before Flop (didn't bet)
+Seat 9: Gotenkslll (small blind) showed [Tc Qd] and won (4320) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #255007703639: Tournament #3860779143, Freeroll  Hold'em No Limit - Level IV (125/250) - 2025/02/23 20:15:22 WET [2025/02/23 15:15:22 ET]
+Table '3860779143 87' 9-max Seat #9 is the button
+Seat 1: LUSYONOK (7635 in chips) 
+Seat 2: ...arrow.415 (17116 in chips) 
+Seat 3: andrfz1 (25375 in chips) 
+Seat 4: Belu Mundial (9599 in chips) 
+Seat 5: J_O_R_I_K734 (20211 in chips) 
+Seat 6: Alexey_5301 (9190 in chips) 
+Seat 7: Kevin12345Mc (9295 in chips) 
+Seat 8: sukhoj (8405 in chips) 
+Seat 9: Gotenkslll (12745 in chips) 
+LUSYONOK: posts the ante 25
+...arrow.415: posts the ante 25
+andrfz1: posts the ante 25
+Belu Mundial: posts the ante 25
+J_O_R_I_K734: posts the ante 25
+Alexey_5301: posts the ante 25
+Kevin12345Mc: posts the ante 25
+sukhoj: posts the ante 25
+Gotenkslll: posts the ante 25
+LUSYONOK: posts small blind 125
+...arrow.415: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 8s]
+andrfz1: folds 
+Belu Mundial: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: raises 250 to 500
+Kevin12345Mc: folds 
+sukhoj: raises 1600 to 2100
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+Alexey_5301: folds 
+Uncalled bet (1600) returned to sukhoj
+sukhoj collected 1600 from pot
+sukhoj: doesn't show hand 
+*** SUMMARY ***
+Total pot 1600 | Rake 0 
+Seat 1: LUSYONOK (small blind) folded before Flop
+Seat 2: ...arrow.415 (big blind) folded before Flop
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj collected (1600)
+Seat 9: Gotenkslll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007712903: Tournament #3860779143, Freeroll  Hold'em No Limit - Level IV (125/250) - 2025/02/23 20:15:47 WET [2025/02/23 15:15:47 ET]
+Table '3860779143 87' 9-max Seat #1 is the button
+Seat 1: LUSYONOK (7485 in chips) 
+Seat 2: ...arrow.415 (16841 in chips) 
+Seat 3: andrfz1 (25350 in chips) 
+Seat 4: Belu Mundial (9574 in chips) 
+Seat 5: J_O_R_I_K734 (20186 in chips) 
+Seat 6: Alexey_5301 (8665 in chips) 
+Seat 7: Kevin12345Mc (9270 in chips) 
+Seat 8: sukhoj (9480 in chips) 
+Seat 9: Gotenkslll (12720 in chips) 
+LUSYONOK: posts the ante 25
+...arrow.415: posts the ante 25
+andrfz1: posts the ante 25
+Belu Mundial: posts the ante 25
+J_O_R_I_K734: posts the ante 25
+Alexey_5301: posts the ante 25
+Kevin12345Mc: posts the ante 25
+sukhoj: posts the ante 25
+Gotenkslll: posts the ante 25
+...arrow.415: posts small blind 125
+andrfz1: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 6c]
+Belu Mundial: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: raises 250 to 500
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: folds 
+Uncalled bet (250) returned to Gotenkslll
+Gotenkslll collected 850 from pot
+Gotenkslll: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: LUSYONOK (button) folded before Flop (didn't bet)
+Seat 2: ...arrow.415 (small blind) folded before Flop
+Seat 3: andrfz1 (big blind) folded before Flop
+Seat 4: Belu Mundial folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll collected (850)
+
+
+
+PokerStars Hand #255007723763: Tournament #3860779143, Freeroll  Hold'em No Limit - Level IV (125/250) - 2025/02/23 20:16:15 WET [2025/02/23 15:16:15 ET]
+Table '3860779143 87' 9-max Seat #2 is the button
+Seat 1: LUSYONOK (7460 in chips) 
+Seat 2: ...arrow.415 (16691 in chips) 
+Seat 3: andrfz1 (25075 in chips) 
+Seat 4: Belu Mundial (9549 in chips) 
+Seat 5: J_O_R_I_K734 (20161 in chips) 
+Seat 6: Alexey_5301 (8640 in chips) 
+Seat 7: Kevin12345Mc (9245 in chips) 
+Seat 8: sukhoj (9455 in chips) 
+Seat 9: Gotenkslll (13295 in chips) 
+LUSYONOK: posts the ante 25
+...arrow.415: posts the ante 25
+andrfz1: posts the ante 25
+Belu Mundial: posts the ante 25
+J_O_R_I_K734: posts the ante 25
+Alexey_5301: posts the ante 25
+Kevin12345Mc: posts the ante 25
+sukhoj: posts the ante 25
+Gotenkslll: posts the ante 25
+andrfz1: posts small blind 125
+Belu Mundial: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 8c]
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: raises 250 to 500
+andrfz1: folds 
+Belu Mundial: calls 250
+*** FLOP *** [7s 9h 4s]
+Belu Mundial: checks 
+...arrow.415: bets 250
+Belu Mundial: folds 
+Uncalled bet (250) returned to ...arrow.415
+...arrow.415 collected 1350 from pot
+...arrow.415: doesn't show hand 
+*** SUMMARY ***
+Total pot 1350 | Rake 0 
+Board [7s 9h 4s]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 (button) collected (1350)
+Seat 3: andrfz1 (small blind) folded before Flop
+Seat 4: Belu Mundial (big blind) folded on the Flop
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007737421: Tournament #3860779143, Freeroll  Hold'em No Limit - Level IV (125/250) - 2025/02/23 20:16:51 WET [2025/02/23 15:16:51 ET]
+Table '3860779143 87' 9-max Seat #3 is the button
+Seat 1: LUSYONOK (7435 in chips) 
+Seat 2: ...arrow.415 (17516 in chips) 
+Seat 3: andrfz1 (24925 in chips) 
+Seat 4: Belu Mundial (9024 in chips) 
+Seat 5: J_O_R_I_K734 (20136 in chips) 
+Seat 6: Alexey_5301 (8615 in chips) 
+Seat 7: Kevin12345Mc (9220 in chips) 
+Seat 8: sukhoj (9430 in chips) 
+Seat 9: Gotenkslll (13270 in chips) 
+LUSYONOK: posts the ante 25
+...arrow.415: posts the ante 25
+andrfz1: posts the ante 25
+Belu Mundial: posts the ante 25
+J_O_R_I_K734: posts the ante 25
+Alexey_5301: posts the ante 25
+Kevin12345Mc: posts the ante 25
+sukhoj: posts the ante 25
+Gotenkslll: posts the ante 25
+Belu Mundial: posts small blind 125
+J_O_R_I_K734: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 6s]
+Alexey_5301: calls 250
+Kevin12345Mc: folds 
+sukhoj: raises 1000 to 1250
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: folds 
+Belu Mundial: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: calls 1000
+*** FLOP *** [9h Kd Jd]
+Alexey_5301: checks 
+sukhoj: bets 750
+Alexey_5301: calls 750
+*** TURN *** [9h Kd Jd] [As]
+Alexey_5301: checks 
+sukhoj: bets 4600
+Alexey_5301: folds 
+Uncalled bet (4600) returned to sukhoj
+sukhoj collected 4600 from pot
+sukhoj: doesn't show hand 
+*** SUMMARY ***
+Total pot 4600 | Rake 0 
+Board [9h Kd Jd As]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 (button) folded before Flop (didn't bet)
+Seat 4: Belu Mundial (small blind) folded before Flop
+Seat 5: J_O_R_I_K734 (big blind) folded before Flop
+Seat 6: Alexey_5301 folded on the Turn
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj collected (4600)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007759673: Tournament #3860779143, Freeroll  Hold'em No Limit - Level IV (125/250) - 2025/02/23 20:17:49 WET [2025/02/23 15:17:49 ET]
+Table '3860779143 87' 9-max Seat #4 is the button
+Seat 1: LUSYONOK (7410 in chips) 
+Seat 2: ...arrow.415 (17491 in chips) 
+Seat 3: andrfz1 (24900 in chips) 
+Seat 4: Belu Mundial (8874 in chips) 
+Seat 5: J_O_R_I_K734 (19861 in chips) 
+Seat 6: Alexey_5301 (6590 in chips) 
+Seat 7: Kevin12345Mc (9195 in chips) 
+Seat 8: sukhoj (12005 in chips) 
+Seat 9: Gotenkslll (13245 in chips) 
+LUSYONOK: posts the ante 25
+...arrow.415: posts the ante 25
+andrfz1: posts the ante 25
+Belu Mundial: posts the ante 25
+J_O_R_I_K734: posts the ante 25
+Alexey_5301: posts the ante 25
+Kevin12345Mc: posts the ante 25
+sukhoj: posts the ante 25
+Gotenkslll: posts the ante 25
+J_O_R_I_K734: posts small blind 125
+Alexey_5301: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 3d]
+Kevin12345Mc: folds 
+sukhoj: raises 1000 to 1250
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: folds 
+Belu Mundial: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+Uncalled bet (1000) returned to sukhoj
+sukhoj collected 850 from pot
+sukhoj: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial (button) folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 (small blind) folded before Flop
+Seat 6: Alexey_5301 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj collected (850)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007773109: Tournament #3860779143, Freeroll  Hold'em No Limit - Level IV (125/250) - 2025/02/23 20:18:25 WET [2025/02/23 15:18:25 ET]
+Table '3860779143 87' 9-max Seat #5 is the button
+Seat 1: LUSYONOK (7385 in chips) 
+Seat 2: ...arrow.415 (17466 in chips) 
+Seat 3: andrfz1 (24875 in chips) 
+Seat 4: Belu Mundial (8849 in chips) 
+Seat 5: J_O_R_I_K734 (19711 in chips) 
+Seat 6: Alexey_5301 (6315 in chips) 
+Seat 7: Kevin12345Mc (9170 in chips) 
+Seat 8: sukhoj (12580 in chips) 
+Seat 9: Gotenkslll (13220 in chips) 
+LUSYONOK: posts the ante 25
+...arrow.415: posts the ante 25
+andrfz1: posts the ante 25
+Belu Mundial: posts the ante 25
+J_O_R_I_K734: posts the ante 25
+Alexey_5301: posts the ante 25
+Kevin12345Mc: posts the ante 25
+sukhoj: posts the ante 25
+Gotenkslll: posts the ante 25
+Alexey_5301: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 7h]
+sukhoj: calls 250
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: folds 
+Belu Mundial: raises 250 to 500
+J_O_R_I_K734: folds 
+Alexey_5301: calls 375
+Kevin12345Mc: calls 250
+sukhoj: calls 250
+*** FLOP *** [Js Jh 3s]
+Alexey_5301: checks 
+Kevin12345Mc: checks 
+sukhoj: bets 500
+Belu Mundial: calls 500
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+*** TURN *** [Js Jh 3s] [7d]
+sukhoj: checks 
+Belu Mundial: bets 1613
+sukhoj: folds 
+Uncalled bet (1613) returned to Belu Mundial
+Belu Mundial collected 3225 from pot
+Belu Mundial: doesn't show hand 
+*** SUMMARY ***
+Total pot 3225 | Rake 0 
+Board [Js Jh 3s 7d]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial collected (3225)
+Seat 5: J_O_R_I_K734 (button) folded before Flop (didn't bet)
+Seat 6: Alexey_5301 (small blind) folded on the Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Flop
+Seat 8: sukhoj folded on the Turn
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007797727: Tournament #3860779143, Freeroll  Hold'em No Limit - Level IV (125/250) - 2025/02/23 20:19:29 WET [2025/02/23 15:19:29 ET]
+Table '3860779143 87' 9-max Seat #6 is the button
+Seat 1: LUSYONOK (7360 in chips) 
+Seat 2: ...arrow.415 (17441 in chips) 
+Seat 3: andrfz1 (24850 in chips) 
+Seat 4: Belu Mundial (11049 in chips) 
+Seat 5: J_O_R_I_K734 (19686 in chips) 
+Seat 6: Alexey_5301 (5790 in chips) 
+Seat 7: Kevin12345Mc (8645 in chips) 
+Seat 8: sukhoj (11555 in chips) 
+Seat 9: Gotenkslll (13195 in chips) 
+LUSYONOK: posts the ante 25
+...arrow.415: posts the ante 25
+andrfz1: posts the ante 25
+Belu Mundial: posts the ante 25
+J_O_R_I_K734: posts the ante 25
+Alexey_5301: posts the ante 25
+Kevin12345Mc: posts the ante 25
+sukhoj: posts the ante 25
+Gotenkslll: posts the ante 25
+Kevin12345Mc: posts small blind 125
+sukhoj: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 8h]
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: folds 
+Belu Mundial: raises 500 to 750
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: calls 500
+*** FLOP *** [2s 3d 8c]
+sukhoj: checks 
+Belu Mundial: bets 1850
+sukhoj: folds 
+Uncalled bet (1850) returned to Belu Mundial
+Belu Mundial collected 1850 from pot
+Belu Mundial: doesn't show hand 
+*** SUMMARY ***
+Total pot 1850 | Rake 0 
+Board [2s 3d 8c]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial collected (1850)
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: sukhoj (big blind) folded on the Flop
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007811565: Tournament #3860779143, Freeroll  Hold'em No Limit - Level V (150/300) - 2025/02/23 20:20:06 WET [2025/02/23 15:20:06 ET]
+Table '3860779143 87' 9-max Seat #7 is the button
+Seat 1: LUSYONOK (7335 in chips) 
+Seat 2: ...arrow.415 (17416 in chips) 
+Seat 3: andrfz1 (24825 in chips) 
+Seat 4: Belu Mundial (12124 in chips) 
+Seat 5: J_O_R_I_K734 (19661 in chips) 
+Seat 6: Alexey_5301 (5765 in chips) 
+Seat 7: Kevin12345Mc (8495 in chips) 
+Seat 8: sukhoj (10780 in chips) 
+Seat 9: Gotenkslll (13170 in chips) 
+LUSYONOK: posts the ante 30
+...arrow.415: posts the ante 30
+andrfz1: posts the ante 30
+Belu Mundial: posts the ante 30
+J_O_R_I_K734: posts the ante 30
+Alexey_5301: posts the ante 30
+Kevin12345Mc: posts the ante 30
+sukhoj: posts the ante 30
+Gotenkslll: posts the ante 30
+sukhoj: posts small blind 150
+Gotenkslll: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 7s]
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: folds 
+Belu Mundial: raises 300 to 600
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: calls 300
+*** FLOP *** [9d Qs 6h]
+Gotenkslll: checks 
+Belu Mundial: checks 
+*** TURN *** [9d Qs 6h] [2s]
+Gotenkslll: bets 600
+Belu Mundial: folds 
+Uncalled bet (600) returned to Gotenkslll
+Gotenkslll collected 1620 from pot
+Gotenkslll: doesn't show hand 
+*** SUMMARY ***
+Total pot 1620 | Rake 0 
+Board [9d Qs 6h 2s]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial folded on the Turn
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: sukhoj (small blind) folded before Flop
+Seat 9: Gotenkslll (big blind) collected (1620)
+
+
+
+PokerStars Hand #255007830797: Tournament #3860779143, Freeroll  Hold'em No Limit - Level V (150/300) - 2025/02/23 20:20:56 WET [2025/02/23 15:20:56 ET]
+Table '3860779143 87' 9-max Seat #8 is the button
+Seat 1: LUSYONOK (7305 in chips) 
+Seat 2: ...arrow.415 (17386 in chips) 
+Seat 3: andrfz1 (24795 in chips) 
+Seat 4: Belu Mundial (11494 in chips) 
+Seat 5: J_O_R_I_K734 (19631 in chips) 
+Seat 6: Alexey_5301 (5735 in chips) 
+Seat 7: Kevin12345Mc (8465 in chips) 
+Seat 8: sukhoj (10600 in chips) 
+Seat 9: Gotenkslll (14160 in chips) 
+LUSYONOK: posts the ante 30
+...arrow.415: posts the ante 30
+andrfz1: posts the ante 30
+Belu Mundial: posts the ante 30
+J_O_R_I_K734: posts the ante 30
+Alexey_5301: posts the ante 30
+Kevin12345Mc: posts the ante 30
+sukhoj: posts the ante 30
+Gotenkslll: posts the ante 30
+Gotenkslll: posts small blind 150
+LUSYONOK: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad As]
+...arrow.415: folds 
+andrfz1: folds 
+Belu Mundial: calls 300
+J_O_R_I_K734: raises 900 to 1200
+Alexey_5301: folds 
+Kevin12345Mc: raises 7235 to 8435 and is all-in
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: folds 
+Belu Mundial: folds 
+J_O_R_I_K734: calls 7235
+*** FLOP *** [2c Ah Th]
+*** TURN *** [2c Ah Th] [Ts]
+*** RIVER *** [2c Ah Th Ts] [9s]
+*** SHOW DOWN ***
+J_O_R_I_K734: shows [Js Jh] (two pair, Jacks and Tens)
+Kevin12345Mc: shows [Ad As] (a full house, Aces full of Tens)
+Kevin12345Mc collected 17890 from pot
+*** SUMMARY ***
+Total pot 17890 | Rake 0 
+Board [2c Ah Th Ts 9s]
+Seat 1: LUSYONOK (big blind) folded before Flop
+Seat 2: ...arrow.415 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial folded before Flop
+Seat 5: J_O_R_I_K734 showed [Js Jh] and lost with two pair, Jacks and Tens
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc showed [Ad As] and won (17890) with a full house, Aces full of Tens
+Seat 8: sukhoj (button) folded before Flop (didn't bet)
+Seat 9: Gotenkslll (small blind) folded before Flop
+
+
+
+PokerStars Hand #255007850108: Tournament #3860779143, Freeroll  Hold'em No Limit - Level V (150/300) - 2025/02/23 20:21:48 WET [2025/02/23 15:21:48 ET]
+Table '3860779143 87' 9-max Seat #9 is the button
+Seat 1: LUSYONOK (6975 in chips) 
+Seat 2: ...arrow.415 (17356 in chips) 
+Seat 3: andrfz1 (24765 in chips) 
+Seat 4: Belu Mundial (11164 in chips) 
+Seat 5: J_O_R_I_K734 (11166 in chips) 
+Seat 6: Alexey_5301 (5705 in chips) 
+Seat 7: Kevin12345Mc (17890 in chips) 
+Seat 8: sukhoj (10570 in chips) 
+Seat 9: Gotenkslll (13980 in chips) 
+LUSYONOK: posts the ante 30
+...arrow.415: posts the ante 30
+andrfz1: posts the ante 30
+Belu Mundial: posts the ante 30
+J_O_R_I_K734: posts the ante 30
+Alexey_5301: posts the ante 30
+Kevin12345Mc: posts the ante 30
+sukhoj: posts the ante 30
+Gotenkslll: posts the ante 30
+LUSYONOK: posts small blind 150
+...arrow.415: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 9s]
+andrfz1: folds 
+Belu Mundial: raises 300 to 600
+J_O_R_I_K734: calls 600
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: calls 450
+...arrow.415: calls 300
+*** FLOP *** [Ac 2d 3c]
+LUSYONOK: checks 
+...arrow.415: bets 300
+Belu Mundial: calls 300
+J_O_R_I_K734: calls 300
+LUSYONOK: raises 1935 to 2235
+...arrow.415: folds 
+Belu Mundial: calls 1935
+J_O_R_I_K734: folds 
+*** TURN *** [Ac 2d 3c] [6s]
+LUSYONOK: bets 3870
+Belu Mundial: raises 3870 to 7740
+LUSYONOK: calls 240 and is all-in
+Uncalled bet (3630) returned to Belu Mundial
+*** RIVER *** [Ac 2d 3c 6s] [As]
+*** SHOW DOWN ***
+LUSYONOK: shows [4d Ad] (three of a kind, Aces)
+Belu Mundial: shows [Kh Kd] (two pair, Aces and Kings)
+LUSYONOK collected 15960 from pot
+*** SUMMARY ***
+Total pot 15960 | Rake 0 
+Board [Ac 2d 3c 6s As]
+Seat 1: LUSYONOK (small blind) showed [4d Ad] and won (15960) with three of a kind, Aces
+Seat 2: ...arrow.415 (big blind) folded on the Flop
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: Belu Mundial showed [Kh Kd] and lost with two pair, Aces and Kings
+Seat 5: J_O_R_I_K734 folded on the Flop
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007886845: Tournament #3860779143, Freeroll  Hold'em No Limit - Level V (150/300) - 2025/02/23 20:23:25 WET [2025/02/23 15:23:25 ET]
+Table '3860779143 87' 9-max Seat #1 is the button
+Seat 1: LUSYONOK (15960 in chips) 
+Seat 2: ...arrow.415 (16426 in chips) 
+Seat 3: andrfz1 (24735 in chips) 
+Seat 4: Belu Mundial (4189 in chips) 
+Seat 5: J_O_R_I_K734 (10236 in chips) 
+Seat 6: Alexey_5301 (5675 in chips) 
+Seat 7: Kevin12345Mc (17860 in chips) 
+Seat 8: sukhoj (10540 in chips) 
+Seat 9: Gotenkslll (13950 in chips) 
+LUSYONOK: posts the ante 30
+...arrow.415: posts the ante 30
+andrfz1: posts the ante 30
+Belu Mundial: posts the ante 30
+J_O_R_I_K734: posts the ante 30
+Alexey_5301: posts the ante 30
+Kevin12345Mc: posts the ante 30
+sukhoj: posts the ante 30
+Gotenkslll: posts the ante 30
+...arrow.415: posts small blind 150
+andrfz1: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 2d]
+Belu Mundial: folds 
+J_O_R_I_K734: raises 300 to 600
+Alexey_5301: calls 600
+Kevin12345Mc: folds 
+sukhoj: calls 600
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: raises 300 to 900
+andrfz1: folds 
+J_O_R_I_K734: calls 300
+Alexey_5301: calls 300
+sukhoj: calls 300
+*** FLOP *** [7s Jc 4c]
+...arrow.415: bets 15496 and is all-in
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+sukhoj: calls 9610 and is all-in
+Uncalled bet (5886) returned to ...arrow.415
+*** TURN *** [7s Jc 4c] [7h]
+*** RIVER *** [7s Jc 4c 7h] [Qc]
+*** SHOW DOWN ***
+...arrow.415: shows [3c Ad] (a pair of Sevens)
+sukhoj: shows [Kd Jh] (two pair, Jacks and Sevens)
+sukhoj collected 23390 from pot
+*** SUMMARY ***
+Total pot 23390 | Rake 0 
+Board [7s Jc 4c 7h Qc]
+Seat 1: LUSYONOK (button) folded before Flop (didn't bet)
+Seat 2: ...arrow.415 (small blind) showed [3c Ad] and lost with a pair of Sevens
+Seat 3: andrfz1 (big blind) folded before Flop
+Seat 4: Belu Mundial folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 folded on the Flop
+Seat 6: Alexey_5301 folded on the Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj showed [Kd Jh] and won (23390) with two pair, Jacks and Sevens
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007908138: Tournament #3860779143, Freeroll  Hold'em No Limit - Level V (150/300) - 2025/02/23 20:24:22 WET [2025/02/23 15:24:22 ET]
+Table '3860779143 87' 9-max Seat #2 is the button
+Seat 1: LUSYONOK (15930 in chips) 
+Seat 2: ...arrow.415 (5886 in chips) 
+Seat 3: andrfz1 (24405 in chips) 
+Seat 4: Belu Mundial (4159 in chips) 
+Seat 5: J_O_R_I_K734 (9306 in chips) 
+Seat 6: Alexey_5301 (4745 in chips) 
+Seat 7: Kevin12345Mc (17830 in chips) 
+Seat 8: sukhoj (23390 in chips) 
+Seat 9: Gotenkslll (13920 in chips) 
+LUSYONOK: posts the ante 30
+...arrow.415: posts the ante 30
+andrfz1: posts the ante 30
+Belu Mundial: posts the ante 30
+J_O_R_I_K734: posts the ante 30
+Alexey_5301: posts the ante 30
+Kevin12345Mc: posts the ante 30
+sukhoj: posts the ante 30
+Gotenkslll: posts the ante 30
+andrfz1: posts small blind 150
+Belu Mundial: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Td]
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+Kevin12345Mc: raises 390 to 690
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: folds 
+andrfz1: folds 
+Belu Mundial: raises 3439 to 4129 and is all-in
+Kevin12345Mc: calls 3439
+*** FLOP *** [Kh 4s Kd]
+*** TURN *** [Kh 4s Kd] [9d]
+*** RIVER *** [Kh 4s Kd 9d] [6c]
+*** SHOW DOWN ***
+Belu Mundial: shows [Qc 7s] (a pair of Kings)
+Kevin12345Mc: shows [Qd Td] (a pair of Kings - Queen+Ten kicker)
+Kevin12345Mc collected 8678 from pot
+Belu Mundial finished the tournament
+*** SUMMARY ***
+Total pot 8678 | Rake 0 
+Board [Kh 4s Kd 9d 6c]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 (button) folded before Flop (didn't bet)
+Seat 3: andrfz1 (small blind) folded before Flop
+Seat 4: Belu Mundial (big blind) showed [Qc 7s] and lost with a pair of Kings
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc showed [Qd Td] and won (8678) with a pair of Kings
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007920577: Tournament #3860779143, Freeroll  Hold'em No Limit - Level V (150/300) - 2025/02/23 20:24:54 WET [2025/02/23 15:24:54 ET]
+Table '3860779143 87' 9-max Seat #3 is the button
+Seat 1: LUSYONOK (15900 in chips) 
+Seat 2: ...arrow.415 (5856 in chips) 
+Seat 3: andrfz1 (24225 in chips) 
+Seat 5: J_O_R_I_K734 (9276 in chips) 
+Seat 6: Alexey_5301 (4715 in chips) 
+Seat 7: Kevin12345Mc (22349 in chips) 
+Seat 8: sukhoj (23360 in chips) 
+Seat 9: Gotenkslll (13890 in chips) 
+LUSYONOK: posts the ante 30
+...arrow.415: posts the ante 30
+andrfz1: posts the ante 30
+J_O_R_I_K734: posts the ante 30
+Alexey_5301: posts the ante 30
+Kevin12345Mc: posts the ante 30
+sukhoj: posts the ante 30
+Gotenkslll: posts the ante 30
+J_O_R_I_K734: posts small blind 150
+Alexey_5301: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 5d]
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: raises 600 to 900
+andrfz1: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: raises 2190 to 3090
+...arrow.415: raises 2736 to 5826 and is all-in
+Alexey_5301: calls 1595 and is all-in
+Uncalled bet (1141) returned to ...arrow.415
+*** FLOP *** [3d Ac As]
+*** TURN *** [3d Ac As] [9d]
+*** RIVER *** [3d Ac As 9d] [3h]
+*** SHOW DOWN ***
+Alexey_5301: shows [Jc Jd] (two pair, Aces and Jacks)
+...arrow.415: shows [Tc Qd] (two pair, Aces and Threes)
+Alexey_5301 collected 9760 from pot
+*** SUMMARY ***
+Total pot 9760 | Rake 0 
+Board [3d Ac As 9d 3h]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 showed [Tc Qd] and lost with two pair, Aces and Threes
+Seat 3: andrfz1 (button) folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 (small blind) folded before Flop
+Seat 6: Alexey_5301 (big blind) showed [Jc Jd] and won (9760) with two pair, Aces and Jacks
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007938568: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VI (200/400) - 2025/02/23 20:25:43 WET [2025/02/23 15:25:43 ET]
+Table '3860779143 87' 9-max Seat #5 is the button
+Seat 1: LUSYONOK (15870 in chips) 
+Seat 2: ...arrow.415 (1141 in chips) 
+Seat 3: andrfz1 (24195 in chips) 
+Seat 4: FIGUEIREDO pro (10000 in chips) 
+Seat 5: J_O_R_I_K734 (9096 in chips) 
+Seat 6: Alexey_5301 (9760 in chips) 
+Seat 7: Kevin12345Mc (22319 in chips) 
+Seat 8: sukhoj (23330 in chips) 
+Seat 9: Gotenkslll (13860 in chips) 
+LUSYONOK: posts the ante 40
+...arrow.415: posts the ante 40
+andrfz1: posts the ante 40
+FIGUEIREDO pro: posts the ante 40
+J_O_R_I_K734: posts the ante 40
+Alexey_5301: posts the ante 40
+Kevin12345Mc: posts the ante 40
+sukhoj: posts the ante 40
+Gotenkslll: posts the ante 40
+Alexey_5301: posts small blind 200
+Kevin12345Mc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 6s]
+sukhoj: calls 400
+Gotenkslll: folds 
+LUSYONOK: folds 
+...arrow.415: raises 701 to 1101 and is all-in
+andrfz1: folds 
+FIGUEIREDO pro: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: calls 701
+*** FLOP *** [Kc 4d 2s]
+*** TURN *** [Kc 4d 2s] [8s]
+*** RIVER *** [Kc 4d 2s 8s] [9d]
+*** SHOW DOWN ***
+sukhoj: shows [8c As] (a pair of Eights)
+...arrow.415: shows [Qd Jd] (high card King)
+sukhoj collected 3162 from pot
+...arrow.415 finished the tournament
+*** SUMMARY ***
+Total pot 3162 | Rake 0 
+Board [Kc 4d 2s 8s 9d]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: ...arrow.415 showed [Qd Jd] and lost with high card King
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: FIGUEIREDO pro folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 (button) folded before Flop (didn't bet)
+Seat 6: Alexey_5301 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: sukhoj showed [8c As] and won (3162) with a pair of Eights
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007954909: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VI (200/400) - 2025/02/23 20:26:27 WET [2025/02/23 15:26:27 ET]
+Table '3860779143 87' 9-max Seat #6 is the button
+Seat 1: LUSYONOK (15830 in chips) 
+Seat 3: andrfz1 (24155 in chips) 
+Seat 4: FIGUEIREDO pro (9960 in chips) 
+Seat 5: J_O_R_I_K734 (9056 in chips) 
+Seat 6: Alexey_5301 (9520 in chips) 
+Seat 7: Kevin12345Mc (21879 in chips) 
+Seat 8: sukhoj (25351 in chips) 
+Seat 9: Gotenkslll (13820 in chips) 
+LUSYONOK: posts the ante 40
+andrfz1: posts the ante 40
+FIGUEIREDO pro: posts the ante 40
+J_O_R_I_K734: posts the ante 40
+Alexey_5301: posts the ante 40
+Kevin12345Mc: posts the ante 40
+sukhoj: posts the ante 40
+Gotenkslll: posts the ante 40
+Kevin12345Mc: posts small blind 200
+sukhoj: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Qs]
+Gotenkslll: folds 
+LUSYONOK: folds 
+andrfz1: folds 
+perros333 is disconnected 
+FIGUEIREDO pro: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: calls 400
+Kevin12345Mc has timed out
+Kevin12345Mc: folds 
+Kevin12345Mc is sitting out
+sukhoj: checks 
+*** FLOP *** [9s 3c 6s]
+Kevin12345Mc has returned
+sukhoj: checks 
+Alexey_5301: bets 800
+sukhoj: folds 
+Uncalled bet (800) returned to Alexey_5301
+Alexey_5301 collected 1320 from pot
+Alexey_5301: doesn't show hand 
+*** SUMMARY ***
+Total pot 1320 | Rake 0 
+Board [9s 3c 6s]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: FIGUEIREDO pro folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 (button) collected (1320)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: sukhoj (big blind) folded on the Flop
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255007980339: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VI (200/400) - 2025/02/23 20:27:35 WET [2025/02/23 15:27:35 ET]
+Table '3860779143 87' 9-max Seat #7 is the button
+Seat 1: LUSYONOK (15790 in chips) 
+Seat 2: perros333 (13705 in chips) 
+Seat 3: andrfz1 (24115 in chips) 
+Seat 4: FIGUEIREDO pro (9920 in chips) 
+Seat 5: J_O_R_I_K734 (9016 in chips) 
+Seat 6: Alexey_5301 (10400 in chips) 
+Seat 7: Kevin12345Mc (21639 in chips) 
+Seat 8: sukhoj (24911 in chips) 
+Seat 9: Gotenkslll (13780 in chips) 
+LUSYONOK: posts the ante 40
+perros333: posts the ante 40
+andrfz1: posts the ante 40
+FIGUEIREDO pro: posts the ante 40
+J_O_R_I_K734: posts the ante 40
+Alexey_5301: posts the ante 40
+Kevin12345Mc: posts the ante 40
+sukhoj: posts the ante 40
+Gotenkslll: posts the ante 40
+sukhoj: posts small blind 200
+Gotenkslll: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 5s]
+LUSYONOK: folds 
+perros333: folds 
+andrfz1: folds 
+FIGUEIREDO pro: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: raises 400 to 800
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: calls 400
+*** FLOP *** [Kc Kh Ad]
+Gotenkslll: checks 
+Alexey_5301: bets 400
+Gotenkslll: raises 800 to 1200
+Alexey_5301: calls 800
+*** TURN *** [Kc Kh Ad] [Jd]
+Gotenkslll: checks 
+Alexey_5301: bets 800
+Gotenkslll: calls 800
+*** RIVER *** [Kc Kh Ad Jd] [5d]
+Gotenkslll: checks 
+Alexey_5301: bets 1200
+Gotenkslll: calls 1200
+*** SHOW DOWN ***
+Alexey_5301: shows [Ts As] (two pair, Aces and Kings)
+Gotenkslll: shows [Ah 9s] (two pair, Aces and Kings)
+Gotenkslll collected 4280 from pot
+Alexey_5301 collected 4280 from pot
+*** SUMMARY ***
+Total pot 8560 | Rake 0 
+Board [Kc Kh Ad Jd 5d]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: perros333 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: FIGUEIREDO pro folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 showed [Ts As] and won (4280) with two pair, Aces and Kings
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: sukhoj (small blind) folded before Flop
+Seat 9: Gotenkslll (big blind) showed [Ah 9s] and won (4280) with two pair, Aces and Kings
+
+
+
+PokerStars Hand #255008003983: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VI (200/400) - 2025/02/23 20:28:39 WET [2025/02/23 15:28:39 ET]
+Table '3860779143 87' 9-max Seat #8 is the button
+Seat 1: LUSYONOK (15750 in chips) 
+Seat 2: perros333 (13665 in chips) 
+Seat 3: andrfz1 (24075 in chips) 
+Seat 4: FIGUEIREDO pro (9880 in chips) 
+Seat 5: J_O_R_I_K734 (8976 in chips) 
+Seat 6: Alexey_5301 (10640 in chips) 
+Seat 7: Kevin12345Mc (21599 in chips) 
+Seat 8: sukhoj (24671 in chips) 
+Seat 9: Gotenkslll (14020 in chips) 
+LUSYONOK: posts the ante 40
+perros333: posts the ante 40
+andrfz1: posts the ante 40
+FIGUEIREDO pro: posts the ante 40
+J_O_R_I_K734: posts the ante 40
+Alexey_5301: posts the ante 40
+Kevin12345Mc: posts the ante 40
+sukhoj: posts the ante 40
+Gotenkslll: posts the ante 40
+Gotenkslll: posts small blind 200
+LUSYONOK: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 5h]
+perros333: folds 
+andrfz1: folds 
+FIGUEIREDO pro: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+Kevin12345Mc: raises 520 to 920
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: calls 520
+*** FLOP *** [7s 7d 7c]
+LUSYONOK: checks 
+Kevin12345Mc: bets 792
+LUSYONOK: calls 792
+*** TURN *** [7s 7d 7c] [2s]
+LUSYONOK: checks 
+Kevin12345Mc: bets 2629
+LUSYONOK: folds 
+Uncalled bet (2629) returned to Kevin12345Mc
+Kevin12345Mc collected 3984 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 3984 | Rake 0 
+Board [7s 7d 7c 2s]
+Seat 1: LUSYONOK (big blind) folded on the Turn
+Seat 2: perros333 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: FIGUEIREDO pro folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (3984)
+Seat 8: sukhoj (button) folded before Flop (didn't bet)
+Seat 9: Gotenkslll (small blind) folded before Flop
+
+
+
+PokerStars Hand #255008025316: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VI (200/400) - 2025/02/23 20:29:36 WET [2025/02/23 15:29:36 ET]
+Table '3860779143 87' 9-max Seat #9 is the button
+Seat 1: LUSYONOK (13998 in chips) 
+Seat 2: perros333 (13625 in chips) 
+Seat 3: andrfz1 (24035 in chips) 
+Seat 4: FIGUEIREDO pro (9840 in chips) 
+Seat 5: J_O_R_I_K734 (8936 in chips) 
+Seat 6: Alexey_5301 (10600 in chips) 
+Seat 7: Kevin12345Mc (23831 in chips) 
+Seat 8: sukhoj (24631 in chips) 
+Seat 9: Gotenkslll (13780 in chips) 
+LUSYONOK: posts the ante 40
+perros333: posts the ante 40
+andrfz1: posts the ante 40
+FIGUEIREDO pro: posts the ante 40
+J_O_R_I_K734: posts the ante 40
+Alexey_5301: posts the ante 40
+Kevin12345Mc: posts the ante 40
+sukhoj: posts the ante 40
+Gotenkslll: posts the ante 40
+LUSYONOK: posts small blind 200
+perros333: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Kc]
+andrfz1: folds 
+FIGUEIREDO pro: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: raises 1200 to 1600
+Gotenkslll: folds 
+LUSYONOK: folds 
+perros333: folds 
+Uncalled bet (1200) returned to sukhoj
+sukhoj collected 1360 from pot
+sukhoj: doesn't show hand 
+*** SUMMARY ***
+Total pot 1360 | Rake 0 
+Seat 1: LUSYONOK (small blind) folded before Flop
+Seat 2: perros333 (big blind) folded before Flop
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: FIGUEIREDO pro folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj collected (1360)
+Seat 9: Gotenkslll (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255008041832: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VII (250/500) - 2025/02/23 20:30:21 WET [2025/02/23 15:30:21 ET]
+Table '3860779143 87' 9-max Seat #1 is the button
+Seat 1: LUSYONOK (13758 in chips) 
+Seat 2: perros333 (13185 in chips) 
+Seat 3: andrfz1 (23995 in chips) 
+Seat 4: FIGUEIREDO pro (9800 in chips) 
+Seat 5: J_O_R_I_K734 (8896 in chips) 
+Seat 6: Alexey_5301 (10560 in chips) 
+Seat 7: Kevin12345Mc (23791 in chips) 
+Seat 8: sukhoj (25551 in chips) 
+Seat 9: Gotenkslll (13740 in chips) 
+LUSYONOK: posts the ante 50
+perros333: posts the ante 50
+andrfz1: posts the ante 50
+FIGUEIREDO pro: posts the ante 50
+J_O_R_I_K734: posts the ante 50
+Alexey_5301: posts the ante 50
+Kevin12345Mc: posts the ante 50
+sukhoj: posts the ante 50
+Gotenkslll: posts the ante 50
+perros333: posts small blind 250
+andrfz1: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah Ac]
+FIGUEIREDO pro: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+Kevin12345Mc: raises 650 to 1150
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: folds 
+perros333: folds 
+andrfz1: folds 
+Uncalled bet (650) returned to Kevin12345Mc
+Kevin12345Mc collected 1700 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1700 | Rake 0 
+Seat 1: LUSYONOK (button) folded before Flop (didn't bet)
+Seat 2: perros333 (small blind) folded before Flop
+Seat 3: andrfz1 (big blind) folded before Flop
+Seat 4: FIGUEIREDO pro folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (1700)
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255008050943: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VII (250/500) - 2025/02/23 20:30:46 WET [2025/02/23 15:30:46 ET]
+Table '3860779143 87' 9-max Seat #2 is the button
+Seat 1: LUSYONOK (13708 in chips) 
+Seat 2: perros333 (12885 in chips) 
+Seat 3: andrfz1 (23445 in chips) 
+Seat 4: FIGUEIREDO pro (9750 in chips) 
+Seat 5: J_O_R_I_K734 (8846 in chips) 
+Seat 6: Alexey_5301 (10510 in chips) 
+Seat 7: Kevin12345Mc (24941 in chips) 
+Seat 8: sukhoj (25501 in chips) 
+Seat 9: Gotenkslll (13690 in chips) 
+LUSYONOK: posts the ante 50
+perros333: posts the ante 50
+andrfz1: posts the ante 50
+FIGUEIREDO pro: posts the ante 50
+J_O_R_I_K734: posts the ante 50
+Alexey_5301: posts the ante 50
+Kevin12345Mc: posts the ante 50
+sukhoj: posts the ante 50
+Gotenkslll: posts the ante 50
+andrfz1: posts small blind 250
+FIGUEIREDO pro: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Kc]
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+Kevin12345Mc: raises 650 to 1150
+sukhoj: folds 
+Gotenkslll: raises 2150 to 3300
+LUSYONOK: folds 
+perros333: folds 
+andrfz1: folds 
+FIGUEIREDO pro: folds 
+Kevin12345Mc: folds 
+Uncalled bet (2150) returned to Gotenkslll
+Gotenkslll collected 3500 from pot
+Gotenkslll: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: perros333 (button) folded before Flop (didn't bet)
+Seat 3: andrfz1 (small blind) folded before Flop
+Seat 4: FIGUEIREDO pro (big blind) folded before Flop
+Seat 5: J_O_R_I_K734 folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll collected (3500)
+
+
+
+PokerStars Hand #255008062177: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VII (250/500) - 2025/02/23 20:31:15 WET [2025/02/23 15:31:15 ET]
+Table '3860779143 87' 9-max Seat #3 is the button
+Seat 1: LUSYONOK (13658 in chips) 
+Seat 2: perros333 (12835 in chips) 
+Seat 3: andrfz1 (23145 in chips) 
+Seat 4: FIGUEIREDO pro (9200 in chips) 
+Seat 5: J_O_R_I_K734 (8796 in chips) 
+Seat 6: Alexey_5301 (10460 in chips) 
+Seat 7: Kevin12345Mc (23741 in chips) 
+Seat 8: sukhoj (25451 in chips) 
+Seat 9: Gotenkslll (15990 in chips) 
+LUSYONOK: posts the ante 50
+perros333: posts the ante 50
+andrfz1: posts the ante 50
+FIGUEIREDO pro: posts the ante 50
+J_O_R_I_K734: posts the ante 50
+Alexey_5301: posts the ante 50
+Kevin12345Mc: posts the ante 50
+sukhoj: posts the ante 50
+Gotenkslll: posts the ante 50
+FIGUEIREDO pro: posts small blind 250
+J_O_R_I_K734: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 2s]
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: calls 500
+Gotenkslll: folds 
+LUSYONOK: calls 500
+perros333: folds 
+andrfz1: folds 
+FIGUEIREDO pro: folds 
+J_O_R_I_K734: checks 
+*** FLOP *** [3d Jd 8h]
+J_O_R_I_K734: checks 
+sukhoj: bets 500
+LUSYONOK: calls 500
+J_O_R_I_K734: calls 500
+*** TURN *** [3d Jd 8h] [6d]
+J_O_R_I_K734: checks 
+sukhoj: bets 500
+LUSYONOK: raises 2350 to 2850
+J_O_R_I_K734: folds 
+sukhoj: raises 2350 to 5200
+LUSYONOK: calls 2350
+*** RIVER *** [3d Jd 8h 6d] [3c]
+sukhoj: bets 14100
+LUSYONOK: folds 
+Uncalled bet (14100) returned to sukhoj
+sukhoj collected 14100 from pot
+sukhoj: doesn't show hand 
+*** SUMMARY ***
+Total pot 14100 | Rake 0 
+Board [3d Jd 8h 6d 3c]
+Seat 1: LUSYONOK folded on the River
+Seat 2: perros333 folded before Flop (didn't bet)
+Seat 3: andrfz1 (button) folded before Flop (didn't bet)
+Seat 4: FIGUEIREDO pro (small blind) folded before Flop
+Seat 5: J_O_R_I_K734 (big blind) folded on the Turn
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj collected (14100)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255008090640: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VII (250/500) - 2025/02/23 20:32:31 WET [2025/02/23 15:32:31 ET]
+Table '3860779143 87' 9-max Seat #4 is the button
+Seat 1: LUSYONOK (7408 in chips) 
+Seat 2: perros333 (12785 in chips) 
+Seat 3: andrfz1 (23095 in chips) 
+Seat 4: FIGUEIREDO pro (8900 in chips) 
+Seat 5: J_O_R_I_K734 (7746 in chips) 
+Seat 6: Alexey_5301 (10410 in chips) 
+Seat 7: Kevin12345Mc (23691 in chips) 
+Seat 8: sukhoj (33301 in chips) 
+Seat 9: Gotenkslll (15940 in chips) 
+LUSYONOK: posts the ante 50
+perros333: posts the ante 50
+andrfz1: posts the ante 50
+FIGUEIREDO pro: posts the ante 50
+J_O_R_I_K734: posts the ante 50
+Alexey_5301: posts the ante 50
+Kevin12345Mc: posts the ante 50
+sukhoj: posts the ante 50
+Gotenkslll: posts the ante 50
+J_O_R_I_K734: posts small blind 250
+Alexey_5301: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Ad]
+Kevin12345Mc: folds 
+sukhoj: raises 500 to 1000
+Gotenkslll: folds 
+LUSYONOK: raises 6358 to 7358 and is all-in
+perros333: folds 
+andrfz1: folds 
+FIGUEIREDO pro: folds 
+J_O_R_I_K734: folds 
+Alexey_5301: folds 
+sukhoj: calls 6358
+*** FLOP *** [Jd 5c 7d]
+*** TURN *** [Jd 5c 7d] [Qs]
+*** RIVER *** [Jd 5c 7d Qs] [5d]
+*** SHOW DOWN ***
+sukhoj: shows [Ah 8s] (a pair of Fives)
+LUSYONOK: shows [As Kh] (a pair of Fives - Ace+King kicker)
+LUSYONOK collected 15916 from pot
+*** SUMMARY ***
+Total pot 15916 | Rake 0 
+Board [Jd 5c 7d Qs 5d]
+Seat 1: LUSYONOK showed [As Kh] and won (15916) with a pair of Fives
+Seat 2: perros333 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: FIGUEIREDO pro (button) folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 (small blind) folded before Flop
+Seat 6: Alexey_5301 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj showed [Ah 8s] and lost with a pair of Fives
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255008105291: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VII (250/500) - 2025/02/23 20:33:10 WET [2025/02/23 15:33:10 ET]
+Table '3860779143 87' 9-max Seat #5 is the button
+Seat 1: LUSYONOK (15916 in chips) 
+Seat 2: perros333 (12735 in chips) 
+Seat 3: andrfz1 (23045 in chips) 
+Seat 4: FIGUEIREDO pro (8850 in chips) 
+Seat 5: J_O_R_I_K734 (7446 in chips) 
+Seat 6: Alexey_5301 (9860 in chips) 
+Seat 7: Kevin12345Mc (23641 in chips) 
+Seat 8: sukhoj (25893 in chips) 
+Seat 9: Gotenkslll (15890 in chips) 
+LUSYONOK: posts the ante 50
+perros333: posts the ante 50
+andrfz1: posts the ante 50
+FIGUEIREDO pro: posts the ante 50
+J_O_R_I_K734: posts the ante 50
+Alexey_5301: posts the ante 50
+Kevin12345Mc: posts the ante 50
+sukhoj: posts the ante 50
+Gotenkslll: posts the ante 50
+Alexey_5301: posts small blind 250
+Kevin12345Mc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 9s]
+sukhoj: calls 500
+Gotenkslll: folds 
+LUSYONOK: folds 
+perros333: folds 
+andrfz1: raises 2200 to 2700
+FIGUEIREDO pro: folds 
+J_O_R_I_K734: raises 4696 to 7396 and is all-in
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+andrfz1: calls 4696
+*** FLOP *** [2s 4c Js]
+*** TURN *** [2s 4c Js] [Jd]
+*** RIVER *** [2s 4c Js Jd] [4d]
+*** SHOW DOWN ***
+andrfz1: shows [Ac Ad] (two pair, Aces and Jacks)
+J_O_R_I_K734: shows [Td Th] (two pair, Jacks and Tens)
+andrfz1 collected 16492 from pot
+J_O_R_I_K734 finished the tournament in 1138th place
+*** SUMMARY ***
+Total pot 16492 | Rake 0 
+Board [2s 4c Js Jd 4d]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: perros333 folded before Flop (didn't bet)
+Seat 3: andrfz1 showed [Ac Ad] and won (16492) with two pair, Aces and Jacks
+Seat 4: FIGUEIREDO pro folded before Flop (didn't bet)
+Seat 5: J_O_R_I_K734 (button) showed [Td Th] and lost with two pair, Jacks and Tens
+Seat 6: Alexey_5301 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: sukhoj folded before Flop
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255008126348: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VII (250/500) - 2025/02/23 20:34:07 WET [2025/02/23 15:34:07 ET]
+Table '3860779143 87' 9-max Seat #6 is the button
+Seat 1: LUSYONOK (15866 in chips) 
+Seat 2: perros333 (12685 in chips) 
+Seat 3: andrfz1 (32091 in chips) 
+Seat 4: FIGUEIREDO pro (8800 in chips) 
+Seat 6: Alexey_5301 (9560 in chips) 
+Seat 7: Kevin12345Mc (23091 in chips) 
+Seat 8: sukhoj (25343 in chips) 
+Seat 9: Gotenkslll (15840 in chips) 
+LUSYONOK: posts the ante 50
+perros333: posts the ante 50
+andrfz1: posts the ante 50
+FIGUEIREDO pro: posts the ante 50
+Alexey_5301: posts the ante 50
+Kevin12345Mc: posts the ante 50
+sukhoj: posts the ante 50
+Gotenkslll: posts the ante 50
+Kevin12345Mc: posts small blind 250
+sukhoj: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 5d]
+lerijr is disconnected 
+Gotenkslll: folds 
+LUSYONOK: folds 
+perros333: folds 
+andrfz1: folds 
+FIGUEIREDO pro: folds 
+Alexey_5301: folds 
+Kevin12345Mc: calls 250
+sukhoj: checks 
+*** FLOP *** [As Qs Kh]
+Kevin12345Mc: checks 
+sukhoj: bets 1000
+Kevin12345Mc: folds 
+Uncalled bet (1000) returned to sukhoj
+sukhoj collected 1400 from pot
+sukhoj: doesn't show hand 
+*** SUMMARY ***
+Total pot 1400 | Rake 0 
+Board [As Qs Kh]
+Seat 1: LUSYONOK folded before Flop (didn't bet)
+Seat 2: perros333 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: FIGUEIREDO pro folded before Flop (didn't bet)
+Seat 6: Alexey_5301 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded on the Flop
+Seat 8: sukhoj (big blind) collected (1400)
+Seat 9: Gotenkslll folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255008139448: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VII (250/500) - 2025/02/23 20:34:41 WET [2025/02/23 15:34:41 ET]
+Table '3860779143 87' 9-max Seat #7 is the button
+Seat 1: LUSYONOK (15816 in chips) 
+Seat 2: perros333 (12635 in chips) 
+Seat 3: andrfz1 (32041 in chips) 
+Seat 4: FIGUEIREDO pro (8750 in chips) 
+Seat 5: lerijr (24735 in chips) 
+Seat 6: Alexey_5301 (9510 in chips) 
+Seat 7: Kevin12345Mc (22541 in chips) 
+Seat 8: sukhoj (26193 in chips) 
+Seat 9: Gotenkslll (15790 in chips) 
+LUSYONOK: posts the ante 50
+perros333: posts the ante 50
+andrfz1: posts the ante 50
+FIGUEIREDO pro: posts the ante 50
+lerijr: posts the ante 50
+Alexey_5301: posts the ante 50
+Kevin12345Mc: posts the ante 50
+sukhoj: posts the ante 50
+Gotenkslll: posts the ante 50
+sukhoj: posts small blind 250
+Gotenkslll: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Ts]
+LUSYONOK: raises 500 to 1000
+perros333: folds 
+andrfz1: folds 
+FIGUEIREDO pro: calls 1000
+lerijr: folds 
+Alexey_5301: folds 
+Kevin12345Mc: calls 1000
+sukhoj: folds 
+Gotenkslll: folds 
+*** FLOP *** [Jc 4h 6d]
+LUSYONOK: bets 2100
+FIGUEIREDO pro: calls 2100
+Kevin12345Mc: calls 2100
+*** TURN *** [Jc 4h 6d] [8d]
+LUSYONOK: bets 5250
+FIGUEIREDO pro: calls 5250
+Kevin12345Mc: raises 12250 to 17500
+LUSYONOK: calls 7416 and is all-in
+FIGUEIREDO pro: calls 350 and is all-in
+Uncalled bet (4834) returned to Kevin12345Mc
+*** RIVER *** [Jc 4h 6d 8d] [3h]
+*** SHOW DOWN ***
+LUSYONOK: shows [Jd Qs] (a pair of Jacks)
+Kevin12345Mc: shows [Js Ts] (a pair of Jacks - lower kicker)
+LUSYONOK collected 14132 from side pot
+FIGUEIREDO pro: shows [8h 8c] (three of a kind, Eights)
+FIGUEIREDO pro collected 27300 from main pot
+*** SUMMARY ***
+Total pot 41432 Main pot 27300. Side pot 14132. | Rake 0 
+Board [Jc 4h 6d 8d 3h]
+Seat 1: LUSYONOK showed [Jd Qs] and won (14132) with a pair of Jacks
+Seat 2: perros333 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: FIGUEIREDO pro showed [8h 8c] and won (27300) with three of a kind, Eights
+Seat 5: lerijr folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) showed [Js Ts] and lost with a pair of Jacks
+Seat 8: sukhoj (small blind) folded before Flop
+Seat 9: Gotenkslll (big blind) folded before Flop
+
+
+
+PokerStars Hand #255008168655: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VIII (300/600) - 2025/02/23 20:35:59 WET [2025/02/23 15:35:59 ET]
+Table '3860779143 87' 9-max Seat #8 is the button
+Seat 1: LUSYONOK (14132 in chips) 
+Seat 2: perros333 (12585 in chips) 
+Seat 3: andrfz1 (31991 in chips) 
+Seat 4: FIGUEIREDO pro (27300 in chips) 
+Seat 5: lerijr (24685 in chips) 
+Seat 6: Alexey_5301 (9460 in chips) 
+Seat 7: Kevin12345Mc (6725 in chips) 
+Seat 8: sukhoj (25893 in chips) 
+Seat 9: Gotenkslll (15240 in chips) 
+LUSYONOK: posts the ante 60
+perros333: posts the ante 60
+andrfz1: posts the ante 60
+FIGUEIREDO pro: posts the ante 60
+lerijr: posts the ante 60
+Alexey_5301: posts the ante 60
+Kevin12345Mc: posts the ante 60
+sukhoj: posts the ante 60
+Gotenkslll: posts the ante 60
+Gotenkslll: posts small blind 300
+LUSYONOK: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 2h]
+perros333: folds 
+andrfz1: folds 
+FIGUEIREDO pro: folds 
+lerijr: folds 
+Alexey_5301: folds 
+Kevin12345Mc: folds 
+sukhoj: folds 
+Gotenkslll: calls 300
+LUSYONOK: checks 
+*** FLOP *** [Ac Ah Ts]
+Gotenkslll: bets 1200
+LUSYONOK: folds 
+Uncalled bet (1200) returned to Gotenkslll
+Gotenkslll collected 1740 from pot
+Gotenkslll: doesn't show hand 
+*** SUMMARY ***
+Total pot 1740 | Rake 0 
+Board [Ac Ah Ts]
+Seat 1: LUSYONOK (big blind) folded on the Flop
+Seat 2: perros333 folded before Flop (didn't bet)
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: FIGUEIREDO pro folded before Flop (didn't bet)
+Seat 5: lerijr folded before Flop (didn't bet)
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: sukhoj (button) folded before Flop (didn't bet)
+Seat 9: Gotenkslll (small blind) collected (1740)
+
+
+
+PokerStars Hand #255008184443: Tournament #3860779143, Freeroll  Hold'em No Limit - Level VIII (300/600) - 2025/02/23 20:36:41 WET [2025/02/23 15:36:41 ET]
+Table '3860779143 87' 9-max Seat #9 is the button
+Seat 1: LUSYONOK (13472 in chips) 
+Seat 2: perros333 (12525 in chips) 
+Seat 3: andrfz1 (31931 in chips) 
+Seat 4: FIGUEIREDO pro (27240 in chips) 
+Seat 5: lerijr (24625 in chips) 
+Seat 6: Alexey_5301 (9400 in chips) 
+Seat 7: Kevin12345Mc (6665 in chips) 
+Seat 8: sukhoj (25833 in chips) 
+Seat 9: Gotenkslll (16320 in chips) 
+LUSYONOK: posts the ante 60
+perros333: posts the ante 60
+andrfz1: posts the ante 60
+FIGUEIREDO pro: posts the ante 60
+lerijr: posts the ante 60
+Alexey_5301: posts the ante 60
+Kevin12345Mc: posts the ante 60
+sukhoj: posts the ante 60
+Gotenkslll: posts the ante 60
+LUSYONOK: posts small blind 300
+perros333: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd Qc]
+andrfz1: folds 
+FIGUEIREDO pro: folds 
+lerijr: raises 600 to 1200
+Alexey_5301: folds 
+Kevin12345Mc: raises 5405 to 6605 and is all-in
+sukhoj: folds 
+Gotenkslll: folds 
+LUSYONOK: folds 
+perros333: folds 
+lerijr: calls 5405
+*** FLOP *** [6h Kh Kc]
+*** TURN *** [6h Kh Kc] [Ad]
+*** RIVER *** [6h Kh Kc Ad] [Td]
+*** SHOW DOWN ***
+lerijr: shows [Ks Th] (a full house, Kings full of Tens)
+Kevin12345Mc: shows [Kd Qc] (three of a kind, Kings)
+lerijr collected 14650 from pot
+Kevin12345Mc finished the tournament in 1066th place
+*** SUMMARY ***
+Total pot 14650 | Rake 0 
+Board [6h Kh Kc Ad Td]
+Seat 1: LUSYONOK (small blind) folded before Flop
+Seat 2: perros333 (big blind) folded before Flop
+Seat 3: andrfz1 folded before Flop (didn't bet)
+Seat 4: FIGUEIREDO pro folded before Flop (didn't bet)
+Seat 5: lerijr showed [Ks Th] and won (14650) with a full house, Kings full of Tens
+Seat 6: Alexey_5301 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc showed [Kd Qc] and lost with three of a kind, Kings
+Seat 8: sukhoj folded before Flop (didn't bet)
+Seat 9: Gotenkslll (button) folded before Flop (didn't bet)
+
+
+

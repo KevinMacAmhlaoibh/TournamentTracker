@@ -1,0 +1,1178 @@
+﻿PokerStars Hand #255003623694: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/23 16:35:53 WET [2025/02/23 11:35:53 ET]
+Table '3860731903 53' 8-max Seat #6 is the button
+Seat 1: Conny 1991 (25000 in chips) 
+Seat 2: felizol 7 (14023 in chips) 
+Seat 3: Reimon100 (35116 in chips) 
+Seat 4: Reyvel (77519 in chips) 
+Seat 5: Kevin12345Mc (25000 in chips) 
+Seat 6: Demiciaano (75377 in chips) 
+Seat 7: KristiansABC (39541 in chips) 
+Seat 8: Filip Daandi (30577 in chips) 
+Conny 1991: posts the ante 125
+felizol 7: posts the ante 125
+Reimon100: posts the ante 125
+Reyvel: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Demiciaano: posts the ante 125
+KristiansABC: posts the ante 125
+Filip Daandi: posts the ante 125
+KristiansABC: posts small blind 500
+Filip Daandi: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Td]
+Conny 1991: folds 
+felizol 7: raises 12898 to 13898 and is all-in
+Reimon100: folds 
+Reyvel: folds 
+Kevin12345Mc: folds 
+Demiciaano: folds 
+KristiansABC: folds 
+Filip Daandi: folds 
+Uncalled bet (12898) returned to felizol 7
+felizol 7 collected 3500 from pot
+felizol 7: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 collected (3500)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Demiciaano (button) folded before Flop (didn't bet)
+Seat 7: KristiansABC (small blind) folded before Flop
+Seat 8: Filip Daandi (big blind) folded before Flop
+
+
+
+PokerStars Hand #255003631489: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/23 16:36:22 WET [2025/02/23 11:36:22 ET]
+Table '3860731903 53' 8-max Seat #7 is the button
+Seat 1: Conny 1991 (24875 in chips) 
+Seat 2: felizol 7 (16398 in chips) 
+Seat 3: Reimon100 (34991 in chips) 
+Seat 4: Reyvel (77394 in chips) 
+Seat 5: Kevin12345Mc (24875 in chips) 
+Seat 6: Demiciaano (75252 in chips) 
+Seat 7: KristiansABC (38916 in chips) 
+Seat 8: Filip Daandi (29452 in chips) 
+Conny 1991: posts the ante 125
+felizol 7: posts the ante 125
+Reimon100: posts the ante 125
+Reyvel: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Demiciaano: posts the ante 125
+KristiansABC: posts the ante 125
+Filip Daandi: posts the ante 125
+Filip Daandi: posts small blind 500
+Conny 1991: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 8h]
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: folds 
+Kevin12345Mc: raises 1100 to 2100
+Demiciaano: folds 
+KristiansABC: raises 3799 to 5899
+Filip Daandi: folds 
+Conny 1991: folds 
+Kevin12345Mc: folds 
+Uncalled bet (3799) returned to KristiansABC
+KristiansABC collected 6700 from pot
+KristiansABC: doesn't show hand 
+*** SUMMARY ***
+Total pot 6700 | Rake 0 
+Seat 1: Conny 1991 (big blind) folded before Flop
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop
+Seat 6: Demiciaano folded before Flop (didn't bet)
+Seat 7: KristiansABC (button) collected (6700)
+Seat 8: Filip Daandi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255003642630: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/23 16:37:02 WET [2025/02/23 11:37:02 ET]
+Table '3860731903 53' 8-max Seat #8 is the button
+Seat 1: Conny 1991 (23750 in chips) 
+Seat 2: felizol 7 (16273 in chips) 
+Seat 3: Reimon100 (34866 in chips) 
+Seat 4: Reyvel (77269 in chips) 
+Seat 5: Kevin12345Mc (22650 in chips) 
+Seat 6: Demiciaano (75127 in chips) 
+Seat 7: KristiansABC (43391 in chips) 
+Seat 8: Filip Daandi (28827 in chips) 
+Conny 1991: posts the ante 125
+felizol 7: posts the ante 125
+Reimon100: posts the ante 125
+Reyvel: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Demiciaano: posts the ante 125
+KristiansABC: posts the ante 125
+Filip Daandi: posts the ante 125
+Conny 1991: posts small blind 500
+felizol 7: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h Kh]
+Reimon100: folds 
+Reyvel: folds 
+Kevin12345Mc: folds 
+Demiciaano: raises 1000 to 2000
+KristiansABC: folds 
+Filip Daandi: folds 
+Conny 1991: folds 
+felizol 7: calls 1000
+*** FLOP *** [4d 3c 5h]
+felizol 7: checks 
+Demiciaano: checks 
+*** TURN *** [4d 3c 5h] [5d]
+felizol 7: bets 1705
+Demiciaano: raises 2295 to 4000
+felizol 7: calls 2295
+*** RIVER *** [4d 3c 5h 5d] [Qc]
+felizol 7: checks 
+Demiciaano: checks 
+*** SHOW DOWN ***
+felizol 7: shows [Jd Kd] (a pair of Fives)
+Demiciaano: shows [4c Ad] (two pair, Fives and Fours)
+Demiciaano collected 13500 from pot
+*** SUMMARY ***
+Total pot 13500 | Rake 0 
+Board [4d 3c 5h 5d Qc]
+Seat 1: Conny 1991 (small blind) folded before Flop
+Seat 2: felizol 7 (big blind) showed [Jd Kd] and lost with a pair of Fives
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Demiciaano showed [4c Ad] and won (13500) with two pair, Fives and Fours
+Seat 7: KristiansABC folded before Flop (didn't bet)
+Seat 8: Filip Daandi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003655144: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/23 16:37:48 WET [2025/02/23 11:37:48 ET]
+Table '3860731903 53' 8-max Seat #1 is the button
+Seat 1: Conny 1991 (23125 in chips) 
+Seat 2: felizol 7 (10148 in chips) 
+Seat 3: Reimon100 (34741 in chips) 
+Seat 4: Reyvel (77144 in chips) 
+Seat 5: Kevin12345Mc (22525 in chips) 
+Seat 6: Demiciaano (82502 in chips) 
+Seat 7: KristiansABC (43266 in chips) 
+Seat 8: Filip Daandi (28702 in chips) 
+Conny 1991: posts the ante 125
+felizol 7: posts the ante 125
+Reimon100: posts the ante 125
+Reyvel: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Demiciaano: posts the ante 125
+KristiansABC: posts the ante 125
+Filip Daandi: posts the ante 125
+felizol 7: posts small blind 500
+Reimon100: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 6h]
+Reyvel: folds 
+Kevin12345Mc: raises 1100 to 2100
+Demiciaano: raises 3650 to 5750
+KristiansABC: folds 
+Filip Daandi: folds 
+Conny 1991: raises 17250 to 23000 and is all-in
+felizol 7: folds 
+Reimon100: folds 
+Kevin12345Mc: folds 
+Demiciaano: calls 17250
+*** FLOP *** [5c 8d Kh]
+*** TURN *** [5c 8d Kh] [8s]
+*** RIVER *** [5c 8d Kh 8s] [8h]
+*** SHOW DOWN ***
+Demiciaano: shows [Jh Jd] (a full house, Eights full of Jacks)
+Conny 1991: shows [Ks As] (a full house, Eights full of Kings)
+Conny 1991 collected 50600 from pot
+*** SUMMARY ***
+Total pot 50600 | Rake 0 
+Board [5c 8d Kh 8s 8h]
+Seat 1: Conny 1991 (button) showed [Ks As] and won (50600) with a full house, Eights full of Kings
+Seat 2: felizol 7 (small blind) folded before Flop
+Seat 3: Reimon100 (big blind) folded before Flop
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop
+Seat 6: Demiciaano showed [Jh Jd] and lost with a full house, Eights full of Jacks
+Seat 7: KristiansABC folded before Flop (didn't bet)
+Seat 8: Filip Daandi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003674506: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/23 16:39:01 WET [2025/02/23 11:39:01 ET]
+Table '3860731903 53' 8-max Seat #2 is the button
+Seat 1: Conny 1991 (50600 in chips) 
+Seat 2: felizol 7 (9523 in chips) 
+Seat 3: Reimon100 (33616 in chips) 
+Seat 4: Reyvel (77019 in chips) 
+Seat 5: Kevin12345Mc (20300 in chips) 
+Seat 6: Demiciaano (59377 in chips) 
+Seat 7: KristiansABC (43141 in chips) 
+Seat 8: Filip Daandi (28577 in chips) 
+Conny 1991: posts the ante 125
+felizol 7: posts the ante 125
+Reimon100: posts the ante 125
+Reyvel: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Demiciaano: posts the ante 125
+KristiansABC: posts the ante 125
+Filip Daandi: posts the ante 125
+Reimon100: posts small blind 500
+Reyvel: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s Jd]
+Kevin12345Mc: folds 
+Demiciaano: raises 1000 to 2000
+KristiansABC: folds 
+Filip Daandi: folds 
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: calls 1000
+*** FLOP *** [Qh As 3c]
+Reyvel: checks 
+Demiciaano: bets 1375
+Reyvel: folds 
+Uncalled bet (1375) returned to Demiciaano
+Demiciaano collected 5500 from pot
+Demiciaano: doesn't show hand 
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Board [Qh As 3c]
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 (button) folded before Flop (didn't bet)
+Seat 3: Reimon100 (small blind) folded before Flop
+Seat 4: Reyvel (big blind) folded on the Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Demiciaano collected (5500)
+Seat 7: KristiansABC folded before Flop (didn't bet)
+Seat 8: Filip Daandi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003685125: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/23 16:39:40 WET [2025/02/23 11:39:40 ET]
+Table '3860731903 53' 8-max Seat #3 is the button
+Seat 1: Conny 1991 (50475 in chips) 
+Seat 2: felizol 7 (9398 in chips) 
+Seat 3: Reimon100 (32991 in chips) 
+Seat 4: Reyvel (74894 in chips) 
+Seat 5: Kevin12345Mc (20175 in chips) 
+Seat 6: Demiciaano (62752 in chips) 
+Seat 7: KristiansABC (43016 in chips) 
+Seat 8: Filip Daandi (28452 in chips) 
+Conny 1991: posts the ante 125
+felizol 7: posts the ante 125
+Reimon100: posts the ante 125
+Reyvel: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Demiciaano: posts the ante 125
+KristiansABC: posts the ante 125
+Filip Daandi: posts the ante 125
+Reyvel: posts small blind 500
+Kevin12345Mc: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 4d]
+Demiciaano: folds 
+KristiansABC: folds 
+Filip Daandi: folds 
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: raises 1000 to 2000
+Reyvel: folds 
+Kevin12345Mc: calls 1000
+*** FLOP *** [9c 7d Qc]
+Kevin12345Mc: checks 
+Reimon100: bets 2035
+Kevin12345Mc: folds 
+Uncalled bet (2035) returned to Reimon100
+Reimon100 collected 5500 from pot
+Reimon100: doesn't show hand 
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Board [9c 7d Qc]
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 (button) collected (5500)
+Seat 4: Reyvel (small blind) folded before Flop
+Seat 5: Kevin12345Mc (big blind) folded on the Flop
+Seat 6: Demiciaano folded before Flop (didn't bet)
+Seat 7: KristiansABC folded before Flop (didn't bet)
+Seat 8: Filip Daandi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003694545: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/23 16:40:15 WET [2025/02/23 11:40:15 ET]
+Table '3860731903 53' 8-max Seat #4 is the button
+Seat 1: Conny 1991 (50350 in chips) 
+Seat 2: felizol 7 (9273 in chips) 
+Seat 3: Reimon100 (36366 in chips) 
+Seat 4: Reyvel (74269 in chips) 
+Seat 5: Kevin12345Mc (18050 in chips) 
+Seat 6: Demiciaano (62627 in chips) 
+Seat 7: KristiansABC (42891 in chips) 
+Seat 8: Filip Daandi (28327 in chips) 
+Conny 1991: posts the ante 125
+felizol 7: posts the ante 125
+Reimon100: posts the ante 125
+Reyvel: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Demiciaano: posts the ante 125
+KristiansABC: posts the ante 125
+Filip Daandi: posts the ante 125
+Kevin12345Mc: posts small blind 500
+Demiciaano: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Qd]
+KristiansABC: folds 
+Filip Daandi: folds 
+Conny 1991: folds 
+felizol 7: raises 8148 to 9148 and is all-in
+Reimon100: folds 
+Reyvel: folds 
+Kevin12345Mc: folds 
+Demiciaano: folds 
+Uncalled bet (8148) returned to felizol 7
+felizol 7 collected 3500 from pot
+felizol 7: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 collected (3500)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) folded before Flop
+Seat 6: Demiciaano (big blind) folded before Flop
+Seat 7: KristiansABC folded before Flop (didn't bet)
+Seat 8: Filip Daandi folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003703642: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/23 16:40:49 WET [2025/02/23 11:40:49 ET]
+Table '3860731903 53' 8-max Seat #5 is the button
+Seat 1: Conny 1991 (50225 in chips) 
+Seat 2: felizol 7 (11648 in chips) 
+Seat 3: Reimon100 (36241 in chips) 
+Seat 4: Reyvel (74144 in chips) 
+Seat 5: Kevin12345Mc (17425 in chips) 
+Seat 6: Demiciaano (61502 in chips) 
+Seat 7: KristiansABC (42766 in chips) 
+Seat 8: Filip Daandi (28202 in chips) 
+Conny 1991: posts the ante 125
+felizol 7: posts the ante 125
+Reimon100: posts the ante 125
+Reyvel: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Demiciaano: posts the ante 125
+KristiansABC: posts the ante 125
+Filip Daandi: posts the ante 125
+Demiciaano: posts small blind 500
+KristiansABC: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Qh]
+Filip Daandi: raises 1000 to 2000
+Conny 1991 is disconnected 
+Conny 1991 has timed out while disconnected
+Conny 1991: folds 
+Conny 1991 is sitting out
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: calls 2000
+Kevin12345Mc: folds 
+Demiciaano: folds 
+KristiansABC: folds 
+*** FLOP *** [Tc 3d Qc]
+Filip Daandi: bets 2000
+Reyvel: calls 2000
+*** TURN *** [Tc 3d Qc] [8s]
+Filip Daandi: bets 3000
+Reyvel: calls 3000
+*** RIVER *** [Tc 3d Qc 8s] [3c]
+Filip Daandi: checks 
+Reyvel: checks 
+Conny 1991 has returned
+*** SHOW DOWN ***
+Filip Daandi: shows [Kc Jd] (a pair of Threes)
+Reyvel: shows [Td Ad] (two pair, Tens and Threes)
+Reyvel collected 16500 from pot
+*** SUMMARY ***
+Total pot 16500 | Rake 0 
+Board [Tc 3d Qc 8s 3c]
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel showed [Td Ad] and won (16500) with two pair, Tens and Threes
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: Demiciaano (small blind) folded before Flop
+Seat 7: KristiansABC (big blind) folded before Flop
+Seat 8: Filip Daandi showed [Kc Jd] and lost with a pair of Threes
+
+
+
+PokerStars Hand #255003719290: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:41:46 WET [2025/02/23 11:41:46 ET]
+Table '3860731903 53' 8-max Seat #6 is the button
+Seat 1: Conny 1991 (50100 in chips) 
+Seat 2: felizol 7 (11523 in chips) 
+Seat 3: Reimon100 (36116 in chips) 
+Seat 4: Reyvel (83519 in chips) 
+Seat 5: Kevin12345Mc (17300 in chips) 
+Seat 6: Demiciaano (60877 in chips) 
+Seat 7: KristiansABC (41641 in chips) 
+Seat 8: Filip Daandi (21077 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Filip Daandi: posts the ante 150
+KristiansABC: posts small blind 600
+Filip Daandi: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 4h]
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: folds 
+Kevin12345Mc: folds 
+Demiciaano: folds 
+KristiansABC: folds 
+Uncalled bet (600) returned to Filip Daandi
+Filip Daandi collected 2400 from pot
+Filip Daandi: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Demiciaano (button) folded before Flop (didn't bet)
+Seat 7: KristiansABC (small blind) folded before Flop
+Seat 8: Filip Daandi (big blind) collected (2400)
+
+
+
+PokerStars Hand #255003725525: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:42:09 WET [2025/02/23 11:42:09 ET]
+Table '3860731903 53' 8-max Seat #7 is the button
+Seat 1: Conny 1991 (49950 in chips) 
+Seat 2: felizol 7 (11373 in chips) 
+Seat 3: Reimon100 (35966 in chips) 
+Seat 4: Reyvel (83369 in chips) 
+Seat 5: Kevin12345Mc (17150 in chips) 
+Seat 6: Demiciaano (60727 in chips) 
+Seat 7: KristiansABC (40891 in chips) 
+Seat 8: Filip Daandi (22727 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Filip Daandi: posts the ante 150
+Filip Daandi: posts small blind 600
+Conny 1991: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 6h]
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: raises 1200 to 2400
+Kevin12345Mc: raises 14600 to 17000 and is all-in
+Demiciaano: folds 
+KristiansABC: folds 
+Filip Daandi: folds 
+Conny 1991: folds 
+Reyvel: folds 
+Uncalled bet (14600) returned to Kevin12345Mc
+Kevin12345Mc collected 7800 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 7800 | Rake 0 
+Seat 1: Conny 1991 (big blind) folded before Flop
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel folded before Flop
+Seat 5: Kevin12345Mc collected (7800)
+Seat 6: Demiciaano folded before Flop (didn't bet)
+Seat 7: KristiansABC (button) folded before Flop (didn't bet)
+Seat 8: Filip Daandi (small blind) folded before Flop
+
+
+
+PokerStars Hand #255003741293: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:43:08 WET [2025/02/23 11:43:08 ET]
+Table '3860731903 53' 8-max Seat #8 is the button
+Seat 1: Conny 1991 (48600 in chips) 
+Seat 2: felizol 7 (11223 in chips) 
+Seat 3: Reimon100 (35816 in chips) 
+Seat 4: Reyvel (80819 in chips) 
+Seat 5: Kevin12345Mc (22400 in chips) 
+Seat 6: Demiciaano (60577 in chips) 
+Seat 7: KristiansABC (40741 in chips) 
+Seat 8: Filip Daandi (21977 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Filip Daandi: posts the ante 150
+Conny 1991: posts small blind 600
+felizol 7: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Kd]
+Reimon100: folds 
+Reyvel: folds 
+Kevin12345Mc: folds 
+Demiciaano: raises 1200 to 2400
+KristiansABC: folds 
+Filip Daandi: folds 
+Conny 1991: calls 1800
+felizol 7: calls 1200
+*** FLOP *** [6d Qc 8c]
+Conny 1991: checks 
+felizol 7: checks 
+Demiciaano: checks 
+*** TURN *** [6d Qc 8c] [5c]
+KristiansABC is disconnected 
+Conny 1991: checks 
+felizol 7: checks 
+Demiciaano: checks 
+*** RIVER *** [6d Qc 8c 5c] [4d]
+Conny 1991: checks 
+felizol 7: bets 2016
+Demiciaano: folds 
+Conny 1991: folds 
+Uncalled bet (2016) returned to felizol 7
+felizol 7 collected 8400 from pot
+felizol 7: doesn't show hand 
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Board [6d Qc 8c 5c 4d]
+Seat 1: Conny 1991 (small blind) folded on the River
+Seat 2: felizol 7 (big blind) collected (8400)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Demiciaano folded on the River
+Seat 7: KristiansABC folded before Flop (didn't bet)
+Seat 8: Filip Daandi (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003769166: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:44:51 WET [2025/02/23 11:44:51 ET]
+Table '3860731903 53' 8-max Seat #1 is the button
+Seat 1: Conny 1991 (46050 in chips) 
+Seat 2: felizol 7 (17073 in chips) 
+Seat 3: Reimon100 (35666 in chips) 
+Seat 4: Reyvel (80669 in chips) 
+Seat 5: Kevin12345Mc (22250 in chips) 
+Seat 6: Demiciaano (58027 in chips) 
+Seat 7: KristiansABC (40591 in chips) 
+Seat 8: Filip Daandi (21827 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Filip Daandi: posts the ante 150
+felizol 7: posts small blind 600
+Reimon100: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 2h]
+Reyvel: folds 
+Kevin12345Mc: folds 
+Demiciaano: folds 
+KristiansABC: folds 
+Filip Daandi: raises 1200 to 2400
+Conny 1991: raises 7800 to 10200
+felizol 7: folds 
+Reimon100: folds 
+Filip Daandi: raises 11477 to 21677 and is all-in
+Conny 1991: calls 11477
+*** FLOP *** [Jh Td 9c]
+*** TURN *** [Jh Td 9c] [4c]
+*** RIVER *** [Jh Td 9c 4c] [5c]
+*** SHOW DOWN ***
+Filip Daandi: shows [Qs Qh] (a pair of Queens)
+Conny 1991: shows [Ad Ah] (a pair of Aces)
+Conny 1991 collected 46354 from pot
+Filip Daandi finished the tournament
+*** SUMMARY ***
+Total pot 46354 | Rake 0 
+Board [Jh Td 9c 4c 5c]
+Seat 1: Conny 1991 (button) showed [Ad Ah] and won (46354) with a pair of Aces
+Seat 2: felizol 7 (small blind) folded before Flop
+Seat 3: Reimon100 (big blind) folded before Flop
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Demiciaano folded before Flop (didn't bet)
+Seat 7: KristiansABC folded before Flop (didn't bet)
+Seat 8: Filip Daandi showed [Qs Qh] and lost with a pair of Queens
+
+
+
+PokerStars Hand #255003782779: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:45:41 WET [2025/02/23 11:45:41 ET]
+Table '3860731903 53' 8-max Seat #2 is the button
+Seat 1: Conny 1991 (70577 in chips) 
+Seat 2: felizol 7 (16323 in chips) 
+Seat 3: Reimon100 (34316 in chips) 
+Seat 4: Reyvel (80519 in chips) 
+Seat 5: Kevin12345Mc (22100 in chips) 
+Seat 6: Demiciaano (57877 in chips) 
+Seat 7: KristiansABC (40441 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Reimon100: posts small blind 600
+Reyvel: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Ts]
+Kevin12345Mc: folds 
+Demiciaano: folds 
+KristiansABC: folds 
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: raises 2400 to 3600
+Slumdog1312 is disconnected 
+Reyvel: calls 2400
+*** FLOP *** [Kc Ah Jh]
+Reimon100: checks 
+Reyvel: checks 
+*** TURN *** [Kc Ah Jh] [9d]
+Reimon100: checks 
+Reyvel: bets 2723
+Reimon100: folds 
+Uncalled bet (2723) returned to Reyvel
+Reyvel collected 8250 from pot
+Reyvel: doesn't show hand 
+*** SUMMARY ***
+Total pot 8250 | Rake 0 
+Board [Kc Ah Jh 9d]
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 (button) folded before Flop (didn't bet)
+Seat 3: Reimon100 (small blind) folded on the Turn
+Seat 4: Reyvel (big blind) collected (8250)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Demiciaano folded before Flop (didn't bet)
+Seat 7: KristiansABC folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003799604: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:46:43 WET [2025/02/23 11:46:43 ET]
+Table '3860731903 53' 8-max Seat #3 is the button
+Seat 1: Conny 1991 (70427 in chips) 
+Seat 2: felizol 7 (16173 in chips) 
+Seat 3: Reimon100 (30566 in chips) 
+Seat 4: Reyvel (85019 in chips) 
+Seat 5: Kevin12345Mc (21950 in chips) 
+Seat 6: Demiciaano (57727 in chips) 
+Seat 7: KristiansABC (40291 in chips) 
+Seat 8: Slumdog1312 (25000 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Slumdog1312: posts the ante 150
+Reyvel: posts small blind 600
+Kevin12345Mc: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 7h]
+Demiciaano: folds 
+KristiansABC: folds 
+Slumdog1312: raises 1200 to 2400
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: raises 5280 to 7680
+Reyvel: folds 
+Kevin12345Mc: folds 
+Slumdog1312: calls 5280
+*** FLOP *** [5d 5s 3s]
+Slumdog1312: bets 9180
+Reimon100: calls 9180
+*** TURN *** [5d 5s 3s] [9d]
+Slumdog1312: bets 7990 and is all-in
+Reimon100: folds 
+Uncalled bet (7990) returned to Slumdog1312
+Slumdog1312 collected 36720 from pot
+Slumdog1312: doesn't show hand 
+*** SUMMARY ***
+Total pot 36720 | Rake 0 
+Board [5d 5s 3s 9d]
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 (button) folded on the Turn
+Seat 4: Reyvel (small blind) folded before Flop
+Seat 5: Kevin12345Mc (big blind) folded before Flop
+Seat 6: Demiciaano folded before Flop (didn't bet)
+Seat 7: KristiansABC folded before Flop (didn't bet)
+Seat 8: Slumdog1312 collected (36720)
+
+
+
+PokerStars Hand #255003815025: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:47:39 WET [2025/02/23 11:47:39 ET]
+Table '3860731903 53' 8-max Seat #4 is the button
+Seat 1: Conny 1991 (70277 in chips) 
+Seat 2: felizol 7 (16023 in chips) 
+Seat 3: Reimon100 (13556 in chips) 
+Seat 4: Reyvel (84269 in chips) 
+Seat 5: Kevin12345Mc (20600 in chips) 
+Seat 6: Demiciaano (57577 in chips) 
+Seat 7: KristiansABC (40141 in chips) 
+Seat 8: Slumdog1312 (44710 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Slumdog1312: posts the ante 150
+Kevin12345Mc: posts small blind 600
+Demiciaano: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 9s]
+KristiansABC: folds 
+Slumdog1312: folds 
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: folds 
+Kevin12345Mc: raises 1560 to 2760
+Demiciaano: folds 
+Uncalled bet (1560) returned to Kevin12345Mc
+Kevin12345Mc collected 3600 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) collected (3600)
+Seat 6: Demiciaano (big blind) folded before Flop
+Seat 7: KristiansABC folded before Flop (didn't bet)
+Seat 8: Slumdog1312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003823605: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:48:11 WET [2025/02/23 11:48:11 ET]
+Table '3860731903 53' 8-max Seat #5 is the button
+Seat 1: Conny 1991 (70127 in chips) 
+Seat 2: felizol 7 (15873 in chips) 
+Seat 3: Reimon100 (13406 in chips) 
+Seat 4: Reyvel (84119 in chips) 
+Seat 5: Kevin12345Mc (22850 in chips) 
+Seat 6: Demiciaano (56227 in chips) 
+Seat 7: KristiansABC (39991 in chips) 
+Seat 8: Slumdog1312 (44560 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Slumdog1312: posts the ante 150
+Demiciaano: posts small blind 600
+KristiansABC: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 4d]
+Slumdog1312: folds 
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: folds 
+Kevin12345Mc: folds 
+Demiciaano: calls 600
+KristiansABC: checks 
+*** FLOP *** [9c Tc Kc]
+Demiciaano: checks 
+KristiansABC: bets 2400
+Demiciaano: folds 
+Uncalled bet (2400) returned to KristiansABC
+KristiansABC collected 3600 from pot
+KristiansABC: doesn't show hand 
+*** SUMMARY ***
+Total pot 3600 | Rake 0 
+Board [9c Tc Kc]
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 6: Demiciaano (small blind) folded on the Flop
+Seat 7: KristiansABC (big blind) collected (3600)
+Seat 8: Slumdog1312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003836425: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:48:57 WET [2025/02/23 11:48:57 ET]
+Table '3860731903 53' 8-max Seat #6 is the button
+Seat 1: Conny 1991 (69977 in chips) 
+Seat 2: felizol 7 (15723 in chips) 
+Seat 3: Reimon100 (13256 in chips) 
+Seat 4: Reyvel (83969 in chips) 
+Seat 5: Kevin12345Mc (22700 in chips) 
+Seat 6: Demiciaano (54877 in chips) 
+Seat 7: KristiansABC (42241 in chips) 
+Seat 8: Slumdog1312 (44410 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Slumdog1312: posts the ante 150
+KristiansABC: posts small blind 600
+Slumdog1312: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 3h]
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: folds 
+Kevin12345Mc: folds 
+Demiciaano: folds 
+KristiansABC: raises 1200 to 2400
+Slumdog1312: calls 1200
+*** FLOP *** [Jc 3c Jd]
+KristiansABC: bets 2400
+Slumdog1312: calls 2400
+*** TURN *** [Jc 3c Jd] [5d]
+KristiansABC: checks 
+Slumdog1312: bets 3600
+KristiansABC: folds 
+Uncalled bet (3600) returned to Slumdog1312
+Slumdog1312 collected 10800 from pot
+Slumdog1312: doesn't show hand 
+*** SUMMARY ***
+Total pot 10800 | Rake 0 
+Board [Jc 3c Jd 5d]
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Demiciaano (button) folded before Flop (didn't bet)
+Seat 7: KristiansABC (small blind) folded on the Turn
+Seat 8: Slumdog1312 (big blind) collected (10800)
+
+
+
+PokerStars Hand #255003847585: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:49:38 WET [2025/02/23 11:49:38 ET]
+Table '3860731903 53' 8-max Seat #7 is the button
+Seat 1: Conny 1991 (69827 in chips) 
+Seat 2: felizol 7 (15573 in chips) 
+Seat 3: Reimon100 (13106 in chips) 
+Seat 4: Reyvel (83819 in chips) 
+Seat 5: Kevin12345Mc (22550 in chips) 
+Seat 6: Demiciaano (54727 in chips) 
+Seat 7: KristiansABC (37291 in chips) 
+Seat 8: Slumdog1312 (50260 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Slumdog1312: posts the ante 150
+Slumdog1312: posts small blind 600
+Conny 1991: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 6c]
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: folds 
+Kevin12345Mc: folds 
+Demiciaano: raises 1200 to 2400
+KristiansABC: folds 
+Slumdog1312: calls 1800
+Conny 1991: calls 1200
+*** FLOP *** [Kh 4c 5s]
+Slumdog1312: checks 
+Conny 1991: checks 
+Demiciaano: bets 2100
+Slumdog1312: folds 
+Conny 1991: folds 
+Uncalled bet (2100) returned to Demiciaano
+Demiciaano collected 8400 from pot
+Demiciaano: doesn't show hand 
+*** SUMMARY ***
+Total pot 8400 | Rake 0 
+Board [Kh 4c 5s]
+Seat 1: Conny 1991 (big blind) folded on the Flop
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Demiciaano collected (8400)
+Seat 7: KristiansABC (button) folded before Flop (didn't bet)
+Seat 8: Slumdog1312 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #255003866660: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:50:48 WET [2025/02/23 11:50:48 ET]
+Table '3860731903 53' 8-max Seat #8 is the button
+Seat 1: Conny 1991 (67277 in chips) 
+Seat 2: felizol 7 (15423 in chips) 
+Seat 3: Reimon100 (12956 in chips) 
+Seat 4: Reyvel (83669 in chips) 
+Seat 5: Kevin12345Mc (22400 in chips) 
+Seat 6: Demiciaano (60577 in chips) 
+Seat 7: KristiansABC (37141 in chips) 
+Seat 8: Slumdog1312 (47710 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Slumdog1312: posts the ante 150
+Conny 1991: posts small blind 600
+felizol 7: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 4s]
+Reimon100: folds 
+Reyvel: folds 
+Kevin12345Mc: folds 
+Demiciaano: raises 1200 to 2400
+KristiansABC: calls 2400
+Slumdog1312: folds 
+Conny 1991: folds 
+felizol 7: calls 1200
+*** FLOP *** [Ah Js Ks]
+felizol 7: checks 
+Demiciaano: checks 
+KristiansABC: bets 3600
+felizol 7: folds 
+Demiciaano: folds 
+Uncalled bet (3600) returned to KristiansABC
+KristiansABC collected 9000 from pot
+KristiansABC: doesn't show hand 
+*** SUMMARY ***
+Total pot 9000 | Rake 0 
+Board [Ah Js Ks]
+Seat 1: Conny 1991 (small blind) folded before Flop
+Seat 2: felizol 7 (big blind) folded on the Flop
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Demiciaano folded on the Flop
+Seat 7: KristiansABC collected (9000)
+Seat 8: Slumdog1312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003886206: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:51:59 WET [2025/02/23 11:51:59 ET]
+Table '3860731903 53' 8-max Seat #1 is the button
+Seat 1: Conny 1991 (66527 in chips) 
+Seat 2: felizol 7 (12873 in chips) 
+Seat 3: Reimon100 (12806 in chips) 
+Seat 4: Reyvel (83519 in chips) 
+Seat 5: Kevin12345Mc (22250 in chips) 
+Seat 6: Demiciaano (58027 in chips) 
+Seat 7: KristiansABC (43591 in chips) 
+Seat 8: Slumdog1312 (47560 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Slumdog1312: posts the ante 150
+felizol 7: posts small blind 600
+Reimon100: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah Kc]
+Reyvel: folds 
+Kevin12345Mc: raises 1200 to 2400
+Demiciaano: folds 
+KristiansABC: folds 
+Slumdog1312: folds 
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: calls 1200
+*** FLOP *** [Jd 3c 8d]
+Reimon100: checks 
+Kevin12345Mc: bets 2178
+Reimon100: folds 
+Uncalled bet (2178) returned to Kevin12345Mc
+Kevin12345Mc collected 6600 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 6600 | Rake 0 
+Board [Jd 3c 8d]
+Seat 1: Conny 1991 (button) folded before Flop (didn't bet)
+Seat 2: felizol 7 (small blind) folded before Flop
+Seat 3: Reimon100 (big blind) folded on the Flop
+Seat 4: Reyvel folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc collected (6600)
+Seat 6: Demiciaano folded before Flop (didn't bet)
+Seat 7: KristiansABC folded before Flop (didn't bet)
+Seat 8: Slumdog1312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003899272: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/23 16:52:48 WET [2025/02/23 11:52:48 ET]
+Table '3860731903 53' 8-max Seat #2 is the button
+Seat 1: Conny 1991 (66377 in chips) 
+Seat 2: felizol 7 (12123 in chips) 
+Seat 3: Reimon100 (10256 in chips) 
+Seat 4: Reyvel (83369 in chips) 
+Seat 5: Kevin12345Mc (26300 in chips) 
+Seat 6: Demiciaano (57877 in chips) 
+Seat 7: KristiansABC (43441 in chips) 
+Seat 8: Slumdog1312 (47410 in chips) 
+Conny 1991: posts the ante 150
+felizol 7: posts the ante 150
+Reimon100: posts the ante 150
+Reyvel: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Demiciaano: posts the ante 150
+KristiansABC: posts the ante 150
+Slumdog1312: posts the ante 150
+Reimon100: posts small blind 600
+Reyvel: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 7c]
+Kevin12345Mc: folds 
+Demiciaano: folds 
+KristiansABC: raises 1200 to 2400
+Slumdog1312: folds 
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: raises 7200 to 9600
+KristiansABC: raises 33691 to 43291 and is all-in
+Reyvel: calls 33691
+*** FLOP *** [Ks Qh Jd]
+*** TURN *** [Ks Qh Jd] [3h]
+*** RIVER *** [Ks Qh Jd 3h] [Qd]
+*** SHOW DOWN ***
+Reyvel: shows [Js Jh] (a full house, Jacks full of Queens)
+KristiansABC: shows [Kd Ac] (two pair, Kings and Queens)
+Reyvel collected 88382 from pot
+KristiansABC finished the tournament
+*** SUMMARY ***
+Total pot 88382 | Rake 0 
+Board [Ks Qh Jd 3h Qd]
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 (button) folded before Flop (didn't bet)
+Seat 3: Reimon100 (small blind) folded before Flop
+Seat 4: Reyvel (big blind) showed [Js Jh] and won (88382) with a full house, Jacks full of Queens
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: Demiciaano folded before Flop (didn't bet)
+Seat 7: KristiansABC showed [Kd Ac] and lost with two pair, Kings and Queens
+Seat 8: Slumdog1312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003912228: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XIII (700/1400) - 2025/02/23 16:53:35 WET [2025/02/23 11:53:35 ET]
+Table '3860731903 53' 8-max Seat #3 is the button
+Seat 1: Conny 1991 (66227 in chips) 
+Seat 2: felizol 7 (11973 in chips) 
+Seat 3: Reimon100 (9506 in chips) 
+Seat 4: Reyvel (128310 in chips) 
+Seat 5: Kevin12345Mc (26150 in chips) 
+Seat 6: Demiciaano (57727 in chips) 
+Seat 8: Slumdog1312 (47260 in chips) 
+Conny 1991: posts the ante 175
+felizol 7: posts the ante 175
+Reimon100: posts the ante 175
+Reyvel: posts the ante 175
+Kevin12345Mc: posts the ante 175
+Demiciaano: posts the ante 175
+Slumdog1312: posts the ante 175
+Reyvel: posts small blind 700
+Kevin12345Mc: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 3d]
+Demiciaano: folds 
+Slumdog1312: folds 
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: raises 126735 to 128135 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (126735) returned to Reyvel
+Reyvel collected 4025 from pot
+Reyvel: doesn't show hand 
+*** SUMMARY ***
+Total pot 4025 | Rake 0 
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 (button) folded before Flop (didn't bet)
+Seat 4: Reyvel (small blind) collected (4025)
+Seat 5: Kevin12345Mc (big blind) folded before Flop
+Seat 6: Demiciaano folded before Flop (didn't bet)
+Seat 8: Slumdog1312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255003920947: Tournament #3860731903, $9.80+$1.20 USD Hold'em No Limit - Level XIII (700/1400) - 2025/02/23 16:54:08 WET [2025/02/23 11:54:08 ET]
+Table '3860731903 53' 8-max Seat #4 is the button
+Seat 1: Conny 1991 (66052 in chips) 
+Seat 2: felizol 7 (11798 in chips) 
+Seat 3: Reimon100 (9331 in chips) 
+Seat 4: Reyvel (130760 in chips) 
+Seat 5: Kevin12345Mc (24575 in chips) 
+Seat 6: Demiciaano (57552 in chips) 
+Seat 8: Slumdog1312 (47085 in chips) 
+Conny 1991: posts the ante 175
+felizol 7: posts the ante 175
+Reimon100: posts the ante 175
+Reyvel: posts the ante 175
+Kevin12345Mc: posts the ante 175
+Demiciaano: posts the ante 175
+Slumdog1312: posts the ante 175
+Kevin12345Mc: posts small blind 700
+Demiciaano: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 4c]
+Slumdog1312: folds 
+Conny 1991: folds 
+felizol 7: folds 
+Reimon100: folds 
+Reyvel: raises 1400 to 2800
+Kevin12345Mc: raises 21600 to 24400 and is all-in
+Demiciaano: folds 
+Reyvel: calls 21600
+*** FLOP *** [Jc 7s 2h]
+*** TURN *** [Jc 7s 2h] [6c]
+*** RIVER *** [Jc 7s 2h 6c] [Qd]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [4s 4c] (a pair of Fours)
+Reyvel: shows [Kd Kc] (a pair of Kings)
+Reyvel collected 51425 from pot
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 51425 | Rake 0 
+Board [Jc 7s 2h 6c Qd]
+Seat 1: Conny 1991 folded before Flop (didn't bet)
+Seat 2: felizol 7 folded before Flop (didn't bet)
+Seat 3: Reimon100 folded before Flop (didn't bet)
+Seat 4: Reyvel (button) showed [Kd Kc] and won (51425) with a pair of Kings
+Seat 5: Kevin12345Mc (small blind) showed [4s 4c] and lost with a pair of Fours
+Seat 6: Demiciaano (big blind) folded before Flop
+Seat 8: Slumdog1312 folded before Flop (didn't bet)
+
+
+

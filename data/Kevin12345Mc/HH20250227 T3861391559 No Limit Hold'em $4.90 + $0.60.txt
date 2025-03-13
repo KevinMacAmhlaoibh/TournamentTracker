@@ -1,0 +1,2305 @@
+﻿PokerStars Hand #255060681390: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/27 17:29:58 WET [2025/02/27 12:29:58 ET]
+Table '3861391559 121' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (25000 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (25000 in chips, $2.45 bounty) 
+Seat 3: Iunie28 (25000 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (25000 in chips, $2.45 bounty) 
+Seat 5: allie4m (25000 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (25000 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (25000 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (25000 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 25
+jokeizitos: posts the ante 25
+Iunie28: posts the ante 25
+FehVitor#PQD: posts the ante 25
+allie4m: posts the ante 25
+17QueenBee17: posts the ante 25
+DVA-31: posts the ante 25
+AkkuRat11: posts the ante 25
+jokeizitos: posts small blind 100
+Iunie28: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Qh]
+FehVitor#PQD: folds 
+allie4m: folds 
+17QueenBee17: folds 
+DVA-31: raises 200 to 400
+AkkuRat11: calls 400
+Kevin12345Mc: folds 
+jokeizitos: folds 
+Iunie28: calls 200
+*** FLOP *** [8s Tc 8d]
+Iunie28: checks 
+DVA-31: bets 375
+AkkuRat11: calls 375
+Iunie28: folds 
+*** TURN *** [8s Tc 8d] [Jc]
+DVA-31: checks 
+AkkuRat11: checks 
+*** RIVER *** [8s Tc 8d Jc] [Th]
+DVA-31: bets 743
+AkkuRat11: folds 
+Uncalled bet (743) returned to DVA-31
+DVA-31 collected 2250 from pot
+DVA-31: doesn't show hand 
+*** SUMMARY ***
+Total pot 2250 | Rake 0 
+Board [8s Tc 8d Jc Th]
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: jokeizitos (small blind) folded before Flop
+Seat 3: Iunie28 (big blind) folded on the Flop
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: allie4m folded before Flop (didn't bet)
+Seat 6: 17QueenBee17 folded before Flop (didn't bet)
+Seat 7: DVA-31 collected (2250)
+Seat 8: AkkuRat11 folded on the River
+
+
+
+PokerStars Hand #255060699939: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/27 17:31:14 WET [2025/02/27 12:31:14 ET]
+Table '3861391559 121' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (24975 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (24875 in chips, $2.45 bounty) 
+Seat 3: Iunie28 (24575 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (24975 in chips, $2.45 bounty) 
+Seat 5: allie4m (24975 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (24975 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (26450 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (24200 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 25
+jokeizitos: posts the ante 25
+Iunie28: posts the ante 25
+FehVitor#PQD: posts the ante 25
+allie4m: posts the ante 25
+17QueenBee17: posts the ante 25
+DVA-31: posts the ante 25
+AkkuRat11: posts the ante 25
+Iunie28: posts small blind 100
+FehVitor#PQD: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 2c]
+allie4m: folds 
+17QueenBee17: folds 
+DVA-31: folds 
+AkkuRat11: calls 200
+Kevin12345Mc: folds 
+jokeizitos: folds 
+Iunie28: raises 1000 to 1200
+FehVitor#PQD: folds 
+AkkuRat11: folds 
+Uncalled bet (1000) returned to Iunie28
+Iunie28 collected 800 from pot
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: jokeizitos (button) folded before Flop (didn't bet)
+Seat 3: Iunie28 (small blind) collected (800)
+Seat 4: FehVitor#PQD (big blind) folded before Flop
+Seat 5: allie4m folded before Flop (didn't bet)
+Seat 6: 17QueenBee17 folded before Flop (didn't bet)
+Seat 7: DVA-31 folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded before Flop
+
+
+
+PokerStars Hand #255060708810: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/27 17:31:50 WET [2025/02/27 12:31:50 ET]
+Table '3861391559 121' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (24950 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (24850 in chips, $2.45 bounty) 
+Seat 3: Iunie28 (25150 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (24750 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (24950 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (26425 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (23975 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 25
+jokeizitos: posts the ante 25
+Iunie28: posts the ante 25
+FehVitor#PQD: posts the ante 25
+17QueenBee17: posts the ante 25
+DVA-31: posts the ante 25
+AkkuRat11: posts the ante 25
+FehVitor#PQD: posts small blind 100
+17QueenBee17: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s Kc]
+DVA-31: folds 
+zorra312 is disconnected 
+AkkuRat11: calls 200
+Kevin12345Mc: folds 
+jokeizitos: folds 
+Iunie28: calls 200
+FehVitor#PQD: calls 100
+17QueenBee17: checks 
+*** FLOP *** [Qh Kh Th]
+FehVitor#PQD: checks 
+17QueenBee17: bets 488
+AkkuRat11: calls 488
+Iunie28: folds 
+FehVitor#PQD: calls 488
+*** TURN *** [Qh Kh Th] [2d]
+FehVitor#PQD: checks 
+17QueenBee17: checks 
+AkkuRat11: checks 
+*** RIVER *** [Qh Kh Th 2d] [As]
+FehVitor#PQD: checks 
+17QueenBee17: checks 
+AkkuRat11: checks 
+*** SHOW DOWN ***
+FehVitor#PQD: shows [2s Ah] (two pair, Aces and Deuces)
+17QueenBee17: shows [Jd Kd] (a straight, Ten to Ace)
+AkkuRat11: mucks hand 
+17QueenBee17 collected 2439 from pot
+*** SUMMARY ***
+Total pot 2439 | Rake 0 
+Board [Qh Kh Th 2d As]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: jokeizitos folded before Flop (didn't bet)
+Seat 3: Iunie28 (button) folded on the Flop
+Seat 4: FehVitor#PQD (small blind) showed [2s Ah] and lost with two pair, Aces and Deuces
+Seat 6: 17QueenBee17 (big blind) showed [Jd Kd] and won (2439) with a straight, Ten to Ace
+Seat 7: DVA-31 folded before Flop (didn't bet)
+Seat 8: AkkuRat11 mucked [9h 7c]
+
+
+
+PokerStars Hand #255060739169: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/27 17:33:55 WET [2025/02/27 12:33:55 ET]
+Table '3861391559 121' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (24925 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (24825 in chips, $2.45 bounty) 
+Seat 3: Iunie28 (24925 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (24037 in chips, $2.45 bounty) 
+Seat 5: zorra312 (25000 in chips) out of hand (moved from another table into small blind)
+Seat 6: 17QueenBee17 (26676 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (26400 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (23262 in chips, $2.45 bounty) 
+zorra312 will be allowed to play after the button
+Kevin12345Mc: posts the ante 25
+jokeizitos: posts the ante 25
+Iunie28: posts the ante 25
+FehVitor#PQD: posts the ante 25
+17QueenBee17: posts the ante 25
+DVA-31: posts the ante 25
+AkkuRat11: posts the ante 25
+17QueenBee17: posts small blind 100
+DVA-31: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d As]
+AkkuRat11: calls 200
+Kevin12345Mc: folds 
+jokeizitos: folds 
+Iunie28: folds 
+FehVitor#PQD: raises 600 to 800
+17QueenBee17: folds 
+DVA-31: raises 2200 to 3000
+AkkuRat11: calls 2800
+FehVitor#PQD: folds 
+*** FLOP *** [9d 3d Th]
+DVA-31: bets 1769
+AkkuRat11: folds 
+Uncalled bet (1769) returned to DVA-31
+DVA-31 collected 7075 from pot
+DVA-31: doesn't show hand 
+*** SUMMARY ***
+Total pot 7075 | Rake 0 
+Board [9d 3d Th]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: jokeizitos folded before Flop (didn't bet)
+Seat 3: Iunie28 folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD (button) folded before Flop
+Seat 6: 17QueenBee17 (small blind) folded before Flop
+Seat 7: DVA-31 (big blind) collected (7075)
+Seat 8: AkkuRat11 folded on the Flop
+
+
+
+PokerStars Hand #255060752683: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/27 17:34:51 WET [2025/02/27 12:34:51 ET]
+Table '3861391559 121' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (24900 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (24800 in chips, $2.45 bounty) 
+Seat 3: Iunie28 (24900 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23212 in chips, $2.45 bounty) 
+Seat 5: zorra312 (25000 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (26551 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30450 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (20237 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 25
+jokeizitos: posts the ante 25
+Iunie28: posts the ante 25
+FehVitor#PQD: posts the ante 25
+zorra312: posts the ante 25
+17QueenBee17: posts the ante 25
+DVA-31: posts the ante 25
+AkkuRat11: posts the ante 25
+DVA-31: posts small blind 100
+AkkuRat11: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 7s]
+Kevin12345Mc: folds 
+jokeizitos: folds 
+Iunie28: folds 
+FehVitor#PQD: folds 
+zorra312: raises 200 to 400
+17QueenBee17: folds 
+DVA-31: folds 
+AkkuRat11: raises 200 to 600
+zorra312: calls 200
+*** FLOP *** [9h 7h Td]
+AkkuRat11: checks 
+zorra312: bets 910
+AkkuRat11: folds 
+Uncalled bet (910) returned to zorra312
+zorra312 collected 1500 from pot
+zorra312: doesn't show hand 
+*** SUMMARY ***
+Total pot 1500 | Rake 0 
+Board [9h 7h Td]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: jokeizitos folded before Flop (didn't bet)
+Seat 3: Iunie28 folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 collected (1500)
+Seat 6: 17QueenBee17 (button) folded before Flop (didn't bet)
+Seat 7: DVA-31 (small blind) folded before Flop
+Seat 8: AkkuRat11 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255060772268: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/27 17:36:12 WET [2025/02/27 12:36:12 ET]
+Table '3861391559 121' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (24875 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (24775 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23187 in chips, $2.45 bounty) 
+Seat 5: zorra312 (25875 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (26526 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30325 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (19612 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 25
+jokeizitos: posts the ante 25
+FehVitor#PQD: posts the ante 25
+zorra312: posts the ante 25
+17QueenBee17: posts the ante 25
+DVA-31: posts the ante 25
+AkkuRat11: posts the ante 25
+AkkuRat11: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 7h]
+jokeizitos: folds 
+forplayy is disconnected 
+FehVitor#PQD: raises 400 to 600
+zorra312: calls 600
+17QueenBee17: folds 
+DVA-31: folds 
+AkkuRat11: folds 
+Kevin12345Mc: calls 400
+*** FLOP *** [Ks 9d 3s]
+Kevin12345Mc: checks 
+FehVitor#PQD: checks 
+zorra312: checks 
+*** TURN *** [Ks 9d 3s] [Qs]
+Kevin12345Mc: checks 
+FehVitor#PQD: checks 
+zorra312: checks 
+*** RIVER *** [Ks 9d 3s Qs] [Ts]
+Kevin12345Mc: checks 
+FehVitor#PQD: checks 
+zorra312: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ad 7h] (high card Ace)
+FehVitor#PQD: shows [Qc Tc] (two pair, Queens and Tens)
+zorra312: mucks hand 
+FehVitor#PQD collected 2075 from pot
+*** SUMMARY ***
+Total pot 2075 | Rake 0 
+Board [Ks 9d 3s Qs Ts]
+Seat 1: Kevin12345Mc (big blind) showed [Ad 7h] and lost with high card Ace
+Seat 2: jokeizitos folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD showed [Qc Tc] and won (2075) with two pair, Queens and Tens
+Seat 5: zorra312 mucked [8c 8d]
+Seat 6: 17QueenBee17 folded before Flop (didn't bet)
+Seat 7: DVA-31 (button) folded before Flop (didn't bet)
+Seat 8: AkkuRat11 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255060804253: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/27 17:38:24 WET [2025/02/27 12:38:24 ET]
+Table '3861391559 121' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (24250 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (24750 in chips, $2.45 bounty) 
+Seat 3: forplayy (25000 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (24637 in chips, $2.45 bounty) 
+Seat 5: zorra312 (25250 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (26501 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30300 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (19487 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 30
+jokeizitos: posts the ante 30
+forplayy: posts the ante 30
+FehVitor#PQD: posts the ante 30
+zorra312: posts the ante 30
+17QueenBee17: posts the ante 30
+DVA-31: posts the ante 30
+AkkuRat11: posts the ante 30
+Kevin12345Mc: posts small blind 125
+jokeizitos: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 4h]
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+17QueenBee17: raises 250 to 500
+DVA-31: folds 
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+jokeizitos: calls 250
+*** FLOP *** [2s 4d 2c]
+jokeizitos: checks 
+17QueenBee17: bets 683
+jokeizitos: folds 
+Uncalled bet (683) returned to 17QueenBee17
+17QueenBee17 collected 1365 from pot
+*** SUMMARY ***
+Total pot 1365 | Rake 0 
+Board [2s 4d 2c]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: jokeizitos (big blind) folded on the Flop
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: 17QueenBee17 collected (1365)
+Seat 7: DVA-31 folded before Flop (didn't bet)
+Seat 8: AkkuRat11 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060821299: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/27 17:39:34 WET [2025/02/27 12:39:34 ET]
+Table '3861391559 121' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (24095 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (24220 in chips, $2.45 bounty) 
+Seat 3: forplayy (24970 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (24607 in chips, $2.45 bounty) 
+Seat 5: zorra312 (25220 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (27336 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30270 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (19457 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 30
+jokeizitos: posts the ante 30
+forplayy: posts the ante 30
+FehVitor#PQD: posts the ante 30
+zorra312: posts the ante 30
+17QueenBee17: posts the ante 30
+DVA-31: posts the ante 30
+AkkuRat11: posts the ante 30
+jokeizitos: posts small blind 125
+forplayy: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 8s]
+FehVitor#PQD: raises 500 to 750
+zorra312: folds 
+17QueenBee17: folds 
+DVA-31: folds 
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+jokeizitos: folds 
+forplayy: folds 
+Uncalled bet (500) returned to FehVitor#PQD
+FehVitor#PQD collected 865 from pot
+FehVitor#PQD: doesn't show hand 
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: jokeizitos (small blind) folded before Flop
+Seat 3: forplayy (big blind) folded before Flop
+Seat 4: FehVitor#PQD collected (865)
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: 17QueenBee17 folded before Flop (didn't bet)
+Seat 7: DVA-31 folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060827878: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/27 17:40:01 WET [2025/02/27 12:40:01 ET]
+Table '3861391559 121' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (24065 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (24065 in chips, $2.45 bounty) 
+Seat 3: forplayy (24690 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (25192 in chips, $2.45 bounty) 
+Seat 5: zorra312 (25190 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (27306 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30240 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (19427 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 30
+jokeizitos: posts the ante 30
+forplayy: posts the ante 30
+FehVitor#PQD: posts the ante 30
+zorra312: posts the ante 30
+17QueenBee17: posts the ante 30
+DVA-31: posts the ante 30
+AkkuRat11: posts the ante 30
+forplayy: posts small blind 125
+FehVitor#PQD: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 3h]
+zorra312: raises 250 to 500
+17QueenBee17: folds 
+DVA-31: folds 
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+jokeizitos: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+Uncalled bet (250) returned to zorra312
+zorra312 collected 865 from pot
+zorra312: doesn't show hand 
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: jokeizitos (button) folded before Flop (didn't bet)
+Seat 3: forplayy (small blind) folded before Flop
+Seat 4: FehVitor#PQD (big blind) folded before Flop
+Seat 5: zorra312 collected (865)
+Seat 6: 17QueenBee17 folded before Flop (didn't bet)
+Seat 7: DVA-31 folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060837622: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/27 17:40:41 WET [2025/02/27 12:40:41 ET]
+Table '3861391559 121' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (24035 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (24035 in chips, $2.45 bounty) 
+Seat 3: forplayy (24535 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (24912 in chips, $2.45 bounty) 
+Seat 5: zorra312 (25775 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (27276 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30210 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (19397 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 30
+jokeizitos: posts the ante 30
+forplayy: posts the ante 30
+FehVitor#PQD: posts the ante 30
+zorra312: posts the ante 30
+17QueenBee17: posts the ante 30
+DVA-31: posts the ante 30
+AkkuRat11: posts the ante 30
+FehVitor#PQD: posts small blind 125
+zorra312: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 8h]
+17QueenBee17: raises 250 to 500
+DVA-31: folds 
+AkkuRat11: folds 
+Kevin12345Mc: calls 500
+jokeizitos: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: calls 250
+*** FLOP *** [6s 2d 6c]
+zorra312: checks 
+17QueenBee17: checks 
+Kevin12345Mc: bets 1231
+zorra312: folds 
+17QueenBee17: folds 
+Uncalled bet (1231) returned to Kevin12345Mc
+Kevin12345Mc collected 1865 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1865 | Rake 0 
+Board [6s 2d 6c]
+Seat 1: Kevin12345Mc collected (1865)
+Seat 2: jokeizitos folded before Flop (didn't bet)
+Seat 3: forplayy (button) folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD (small blind) folded before Flop
+Seat 5: zorra312 (big blind) folded on the Flop
+Seat 6: 17QueenBee17 folded on the Flop
+Seat 7: DVA-31 folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060853424: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/27 17:41:46 WET [2025/02/27 12:41:46 ET]
+Table '3861391559 121' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (25370 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (24005 in chips, $2.45 bounty) 
+Seat 3: forplayy (24505 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (24757 in chips, $2.45 bounty) 
+Seat 5: zorra312 (25245 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (26746 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30180 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (19367 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 30
+jokeizitos: posts the ante 30
+forplayy: posts the ante 30
+FehVitor#PQD: posts the ante 30
+zorra312: posts the ante 30
+17QueenBee17: posts the ante 30
+DVA-31: posts the ante 30
+AkkuRat11: posts the ante 30
+zorra312: posts small blind 125
+17QueenBee17: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 5c]
+DVA-31: folds 
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+jokeizitos: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: raises 425 to 675
+17QueenBee17: folds 
+Uncalled bet (425) returned to zorra312
+zorra312 collected 740 from pot
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: jokeizitos folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD (button) folded before Flop (didn't bet)
+Seat 5: zorra312 (small blind) collected (740)
+Seat 6: 17QueenBee17 (big blind) folded before Flop
+Seat 7: DVA-31 folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060858775: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/27 17:42:09 WET [2025/02/27 12:42:09 ET]
+Table '3861391559 121' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (25340 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (23975 in chips, $2.45 bounty) 
+Seat 3: forplayy (24475 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (24727 in chips, $2.45 bounty) 
+Seat 5: zorra312 (25705 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (26466 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30150 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (19337 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 30
+jokeizitos: posts the ante 30
+forplayy: posts the ante 30
+FehVitor#PQD: posts the ante 30
+zorra312: posts the ante 30
+17QueenBee17: posts the ante 30
+DVA-31: posts the ante 30
+AkkuRat11: posts the ante 30
+17QueenBee17: posts small blind 125
+DVA-31: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh Kc]
+AkkuRat11: calls 250
+Kevin12345Mc: raises 575 to 825
+jokeizitos: calls 825
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+17QueenBee17: folds 
+DVA-31: folds 
+AkkuRat11: calls 575
+*** FLOP *** [7s Qd Qc]
+AkkuRat11: checks 
+Kevin12345Mc: bets 1020
+jokeizitos: folds 
+AkkuRat11: folds 
+Uncalled bet (1020) returned to Kevin12345Mc
+Kevin12345Mc collected 3090 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 3090 | Rake 0 
+Board [7s Qd Qc]
+Seat 1: Kevin12345Mc collected (3090)
+Seat 2: jokeizitos folded on the Flop
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 (button) folded before Flop (didn't bet)
+Seat 6: 17QueenBee17 (small blind) folded before Flop
+Seat 7: DVA-31 (big blind) folded before Flop
+Seat 8: AkkuRat11 folded on the Flop
+
+
+
+PokerStars Hand #255060872784: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/27 17:43:07 WET [2025/02/27 12:43:07 ET]
+Table '3861391559 121' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (27575 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (23120 in chips, $2.45 bounty) 
+Seat 3: forplayy (24445 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (24697 in chips, $2.45 bounty) 
+Seat 5: zorra312 (25675 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (26311 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (29870 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (18482 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 30
+jokeizitos: posts the ante 30
+forplayy: posts the ante 30
+FehVitor#PQD: posts the ante 30
+zorra312: posts the ante 30
+17QueenBee17: posts the ante 30
+DVA-31: posts the ante 30
+AkkuRat11: posts the ante 30
+DVA-31: posts small blind 125
+AkkuRat11: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th Jh]
+Kevin12345Mc: raises 375 to 625
+jokeizitos: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: raises 1125 to 1750
+17QueenBee17: folds 
+DVA-31: folds 
+AkkuRat11: folds 
+Kevin12345Mc: calls 1125
+*** FLOP *** [3s Jd 2c]
+Kevin12345Mc: checks 
+zorra312: bets 1399
+Kevin12345Mc: calls 1399
+*** TURN *** [3s Jd 2c] [4h]
+Kevin12345Mc: checks 
+zorra312: bets 5530
+Kevin12345Mc: calls 5530
+*** RIVER *** [3s Jd 2c 4h] [As]
+Kevin12345Mc: checks 
+zorra312: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Th Jh] (a pair of Jacks)
+zorra312: mucks hand 
+Kevin12345Mc collected 17973 from pot
+*** SUMMARY ***
+Total pot 17973 | Rake 0 
+Board [3s Jd 2c 4h As]
+Seat 1: Kevin12345Mc showed [Th Jh] and won (17973) with a pair of Jacks
+Seat 2: jokeizitos folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 mucked [Qc Kh]
+Seat 6: 17QueenBee17 (button) folded before Flop (didn't bet)
+Seat 7: DVA-31 (small blind) folded before Flop
+Seat 8: AkkuRat11 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255060901976: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/27 17:45:09 WET [2025/02/27 12:45:09 ET]
+Table '3861391559 121' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (36839 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (23090 in chips, $2.45 bounty) 
+Seat 3: forplayy (24415 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (24667 in chips, $2.45 bounty) 
+Seat 5: zorra312 (16966 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (26281 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (29715 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (18202 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 30
+jokeizitos: posts the ante 30
+forplayy: posts the ante 30
+FehVitor#PQD: posts the ante 30
+zorra312: posts the ante 30
+17QueenBee17: posts the ante 30
+DVA-31: posts the ante 30
+AkkuRat11: posts the ante 30
+AkkuRat11: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc As]
+jokeizitos: folds 
+forplayy: folds 
+FehVitor#PQD: raises 500 to 750
+zorra312: folds 
+17QueenBee17: folds 
+DVA-31: folds 
+AkkuRat11: calls 625
+Kevin12345Mc: raises 1750 to 2500
+FehVitor#PQD: folds 
+AkkuRat11: folds 
+Uncalled bet (1750) returned to Kevin12345Mc
+Kevin12345Mc collected 2490 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2490 | Rake 0 
+Seat 1: Kevin12345Mc (big blind) collected (2490)
+Seat 2: jokeizitos folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: 17QueenBee17 folded before Flop (didn't bet)
+Seat 7: DVA-31 (button) folded before Flop (didn't bet)
+Seat 8: AkkuRat11 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255060915343: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/27 17:46:04 WET [2025/02/27 12:46:04 ET]
+Table '3861391559 121' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (38549 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (23060 in chips, $2.45 bounty) 
+Seat 3: forplayy (24385 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23887 in chips, $2.45 bounty) 
+Seat 5: zorra312 (16936 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (26251 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (29685 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (17422 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 40
+jokeizitos: posts the ante 40
+forplayy: posts the ante 40
+FehVitor#PQD: posts the ante 40
+zorra312: posts the ante 40
+17QueenBee17: posts the ante 40
+DVA-31: posts the ante 40
+AkkuRat11: posts the ante 40
+Kevin12345Mc: posts small blind 150
+jokeizitos: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Qh]
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+17QueenBee17: folds 
+DVA-31: raises 450 to 750
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+jokeizitos: calls 450
+*** FLOP *** [Kc 3s Tc]
+jokeizitos: checks 
+DVA-31: bets 650
+jokeizitos: folds 
+Uncalled bet (650) returned to DVA-31
+DVA-31 collected 1970 from pot
+DVA-31: doesn't show hand 
+*** SUMMARY ***
+Total pot 1970 | Rake 0 
+Board [Kc 3s Tc]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: jokeizitos (big blind) folded on the Flop
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: 17QueenBee17 folded before Flop (didn't bet)
+Seat 7: DVA-31 collected (1970)
+Seat 8: AkkuRat11 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060923783: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/27 17:46:39 WET [2025/02/27 12:46:39 ET]
+Table '3861391559 121' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (38359 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (22270 in chips, $2.45 bounty) 
+Seat 3: forplayy (24345 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23847 in chips, $2.45 bounty) 
+Seat 5: zorra312 (16896 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (26211 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30865 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (17382 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 40
+jokeizitos: posts the ante 40
+forplayy: posts the ante 40
+FehVitor#PQD: posts the ante 40
+zorra312: posts the ante 40
+17QueenBee17: posts the ante 40
+DVA-31: posts the ante 40
+AkkuRat11: posts the ante 40
+jokeizitos: posts small blind 150
+forplayy: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 2c]
+FehVitor#PQD: folds 
+zorra312: folds 
+17QueenBee17: folds 
+DVA-31: folds 
+AkkuRat11: folds 
+Kevin12345Mc: raises 390 to 690
+jokeizitos: raises 1560 to 2250
+forplayy: folds 
+Kevin12345Mc: folds 
+Uncalled bet (1560) returned to jokeizitos
+jokeizitos collected 2000 from pot
+jokeizitos: doesn't show hand 
+*** SUMMARY ***
+Total pot 2000 | Rake 0 
+Seat 1: Kevin12345Mc (button) folded before Flop
+Seat 2: jokeizitos (small blind) collected (2000)
+Seat 3: forplayy (big blind) folded before Flop
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: 17QueenBee17 folded before Flop (didn't bet)
+Seat 7: DVA-31 folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060934724: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/27 17:47:23 WET [2025/02/27 12:47:23 ET]
+Table '3861391559 121' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (37629 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (23540 in chips, $2.45 bounty) 
+Seat 3: forplayy (24005 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23807 in chips, $2.45 bounty) 
+Seat 5: zorra312 (16856 in chips, $2.45 bounty) 
+Seat 6: 17QueenBee17 (26171 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30825 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (17342 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 40
+jokeizitos: posts the ante 40
+forplayy: posts the ante 40
+FehVitor#PQD: posts the ante 40
+zorra312: posts the ante 40
+17QueenBee17: posts the ante 40
+DVA-31: posts the ante 40
+AkkuRat11: posts the ante 40
+forplayy: posts small blind 150
+FehVitor#PQD: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 8s]
+zorra312: folds 
+17QueenBee17: folds 
+DVA-31: folds 
+AkkuRat11: calls 300
+Kevin12345Mc: folds 
+jokeizitos: folds 
+forplayy: calls 150
+FehVitor#PQD: checks 
+*** FLOP *** [6h 2h 7c]
+forplayy: checks 
+FehVitor#PQD: checks 
+AkkuRat11: bets 300
+forplayy: calls 300
+FehVitor#PQD: folds 
+*** TURN *** [6h 2h 7c] [Qd]
+forplayy: checks 
+AkkuRat11: checks 
+*** RIVER *** [6h 2h 7c Qd] [5s]
+forplayy: checks 
+AkkuRat11: checks 
+*** SHOW DOWN ***
+forplayy: shows [Tc 8c] (high card Queen)
+AkkuRat11: shows [9h 6s] (a pair of Sixes)
+AkkuRat11 collected 1820 from pot
+*** SUMMARY ***
+Total pot 1820 | Rake 0 
+Board [6h 2h 7c Qd 5s]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: jokeizitos (button) folded before Flop (didn't bet)
+Seat 3: forplayy (small blind) showed [Tc 8c] and lost with high card Queen
+Seat 4: FehVitor#PQD (big blind) folded on the Flop
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: 17QueenBee17 folded before Flop (didn't bet)
+Seat 7: DVA-31 folded before Flop (didn't bet)
+Seat 8: AkkuRat11 showed [9h 6s] and won (1820) with a pair of Sixes
+
+
+
+PokerStars Hand #255060958039: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/27 17:48:59 WET [2025/02/27 12:48:59 ET]
+Table '3861391559 121' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (37589 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (23500 in chips, $2.45 bounty) 
+Seat 3: forplayy (23365 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23467 in chips, $2.45 bounty) 
+Seat 5: zorra312 (16816 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30785 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (18522 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 40
+jokeizitos: posts the ante 40
+forplayy: posts the ante 40
+FehVitor#PQD: posts the ante 40
+zorra312: posts the ante 40
+DVA-31: posts the ante 40
+AkkuRat11: posts the ante 40
+FehVitor#PQD: posts small blind 150
+zorra312: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 7h]
+DVA-31: folds 
+AkkuRat11: calls 300
+Kevin12345Mc: folds 
+jokeizitos: raises 600 to 900
+forplayy: calls 900
+FehVitor#PQD: folds 
+zorra312: calls 600
+AkkuRat11: calls 600
+*** FLOP *** [Ts 7c 8h]
+zorra312: checks 
+AkkuRat11: checks 
+jokeizitos: checks 
+forplayy: checks 
+*** TURN *** [Ts 7c 8h] [8d]
+zorra312: bets 2400
+AkkuRat11: folds 
+jokeizitos: calls 2400
+forplayy: folds 
+*** RIVER *** [Ts 7c 8h 8d] [2h]
+zorra312: bets 13476 and is all-in
+jokeizitos: calls 13476
+*** SHOW DOWN ***
+zorra312: shows [Ah Th] (two pair, Tens and Eights)
+jokeizitos: shows [Jd Td] (two pair, Tens and Eights - lower kicker)
+zorra312 collected 35782 from pot
+*** SUMMARY ***
+Total pot 35782 | Rake 0 
+Board [Ts 7c 8h 8d 2h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: jokeizitos showed [Jd Td] and lost with two pair, Tens and Eights
+Seat 3: forplayy (button) folded on the Turn
+Seat 4: FehVitor#PQD (small blind) folded before Flop
+Seat 5: zorra312 (big blind) showed [Ah Th] and won (35782) with two pair, Tens and Eights
+Seat 7: DVA-31 folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded on the Turn
+
+
+
+PokerStars Hand #255060989891: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/27 17:51:12 WET [2025/02/27 12:51:12 ET]
+Table '3861391559 121' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (37549 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (6684 in chips, $2.45 bounty) 
+Seat 3: forplayy (22425 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23277 in chips, $2.45 bounty) 
+Seat 5: zorra312 (35782 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (25000 in chips, $2.45 bounty) 
+Seat 7: DVA-31 (30745 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (17582 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 40
+jokeizitos: posts the ante 40
+forplayy: posts the ante 40
+FehVitor#PQD: posts the ante 40
+zorra312: posts the ante 40
+Macduf1: posts the ante 40
+DVA-31: posts the ante 40
+AkkuRat11: posts the ante 40
+zorra312: posts small blind 150
+Macduf1: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 7c]
+DVA-31: raises 300 to 600
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+jokeizitos: raises 6044 to 6644 and is all-in
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: folds 
+DVA-31: calls 6044
+*** FLOP *** [4s Ah 8h]
+*** TURN *** [4s Ah 8h] [5h]
+*** RIVER *** [4s Ah 8h 5h] [4c]
+*** SHOW DOWN ***
+DVA-31: shows [9s 9d] (two pair, Nines and Fours)
+jokeizitos: shows [Jd As] (two pair, Aces and Fours)
+jokeizitos collected 14058 from pot
+*** SUMMARY ***
+Total pot 14058 | Rake 0 
+Board [4s Ah 8h 5h 4c]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: jokeizitos showed [Jd As] and won (14058) with two pair, Aces and Fours
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD (button) folded before Flop (didn't bet)
+Seat 5: zorra312 (small blind) folded before Flop
+Seat 6: Macduf1 (big blind) folded before Flop
+Seat 7: DVA-31 showed [9s 9d] and lost with two pair, Nines and Fours
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061001655: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/27 17:52:01 WET [2025/02/27 12:52:01 ET]
+Table '3861391559 121' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (37509 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (14058 in chips, $2.45 bounty) 
+Seat 3: forplayy (22385 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23237 in chips, $2.45 bounty) 
+Seat 5: zorra312 (35592 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (24660 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (17542 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 40
+jokeizitos: posts the ante 40
+forplayy: posts the ante 40
+FehVitor#PQD: posts the ante 40
+zorra312: posts the ante 40
+Macduf1: posts the ante 40
+AkkuRat11: posts the ante 40
+Macduf1: posts small blind 150
+AkkuRat11: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 8h]
+Kevin12345Mc: folds 
+jokeizitos: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: raises 300 to 600
+Macduf1: folds 
+AkkuRat11: folds 
+Uncalled bet (300) returned to zorra312
+zorra312 collected 1030 from pot
+zorra312: doesn't show hand 
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: jokeizitos folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 (button) collected (1030)
+Seat 6: Macduf1 (small blind) folded before Flop
+Seat 8: AkkuRat11 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255061008574: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/27 17:52:29 WET [2025/02/27 12:52:29 ET]
+Table '3861391559 121' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (37469 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (14018 in chips, $2.45 bounty) 
+Seat 3: forplayy (22345 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23197 in chips, $2.45 bounty) 
+Seat 5: zorra312 (36282 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (24470 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (17202 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 40
+jokeizitos: posts the ante 40
+forplayy: posts the ante 40
+FehVitor#PQD: posts the ante 40
+zorra312: posts the ante 40
+Macduf1: posts the ante 40
+AkkuRat11: posts the ante 40
+AkkuRat11: posts small blind 150
+Kevin12345Mc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 8s]
+jokeizitos: raises 300 to 600
+forplayy: folds 
+mr.rothko is disconnected 
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: calls 600
+AkkuRat11: calls 450
+Kevin12345Mc: calls 300
+*** FLOP *** [Kc 7d Jh]
+AkkuRat11: bets 300
+Kevin12345Mc: folds 
+jokeizitos: calls 300
+Macduf1: folds 
+*** TURN *** [Kc 7d Jh] [As]
+AkkuRat11: checks 
+jokeizitos: bets 1650
+AkkuRat11: folds 
+Uncalled bet (1650) returned to jokeizitos
+jokeizitos collected 3280 from pot
+jokeizitos: doesn't show hand 
+*** SUMMARY ***
+Total pot 3280 | Rake 0 
+Board [Kc 7d Jh As]
+Seat 1: Kevin12345Mc (big blind) folded on the Flop
+Seat 2: jokeizitos collected (3280)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 (button) folded on the Flop
+Seat 8: AkkuRat11 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #255061020996: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/27 17:53:21 WET [2025/02/27 12:53:21 ET]
+Table '3861391559 121' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (36829 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (16358 in chips, $2.45 bounty) 
+Seat 3: forplayy (22305 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23157 in chips, $2.45 bounty) 
+Seat 5: zorra312 (36242 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (23830 in chips, $2.45 bounty) 
+Seat 7: mr.rothko (25000 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (16262 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 40
+jokeizitos: posts the ante 40
+forplayy: posts the ante 40
+FehVitor#PQD: posts the ante 40
+zorra312: posts the ante 40
+Macduf1: posts the ante 40
+mr.rothko: posts the ante 40
+AkkuRat11: posts the ante 40
+Kevin12345Mc: posts small blind 150
+jokeizitos: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts As]
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: folds 
+mr.rothko: folds 
+AkkuRat11: calls 300
+Kevin12345Mc: raises 990 to 1290
+jokeizitos: folds 
+AkkuRat11: folds 
+Uncalled bet (990) returned to Kevin12345Mc
+Kevin12345Mc collected 1220 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1220 | Rake 0 
+Seat 1: Kevin12345Mc (small blind) collected (1220)
+Seat 2: jokeizitos (big blind) folded before Flop
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 folded before Flop (didn't bet)
+Seat 7: mr.rothko folded before Flop (didn't bet)
+Seat 8: AkkuRat11 (button) folded before Flop
+
+
+
+PokerStars Hand #255061032877: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/27 17:54:11 WET [2025/02/27 12:54:11 ET]
+Table '3861391559 121' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (37709 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (16018 in chips, $2.45 bounty) 
+Seat 3: forplayy (22265 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23117 in chips, $2.45 bounty) 
+Seat 5: zorra312 (36202 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (23790 in chips, $2.45 bounty) 
+Seat 7: mr.rothko (24960 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (15922 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 50
+jokeizitos: posts the ante 50
+forplayy: posts the ante 50
+FehVitor#PQD: posts the ante 50
+zorra312: posts the ante 50
+Macduf1: posts the ante 50
+mr.rothko: posts the ante 50
+AkkuRat11: posts the ante 50
+jokeizitos: posts small blind 175
+forplayy: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 3s]
+FehVitor#PQD: folds 
+zorra312: raises 350 to 700
+Macduf1: folds 
+mr.rothko: calls 700
+AkkuRat11: calls 700
+Kevin12345Mc: folds 
+jokeizitos: folds 
+forplayy: folds 
+*** FLOP *** [Th 7h 5h]
+zorra312: checks 
+mr.rothko: checks 
+AkkuRat11: bets 350
+zorra312: folds 
+mr.rothko: folds 
+Uncalled bet (350) returned to AkkuRat11
+AkkuRat11 collected 3025 from pot
+*** SUMMARY ***
+Total pot 3025 | Rake 0 
+Board [Th 7h 5h]
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: jokeizitos (small blind) folded before Flop
+Seat 3: forplayy (big blind) folded before Flop
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded on the Flop
+Seat 6: Macduf1 folded before Flop (didn't bet)
+Seat 7: mr.rothko folded on the Flop
+Seat 8: AkkuRat11 collected (3025)
+
+
+
+PokerStars Hand #255061042897: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/27 17:54:52 WET [2025/02/27 12:54:52 ET]
+Table '3861391559 121' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (37659 in chips, $2.45 bounty) 
+Seat 2: jokeizitos (15793 in chips, $2.45 bounty) 
+Seat 3: forplayy (21865 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (23067 in chips, $2.45 bounty) 
+Seat 5: zorra312 (35452 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (23740 in chips, $2.45 bounty) 
+Seat 7: mr.rothko (24210 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (18197 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 50
+jokeizitos: posts the ante 50
+forplayy: posts the ante 50
+FehVitor#PQD: posts the ante 50
+zorra312: posts the ante 50
+Macduf1: posts the ante 50
+mr.rothko: posts the ante 50
+AkkuRat11: posts the ante 50
+forplayy: posts small blind 175
+FehVitor#PQD: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac Qh]
+zorra312: folds 
+Macduf1: raises 350 to 700
+mr.rothko: raises 1575 to 2275
+AkkuRat11: calls 2275
+Kevin12345Mc: folds 
+jokeizitos: raises 13468 to 15743 and is all-in
+forplayy: folds 
+FehVitor#PQD: folds 
+Macduf1: calls 15043
+mr.rothko: raises 8417 to 24160 and is all-in
+AkkuRat11: folds 
+Macduf1: calls 7947 and is all-in
+Uncalled bet (470) returned to mr.rothko
+*** FLOP *** [4c 5h 9d]
+*** TURN *** [4c 5h 9d] [Tc]
+*** RIVER *** [4c 5h 9d Tc] [Ad]
+*** SHOW DOWN ***
+Macduf1: shows [Th Td] (three of a kind, Tens)
+mr.rothko: shows [Jh Jc] (a pair of Jacks)
+Macduf1 collected 15894 from side pot
+jokeizitos: shows [Ks Kd] (a pair of Kings)
+Macduf1 collected 50429 from main pot
+Macduf1 wins $1.23 for eliminating jokeizitos and their own bounty increases by $1.22 to $3.67
+jokeizitos finished the tournament
+*** SUMMARY ***
+Total pot 66323 Main pot 50429. Side pot 15894. | Rake 0 
+Board [4c 5h 9d Tc Ad]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: jokeizitos (button) showed [Ks Kd] and lost with a pair of Kings
+Seat 3: forplayy (small blind) folded before Flop
+Seat 4: FehVitor#PQD (big blind) folded before Flop
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 showed [Th Td] and won (66323) with three of a kind, Tens
+Seat 7: mr.rothko showed [Jh Jc] and lost with a pair of Jacks
+Seat 8: AkkuRat11 folded before Flop
+
+
+
+PokerStars Hand #255061135451: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/27 18:02:45 WET [2025/02/27 13:02:45 ET]
+Table '3861391559 121' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (37609 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (25000 in chips, $2.45 bounty) 
+Seat 3: forplayy (21640 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (22667 in chips, $2.45 bounty) 
+Seat 5: zorra312 (35402 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (66323 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (470 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (15872 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 50
+mastervp888: posts the ante 50
+forplayy: posts the ante 50
+FehVitor#PQD: posts the ante 50
+zorra312: posts the ante 50
+Macduf1: posts the ante 50
+mr.rothko: posts the ante 50
+AkkuRat11: posts the ante 50
+FehVitor#PQD: posts small blind 175
+zorra312: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 9h]
+Macduf1: raises 350 to 700
+mr.rothko: calls 420 and is all-in
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+mastervp888: calls 700
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312 has timed out
+zorra312: folds 
+zorra312 is sitting out
+*** FLOP *** [2c Ks 6d]
+zorra312 has returned
+Macduf1: checks 
+mastervp888: checks 
+*** TURN *** [2c Ks 6d] [Jd]
+Macduf1: checks 
+mastervp888: checks 
+*** RIVER *** [2c Ks 6d Jd] [8c]
+Macduf1: checks 
+mastervp888: checks 
+*** SHOW DOWN ***
+Macduf1: shows [Td Ac] (high card Ace)
+mastervp888: shows [Ad 2s] (a pair of Deuces)
+mastervp888 collected 560 from side pot
+mr.rothko: shows [Qh 8d] (a pair of Eights)
+mr.rothko collected 2185 from main pot
+*** SUMMARY ***
+Total pot 2745 Main pot 2185. Side pot 560. | Rake 0 
+Board [2c Ks 6d Jd 8c]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: mastervp888 showed [Ad 2s] and won (560) with a pair of Deuces
+Seat 3: forplayy (button) folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD (small blind) folded before Flop
+Seat 5: zorra312 (big blind) folded before Flop
+Seat 6: Macduf1 showed [Td Ac] and lost with high card Ace
+Seat 7: mr.rothko showed [Qh 8d] and won (2185) with a pair of Eights
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061166242: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/27 18:04:50 WET [2025/02/27 13:04:50 ET]
+Table '3861391559 121' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (37559 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (24810 in chips, $2.45 bounty) 
+Seat 3: forplayy (21590 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (22442 in chips, $2.45 bounty) 
+Seat 5: zorra312 (35002 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (65573 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (2185 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (15822 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 50
+mastervp888: posts the ante 50
+forplayy: posts the ante 50
+FehVitor#PQD: posts the ante 50
+zorra312: posts the ante 50
+Macduf1: posts the ante 50
+mr.rothko: posts the ante 50
+AkkuRat11: posts the ante 50
+zorra312: posts small blind 175
+Macduf1: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 2d]
+mr.rothko: calls 350
+AkkuRat11: calls 350
+Kevin12345Mc: folds 
+mastervp888: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: checks 
+*** FLOP *** [Kh 9c Jh]
+Macduf1: checks 
+mr.rothko: bets 536
+AkkuRat11: folds 
+Macduf1: calls 536
+*** TURN *** [Kh 9c Jh] [Qc]
+Macduf1: checks 
+mr.rothko: bets 1249 and is all-in
+Macduf1: calls 1249
+*** RIVER *** [Kh 9c Jh Qc] [5c]
+*** SHOW DOWN ***
+Macduf1: shows [Ah 8h] (high card Ace)
+mr.rothko: shows [8s Td] (a straight, Nine to King)
+mr.rothko collected 5195 from pot
+*** SUMMARY ***
+Total pot 5195 | Rake 0 
+Board [Kh 9c Jh Qc 5c]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: mastervp888 folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD (button) folded before Flop (didn't bet)
+Seat 5: zorra312 (small blind) folded before Flop
+Seat 6: Macduf1 (big blind) showed [Ah 8h] and lost with high card Ace
+Seat 7: mr.rothko showed [8s Td] and won (5195) with a straight, Nine to King
+Seat 8: AkkuRat11 folded on the Flop
+
+
+
+PokerStars Hand #255061185320: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/27 18:06:06 WET [2025/02/27 13:06:06 ET]
+Table '3861391559 121' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (37509 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (24760 in chips, $2.45 bounty) 
+Seat 3: forplayy (21540 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (22392 in chips, $2.45 bounty) 
+Seat 5: zorra312 (34777 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (63388 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (5195 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (15422 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 50
+mastervp888: posts the ante 50
+forplayy: posts the ante 50
+FehVitor#PQD: posts the ante 50
+zorra312: posts the ante 50
+Macduf1: posts the ante 50
+mr.rothko: posts the ante 50
+AkkuRat11: posts the ante 50
+Macduf1: posts small blind 175
+mr.rothko: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 6d]
+AkkuRat11: folds 
+Kevin12345Mc: raises 525 to 875
+mastervp888: folds 
+forplayy: folds 
+FehVitor#PQD: calls 875
+zorra312: folds 
+Macduf1: calls 700
+mr.rothko: calls 525
+*** FLOP *** [2s Td 8d]
+Macduf1: bets 2925
+mr.rothko: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: raises 2925 to 5850
+Macduf1: calls 2925
+*** TURN *** [2s Td 8d] [Tc]
+Macduf1: checks 
+FehVitor#PQD: checks 
+*** RIVER *** [2s Td 8d Tc] [6s]
+Macduf1: bets 16800
+FehVitor#PQD: calls 15617 and is all-in
+Uncalled bet (1183) returned to Macduf1
+*** SHOW DOWN ***
+Macduf1: shows [9s Th] (three of a kind, Tens)
+FehVitor#PQD: shows [Ts Ks] (three of a kind, Tens - King kicker)
+FehVitor#PQD collected 46834 from pot
+*** SUMMARY ***
+Total pot 46834 | Rake 0 
+Board [2s Td 8d Tc 6s]
+Seat 1: Kevin12345Mc folded on the Flop
+Seat 2: mastervp888 folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD showed [Ts Ks] and won (46834) with three of a kind, Tens
+Seat 5: zorra312 (button) folded before Flop (didn't bet)
+Seat 6: Macduf1 (small blind) showed [9s Th] and lost with three of a kind, Tens
+Seat 7: mr.rothko (big blind) folded on the Flop
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061208402: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/27 18:07:38 WET [2025/02/27 13:07:38 ET]
+Table '3861391559 121' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (36584 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (24710 in chips, $2.45 bounty) 
+Seat 3: forplayy (21490 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (46834 in chips, $2.45 bounty) 
+Seat 5: zorra312 (34727 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (40996 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (4270 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (15372 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 50
+mastervp888: posts the ante 50
+forplayy: posts the ante 50
+FehVitor#PQD: posts the ante 50
+zorra312: posts the ante 50
+Macduf1: posts the ante 50
+mr.rothko: posts the ante 50
+AkkuRat11: posts the ante 50
+mr.rothko: posts small blind 175
+AkkuRat11: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 9s]
+Kevin12345Mc: folds 
+mastervp888: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: folds 
+mr.rothko: calls 175
+AkkuRat11: checks 
+*** FLOP *** [9c Ah Kh]
+mr.rothko: bets 350
+AkkuRat11: folds 
+Uncalled bet (350) returned to mr.rothko
+mr.rothko collected 1100 from pot
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [9c Ah Kh]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: mastervp888 folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 (button) folded before Flop (didn't bet)
+Seat 7: mr.rothko (small blind) collected (1100)
+Seat 8: AkkuRat11 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255061216988: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/27 18:08:13 WET [2025/02/27 13:08:13 ET]
+Table '3861391559 121' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (36534 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (24660 in chips, $2.45 bounty) 
+Seat 3: forplayy (21440 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (46784 in chips, $2.45 bounty) 
+Seat 5: zorra312 (34677 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (40946 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (4970 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (14972 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 50
+mastervp888: posts the ante 50
+forplayy: posts the ante 50
+FehVitor#PQD: posts the ante 50
+zorra312: posts the ante 50
+Macduf1: posts the ante 50
+mr.rothko: posts the ante 50
+AkkuRat11: posts the ante 50
+AkkuRat11: posts small blind 175
+Kevin12345Mc: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Js]
+mastervp888: folds 
+forplayy: raises 525 to 875
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: folds 
+mr.rothko: folds 
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+Uncalled bet (525) returned to forplayy
+forplayy collected 1275 from pot
+forplayy: doesn't show hand 
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Seat 1: Kevin12345Mc (big blind) folded before Flop
+Seat 2: mastervp888 folded before Flop (didn't bet)
+Seat 3: forplayy collected (1275)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 folded before Flop (didn't bet)
+Seat 7: mr.rothko (button) folded before Flop (didn't bet)
+Seat 8: AkkuRat11 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255061221268: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/27 18:08:30 WET [2025/02/27 13:08:30 ET]
+Table '3861391559 121' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (36134 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (24610 in chips, $2.45 bounty) 
+Seat 3: forplayy (22315 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (46734 in chips, $2.45 bounty) 
+Seat 5: zorra312 (34627 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (40896 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (4920 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (14747 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 50
+mastervp888: posts the ante 50
+forplayy: posts the ante 50
+FehVitor#PQD: posts the ante 50
+zorra312: posts the ante 50
+Macduf1: posts the ante 50
+mr.rothko: posts the ante 50
+AkkuRat11: posts the ante 50
+Kevin12345Mc: posts small blind 175
+mastervp888: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 2c]
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: raises 350 to 700
+Macduf1: folds 
+mr.rothko: folds 
+AkkuRat11 has timed out
+AkkuRat11: folds 
+AkkuRat11 is sitting out
+Kevin12345Mc: folds 
+mastervp888: calls 350
+*** FLOP *** [9h 8h 8c]
+mastervp888: checks 
+AkkuRat11 has returned
+zorra312: checks 
+*** TURN *** [9h 8h 8c] [5d]
+mastervp888: bets 1481
+zorra312: folds 
+Uncalled bet (1481) returned to mastervp888
+mastervp888 collected 1975 from pot
+mastervp888: doesn't show hand 
+*** SUMMARY ***
+Total pot 1975 | Rake 0 
+Board [9h 8h 8c 5d]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: mastervp888 (big blind) collected (1975)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded on the Turn
+Seat 6: Macduf1 folded before Flop (didn't bet)
+Seat 7: mr.rothko folded before Flop (didn't bet)
+Seat 8: AkkuRat11 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061253372: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/27 18:10:36 WET [2025/02/27 13:10:36 ET]
+Table '3861391559 121' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (35909 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (25835 in chips, $2.45 bounty) 
+Seat 3: forplayy (22265 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (46684 in chips, $2.45 bounty) 
+Seat 5: zorra312 (33877 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (40846 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (4870 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (14697 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 60
+mastervp888: posts the ante 60
+forplayy: posts the ante 60
+FehVitor#PQD: posts the ante 60
+zorra312: posts the ante 60
+Macduf1: posts the ante 60
+mr.rothko: posts the ante 60
+AkkuRat11: posts the ante 60
+mastervp888: posts small blind 200
+forplayy: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 6s]
+FehVitor#PQD: raises 400 to 800
+zorra312: folds 
+Macduf1: folds 
+mr.rothko: folds 
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+mastervp888: calls 600
+forplayy: folds 
+*** FLOP *** [Td Js 7s]
+mastervp888: checks 
+FehVitor#PQD: bets 818
+mastervp888: calls 818
+*** TURN *** [Td Js 7s] [8h]
+mastervp888: bets 2287
+FehVitor#PQD: folds 
+Uncalled bet (2287) returned to mastervp888
+mastervp888 collected 4116 from pot
+mastervp888: doesn't show hand 
+*** SUMMARY ***
+Total pot 4116 | Rake 0 
+Board [Td Js 7s 8h]
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: mastervp888 (small blind) collected (4116)
+Seat 3: forplayy (big blind) folded before Flop
+Seat 4: FehVitor#PQD folded on the Turn
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 folded before Flop (didn't bet)
+Seat 7: mr.rothko folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061276058: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/27 18:12:05 WET [2025/02/27 13:12:05 ET]
+Table '3861391559 121' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (35849 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (28273 in chips, $2.45 bounty) 
+Seat 3: forplayy (21805 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (45006 in chips, $2.45 bounty) 
+Seat 5: zorra312 (33817 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (40786 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (4810 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (14637 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 60
+mastervp888: posts the ante 60
+forplayy: posts the ante 60
+FehVitor#PQD: posts the ante 60
+zorra312: posts the ante 60
+Macduf1: posts the ante 60
+mr.rothko: posts the ante 60
+AkkuRat11: posts the ante 60
+forplayy: posts small blind 200
+FehVitor#PQD: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 6d]
+zorra312: folds 
+Macduf1: calls 400
+mr.rothko: folds 
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+mastervp888: raises 1000 to 1400
+forplayy: folds 
+FehVitor#PQD: folds 
+Macduf1: calls 1000
+*** FLOP *** [9s 7d Qc]
+Macduf1: checks 
+mastervp888: bets 1280
+Macduf1: calls 1280
+*** TURN *** [9s 7d Qc] [Tc]
+Macduf1: checks 
+mastervp888: checks 
+*** RIVER *** [9s 7d Qc Tc] [Qd]
+Macduf1: checks 
+mastervp888: checks 
+*** SHOW DOWN ***
+Macduf1: shows [5s 5h] (two pair, Queens and Fives)
+mastervp888: mucks hand 
+Macduf1 collected 6440 from pot
+*** SUMMARY ***
+Total pot 6440 | Rake 0 
+Board [9s 7d Qc Tc Qd]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: mastervp888 (button) mucked [Ad 6c]
+Seat 3: forplayy (small blind) folded before Flop
+Seat 4: FehVitor#PQD (big blind) folded before Flop
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 showed [5s 5h] and won (6440) with two pair, Queens and Fives
+Seat 7: mr.rothko folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061300111: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/27 18:13:39 WET [2025/02/27 13:13:39 ET]
+Table '3861391559 121' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (35789 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (25533 in chips, $2.45 bounty) 
+Seat 3: forplayy (21545 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (44546 in chips, $2.45 bounty) 
+Seat 5: zorra312 (33757 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (44486 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (4750 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (14577 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 60
+mastervp888: posts the ante 60
+forplayy: posts the ante 60
+FehVitor#PQD: posts the ante 60
+zorra312: posts the ante 60
+Macduf1: posts the ante 60
+mr.rothko: posts the ante 60
+AkkuRat11: posts the ante 60
+FehVitor#PQD: posts small blind 200
+zorra312: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Td]
+Macduf1: folds 
+mr.rothko: folds 
+AkkuRat11: calls 400
+Kevin12345Mc: folds 
+mastervp888: folds 
+forplayy: folds 
+FehVitor#PQD: raises 2000 to 2400
+zorra312: folds 
+AkkuRat11: calls 2000
+*** FLOP *** [Kh 9d 5s]
+FehVitor#PQD: bets 1874
+AkkuRat11 has timed out
+AkkuRat11: folds 
+AkkuRat11 is sitting out
+Uncalled bet (1874) returned to FehVitor#PQD
+FehVitor#PQD collected 5680 from pot
+FehVitor#PQD: doesn't show hand 
+AkkuRat11 has returned
+*** SUMMARY ***
+Total pot 5680 | Rake 0 
+Board [Kh 9d 5s]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: mastervp888 folded before Flop (didn't bet)
+Seat 3: forplayy (button) folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD (small blind) collected (5680)
+Seat 5: zorra312 (big blind) folded before Flop
+Seat 6: Macduf1 folded before Flop (didn't bet)
+Seat 7: mr.rothko folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded on the Flop
+
+
+
+PokerStars Hand #255061317786: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/27 18:14:48 WET [2025/02/27 13:14:48 ET]
+Table '3861391559 121' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (35729 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (25473 in chips, $2.45 bounty) 
+Seat 3: forplayy (21485 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (47766 in chips, $2.45 bounty) 
+Seat 5: zorra312 (33297 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (44426 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (4690 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (12117 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 60
+mastervp888: posts the ante 60
+forplayy: posts the ante 60
+FehVitor#PQD: posts the ante 60
+zorra312: posts the ante 60
+Macduf1: posts the ante 60
+mr.rothko: posts the ante 60
+AkkuRat11: posts the ante 60
+zorra312: posts small blind 200
+Macduf1: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s As]
+mr.rothko: folds 
+AkkuRat11 has timed out
+AkkuRat11: folds 
+AkkuRat11 is sitting out
+AkkuRat11 has returned
+Kevin12345Mc: raises 520 to 920
+mastervp888: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: calls 520
+*** FLOP *** [8h 7d 6h]
+Macduf1: checks 
+Kevin12345Mc: checks 
+*** TURN *** [8h 7d 6h] [2c]
+Macduf1: bets 1890
+Kevin12345Mc: folds 
+Uncalled bet (1890) returned to Macduf1
+Macduf1 collected 2520 from pot
+*** SUMMARY ***
+Total pot 2520 | Rake 0 
+Board [8h 7d 6h 2c]
+Seat 1: Kevin12345Mc folded on the Turn
+Seat 2: mastervp888 folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD (button) folded before Flop (didn't bet)
+Seat 5: zorra312 (small blind) folded before Flop
+Seat 6: Macduf1 (big blind) collected (2520)
+Seat 7: mr.rothko folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061330897: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/27 18:15:39 WET [2025/02/27 13:15:39 ET]
+Table '3861391559 121' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (34749 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (25413 in chips, $2.45 bounty) 
+Seat 3: forplayy (21425 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (47706 in chips, $2.45 bounty) 
+Seat 5: zorra312 (33037 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (45966 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (4630 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (12057 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 60
+mastervp888: posts the ante 60
+forplayy: posts the ante 60
+FehVitor#PQD: posts the ante 60
+zorra312: posts the ante 60
+Macduf1: posts the ante 60
+mr.rothko: posts the ante 60
+AkkuRat11: posts the ante 60
+Macduf1: posts small blind 200
+mr.rothko: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 8h]
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+mastervp888: raises 480 to 880
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: calls 680
+mr.rothko: calls 480
+*** FLOP *** [6h 4s Js]
+Macduf1: checks 
+mr.rothko: checks 
+mastervp888: checks 
+*** TURN *** [6h 4s Js] [9d]
+Macduf1: checks 
+mr.rothko: checks 
+mastervp888: bets 1940
+Macduf1: folds 
+mr.rothko: folds 
+Uncalled bet (1940) returned to mastervp888
+mastervp888 collected 3120 from pot
+mastervp888: doesn't show hand 
+*** SUMMARY ***
+Total pot 3120 | Rake 0 
+Board [6h 4s Js 9d]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: mastervp888 collected (3120)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 (button) folded before Flop (didn't bet)
+Seat 6: Macduf1 (small blind) folded on the Turn
+Seat 7: mr.rothko (big blind) folded on the Turn
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061353377: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/27 18:17:07 WET [2025/02/27 13:17:07 ET]
+Table '3861391559 121' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (34689 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (27593 in chips, $2.45 bounty) 
+Seat 3: forplayy (21365 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (47646 in chips, $2.45 bounty) 
+Seat 5: zorra312 (32977 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (45026 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (3690 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (11997 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 60
+mastervp888: posts the ante 60
+forplayy: posts the ante 60
+FehVitor#PQD: posts the ante 60
+zorra312: posts the ante 60
+Macduf1: posts the ante 60
+mr.rothko: posts the ante 60
+AkkuRat11: posts the ante 60
+mr.rothko: posts small blind 200
+AkkuRat11: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 9s]
+Kevin12345Mc: folds 
+mastervp888: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: calls 400
+mr.rothko: folds 
+AkkuRat11: checks 
+*** FLOP *** [Jd 5s 4s]
+AkkuRat11: checks 
+Macduf1: bets 1110
+AkkuRat11: folds 
+Uncalled bet (1110) returned to Macduf1
+Macduf1 collected 1480 from pot
+*** SUMMARY ***
+Total pot 1480 | Rake 0 
+Board [Jd 5s 4s]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: mastervp888 folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 (button) collected (1480)
+Seat 7: mr.rothko (small blind) folded before Flop
+Seat 8: AkkuRat11 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255061363232: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/27 18:17:45 WET [2025/02/27 13:17:45 ET]
+Table '3861391559 121' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (34629 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (27533 in chips, $2.45 bounty) 
+Seat 3: forplayy (21305 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (47586 in chips, $2.45 bounty) 
+Seat 5: zorra312 (32917 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (46046 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (3430 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (11537 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 70
+mastervp888: posts the ante 70
+forplayy: posts the ante 70
+FehVitor#PQD: posts the ante 70
+zorra312: posts the ante 70
+Macduf1: posts the ante 70
+mr.rothko: posts the ante 70
+AkkuRat11: posts the ante 70
+AkkuRat11: posts small blind 250
+Kevin12345Mc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Ah]
+mastervp888: folds 
+forplayy: folds 
+FehVitor#PQD: raises 500 to 1000
+zorra312: folds 
+Macduf1: folds 
+mr.rothko: folds 
+AkkuRat11: folds 
+Kevin12345Mc: calls 500
+*** FLOP *** [Ad Td 3c]
+Kevin12345Mc: checks 
+FehVitor#PQD: bets 927
+Kevin12345Mc: calls 927
+*** TURN *** [Ad Td 3c] [Kh]
+Kevin12345Mc: checks 
+FehVitor#PQD: checks 
+*** RIVER *** [Ad Td 3c Kh] [9d]
+Kevin12345Mc: checks 
+FehVitor#PQD: bets 1539
+Kevin12345Mc: calls 1539
+*** SHOW DOWN ***
+FehVitor#PQD: shows [As Qc] (a pair of Aces)
+Kevin12345Mc: mucks hand 
+FehVitor#PQD collected 7742 from pot
+*** SUMMARY ***
+Total pot 7742 | Rake 0 
+Board [Ad Td 3c Kh 9d]
+Seat 1: Kevin12345Mc (big blind) mucked [5d Ah]
+Seat 2: mastervp888 folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD showed [As Qc] and won (7742) with a pair of Aces
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 folded before Flop (didn't bet)
+Seat 7: mr.rothko (button) folded before Flop (didn't bet)
+Seat 8: AkkuRat11 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255061385605: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/27 18:19:13 WET [2025/02/27 13:19:13 ET]
+Table '3861391559 121' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (31093 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (27463 in chips, $2.45 bounty) 
+Seat 3: forplayy (21235 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (51792 in chips, $2.45 bounty) 
+Seat 5: zorra312 (32847 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (45976 in chips, $3.67 bounty) 
+Seat 7: mr.rothko (3360 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (11217 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 70
+mastervp888: posts the ante 70
+forplayy: posts the ante 70
+FehVitor#PQD: posts the ante 70
+zorra312: posts the ante 70
+Macduf1: posts the ante 70
+mr.rothko: posts the ante 70
+AkkuRat11: posts the ante 70
+Kevin12345Mc: posts small blind 250
+mastervp888: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Ac]
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: folds 
+mr.rothko: raises 1810 to 2310
+AkkuRat11: folds 
+Kevin12345Mc: calls 2060
+mastervp888: calls 1810
+*** FLOP *** [Ts 7s Ah]
+Kevin12345Mc: checks 
+mastervp888: checks 
+mr.rothko: bets 980 and is all-in
+Kevin12345Mc: calls 980
+mastervp888: calls 980
+*** TURN *** [Ts 7s Ah] [9h]
+Kevin12345Mc: bets 5715
+mastervp888: calls 5715
+*** RIVER *** [Ts 7s Ah 9h] [Kc]
+Kevin12345Mc: bets 21860
+mastervp888: calls 18388 and is all-in
+Uncalled bet (3472) returned to Kevin12345Mc
+*** SHOW DOWN ***
+Kevin12345Mc: shows [3d Ac] (a pair of Aces)
+mastervp888: shows [Qh Js] (a straight, Ten to Ace)
+mastervp888 collected 48206 from side pot
+mr.rothko: shows [9s Qs] (a pair of Nines)
+mastervp888 collected 10430 from main pot
+mastervp888 wins $1.23 for eliminating mr.rothko and their own bounty increases by $1.22 to $3.67
+mr.rothko finished the tournament
+*** SUMMARY ***
+Total pot 58636 Main pot 10430. Side pot 48206. | Rake 0 
+Board [Ts 7s Ah 9h Kc]
+Seat 1: Kevin12345Mc (small blind) showed [3d Ac] and lost with a pair of Aces
+Seat 2: mastervp888 (big blind) showed [Qh Js] and won (58636) with a straight, Ten to Ace
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 folded before Flop (didn't bet)
+Seat 7: mr.rothko showed [9s Qs] and lost with a pair of Nines
+Seat 8: AkkuRat11 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061408027: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/27 18:20:40 WET [2025/02/27 13:20:40 ET]
+Table '3861391559 121' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (3630 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (58636 in chips, $3.67 bounty) 
+Seat 3: forplayy (21165 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (51722 in chips, $2.45 bounty) 
+Seat 5: zorra312 (32777 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (45906 in chips, $3.67 bounty) 
+Seat 8: AkkuRat11 (11147 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 70
+mastervp888: posts the ante 70
+forplayy: posts the ante 70
+FehVitor#PQD: posts the ante 70
+zorra312: posts the ante 70
+Macduf1: posts the ante 70
+AkkuRat11: posts the ante 70
+mastervp888: posts small blind 250
+forplayy: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Jd]
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: calls 500
+AkkuRat11: calls 500
+Kevin12345Mc: folds 
+mastervp888: folds 
+forplayy: checks 
+*** FLOP *** [9s 2c 4h]
+forplayy: checks 
+Macduf1: checks 
+AkkuRat11 has timed out
+AkkuRat11: checks 
+*** TURN *** [9s 2c 4h] [8s]
+forplayy: checks 
+Macduf1: checks 
+AkkuRat11: bets 1000
+forplayy: folds 
+Macduf1: calls 1000
+*** RIVER *** [9s 2c 4h 8s] [3d]
+Macduf1: checks 
+AkkuRat11: bets 1000
+Macduf1: raises 2500 to 3500
+AkkuRat11: calls 2500
+*** SHOW DOWN ***
+Macduf1: shows [Ad 5d] (a straight, Ace to Five)
+AkkuRat11: mucks hand 
+Macduf1 collected 11240 from pot
+*** SUMMARY ***
+Total pot 11240 | Rake 0 
+Board [9s 2c 4h 8s 3d]
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: mastervp888 (small blind) folded before Flop
+Seat 3: forplayy (big blind) folded on the Turn
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 showed [Ad 5d] and won (11240) with a straight, Ace to Five
+Seat 8: AkkuRat11 mucked [8c Ah]
+
+
+
+PokerStars Hand #255061435493: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/27 18:22:26 WET [2025/02/27 13:22:26 ET]
+Table '3861391559 121' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (3560 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (58316 in chips, $3.67 bounty) 
+Seat 3: forplayy (20595 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (51652 in chips, $2.45 bounty) 
+Seat 5: zorra312 (32707 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (52076 in chips, $3.67 bounty) 
+Seat 7: thornett98 (25000 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (6077 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 70
+mastervp888: posts the ante 70
+forplayy: posts the ante 70
+FehVitor#PQD: posts the ante 70
+zorra312: posts the ante 70
+Macduf1: posts the ante 70
+thornett98: posts the ante 70
+AkkuRat11: posts the ante 70
+forplayy: posts small blind 250
+FehVitor#PQD: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 3s]
+zorra312: folds 
+Macduf1: folds 
+thornett98: raises 550 to 1050
+AkkuRat11: calls 1050
+Kevin12345Mc: folds 
+mastervp888: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+*** FLOP *** [Qc 4s 8c]
+thornett98: bets 1000
+AkkuRat11: folds 
+Uncalled bet (1000) returned to thornett98
+thornett98 collected 3410 from pot
+*** SUMMARY ***
+Total pot 3410 | Rake 0 
+Board [Qc 4s 8c]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: mastervp888 (button) folded before Flop (didn't bet)
+Seat 3: forplayy (small blind) folded before Flop
+Seat 4: FehVitor#PQD (big blind) folded before Flop
+Seat 5: zorra312 folded before Flop (didn't bet)
+Seat 6: Macduf1 folded before Flop (didn't bet)
+Seat 7: thornett98 collected (3410)
+Seat 8: AkkuRat11 folded on the Flop
+
+
+
+PokerStars Hand #255061450371: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/27 18:23:24 WET [2025/02/27 13:23:24 ET]
+Table '3861391559 121' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (3490 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (58246 in chips, $3.67 bounty) 
+Seat 3: forplayy (20275 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (51082 in chips, $2.45 bounty) 
+Seat 5: zorra312 (32637 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (52006 in chips, $3.67 bounty) 
+Seat 7: thornett98 (27290 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (4957 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 70
+mastervp888: posts the ante 70
+forplayy: posts the ante 70
+FehVitor#PQD: posts the ante 70
+zorra312: posts the ante 70
+Macduf1: posts the ante 70
+thornett98: posts the ante 70
+AkkuRat11: posts the ante 70
+FehVitor#PQD: posts small blind 250
+zorra312: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 6s]
+Macduf1: calls 500
+thornett98: calls 500
+AkkuRat11: folds 
+Kevin12345Mc: folds 
+mastervp888: folds 
+forplayy: calls 500
+FehVitor#PQD: folds 
+zorra312: checks 
+*** FLOP *** [Kc 3s 9d]
+zorra312: checks 
+Macduf1: checks 
+thornett98: bets 500
+forplayy: calls 500
+zorra312: folds 
+Macduf1: folds 
+*** TURN *** [Kc 3s 9d] [Ks]
+thornett98: bets 1405
+forplayy: raises 1845 to 3250
+thornett98: folds 
+Uncalled bet (1845) returned to forplayy
+forplayy collected 6620 from pot
+forplayy: doesn't show hand 
+*** SUMMARY ***
+Total pot 6620 | Rake 0 
+Board [Kc 3s 9d Ks]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: mastervp888 folded before Flop (didn't bet)
+Seat 3: forplayy (button) collected (6620)
+Seat 4: FehVitor#PQD (small blind) folded before Flop
+Seat 5: zorra312 (big blind) folded on the Flop
+Seat 6: Macduf1 folded on the Flop
+Seat 7: thornett98 folded on the Turn
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061471239: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/27 18:24:45 WET [2025/02/27 13:24:45 ET]
+Table '3861391559 121' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (3420 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (58176 in chips, $3.67 bounty) 
+Seat 3: forplayy (24420 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (50762 in chips, $2.45 bounty) 
+Seat 5: zorra312 (32067 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (51436 in chips, $3.67 bounty) 
+Seat 7: thornett98 (24815 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (4887 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 70
+mastervp888: posts the ante 70
+forplayy: posts the ante 70
+FehVitor#PQD: posts the ante 70
+zorra312: posts the ante 70
+Macduf1: posts the ante 70
+thornett98: posts the ante 70
+AkkuRat11: posts the ante 70
+zorra312: posts small blind 250
+Macduf1: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 7d]
+thornett98: folds 
+AkkuRat11: calls 500
+Kevin12345Mc: folds 
+mastervp888: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: folds 
+Macduf1: checks 
+*** FLOP *** [Ts 2s 6c]
+Macduf1: checks 
+AkkuRat11: checks 
+*** TURN *** [Ts 2s 6c] [2h]
+Macduf1: bets 1358
+AkkuRat11: folds 
+Uncalled bet (1358) returned to Macduf1
+Macduf1 collected 1810 from pot
+*** SUMMARY ***
+Total pot 1810 | Rake 0 
+Board [Ts 2s 6c 2h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: mastervp888 folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD (button) folded before Flop (didn't bet)
+Seat 5: zorra312 (small blind) folded before Flop
+Seat 6: Macduf1 (big blind) collected (1810)
+Seat 7: thornett98 folded before Flop (didn't bet)
+Seat 8: AkkuRat11 folded on the Turn
+
+
+
+PokerStars Hand #255061484152: Tournament #3861391559, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VII (300/600) - 2025/02/27 18:25:34 WET [2025/02/27 13:25:34 ET]
+Table '3861391559 121' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (3350 in chips, $2.45 bounty) 
+Seat 2: mastervp888 (58106 in chips, $3.67 bounty) 
+Seat 3: forplayy (24350 in chips, $2.45 bounty) 
+Seat 4: FehVitor#PQD (50692 in chips, $2.45 bounty) 
+Seat 5: zorra312 (31747 in chips, $2.45 bounty) 
+Seat 6: Macduf1 (52676 in chips, $3.67 bounty) 
+Seat 7: thornett98 (24745 in chips, $2.45 bounty) 
+Seat 8: AkkuRat11 (4317 in chips, $2.45 bounty) 
+Kevin12345Mc: posts the ante 80
+mastervp888: posts the ante 80
+forplayy: posts the ante 80
+FehVitor#PQD: posts the ante 80
+zorra312: posts the ante 80
+Macduf1: posts the ante 80
+thornett98: posts the ante 80
+AkkuRat11: posts the ante 80
+Macduf1: posts small blind 300
+thornett98: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 2d]
+AkkuRat11: folds 
+Kevin12345Mc: raises 2670 to 3270 and is all-in
+mastervp888: folds 
+forplayy: folds 
+FehVitor#PQD: folds 
+zorra312: raises 28397 to 31667 and is all-in
+Macduf1: folds 
+thornett98: folds 
+Uncalled bet (28397) returned to zorra312
+*** FLOP *** [7d Jh 9d]
+*** TURN *** [7d Jh 9d] [Qc]
+*** RIVER *** [7d Jh 9d Qc] [6s]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [2c 2d] (a pair of Deuces)
+zorra312: shows [4d 4c] (a pair of Fours)
+zorra312 collected 8080 from pot
+zorra312 wins $1.23 for eliminating Kevin12345Mc and their own bounty increases by $1.22 to $3.67
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 8080 | Rake 0 
+Board [7d Jh 9d Qc 6s]
+Seat 1: Kevin12345Mc showed [2c 2d] and lost with a pair of Deuces
+Seat 2: mastervp888 folded before Flop (didn't bet)
+Seat 3: forplayy folded before Flop (didn't bet)
+Seat 4: FehVitor#PQD folded before Flop (didn't bet)
+Seat 5: zorra312 (button) showed [4d 4c] and won (8080) with a pair of Fours
+Seat 6: Macduf1 (small blind) folded before Flop
+Seat 7: thornett98 (big blind) folded before Flop
+Seat 8: AkkuRat11 folded before Flop (didn't bet)
+
+
+

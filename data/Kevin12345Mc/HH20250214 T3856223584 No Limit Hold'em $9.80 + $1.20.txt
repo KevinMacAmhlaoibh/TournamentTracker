@@ -1,0 +1,5666 @@
+﻿PokerStars Hand #254863115296: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/14 17:29:56 WET [2025/02/14 12:29:56 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: Br@mmer (5000 in chips) 
+Seat 2: R0SonyTm (5000 in chips) 
+Seat 3: Kevin12345Mc (5000 in chips) 
+Seat 4: Doug_Saldanha14 (5000 in chips) 
+Seat 5: Martincik (5000 in chips) 
+Seat 6: chuoithat (5000 in chips) 
+Seat 7: LUCAZORGE (5000 in chips) 
+Br@mmer: posts the ante 8
+R0SonyTm: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Doug_Saldanha14: posts the ante 8
+Martincik: posts the ante 8
+chuoithat: posts the ante 8
+LUCAZORGE: posts the ante 8
+R0SonyTm: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 3c]
+NcoreFerko is disconnected 
+Doug_Saldanha14: raises 50 to 100
+Martincik: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: calls 50
+*** FLOP *** [2s 8d 5d]
+Kevin12345Mc: checks 
+Doug_Saldanha14: checks 
+*** TURN *** [2s 8d 5d] [5s]
+Kevin12345Mc: bets 141
+Doug_Saldanha14: calls 141
+*** RIVER *** [2s 8d 5d 5s] [4d]
+Kevin12345Mc: bets 186
+Doug_Saldanha14: calls 186
+*** SHOW DOWN ***
+Kevin12345Mc: shows [5c 3c] (three of a kind, Fives)
+Doug_Saldanha14: mucks hand 
+Kevin12345Mc collected 935 from pot
+*** SUMMARY ***
+Total pot 935 | Rake 0 
+Board [2s 8d 5d 5s 4d]
+Seat 1: Br@mmer (button) folded before Flop (didn't bet)
+Seat 2: R0SonyTm (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) showed [5c 3c] and won (935) with three of a kind, Fives
+Seat 4: Doug_Saldanha14 mucked [Ks Ad]
+Seat 5: Martincik folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863126981: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/14 17:30:44 WET [2025/02/14 12:30:44 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: Br@mmer (4992 in chips) 
+Seat 2: R0SonyTm (4967 in chips) 
+Seat 3: Kevin12345Mc (5500 in chips) 
+Seat 4: Doug_Saldanha14 (4565 in chips) 
+Seat 5: Martincik (4992 in chips) 
+Seat 6: chuoithat (4992 in chips) 
+Seat 7: LUCAZORGE (4992 in chips) 
+Seat 8: NcoreFerko (5000 in chips) 
+Br@mmer: posts the ante 8
+R0SonyTm: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Doug_Saldanha14: posts the ante 8
+Martincik: posts the ante 8
+chuoithat: posts the ante 8
+LUCAZORGE: posts the ante 8
+NcoreFerko: posts the ante 8
+Kevin12345Mc: posts small blind 25
+Doug_Saldanha14: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 9s]
+Martincik: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 65 to 115
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+Doug_Saldanha14: raises 435 to 550
+NcoreFerko: calls 435
+*** FLOP *** [Qh Tc 8s]
+Doug_Saldanha14: checks 
+NcoreFerko: checks 
+*** TURN *** [Qh Tc 8s] [Ah]
+Doug_Saldanha14: checks 
+NcoreFerko: bets 856
+Doug_Saldanha14: folds 
+Uncalled bet (856) returned to NcoreFerko
+NcoreFerko collected 1189 from pot
+*** SUMMARY ***
+Total pot 1189 | Rake 0 
+Board [Qh Tc 8s Ah]
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: Doug_Saldanha14 (big blind) folded on the Turn
+Seat 5: Martincik folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko collected (1189)
+
+
+
+PokerStars Hand #254863141412: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/14 17:31:42 WET [2025/02/14 12:31:42 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: Br@mmer (4984 in chips) 
+Seat 2: R0SonyTm (4959 in chips) 
+Seat 3: Kevin12345Mc (5467 in chips) 
+Seat 4: Doug_Saldanha14 (4007 in chips) 
+Seat 5: Martincik (4984 in chips) 
+Seat 6: chuoithat (4984 in chips) 
+Seat 7: LUCAZORGE (4984 in chips) 
+Seat 8: NcoreFerko (5631 in chips) 
+Br@mmer: posts the ante 8
+R0SonyTm: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Doug_Saldanha14: posts the ante 8
+Martincik: posts the ante 8
+chuoithat: posts the ante 8
+LUCAZORGE: posts the ante 8
+NcoreFerko: posts the ante 8
+Doug_Saldanha14: posts small blind 25
+Martincik: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 3d]
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 65 to 115
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+Doug_Saldanha14: folds 
+Martincik: folds 
+Uncalled bet (65) returned to NcoreFerko
+NcoreFerko collected 189 from pot
+*** SUMMARY ***
+Total pot 189 | Rake 0 
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: Doug_Saldanha14 (small blind) folded before Flop
+Seat 5: Martincik (big blind) folded before Flop
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko collected (189)
+
+
+
+PokerStars Hand #254863150882: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/14 17:32:21 WET [2025/02/14 12:32:21 ET]
+Table '3856223584 72' 8-max Seat #4 is the button
+Seat 1: Br@mmer (4976 in chips) 
+Seat 2: R0SonyTm (4951 in chips) 
+Seat 3: Kevin12345Mc (5459 in chips) 
+Seat 4: Doug_Saldanha14 (3974 in chips) 
+Seat 5: Martincik (4926 in chips) 
+Seat 6: chuoithat (4976 in chips) 
+Seat 7: LUCAZORGE (4976 in chips) 
+Seat 8: NcoreFerko (5762 in chips) 
+Br@mmer: posts the ante 8
+R0SonyTm: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Doug_Saldanha14: posts the ante 8
+Martincik: posts the ante 8
+chuoithat: posts the ante 8
+LUCAZORGE: posts the ante 8
+NcoreFerko: posts the ante 8
+Martincik: posts small blind 25
+chuoithat: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Ac]
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Br@mmer: raises 100 to 150
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+Doug_Saldanha14: folds 
+Martincik: folds 
+chuoithat: raises 375 to 525
+Br@mmer: calls 375
+*** FLOP *** [Ah 7h 5c]
+chuoithat: bets 387
+Br@mmer: raises 613 to 1000
+chuoithat: folds 
+Uncalled bet (613) returned to Br@mmer
+Br@mmer collected 1913 from pot
+Br@mmer: doesn't show hand 
+*** SUMMARY ***
+Total pot 1913 | Rake 0 
+Board [Ah 7h 5c]
+Seat 1: Br@mmer collected (1913)
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Doug_Saldanha14 (button) folded before Flop (didn't bet)
+Seat 5: Martincik (small blind) folded before Flop
+Seat 6: chuoithat (big blind) folded on the Flop
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863168905: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/14 17:33:34 WET [2025/02/14 12:33:34 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: Br@mmer (5969 in chips) 
+Seat 2: R0SonyTm (4943 in chips) 
+Seat 3: Kevin12345Mc (5451 in chips) 
+Seat 4: Doug_Saldanha14 (3966 in chips) 
+Seat 5: Martincik (4893 in chips) 
+Seat 6: chuoithat (4056 in chips) 
+Seat 7: LUCAZORGE (4968 in chips) 
+Seat 8: NcoreFerko (5754 in chips) 
+Br@mmer: posts the ante 8
+R0SonyTm: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Doug_Saldanha14: posts the ante 8
+Martincik: posts the ante 8
+chuoithat: posts the ante 8
+LUCAZORGE: posts the ante 8
+NcoreFerko: posts the ante 8
+chuoithat: posts small blind 25
+LUCAZORGE: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 9c]
+NcoreFerko: folds 
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+Doug_Saldanha14: raises 50 to 100
+Martincik: folds 
+chuoithat: folds 
+LUCAZORGE: calls 50
+*** FLOP *** [8c Qc 6d]
+LUCAZORGE: checks 
+Doug_Saldanha14: bets 145
+LUCAZORGE: calls 145
+*** TURN *** [8c Qc 6d] [Ad]
+LUCAZORGE: checks 
+Doug_Saldanha14: bets 869
+LUCAZORGE: folds 
+Uncalled bet (869) returned to Doug_Saldanha14
+Doug_Saldanha14 collected 579 from pot
+Doug_Saldanha14: doesn't show hand 
+*** SUMMARY ***
+Total pot 579 | Rake 0 
+Board [8c Qc 6d Ad]
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Doug_Saldanha14 collected (579)
+Seat 5: Martincik (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) folded before Flop
+Seat 7: LUCAZORGE (big blind) folded on the Turn
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863189781: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/14 17:34:59 WET [2025/02/14 12:34:59 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: Br@mmer (5961 in chips) 
+Seat 2: R0SonyTm (4935 in chips) 
+Seat 3: Kevin12345Mc (5443 in chips) 
+Seat 4: Doug_Saldanha14 (4292 in chips) 
+Seat 5: Martincik (4885 in chips) 
+Seat 6: chuoithat (4023 in chips) 
+Seat 7: LUCAZORGE (4715 in chips) 
+Seat 8: NcoreFerko (5746 in chips) 
+Br@mmer: posts the ante 8
+R0SonyTm: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Doug_Saldanha14: posts the ante 8
+Martincik: posts the ante 8
+chuoithat: posts the ante 8
+LUCAZORGE: posts the ante 8
+NcoreFerko: posts the ante 8
+LUCAZORGE: posts small blind 25
+NcoreFerko: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Td]
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+Doug_Saldanha14: folds 
+Martincik: folds 
+chuoithat: raises 100 to 150
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Uncalled bet (100) returned to chuoithat
+chuoithat collected 189 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 189 | Rake 0 
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Doug_Saldanha14 folded before Flop (didn't bet)
+Seat 5: Martincik folded before Flop (didn't bet)
+Seat 6: chuoithat (button) collected (189)
+Seat 7: LUCAZORGE (small blind) folded before Flop
+Seat 8: NcoreFerko (big blind) folded before Flop
+
+
+
+PokerStars Hand #254863199717: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/14 17:35:41 WET [2025/02/14 12:35:41 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: Br@mmer (5953 in chips) 
+Seat 2: R0SonyTm (4927 in chips) 
+Seat 3: Kevin12345Mc (5435 in chips) 
+Seat 4: Doug_Saldanha14 (4284 in chips) 
+Seat 5: Martincik (4877 in chips) 
+Seat 6: chuoithat (4154 in chips) 
+Seat 7: LUCAZORGE (4682 in chips) 
+Seat 8: NcoreFerko (5688 in chips) 
+Br@mmer: posts the ante 8
+R0SonyTm: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Doug_Saldanha14: posts the ante 8
+Martincik: posts the ante 8
+chuoithat: posts the ante 8
+LUCAZORGE: posts the ante 8
+NcoreFerko: posts the ante 8
+NcoreFerko: posts small blind 25
+Br@mmer: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Qs]
+R0SonyTm: folds 
+Kevin12345Mc: raises 65 to 115
+Doug_Saldanha14: calls 115
+Martincik: folds 
+chuoithat: folds 
+LUCAZORGE: calls 115
+NcoreFerko: folds 
+Br@mmer: calls 65
+*** FLOP *** [Kd Ad Ks]
+Br@mmer: checks 
+Kevin12345Mc: bets 181
+Doug_Saldanha14: folds 
+LUCAZORGE: calls 181
+Br@mmer: folds 
+*** TURN *** [Kd Ad Ks] [Jd]
+Kevin12345Mc: checks 
+LUCAZORGE: bets 325
+Kevin12345Mc: calls 325
+*** RIVER *** [Kd Ad Ks Jd] [2d]
+Kevin12345Mc: checks 
+LUCAZORGE: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [As Qs] (two pair, Aces and Kings)
+LUCAZORGE: mucks hand 
+Kevin12345Mc collected 1561 from pot
+*** SUMMARY ***
+Total pot 1561 | Rake 0 
+Board [Kd Ad Ks Jd 2d]
+Seat 1: Br@mmer (big blind) folded on the Flop
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc showed [As Qs] and won (1561) with two pair, Aces and Kings
+Seat 4: Doug_Saldanha14 folded on the Flop
+Seat 5: Martincik folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (button) mucked [Ah 3h]
+Seat 8: NcoreFerko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863228291: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/14 17:37:38 WET [2025/02/14 12:37:38 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: Br@mmer (5830 in chips) 
+Seat 2: R0SonyTm (4919 in chips) 
+Seat 3: Kevin12345Mc (6367 in chips) 
+Seat 5: Martincik (4869 in chips) 
+Seat 6: chuoithat (4146 in chips) 
+Seat 7: LUCAZORGE (4053 in chips) 
+Seat 8: NcoreFerko (5655 in chips) 
+Br@mmer: posts the ante 8
+R0SonyTm: posts the ante 8
+Kevin12345Mc: posts the ante 8
+Martincik: posts the ante 8
+chuoithat: posts the ante 8
+LUCAZORGE: posts the ante 8
+NcoreFerko: posts the ante 8
+Br@mmer: posts small blind 25
+R0SonyTm: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Ac]
+Kevin12345Mc: folds 
+Martincik: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 65 to 115
+Br@mmer: folds 
+R0SonyTm: calls 65
+*** FLOP *** [Qc Ad 6s]
+RYKLYS003 is disconnected 
+R0SonyTm: checks 
+NcoreFerko: bets 96
+R0SonyTm: calls 96
+*** TURN *** [Qc Ad 6s] [Qs]
+R0SonyTm: checks 
+NcoreFerko: checks 
+*** RIVER *** [Qc Ad 6s Qs] [7s]
+R0SonyTm: bets 675
+NcoreFerko: folds 
+Uncalled bet (675) returned to R0SonyTm
+R0SonyTm collected 503 from pot
+R0SonyTm: doesn't show hand 
+*** SUMMARY ***
+Total pot 503 | Rake 0 
+Board [Qc Ad 6s Qs 7s]
+Seat 1: Br@mmer (small blind) folded before Flop
+Seat 2: R0SonyTm (big blind) collected (503)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: Martincik folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko (button) folded on the River
+
+
+
+PokerStars Hand #254863243372: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/14 17:38:40 WET [2025/02/14 12:38:40 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: Br@mmer (5797 in chips) 
+Seat 2: R0SonyTm (5203 in chips) 
+Seat 3: Kevin12345Mc (6359 in chips) 
+Seat 4: RYKLYS003 (5000 in chips) 
+Seat 5: Martincik (4861 in chips) 
+Seat 6: chuoithat (4138 in chips) 
+Seat 7: LUCAZORGE (4045 in chips) 
+Seat 8: NcoreFerko (5436 in chips) 
+Br@mmer: posts the ante 9
+R0SonyTm: posts the ante 9
+Kevin12345Mc: posts the ante 9
+RYKLYS003: posts the ante 9
+Martincik: posts the ante 9
+chuoithat: posts the ante 9
+LUCAZORGE: posts the ante 9
+NcoreFerko: posts the ante 9
+R0SonyTm: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 4d]
+RYKLYS003: folds 
+Martincik: raises 60 to 120
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: calls 60
+*** FLOP *** [Js Th 6s]
+Kevin12345Mc: checks 
+Martincik: checks 
+*** TURN *** [Js Th 6s] [5d]
+Kevin12345Mc: checks 
+Martincik: bets 171
+Kevin12345Mc: calls 171
+*** RIVER *** [Js Th 6s 5d] [Kd]
+Kevin12345Mc: checks 
+Martincik: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Td 4d] (a pair of Tens)
+Martincik: mucks hand 
+Kevin12345Mc collected 684 from pot
+*** SUMMARY ***
+Total pot 684 | Rake 0 
+Board [Js Th 6s 5d Kd]
+Seat 1: Br@mmer (button) folded before Flop (didn't bet)
+Seat 2: R0SonyTm (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) showed [Td 4d] and won (684) with a pair of Tens
+Seat 4: RYKLYS003 folded before Flop (didn't bet)
+Seat 5: Martincik mucked [5h Ac]
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863252594: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/14 17:39:18 WET [2025/02/14 12:39:18 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: Br@mmer (5788 in chips) 
+Seat 2: R0SonyTm (5164 in chips) 
+Seat 3: Kevin12345Mc (6743 in chips) 
+Seat 4: RYKLYS003 (4991 in chips) 
+Seat 5: Martincik (4561 in chips) 
+Seat 6: chuoithat (4129 in chips) 
+Seat 7: LUCAZORGE (4036 in chips) 
+Seat 8: NcoreFerko (5427 in chips) 
+Br@mmer: posts the ante 9
+R0SonyTm: posts the ante 9
+Kevin12345Mc: posts the ante 9
+RYKLYS003: posts the ante 9
+Martincik: posts the ante 9
+chuoithat: posts the ante 9
+LUCAZORGE: posts the ante 9
+NcoreFerko: posts the ante 9
+Kevin12345Mc: posts small blind 30
+RYKLYS003: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 8h]
+Martincik: calls 60
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 138 to 198
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+RYKLYS003: calls 138
+Martincik: calls 138
+*** FLOP *** [Ts Ac 7c]
+RYKLYS003: checks 
+Martincik: checks 
+NcoreFerko: bets 414
+RYKLYS003: calls 414
+Martincik: folds 
+*** TURN *** [Ts Ac 7c] [Jh]
+RYKLYS003: checks 
+NcoreFerko: bets 1014
+RYKLYS003: calls 1014
+*** RIVER *** [Ts Ac 7c Jh] [Qs]
+RYKLYS003: checks 
+NcoreFerko: bets 3792 and is all-in
+RYKLYS003: folds 
+Uncalled bet (3792) returned to NcoreFerko
+NcoreFerko collected 3552 from pot
+*** SUMMARY ***
+Total pot 3552 | Rake 0 
+Board [Ts Ac 7c Jh Qs]
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: RYKLYS003 (big blind) folded on the River
+Seat 5: Martincik folded on the Flop
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko collected (3552)
+
+
+
+PokerStars Hand #254863271599: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/14 17:40:37 WET [2025/02/14 12:40:37 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: Br@mmer (5779 in chips) 
+Seat 2: R0SonyTm (5155 in chips) 
+Seat 3: Kevin12345Mc (6704 in chips) 
+Seat 4: RYKLYS003 (3356 in chips) 
+Seat 6: chuoithat (4120 in chips) 
+Seat 7: LUCAZORGE (4027 in chips) 
+Seat 8: NcoreFerko (7344 in chips) 
+Br@mmer: posts the ante 9
+R0SonyTm: posts the ante 9
+Kevin12345Mc: posts the ante 9
+RYKLYS003: posts the ante 9
+chuoithat: posts the ante 9
+LUCAZORGE: posts the ante 9
+NcoreFerko: posts the ante 9
+RYKLYS003: posts small blind 30
+chuoithat: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Ks]
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+RYKLYS003: folds 
+Uncalled bet (30) returned to chuoithat
+zlesajebo is disconnected 
+chuoithat collected 123 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 123 | Rake 0 
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: RYKLYS003 (small blind) folded before Flop
+Seat 6: chuoithat (big blind) collected (123)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863274256: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/14 17:40:48 WET [2025/02/14 12:40:48 ET]
+Table '3856223584 72' 8-max Seat #4 is the button
+Seat 1: Br@mmer (5770 in chips) 
+Seat 2: R0SonyTm (5146 in chips) 
+Seat 3: Kevin12345Mc (6695 in chips) 
+Seat 4: RYKLYS003 (3317 in chips) 
+Seat 5: zlesajebo (5000 in chips) out of hand (moved from another table into small blind)
+Seat 6: chuoithat (4204 in chips) 
+Seat 7: LUCAZORGE (4018 in chips) 
+Seat 8: NcoreFerko (7335 in chips) 
+zlesajebo will be allowed to play after the button
+Br@mmer: posts the ante 9
+R0SonyTm: posts the ante 9
+Kevin12345Mc: posts the ante 9
+RYKLYS003: posts the ante 9
+chuoithat: posts the ante 9
+LUCAZORGE: posts the ante 9
+NcoreFerko: posts the ante 9
+chuoithat: posts small blind 30
+LUCAZORGE: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Kh]
+NcoreFerko: raises 78 to 138
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: calls 138
+RYKLYS003: folds 
+chuoithat: calls 108
+LUCAZORGE: calls 78
+*** FLOP *** [7d 5d 7s]
+chuoithat: checks 
+LUCAZORGE: checks 
+chuoithat has returned
+NcoreFerko: bets 368
+Kevin12345Mc: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+Uncalled bet (368) returned to NcoreFerko
+NcoreFerko collected 615 from pot
+*** SUMMARY ***
+Total pot 615 | Rake 0 
+Board [7d 5d 7s]
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded on the Flop
+Seat 4: RYKLYS003 (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) folded on the Flop
+Seat 7: LUCAZORGE (big blind) folded on the Flop
+Seat 8: NcoreFerko collected (615)
+
+
+
+PokerStars Hand #254863288246: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/14 17:41:45 WET [2025/02/14 12:41:45 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: Br@mmer (5761 in chips) 
+Seat 2: R0SonyTm (5137 in chips) 
+Seat 3: Kevin12345Mc (6548 in chips) 
+Seat 4: RYKLYS003 (3308 in chips) 
+Seat 5: zlesajebo (5000 in chips) 
+Seat 6: chuoithat (4057 in chips) 
+Seat 7: LUCAZORGE (3871 in chips) 
+Seat 8: NcoreFerko (7803 in chips) 
+Br@mmer: posts the ante 9
+R0SonyTm: posts the ante 9
+Kevin12345Mc: posts the ante 9
+RYKLYS003: posts the ante 9
+zlesajebo: posts the ante 9
+chuoithat: posts the ante 9
+LUCAZORGE: posts the ante 9
+NcoreFerko: posts the ante 9
+LUCAZORGE: posts small blind 30
+NcoreFerko: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 9d]
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+RYKLYS003: folds 
+zlesajebo: folds 
+chuoithat: raises 90 to 150
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Uncalled bet (90) returned to chuoithat
+chuoithat collected 222 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: RYKLYS003 folded before Flop (didn't bet)
+Seat 5: zlesajebo folded before Flop (didn't bet)
+Seat 6: chuoithat (button) collected (222)
+Seat 7: LUCAZORGE (small blind) folded before Flop
+Seat 8: NcoreFerko (big blind) folded before Flop
+
+
+
+PokerStars Hand #254863295998: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/14 17:42:17 WET [2025/02/14 12:42:17 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: Br@mmer (5752 in chips) 
+Seat 2: R0SonyTm (5128 in chips) 
+Seat 3: Kevin12345Mc (6539 in chips) 
+Seat 4: RYKLYS003 (3299 in chips) 
+Seat 5: zlesajebo (4991 in chips) 
+Seat 6: chuoithat (4210 in chips) 
+Seat 7: LUCAZORGE (3832 in chips) 
+Seat 8: NcoreFerko (7734 in chips) 
+Br@mmer: posts the ante 9
+R0SonyTm: posts the ante 9
+Kevin12345Mc: posts the ante 9
+RYKLYS003: posts the ante 9
+zlesajebo: posts the ante 9
+chuoithat: posts the ante 9
+LUCAZORGE: posts the ante 9
+NcoreFerko: posts the ante 9
+NcoreFerko: posts small blind 30
+Br@mmer: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 2h]
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+RYKLYS003: folds 
+zlesajebo: raises 60 to 120
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Br@mmer: folds 
+Uncalled bet (60) returned to zlesajebo
+zlesajebo collected 222 from pot
+zlesajebo: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Seat 1: Br@mmer (big blind) folded before Flop
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: RYKLYS003 folded before Flop (didn't bet)
+Seat 5: zlesajebo collected (222)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (button) folded before Flop (didn't bet)
+Seat 8: NcoreFerko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863306441: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/14 17:42:59 WET [2025/02/14 12:42:59 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: Br@mmer (5683 in chips) 
+Seat 2: R0SonyTm (5119 in chips) 
+Seat 3: Kevin12345Mc (6530 in chips) 
+Seat 4: RYKLYS003 (3290 in chips) 
+Seat 5: zlesajebo (5144 in chips) 
+Seat 6: chuoithat (4201 in chips) 
+Seat 7: LUCAZORGE (3823 in chips) 
+Seat 8: NcoreFerko (7695 in chips) 
+Br@mmer: posts the ante 9
+R0SonyTm: posts the ante 9
+Kevin12345Mc: posts the ante 9
+RYKLYS003: posts the ante 9
+zlesajebo: posts the ante 9
+chuoithat: posts the ante 9
+LUCAZORGE: posts the ante 9
+NcoreFerko: posts the ante 9
+Br@mmer: posts small blind 30
+R0SonyTm: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Kc]
+Kevin12345Mc: folds 
+RYKLYS003: raises 63 to 123
+zlesajebo: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Br@mmer: raises 237 to 360
+R0SonyTm: calls 300
+RYKLYS003: calls 237
+*** FLOP *** [Qc Jh 7d]
+Br@mmer: bets 760
+R0SonyTm: calls 760
+RYKLYS003: folds 
+*** TURN *** [Qc Jh 7d] [Th]
+Br@mmer: bets 900
+R0SonyTm: calls 900
+*** RIVER *** [Qc Jh 7d Th] [Tc]
+Br@mmer: bets 1476
+R0SonyTm: calls 1476
+*** SHOW DOWN ***
+Br@mmer: shows [Qs Ad] (two pair, Queens and Tens)
+R0SonyTm: mucks hand 
+Br@mmer collected 7424 from pot
+*** SUMMARY ***
+Total pot 7424 | Rake 0 
+Board [Qc Jh 7d Th Tc]
+Seat 1: Br@mmer (small blind) showed [Qs Ad] and won (7424) with two pair, Queens and Tens
+Seat 2: R0SonyTm (big blind) mucked [Ah Jc]
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: RYKLYS003 folded on the Flop
+Seat 5: zlesajebo folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863333691: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/14 17:44:51 WET [2025/02/14 12:44:51 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: Br@mmer (9602 in chips) 
+Seat 2: R0SonyTm (1614 in chips) 
+Seat 3: Kevin12345Mc (6521 in chips) 
+Seat 4: RYKLYS003 (2921 in chips) 
+Seat 5: zlesajebo (5135 in chips) 
+Seat 6: chuoithat (4192 in chips) 
+Seat 7: LUCAZORGE (3814 in chips) 
+Seat 8: NcoreFerko (7686 in chips) 
+Br@mmer: posts the ante 9
+R0SonyTm: posts the ante 9
+Kevin12345Mc: posts the ante 9
+RYKLYS003: posts the ante 9
+zlesajebo: posts the ante 9
+chuoithat: posts the ante 9
+LUCAZORGE: posts the ante 9
+NcoreFerko: posts the ante 9
+R0SonyTm: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s 7h]
+RYKLYS003: folds 
+zlesajebo: folds 
+chuoithat: folds 
+LUCAZORGE: raises 60 to 120
+NcoreFerko: calls 120
+Br@mmer: folds 
+R0SonyTm: raises 1485 to 1605 and is all-in
+Kevin12345Mc: folds 
+LUCAZORGE: raises 2200 to 3805 and is all-in
+NcoreFerko: folds 
+Uncalled bet (2200) returned to LUCAZORGE
+*** FLOP *** [Tc 4d 4s]
+*** TURN *** [Tc 4d 4s] [6c]
+*** RIVER *** [Tc 4d 4s 6c] [6d]
+*** SHOW DOWN ***
+R0SonyTm: shows [Jh As] (two pair, Sixes and Fours)
+LUCAZORGE: shows [Ad Kc] (two pair, Sixes and Fours)
+R0SonyTm collected 1731 from pot
+LUCAZORGE collected 1731 from pot
+*** SUMMARY ***
+Total pot 3462 | Rake 0 
+Board [Tc 4d 4s 6c 6d]
+Seat 1: Br@mmer (button) folded before Flop (didn't bet)
+Seat 2: R0SonyTm (small blind) showed [Jh As] and won (1731) with two pair, Sixes and Fours
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: RYKLYS003 folded before Flop (didn't bet)
+Seat 5: zlesajebo folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE showed [Ad Kc] and won (1731) with two pair, Sixes and Fours
+Seat 8: NcoreFerko folded before Flop
+
+
+
+PokerStars Hand #254863350052: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/14 17:45:57 WET [2025/02/14 12:45:57 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: Br@mmer (9593 in chips) 
+Seat 2: R0SonyTm (1731 in chips) 
+Seat 3: Kevin12345Mc (6452 in chips) 
+Seat 4: RYKLYS003 (2912 in chips) 
+Seat 6: chuoithat (4183 in chips) 
+Seat 7: LUCAZORGE (3931 in chips) 
+Seat 8: NcoreFerko (7557 in chips) 
+Br@mmer: posts the ante 9
+R0SonyTm: posts the ante 9
+Kevin12345Mc: posts the ante 9
+RYKLYS003: posts the ante 9
+chuoithat: posts the ante 9
+LUCAZORGE: posts the ante 9
+NcoreFerko: posts the ante 9
+Kevin12345Mc: posts small blind 30
+RYKLYS003: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Ts]
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: calls 30
+RYKLYS003: checks 
+*** FLOP *** [Jc 5c 6h]
+Kevin12345Mc: checks 
+RYKLYS003: checks 
+*** TURN *** [Jc 5c 6h] [6d]
+Kevin12345Mc: checks 
+RYKLYS003: checks 
+*** RIVER *** [Jc 5c 6h 6d] [3d]
+Kevin12345Mc: checks 
+RYKLYS003: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [2s Ts] (a pair of Sixes)
+RYKLYS003: shows [2d 3c] (two pair, Sixes and Threes)
+RYKLYS003 collected 183 from pot
+*** SUMMARY ***
+Total pot 183 | Rake 0 
+Board [Jc 5c 6h 6d 3d]
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) showed [2s Ts] and lost with a pair of Sixes
+Seat 4: RYKLYS003 (big blind) showed [2d 3c] and won (183) with two pair, Sixes and Threes
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863364305: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/14 17:46:54 WET [2025/02/14 12:46:54 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: Br@mmer (9584 in chips) 
+Seat 2: R0SonyTm (1722 in chips) 
+Seat 3: Kevin12345Mc (6383 in chips) 
+Seat 4: RYKLYS003 (3026 in chips) 
+Seat 5: peramatioths (5000 in chips) 
+Seat 6: chuoithat (4174 in chips) 
+Seat 7: LUCAZORGE (3922 in chips) 
+Seat 8: NcoreFerko (7548 in chips) 
+Br@mmer: posts the ante 11
+R0SonyTm: posts the ante 11
+Kevin12345Mc: posts the ante 11
+RYKLYS003: posts the ante 11
+peramatioths: posts the ante 11
+chuoithat: posts the ante 11
+LUCAZORGE: posts the ante 11
+NcoreFerko: posts the ante 11
+RYKLYS003: posts small blind 35
+peramatioths: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th Jc]
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 91 to 161
+Br@mmer: calls 161
+R0SonyTm: raises 1550 to 1711 and is all-in
+Kevin12345Mc: folds 
+RYKLYS003: folds 
+peramatioths: folds 
+NcoreFerko: folds 
+Br@mmer: folds 
+Uncalled bet (1550) returned to R0SonyTm
+R0SonyTm collected 676 from pot
+R0SonyTm: doesn't show hand 
+*** SUMMARY ***
+Total pot 676 | Rake 0 
+Seat 1: Br@mmer folded before Flop
+Seat 2: R0SonyTm collected (676)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: RYKLYS003 (small blind) folded before Flop
+Seat 5: peramatioths (big blind) folded before Flop
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop
+
+
+
+PokerStars Hand #254863375638: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/14 17:47:40 WET [2025/02/14 12:47:40 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: Br@mmer (9412 in chips) 
+Seat 2: R0SonyTm (2226 in chips) 
+Seat 3: Kevin12345Mc (6372 in chips) 
+Seat 5: peramatioths (4919 in chips) 
+Seat 6: chuoithat (4163 in chips) 
+Seat 7: LUCAZORGE (3911 in chips) 
+Seat 8: NcoreFerko (7376 in chips) 
+Br@mmer: posts the ante 11
+R0SonyTm: posts the ante 11
+Kevin12345Mc: posts the ante 11
+peramatioths: posts the ante 11
+chuoithat: posts the ante 11
+LUCAZORGE: posts the ante 11
+NcoreFerko: posts the ante 11
+chuoithat: posts small blind 35
+LUCAZORGE: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 7c]
+jjuul is disconnected 
+NcoreFerko: folds 
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+peramatioths: folds 
+chuoithat: calls 35
+LUCAZORGE: raises 140 to 210
+chuoithat: calls 140
+*** FLOP *** [Qd 9s 5h]
+chuoithat: checks 
+LUCAZORGE: bets 164
+chuoithat: folds 
+Uncalled bet (164) returned to LUCAZORGE
+LUCAZORGE collected 497 from pot
+LUCAZORGE: doesn't show hand 
+*** SUMMARY ***
+Total pot 497 | Rake 0 
+Board [Qd 9s 5h]
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) folded on the Flop
+Seat 7: LUCAZORGE (big blind) collected (497)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863389863: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/14 17:48:38 WET [2025/02/14 12:48:38 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: Br@mmer (9401 in chips) 
+Seat 2: R0SonyTm (2215 in chips) 
+Seat 3: Kevin12345Mc (6361 in chips) 
+Seat 4: jjuul (5000 in chips) 
+Seat 5: peramatioths (4908 in chips) 
+Seat 6: chuoithat (3942 in chips) 
+Seat 7: LUCAZORGE (4187 in chips) 
+Seat 8: NcoreFerko (7365 in chips) 
+Br@mmer: posts the ante 11
+R0SonyTm: posts the ante 11
+Kevin12345Mc: posts the ante 11
+jjuul: posts the ante 11
+peramatioths: posts the ante 11
+chuoithat: posts the ante 11
+LUCAZORGE: posts the ante 11
+NcoreFerko: posts the ante 11
+LUCAZORGE: posts small blind 35
+NcoreFerko: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Qh]
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+jjuul: folds 
+peramatioths: folds 
+chuoithat: raises 105 to 175
+LUCAZORGE: folds 
+NcoreFerko: calls 105
+*** FLOP *** [7d Ts 2d]
+NcoreFerko: checks 
+chuoithat: checks 
+*** TURN *** [7d Ts 2d] [2h]
+NcoreFerko: bets 307
+chuoithat: calls 307
+*** RIVER *** [7d Ts 2d 2h] [8d]
+NcoreFerko: bets 1183
+chuoithat: calls 1183
+*** SHOW DOWN ***
+NcoreFerko: shows [7s 2s] (a full house, Deuces full of Sevens)
+chuoithat: mucks hand 
+NcoreFerko collected 3453 from pot
+*** SUMMARY ***
+Total pot 3453 | Rake 0 
+Board [7d Ts 2d 2h 8d]
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat (button) mucked [Ks Kc]
+Seat 7: LUCAZORGE (small blind) folded before Flop
+Seat 8: NcoreFerko (big blind) showed [7s 2s] and won (3453) with a full house, Deuces full of Sevens
+
+
+
+PokerStars Hand #254863405217: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/14 17:49:39 WET [2025/02/14 12:49:39 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: Br@mmer (9390 in chips) 
+Seat 2: R0SonyTm (2204 in chips) 
+Seat 3: Kevin12345Mc (6350 in chips) 
+Seat 4: jjuul (4989 in chips) 
+Seat 5: peramatioths (4897 in chips) 
+Seat 6: chuoithat (2266 in chips) 
+Seat 7: LUCAZORGE (4141 in chips) 
+Seat 8: NcoreFerko (9142 in chips) 
+Br@mmer: posts the ante 11
+R0SonyTm: posts the ante 11
+Kevin12345Mc: posts the ante 11
+jjuul: posts the ante 11
+peramatioths: posts the ante 11
+chuoithat: posts the ante 11
+LUCAZORGE: posts the ante 11
+NcoreFerko: posts the ante 11
+NcoreFerko: posts small blind 35
+Br@mmer: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 2d]
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+jjuul: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 161 to 231
+Br@mmer: calls 161
+*** FLOP *** [7s 9s Js]
+NcoreFerko: bets 171
+Br@mmer: folds 
+Uncalled bet (171) returned to NcoreFerko
+NcoreFerko collected 550 from pot
+*** SUMMARY ***
+Total pot 550 | Rake 0 
+Board [7s 9s Js]
+Seat 1: Br@mmer (big blind) folded on the Flop
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (button) folded before Flop (didn't bet)
+Seat 8: NcoreFerko (small blind) collected (550)
+
+
+
+PokerStars Hand #254863418304: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/14 17:50:32 WET [2025/02/14 12:50:32 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: Br@mmer (9148 in chips) 
+Seat 2: R0SonyTm (2193 in chips) 
+Seat 3: Kevin12345Mc (6339 in chips) 
+Seat 4: jjuul (4978 in chips) 
+Seat 5: peramatioths (4886 in chips) 
+Seat 6: chuoithat (2255 in chips) 
+Seat 7: LUCAZORGE (4130 in chips) 
+Seat 8: NcoreFerko (9450 in chips) 
+Br@mmer: posts the ante 11
+R0SonyTm: posts the ante 11
+Kevin12345Mc: posts the ante 11
+jjuul: posts the ante 11
+peramatioths: posts the ante 11
+chuoithat: posts the ante 11
+LUCAZORGE: posts the ante 11
+NcoreFerko: posts the ante 11
+Br@mmer: posts small blind 35
+R0SonyTm: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Kh]
+Kevin12345Mc: folds 
+jjuul: raises 77 to 147
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 336 to 483
+Br@mmer: folds 
+R0SonyTm: folds 
+jjuul: folds 
+Uncalled bet (336) returned to NcoreFerko
+NcoreFerko collected 487 from pot
+*** SUMMARY ***
+Total pot 487 | Rake 0 
+Seat 1: Br@mmer (small blind) folded before Flop
+Seat 2: R0SonyTm (big blind) folded before Flop
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul folded before Flop
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko (button) collected (487)
+
+
+
+PokerStars Hand #254863430553: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/14 17:51:22 WET [2025/02/14 12:51:22 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: Br@mmer (9102 in chips) 
+Seat 2: R0SonyTm (2112 in chips) 
+Seat 3: Kevin12345Mc (6328 in chips) 
+Seat 4: jjuul (4820 in chips) 
+Seat 5: peramatioths (4875 in chips) 
+Seat 6: chuoithat (2244 in chips) 
+Seat 7: LUCAZORGE (4119 in chips) 
+Seat 8: NcoreFerko (9779 in chips) 
+Br@mmer: posts the ante 11
+R0SonyTm: posts the ante 11
+Kevin12345Mc: posts the ante 11
+jjuul: posts the ante 11
+peramatioths: posts the ante 11
+chuoithat: posts the ante 11
+LUCAZORGE: posts the ante 11
+NcoreFerko: posts the ante 11
+R0SonyTm: posts small blind 35
+Kevin12345Mc: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 7s]
+jjuul: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Br@mmer: raises 105 to 175
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+Uncalled bet (105) returned to Br@mmer
+Br@mmer collected 263 from pot
+Br@mmer: doesn't show hand 
+*** SUMMARY ***
+Total pot 263 | Rake 0 
+Seat 1: Br@mmer (button) collected (263)
+Seat 2: R0SonyTm (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863436016: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/14 17:51:44 WET [2025/02/14 12:51:44 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: Br@mmer (9284 in chips) 
+Seat 2: R0SonyTm (2066 in chips) 
+Seat 3: Kevin12345Mc (6247 in chips) 
+Seat 4: jjuul (4809 in chips) 
+Seat 5: peramatioths (4864 in chips) 
+Seat 6: chuoithat (2233 in chips) 
+Seat 7: LUCAZORGE (4108 in chips) 
+Seat 8: NcoreFerko (9768 in chips) 
+Br@mmer: posts the ante 11
+R0SonyTm: posts the ante 11
+Kevin12345Mc: posts the ante 11
+jjuul: posts the ante 11
+peramatioths: posts the ante 11
+chuoithat: posts the ante 11
+LUCAZORGE: posts the ante 11
+NcoreFerko: posts the ante 11
+Kevin12345Mc: posts small blind 35
+jjuul: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh Kd]
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Br@mmer: raises 140 to 210
+R0SonyTm: folds 
+Kevin12345Mc: calls 175
+jjuul: folds 
+*** FLOP *** [3h Kc Td]
+Kevin12345Mc: checks 
+Br@mmer: bets 191
+Kevin12345Mc: calls 191
+*** TURN *** [3h Kc Td] [Ks]
+Kevin12345Mc: checks 
+Br@mmer: checks 
+*** RIVER *** [3h Kc Td Ks] [9c]
+Kevin12345Mc: bets 480
+Br@mmer: folds 
+Uncalled bet (480) returned to Kevin12345Mc
+Kevin12345Mc collected 960 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [3h Kc Td Ks 9c]
+Seat 1: Br@mmer folded on the River
+Seat 2: R0SonyTm (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) collected (960)
+Seat 4: jjuul (big blind) folded before Flop
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863453135: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/14 17:52:53 WET [2025/02/14 12:52:53 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: Br@mmer (8872 in chips) 
+Seat 2: R0SonyTm (2055 in chips) 
+Seat 3: Kevin12345Mc (6795 in chips) 
+Seat 4: jjuul (4728 in chips) 
+Seat 5: peramatioths (4853 in chips) 
+Seat 6: chuoithat (2222 in chips) 
+Seat 7: LUCAZORGE (4097 in chips) 
+Seat 8: NcoreFerko (9757 in chips) 
+Br@mmer: posts the ante 11
+R0SonyTm: posts the ante 11
+Kevin12345Mc: posts the ante 11
+jjuul: posts the ante 11
+peramatioths: posts the ante 11
+chuoithat: posts the ante 11
+LUCAZORGE: posts the ante 11
+NcoreFerko: posts the ante 11
+jjuul: posts small blind 35
+peramatioths: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 8c]
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: raises 91 to 161
+jjuul: folds 
+peramatioths: folds 
+Uncalled bet (91) returned to Kevin12345Mc
+Kevin12345Mc collected 263 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 263 | Rake 0 
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) collected (263)
+Seat 4: jjuul (small blind) folded before Flop
+Seat 5: peramatioths (big blind) folded before Flop
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863461567: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/14 17:53:27 WET [2025/02/14 12:53:27 ET]
+Table '3856223584 72' 8-max Seat #4 is the button
+Seat 1: Br@mmer (8861 in chips) 
+Seat 2: R0SonyTm (2044 in chips) 
+Seat 3: Kevin12345Mc (6977 in chips) 
+Seat 4: jjuul (4682 in chips) 
+Seat 5: peramatioths (4772 in chips) 
+Seat 6: chuoithat (2211 in chips) 
+Seat 7: LUCAZORGE (4086 in chips) 
+Seat 8: NcoreFerko (9746 in chips) 
+Br@mmer: posts the ante 11
+R0SonyTm: posts the ante 11
+Kevin12345Mc: posts the ante 11
+jjuul: posts the ante 11
+peramatioths: posts the ante 11
+chuoithat: posts the ante 11
+LUCAZORGE: posts the ante 11
+NcoreFerko: posts the ante 11
+peramatioths: posts small blind 35
+chuoithat: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Qh]
+LUCAZORGE: folds 
+NcoreFerko: raises 91 to 161
+Br@mmer: raises 294 to 455
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+jjuul: folds 
+peramatioths: folds 
+chuoithat: folds 
+NcoreFerko: calls 294
+*** FLOP *** [Ad Ah Ac]
+NcoreFerko: checks 
+Br@mmer: checks 
+*** TURN *** [Ad Ah Ac] [Js]
+NcoreFerko: bets 672
+Br@mmer: calls 672
+*** RIVER *** [Ad Ah Ac Js] [Tc]
+NcoreFerko: bets 2583
+Br@mmer: folds [Td Ts]
+Uncalled bet (2583) returned to NcoreFerko
+NcoreFerko collected 2447 from pot
+*** SUMMARY ***
+Total pot 2447 | Rake 0 
+Board [Ad Ah Ac Js Tc]
+Seat 1: Br@mmer folded on the River
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul (button) folded before Flop (didn't bet)
+Seat 5: peramatioths (small blind) folded before Flop
+Seat 6: chuoithat (big blind) folded before Flop
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko collected (2447)
+
+
+
+PokerStars Hand #254863477935: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 17:54:34 WET [2025/02/14 12:54:34 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: Br@mmer (7723 in chips) 
+Seat 2: R0SonyTm (2033 in chips) 
+Seat 3: Kevin12345Mc (6966 in chips) 
+Seat 4: jjuul (4671 in chips) 
+Seat 5: peramatioths (4726 in chips) 
+Seat 6: chuoithat (2130 in chips) 
+Seat 7: LUCAZORGE (4075 in chips) 
+Seat 8: NcoreFerko (11055 in chips) 
+Br@mmer: posts the ante 12
+R0SonyTm: posts the ante 12
+Kevin12345Mc: posts the ante 12
+jjuul: posts the ante 12
+peramatioths: posts the ante 12
+chuoithat: posts the ante 12
+LUCAZORGE: posts the ante 12
+NcoreFerko: posts the ante 12
+chuoithat: posts small blind 40
+LUCAZORGE: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 7h]
+NcoreFerko: folds 
+Br@mmer: folds 
+R0SonyTm: folds 
+Kevin12345Mc: folds 
+jjuul: folds 
+peramatioths: folds 
+chuoithat: folds 
+Uncalled bet (40) returned to LUCAZORGE
+LUCAZORGE collected 176 from pot
+LUCAZORGE: doesn't show hand 
+*** SUMMARY ***
+Total pot 176 | Rake 0 
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 2: R0SonyTm folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) folded before Flop
+Seat 7: LUCAZORGE (big blind) collected (176)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863485664: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 17:55:05 WET [2025/02/14 12:55:05 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: Br@mmer (7711 in chips) 
+Seat 3: Kevin12345Mc (6954 in chips) 
+Seat 4: jjuul (4659 in chips) 
+Seat 5: peramatioths (4714 in chips) 
+Seat 6: chuoithat (2078 in chips) 
+Seat 7: LUCAZORGE (4199 in chips) 
+Seat 8: NcoreFerko (11043 in chips) 
+Br@mmer: posts the ante 12
+Kevin12345Mc: posts the ante 12
+jjuul: posts the ante 12
+peramatioths: posts the ante 12
+chuoithat: posts the ante 12
+LUCAZORGE: posts the ante 12
+NcoreFerko: posts the ante 12
+LUCAZORGE: posts small blind 40
+NcoreFerko: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 6d]
+Br@mmer: folds 
+Kevin12345Mc: folds 
+jjuul: raises 88 to 168
+peramatioths: calls 168
+chuoithat: calls 168
+LUCAZORGE: folds 
+NcoreFerko: calls 88
+*** FLOP *** [6c 8s 7s]
+NcoreFerko: checks 
+jjuul: checks 
+peramatioths: checks 
+chuoithat: bets 525
+NcoreFerko: folds 
+jjuul: folds 
+peramatioths: calls 525
+*** TURN *** [6c 8s 7s] [Ts]
+peramatioths: checks 
+chuoithat: checks 
+*** RIVER *** [6c 8s 7s Ts] [5d]
+peramatioths: checks 
+chuoithat: checks 
+*** SHOW DOWN ***
+peramatioths: shows [Th Ah] (a pair of Tens)
+chuoithat: shows [7h 8h] (two pair, Eights and Sevens)
+chuoithat collected 1846 from pot
+*** SUMMARY ***
+Total pot 1846 | Rake 0 
+Board [6c 8s 7s Ts 5d]
+Seat 1: Br@mmer folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul folded on the Flop
+Seat 5: peramatioths showed [Th Ah] and lost with a pair of Tens
+Seat 6: chuoithat (button) showed [7h 8h] and won (1846) with two pair, Eights and Sevens
+Seat 7: LUCAZORGE (small blind) folded before Flop
+Seat 8: NcoreFerko (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254863570164: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 18:02:25 WET [2025/02/14 13:02:25 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: L3VI_7X (5000 in chips) 
+Seat 2: Toni_Run (5000 in chips) 
+Seat 3: Kevin12345Mc (6942 in chips) 
+Seat 4: jjuul (4479 in chips) 
+Seat 5: peramatioths (4009 in chips) 
+Seat 6: chuoithat (3219 in chips) 
+Seat 7: LUCAZORGE (4147 in chips) 
+Seat 8: NcoreFerko (10863 in chips) 
+L3VI_7X: posts the ante 12
+Toni_Run: posts the ante 12
+Kevin12345Mc: posts the ante 12
+jjuul: posts the ante 12
+peramatioths: posts the ante 12
+chuoithat: posts the ante 12
+LUCAZORGE: posts the ante 12
+NcoreFerko: posts the ante 12
+NcoreFerko: posts small blind 40
+L3VI_7X: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 5c]
+Toni_Run: raises 88 to 168
+Kevin12345Mc: calls 168
+jjuul: folds 
+peramatioths is connected 
+peramatioths is disconnected 
+peramatioths is connected 
+peramatioths: calls 168
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: calls 88
+*** FLOP *** [Ah 4h Qs]
+L3VI_7X: checks 
+Toni_Run: checks 
+Kevin12345Mc: checks 
+peramatioths: checks 
+*** TURN *** [Ah 4h Qs] [3c]
+L3VI_7X: checks 
+Toni_Run: checks 
+Kevin12345Mc: checks 
+peramatioths: checks 
+*** RIVER *** [Ah 4h Qs 3c] [5d]
+L3VI_7X: checks 
+Toni_Run: checks 
+Kevin12345Mc: bets 613
+peramatioths: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Uncalled bet (613) returned to Kevin12345Mc
+Kevin12345Mc collected 808 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 808 | Rake 0 
+Board [Ah 4h Qs 3c 5d]
+Seat 1: L3VI_7X (big blind) folded on the River
+Seat 2: Toni_Run folded on the River
+Seat 3: Kevin12345Mc collected (808)
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths folded on the River
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (button) folded before Flop (didn't bet)
+Seat 8: NcoreFerko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863609909: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 18:05:07 WET [2025/02/14 13:05:07 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: L3VI_7X (4820 in chips) 
+Seat 2: Toni_Run (4820 in chips) 
+Seat 3: Kevin12345Mc (7570 in chips) 
+Seat 4: jjuul (4467 in chips) 
+Seat 5: peramatioths (3829 in chips) 
+Seat 6: chuoithat (3207 in chips) 
+Seat 7: LUCAZORGE (4135 in chips) 
+Seat 8: NcoreFerko (10811 in chips) 
+L3VI_7X: posts the ante 12
+Toni_Run: posts the ante 12
+Kevin12345Mc: posts the ante 12
+jjuul: posts the ante 12
+peramatioths: posts the ante 12
+chuoithat: posts the ante 12
+LUCAZORGE: posts the ante 12
+NcoreFerko: posts the ante 12
+L3VI_7X: posts small blind 40
+Toni_Run: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 9c]
+Kevin12345Mc: folds 
+jjuul: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: raises 80 to 160
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: calls 80
+*** FLOP *** [8d 2s 8s]
+Toni_Run: checks 
+LUCAZORGE: bets 150
+Toni_Run: calls 150
+*** TURN *** [8d 2s 8s] [4h]
+Toni_Run: checks 
+LUCAZORGE: bets 189
+Toni_Run: calls 189
+*** RIVER *** [8d 2s 8s 4h] [4d]
+Toni_Run: checks 
+LUCAZORGE: checks 
+*** SHOW DOWN ***
+Toni_Run: shows [4s Js] (a full house, Fours full of Eights)
+LUCAZORGE: mucks hand 
+Toni_Run collected 1134 from pot
+*** SUMMARY ***
+Total pot 1134 | Rake 0 
+Board [8d 2s 8s 4h 4d]
+Seat 1: L3VI_7X (small blind) folded before Flop
+Seat 2: Toni_Run (big blind) showed [4s Js] and won (1134) with a full house, Fours full of Eights
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE mucked [Ah Td]
+Seat 8: NcoreFerko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863633751: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 18:06:43 WET [2025/02/14 13:06:43 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: L3VI_7X (4768 in chips) 
+Seat 2: Toni_Run (5443 in chips) 
+Seat 3: Kevin12345Mc (7558 in chips) 
+Seat 4: jjuul (4455 in chips) 
+Seat 5: peramatioths (3817 in chips) 
+Seat 6: chuoithat (3195 in chips) 
+Seat 7: LUCAZORGE (3624 in chips) 
+Seat 8: NcoreFerko (10799 in chips) 
+L3VI_7X: posts the ante 12
+Toni_Run: posts the ante 12
+Kevin12345Mc: posts the ante 12
+jjuul: posts the ante 12
+peramatioths: posts the ante 12
+chuoithat: posts the ante 12
+LUCAZORGE: posts the ante 12
+NcoreFerko: posts the ante 12
+Toni_Run: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh Qh]
+jjuul: folds 
+peramatioths: raises 80 to 160
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: calls 80
+*** FLOP *** [7h 9s 4c]
+Kevin12345Mc: checks 
+peramatioths: checks 
+*** TURN *** [7h 9s 4c] [8c]
+Kevin12345Mc: checks 
+peramatioths: bets 228
+Kevin12345Mc: calls 228
+*** RIVER *** [7h 9s 4c 8c] [Jd]
+Kevin12345Mc: checks 
+peramatioths: bets 456
+Kevin12345Mc: calls 456
+*** SHOW DOWN ***
+peramatioths: shows [Ad Th] (a straight, Seven to Jack)
+Kevin12345Mc: mucks hand 
+peramatioths collected 1824 from pot
+*** SUMMARY ***
+Total pot 1824 | Rake 0 
+Board [7h 9s 4c 8c Jd]
+Seat 1: L3VI_7X (button) folded before Flop (didn't bet)
+Seat 2: Toni_Run (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) mucked [Jh Qh]
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths showed [Ad Th] and won (1824) with a straight, Seven to Jack
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863648779: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 18:07:43 WET [2025/02/14 13:07:43 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: L3VI_7X (4756 in chips) 
+Seat 2: Toni_Run (5391 in chips) 
+Seat 3: Kevin12345Mc (6702 in chips) 
+Seat 4: jjuul (4443 in chips) 
+Seat 5: peramatioths (4785 in chips) 
+Seat 6: chuoithat (3183 in chips) 
+Seat 7: LUCAZORGE (3612 in chips) 
+Seat 8: NcoreFerko (10787 in chips) 
+L3VI_7X: posts the ante 12
+Toni_Run: posts the ante 12
+Kevin12345Mc: posts the ante 12
+jjuul: posts the ante 12
+peramatioths: posts the ante 12
+chuoithat: posts the ante 12
+LUCAZORGE: posts the ante 12
+NcoreFerko: posts the ante 12
+Kevin12345Mc: posts small blind 40
+jjuul: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 5s]
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: raises 88 to 168
+Kevin12345Mc: folds 
+jjuul: folds 
+Uncalled bet (88) returned to Toni_Run
+Toni_Run collected 296 from pot
+Toni_Run: doesn't show hand 
+*** SUMMARY ***
+Total pot 296 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run (button) collected (296)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: jjuul (big blind) folded before Flop
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863654642: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/14 18:08:07 WET [2025/02/14 13:08:07 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: L3VI_7X (4744 in chips) 
+Seat 2: Toni_Run (5595 in chips) 
+Seat 3: Kevin12345Mc (6650 in chips) 
+Seat 4: jjuul (4351 in chips) 
+Seat 5: peramatioths (4773 in chips) 
+Seat 6: chuoithat (3171 in chips) 
+Seat 7: LUCAZORGE (3600 in chips) 
+Seat 8: NcoreFerko (10775 in chips) 
+L3VI_7X: posts the ante 12
+Toni_Run: posts the ante 12
+Kevin12345Mc: posts the ante 12
+jjuul: posts the ante 12
+peramatioths: posts the ante 12
+chuoithat: posts the ante 12
+LUCAZORGE: posts the ante 12
+NcoreFerko: posts the ante 12
+jjuul: posts small blind 40
+peramatioths: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 3h]
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: raises 80 to 160
+Kevin12345Mc: folds 
+jjuul: folds 
+peramatioths is connected 
+peramatioths is connected 
+peramatioths: calls 80
+*** FLOP *** [6s 8h 8c]
+peramatioths: checks 
+Toni_Run: checks 
+*** TURN *** [6s 8h 8c] [9h]
+peramatioths: checks 
+Toni_Run: checks 
+*** RIVER *** [6s 8h 8c 9h] [3c]
+peramatioths: checks 
+Toni_Run: bets 233
+peramatioths: folds 
+Uncalled bet (233) returned to Toni_Run
+Toni_Run collected 456 from pot
+Toni_Run: doesn't show hand 
+*** SUMMARY ***
+Total pot 456 | Rake 0 
+Board [6s 8h 8c 9h 3c]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run collected (456)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: jjuul (small blind) folded before Flop
+Seat 5: peramatioths (big blind) folded on the River
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863682310: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 18:09:59 WET [2025/02/14 13:09:59 ET]
+Table '3856223584 72' 8-max Seat #4 is the button
+Seat 1: L3VI_7X (4732 in chips) 
+Seat 2: Toni_Run (5879 in chips) 
+Seat 3: Kevin12345Mc (6638 in chips) 
+Seat 4: jjuul (4299 in chips) 
+Seat 5: peramatioths (4601 in chips) 
+Seat 6: chuoithat (3159 in chips) 
+Seat 7: LUCAZORGE (3588 in chips) 
+Seat 8: NcoreFerko (10763 in chips) 
+L3VI_7X: posts the ante 14
+Toni_Run: posts the ante 14
+Kevin12345Mc: posts the ante 14
+jjuul: posts the ante 14
+peramatioths: posts the ante 14
+chuoithat: posts the ante 14
+LUCAZORGE: posts the ante 14
+NcoreFerko: posts the ante 14
+peramatioths: posts small blind 45
+chuoithat: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Td]
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+jjuul: folds 
+peramatioths: raises 90 to 180
+chuoithat: calls 90
+*** FLOP *** [5c Qs 6h]
+peramatioths: bets 236
+chuoithat: calls 236
+*** TURN *** [5c Qs 6h] [Qc]
+peramatioths: bets 472
+chuoithat: calls 472
+*** RIVER *** [5c Qs 6h Qc] [3h]
+peramatioths: bets 944
+chuoithat: calls 944
+*** SHOW DOWN ***
+peramatioths: shows [5s Qh] (a full house, Queens full of Fives)
+chuoithat: mucks hand 
+peramatioths collected 3776 from pot
+*** SUMMARY ***
+Total pot 3776 | Rake 0 
+Board [5c Qs 6h Qc 3h]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul (button) folded before Flop (didn't bet)
+Seat 5: peramatioths (small blind) showed [5s Qh] and won (3776) with a full house, Queens full of Fives
+Seat 6: chuoithat (big blind) mucked [9d Qd]
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863711281: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 18:11:56 WET [2025/02/14 13:11:56 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: L3VI_7X (4718 in chips) 
+Seat 2: Toni_Run (5865 in chips) 
+Seat 3: Kevin12345Mc (6624 in chips) 
+Seat 4: jjuul (4285 in chips) 
+Seat 5: peramatioths (6531 in chips) 
+Seat 6: chuoithat (1313 in chips) 
+Seat 7: LUCAZORGE (3574 in chips) 
+Seat 8: NcoreFerko (10749 in chips) 
+L3VI_7X: posts the ante 14
+Toni_Run: posts the ante 14
+Kevin12345Mc: posts the ante 14
+jjuul: posts the ante 14
+peramatioths: posts the ante 14
+chuoithat: posts the ante 14
+LUCAZORGE: posts the ante 14
+NcoreFerko: posts the ante 14
+chuoithat: posts small blind 45
+LUCAZORGE: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 9d]
+NcoreFerko: raises 117 to 207
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+jjuul: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+Uncalled bet (117) returned to NcoreFerko
+NcoreFerko collected 337 from pot
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) folded before Flop
+Seat 7: LUCAZORGE (big blind) folded before Flop
+Seat 8: NcoreFerko collected (337)
+
+
+
+PokerStars Hand #254863718100: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 18:12:23 WET [2025/02/14 13:12:23 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: L3VI_7X (4704 in chips) 
+Seat 2: Toni_Run (5851 in chips) 
+Seat 3: Kevin12345Mc (6610 in chips) 
+Seat 4: jjuul (4271 in chips) 
+Seat 5: peramatioths (6517 in chips) 
+Seat 6: chuoithat (1254 in chips) 
+Seat 7: LUCAZORGE (3470 in chips) 
+Seat 8: NcoreFerko (10982 in chips) 
+L3VI_7X: posts the ante 14
+Toni_Run: posts the ante 14
+Kevin12345Mc: posts the ante 14
+jjuul: posts the ante 14
+peramatioths: posts the ante 14
+chuoithat: posts the ante 14
+LUCAZORGE: posts the ante 14
+NcoreFerko: posts the ante 14
+LUCAZORGE: posts small blind 45
+NcoreFerko: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Ts]
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+jjuul: folds 
+peramatioths: folds 
+chuoithat: raises 1150 to 1240 and is all-in
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Uncalled bet (1150) returned to chuoithat
+chuoithat collected 337 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 337 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat (button) collected (337)
+Seat 7: LUCAZORGE (small blind) folded before Flop
+Seat 8: NcoreFerko (big blind) folded before Flop
+
+
+
+PokerStars Hand #254863722879: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 18:12:43 WET [2025/02/14 13:12:43 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: L3VI_7X (4690 in chips) 
+Seat 2: Toni_Run (5837 in chips) 
+Seat 3: Kevin12345Mc (6596 in chips) 
+Seat 4: jjuul (4257 in chips) 
+Seat 5: peramatioths (6503 in chips) 
+Seat 6: chuoithat (1487 in chips) 
+Seat 7: LUCAZORGE (3411 in chips) 
+Seat 8: NcoreFerko (10878 in chips) 
+L3VI_7X: posts the ante 14
+Toni_Run: posts the ante 14
+Kevin12345Mc: posts the ante 14
+jjuul: posts the ante 14
+peramatioths: posts the ante 14
+chuoithat: posts the ante 14
+LUCAZORGE: posts the ante 14
+NcoreFerko: posts the ante 14
+NcoreFerko: posts small blind 45
+L3VI_7X: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 6d]
+Toni_Run: folds 
+Kevin12345Mc: folds 
+jjuul: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: raises 90 to 180
+NcoreFerko: raises 612 to 792
+L3VI_7X: folds 
+LUCAZORGE: folds 
+Uncalled bet (612) returned to NcoreFerko
+NcoreFerko collected 562 from pot
+*** SUMMARY ***
+Total pot 562 | Rake 0 
+Seat 1: L3VI_7X (big blind) folded before Flop
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (button) folded before Flop
+Seat 8: NcoreFerko (small blind) collected (562)
+
+
+
+PokerStars Hand #254863737470: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 18:13:42 WET [2025/02/14 13:13:42 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: L3VI_7X (4586 in chips) 
+Seat 2: Toni_Run (5823 in chips) 
+Seat 3: Kevin12345Mc (6582 in chips) 
+Seat 4: jjuul (4243 in chips) 
+Seat 5: peramatioths (6489 in chips) 
+Seat 6: chuoithat (1473 in chips) 
+Seat 7: LUCAZORGE (3217 in chips) 
+Seat 8: NcoreFerko (11246 in chips) 
+L3VI_7X: posts the ante 14
+Toni_Run: posts the ante 14
+Kevin12345Mc: posts the ante 14
+jjuul: posts the ante 14
+peramatioths: posts the ante 14
+chuoithat: posts the ante 14
+LUCAZORGE: posts the ante 14
+NcoreFerko: posts the ante 14
+L3VI_7X: posts small blind 45
+Toni_Run: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s Ad]
+Kevin12345Mc: folds 
+jjuul: folds 
+peramatioths: raises 90 to 180
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: calls 135
+Toni_Run: calls 90
+*** FLOP *** [3d 2c 6d]
+L3VI_7X: checks 
+Toni_Run: checks 
+peramatioths: bets 326
+L3VI_7X: calls 326
+Toni_Run: calls 326
+*** TURN *** [3d 2c 6d] [5h]
+L3VI_7X: checks 
+Toni_Run: bets 1146
+peramatioths: folds 
+L3VI_7X: folds 
+Uncalled bet (1146) returned to Toni_Run
+Toni_Run collected 1630 from pot
+Toni_Run: doesn't show hand 
+*** SUMMARY ***
+Total pot 1630 | Rake 0 
+Board [3d 2c 6d 5h]
+Seat 1: L3VI_7X (small blind) folded on the Turn
+Seat 2: Toni_Run (big blind) collected (1630)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths folded on the Turn
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863767497: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 18:15:41 WET [2025/02/14 13:15:41 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: L3VI_7X (4066 in chips) 
+Seat 2: Toni_Run (6933 in chips) 
+Seat 3: Kevin12345Mc (6568 in chips) 
+Seat 4: jjuul (4229 in chips) 
+Seat 5: peramatioths (5969 in chips) 
+Seat 6: chuoithat (1459 in chips) 
+Seat 7: LUCAZORGE (3203 in chips) 
+Seat 8: NcoreFerko (11232 in chips) 
+L3VI_7X: posts the ante 14
+Toni_Run: posts the ante 14
+Kevin12345Mc: posts the ante 14
+jjuul: posts the ante 14
+peramatioths: posts the ante 14
+chuoithat: posts the ante 14
+LUCAZORGE: posts the ante 14
+NcoreFerko: posts the ante 14
+Toni_Run: posts small blind 45
+Kevin12345Mc: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Jd]
+jjuul: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: calls 45
+Kevin12345Mc: checks 
+*** FLOP *** [8h 4c Kd]
+Toni_Run: checks 
+Kevin12345Mc: checks 
+*** TURN *** [8h 4c Kd] [5s]
+Toni_Run: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [8h 4c Kd 5s] [4h]
+Toni_Run: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+Toni_Run: shows [9c Qs] (a pair of Fours)
+Kevin12345Mc: mucks hand 
+Toni_Run collected 292 from pot
+*** SUMMARY ***
+Total pot 292 | Rake 0 
+Board [8h 4c Kd 5s 4h]
+Seat 1: L3VI_7X (button) folded before Flop (didn't bet)
+Seat 2: Toni_Run (small blind) showed [9c Qs] and won (292) with a pair of Fours
+Seat 3: Kevin12345Mc (big blind) mucked [3c Jd]
+Seat 4: jjuul folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863782461: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/14 18:16:41 WET [2025/02/14 13:16:41 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: L3VI_7X (4052 in chips) 
+Seat 2: Toni_Run (7121 in chips) 
+Seat 3: Kevin12345Mc (6464 in chips) 
+Seat 4: jjuul (4215 in chips) 
+Seat 5: peramatioths (5955 in chips) 
+Seat 6: chuoithat (1445 in chips) 
+Seat 7: LUCAZORGE (3189 in chips) 
+Seat 8: NcoreFerko (11218 in chips) 
+L3VI_7X: posts the ante 14
+Toni_Run: posts the ante 14
+Kevin12345Mc: posts the ante 14
+jjuul: posts the ante 14
+peramatioths: posts the ante 14
+chuoithat: posts the ante 14
+LUCAZORGE: posts the ante 14
+NcoreFerko: posts the ante 14
+Kevin12345Mc: posts small blind 45
+jjuul: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 2s]
+peramatioths: raises 90 to 180
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+jjuul: calls 90
+*** FLOP *** [6c 5s Tc]
+jjuul: checks 
+peramatioths: checks 
+*** TURN *** [6c 5s Tc] [5h]
+jjuul: checks 
+peramatioths: checks 
+*** RIVER *** [6c 5s Tc 5h] [3s]
+jjuul: checks 
+peramatioths: bets 540
+jjuul: calls 540
+*** SHOW DOWN ***
+peramatioths: shows [5d 9d] (three of a kind, Fives)
+jjuul: mucks hand 
+peramatioths collected 1597 from pot
+*** SUMMARY ***
+Total pot 1597 | Rake 0 
+Board [6c 5s Tc 5h 3s]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: jjuul (big blind) mucked [8h 8d]
+Seat 5: peramatioths showed [5d 9d] and won (1597) with three of a kind, Fives
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863798881: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 18:17:47 WET [2025/02/14 13:17:47 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: L3VI_7X (4038 in chips) 
+Seat 2: Toni_Run (7107 in chips) 
+Seat 3: Kevin12345Mc (6405 in chips) 
+Seat 4: jjuul (3481 in chips) 
+Seat 5: peramatioths (6818 in chips) 
+Seat 6: chuoithat (1431 in chips) 
+Seat 7: LUCAZORGE (3175 in chips) 
+Seat 8: NcoreFerko (11204 in chips) 
+L3VI_7X: posts the ante 15
+Toni_Run: posts the ante 15
+Kevin12345Mc: posts the ante 15
+jjuul: posts the ante 15
+peramatioths: posts the ante 15
+chuoithat: posts the ante 15
+LUCAZORGE: posts the ante 15
+NcoreFerko: posts the ante 15
+jjuul: posts small blind 50
+peramatioths: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Ah]
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 130 to 230
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+jjuul: raises 570 to 800
+peramatioths: folds 
+NcoreFerko: calls 570
+*** FLOP *** [7c 6d Jd]
+jjuul: bets 2666 and is all-in
+NcoreFerko: calls 2666
+*** TURN *** [7c 6d Jd] [Td]
+*** RIVER *** [7c 6d Jd Td] [Kc]
+*** SHOW DOWN ***
+jjuul: shows [Qs Qh] (a pair of Queens)
+NcoreFerko: shows [6h 6c] (three of a kind, Sixes)
+NcoreFerko collected 7152 from pot
+jjuul finished the tournament
+Zezea2003 is disconnected 
+*** SUMMARY ***
+Total pot 7152 | Rake 0 
+Board [7c 6d Jd Td Kc]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: jjuul (small blind) showed [Qs Qh] and lost with a pair of Queens
+Seat 5: peramatioths (big blind) folded before Flop
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko showed [6h 6c] and won (7152) with three of a kind, Sixes
+
+
+
+PokerStars Hand #254863809505: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 18:18:29 WET [2025/02/14 13:18:29 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: L3VI_7X (4023 in chips) 
+Seat 2: Toni_Run (7092 in chips) 
+Seat 3: Kevin12345Mc (6390 in chips) 
+Seat 4: Zezea2003 (5000 in chips) 
+Seat 5: peramatioths (6703 in chips) 
+Seat 6: chuoithat (1416 in chips) 
+Seat 7: LUCAZORGE (3160 in chips) 
+Seat 8: NcoreFerko (14875 in chips) 
+L3VI_7X: posts the ante 15
+Toni_Run: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Zezea2003: posts the ante 15
+peramatioths: posts the ante 15
+chuoithat: posts the ante 15
+LUCAZORGE: posts the ante 15
+NcoreFerko: posts the ante 15
+chuoithat: posts small blind 50
+LUCAZORGE: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Ad]
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths has timed out
+peramatioths: folds 
+peramatioths is sitting out
+chuoithat: raises 1301 to 1401 and is all-in
+peramatioths is disconnected 
+LUCAZORGE: folds 
+Uncalled bet (1301) returned to chuoithat
+chuoithat collected 320 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 320 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) collected (320)
+Seat 7: LUCAZORGE (big blind) folded before Flop
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863829343: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 18:19:49 WET [2025/02/14 13:19:49 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: L3VI_7X (4008 in chips) 
+Seat 2: Toni_Run (7077 in chips) 
+Seat 3: Kevin12345Mc (6375 in chips) 
+Seat 4: Zezea2003 (4985 in chips) 
+Seat 5: peramatioths (6688 in chips) is sitting out
+Seat 6: chuoithat (1621 in chips) 
+Seat 7: LUCAZORGE (3045 in chips) 
+Seat 8: NcoreFerko (14860 in chips) 
+L3VI_7X: posts the ante 15
+Toni_Run: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Zezea2003: posts the ante 15
+peramatioths: posts the ante 15
+chuoithat: posts the ante 15
+LUCAZORGE: posts the ante 15
+NcoreFerko: posts the ante 15
+LUCAZORGE: posts small blind 50
+NcoreFerko: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 7c]
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: calls 50
+NcoreFerko: checks 
+*** FLOP *** [Td 6d 9h]
+LUCAZORGE: bets 106
+NcoreFerko: calls 106
+*** TURN *** [Td 6d 9h] [Qc]
+peramatioths has returned
+LUCAZORGE: bets 356
+NcoreFerko: folds 
+Uncalled bet (356) returned to LUCAZORGE
+LUCAZORGE collected 532 from pot
+LUCAZORGE: doesn't show hand 
+*** SUMMARY ***
+Total pot 532 | Rake 0 
+Board [Td 6d 9h Qc]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat (button) folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (small blind) collected (532)
+Seat 8: NcoreFerko (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254863843725: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 18:20:47 WET [2025/02/14 13:20:47 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: L3VI_7X (3993 in chips) 
+Seat 2: Toni_Run (7062 in chips) 
+Seat 3: Kevin12345Mc (6360 in chips) 
+Seat 4: Zezea2003 (4970 in chips) 
+Seat 5: peramatioths (6673 in chips) 
+Seat 6: chuoithat (1606 in chips) 
+Seat 7: LUCAZORGE (3356 in chips) 
+Seat 8: NcoreFerko (14639 in chips) 
+L3VI_7X: posts the ante 15
+Toni_Run: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Zezea2003: posts the ante 15
+peramatioths: posts the ante 15
+chuoithat: posts the ante 15
+LUCAZORGE: posts the ante 15
+NcoreFerko: posts the ante 15
+NcoreFerko: posts small blind 50
+L3VI_7X: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 2d]
+Toni_Run: raises 100 to 200
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths is disconnected 
+peramatioths has timed out while being disconnected
+peramatioths: folds 
+peramatioths is sitting out
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: calls 100
+*** FLOP *** [Jh 5s 8c]
+L3VI_7X: checks 
+Toni_Run: checks 
+*** TURN *** [Jh 5s 8c] [5h]
+L3VI_7X: checks 
+Toni_Run: checks 
+*** RIVER *** [Jh 5s 8c 5h] [4s]
+L3VI_7X: bets 368
+Toni_Run: folds 
+Uncalled bet (368) returned to L3VI_7X
+L3VI_7X collected 570 from pot
+L3VI_7X: doesn't show hand 
+*** SUMMARY ***
+Total pot 570 | Rake 0 
+Board [Jh 5s 8c 5h 4s]
+Seat 1: L3VI_7X (big blind) collected (570)
+Seat 2: Toni_Run folded on the River
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (button) folded before Flop (didn't bet)
+Seat 8: NcoreFerko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863875915: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 18:22:55 WET [2025/02/14 13:22:55 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: L3VI_7X (4348 in chips) 
+Seat 2: Toni_Run (6847 in chips) 
+Seat 3: Kevin12345Mc (6345 in chips) 
+Seat 4: Zezea2003 (4955 in chips) 
+Seat 5: peramatioths (6658 in chips) is sitting out
+Seat 6: chuoithat (1591 in chips) 
+Seat 7: LUCAZORGE (3341 in chips) 
+Seat 8: NcoreFerko (14574 in chips) 
+L3VI_7X: posts the ante 15
+Toni_Run: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Zezea2003: posts the ante 15
+peramatioths: posts the ante 15
+chuoithat: posts the ante 15
+LUCAZORGE: posts the ante 15
+NcoreFerko: posts the ante 15
+L3VI_7X: posts small blind 50
+Toni_Run: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 4s]
+Kevin12345Mc: raises 130 to 230
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+peramatioths has returned
+Toni_Run: calls 130
+*** FLOP *** [9d Qs 2h]
+Toni_Run: checks 
+Kevin12345Mc: bets 208
+Toni_Run: folds 
+Uncalled bet (208) returned to Kevin12345Mc
+Kevin12345Mc collected 630 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 630 | Rake 0 
+Board [9d Qs 2h]
+Seat 1: L3VI_7X (small blind) folded before Flop
+Seat 2: Toni_Run (big blind) folded on the Flop
+Seat 3: Kevin12345Mc collected (630)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863890493: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 18:23:53 WET [2025/02/14 13:23:53 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: L3VI_7X (4283 in chips) 
+Seat 2: Toni_Run (6602 in chips) 
+Seat 3: Kevin12345Mc (6730 in chips) 
+Seat 4: Zezea2003 (4940 in chips) 
+Seat 5: peramatioths (6643 in chips) 
+Seat 6: chuoithat (1576 in chips) 
+Seat 7: LUCAZORGE (3326 in chips) 
+Seat 8: NcoreFerko (14559 in chips) 
+L3VI_7X: posts the ante 15
+Toni_Run: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Zezea2003: posts the ante 15
+peramatioths: posts the ante 15
+chuoithat: posts the ante 15
+LUCAZORGE: posts the ante 15
+NcoreFerko: posts the ante 15
+Toni_Run: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 6h]
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: raises 1461 to 1561 and is all-in
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Uncalled bet (1461) returned to chuoithat
+chuoithat collected 370 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: L3VI_7X (button) folded before Flop (didn't bet)
+Seat 2: Toni_Run (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat collected (370)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863899945: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 18:24:31 WET [2025/02/14 13:24:31 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: L3VI_7X (4268 in chips) 
+Seat 2: Toni_Run (6537 in chips) 
+Seat 3: Kevin12345Mc (6615 in chips) 
+Seat 4: Zezea2003 (4925 in chips) 
+Seat 5: peramatioths (6628 in chips) 
+Seat 6: chuoithat (1831 in chips) 
+Seat 7: LUCAZORGE (3311 in chips) 
+Seat 8: NcoreFerko (14544 in chips) 
+L3VI_7X: posts the ante 15
+Toni_Run: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Zezea2003: posts the ante 15
+peramatioths: posts the ante 15
+chuoithat: posts the ante 15
+LUCAZORGE: posts the ante 15
+NcoreFerko: posts the ante 15
+Kevin12345Mc: posts small blind 50
+Zezea2003: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Ad]
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: raises 100 to 200
+Toni_Run: folds 
+Kevin12345Mc: raises 600 to 800
+Zezea2003: folds 
+L3VI_7X: folds 
+Uncalled bet (600) returned to Kevin12345Mc
+Kevin12345Mc collected 620 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 620 | Rake 0 
+Seat 1: L3VI_7X folded before Flop
+Seat 2: Toni_Run (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) collected (620)
+Seat 4: Zezea2003 (big blind) folded before Flop
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863909535: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/14 18:25:08 WET [2025/02/14 13:25:08 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: L3VI_7X (4053 in chips) 
+Seat 2: Toni_Run (6522 in chips) 
+Seat 3: Kevin12345Mc (7020 in chips) 
+Seat 4: Zezea2003 (4810 in chips) 
+Seat 5: peramatioths (6613 in chips) 
+Seat 6: chuoithat (1816 in chips) 
+Seat 7: LUCAZORGE (3296 in chips) 
+Seat 8: NcoreFerko (14529 in chips) 
+L3VI_7X: posts the ante 15
+Toni_Run: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Zezea2003: posts the ante 15
+peramatioths: posts the ante 15
+chuoithat: posts the ante 15
+LUCAZORGE: posts the ante 15
+NcoreFerko: posts the ante 15
+Zezea2003: posts small blind 50
+peramatioths: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Kc]
+chuoithat: raises 1701 to 1801 and is all-in
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths has timed out
+peramatioths: folds 
+peramatioths is sitting out
+Uncalled bet (1701) returned to chuoithat
+chuoithat collected 370 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: Zezea2003 (small blind) folded before Flop
+Seat 5: peramatioths (big blind) folded before Flop
+Seat 6: chuoithat collected (370)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863921703: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 18:25:57 WET [2025/02/14 13:25:57 ET]
+Table '3856223584 72' 8-max Seat #4 is the button
+Seat 1: L3VI_7X (4038 in chips) 
+Seat 2: Toni_Run (6507 in chips) 
+Seat 3: Kevin12345Mc (7005 in chips) 
+Seat 4: Zezea2003 (4745 in chips) 
+Seat 5: peramatioths (6498 in chips) is sitting out
+Seat 6: chuoithat (2071 in chips) 
+Seat 7: LUCAZORGE (3281 in chips) 
+Seat 8: NcoreFerko (14514 in chips) 
+L3VI_7X: posts the ante 18
+Toni_Run: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Zezea2003: posts the ante 18
+peramatioths: posts the ante 18
+chuoithat: posts the ante 18
+LUCAZORGE: posts the ante 18
+NcoreFerko: posts the ante 18
+peramatioths: posts small blind 60
+chuoithat: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 8h]
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+peramatioths is disconnected 
+Zezea2003: raises 120 to 240
+peramatioths: folds 
+peramatioths has returned
+chuoithat: folds 
+Uncalled bet (120) returned to Zezea2003
+Zezea2003 collected 444 from pot
+Zezea2003: doesn't show hand 
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 (button) collected (444)
+Seat 5: peramatioths (small blind) folded before Flop
+Seat 6: chuoithat (big blind) folded before Flop
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863932828: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 18:26:41 WET [2025/02/14 13:26:41 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: L3VI_7X (4020 in chips) 
+Seat 2: Toni_Run (6489 in chips) 
+Seat 3: Kevin12345Mc (6987 in chips) 
+Seat 4: Zezea2003 (5051 in chips) 
+Seat 5: peramatioths (6420 in chips) 
+Seat 6: chuoithat (1933 in chips) 
+Seat 7: LUCAZORGE (3263 in chips) 
+Seat 8: NcoreFerko (14496 in chips) 
+L3VI_7X: posts the ante 18
+Toni_Run: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Zezea2003: posts the ante 18
+peramatioths: posts the ante 18
+chuoithat: posts the ante 18
+LUCAZORGE: posts the ante 18
+NcoreFerko: posts the ante 18
+chuoithat: posts small blind 60
+LUCAZORGE: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Ah]
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: raises 156 to 276
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: raises 1639 to 1915 and is all-in
+LUCAZORGE: folds 
+Kevin12345Mc: folds 
+Uncalled bet (1639) returned to chuoithat
+chuoithat collected 816 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 816 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) collected (816)
+Seat 7: LUCAZORGE (big blind) folded before Flop
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863944213: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 18:27:26 WET [2025/02/14 13:27:26 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: L3VI_7X (4002 in chips) 
+Seat 2: Toni_Run (6471 in chips) 
+Seat 3: Kevin12345Mc (6693 in chips) 
+Seat 4: Zezea2003 (5033 in chips) 
+Seat 5: peramatioths (6402 in chips) 
+Seat 6: chuoithat (2455 in chips) 
+Seat 7: LUCAZORGE (3125 in chips) 
+Seat 8: NcoreFerko (14478 in chips) 
+L3VI_7X: posts the ante 18
+Toni_Run: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Zezea2003: posts the ante 18
+peramatioths: posts the ante 18
+chuoithat: posts the ante 18
+LUCAZORGE: posts the ante 18
+NcoreFerko: posts the ante 18
+LUCAZORGE: posts small blind 60
+NcoreFerko: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Ts]
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: calls 60
+NcoreFerko: checks 
+*** FLOP *** [3c Qc 7d]
+LUCAZORGE: bets 120
+NcoreFerko: calls 120
+*** TURN *** [3c Qc 7d] [9s]
+LUCAZORGE: bets 480
+NcoreFerko: calls 480
+*** RIVER *** [3c Qc 7d 9s] [2d]
+LUCAZORGE: checks 
+NcoreFerko: bets 1140
+LUCAZORGE: folds 
+Uncalled bet (1140) returned to NcoreFerko
+NcoreFerko collected 1584 from pot
+*** SUMMARY ***
+Total pot 1584 | Rake 0 
+Board [3c Qc 7d 9s 2d]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat (button) folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (small blind) folded on the River
+Seat 8: NcoreFerko (big blind) collected (1584)
+
+
+
+PokerStars Hand #254863970910: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 18:29:11 WET [2025/02/14 13:29:11 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: L3VI_7X (3984 in chips) 
+Seat 2: Toni_Run (6453 in chips) 
+Seat 3: Kevin12345Mc (6675 in chips) 
+Seat 4: Zezea2003 (5015 in chips) 
+Seat 5: peramatioths (6384 in chips) 
+Seat 6: chuoithat (2437 in chips) 
+Seat 7: LUCAZORGE (2387 in chips) 
+Seat 8: NcoreFerko (15324 in chips) 
+L3VI_7X: posts the ante 18
+Toni_Run: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Zezea2003: posts the ante 18
+peramatioths: posts the ante 18
+chuoithat: posts the ante 18
+LUCAZORGE: posts the ante 18
+NcoreFerko: posts the ante 18
+NcoreFerko: posts small blind 60
+L3VI_7X: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 9d]
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 276 to 396
+L3VI_7X: calls 276
+*** FLOP *** [Ac Ad 6h]
+NcoreFerko: bets 290
+L3VI_7X: calls 290
+*** TURN *** [Ac Ad 6h] [Jc]
+Toni_Run is disconnected 
+NcoreFerko: bets 1152
+L3VI_7X: folds 
+Uncalled bet (1152) returned to NcoreFerko
+NcoreFerko collected 1516 from pot
+*** SUMMARY ***
+Total pot 1516 | Rake 0 
+Board [Ac Ad 6h Jc]
+Seat 1: L3VI_7X (big blind) folded on the Turn
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (button) folded before Flop (didn't bet)
+Seat 8: NcoreFerko (small blind) collected (1516)
+
+
+
+PokerStars Hand #254863994807: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 18:30:44 WET [2025/02/14 13:30:44 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: L3VI_7X (3280 in chips) 
+Seat 2: Toni_Run (6435 in chips) 
+Seat 3: Kevin12345Mc (6657 in chips) 
+Seat 4: Zezea2003 (4997 in chips) 
+Seat 5: peramatioths (6366 in chips) 
+Seat 6: chuoithat (2419 in chips) 
+Seat 7: LUCAZORGE (2369 in chips) 
+Seat 8: NcoreFerko (16136 in chips) 
+L3VI_7X: posts the ante 18
+Toni_Run: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Zezea2003: posts the ante 18
+peramatioths: posts the ante 18
+chuoithat: posts the ante 18
+LUCAZORGE: posts the ante 18
+NcoreFerko: posts the ante 18
+L3VI_7X: posts small blind 60
+Toni_Run: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 4h]
+peramatioths is disconnected 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths has timed out while disconnected
+peramatioths: folds 
+peramatioths is sitting out
+chuoithat: folds 
+LUCAZORGE: raises 120 to 240
+NcoreFerko: folds 
+L3VI_7X: raises 3022 to 3262 and is all-in
+Toni_Run has timed out while disconnected
+Toni_Run: folds 
+Toni_Run is sitting out
+LUCAZORGE: folds 
+Uncalled bet (3022) returned to L3VI_7X
+L3VI_7X collected 744 from pot
+L3VI_7X: doesn't show hand 
+*** SUMMARY ***
+Total pot 744 | Rake 0 
+Seat 1: L3VI_7X (small blind) collected (744)
+Seat 2: Toni_Run (big blind) folded before Flop
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop
+Seat 8: NcoreFerko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864013764: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 18:31:57 WET [2025/02/14 13:31:57 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: L3VI_7X (3766 in chips) 
+Seat 2: Toni_Run (6297 in chips) is sitting out
+Seat 3: Kevin12345Mc (6639 in chips) 
+Seat 4: Zezea2003 (4979 in chips) 
+Seat 5: peramatioths (6348 in chips) is sitting out
+Seat 6: chuoithat (2401 in chips) 
+Seat 7: LUCAZORGE (2111 in chips) 
+Seat 8: NcoreFerko (16118 in chips) 
+L3VI_7X: posts the ante 18
+Toni_Run: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Zezea2003: posts the ante 18
+peramatioths: posts the ante 18
+chuoithat: posts the ante 18
+LUCAZORGE: posts the ante 18
+NcoreFerko: posts the ante 18
+Toni_Run: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 6s]
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: raises 144 to 264
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: calls 264
+Toni_Run: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [5s 8h 7h]
+chuoithat: checks 
+L3VI_7X: bets 326
+chuoithat: folds 
+Uncalled bet (326) returned to L3VI_7X
+L3VI_7X collected 852 from pot
+L3VI_7X: doesn't show hand 
+*** SUMMARY ***
+Total pot 852 | Rake 0 
+Board [5s 8h 7h]
+Seat 1: L3VI_7X (button) collected (852)
+Seat 2: Toni_Run (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded on the Flop
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864028300: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/14 18:32:54 WET [2025/02/14 13:32:54 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: L3VI_7X (4336 in chips) 
+Seat 2: Toni_Run (6219 in chips) is sitting out
+Seat 3: Kevin12345Mc (6501 in chips) 
+Seat 4: Zezea2003 (4961 in chips) 
+Seat 5: peramatioths (6330 in chips) is sitting out
+Seat 6: chuoithat (2119 in chips) 
+Seat 7: LUCAZORGE (2093 in chips) 
+Seat 8: NcoreFerko (16100 in chips) 
+L3VI_7X: posts the ante 18
+Toni_Run: posts the ante 18
+Kevin12345Mc: posts the ante 18
+Zezea2003: posts the ante 18
+peramatioths: posts the ante 18
+chuoithat: posts the ante 18
+LUCAZORGE: posts the ante 18
+NcoreFerko: posts the ante 18
+Kevin12345Mc: posts small blind 60
+Zezea2003: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 8s]
+peramatioths: folds 
+chuoithat: raises 144 to 264
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: calls 144
+*** FLOP *** [4s 4c 3h]
+Zezea2003: checks 
+chuoithat: bets 249
+Zezea2003: raises 627 to 876
+chuoithat: raises 961 to 1837 and is all-in
+Zezea2003: calls 961
+*** TURN *** [4s 4c 3h] [4h]
+*** RIVER *** [4s 4c 3h 4h] [3d]
+*** SHOW DOWN ***
+Zezea2003: shows [6s 6h] (a full house, Fours full of Sixes)
+chuoithat: shows [Kh Ac] (a full house, Fours full of Threes)
+Zezea2003 collected 4406 from pot
+chuoithat finished the tournament
+*** SUMMARY ***
+Total pot 4406 | Rake 0 
+Board [4s 4c 3h 4h 3d]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: Zezea2003 (big blind) showed [6s 6h] and won (4406) with a full house, Fours full of Sixes
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat showed [Kh Ac] and lost with a full house, Fours full of Threes
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864043806: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 18:33:54 WET [2025/02/14 13:33:54 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: L3VI_7X (4318 in chips) 
+Seat 2: Toni_Run (6201 in chips) is sitting out
+Seat 3: Kevin12345Mc (6423 in chips) 
+Seat 4: Zezea2003 (7248 in chips) 
+Seat 5: peramatioths (6312 in chips) is sitting out
+Seat 7: LUCAZORGE (2075 in chips) 
+Seat 8: NcoreFerko (16082 in chips) 
+L3VI_7X: posts the ante 21
+Toni_Run: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Zezea2003: posts the ante 21
+peramatioths: posts the ante 21
+LUCAZORGE: posts the ante 21
+NcoreFerko: posts the ante 21
+Zezea2003: posts small blind 70
+peramatioths: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 2s]
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: raises 350 to 490
+peramatioths: folds 
+Uncalled bet (350) returned to Zezea2003
+Zezea2003 collected 427 from pot
+Zezea2003: doesn't show hand 
+*** SUMMARY ***
+Total pot 427 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: Zezea2003 (small blind) collected (427)
+Seat 5: peramatioths (big blind) folded before Flop
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864046278: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 18:34:04 WET [2025/02/14 13:34:04 ET]
+Table '3856223584 72' 8-max Seat #4 is the button
+Seat 1: L3VI_7X (4297 in chips) 
+Seat 2: Toni_Run (6180 in chips) is sitting out
+Seat 3: Kevin12345Mc (6402 in chips) 
+Seat 4: Zezea2003 (7514 in chips) 
+Seat 5: peramatioths (6151 in chips) is sitting out
+Seat 6: chuoithat (5000 in chips) 
+Seat 7: LUCAZORGE (2054 in chips) 
+Seat 8: NcoreFerko (16061 in chips) 
+L3VI_7X: posts the ante 21
+Toni_Run: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Zezea2003: posts the ante 21
+peramatioths: posts the ante 21
+chuoithat: posts the ante 21
+LUCAZORGE: posts the ante 21
+NcoreFerko: posts the ante 21
+peramatioths: posts small blind 70
+chuoithat: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Jd]
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: raises 140 to 280
+peramatioths: folds 
+chuoithat: folds 
+Uncalled bet (140) returned to Zezea2003
+Zezea2003 collected 518 from pot
+Zezea2003: doesn't show hand 
+*** SUMMARY ***
+Total pot 518 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 (button) collected (518)
+Seat 5: peramatioths (small blind) folded before Flop
+Seat 6: chuoithat (big blind) folded before Flop
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864052253: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 18:34:26 WET [2025/02/14 13:34:26 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: L3VI_7X (4276 in chips) 
+Seat 2: Toni_Run (6159 in chips) is sitting out
+Seat 3: Kevin12345Mc (6381 in chips) 
+Seat 4: Zezea2003 (7871 in chips) 
+Seat 5: peramatioths (6060 in chips) is sitting out
+Seat 6: chuoithat (4839 in chips) 
+Seat 7: LUCAZORGE (2033 in chips) 
+Seat 8: NcoreFerko (16040 in chips) 
+L3VI_7X: posts the ante 21
+Toni_Run: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Zezea2003: posts the ante 21
+peramatioths: posts the ante 21
+chuoithat: posts the ante 21
+LUCAZORGE: posts the ante 21
+NcoreFerko: posts the ante 21
+chuoithat: posts small blind 70
+LUCAZORGE: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Th]
+NcoreFerko: folds 
+L3VI_7X: raises 140 to 280
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: calls 140
+*** FLOP *** [Qd 5s 7h]
+LUCAZORGE: checks 
+L3VI_7X: bets 173
+LUCAZORGE: calls 173
+*** TURN *** [Qd 5s 7h] [Ks]
+LUCAZORGE: checks 
+L3VI_7X: bets 828
+LUCAZORGE: calls 828
+*** RIVER *** [Qd 5s 7h Ks] [4h]
+LUCAZORGE: checks 
+L3VI_7X: checks 
+*** SHOW DOWN ***
+LUCAZORGE: shows [9s 6s] (high card King)
+L3VI_7X: shows [7s As] (a pair of Sevens)
+L3VI_7X collected 2800 from pot
+*** SUMMARY ***
+Total pot 2800 | Rake 0 
+Board [Qd 5s 7h Ks 4h]
+Seat 1: L3VI_7X showed [7s As] and won (2800) with a pair of Sevens
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) folded before Flop
+Seat 7: LUCAZORGE (big blind) showed [9s 6s] and lost with high card King
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864077402: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 18:36:03 WET [2025/02/14 13:36:03 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: L3VI_7X (5774 in chips) 
+Seat 2: Toni_Run (6138 in chips) is sitting out
+Seat 3: Kevin12345Mc (6360 in chips) 
+Seat 4: Zezea2003 (7850 in chips) 
+Seat 5: peramatioths (6039 in chips) is sitting out
+Seat 6: chuoithat (4748 in chips) 
+Seat 7: LUCAZORGE (731 in chips) 
+Seat 8: NcoreFerko (16019 in chips) 
+L3VI_7X: posts the ante 21
+Toni_Run: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Zezea2003: posts the ante 21
+peramatioths: posts the ante 21
+chuoithat: posts the ante 21
+LUCAZORGE: posts the ante 21
+NcoreFerko: posts the ante 21
+LUCAZORGE: posts small blind 70
+NcoreFerko: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 8h]
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: raises 168 to 308
+LUCAZORGE: raises 392 to 700
+NcoreFerko: folds 
+chuoithat: raises 392 to 1092
+LUCAZORGE: calls 10 and is all-in
+Uncalled bet (382) returned to chuoithat
+*** FLOP *** [9s Jd Kc]
+*** TURN *** [9s Jd Kc] [7s]
+*** RIVER *** [9s Jd Kc 7s] [Tc]
+*** SHOW DOWN ***
+LUCAZORGE: shows [9c Ac] (a pair of Nines)
+chuoithat: shows [Ah 4d] (high card Ace)
+LUCAZORGE collected 1728 from pot
+*** SUMMARY ***
+Total pot 1728 | Rake 0 
+Board [9s Jd Kc 7s Tc]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat (button) showed [Ah 4d] and lost with high card Ace
+Seat 7: LUCAZORGE (small blind) showed [9c Ac] and won (1728) with a pair of Nines
+Seat 8: NcoreFerko (big blind) folded before Flop
+
+
+
+PokerStars Hand #254864087121: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 18:36:40 WET [2025/02/14 13:36:40 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: L3VI_7X (5753 in chips) 
+Seat 2: Toni_Run (6117 in chips) is sitting out
+Seat 3: Kevin12345Mc (6339 in chips) 
+Seat 4: Zezea2003 (7829 in chips) 
+Seat 5: peramatioths (6018 in chips) is sitting out
+Seat 6: chuoithat (4017 in chips) 
+Seat 7: LUCAZORGE (1728 in chips) 
+Seat 8: NcoreFerko (15858 in chips) 
+L3VI_7X: posts the ante 21
+Toni_Run: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Zezea2003: posts the ante 21
+peramatioths: posts the ante 21
+chuoithat: posts the ante 21
+LUCAZORGE: posts the ante 21
+NcoreFerko: posts the ante 21
+NcoreFerko: posts small blind 70
+L3VI_7X: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 6h]
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+Toni_Run is disconnected 
+Toni_Run has returned
+NcoreFerko: raises 322 to 462
+L3VI_7X: calls 322
+*** FLOP *** [Ts 7s 8d]
+NcoreFerko: bets 786
+L3VI_7X: folds [2c]
+Uncalled bet (786) returned to NcoreFerko
+NcoreFerko collected 1092 from pot
+*** SUMMARY ***
+Total pot 1092 | Rake 0 
+Board [Ts 7s 8d]
+Seat 1: L3VI_7X (big blind) folded on the Flop
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (button) folded before Flop (didn't bet)
+Seat 8: NcoreFerko (small blind) collected (1092)
+
+
+
+PokerStars Hand #254864098982: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 18:37:26 WET [2025/02/14 13:37:26 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: L3VI_7X (5270 in chips) 
+Seat 2: Toni_Run (6096 in chips) 
+Seat 3: Kevin12345Mc (6318 in chips) 
+Seat 4: Zezea2003 (7808 in chips) 
+Seat 5: peramatioths (5997 in chips) is sitting out
+Seat 6: chuoithat (3996 in chips) 
+Seat 7: LUCAZORGE (1707 in chips) 
+Seat 8: NcoreFerko (16467 in chips) 
+L3VI_7X: posts the ante 21
+Toni_Run: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Zezea2003: posts the ante 21
+peramatioths: posts the ante 21
+chuoithat: posts the ante 21
+LUCAZORGE: posts the ante 21
+NcoreFerko: posts the ante 21
+L3VI_7X: posts small blind 70
+Toni_Run: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Qc]
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: calls 70
+Toni_Run: checks 
+*** FLOP *** [Td 8c 3c]
+L3VI_7X: checks 
+Toni_Run: checks 
+*** TURN *** [Td 8c 3c] [4c]
+L3VI_7X: checks 
+Toni_Run: checks 
+*** RIVER *** [Td 8c 3c 4c] [As]
+L3VI_7X: bets 349
+Toni_Run: folds 
+Uncalled bet (349) returned to L3VI_7X
+L3VI_7X collected 448 from pot
+L3VI_7X: doesn't show hand 
+*** SUMMARY ***
+Total pot 448 | Rake 0 
+Board [Td 8c 3c 4c As]
+Seat 1: L3VI_7X (small blind) collected (448)
+Seat 2: Toni_Run (big blind) folded on the River
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864116793: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 18:38:35 WET [2025/02/14 13:38:35 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: L3VI_7X (5557 in chips) 
+Seat 2: Toni_Run (5935 in chips) 
+Seat 3: Kevin12345Mc (6297 in chips) 
+Seat 4: Zezea2003 (7787 in chips) 
+Seat 5: peramatioths (5976 in chips) is sitting out
+Seat 6: chuoithat (3975 in chips) 
+Seat 7: LUCAZORGE (1686 in chips) 
+Seat 8: NcoreFerko (16446 in chips) 
+L3VI_7X: posts the ante 21
+Toni_Run: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Zezea2003: posts the ante 21
+peramatioths: posts the ante 21
+chuoithat: posts the ante 21
+LUCAZORGE: posts the ante 21
+NcoreFerko: posts the ante 21
+Toni_Run: posts small blind 70
+Kevin12345Mc: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 4c]
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 182 to 322
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Uncalled bet (182) returned to NcoreFerko
+NcoreFerko collected 518 from pot
+*** SUMMARY ***
+Total pot 518 | Rake 0 
+Seat 1: L3VI_7X (button) folded before Flop (didn't bet)
+Seat 2: Toni_Run (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko collected (518)
+
+
+
+PokerStars Hand #254864123653: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 18:39:02 WET [2025/02/14 13:39:02 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: L3VI_7X (5536 in chips) 
+Seat 2: Toni_Run (5844 in chips) 
+Seat 3: Kevin12345Mc (6136 in chips) 
+Seat 4: Zezea2003 (7766 in chips) 
+Seat 5: peramatioths (5955 in chips) is sitting out
+Seat 6: chuoithat (3954 in chips) 
+Seat 7: LUCAZORGE (1665 in chips) 
+Seat 8: NcoreFerko (16803 in chips) 
+L3VI_7X: posts the ante 21
+Toni_Run: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Zezea2003: posts the ante 21
+peramatioths: posts the ante 21
+chuoithat: posts the ante 21
+LUCAZORGE: posts the ante 21
+NcoreFerko: posts the ante 21
+Kevin12345Mc: posts small blind 70
+Zezea2003: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Qs]
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 182 to 322
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: calls 182
+*** FLOP *** [6h 4h Tc]
+Zezea2003: checks 
+NcoreFerko: checks 
+*** TURN *** [6h 4h Tc] [6d]
+Zezea2003: bets 450
+NcoreFerko: calls 450
+*** RIVER *** [6h 4h Tc 6d] [3h]
+Zezea2003: checks 
+NcoreFerko: bets 1344
+Zezea2003: calls 1344
+*** SHOW DOWN ***
+NcoreFerko: shows [Jc Qc] (a pair of Sixes)
+Zezea2003: shows [9c 9h] (two pair, Nines and Sixes)
+Zezea2003 collected 4470 from pot
+*** SUMMARY ***
+Total pot 4470 | Rake 0 
+Board [6h 4h Tc 6d 3h]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: Zezea2003 (big blind) showed [9c 9h] and won (4470) with two pair, Nines and Sixes
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko showed [Jc Qc] and lost with a pair of Sixes
+
+
+
+PokerStars Hand #254864151046: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/14 18:40:47 WET [2025/02/14 13:40:47 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: L3VI_7X (5515 in chips) 
+Seat 2: Toni_Run (5823 in chips) 
+Seat 3: Kevin12345Mc (6045 in chips) 
+Seat 4: Zezea2003 (10099 in chips) 
+Seat 5: peramatioths (5934 in chips) is sitting out
+Seat 6: chuoithat (3933 in chips) 
+Seat 7: LUCAZORGE (1644 in chips) 
+Seat 8: NcoreFerko (14666 in chips) 
+L3VI_7X: posts the ante 21
+Toni_Run: posts the ante 21
+Kevin12345Mc: posts the ante 21
+Zezea2003: posts the ante 21
+peramatioths: posts the ante 21
+chuoithat: posts the ante 21
+LUCAZORGE: posts the ante 21
+NcoreFerko: posts the ante 21
+Zezea2003: posts small blind 70
+peramatioths: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 3h]
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: raises 140 to 280
+Toni_Run: calls 280
+Kevin12345Mc: calls 280
+Zezea2003: folds 
+peramatioths: folds 
+*** FLOP *** [Kh Qd 8c]
+L3VI_7X: checks 
+Toni_Run: bets 402
+Kevin12345Mc: folds 
+L3VI_7X: calls 402
+*** TURN *** [Kh Qd 8c] [6s]
+L3VI_7X: checks 
+Toni_Run: checks 
+*** RIVER *** [Kh Qd 8c 6s] [Ad]
+L3VI_7X: checks 
+Toni_Run: checks 
+*** SHOW DOWN ***
+L3VI_7X: shows [8h 9h] (a pair of Eights)
+Toni_Run: shows [Qc Jc] (a pair of Queens)
+Toni_Run collected 2022 from pot
+*** SUMMARY ***
+Total pot 2022 | Rake 0 
+Board [Kh Qd 8c 6s Ad]
+Seat 1: L3VI_7X showed [8h 9h] and lost with a pair of Eights
+Seat 2: Toni_Run showed [Qc Jc] and won (2022) with a pair of Queens
+Seat 3: Kevin12345Mc (button) folded on the Flop
+Seat 4: Zezea2003 (small blind) folded before Flop
+Seat 5: peramatioths (big blind) folded before Flop
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864170610: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 18:42:03 WET [2025/02/14 13:42:03 ET]
+Table '3856223584 72' 8-max Seat #4 is the button
+Seat 1: L3VI_7X (4812 in chips) 
+Seat 2: Toni_Run (7142 in chips) 
+Seat 3: Kevin12345Mc (5744 in chips) 
+Seat 4: Zezea2003 (10008 in chips) 
+Seat 5: peramatioths (5773 in chips) is sitting out
+Seat 6: chuoithat (3912 in chips) 
+Seat 7: LUCAZORGE (1623 in chips) 
+Seat 8: NcoreFerko (14645 in chips) 
+L3VI_7X: posts the ante 24
+Toni_Run: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Zezea2003: posts the ante 24
+peramatioths: posts the ante 24
+chuoithat: posts the ante 24
+LUCAZORGE: posts the ante 24
+NcoreFerko: posts the ante 24
+peramatioths: posts small blind 80
+chuoithat: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 6d]
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: raises 176 to 336
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: calls 176
+*** FLOP *** [3d 9s Ks]
+chuoithat: checks 
+Toni_Run: bets 312
+chuoithat: calls 312
+*** TURN *** [3d 9s Ks] [Qs]
+chuoithat: checks 
+Toni_Run: bets 1317
+chuoithat: folds 
+Uncalled bet (1317) returned to Toni_Run
+Toni_Run collected 1568 from pot
+Toni_Run: doesn't show hand 
+*** SUMMARY ***
+Total pot 1568 | Rake 0 
+Board [3d 9s Ks Qs]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run collected (1568)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 (button) folded before Flop (didn't bet)
+Seat 5: peramatioths (small blind) folded before Flop
+Seat 6: chuoithat (big blind) folded on the Turn
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864193941: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 18:43:32 WET [2025/02/14 13:43:32 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: L3VI_7X (4788 in chips) 
+Seat 2: Toni_Run (8038 in chips) 
+Seat 3: Kevin12345Mc (5720 in chips) 
+Seat 4: Zezea2003 (9984 in chips) 
+Seat 5: peramatioths (5669 in chips) is sitting out
+Seat 6: chuoithat (3240 in chips) 
+Seat 7: LUCAZORGE (1599 in chips) 
+Seat 8: NcoreFerko (14621 in chips) 
+L3VI_7X: posts the ante 24
+Toni_Run: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Zezea2003: posts the ante 24
+peramatioths: posts the ante 24
+chuoithat: posts the ante 24
+LUCAZORGE: posts the ante 24
+NcoreFerko: posts the ante 24
+chuoithat: posts small blind 80
+LUCAZORGE: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 4d]
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: raises 160 to 320
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: calls 160
+*** FLOP *** [5s Qd Qc]
+LUCAZORGE: checks 
+Zezea2003: bets 273
+LUCAZORGE: folds 
+Uncalled bet (273) returned to Zezea2003
+Zezea2003 collected 912 from pot
+Zezea2003: doesn't show hand 
+*** SUMMARY ***
+Total pot 912 | Rake 0 
+Board [5s Qd Qc]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 collected (912)
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) folded before Flop
+Seat 7: LUCAZORGE (big blind) folded on the Flop
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864207733: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 18:44:25 WET [2025/02/14 13:44:25 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: L3VI_7X (4764 in chips) 
+Seat 2: Toni_Run (8014 in chips) 
+Seat 3: Kevin12345Mc (5696 in chips) 
+Seat 4: Zezea2003 (10552 in chips) 
+Seat 5: peramatioths (5645 in chips) is sitting out
+Seat 6: chuoithat (3136 in chips) 
+Seat 7: LUCAZORGE (1255 in chips) 
+Seat 8: NcoreFerko (14597 in chips) 
+L3VI_7X: posts the ante 24
+Toni_Run: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Zezea2003: posts the ante 24
+peramatioths: posts the ante 24
+chuoithat: posts the ante 24
+LUCAZORGE: posts the ante 24
+NcoreFerko: posts the ante 24
+LUCAZORGE: posts small blind 80
+NcoreFerko: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 7s]
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: raises 2952 to 3112 and is all-in
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Uncalled bet (2952) returned to chuoithat
+chuoithat collected 592 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat (button) collected (592)
+Seat 7: LUCAZORGE (small blind) folded before Flop
+Seat 8: NcoreFerko (big blind) folded before Flop
+
+
+
+PokerStars Hand #254864217758: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 18:45:03 WET [2025/02/14 13:45:03 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: L3VI_7X (4740 in chips) 
+Seat 2: Toni_Run (7990 in chips) 
+Seat 3: Kevin12345Mc (5672 in chips) 
+Seat 4: Zezea2003 (10528 in chips) 
+Seat 5: peramatioths (5621 in chips) is sitting out
+Seat 6: chuoithat (3544 in chips) 
+Seat 7: LUCAZORGE (1151 in chips) 
+Seat 8: NcoreFerko (14413 in chips) 
+L3VI_7X: posts the ante 24
+Toni_Run: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Zezea2003: posts the ante 24
+peramatioths: posts the ante 24
+chuoithat: posts the ante 24
+LUCAZORGE: posts the ante 24
+NcoreFerko: posts the ante 24
+NcoreFerko: posts small blind 80
+L3VI_7X: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 8h]
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: calls 80
+L3VI_7X: checks 
+*** FLOP *** [6c Tc Ks]
+NcoreFerko: checks 
+L3VI_7X: bets 174
+NcoreFerko: calls 174
+*** TURN *** [6c Tc Ks] [7h]
+NcoreFerko: checks 
+L3VI_7X: checks 
+*** RIVER *** [6c Tc Ks 7h] [Jd]
+NcoreFerko: checks 
+L3VI_7X: bets 640
+NcoreFerko: folds 
+Uncalled bet (640) returned to L3VI_7X
+L3VI_7X collected 860 from pot
+L3VI_7X: doesn't show hand 
+*** SUMMARY ***
+Total pot 860 | Rake 0 
+Board [6c Tc Ks 7h Jd]
+Seat 1: L3VI_7X (big blind) collected (860)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (button) folded before Flop (didn't bet)
+Seat 8: NcoreFerko (small blind) folded on the River
+
+
+
+PokerStars Hand #254864238551: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 18:46:22 WET [2025/02/14 13:46:22 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: L3VI_7X (5242 in chips) 
+Seat 2: Toni_Run (7966 in chips) 
+Seat 3: Kevin12345Mc (5648 in chips) 
+Seat 4: Zezea2003 (10504 in chips) 
+Seat 5: peramatioths (5597 in chips) is sitting out
+Seat 6: chuoithat (3520 in chips) 
+Seat 7: LUCAZORGE (1127 in chips) 
+Seat 8: NcoreFerko (14055 in chips) 
+L3VI_7X: posts the ante 24
+Toni_Run: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Zezea2003: posts the ante 24
+peramatioths: posts the ante 24
+chuoithat: posts the ante 24
+LUCAZORGE: posts the ante 24
+NcoreFerko: posts the ante 24
+L3VI_7X: posts small blind 80
+Toni_Run: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 4d]
+Kevin12345Mc: folds 
+Zezea2003: raises 160 to 320
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: calls 160
+*** FLOP *** [5h Jh Jd]
+Toni_Run: checks 
+Zezea2003: bets 301
+Toni_Run: folds 
+Uncalled bet (301) returned to Zezea2003
+Zezea2003 collected 912 from pot
+Zezea2003: doesn't show hand 
+*** SUMMARY ***
+Total pot 912 | Rake 0 
+Board [5h Jh Jd]
+Seat 1: L3VI_7X (small blind) folded before Flop
+Seat 2: Toni_Run (big blind) folded on the Flop
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 collected (912)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864251274: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 18:47:10 WET [2025/02/14 13:47:10 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: L3VI_7X (5138 in chips) 
+Seat 2: Toni_Run (7622 in chips) 
+Seat 3: Kevin12345Mc (5624 in chips) 
+Seat 4: Zezea2003 (11072 in chips) 
+Seat 5: peramatioths (5573 in chips) is sitting out
+Seat 6: chuoithat (3496 in chips) 
+Seat 7: LUCAZORGE (1103 in chips) 
+Seat 8: NcoreFerko (14031 in chips) 
+L3VI_7X: posts the ante 24
+Toni_Run: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Zezea2003: posts the ante 24
+peramatioths: posts the ante 24
+chuoithat: posts the ante 24
+LUCAZORGE: posts the ante 24
+NcoreFerko: posts the ante 24
+Toni_Run: posts small blind 80
+Kevin12345Mc: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 4c]
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 208 to 368
+L3VI_7X: calls 368
+Toni_Run: raises 1040 to 1408
+Kevin12345Mc: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Uncalled bet (1040) returned to Toni_Run
+Toni_Run collected 1456 from pot
+Toni_Run: doesn't show hand 
+*** SUMMARY ***
+Total pot 1456 | Rake 0 
+Seat 1: L3VI_7X (button) folded before Flop
+Seat 2: Toni_Run (small blind) collected (1456)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop
+
+
+
+PokerStars Hand #254864266280: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/14 18:48:08 WET [2025/02/14 13:48:08 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: L3VI_7X (4746 in chips) 
+Seat 2: Toni_Run (8686 in chips) 
+Seat 3: Kevin12345Mc (5440 in chips) 
+Seat 4: Zezea2003 (11048 in chips) 
+Seat 5: peramatioths (5549 in chips) is sitting out
+Seat 6: chuoithat (3472 in chips) 
+Seat 7: LUCAZORGE (1079 in chips) 
+Seat 8: NcoreFerko (13639 in chips) 
+L3VI_7X: posts the ante 24
+Toni_Run: posts the ante 24
+Kevin12345Mc: posts the ante 24
+Zezea2003: posts the ante 24
+peramatioths: posts the ante 24
+chuoithat: posts the ante 24
+LUCAZORGE: posts the ante 24
+NcoreFerko: posts the ante 24
+Kevin12345Mc: posts small blind 80
+Zezea2003: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 5c]
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: raises 160 to 320
+Kevin12345Mc: calls 240
+Zezea2003: folds 
+*** FLOP *** [Qd As 8s]
+Kevin12345Mc: checks 
+Toni_Run: checks 
+*** TURN *** [Qd As 8s] [8d]
+Kevin12345Mc: checks 
+Toni_Run: checks 
+*** RIVER *** [Qd As 8s 8d] [2s]
+Kevin12345Mc: checks 
+Toni_Run: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [6c 5c] (a pair of Eights)
+Toni_Run: shows [2d 4d] (two pair, Eights and Deuces)
+Toni_Run collected 992 from pot
+*** SUMMARY ***
+Total pot 992 | Rake 0 
+Board [Qd As 8s 8d 2s]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run (button) showed [2d 4d] and won (992) with two pair, Eights and Deuces
+Seat 3: Kevin12345Mc (small blind) showed [6c 5c] and lost with a pair of Eights
+Seat 4: Zezea2003 (big blind) folded before Flop
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864287755: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 18:49:30 WET [2025/02/14 13:49:30 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: L3VI_7X (4722 in chips) 
+Seat 2: Toni_Run (9334 in chips) 
+Seat 3: Kevin12345Mc (5096 in chips) 
+Seat 4: Zezea2003 (10864 in chips) 
+Seat 5: peramatioths (5525 in chips) is sitting out
+Seat 6: chuoithat (3448 in chips) 
+Seat 7: LUCAZORGE (1055 in chips) 
+Seat 8: NcoreFerko (13615 in chips) 
+L3VI_7X: posts the ante 27
+Toni_Run: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Zezea2003: posts the ante 27
+peramatioths: posts the ante 27
+chuoithat: posts the ante 27
+LUCAZORGE: posts the ante 27
+NcoreFerko: posts the ante 27
+Zezea2003: posts small blind 90
+peramatioths: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 5h]
+chuoithat: folds 
+LUCAZORGE: folds 
+NcoreFerko: raises 234 to 414
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+Uncalled bet (234) returned to NcoreFerko
+NcoreFerko collected 666 from pot
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: Zezea2003 (small blind) folded before Flop
+Seat 5: peramatioths (big blind) folded before Flop
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko collected (666)
+
+
+
+PokerStars Hand #254864296270: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 18:50:03 WET [2025/02/14 13:50:03 ET]
+Table '3856223584 72' 8-max Seat #4 is the button
+Seat 1: L3VI_7X (4695 in chips) 
+Seat 2: Toni_Run (9307 in chips) 
+Seat 3: Kevin12345Mc (5069 in chips) 
+Seat 4: Zezea2003 (10747 in chips) 
+Seat 5: peramatioths (5318 in chips) is sitting out
+Seat 6: chuoithat (3421 in chips) 
+Seat 7: LUCAZORGE (1028 in chips) 
+Seat 8: NcoreFerko (14074 in chips) 
+L3VI_7X: posts the ante 27
+Toni_Run: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Zezea2003: posts the ante 27
+peramatioths: posts the ante 27
+chuoithat: posts the ante 27
+LUCAZORGE: posts the ante 27
+NcoreFerko: posts the ante 27
+peramatioths: posts small blind 90
+chuoithat: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 8h]
+LUCAZORGE: folds 
+NcoreFerko: raises 234 to 414
+L3VI_7X: calls 414
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+*** FLOP *** [Kh 2s Ks]
+NcoreFerko: bets 407
+L3VI_7X: folds 
+Uncalled bet (407) returned to NcoreFerko
+NcoreFerko collected 1314 from pot
+*** SUMMARY ***
+Total pot 1314 | Rake 0 
+Board [Kh 2s Ks]
+Seat 1: L3VI_7X folded on the Flop
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 (button) folded before Flop (didn't bet)
+Seat 5: peramatioths (small blind) folded before Flop
+Seat 6: chuoithat (big blind) folded before Flop
+Seat 7: LUCAZORGE folded before Flop (didn't bet)
+Seat 8: NcoreFerko collected (1314)
+
+
+
+PokerStars Hand #254864305777: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 18:50:40 WET [2025/02/14 13:50:40 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: L3VI_7X (4254 in chips) 
+Seat 2: Toni_Run (9280 in chips) 
+Seat 3: Kevin12345Mc (5042 in chips) 
+Seat 4: Zezea2003 (10720 in chips) 
+Seat 5: peramatioths (5201 in chips) is sitting out
+Seat 6: chuoithat (3214 in chips) 
+Seat 7: LUCAZORGE (1001 in chips) 
+Seat 8: NcoreFerko (14947 in chips) 
+L3VI_7X: posts the ante 27
+Toni_Run: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Zezea2003: posts the ante 27
+peramatioths: posts the ante 27
+chuoithat: posts the ante 27
+LUCAZORGE: posts the ante 27
+NcoreFerko: posts the ante 27
+chuoithat: posts small blind 90
+LUCAZORGE: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 7c]
+NcoreFerko: folds 
+L3VI_7X: raises 180 to 360
+Toni_Run has timed out while disconnected
+Toni_Run: folds 
+Toni_Run is sitting out
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: calls 180
+*** FLOP *** [Kh 6s 2d]
+LUCAZORGE: checks 
+L3VI_7X: bets 180
+LUCAZORGE: folds 
+Uncalled bet (180) returned to L3VI_7X
+L3VI_7X collected 1026 from pot
+L3VI_7X: doesn't show hand 
+*** SUMMARY ***
+Total pot 1026 | Rake 0 
+Board [Kh 6s 2d]
+Seat 1: L3VI_7X collected (1026)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) folded before Flop
+Seat 7: LUCAZORGE (big blind) folded on the Flop
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864323073: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 18:51:47 WET [2025/02/14 13:51:47 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: L3VI_7X (4893 in chips) 
+Seat 2: Toni_Run (9253 in chips) is sitting out
+Seat 3: Kevin12345Mc (5015 in chips) 
+Seat 4: Zezea2003 (10693 in chips) 
+Seat 5: peramatioths (5174 in chips) is sitting out
+Seat 6: chuoithat (3097 in chips) 
+Seat 7: LUCAZORGE (614 in chips) 
+Seat 8: NcoreFerko (14920 in chips) 
+L3VI_7X: posts the ante 27
+Toni_Run: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Zezea2003: posts the ante 27
+peramatioths: posts the ante 27
+chuoithat: posts the ante 27
+LUCAZORGE: posts the ante 27
+NcoreFerko: posts the ante 27
+LUCAZORGE: posts small blind 90
+NcoreFerko: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 2h]
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: raises 2890 to 3070 and is all-in
+LUCAZORGE: folds 
+NcoreFerko: folds 
+Uncalled bet (2890) returned to chuoithat
+chuoithat collected 666 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat (button) collected (666)
+Seat 7: LUCAZORGE (small blind) folded before Flop
+Seat 8: NcoreFerko (big blind) folded before Flop
+
+
+
+PokerStars Hand #254864330935: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 18:52:17 WET [2025/02/14 13:52:17 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: L3VI_7X (4866 in chips) 
+Seat 2: Toni_Run (9226 in chips) is sitting out
+Seat 3: Kevin12345Mc (4988 in chips) 
+Seat 4: Zezea2003 (10666 in chips) 
+Seat 5: peramatioths (5147 in chips) is sitting out
+Seat 6: chuoithat (3556 in chips) 
+Seat 7: LUCAZORGE (497 in chips) 
+Seat 8: NcoreFerko (14713 in chips) 
+L3VI_7X: posts the ante 27
+Toni_Run: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Zezea2003: posts the ante 27
+peramatioths: posts the ante 27
+chuoithat: posts the ante 27
+LUCAZORGE: posts the ante 27
+NcoreFerko: posts the ante 27
+NcoreFerko: posts small blind 90
+L3VI_7X: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 6h]
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: raises 180 to 360
+peramatioths: folds 
+chuoithat: folds 
+LUCAZORGE: raises 110 to 470 and is all-in
+NcoreFerko: folds 
+L3VI_7X: folds 
+Zezea2003: calls 110
+Toni_Run has returned
+*** FLOP *** [Td 9s 4h]
+*** TURN *** [Td 9s 4h] [Th]
+*** RIVER *** [Td 9s 4h Th] [Kh]
+*** SHOW DOWN ***
+Zezea2003: shows [Jc Kc] (two pair, Kings and Tens)
+LUCAZORGE: shows [Ah 7s] (a pair of Tens)
+Zezea2003 collected 1426 from pot
+LUCAZORGE finished the tournament
+*** SUMMARY ***
+Total pot 1426 | Rake 0 
+Board [Td 9s 4h Th Kh]
+Seat 1: L3VI_7X (big blind) folded before Flop
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 showed [Jc Kc] and won (1426) with two pair, Kings and Tens
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: LUCAZORGE (button) showed [Ah 7s] and lost with a pair of Tens
+Seat 8: NcoreFerko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254864340853: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 18:52:55 WET [2025/02/14 13:52:55 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: L3VI_7X (4659 in chips) 
+Seat 2: Toni_Run (9199 in chips) 
+Seat 3: Kevin12345Mc (4961 in chips) 
+Seat 4: Zezea2003 (11595 in chips) 
+Seat 5: peramatioths (5120 in chips) is sitting out
+Seat 6: chuoithat (3529 in chips) 
+Seat 8: NcoreFerko (14596 in chips) 
+L3VI_7X: posts the ante 27
+Toni_Run: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Zezea2003: posts the ante 27
+peramatioths: posts the ante 27
+chuoithat: posts the ante 27
+NcoreFerko: posts the ante 27
+L3VI_7X: posts small blind 90
+Toni_Run: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 7c]
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+NcoreFerko: folds 
+TheRealDoofus is disconnected 
+L3VI_7X: folds 
+Uncalled bet (90) returned to Toni_Run
+Toni_Run collected 369 from pot
+Toni_Run: doesn't show hand 
+*** SUMMARY ***
+Total pot 369 | Rake 0 
+Seat 1: L3VI_7X (small blind) folded before Flop
+Seat 2: Toni_Run (big blind) collected (369)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 8: NcoreFerko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864344816: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 18:53:11 WET [2025/02/14 13:53:11 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: L3VI_7X (4542 in chips) 
+Seat 2: Toni_Run (9451 in chips) 
+Seat 3: Kevin12345Mc (4934 in chips) 
+Seat 4: Zezea2003 (11568 in chips) 
+Seat 5: peramatioths (5093 in chips) is sitting out
+Seat 6: chuoithat (3502 in chips) 
+Seat 7: TheRealDoofus (5000 in chips) 
+Seat 8: NcoreFerko (14569 in chips) 
+L3VI_7X: posts the ante 27
+Toni_Run: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Zezea2003: posts the ante 27
+peramatioths: posts the ante 27
+chuoithat: posts the ante 27
+TheRealDoofus: posts the ante 27
+NcoreFerko: posts the ante 27
+Toni_Run: posts small blind 90
+Kevin12345Mc: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Kc]
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+TheRealDoofus: folds 
+NcoreFerko: raises 234 to 414
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: calls 234
+*** FLOP *** [Jc 7s 7c]
+Kevin12345Mc: checks 
+NcoreFerko: bets 352
+Kevin12345Mc: calls 352
+*** TURN *** [Jc 7s 7c] [Ad]
+Kevin12345Mc: checks 
+NcoreFerko: bets 1233
+Kevin12345Mc: folds 
+Uncalled bet (1233) returned to NcoreFerko
+NcoreFerko collected 1838 from pot
+*** SUMMARY ***
+Total pot 1838 | Rake 0 
+Board [Jc 7s 7c Ad]
+Seat 1: L3VI_7X (button) folded before Flop (didn't bet)
+Seat 2: Toni_Run (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded on the Turn
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: TheRealDoofus folded before Flop (didn't bet)
+Seat 8: NcoreFerko collected (1838)
+
+
+
+PokerStars Hand #254864358696: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 18:54:04 WET [2025/02/14 13:54:04 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: L3VI_7X (4515 in chips) 
+Seat 2: Toni_Run (9334 in chips) 
+Seat 3: Kevin12345Mc (4141 in chips) 
+Seat 4: Zezea2003 (11541 in chips) 
+Seat 5: peramatioths (5066 in chips) is sitting out
+Seat 6: chuoithat (3475 in chips) 
+Seat 7: TheRealDoofus (4973 in chips) 
+Seat 8: NcoreFerko (15614 in chips) 
+L3VI_7X: posts the ante 27
+Toni_Run: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Zezea2003: posts the ante 27
+peramatioths: posts the ante 27
+chuoithat: posts the ante 27
+TheRealDoofus: posts the ante 27
+NcoreFerko: posts the ante 27
+Kevin12345Mc: posts small blind 90
+Zezea2003: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h Kh]
+peramatioths: folds 
+chuoithat: folds 
+TheRealDoofus: raises 198 to 378
+NcoreFerko: raises 864 to 1242
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+TheRealDoofus: raises 3704 to 4946 and is all-in
+NcoreFerko: folds 
+Uncalled bet (3704) returned to TheRealDoofus
+TheRealDoofus collected 2970 from pot
+TheRealDoofus: doesn't show hand 
+*** SUMMARY ***
+Total pot 2970 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: Zezea2003 (big blind) folded before Flop
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: TheRealDoofus collected (2970)
+Seat 8: NcoreFerko folded before Flop
+
+
+
+PokerStars Hand #254864372297: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 18:54:57 WET [2025/02/14 13:54:57 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: L3VI_7X (4488 in chips) 
+Seat 2: Toni_Run (9307 in chips) 
+Seat 3: Kevin12345Mc (4024 in chips) 
+Seat 4: Zezea2003 (11334 in chips) 
+Seat 5: peramatioths (5039 in chips) is sitting out
+Seat 6: chuoithat (3448 in chips) 
+Seat 7: TheRealDoofus (6674 in chips) 
+Seat 8: NcoreFerko (14345 in chips) 
+L3VI_7X: posts the ante 27
+Toni_Run: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Zezea2003: posts the ante 27
+peramatioths: posts the ante 27
+chuoithat: posts the ante 27
+TheRealDoofus: posts the ante 27
+NcoreFerko: posts the ante 27
+Zezea2003: posts small blind 90
+peramatioths: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 3h]
+chuoithat: raises 216 to 396
+TheRealDoofus: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+Uncalled bet (216) returned to chuoithat
+chuoithat collected 666 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: Zezea2003 (small blind) folded before Flop
+Seat 5: peramatioths (big blind) folded before Flop
+Seat 6: chuoithat collected (666)
+Seat 7: TheRealDoofus folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864472965: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 19:03:04 WET [2025/02/14 14:03:04 ET]
+Table '3856223584 72' 8-max Seat #4 is the button
+Seat 1: L3VI_7X (4461 in chips) 
+Seat 2: Toni_Run (9280 in chips) 
+Seat 3: Kevin12345Mc (3997 in chips) 
+Seat 4: Zezea2003 (11217 in chips) 
+Seat 5: peramatioths (4832 in chips) is sitting out
+Seat 6: chuoithat (3907 in chips) 
+Seat 7: BobyboyCRO (5000 in chips) 
+Seat 8: NcoreFerko (14318 in chips) 
+L3VI_7X: posts the ante 27
+Toni_Run: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Zezea2003: posts the ante 27
+peramatioths: posts the ante 27
+chuoithat: posts the ante 27
+BobyboyCRO: posts the ante 27
+NcoreFerko: posts the ante 27
+peramatioths: posts small blind 90
+chuoithat: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd Qc]
+BobyboyCRO: raises 360 to 540
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: calls 360
+*** FLOP *** [9c Qh 7d]
+chuoithat: checks 
+BobyboyCRO: bets 4433 and is all-in
+chuoithat: folds 
+Uncalled bet (4433) returned to BobyboyCRO
+BobyboyCRO collected 1386 from pot
+BobyboyCRO: doesn't show hand 
+*** SUMMARY ***
+Total pot 1386 | Rake 0 
+Board [9c Qh 7d]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 (button) folded before Flop (didn't bet)
+Seat 5: peramatioths (small blind) folded before Flop
+Seat 6: chuoithat (big blind) folded on the Flop
+Seat 7: BobyboyCRO collected (1386)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864487641: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/14 19:04:00 WET [2025/02/14 14:04:00 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: L3VI_7X (4434 in chips) 
+Seat 2: Toni_Run (9253 in chips) 
+Seat 3: Kevin12345Mc (3970 in chips) 
+Seat 4: Zezea2003 (11190 in chips) 
+Seat 5: peramatioths (4715 in chips) is sitting out
+Seat 6: chuoithat (3340 in chips) 
+Seat 7: BobyboyCRO (5819 in chips) 
+Seat 8: NcoreFerko (14291 in chips) 
+L3VI_7X: posts the ante 27
+Toni_Run: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Zezea2003: posts the ante 27
+peramatioths: posts the ante 27
+chuoithat: posts the ante 27
+BobyboyCRO: posts the ante 27
+NcoreFerko: posts the ante 27
+chuoithat: posts small blind 90
+BobyboyCRO: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Qh]
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: raises 198 to 378
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: calls 288
+BobyboyCRO: folds 
+*** FLOP *** [7c Ks 5h]
+chuoithat: checks 
+Kevin12345Mc: bets 380
+chuoithat: calls 380
+*** TURN *** [7c Ks 5h] [8c]
+chuoithat: checks 
+Kevin12345Mc: bets 631
+chuoithat: raises 1924 to 2555 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (1924) returned to chuoithat
+chuoithat collected 3174 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 3174 | Rake 0 
+Board [7c Ks 5h 8c]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded on the Turn
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) collected (3174)
+Seat 7: BobyboyCRO (big blind) folded before Flop
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864510763: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:05:29 WET [2025/02/14 14:05:29 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: L3VI_7X (4407 in chips) 
+Seat 2: Toni_Run (9226 in chips) 
+Seat 3: Kevin12345Mc (2554 in chips) 
+Seat 4: Zezea2003 (11163 in chips) 
+Seat 5: peramatioths (4688 in chips) is sitting out
+Seat 6: chuoithat (5098 in chips) 
+Seat 7: BobyboyCRO (5612 in chips) 
+Seat 8: NcoreFerko (14264 in chips) 
+L3VI_7X: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Zezea2003: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+BobyboyCRO: posts small blind 100
+NcoreFerko: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 3h]
+L3VI_7X: folds 
+Toni_Run: raises 200 to 400
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: calls 400
+BobyboyCRO: folds 
+NcoreFerko: folds 
+*** FLOP *** [7h 6c 5s]
+Toni_Run: checks 
+chuoithat: bets 456
+Toni_Run: folds 
+Uncalled bet (456) returned to chuoithat
+chuoithat collected 1340 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [7h 6c 5s]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded on the Flop
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat (button) collected (1340)
+Seat 7: BobyboyCRO (small blind) folded before Flop
+Seat 8: NcoreFerko (big blind) folded before Flop
+
+
+
+PokerStars Hand #254864527360: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:06:33 WET [2025/02/14 14:06:33 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: L3VI_7X (4377 in chips) 
+Seat 2: Toni_Run (8796 in chips) 
+Seat 3: Kevin12345Mc (2524 in chips) 
+Seat 4: Zezea2003 (11133 in chips) 
+Seat 5: peramatioths (4658 in chips) is sitting out
+Seat 6: chuoithat (6008 in chips) 
+Seat 7: BobyboyCRO (5482 in chips) 
+Seat 8: NcoreFerko (14034 in chips) 
+L3VI_7X: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Zezea2003: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+NcoreFerko: posts small blind 100
+L3VI_7X: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Jd]
+Toni_Run: folds 
+Kevin12345Mc: folds 
+Zezea2003: folds 
+peramatioths: folds 
+chuoithat: folds 
+BobyboyCRO: raises 600 to 800
+NcoreFerko: folds 
+L3VI_7X: folds 
+Uncalled bet (600) returned to BobyboyCRO
+BobyboyCRO collected 740 from pot
+BobyboyCRO: doesn't show hand 
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Seat 1: L3VI_7X (big blind) folded before Flop
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Zezea2003 folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: BobyboyCRO (button) collected (740)
+Seat 8: NcoreFerko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254864533375: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:06:57 WET [2025/02/14 14:06:57 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: L3VI_7X (4147 in chips) 
+Seat 2: Toni_Run (8766 in chips) 
+Seat 3: Kevin12345Mc (2494 in chips) 
+Seat 5: peramatioths (4628 in chips) is sitting out
+Seat 6: chuoithat (5978 in chips) 
+Seat 7: BobyboyCRO (5992 in chips) 
+Seat 8: NcoreFerko (13904 in chips) 
+L3VI_7X: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+L3VI_7X: posts small blind 100
+Toni_Run: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac Tc]
+Tayzonito is disconnected 
+Kevin12345Mc: raises 200 to 400
+peramatioths: folds 
+chuoithat: folds 
+BobyboyCRO: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Uncalled bet (200) returned to Kevin12345Mc
+Kevin12345Mc collected 710 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Seat 1: L3VI_7X (small blind) folded before Flop
+Seat 2: Toni_Run (big blind) folded before Flop
+Seat 3: Kevin12345Mc collected (710)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: BobyboyCRO folded before Flop (didn't bet)
+Seat 8: NcoreFerko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864543177: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:07:35 WET [2025/02/14 14:07:35 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: L3VI_7X (4017 in chips) 
+Seat 2: Toni_Run (8536 in chips) 
+Seat 3: Kevin12345Mc (2974 in chips) 
+Seat 4: Tayzonito (5000 in chips) 
+Seat 5: peramatioths (4598 in chips) is sitting out
+Seat 6: chuoithat (5948 in chips) 
+Seat 7: BobyboyCRO (5962 in chips) 
+Seat 8: NcoreFerko (13874 in chips) 
+L3VI_7X: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Tayzonito: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+Toni_Run: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 6s]
+Tayzonito: raises 4770 to 4970 and is all-in
+peramatioths: folds 
+chuoithat: folds 
+BobyboyCRO: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: calls 4870
+Kevin12345Mc: folds 
+*** FLOP *** [7h 2s Qd]
+*** TURN *** [7h 2s Qd] [As]
+*** RIVER *** [7h 2s Qd As] [5h]
+*** SHOW DOWN ***
+Toni_Run: shows [Ad Qc] (two pair, Aces and Queens)
+Tayzonito: shows [Ac 8d] (a pair of Aces)
+Toni_Run collected 10380 from pot
+Tayzonito finished the tournament
+*** SUMMARY ***
+Total pot 10380 | Rake 0 
+Board [7h 2s Qd As 5h]
+Seat 1: L3VI_7X (button) folded before Flop (didn't bet)
+Seat 2: Toni_Run (small blind) showed [Ad Qc] and won (10380) with two pair, Aces and Queens
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: Tayzonito showed [Ac 8d] and lost with a pair of Aces
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: BobyboyCRO folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864552510: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:08:11 WET [2025/02/14 14:08:11 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: L3VI_7X (3987 in chips) 
+Seat 2: Toni_Run (13916 in chips) 
+Seat 3: Kevin12345Mc (2744 in chips) 
+Seat 5: peramatioths (4568 in chips) is sitting out
+Seat 6: chuoithat (5918 in chips) 
+Seat 7: BobyboyCRO (5932 in chips) 
+Seat 8: NcoreFerko (13844 in chips) 
+L3VI_7X: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+Kevin12345Mc: posts small blind 100
+peramatioths: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 5c]
+chuoithat: folds 
+BobyboyCRO: folds 
+NcoreFerko: folds 
+L3VI_7X: raises 200 to 400
+Toni_Run: folds 
+Kevin12345Mc: folds 
+peramatioths: folds 
+Uncalled bet (200) returned to L3VI_7X
+L3VI_7X collected 710 from pot
+L3VI_7X: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Seat 1: L3VI_7X collected (710)
+Seat 2: Toni_Run (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 5: peramatioths (big blind) folded before Flop
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: BobyboyCRO folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864556403: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:08:26 WET [2025/02/14 14:08:26 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: L3VI_7X (4467 in chips) 
+Seat 2: Toni_Run (13886 in chips) 
+Seat 3: Kevin12345Mc (2614 in chips) 
+Seat 4: zygmax (10086 in chips) out of hand (moved from another table into small blind)
+Seat 5: peramatioths (4338 in chips) is sitting out
+Seat 6: chuoithat (5888 in chips) 
+Seat 7: BobyboyCRO (5902 in chips) 
+Seat 8: NcoreFerko (13814 in chips) 
+zygmax will be allowed to play after the button
+L3VI_7X: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+peramatioths: posts small blind 100
+chuoithat: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 5c]
+BobyboyCRO: raises 400 to 600
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+peramatioths: folds 
+chuoithat: folds 
+Uncalled bet (400) returned to BobyboyCRO
+BobyboyCRO collected 710 from pot
+BobyboyCRO: doesn't show hand 
+*** SUMMARY ***
+Total pot 710 | Rake 0 
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: peramatioths (small blind) folded before Flop
+Seat 6: chuoithat (big blind) folded before Flop
+Seat 7: BobyboyCRO collected (710)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864562534: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:08:51 WET [2025/02/14 14:08:51 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: L3VI_7X (4437 in chips) 
+Seat 2: Toni_Run (13856 in chips) 
+Seat 3: Kevin12345Mc (2584 in chips) 
+Seat 4: zygmax (10086 in chips) 
+Seat 5: peramatioths (4208 in chips) is sitting out
+Seat 6: chuoithat (5658 in chips) 
+Seat 7: BobyboyCRO (6382 in chips) 
+Seat 8: NcoreFerko (13784 in chips) 
+L3VI_7X: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+zygmax: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+chuoithat: posts small blind 100
+BobyboyCRO: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 3d]
+NcoreFerko: folds 
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+zygmax: raises 200 to 400
+peramatioths: folds 
+chuoithat: folds 
+BobyboyCRO: raises 400 to 800
+zygmax: calls 400
+*** FLOP *** [3c Jh Qd]
+BobyboyCRO: bets 770
+zygmax: calls 770
+*** TURN *** [3c Jh Qd] [6h]
+BobyboyCRO: bets 4782 and is all-in
+zygmax: folds 
+Uncalled bet (4782) returned to BobyboyCRO
+BobyboyCRO collected 3480 from pot
+BobyboyCRO: doesn't show hand 
+*** SUMMARY ***
+Total pot 3480 | Rake 0 
+Board [3c Jh Qd 6h]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: zygmax folded on the Turn
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) folded before Flop
+Seat 7: BobyboyCRO (big blind) collected (3480)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864572976: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:09:31 WET [2025/02/14 14:09:31 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: L3VI_7X (4407 in chips) 
+Seat 2: Toni_Run (13826 in chips) 
+Seat 3: Kevin12345Mc (2554 in chips) 
+Seat 4: zygmax (8486 in chips) 
+Seat 5: peramatioths (4178 in chips) is sitting out
+Seat 6: chuoithat (5528 in chips) 
+Seat 7: BobyboyCRO (8262 in chips) 
+Seat 8: NcoreFerko (13754 in chips) 
+L3VI_7X: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+zygmax: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+BobyboyCRO: posts small blind 100
+NcoreFerko: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 7s]
+L3VI_7X: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+zygmax: raises 200 to 400
+peramatioths: folds 
+chuoithat: raises 700 to 1100
+BobyboyCRO: folds 
+NcoreFerko: folds 
+zygmax: calls 700
+*** FLOP *** [Th 5s 7h]
+zygmax: checks 
+chuoithat: bets 932
+zygmax: folds 
+Uncalled bet (932) returned to chuoithat
+chuoithat collected 2740 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 2740 | Rake 0 
+Board [Th 5s 7h]
+Seat 1: L3VI_7X folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: zygmax folded on the Flop
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat (button) collected (2740)
+Seat 7: BobyboyCRO (small blind) folded before Flop
+Seat 8: NcoreFerko (big blind) folded before Flop
+
+
+
+PokerStars Hand #254864586715: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:10:24 WET [2025/02/14 14:10:24 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: L3VI_7X (4377 in chips) 
+Seat 2: Toni_Run (13796 in chips) 
+Seat 3: Kevin12345Mc (2524 in chips) 
+Seat 4: zygmax (7356 in chips) 
+Seat 5: peramatioths (4148 in chips) is sitting out
+Seat 6: chuoithat (7138 in chips) 
+Seat 7: BobyboyCRO (8132 in chips) 
+Seat 8: NcoreFerko (13524 in chips) 
+L3VI_7X: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+zygmax: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+NcoreFerko: posts small blind 100
+L3VI_7X: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 7c]
+Toni_Run: raises 200 to 400
+Kevin12345Mc: folds 
+zygmax: folds 
+peramatioths: folds 
+chuoithat: calls 400
+BobyboyCRO: folds 
+NcoreFerko: folds 
+L3VI_7X: folds 
+*** FLOP *** [3c 2h Kh]
+Toni_Run: bets 442
+chuoithat: folds 
+Uncalled bet (442) returned to Toni_Run
+Toni_Run collected 1340 from pot
+Toni_Run: doesn't show hand 
+*** SUMMARY ***
+Total pot 1340 | Rake 0 
+Board [3c 2h Kh]
+Seat 1: L3VI_7X (big blind) folded before Flop
+Seat 2: Toni_Run collected (1340)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: zygmax folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded on the Flop
+Seat 7: BobyboyCRO (button) folded before Flop (didn't bet)
+Seat 8: NcoreFerko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254864602372: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:11:23 WET [2025/02/14 14:11:23 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: L3VI_7X (4147 in chips) 
+Seat 2: Toni_Run (14706 in chips) 
+Seat 3: Kevin12345Mc (2494 in chips) 
+Seat 4: zygmax (7326 in chips) 
+Seat 5: peramatioths (4118 in chips) is sitting out
+Seat 6: chuoithat (6708 in chips) 
+Seat 7: BobyboyCRO (8102 in chips) 
+Seat 8: NcoreFerko (13394 in chips) 
+L3VI_7X: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+zygmax: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+L3VI_7X: posts small blind 100
+Toni_Run: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 4d]
+Kevin12345Mc: folds 
+zygmax: folds 
+peramatioths: folds 
+chuoithat: folds 
+BobyboyCRO: folds 
+NcoreFerko: folds 
+L3VI_7X: calls 100
+Toni_Run: raises 300 to 500
+L3VI_7X: raises 3617 to 4117 and is all-in
+Toni_Run: calls 3617
+*** FLOP *** [Kc 8d 4h]
+*** TURN *** [Kc 8d 4h] [Jc]
+*** RIVER *** [Kc 8d 4h Jc] [7c]
+*** SHOW DOWN ***
+L3VI_7X: shows [6c Ah] (high card Ace)
+Toni_Run: shows [Js Ad] (a pair of Jacks)
+Toni_Run collected 8474 from pot
+L3VI_7X finished the tournament
+DionataPZZ is disconnected 
+*** SUMMARY ***
+Total pot 8474 | Rake 0 
+Board [Kc 8d 4h Jc 7c]
+Seat 1: L3VI_7X (small blind) showed [6c Ah] and lost with high card Ace
+Seat 2: Toni_Run (big blind) showed [Js Ad] and won (8474) with a pair of Jacks
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: zygmax folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: BobyboyCRO folded before Flop (didn't bet)
+Seat 8: NcoreFerko (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864616378: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:12:16 WET [2025/02/14 14:12:16 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: DionataPZZ (5000 in chips) 
+Seat 2: Toni_Run (19033 in chips) 
+Seat 3: Kevin12345Mc (2464 in chips) 
+Seat 4: zygmax (7296 in chips) 
+Seat 5: peramatioths (4088 in chips) is sitting out
+Seat 6: chuoithat (6678 in chips) 
+Seat 7: BobyboyCRO (8072 in chips) 
+Seat 8: NcoreFerko (13364 in chips) 
+DionataPZZ: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+zygmax: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+Kevin12345Mc: posts small blind 100
+zygmax: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Ad]
+peramatioths: folds 
+chuoithat: folds 
+BobyboyCRO: raises 400 to 600
+NcoreFerko: folds 
+DionataPZZ: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+zygmax: calls 400
+*** FLOP *** [Jd 3s 5s]
+zygmax: checks 
+BobyboyCRO: bets 1540
+zygmax: folds 
+Uncalled bet (1540) returned to BobyboyCRO
+BobyboyCRO collected 1540 from pot
+BobyboyCRO: doesn't show hand 
+*** SUMMARY ***
+Total pot 1540 | Rake 0 
+Board [Jd 3s 5s]
+Seat 1: DionataPZZ folded before Flop (didn't bet)
+Seat 2: Toni_Run (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: zygmax (big blind) folded on the Flop
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: BobyboyCRO collected (1540)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864630545: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/14 19:13:09 WET [2025/02/14 14:13:09 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: DionataPZZ (4970 in chips) 
+Seat 2: Toni_Run (19003 in chips) 
+Seat 3: Kevin12345Mc (2334 in chips) 
+Seat 4: zygmax (6666 in chips) 
+Seat 5: peramatioths (4058 in chips) is sitting out
+Seat 6: chuoithat (6648 in chips) 
+Seat 7: BobyboyCRO (8982 in chips) 
+Seat 8: NcoreFerko (13334 in chips) 
+DionataPZZ: posts the ante 30
+Toni_Run: posts the ante 30
+Kevin12345Mc: posts the ante 30
+zygmax: posts the ante 30
+peramatioths: posts the ante 30
+chuoithat: posts the ante 30
+BobyboyCRO: posts the ante 30
+NcoreFerko: posts the ante 30
+zygmax: posts small blind 100
+peramatioths: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Ac]
+chuoithat: folds 
+BobyboyCRO: raises 400 to 600
+NcoreFerko: folds 
+DionataPZZ: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+zygmax: folds 
+peramatioths: folds 
+Uncalled bet (400) returned to BobyboyCRO
+BobyboyCRO collected 740 from pot
+BobyboyCRO: doesn't show hand 
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Seat 1: DionataPZZ folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: zygmax (small blind) folded before Flop
+Seat 5: peramatioths (big blind) folded before Flop
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: BobyboyCRO collected (740)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864638742: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:13:40 WET [2025/02/14 14:13:40 ET]
+Table '3856223584 72' 8-max Seat #4 is the button
+Seat 1: DionataPZZ (4940 in chips) 
+Seat 2: Toni_Run (18973 in chips) 
+Seat 3: Kevin12345Mc (2304 in chips) 
+Seat 4: zygmax (6536 in chips) 
+Seat 5: peramatioths (3828 in chips) is sitting out
+Seat 6: chuoithat (6618 in chips) 
+Seat 7: BobyboyCRO (9492 in chips) 
+Seat 8: NcoreFerko (13304 in chips) 
+DionataPZZ: posts the ante 36
+Toni_Run: posts the ante 36
+Kevin12345Mc: posts the ante 36
+zygmax: posts the ante 36
+peramatioths: posts the ante 36
+chuoithat: posts the ante 36
+BobyboyCRO: posts the ante 36
+NcoreFerko: posts the ante 36
+peramatioths: posts small blind 125
+chuoithat: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 8h]
+BobyboyCRO: folds 
+NcoreFerko: folds 
+DionataPZZ: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+zygmax: folds 
+peramatioths: folds 
+Uncalled bet (125) returned to chuoithat
+chuoithat collected 538 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 538 | Rake 0 
+Seat 1: DionataPZZ folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: zygmax (button) folded before Flop (didn't bet)
+Seat 5: peramatioths (small blind) folded before Flop
+Seat 6: chuoithat (big blind) collected (538)
+Seat 7: BobyboyCRO folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864642072: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:13:53 WET [2025/02/14 14:13:53 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: DionataPZZ (4904 in chips) 
+Seat 2: Toni_Run (18937 in chips) 
+Seat 3: Kevin12345Mc (2268 in chips) 
+Seat 4: zygmax (6500 in chips) 
+Seat 5: peramatioths (3667 in chips) is sitting out
+Seat 6: chuoithat (6995 in chips) 
+Seat 7: BobyboyCRO (9456 in chips) 
+Seat 8: NcoreFerko (13268 in chips) 
+DionataPZZ: posts the ante 36
+Toni_Run: posts the ante 36
+Kevin12345Mc: posts the ante 36
+zygmax: posts the ante 36
+peramatioths: posts the ante 36
+chuoithat: posts the ante 36
+BobyboyCRO: posts the ante 36
+NcoreFerko: posts the ante 36
+chuoithat: posts small blind 125
+BobyboyCRO: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 4d]
+NcoreFerko: folds 
+DionataPZZ: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+zygmax: folds 
+peramatioths: folds 
+chuoithat: calls 125
+BobyboyCRO: checks 
+*** FLOP *** [Qc 8s 9c]
+chuoithat: bets 500
+BobyboyCRO: folds 
+Uncalled bet (500) returned to chuoithat
+chuoithat collected 788 from pot
+chuoithat: doesn't show hand 
+*** SUMMARY ***
+Total pot 788 | Rake 0 
+Board [Qc 8s 9c]
+Seat 1: DionataPZZ folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: zygmax folded before Flop (didn't bet)
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) collected (788)
+Seat 7: BobyboyCRO (big blind) folded on the Flop
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864656258: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:14:47 WET [2025/02/14 14:14:47 ET]
+Table '3856223584 72' 8-max Seat #6 is the button
+Seat 1: DionataPZZ (4868 in chips) 
+Seat 2: Toni_Run (18901 in chips) 
+Seat 3: Kevin12345Mc (2232 in chips) 
+Seat 4: zygmax (6464 in chips) 
+Seat 5: peramatioths (3631 in chips) is sitting out
+Seat 6: chuoithat (7497 in chips) 
+Seat 7: BobyboyCRO (9170 in chips) 
+Seat 8: NcoreFerko (13232 in chips) 
+DionataPZZ: posts the ante 36
+Toni_Run: posts the ante 36
+Kevin12345Mc: posts the ante 36
+zygmax: posts the ante 36
+peramatioths: posts the ante 36
+chuoithat: posts the ante 36
+BobyboyCRO: posts the ante 36
+NcoreFerko: posts the ante 36
+BobyboyCRO: posts small blind 125
+NcoreFerko: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Ah]
+DionataPZZ: folds 
+Toni_Run: folds 
+Kevin12345Mc: raises 1946 to 2196 and is all-in
+zygmax: folds 
+peramatioths: folds 
+chuoithat: folds 
+BobyboyCRO: folds 
+NcoreFerko: calls 1946
+*** FLOP *** [Tc Qc 9c]
+*** TURN *** [Tc Qc 9c] [Td]
+*** RIVER *** [Tc Qc 9c Td] [6c]
+*** SHOW DOWN ***
+NcoreFerko: shows [4d As] (a pair of Tens)
+Kevin12345Mc: shows [8c Ah] (a flush, Queen high)
+Kevin12345Mc collected 4805 from pot
+*** SUMMARY ***
+Total pot 4805 | Rake 0 
+Board [Tc Qc 9c Td 6c]
+Seat 1: DionataPZZ folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc showed [8c Ah] and won (4805) with a flush, Queen high
+Seat 4: zygmax folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat (button) folded before Flop (didn't bet)
+Seat 7: BobyboyCRO (small blind) folded before Flop
+Seat 8: NcoreFerko (big blind) showed [4d As] and lost with a pair of Tens
+
+
+
+PokerStars Hand #254864666523: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:15:26 WET [2025/02/14 14:15:26 ET]
+Table '3856223584 72' 8-max Seat #7 is the button
+Seat 1: DionataPZZ (4832 in chips) 
+Seat 2: Toni_Run (18865 in chips) 
+Seat 3: Kevin12345Mc (4805 in chips) 
+Seat 4: zygmax (6428 in chips) 
+Seat 5: peramatioths (3595 in chips) is sitting out
+Seat 6: chuoithat (7461 in chips) 
+Seat 7: BobyboyCRO (9009 in chips) 
+Seat 8: NcoreFerko (11000 in chips) 
+DionataPZZ: posts the ante 36
+Toni_Run: posts the ante 36
+Kevin12345Mc: posts the ante 36
+zygmax: posts the ante 36
+peramatioths: posts the ante 36
+chuoithat: posts the ante 36
+BobyboyCRO: posts the ante 36
+NcoreFerko: posts the ante 36
+NcoreFerko: posts small blind 125
+DionataPZZ: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 2c]
+Toni_Run: folds 
+Kevin12345Mc: folds 
+zygmax: folds 
+peramatioths: folds 
+chuoithat: folds 
+BobyboyCRO: folds 
+NcoreFerko: calls 125
+DionataPZZ: raises 625 to 875
+NcoreFerko: folds 
+Uncalled bet (625) returned to DionataPZZ
+DionataPZZ collected 788 from pot
+*** SUMMARY ***
+Total pot 788 | Rake 0 
+Seat 1: DionataPZZ (big blind) collected (788)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: zygmax folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: BobyboyCRO (button) folded before Flop (didn't bet)
+Seat 8: NcoreFerko (small blind) folded before Flop
+
+
+
+PokerStars Hand #254864676665: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:16:04 WET [2025/02/14 14:16:04 ET]
+Table '3856223584 72' 8-max Seat #8 is the button
+Seat 1: DionataPZZ (5334 in chips) 
+Seat 2: Toni_Run (18829 in chips) 
+Seat 3: Kevin12345Mc (4769 in chips) 
+Seat 4: zygmax (6392 in chips) 
+Seat 5: peramatioths (3559 in chips) is sitting out
+Seat 6: chuoithat (7425 in chips) 
+Seat 7: BobyboyCRO (8973 in chips) 
+Seat 8: NcoreFerko (10714 in chips) 
+DionataPZZ: posts the ante 36
+Toni_Run: posts the ante 36
+Kevin12345Mc: posts the ante 36
+zygmax: posts the ante 36
+peramatioths: posts the ante 36
+chuoithat: posts the ante 36
+BobyboyCRO: posts the ante 36
+NcoreFerko: posts the ante 36
+DionataPZZ: posts small blind 125
+Toni_Run: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 7c]
+Kevin12345Mc: folds 
+zygmax: calls 250
+peramatioths: folds 
+chuoithat: raises 375 to 625
+BobyboyCRO: folds 
+NcoreFerko: raises 1100 to 1725
+DionataPZZ: folds 
+Toni_Run: folds 
+zygmax: folds 
+chuoithat: folds 
+Uncalled bet (1100) returned to NcoreFerko
+NcoreFerko collected 2163 from pot
+*** SUMMARY ***
+Total pot 2163 | Rake 0 
+Seat 1: DionataPZZ (small blind) folded before Flop
+Seat 2: Toni_Run (big blind) folded before Flop
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: zygmax folded before Flop
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop
+Seat 7: BobyboyCRO folded before Flop (didn't bet)
+Seat 8: NcoreFerko (button) collected (2163)
+
+
+
+PokerStars Hand #254864690614: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:16:56 WET [2025/02/14 14:16:56 ET]
+Table '3856223584 72' 8-max Seat #1 is the button
+Seat 1: DionataPZZ (5173 in chips) 
+Seat 2: Toni_Run (18543 in chips) 
+Seat 3: Kevin12345Mc (4733 in chips) 
+Seat 4: zygmax (6106 in chips) 
+Seat 5: peramatioths (3523 in chips) is sitting out
+Seat 6: chuoithat (6764 in chips) 
+Seat 7: BobyboyCRO (8937 in chips) 
+Seat 8: NcoreFerko (12216 in chips) 
+DionataPZZ: posts the ante 36
+Toni_Run: posts the ante 36
+Kevin12345Mc: posts the ante 36
+zygmax: posts the ante 36
+peramatioths: posts the ante 36
+chuoithat: posts the ante 36
+BobyboyCRO: posts the ante 36
+NcoreFerko: posts the ante 36
+Toni_Run: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 6s]
+zygmax: folds 
+peramatioths: folds 
+chuoithat: folds 
+BobyboyCRO: folds 
+NcoreFerko: folds 
+DionataPZZ: folds 
+Toni_Run: raises 18257 to 18507 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (18257) returned to Toni_Run
+Toni_Run collected 788 from pot
+Toni_Run: doesn't show hand 
+*** SUMMARY ***
+Total pot 788 | Rake 0 
+Seat 1: DionataPZZ (button) folded before Flop (didn't bet)
+Seat 2: Toni_Run (small blind) collected (788)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: zygmax folded before Flop (didn't bet)
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: BobyboyCRO folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864704042: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:17:46 WET [2025/02/14 14:17:46 ET]
+Table '3856223584 72' 8-max Seat #2 is the button
+Seat 1: DionataPZZ (5137 in chips) 
+Seat 2: Toni_Run (19045 in chips) 
+Seat 3: Kevin12345Mc (4447 in chips) 
+Seat 4: zygmax (6070 in chips) 
+Seat 5: peramatioths (3487 in chips) is sitting out
+Seat 6: chuoithat (6728 in chips) 
+Seat 7: BobyboyCRO (8901 in chips) 
+Seat 8: NcoreFerko (12180 in chips) 
+DionataPZZ: posts the ante 36
+Toni_Run: posts the ante 36
+Kevin12345Mc: posts the ante 36
+zygmax: posts the ante 36
+peramatioths: posts the ante 36
+chuoithat: posts the ante 36
+BobyboyCRO: posts the ante 36
+NcoreFerko: posts the ante 36
+Kevin12345Mc: posts small blind 125
+zygmax: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 4c]
+peramatioths: folds 
+chuoithat: folds 
+BobyboyCRO: folds 
+NcoreFerko: raises 275 to 525
+DionataPZZ: raises 4576 to 5101 and is all-in
+Toni_Run: folds 
+Kevin12345Mc: folds 
+zygmax: folds 
+NcoreFerko: folds 
+Uncalled bet (4576) returned to DionataPZZ
+DionataPZZ collected 1713 from pot
+*** SUMMARY ***
+Total pot 1713 | Rake 0 
+Seat 1: DionataPZZ collected (1713)
+Seat 2: Toni_Run (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: zygmax (big blind) folded before Flop
+Seat 5: peramatioths folded before Flop (didn't bet)
+Seat 6: chuoithat folded before Flop (didn't bet)
+Seat 7: BobyboyCRO folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop
+
+
+
+PokerStars Hand #254864716298: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:18:31 WET [2025/02/14 14:18:31 ET]
+Table '3856223584 72' 8-max Seat #3 is the button
+Seat 1: DionataPZZ (6289 in chips) 
+Seat 2: Toni_Run (19009 in chips) 
+Seat 3: Kevin12345Mc (4286 in chips) 
+Seat 4: zygmax (5784 in chips) 
+Seat 5: peramatioths (3451 in chips) is sitting out
+Seat 6: chuoithat (6692 in chips) 
+Seat 7: BobyboyCRO (8865 in chips) 
+Seat 8: NcoreFerko (11619 in chips) 
+DionataPZZ: posts the ante 36
+Toni_Run: posts the ante 36
+Kevin12345Mc: posts the ante 36
+zygmax: posts the ante 36
+peramatioths: posts the ante 36
+chuoithat: posts the ante 36
+BobyboyCRO: posts the ante 36
+NcoreFerko: posts the ante 36
+zygmax: posts small blind 125
+peramatioths: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 2d]
+chuoithat: raises 375 to 625
+BobyboyCRO: raises 8204 to 8829 and is all-in
+NcoreFerko: folds 
+DionataPZZ: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+zygmax: folds 
+peramatioths: folds 
+chuoithat: folds 
+Uncalled bet (8204) returned to BobyboyCRO
+BobyboyCRO collected 1913 from pot
+BobyboyCRO: doesn't show hand 
+*** SUMMARY ***
+Total pot 1913 | Rake 0 
+Seat 1: DionataPZZ folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 4: zygmax (small blind) folded before Flop
+Seat 5: peramatioths (big blind) folded before Flop
+Seat 6: chuoithat folded before Flop
+Seat 7: BobyboyCRO collected (1913)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864720965: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:18:48 WET [2025/02/14 14:18:48 ET]
+Table '3856223584 72' 8-max Seat #4 is the button
+Seat 1: DionataPZZ (6253 in chips) 
+Seat 2: Toni_Run (18973 in chips) 
+Seat 3: Kevin12345Mc (4250 in chips) 
+Seat 4: zygmax (5623 in chips) 
+Seat 5: peramatioths (3165 in chips) is sitting out
+Seat 6: chuoithat (6031 in chips) 
+Seat 7: BobyboyCRO (10117 in chips) 
+Seat 8: NcoreFerko (11583 in chips) 
+DionataPZZ: posts the ante 36
+Toni_Run: posts the ante 36
+Kevin12345Mc: posts the ante 36
+zygmax: posts the ante 36
+peramatioths: posts the ante 36
+chuoithat: posts the ante 36
+BobyboyCRO: posts the ante 36
+NcoreFerko: posts the ante 36
+peramatioths: posts small blind 125
+chuoithat: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Qh]
+BobyboyCRO: folds 
+NcoreFerko: folds 
+DionataPZZ: folds 
+Toni_Run: folds 
+Kevin12345Mc: folds 
+zygmax: raises 250 to 500
+peramatioths: folds 
+chuoithat: raises 1125 to 1625
+zygmax: raises 3962 to 5587 and is all-in
+chuoithat: calls 3962
+*** FLOP *** [4d Tc Jh]
+*** TURN *** [4d Tc Jh] [Th]
+*** RIVER *** [4d Tc Jh Th] [9s]
+*** SHOW DOWN ***
+chuoithat: shows [Kh Ks] (two pair, Kings and Tens)
+zygmax: shows [Ac Ad] (two pair, Aces and Tens)
+zygmax collected 11587 from pot
+*** SUMMARY ***
+Total pot 11587 | Rake 0 
+Board [4d Tc Jh Th 9s]
+Seat 1: DionataPZZ folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: zygmax (button) showed [Ac Ad] and won (11587) with two pair, Aces and Tens
+Seat 5: peramatioths (small blind) folded before Flop
+Seat 6: chuoithat (big blind) showed [Kh Ks] and lost with two pair, Kings and Tens
+Seat 7: BobyboyCRO folded before Flop (didn't bet)
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864731909: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:19:29 WET [2025/02/14 14:19:29 ET]
+Table '3856223584 72' 8-max Seat #5 is the button
+Seat 1: DionataPZZ (6217 in chips) 
+Seat 2: Toni_Run (18937 in chips) 
+Seat 3: Kevin12345Mc (4214 in chips) 
+Seat 4: zygmax (11587 in chips) 
+Seat 5: peramatioths (3004 in chips) is sitting out
+Seat 6: chuoithat (408 in chips) 
+Seat 7: BobyboyCRO (10081 in chips) 
+Seat 8: NcoreFerko (11547 in chips) 
+DionataPZZ: posts the ante 36
+Toni_Run: posts the ante 36
+Kevin12345Mc: posts the ante 36
+zygmax: posts the ante 36
+peramatioths: posts the ante 36
+chuoithat: posts the ante 36
+BobyboyCRO: posts the ante 36
+NcoreFerko: posts the ante 36
+chuoithat: posts small blind 125
+BobyboyCRO: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh Qs]
+NcoreFerko: folds 
+DionataPZZ: folds 
+Toni_Run: folds 
+Kevin12345Mc: raises 250 to 500
+zygmax: calls 500
+peramatioths: folds 
+chuoithat: calls 247 and is all-in
+BobyboyCRO: folds 
+*** FLOP *** [3c 7s 9c]
+Kevin12345Mc: checks 
+zygmax: bets 11051 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (11051) returned to zygmax
+*** TURN *** [3c 7s 9c] [Jc]
+*** RIVER *** [3c 7s 9c Jc] [7c]
+*** SHOW DOWN ***
+zygmax: shows [Qc 9d] (a flush, Queen high)
+zygmax collected 256 from side pot
+chuoithat: shows [Qh 8c] (a flush, Jack high)
+zygmax collected 1654 from main pot
+chuoithat finished the tournament in 1601st place
+*** SUMMARY ***
+Total pot 1910 Main pot 1654. Side pot 256. | Rake 0 
+Board [3c 7s 9c Jc 7c]
+Seat 1: DionataPZZ folded before Flop (didn't bet)
+Seat 2: Toni_Run folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded on the Flop
+Seat 4: zygmax showed [Qc 9d] and won (1910) with a flush, Queen high
+Seat 5: peramatioths (button) folded before Flop (didn't bet)
+Seat 6: chuoithat (small blind) showed [Qh 8c] and lost with a flush, Jack high
+Seat 7: BobyboyCRO (big blind) folded before Flop
+Seat 8: NcoreFerko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864746947: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:20:26 WET [2025/02/14 14:20:26 ET]
+Table '3856223584 150' 8-max Seat #7 is the button
+Seat 1: 4erpa4ek1967 (11689 in chips) 
+Seat 2: ÐouM (9051 in chips) 
+Seat 3: zlesajebo (7394 in chips) 
+Seat 4: chevim97 (17483 in chips) 
+Seat 5: Kevin12345Mc (3678 in chips) 
+Seat 6: tsilimigos21 (8508 in chips) 
+Seat 7: Mel870115 (3963 in chips) 
+Seat 8: 13isprime (5357 in chips) 
+4erpa4ek1967: posts the ante 36
+ÐouM: posts the ante 36
+zlesajebo: posts the ante 36
+chevim97: posts the ante 36
+Kevin12345Mc: posts the ante 36
+tsilimigos21: posts the ante 36
+Mel870115: posts the ante 36
+13isprime: posts the ante 36
+13isprime: posts small blind 125
+4erpa4ek1967: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Qh]
+ÐouM: folds 
+zlesajebo: folds 
+chevim97: folds 
+Kevin12345Mc: folds 
+tsilimigos21: folds 
+Mel870115: raises 3677 to 3927 and is all-in
+13isprime: folds 
+4erpa4ek1967: calls 3677
+*** FLOP *** [2s 3c 4s]
+*** TURN *** [2s 3c 4s] [3d]
+*** RIVER *** [2s 3c 4s 3d] [Kh]
+*** SHOW DOWN ***
+4erpa4ek1967: shows [7d Ad] (a pair of Threes)
+Mel870115: shows [Js Jh] (two pair, Jacks and Threes)
+Mel870115 collected 8267 from pot
+*** SUMMARY ***
+Total pot 8267 | Rake 0 
+Board [2s 3c 4s 3d Kh]
+Seat 1: 4erpa4ek1967 (big blind) showed [7d Ad] and lost with a pair of Threes
+Seat 2: ÐouM folded before Flop (didn't bet)
+Seat 3: zlesajebo folded before Flop (didn't bet)
+Seat 4: chevim97 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: tsilimigos21 folded before Flop (didn't bet)
+Seat 7: Mel870115 (button) showed [Js Jh] and won (8267) with two pair, Jacks and Threes
+Seat 8: 13isprime (small blind) folded before Flop
+
+
+
+PokerStars Hand #254864755213: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/14 19:20:57 WET [2025/02/14 14:20:57 ET]
+Table '3856223584 150' 8-max Seat #8 is the button
+Seat 1: 4erpa4ek1967 (7726 in chips) 
+Seat 2: ÐouM (9015 in chips) 
+Seat 3: zlesajebo (7358 in chips) 
+Seat 4: chevim97 (17447 in chips) 
+Seat 5: Kevin12345Mc (3642 in chips) 
+Seat 6: tsilimigos21 (8472 in chips) 
+Seat 7: Mel870115 (8267 in chips) 
+Seat 8: 13isprime (5196 in chips) 
+4erpa4ek1967: posts the ante 36
+ÐouM: posts the ante 36
+zlesajebo: posts the ante 36
+chevim97: posts the ante 36
+Kevin12345Mc: posts the ante 36
+tsilimigos21: posts the ante 36
+Mel870115: posts the ante 36
+13isprime: posts the ante 36
+4erpa4ek1967: posts small blind 125
+ÐouM: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc Qh]
+zlesajebo: raises 250 to 500
+chevim97: folds 
+Kevin12345Mc: folds 
+tsilimigos21: folds 
+Mel870115: calls 500
+13isprime: folds 
+4erpa4ek1967 has timed out
+4erpa4ek1967: folds 
+4erpa4ek1967 is sitting out
+4erpa4ek1967 has returned
+ÐouM: folds 
+*** FLOP *** [7c Tc 7d]
+zlesajebo: checks 
+Mel870115: checks 
+*** TURN *** [7c Tc 7d] [2h]
+zlesajebo: checks 
+Mel870115: checks 
+*** RIVER *** [7c Tc 7d 2h] [Qc]
+zlesajebo: bets 832
+Mel870115: folds 
+Uncalled bet (832) returned to zlesajebo
+zlesajebo collected 1663 from pot
+zlesajebo: doesn't show hand 
+*** SUMMARY ***
+Total pot 1663 | Rake 0 
+Board [7c Tc 7d 2h Qc]
+Seat 1: 4erpa4ek1967 (small blind) folded before Flop
+Seat 2: ÐouM (big blind) folded before Flop
+Seat 3: zlesajebo collected (1663)
+Seat 4: chevim97 folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: tsilimigos21 folded before Flop (didn't bet)
+Seat 7: Mel870115 folded on the River
+Seat 8: 13isprime (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864783712: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 19:22:44 WET [2025/02/14 14:22:44 ET]
+Table '3856223584 150' 8-max Seat #1 is the button
+Seat 1: 4erpa4ek1967 (7565 in chips) 
+Seat 2: ÐouM (8729 in chips) 
+Seat 3: zlesajebo (8485 in chips) 
+Seat 4: chevim97 (17411 in chips) 
+Seat 5: Kevin12345Mc (3606 in chips) 
+Seat 6: tsilimigos21 (8436 in chips) 
+Seat 7: Mel870115 (7731 in chips) 
+Seat 8: 13isprime (5160 in chips) 
+4erpa4ek1967: posts the ante 42
+ÐouM: posts the ante 42
+zlesajebo: posts the ante 42
+chevim97: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tsilimigos21: posts the ante 42
+Mel870115: posts the ante 42
+13isprime: posts the ante 42
+ÐouM: posts small blind 150
+zlesajebo: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 2d]
+chevim97: raises 300 to 600
+Kevin12345Mc: folds 
+tsilimigos21: folds 
+Mel870115: calls 600
+13isprime: folds 
+4erpa4ek1967: folds 
+ÐouM: folds 
+zlesajebo: folds 
+*** FLOP *** [Th 6s 9s]
+chevim97: checks 
+Mel870115: checks 
+*** TURN *** [Th 6s 9s] [Jh]
+chevim97: checks 
+Mel870115: bets 300
+chevim97: calls 300
+*** RIVER *** [Th 6s 9s Jh] [9d]
+chevim97: checks 
+Mel870115: bets 1200
+chevim97: calls 1200
+*** SHOW DOWN ***
+Mel870115: shows [9c Ah] (three of a kind, Nines)
+chevim97: mucks hand 
+Mel870115 collected 4986 from pot
+*** SUMMARY ***
+Total pot 4986 | Rake 0 
+Board [Th 6s 9s Jh 9d]
+Seat 1: 4erpa4ek1967 (button) folded before Flop (didn't bet)
+Seat 2: ÐouM (small blind) folded before Flop
+Seat 3: zlesajebo (big blind) folded before Flop
+Seat 4: chevim97 mucked [Kd Jd]
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: tsilimigos21 folded before Flop (didn't bet)
+Seat 7: Mel870115 showed [9c Ah] and won (4986) with three of a kind, Nines
+Seat 8: 13isprime folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864801915: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 19:23:53 WET [2025/02/14 14:23:53 ET]
+Table '3856223584 150' 8-max Seat #2 is the button
+Seat 1: 4erpa4ek1967 (7523 in chips) 
+Seat 2: ÐouM (8537 in chips) 
+Seat 3: zlesajebo (8143 in chips) 
+Seat 4: chevim97 (15269 in chips) 
+Seat 5: Kevin12345Mc (3564 in chips) 
+Seat 6: tsilimigos21 (8394 in chips) 
+Seat 7: Mel870115 (10575 in chips) 
+Seat 8: 13isprime (5118 in chips) 
+4erpa4ek1967: posts the ante 42
+ÐouM: posts the ante 42
+zlesajebo: posts the ante 42
+chevim97: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tsilimigos21: posts the ante 42
+Mel870115: posts the ante 42
+13isprime: posts the ante 42
+zlesajebo: posts small blind 150
+chevim97: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 3h]
+Kevin12345Mc: folds 
+tsilimigos21: folds 
+Mel870115: calls 300
+13isprime: folds 
+4erpa4ek1967: raises 1386 to 1686
+ÐouM: folds 
+zlesajebo: folds 
+chevim97: folds 
+Mel870115: folds 
+Uncalled bet (1386) returned to 4erpa4ek1967
+4erpa4ek1967 collected 1386 from pot
+4erpa4ek1967: doesn't show hand 
+*** SUMMARY ***
+Total pot 1386 | Rake 0 
+Seat 1: 4erpa4ek1967 collected (1386)
+Seat 2: ÐouM (button) folded before Flop (didn't bet)
+Seat 3: zlesajebo (small blind) folded before Flop
+Seat 4: chevim97 (big blind) folded before Flop
+Seat 5: Kevin12345Mc folded before Flop (didn't bet)
+Seat 6: tsilimigos21 folded before Flop (didn't bet)
+Seat 7: Mel870115 folded before Flop
+Seat 8: 13isprime folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864815418: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 19:24:44 WET [2025/02/14 14:24:44 ET]
+Table '3856223584 150' 8-max Seat #3 is the button
+Seat 1: 4erpa4ek1967 (8567 in chips) 
+Seat 2: ÐouM (8495 in chips) 
+Seat 3: zlesajebo (7951 in chips) 
+Seat 4: chevim97 (14927 in chips) 
+Seat 5: Kevin12345Mc (3522 in chips) 
+Seat 6: tsilimigos21 (8352 in chips) 
+Seat 7: Mel870115 (10233 in chips) 
+Seat 8: 13isprime (5076 in chips) 
+4erpa4ek1967: posts the ante 42
+ÐouM: posts the ante 42
+zlesajebo: posts the ante 42
+chevim97: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tsilimigos21: posts the ante 42
+Mel870115: posts the ante 42
+13isprime: posts the ante 42
+chevim97: posts small blind 150
+Kevin12345Mc: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Qd]
+tsilimigos21: folds 
+Mel870115: calls 300
+13isprime: folds 
+4erpa4ek1967: folds 
+ÐouM: folds 
+zlesajebo: folds 
+chevim97: calls 150
+Kevin12345Mc: checks 
+*** FLOP *** [8h Tc 2s]
+chevim97: checks 
+Kevin12345Mc: checks 
+Mel870115: bets 300
+chevim97: calls 300
+Kevin12345Mc: folds 
+*** TURN *** [8h Tc 2s] [Th]
+chevim97: checks 
+Mel870115: bets 300
+chevim97: calls 300
+*** RIVER *** [8h Tc 2s Th] [4h]
+chevim97: checks 
+Mel870115: checks 
+*** SHOW DOWN ***
+chevim97: shows [8s 7s] (two pair, Tens and Eights)
+Mel870115: shows [Js Jc] (two pair, Jacks and Tens)
+Mel870115 collected 2436 from pot
+*** SUMMARY ***
+Total pot 2436 | Rake 0 
+Board [8h Tc 2s Th 4h]
+Seat 1: 4erpa4ek1967 folded before Flop (didn't bet)
+Seat 2: ÐouM folded before Flop (didn't bet)
+Seat 3: zlesajebo (button) folded before Flop (didn't bet)
+Seat 4: chevim97 (small blind) showed [8s 7s] and lost with two pair, Tens and Eights
+Seat 5: Kevin12345Mc (big blind) folded on the Flop
+Seat 6: tsilimigos21 folded before Flop (didn't bet)
+Seat 7: Mel870115 showed [Js Jc] and won (2436) with two pair, Jacks and Tens
+Seat 8: 13isprime folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254864839626: Tournament #3856223584, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/14 19:26:16 WET [2025/02/14 14:26:16 ET]
+Table '3856223584 150' 8-max Seat #4 is the button
+Seat 1: 4erpa4ek1967 (8525 in chips) 
+Seat 2: ÐouM (8453 in chips) 
+Seat 3: zlesajebo (7909 in chips) 
+Seat 4: chevim97 (13985 in chips) 
+Seat 5: Kevin12345Mc (3180 in chips) 
+Seat 6: tsilimigos21 (8310 in chips) 
+Seat 7: Mel870115 (11727 in chips) 
+Seat 8: 13isprime (5034 in chips) 
+4erpa4ek1967: posts the ante 42
+ÐouM: posts the ante 42
+zlesajebo: posts the ante 42
+chevim97: posts the ante 42
+Kevin12345Mc: posts the ante 42
+tsilimigos21: posts the ante 42
+Mel870115: posts the ante 42
+13isprime: posts the ante 42
+Kevin12345Mc: posts small blind 150
+tsilimigos21: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks Kd]
+Mel870115: folds 
+13isprime: folds 
+4erpa4ek1967: folds 
+ÐouM: folds 
+zlesajebo: raises 450 to 750
+chevim97: folds 
+Kevin12345Mc: raises 2388 to 3138 and is all-in
+tsilimigos21: folds 
+zlesajebo: calls 2388
+*** FLOP *** [6s Qh As]
+*** TURN *** [6s Qh As] [Ac]
+*** RIVER *** [6s Qh As Ac] [8s]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ks Kd] (two pair, Aces and Kings)
+zlesajebo: shows [3d Ah] (three of a kind, Aces)
+zlesajebo collected 6912 from pot
+Kevin12345Mc finished the tournament in 1384th place
+*** SUMMARY ***
+Total pot 6912 | Rake 0 
+Board [6s Qh As Ac 8s]
+Seat 1: 4erpa4ek1967 folded before Flop (didn't bet)
+Seat 2: ÐouM folded before Flop (didn't bet)
+Seat 3: zlesajebo showed [3d Ah] and won (6912) with three of a kind, Aces
+Seat 4: chevim97 (button) folded before Flop (didn't bet)
+Seat 5: Kevin12345Mc (small blind) showed [Ks Kd] and lost with two pair, Aces and Kings
+Seat 6: tsilimigos21 (big blind) folded before Flop
+Seat 7: Mel870115 folded before Flop (didn't bet)
+Seat 8: 13isprime folded before Flop (didn't bet)
+
+
+

@@ -1,0 +1,2093 @@
+﻿PokerStars Hand #254862614697: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 16:52:48 WET [2025/02/14 11:52:48 ET]
+Table '3852792689 270' 8-max Seat #1 is the button
+Seat 1: carlo136 (169178 in chips) 
+Seat 2: ricispizza (20515 in chips) is sitting out
+Seat 3: Sam01971 (14827 in chips) 
+Seat 4: Kevin12345Mc (25000 in chips) 
+Seat 5: elviesa (17579 in chips) 
+Seat 6: MACO10AA (54242 in chips) 
+Seat 7: pokerrrr tuck58 (24105 in chips) 
+Seat 8: LewisPoker28 (44027 in chips) 
+carlo136: posts the ante 90
+ricispizza: posts the ante 90
+Sam01971: posts the ante 90
+Kevin12345Mc: posts the ante 90
+elviesa: posts the ante 90
+MACO10AA: posts the ante 90
+pokerrrr tuck58: posts the ante 90
+LewisPoker28: posts the ante 90
+ricispizza: posts small blind 350
+Sam01971: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c Td]
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: folds 
+pokerrrr tuck58: folds 
+LewisPoker28: folds 
+carlo136: folds 
+ricispizza: folds 
+Uncalled bet (350) returned to Sam01971
+Sam01971 collected 1420 from pot
+Sam01971: doesn't show hand 
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Seat 1: carlo136 (button) folded before Flop (didn't bet)
+Seat 2: ricispizza (small blind) folded before Flop
+Seat 3: Sam01971 (big blind) collected (1420)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: pokerrrr tuck58 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862621125: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 16:53:17 WET [2025/02/14 11:53:17 ET]
+Table '3852792689 270' 8-max Seat #2 is the button
+Seat 1: carlo136 (169088 in chips) 
+Seat 2: ricispizza (20075 in chips) is sitting out
+Seat 3: Sam01971 (15807 in chips) 
+Seat 4: Kevin12345Mc (24910 in chips) 
+Seat 5: elviesa (17489 in chips) 
+Seat 6: MACO10AA (54152 in chips) 
+Seat 7: pokerrrr tuck58 (24015 in chips) 
+Seat 8: LewisPoker28 (43937 in chips) 
+carlo136: posts the ante 90
+ricispizza: posts the ante 90
+Sam01971: posts the ante 90
+Kevin12345Mc: posts the ante 90
+elviesa: posts the ante 90
+MACO10AA: posts the ante 90
+pokerrrr tuck58: posts the ante 90
+LewisPoker28: posts the ante 90
+Sam01971: posts small blind 350
+Kevin12345Mc: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 7h]
+elviesa: folds 
+MACO10AA: raises 700 to 1400
+pokerrrr tuck58: calls 1400
+LewisPoker28: raises 2800 to 4200
+carlo136: calls 4200
+ricispizza: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+MACO10AA: calls 2800
+pokerrrr tuck58: calls 2800
+*** FLOP *** [7d 6d Js]
+MACO10AA: checks 
+pokerrrr tuck58: checks 
+LewisPoker28: checks 
+carlo136: checks 
+*** TURN *** [7d 6d Js] [Ks]
+MACO10AA: checks 
+pokerrrr tuck58: checks 
+LewisPoker28: bets 7428
+carlo136: calls 7428
+MACO10AA: folds 
+pokerrrr tuck58: folds 
+*** RIVER *** [7d 6d Js Ks] [9c]
+LewisPoker28: bets 32219 and is all-in
+carlo136: calls 32219
+*** SHOW DOWN ***
+LewisPoker28: shows [As Kh] (a pair of Kings)
+carlo136: shows [Th Kd] (a pair of Kings - lower kicker)
+LewisPoker28 collected 97864 from pot
+*** SUMMARY ***
+Total pot 97864 | Rake 0 
+Board [7d 6d Js Ks 9c]
+Seat 1: carlo136 showed [Th Kd] and lost with a pair of Kings
+Seat 2: ricispizza (button) folded before Flop (didn't bet)
+Seat 3: Sam01971 (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA folded on the Turn
+Seat 7: pokerrrr tuck58 folded on the Turn
+Seat 8: LewisPoker28 showed [As Kh] and won (97864) with a pair of Kings
+
+
+
+PokerStars Hand #254862646412: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 16:55:09 WET [2025/02/14 11:55:09 ET]
+Table '3852792689 270' 8-max Seat #3 is the button
+Seat 1: carlo136 (125151 in chips) 
+Seat 2: ricispizza (19985 in chips) is sitting out
+Seat 3: Sam01971 (15367 in chips) 
+Seat 4: Kevin12345Mc (24120 in chips) 
+Seat 5: elviesa (17399 in chips) 
+Seat 6: MACO10AA (49862 in chips) 
+Seat 7: pokerrrr tuck58 (19725 in chips) 
+Seat 8: LewisPoker28 (97864 in chips) 
+carlo136: posts the ante 90
+ricispizza: posts the ante 90
+Sam01971: posts the ante 90
+Kevin12345Mc: posts the ante 90
+elviesa: posts the ante 90
+MACO10AA: posts the ante 90
+pokerrrr tuck58: posts the ante 90
+LewisPoker28: posts the ante 90
+Kevin12345Mc: posts small blind 350
+elviesa: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 4h]
+MACO10AA: folds 
+pokerrrr tuck58: folds 
+LewisPoker28: folds 
+carlo136: raises 1400 to 2100
+ricispizza: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+Uncalled bet (1400) returned to carlo136
+carlo136 collected 2470 from pot
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Seat 1: carlo136 collected (2470)
+Seat 2: ricispizza folded before Flop (didn't bet)
+Seat 3: Sam01971 (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: elviesa (big blind) folded before Flop
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: pokerrrr tuck58 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862727275: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:02:34 WET [2025/02/14 12:02:34 ET]
+Table '3852792689 270' 8-max Seat #4 is the button
+Seat 1: carlo136 (126831 in chips) 
+Seat 2: ricispizza (19895 in chips) 
+Seat 3: Sam01971 (15277 in chips) 
+Seat 4: Kevin12345Mc (23680 in chips) 
+Seat 5: elviesa (16609 in chips) 
+Seat 6: MACO10AA (49772 in chips) 
+Seat 7: pokerrrr tuck58 (19635 in chips) 
+Seat 8: LewisPoker28 (97774 in chips) 
+carlo136: posts the ante 90
+ricispizza: posts the ante 90
+Sam01971: posts the ante 90
+Kevin12345Mc: posts the ante 90
+elviesa: posts the ante 90
+MACO10AA: posts the ante 90
+pokerrrr tuck58: posts the ante 90
+LewisPoker28: posts the ante 90
+elviesa: posts small blind 350
+MACO10AA: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 9s]
+pokerrrr tuck58: folds 
+LewisPoker28: folds 
+carlo136: raises 1400 to 2100
+ricispizza: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: calls 1400
+*** FLOP *** [4d Jd 2h]
+MACO10AA: checks 
+carlo136: bets 3500
+MACO10AA: folds 
+Uncalled bet (3500) returned to carlo136
+carlo136 collected 5270 from pot
+*** SUMMARY ***
+Total pot 5270 | Rake 0 
+Board [4d Jd 2h]
+Seat 1: carlo136 collected (5270)
+Seat 2: ricispizza folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: elviesa (small blind) folded before Flop
+Seat 6: MACO10AA (big blind) folded on the Flop
+Seat 7: pokerrrr tuck58 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862740057: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:03:32 WET [2025/02/14 12:03:32 ET]
+Table '3852792689 270' 8-max Seat #5 is the button
+Seat 1: carlo136 (129911 in chips) 
+Seat 2: ricispizza (19805 in chips) 
+Seat 3: Sam01971 (15187 in chips) 
+Seat 4: Kevin12345Mc (23590 in chips) 
+Seat 5: elviesa (16169 in chips) 
+Seat 6: MACO10AA (47582 in chips) 
+Seat 7: pokerrrr tuck58 (19545 in chips) 
+Seat 8: LewisPoker28 (97684 in chips) 
+carlo136: posts the ante 90
+ricispizza: posts the ante 90
+Sam01971: posts the ante 90
+Kevin12345Mc: posts the ante 90
+elviesa: posts the ante 90
+MACO10AA: posts the ante 90
+pokerrrr tuck58: posts the ante 90
+LewisPoker28: posts the ante 90
+MACO10AA: posts small blind 350
+pokerrrr tuck58: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 5d]
+LewisPoker28: folds 
+carlo136: folds 
+ricispizza: folds 
+Sam01971: folds 
+Kevin12345Mc: raises 770 to 1470
+elviesa: folds 
+MACO10AA: folds 
+pokerrrr tuck58: calls 770
+*** FLOP *** [3d 8s 5c]
+pokerrrr tuck58: checks 
+Kevin12345Mc: bets 1323
+pokerrrr tuck58: folds 
+Uncalled bet (1323) returned to Kevin12345Mc
+Kevin12345Mc collected 4010 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 4010 | Rake 0 
+Board [3d 8s 5c]
+Seat 1: carlo136 folded before Flop (didn't bet)
+Seat 2: ricispizza folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc collected (4010)
+Seat 5: elviesa (button) folded before Flop (didn't bet)
+Seat 6: MACO10AA (small blind) folded before Flop
+Seat 7: pokerrrr tuck58 (big blind) folded on the Flop
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862750211: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/14 17:04:16 WET [2025/02/14 12:04:16 ET]
+Table '3852792689 270' 8-max Seat #6 is the button
+Seat 1: carlo136 (129821 in chips) 
+Seat 2: ricispizza (19715 in chips) 
+Seat 3: Sam01971 (15097 in chips) 
+Seat 4: Kevin12345Mc (26040 in chips) 
+Seat 5: elviesa (16079 in chips) 
+Seat 6: MACO10AA (47142 in chips) 
+Seat 7: pokerrrr tuck58 (17985 in chips) 
+Seat 8: LewisPoker28 (97594 in chips) 
+carlo136: posts the ante 90
+ricispizza: posts the ante 90
+Sam01971: posts the ante 90
+Kevin12345Mc: posts the ante 90
+elviesa: posts the ante 90
+MACO10AA: posts the ante 90
+pokerrrr tuck58: posts the ante 90
+LewisPoker28: posts the ante 90
+pokerrrr tuck58: posts small blind 350
+LewisPoker28: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 2d]
+carlo136: raises 700 to 1400
+ricispizza: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: folds 
+pokerrrr tuck58: calls 1050
+LewisPoker28: calls 700
+*** FLOP *** [4h Js Ad]
+pokerrrr tuck58: checks 
+LewisPoker28: checks 
+carlo136: checks 
+*** TURN *** [4h Js Ad] [Qh]
+pokerrrr tuck58: bets 4920
+LewisPoker28: folds 
+carlo136: folds 
+Uncalled bet (4920) returned to pokerrrr tuck58
+pokerrrr tuck58 collected 4920 from pot
+*** SUMMARY ***
+Total pot 4920 | Rake 0 
+Board [4h Js Ad Qh]
+Seat 1: carlo136 folded on the Turn
+Seat 2: ricispizza folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA (button) folded before Flop (didn't bet)
+Seat 7: pokerrrr tuck58 (small blind) collected (4920)
+Seat 8: LewisPoker28 (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254862761672: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:05:07 WET [2025/02/14 12:05:07 ET]
+Table '3852792689 270' 8-max Seat #7 is the button
+Seat 1: leannewoz (25000 in chips) 
+Seat 2: ricispizza (19625 in chips) 
+Seat 3: Sam01971 (15007 in chips) 
+Seat 4: Kevin12345Mc (25950 in chips) 
+Seat 5: elviesa (15989 in chips) 
+Seat 6: MACO10AA (47052 in chips) 
+Seat 7: pokerrrr tuck58 (21415 in chips) 
+Seat 8: LewisPoker28 (96104 in chips) 
+leannewoz: posts the ante 100
+ricispizza: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+pokerrrr tuck58: posts the ante 100
+LewisPoker28: posts the ante 100
+LewisPoker28: posts small blind 400
+leannewoz: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 2c]
+ricispizza: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: raises 800 to 1600
+pokerrrr tuck58: folds 
+LewisPoker28: calls 1200
+leannewoz: folds 
+*** FLOP *** [7s Ts Ah]
+LewisPoker28: bets 1920
+MACO10AA: raises 4451 to 6371
+LewisPoker28: calls 4451
+*** TURN *** [7s Ts Ah] [9s]
+LewisPoker28: bets 7017
+MACO10AA: folds 
+Uncalled bet (7017) returned to LewisPoker28
+LewisPoker28 collected 17542 from pot
+*** SUMMARY ***
+Total pot 17542 | Rake 0 
+Board [7s Ts Ah 9s]
+Seat 1: leannewoz (big blind) folded before Flop
+Seat 2: ricispizza folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA folded on the Turn
+Seat 7: pokerrrr tuck58 (button) folded before Flop (didn't bet)
+Seat 8: LewisPoker28 (small blind) collected (17542)
+
+
+
+PokerStars Hand #254862772994: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:05:57 WET [2025/02/14 12:05:57 ET]
+Table '3852792689 270' 8-max Seat #8 is the button
+Seat 1: leannewoz (24100 in chips) 
+Seat 2: ricispizza (19525 in chips) 
+Seat 3: Sam01971 (14907 in chips) 
+Seat 4: Kevin12345Mc (25850 in chips) 
+Seat 5: elviesa (15889 in chips) 
+Seat 6: MACO10AA (38981 in chips) 
+Seat 7: pokerrrr tuck58 (21315 in chips) 
+Seat 8: LewisPoker28 (105575 in chips) 
+leannewoz: posts the ante 100
+ricispizza: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+pokerrrr tuck58: posts the ante 100
+LewisPoker28: posts the ante 100
+leannewoz: posts small blind 400
+ricispizza: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 5d]
+Sam01971: raises 800 to 1600
+Kevin12345Mc: calls 1600
+elviesa: folds 
+MACO10AA: raises 37281 to 38881 and is all-in
+pokerrrr tuck58: folds 
+LewisPoker28: folds 
+leannewoz: folds 
+ricispizza: folds 
+Sam01971: calls 13207 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (24074) returned to MACO10AA
+*** FLOP *** [Kc 4d Ad]
+*** TURN *** [Kc 4d Ad] [Qs]
+*** RIVER *** [Kc 4d Ad Qs] [As]
+*** SHOW DOWN ***
+Sam01971: shows [Ac Jh] (three of a kind, Aces)
+MACO10AA: shows [Th Ts] (two pair, Aces and Tens)
+Sam01971 collected 33214 from pot
+*** SUMMARY ***
+Total pot 33214 | Rake 0 
+Board [Kc 4d Ad Qs As]
+Seat 1: leannewoz (small blind) folded before Flop
+Seat 2: ricispizza (big blind) folded before Flop
+Seat 3: Sam01971 showed [Ac Jh] and won (33214) with three of a kind, Aces
+Seat 4: Kevin12345Mc folded before Flop
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA showed [Th Ts] and lost with two pair, Aces and Tens
+Seat 7: pokerrrr tuck58 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862784794: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:06:48 WET [2025/02/14 12:06:48 ET]
+Table '3852792689 270' 8-max Seat #1 is the button
+Seat 1: leannewoz (23600 in chips) 
+Seat 2: ricispizza (18625 in chips) 
+Seat 3: Sam01971 (33214 in chips) 
+Seat 4: Kevin12345Mc (24150 in chips) 
+Seat 5: elviesa (15789 in chips) 
+Seat 6: MACO10AA (24074 in chips) 
+Seat 7: pokerrrr tuck58 (21215 in chips) 
+Seat 8: LewisPoker28 (105475 in chips) 
+leannewoz: posts the ante 100
+ricispizza: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+pokerrrr tuck58: posts the ante 100
+LewisPoker28: posts the ante 100
+ricispizza: posts small blind 400
+Sam01971: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Jh]
+Kevin12345Mc: folds 
+elviesa: raises 800 to 1600
+MACO10AA: folds 
+pokerrrr tuck58: folds 
+LewisPoker28: raises 3200 to 4800
+leannewoz: folds 
+ricispizza: calls 4400
+Sam01971: folds 
+elviesa: folds 
+*** FLOP *** [5d As 8s]
+ricispizza: checks 
+LewisPoker28: bets 7936
+ricispizza: raises 5789 to 13725 and is all-in
+LewisPoker28: calls 5789
+*** TURN *** [5d As 8s] [9d]
+*** RIVER *** [5d As 8s 9d] [9s]
+*** SHOW DOWN ***
+ricispizza: shows [Tc Ad] (two pair, Aces and Nines)
+LewisPoker28: shows [5s 5c] (a full house, Fives full of Nines)
+LewisPoker28 collected 40250 from pot
+ricispizza finished the tournament
+*** SUMMARY ***
+Total pot 40250 | Rake 0 
+Board [5d As 8s 9d 9s]
+Seat 1: leannewoz (button) folded before Flop (didn't bet)
+Seat 2: ricispizza (small blind) showed [Tc Ad] and lost with two pair, Aces and Nines
+Seat 3: Sam01971 (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: pokerrrr tuck58 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 showed [5s 5c] and won (40250) with a full house, Fives full of Nines
+
+
+
+PokerStars Hand #254862801062: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:07:59 WET [2025/02/14 12:07:59 ET]
+Table '3852792689 270' 8-max Seat #3 is the button
+Seat 1: leannewoz (23500 in chips) 
+Seat 3: Sam01971 (32314 in chips) 
+Seat 4: Kevin12345Mc (24050 in chips) 
+Seat 5: elviesa (14089 in chips) 
+Seat 6: MACO10AA (23974 in chips) 
+Seat 7: pokerrrr tuck58 (21115 in chips) 
+Seat 8: LewisPoker28 (127100 in chips) 
+leannewoz: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+pokerrrr tuck58: posts the ante 100
+LewisPoker28: posts the ante 100
+Kevin12345Mc: posts small blind 400
+elviesa: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 7d]
+MACO10AA: folds 
+pokerrrr tuck58: folds 
+LewisPoker28: folds 
+leannewoz: folds 
+Sam01971: raises 800 to 1600
+Kevin12345Mc: folds 
+elviesa: raises 12389 to 13989 and is all-in
+Sam01971: folds 
+Uncalled bet (12389) returned to elviesa
+elviesa collected 4300 from pot
+elviesa: doesn't show hand 
+*** SUMMARY ***
+Total pot 4300 | Rake 0 
+Seat 1: leannewoz folded before Flop (didn't bet)
+Seat 3: Sam01971 (button) folded before Flop
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: elviesa (big blind) collected (4300)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: pokerrrr tuck58 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862809392: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:08:35 WET [2025/02/14 12:08:35 ET]
+Table '3852792689 270' 8-max Seat #4 is the button
+Seat 1: leannewoz (23400 in chips) 
+Seat 3: Sam01971 (30614 in chips) 
+Seat 4: Kevin12345Mc (23550 in chips) 
+Seat 5: elviesa (16689 in chips) 
+Seat 6: MACO10AA (23874 in chips) 
+Seat 7: pokerrrr tuck58 (21015 in chips) 
+Seat 8: LewisPoker28 (127000 in chips) 
+leannewoz: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+pokerrrr tuck58: posts the ante 100
+LewisPoker28: posts the ante 100
+elviesa: posts small blind 400
+MACO10AA: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Jd]
+pokerrrr tuck58: folds 
+LewisPoker28: folds 
+leannewoz: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+drewes97 is disconnected 
+elviesa: raises 15600 to 16400
+MACO10AA: raises 7374 to 23774 and is all-in
+elviesa: calls 189 and is all-in
+Uncalled bet (7185) returned to MACO10AA
+*** FLOP *** [Qc As 7s]
+*** TURN *** [Qc As 7s] [7d]
+*** RIVER *** [Qc As 7s 7d] [3c]
+*** SHOW DOWN ***
+elviesa: shows [Qd Ac] (two pair, Aces and Queens)
+MACO10AA: shows [Ad Qs] (two pair, Aces and Queens)
+elviesa collected 16939 from pot
+MACO10AA collected 16939 from pot
+*** SUMMARY ***
+Total pot 33878 | Rake 0 
+Board [Qc As 7s 7d 3c]
+Seat 1: leannewoz folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: elviesa (small blind) showed [Qd Ac] and won (16939) with two pair, Aces and Queens
+Seat 6: MACO10AA (big blind) showed [Ad Qs] and won (16939) with two pair, Aces and Queens
+Seat 7: pokerrrr tuck58 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862816640: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:09:07 WET [2025/02/14 12:09:07 ET]
+Table '3852792689 270' 8-max Seat #5 is the button
+Seat 1: leannewoz (23300 in chips) 
+Seat 2: drewes97 (25000 in chips) 
+Seat 3: Sam01971 (30514 in chips) 
+Seat 4: Kevin12345Mc (23450 in chips) 
+Seat 5: elviesa (16939 in chips) 
+Seat 6: MACO10AA (24124 in chips) 
+Seat 7: pokerrrr tuck58 (20915 in chips) 
+Seat 8: LewisPoker28 (126900 in chips) 
+leannewoz: posts the ante 100
+drewes97: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+pokerrrr tuck58: posts the ante 100
+LewisPoker28: posts the ante 100
+MACO10AA: posts small blind 400
+pokerrrr tuck58: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 9c]
+LewisPoker28: folds 
+leannewoz: folds 
+drewes97: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: raises 23224 to 24024 and is all-in
+pokerrrr tuck58: folds 
+Uncalled bet (23224) returned to MACO10AA
+MACO10AA collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Seat 1: leannewoz folded before Flop (didn't bet)
+Seat 2: drewes97 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa (button) folded before Flop (didn't bet)
+Seat 6: MACO10AA (small blind) collected (2400)
+Seat 7: pokerrrr tuck58 (big blind) folded before Flop
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862826030: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:09:48 WET [2025/02/14 12:09:48 ET]
+Table '3852792689 270' 8-max Seat #6 is the button
+Seat 1: leannewoz (23200 in chips) 
+Seat 2: drewes97 (24900 in chips) 
+Seat 3: Sam01971 (30414 in chips) 
+Seat 4: Kevin12345Mc (23350 in chips) 
+Seat 5: elviesa (16839 in chips) 
+Seat 6: MACO10AA (25624 in chips) 
+Seat 7: pokerrrr tuck58 (20015 in chips) 
+Seat 8: LewisPoker28 (126800 in chips) 
+leannewoz: posts the ante 100
+drewes97: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+pokerrrr tuck58: posts the ante 100
+LewisPoker28: posts the ante 100
+pokerrrr tuck58: posts small blind 400
+LewisPoker28: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 9s]
+leannewoz: folds 
+drewes97: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: folds 
+pokerrrr tuck58: calls 400
+LewisPoker28: raises 1600 to 2400
+pokerrrr tuck58: calls 1600
+*** FLOP *** [9c Qh 6c]
+pokerrrr tuck58: checks 
+LewisPoker28: bets 4368
+pokerrrr tuck58: folds 
+Uncalled bet (4368) returned to LewisPoker28
+LewisPoker28 collected 5600 from pot
+LewisPoker28: doesn't show hand 
+*** SUMMARY ***
+Total pot 5600 | Rake 0 
+Board [9c Qh 6c]
+Seat 1: leannewoz folded before Flop (didn't bet)
+Seat 2: drewes97 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA (button) folded before Flop (didn't bet)
+Seat 7: pokerrrr tuck58 (small blind) folded on the Flop
+Seat 8: LewisPoker28 (big blind) collected (5600)
+
+
+
+PokerStars Hand #254862835989: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:10:30 WET [2025/02/14 12:10:30 ET]
+Table '3852792689 270' 8-max Seat #7 is the button
+Seat 1: leannewoz (23100 in chips) 
+Seat 2: drewes97 (24800 in chips) 
+Seat 3: Sam01971 (30314 in chips) 
+Seat 4: Kevin12345Mc (23250 in chips) 
+Seat 5: elviesa (16739 in chips) 
+Seat 6: MACO10AA (25524 in chips) 
+Seat 7: pokerrrr tuck58 (17515 in chips) 
+Seat 8: LewisPoker28 (129900 in chips) 
+leannewoz: posts the ante 100
+drewes97: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+pokerrrr tuck58: posts the ante 100
+LewisPoker28: posts the ante 100
+LewisPoker28: posts small blind 400
+leannewoz: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d Kc]
+drewes97: raises 800 to 1600
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: folds 
+pokerrrr tuck58: folds 
+LewisPoker28: calls 1200
+leannewoz: calls 800
+*** FLOP *** [3h Ac As]
+LewisPoker28: checks 
+leannewoz: checks 
+drewes97: bets 2448
+LewisPoker28: calls 2448
+leannewoz: folds 
+*** TURN *** [3h Ac As] [Ad]
+LewisPoker28: bets 4198
+drewes97: folds 
+Uncalled bet (4198) returned to LewisPoker28
+LewisPoker28 collected 10496 from pot
+LewisPoker28: doesn't show hand 
+*** SUMMARY ***
+Total pot 10496 | Rake 0 
+Board [3h Ac As Ad]
+Seat 1: leannewoz (big blind) folded on the Flop
+Seat 2: drewes97 folded on the Turn
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: pokerrrr tuck58 (button) folded before Flop (didn't bet)
+Seat 8: LewisPoker28 (small blind) collected (10496)
+
+
+
+PokerStars Hand #254862856776: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:11:59 WET [2025/02/14 12:11:59 ET]
+Table '3852792689 270' 8-max Seat #8 is the button
+Seat 1: leannewoz (21400 in chips) 
+Seat 2: drewes97 (20652 in chips) 
+Seat 3: Sam01971 (30214 in chips) 
+Seat 4: Kevin12345Mc (23150 in chips) 
+Seat 5: elviesa (16639 in chips) 
+Seat 6: MACO10AA (25424 in chips) 
+Seat 7: pokerrrr tuck58 (17415 in chips) 
+Seat 8: LewisPoker28 (136248 in chips) 
+leannewoz: posts the ante 100
+drewes97: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+pokerrrr tuck58: posts the ante 100
+LewisPoker28: posts the ante 100
+leannewoz: posts small blind 400
+drewes97: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Ad]
+Sam01971: folds 
+Kevin12345Mc: raises 880 to 1680
+elviesa: raises 14859 to 16539 and is all-in
+MACO10AA: folds 
+pokerrrr tuck58: folds 
+LewisPoker28: folds 
+leannewoz: folds 
+drewes97: folds 
+Kevin12345Mc: folds 
+Uncalled bet (14859) returned to elviesa
+elviesa collected 5360 from pot
+elviesa: doesn't show hand 
+*** SUMMARY ***
+Total pot 5360 | Rake 0 
+Seat 1: leannewoz (small blind) folded before Flop
+Seat 2: drewes97 (big blind) folded before Flop
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop
+Seat 5: elviesa collected (5360)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: pokerrrr tuck58 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862863817: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:12:28 WET [2025/02/14 12:12:28 ET]
+Table '3852792689 270' 8-max Seat #1 is the button
+Seat 1: leannewoz (20900 in chips) 
+Seat 2: drewes97 (19752 in chips) 
+Seat 3: Sam01971 (30114 in chips) 
+Seat 4: Kevin12345Mc (21370 in chips) 
+Seat 5: elviesa (20219 in chips) 
+Seat 6: MACO10AA (25324 in chips) 
+Seat 7: pokerrrr tuck58 (17315 in chips) 
+Seat 8: LewisPoker28 (136148 in chips) 
+leannewoz: posts the ante 100
+drewes97: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+pokerrrr tuck58: posts the ante 100
+LewisPoker28: posts the ante 100
+drewes97: posts small blind 400
+Sam01971: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 5d]
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: folds 
+pokerrrr tuck58: folds 
+LewisPoker28: raises 880 to 1680
+leannewoz: raises 2320 to 4000
+drewes97: raises 15652 to 19652 and is all-in
+Sam01971: folds 
+LewisPoker28: folds 
+leannewoz: folds 
+Uncalled bet (15652) returned to drewes97
+drewes97 collected 11280 from pot
+*** SUMMARY ***
+Total pot 11280 | Rake 0 
+Seat 1: leannewoz (button) folded before Flop
+Seat 2: drewes97 (small blind) collected (11280)
+Seat 3: Sam01971 (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: pokerrrr tuck58 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop
+
+
+
+PokerStars Hand #254862879541: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:13:35 WET [2025/02/14 12:13:35 ET]
+Table '3852792689 270' 8-max Seat #2 is the button
+Seat 1: leannewoz (16800 in chips) 
+Seat 2: drewes97 (26932 in chips) 
+Seat 3: Sam01971 (29214 in chips) 
+Seat 4: Kevin12345Mc (21270 in chips) 
+Seat 5: elviesa (20119 in chips) 
+Seat 6: MACO10AA (25224 in chips) 
+Seat 7: pokerrrr tuck58 (17215 in chips) 
+Seat 8: LewisPoker28 (134368 in chips) 
+leannewoz: posts the ante 100
+drewes97: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+pokerrrr tuck58: posts the ante 100
+LewisPoker28: posts the ante 100
+Sam01971: posts small blind 400
+Kevin12345Mc: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c As]
+elviesa: folds 
+MACO10AA: folds 
+pokerrrr tuck58: raises 16315 to 17115 and is all-in
+LewisPoker28: folds 
+leannewoz: folds 
+drewes97: folds 
+Sam01971: raises 11999 to 29114 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (11999) returned to Sam01971
+*** FLOP *** [Td 8c 9c]
+*** TURN *** [Td 8c 9c] [7s]
+*** RIVER *** [Td 8c 9c 7s] [9s]
+*** SHOW DOWN ***
+Sam01971: shows [Kc Kh] (two pair, Kings and Nines)
+pokerrrr tuck58: shows [Ks Ad] (a pair of Nines)
+Sam01971 collected 35830 from pot
+pokerrrr tuck58 finished the tournament
+*** SUMMARY ***
+Total pot 35830 | Rake 0 
+Board [Td 8c 9c 7s 9s]
+Seat 1: leannewoz folded before Flop (didn't bet)
+Seat 2: drewes97 (button) folded before Flop (didn't bet)
+Seat 3: Sam01971 (small blind) showed [Kc Kh] and won (35830) with two pair, Kings and Nines
+Seat 4: Kevin12345Mc (big blind) folded before Flop
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: pokerrrr tuck58 showed [Ks Ad] and lost with a pair of Nines
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862887277: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:14:07 WET [2025/02/14 12:14:07 ET]
+Table '3852792689 270' 8-max Seat #3 is the button
+Seat 1: leannewoz (16700 in chips) 
+Seat 2: drewes97 (26832 in chips) 
+Seat 3: Sam01971 (47829 in chips) 
+Seat 4: Kevin12345Mc (20370 in chips) 
+Seat 5: elviesa (20019 in chips) 
+Seat 6: MACO10AA (25124 in chips) 
+Seat 8: LewisPoker28 (134268 in chips) 
+leannewoz: posts the ante 100
+drewes97: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+LewisPoker28: posts the ante 100
+Kevin12345Mc: posts small blind 400
+elviesa: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 4c]
+MACO10AA: folds 
+LewisPoker28: folds 
+WonderGirl007 is disconnected 
+leannewoz: folds 
+drewes97: folds 
+Sam01971: raises 800 to 1600
+Kevin12345Mc: raises 18670 to 20270 and is all-in
+elviesa: folds 
+Sam01971: folds 
+Uncalled bet (18670) returned to Kevin12345Mc
+Kevin12345Mc collected 4700 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 4700 | Rake 0 
+Seat 1: leannewoz folded before Flop (didn't bet)
+Seat 2: drewes97 folded before Flop (didn't bet)
+Seat 3: Sam01971 (button) folded before Flop
+Seat 4: Kevin12345Mc (small blind) collected (4700)
+Seat 5: elviesa (big blind) folded before Flop
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862895602: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/14 17:14:42 WET [2025/02/14 12:14:42 ET]
+Table '3852792689 270' 8-max Seat #4 is the button
+Seat 1: leannewoz (16600 in chips) 
+Seat 2: drewes97 (26732 in chips) 
+Seat 3: Sam01971 (46129 in chips) 
+Seat 4: Kevin12345Mc (23370 in chips) 
+Seat 5: elviesa (19119 in chips) 
+Seat 6: MACO10AA (25024 in chips) 
+Seat 7: WonderGirl007 (25000 in chips) 
+Seat 8: LewisPoker28 (134168 in chips) 
+leannewoz: posts the ante 100
+drewes97: posts the ante 100
+Sam01971: posts the ante 100
+Kevin12345Mc: posts the ante 100
+elviesa: posts the ante 100
+MACO10AA: posts the ante 100
+WonderGirl007: posts the ante 100
+LewisPoker28: posts the ante 100
+elviesa: posts small blind 400
+MACO10AA: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 9c]
+WonderGirl007: calls 800
+LewisPoker28: raises 1600 to 2400
+leannewoz: folds 
+drewes97: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: folds 
+WonderGirl007: calls 1600
+*** FLOP *** [3d 7d 9d]
+WonderGirl007: checks 
+LewisPoker28: bets 2720
+WonderGirl007: calls 2720
+*** TURN *** [3d 7d 9d] [Jh]
+WonderGirl007: checks 
+LewisPoker28: checks 
+*** RIVER *** [3d 7d 9d Jh] [4h]
+WonderGirl007: checks 
+LewisPoker28: checks 
+*** SHOW DOWN ***
+WonderGirl007: shows [5d 5h] (a pair of Fives)
+LewisPoker28: mucks hand 
+WonderGirl007 collected 12240 from pot
+*** SUMMARY ***
+Total pot 12240 | Rake 0 
+Board [3d 7d 9d Jh 4h]
+Seat 1: leannewoz folded before Flop (didn't bet)
+Seat 2: drewes97 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: elviesa (small blind) folded before Flop
+Seat 6: MACO10AA (big blind) folded before Flop
+Seat 7: WonderGirl007 showed [5d 5h] and won (12240) with a pair of Fives
+Seat 8: LewisPoker28 mucked [Kd Qh]
+
+
+
+PokerStars Hand #254862908138: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 17:15:34 WET [2025/02/14 12:15:34 ET]
+Table '3852792689 270' 8-max Seat #5 is the button
+Seat 1: leannewoz (16500 in chips) 
+Seat 2: drewes97 (26632 in chips) 
+Seat 3: Sam01971 (46029 in chips) 
+Seat 4: Kevin12345Mc (23270 in chips) 
+Seat 5: elviesa (18619 in chips) 
+Seat 6: MACO10AA (24124 in chips) 
+Seat 7: WonderGirl007 (32020 in chips) 
+Seat 8: LewisPoker28 (128948 in chips) 
+leannewoz: posts the ante 125
+drewes97: posts the ante 125
+Sam01971: posts the ante 125
+Kevin12345Mc: posts the ante 125
+elviesa: posts the ante 125
+MACO10AA: posts the ante 125
+WonderGirl007: posts the ante 125
+LewisPoker28: posts the ante 125
+MACO10AA: posts small blind 500
+WonderGirl007: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 3d]
+LewisPoker28: folds 
+leannewoz: folds 
+drewes97: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: raises 1000 to 2000
+MACO10AA: folds 
+WonderGirl007: calls 1000
+*** FLOP *** [9s Jd 4s]
+WonderGirl007: checks 
+elviesa: checks 
+*** TURN *** [9s Jd 4s] [Js]
+WonderGirl007: bets 2000
+elviesa: folds 
+Uncalled bet (2000) returned to WonderGirl007
+WonderGirl007 collected 5500 from pot
+WonderGirl007: doesn't show hand 
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Board [9s Jd 4s Js]
+Seat 1: leannewoz folded before Flop (didn't bet)
+Seat 2: drewes97 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa (button) folded on the Turn
+Seat 6: MACO10AA (small blind) folded before Flop
+Seat 7: WonderGirl007 (big blind) collected (5500)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862916748: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 17:16:11 WET [2025/02/14 12:16:11 ET]
+Table '3852792689 270' 8-max Seat #6 is the button
+Seat 2: drewes97 (26507 in chips) 
+Seat 3: Sam01971 (45904 in chips) 
+Seat 4: Kevin12345Mc (23145 in chips) 
+Seat 5: elviesa (16494 in chips) 
+Seat 6: MACO10AA (23499 in chips) 
+Seat 7: WonderGirl007 (35395 in chips) 
+Seat 8: LewisPoker28 (128823 in chips) 
+drewes97: posts the ante 125
+Sam01971: posts the ante 125
+Kevin12345Mc: posts the ante 125
+elviesa: posts the ante 125
+MACO10AA: posts the ante 125
+WonderGirl007: posts the ante 125
+LewisPoker28: posts the ante 125
+WonderGirl007: posts small blind 500
+LewisPoker28: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 2d]
+drewes97: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: raises 1000 to 2000
+WonderGirl007: folds 
+LewisPoker28: calls 1000
+*** FLOP *** [9h 9d 8s]
+LewisPoker28: bets 4193
+DonVito38 is disconnected 
+MACO10AA: raises 17181 to 21374 and is all-in
+LewisPoker28: folds 
+Uncalled bet (17181) returned to MACO10AA
+MACO10AA collected 13761 from pot
+*** SUMMARY ***
+Total pot 13761 | Rake 0 
+Board [9h 9d 8s]
+Seat 2: drewes97 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA (button) collected (13761)
+Seat 7: WonderGirl007 (small blind) folded before Flop
+Seat 8: LewisPoker28 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254862928949: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 17:17:02 WET [2025/02/14 12:17:02 ET]
+Table '3852792689 270' 8-max Seat #7 is the button
+Seat 1: DonVito38 (63606 in chips) 
+Seat 2: drewes97 (26382 in chips) 
+Seat 3: Sam01971 (45779 in chips) 
+Seat 4: Kevin12345Mc (23020 in chips) 
+Seat 5: elviesa (16369 in chips) 
+Seat 6: MACO10AA (30942 in chips) 
+Seat 7: WonderGirl007 (34770 in chips) 
+Seat 8: LewisPoker28 (122505 in chips) 
+DonVito38: posts the ante 125
+drewes97: posts the ante 125
+Sam01971: posts the ante 125
+Kevin12345Mc: posts the ante 125
+elviesa: posts the ante 125
+MACO10AA: posts the ante 125
+WonderGirl007: posts the ante 125
+LewisPoker28: posts the ante 125
+LewisPoker28: posts small blind 500
+DonVito38: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 5s]
+drewes97: raises 1200 to 2200
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: folds 
+WonderGirl007: folds 
+LewisPoker28: calls 1700
+DonVito38: raises 7600 to 9800
+drewes97: raises 16457 to 26257 and is all-in
+LewisPoker28: folds 
+DonVito38: calls 16457
+*** FLOP *** [Qd 9d Th]
+*** TURN *** [Qd 9d Th] [9c]
+*** RIVER *** [Qd 9d Th 9c] [Js]
+*** SHOW DOWN ***
+DonVito38: shows [Qc Qs] (a full house, Queens full of Nines)
+drewes97: shows [As Ks] (a straight, Ten to Ace)
+DonVito38 collected 55714 from pot
+drewes97 finished the tournament
+*** SUMMARY ***
+Total pot 55714 | Rake 0 
+Board [Qd 9d Th 9c Js]
+Seat 1: DonVito38 (big blind) showed [Qc Qs] and won (55714) with a full house, Queens full of Nines
+Seat 2: drewes97 showed [As Ks] and lost with a straight, Ten to Ace
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 (button) folded before Flop (didn't bet)
+Seat 8: LewisPoker28 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254862940196: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 17:17:49 WET [2025/02/14 12:17:49 ET]
+Table '3852792689 270' 8-max Seat #8 is the button
+Seat 1: DonVito38 (92938 in chips) 
+Seat 3: Sam01971 (45654 in chips) 
+Seat 4: Kevin12345Mc (22895 in chips) 
+Seat 5: elviesa (16244 in chips) 
+Seat 6: MACO10AA (30817 in chips) 
+Seat 7: WonderGirl007 (34645 in chips) 
+Seat 8: LewisPoker28 (120180 in chips) 
+DonVito38: posts the ante 125
+Sam01971: posts the ante 125
+Kevin12345Mc: posts the ante 125
+elviesa: posts the ante 125
+MACO10AA: posts the ante 125
+WonderGirl007: posts the ante 125
+LewisPoker28: posts the ante 125
+DonVito38: posts small blind 500
+Sam01971: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Td]
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: folds 
+WonderGirl007: folds 
+LewisPoker28: raises 1500 to 2500
+DonVito38: folds 
+leitomdq312 is disconnected 
+Sam01971: calls 1500
+*** FLOP *** [7s 8d 9c]
+Sam01971: bets 1913
+LewisPoker28: calls 1913
+*** TURN *** [7s 8d 9c] [5d]
+Sam01971: bets 3060
+LewisPoker28: calls 3060
+*** RIVER *** [7s 8d 9c 5d] [7h]
+Sam01971: bets 4896
+LewisPoker28: calls 4896
+*** SHOW DOWN ***
+Sam01971: shows [9s Ts] (two pair, Nines and Sevens)
+LewisPoker28: shows [8h 9h] (two pair, Nines and Eights)
+LewisPoker28 collected 26113 from pot
+*** SUMMARY ***
+Total pot 26113 | Rake 0 
+Board [7s 8d 9c 5d 7h]
+Seat 1: DonVito38 (small blind) folded before Flop
+Seat 3: Sam01971 (big blind) showed [9s Ts] and lost with two pair, Nines and Sevens
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 (button) showed [8h 9h] and won (26113) with two pair, Nines and Eights
+
+
+
+PokerStars Hand #254862955196: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 17:18:51 WET [2025/02/14 12:18:51 ET]
+Table '3852792689 270' 8-max Seat #1 is the button
+Seat 1: DonVito38 (92313 in chips) 
+Seat 2: leitomdq312 (25000 in chips) out of hand (moved from another table into small blind)
+Seat 3: Sam01971 (33160 in chips) 
+Seat 4: Kevin12345Mc (22770 in chips) 
+Seat 5: elviesa (16119 in chips) 
+Seat 6: MACO10AA (30692 in chips) 
+Seat 7: WonderGirl007 (34520 in chips) 
+Seat 8: LewisPoker28 (133799 in chips) 
+leitomdq312 will be allowed to play after the button
+DonVito38: posts the ante 125
+Sam01971: posts the ante 125
+Kevin12345Mc: posts the ante 125
+elviesa: posts the ante 125
+MACO10AA: posts the ante 125
+WonderGirl007: posts the ante 125
+LewisPoker28: posts the ante 125
+Sam01971: posts small blind 500
+Kevin12345Mc: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 7c]
+elviesa: folds 
+MACO10AA: folds 
+WonderGirl007: folds 
+LewisPoker28: raises 2000 to 3000
+DonVito38: folds 
+Sam01971: folds 
+Kevin12345Mc: calls 2000
+*** FLOP *** [5c 3c Kc]
+Kevin12345Mc: checks 
+LewisPoker28: bets 2950
+Kevin12345Mc: raises 16695 to 19645 and is all-in
+LewisPoker28: folds 
+Uncalled bet (16695) returned to Kevin12345Mc
+Kevin12345Mc collected 13275 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 13275 | Rake 0 
+Board [5c 3c Kc]
+Seat 1: DonVito38 (button) folded before Flop (didn't bet)
+Seat 3: Sam01971 (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) collected (13275)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded on the Flop
+
+
+
+PokerStars Hand #254862975259: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 17:20:14 WET [2025/02/14 12:20:14 ET]
+Table '3852792689 270' 8-max Seat #3 is the button
+Seat 1: DonVito38 (92188 in chips) 
+Seat 2: leitomdq312 (25000 in chips) 
+Seat 3: Sam01971 (32535 in chips) 
+Seat 4: Kevin12345Mc (29970 in chips) 
+Seat 5: elviesa (15994 in chips) 
+Seat 6: MACO10AA (30567 in chips) 
+Seat 7: WonderGirl007 (34395 in chips) 
+Seat 8: LewisPoker28 (127724 in chips) 
+DonVito38: posts the ante 125
+leitomdq312: posts the ante 125
+Sam01971: posts the ante 125
+Kevin12345Mc: posts the ante 125
+elviesa: posts the ante 125
+MACO10AA: posts the ante 125
+WonderGirl007: posts the ante 125
+LewisPoker28: posts the ante 125
+Kevin12345Mc: posts small blind 500
+elviesa: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 6s]
+MACO10AA: folds 
+WonderGirl007: folds 
+LewisPoker28: folds 
+DonVito38: folds 
+leitomdq312: raises 1200 to 2200
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: calls 1200
+*** FLOP *** [Ad 3c 9d]
+elviesa: checks 
+leitomdq312: bets 1947
+elviesa: raises 11722 to 13669 and is all-in
+leitomdq312: folds 
+Uncalled bet (11722) returned to elviesa
+elviesa collected 9794 from pot
+elviesa: doesn't show hand 
+*** SUMMARY ***
+Total pot 9794 | Rake 0 
+Board [Ad 3c 9d]
+Seat 1: DonVito38 folded before Flop (didn't bet)
+Seat 2: leitomdq312 folded on the Flop
+Seat 3: Sam01971 (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded before Flop
+Seat 5: elviesa (big blind) collected (9794)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254862992172: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 17:21:24 WET [2025/02/14 12:21:24 ET]
+Table '3852792689 270' 8-max Seat #4 is the button
+Seat 1: DonVito38 (92063 in chips) 
+Seat 2: leitomdq312 (20728 in chips) 
+Seat 3: Sam01971 (32410 in chips) 
+Seat 4: Kevin12345Mc (29345 in chips) 
+Seat 5: elviesa (21516 in chips) 
+Seat 6: MACO10AA (30442 in chips) 
+Seat 7: WonderGirl007 (34270 in chips) 
+Seat 8: LewisPoker28 (127599 in chips) 
+DonVito38: posts the ante 125
+leitomdq312: posts the ante 125
+Sam01971: posts the ante 125
+Kevin12345Mc: posts the ante 125
+elviesa: posts the ante 125
+MACO10AA: posts the ante 125
+WonderGirl007: posts the ante 125
+LewisPoker28: posts the ante 125
+elviesa: posts small blind 500
+MACO10AA: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 3c]
+WonderGirl007: folds 
+LewisPoker28: folds 
+DonVito38: folds 
+leitomdq312: folds 
+Sam01971: raises 1000 to 2000
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: folds 
+Uncalled bet (1000) returned to Sam01971
+Sam01971 collected 3500 from pot
+Sam01971: doesn't show hand 
+*** SUMMARY ***
+Total pot 3500 | Rake 0 
+Seat 1: DonVito38 folded before Flop (didn't bet)
+Seat 2: leitomdq312 folded before Flop (didn't bet)
+Seat 3: Sam01971 collected (3500)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: elviesa (small blind) folded before Flop
+Seat 6: MACO10AA (big blind) folded before Flop
+Seat 7: WonderGirl007 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863001269: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 17:22:02 WET [2025/02/14 12:22:02 ET]
+Table '3852792689 270' 8-max Seat #5 is the button
+Seat 1: DonVito38 (91938 in chips) 
+Seat 2: leitomdq312 (20603 in chips) 
+Seat 3: Sam01971 (34785 in chips) 
+Seat 4: Kevin12345Mc (29220 in chips) 
+Seat 5: elviesa (20891 in chips) 
+Seat 6: MACO10AA (29317 in chips) 
+Seat 7: WonderGirl007 (34145 in chips) 
+Seat 8: LewisPoker28 (127474 in chips) 
+DonVito38: posts the ante 125
+leitomdq312: posts the ante 125
+Sam01971: posts the ante 125
+Kevin12345Mc: posts the ante 125
+elviesa: posts the ante 125
+MACO10AA: posts the ante 125
+WonderGirl007: posts the ante 125
+LewisPoker28: posts the ante 125
+MACO10AA: posts small blind 500
+WonderGirl007: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 6h]
+LewisPoker28: folds 
+DonVito38: folds 
+leitomdq312: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: raises 1000 to 2000
+MACO10AA: folds 
+WonderGirl007: calls 1000
+*** FLOP *** [Tc Qh 2s]
+WonderGirl007: checks 
+elviesa: bets 1815
+WonderGirl007: calls 1815
+*** TURN *** [Tc Qh 2s] [6d]
+WonderGirl007: checks 
+elviesa: checks 
+*** RIVER *** [Tc Qh 2s 6d] [2h]
+WonderGirl007: bets 5000
+elviesa: folds 
+Uncalled bet (5000) returned to WonderGirl007
+WonderGirl007 collected 9130 from pot
+WonderGirl007: doesn't show hand 
+*** SUMMARY ***
+Total pot 9130 | Rake 0 
+Board [Tc Qh 2s 6d 2h]
+Seat 1: DonVito38 folded before Flop (didn't bet)
+Seat 2: leitomdq312 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa (button) folded on the River
+Seat 6: MACO10AA (small blind) folded before Flop
+Seat 7: WonderGirl007 (big blind) collected (9130)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863020599: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 17:23:23 WET [2025/02/14 12:23:23 ET]
+Table '3852792689 270' 8-max Seat #6 is the button
+Seat 1: DonVito38 (91813 in chips) 
+Seat 2: leitomdq312 (20478 in chips) 
+Seat 3: Sam01971 (34660 in chips) 
+Seat 4: Kevin12345Mc (29095 in chips) 
+Seat 5: elviesa (16951 in chips) 
+Seat 6: MACO10AA (28692 in chips) 
+Seat 7: WonderGirl007 (39335 in chips) 
+Seat 8: LewisPoker28 (127349 in chips) 
+DonVito38: posts the ante 125
+leitomdq312: posts the ante 125
+Sam01971: posts the ante 125
+Kevin12345Mc: posts the ante 125
+elviesa: posts the ante 125
+MACO10AA: posts the ante 125
+WonderGirl007: posts the ante 125
+LewisPoker28: posts the ante 125
+WonderGirl007: posts small blind 500
+LewisPoker28: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 2s]
+DonVito38: folds 
+leitomdq312: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: raises 1000 to 2000
+WonderGirl007: folds 
+LewisPoker28: calls 1000
+*** FLOP *** [8h Ad 7s]
+LewisPoker28: checks 
+MACO10AA: bets 1815
+LewisPoker28: raises 3652 to 5467
+MACO10AA: folds 
+Uncalled bet (3652) returned to LewisPoker28
+LewisPoker28 collected 9130 from pot
+LewisPoker28: doesn't show hand 
+*** SUMMARY ***
+Total pot 9130 | Rake 0 
+Board [8h Ad 7s]
+Seat 1: DonVito38 folded before Flop (didn't bet)
+Seat 2: leitomdq312 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA (button) folded on the Flop
+Seat 7: WonderGirl007 (small blind) folded before Flop
+Seat 8: LewisPoker28 (big blind) collected (9130)
+
+
+
+PokerStars Hand #254863034964: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (500/1000) - 2025/02/14 17:24:23 WET [2025/02/14 12:24:23 ET]
+Table '3852792689 270' 8-max Seat #7 is the button
+Seat 1: DonVito38 (91688 in chips) 
+Seat 2: leitomdq312 (20353 in chips) 
+Seat 3: Sam01971 (34535 in chips) 
+Seat 4: Kevin12345Mc (28970 in chips) 
+Seat 5: elviesa (16826 in chips) 
+Seat 6: MACO10AA (24752 in chips) 
+Seat 7: WonderGirl007 (38710 in chips) 
+Seat 8: LewisPoker28 (132539 in chips) 
+DonVito38: posts the ante 125
+leitomdq312: posts the ante 125
+Sam01971: posts the ante 125
+Kevin12345Mc: posts the ante 125
+elviesa: posts the ante 125
+MACO10AA: posts the ante 125
+WonderGirl007: posts the ante 125
+LewisPoker28: posts the ante 125
+LewisPoker28: posts small blind 500
+DonVito38: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 8c]
+leitomdq312: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: folds 
+MACO10AA: folds 
+WonderGirl007: raises 1000 to 2000
+LewisPoker28: calls 1500
+DonVito38: calls 1000
+*** FLOP *** [8s 2c Js]
+LewisPoker28: checks 
+DonVito38: checks 
+WonderGirl007: checks 
+*** TURN *** [8s 2c Js] [5h]
+LewisPoker28: checks 
+DonVito38: bets 1000
+WonderGirl007: calls 1000
+LewisPoker28: calls 1000
+*** RIVER *** [8s 2c Js 5h] [9c]
+LewisPoker28: checks 
+DonVito38: checks 
+WonderGirl007: checks 
+*** SHOW DOWN ***
+LewisPoker28: shows [Tc 6c] (high card Jack)
+DonVito38: shows [5c As] (a pair of Fives)
+WonderGirl007: mucks hand 
+DonVito38 collected 10000 from pot
+*** SUMMARY ***
+Total pot 10000 | Rake 0 
+Board [8s 2c Js 5h 9c]
+Seat 1: DonVito38 (big blind) showed [5c As] and won (10000) with a pair of Fives
+Seat 2: leitomdq312 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 (button) mucked [4d 4h]
+Seat 8: LewisPoker28 (small blind) showed [Tc 6c] and lost with high card Jack
+
+
+
+PokerStars Hand #254863051135: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 17:25:30 WET [2025/02/14 12:25:30 ET]
+Table '3852792689 270' 8-max Seat #8 is the button
+Seat 1: DonVito38 (98563 in chips) 
+Seat 2: leitomdq312 (20228 in chips) 
+Seat 3: Sam01971 (34410 in chips) 
+Seat 4: Kevin12345Mc (28845 in chips) 
+Seat 5: elviesa (16701 in chips) 
+Seat 6: MACO10AA (24627 in chips) 
+Seat 7: WonderGirl007 (35585 in chips) 
+Seat 8: LewisPoker28 (129414 in chips) 
+DonVito38: posts the ante 150
+leitomdq312: posts the ante 150
+Sam01971: posts the ante 150
+Kevin12345Mc: posts the ante 150
+elviesa: posts the ante 150
+MACO10AA: posts the ante 150
+WonderGirl007: posts the ante 150
+LewisPoker28: posts the ante 150
+DonVito38: posts small blind 600
+leitomdq312: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 7c]
+Sam01971: folds 
+Kevin12345Mc: folds 
+elviesa: raises 15351 to 16551 and is all-in
+MACO10AA: folds 
+WonderGirl007: folds 
+LewisPoker28: folds 
+DonVito38: calls 15951
+leitomdq312: folds 
+*** FLOP *** [3h 7s 5c]
+*** TURN *** [3h 7s 5c] [Tc]
+*** RIVER *** [3h 7s 5c Tc] [7h]
+*** SHOW DOWN ***
+DonVito38: shows [Js Ad] (a pair of Sevens)
+elviesa: shows [Ks Qh] (a pair of Sevens - lower kicker)
+DonVito38 collected 35502 from pot
+elviesa finished the tournament
+cseristi is disconnected 
+*** SUMMARY ***
+Total pot 35502 | Rake 0 
+Board [3h 7s 5c Tc 7h]
+Seat 1: DonVito38 (small blind) showed [Js Ad] and won (35502) with a pair of Sevens
+Seat 2: leitomdq312 (big blind) folded before Flop
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: elviesa showed [Ks Qh] and lost with a pair of Sevens
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863067608: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 17:26:38 WET [2025/02/14 12:26:38 ET]
+Table '3852792689 270' 8-max Seat #1 is the button
+Seat 1: DonVito38 (117364 in chips) 
+Seat 2: leitomdq312 (18878 in chips) 
+Seat 3: Sam01971 (34260 in chips) 
+Seat 4: Kevin12345Mc (28695 in chips) 
+Seat 5: cseristi (65949 in chips) 
+Seat 6: MACO10AA (24477 in chips) 
+Seat 7: WonderGirl007 (35435 in chips) 
+Seat 8: LewisPoker28 (129264 in chips) 
+DonVito38: posts the ante 150
+leitomdq312: posts the ante 150
+Sam01971: posts the ante 150
+Kevin12345Mc: posts the ante 150
+cseristi: posts the ante 150
+MACO10AA: posts the ante 150
+WonderGirl007: posts the ante 150
+LewisPoker28: posts the ante 150
+leitomdq312: posts small blind 600
+Sam01971: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 4d]
+Kevin12345Mc: folds 
+cseristi: folds 
+MACO10AA: folds 
+WonderGirl007: folds 
+LewisPoker28: raises 1320 to 2520
+DonVito38: folds 
+leitomdq312: folds 
+Sam01971: folds 
+Uncalled bet (1320) returned to LewisPoker28
+LewisPoker28 collected 4200 from pot
+LewisPoker28: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Seat 1: DonVito38 (button) folded before Flop (didn't bet)
+Seat 2: leitomdq312 (small blind) folded before Flop
+Seat 3: Sam01971 (big blind) folded before Flop
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: cseristi folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 collected (4200)
+
+
+
+PokerStars Hand #254863076765: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 17:27:17 WET [2025/02/14 12:27:17 ET]
+Table '3852792689 270' 8-max Seat #2 is the button
+Seat 1: DonVito38 (117214 in chips) 
+Seat 2: leitomdq312 (18128 in chips) 
+Seat 3: Sam01971 (32910 in chips) 
+Seat 4: Kevin12345Mc (28545 in chips) 
+Seat 5: cseristi (65799 in chips) 
+Seat 6: MACO10AA (24327 in chips) 
+Seat 7: WonderGirl007 (35285 in chips) 
+Seat 8: LewisPoker28 (132114 in chips) 
+DonVito38: posts the ante 150
+leitomdq312: posts the ante 150
+Sam01971: posts the ante 150
+Kevin12345Mc: posts the ante 150
+cseristi: posts the ante 150
+MACO10AA: posts the ante 150
+WonderGirl007: posts the ante 150
+LewisPoker28: posts the ante 150
+Sam01971: posts small blind 600
+Kevin12345Mc: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 3h]
+cseristi: folds 
+MACO10AA: folds 
+WonderGirl007: folds 
+LewisPoker28: folds 
+DonVito38: folds 
+leitomdq312: raises 1320 to 2520
+Sam01971: folds 
+Kevin12345Mc: calls 1320
+*** FLOP *** [2s Jd Qs]
+Kevin12345Mc: checks 
+leitomdq312: bets 2257
+Kevin12345Mc: folds 
+Uncalled bet (2257) returned to leitomdq312
+leitomdq312 collected 6840 from pot
+leitomdq312: doesn't show hand 
+*** SUMMARY ***
+Total pot 6840 | Rake 0 
+Board [2s Jd Qs]
+Seat 1: DonVito38 folded before Flop (didn't bet)
+Seat 2: leitomdq312 (button) collected (6840)
+Seat 3: Sam01971 (small blind) folded before Flop
+Seat 4: Kevin12345Mc (big blind) folded on the Flop
+Seat 5: cseristi folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863092905: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 17:28:24 WET [2025/02/14 12:28:24 ET]
+Table '3852792689 270' 8-max Seat #3 is the button
+Seat 1: DonVito38 (117064 in chips) 
+Seat 2: leitomdq312 (22298 in chips) 
+Seat 3: Sam01971 (32160 in chips) 
+Seat 4: Kevin12345Mc (25875 in chips) 
+Seat 5: cseristi (65649 in chips) 
+Seat 6: MACO10AA (24177 in chips) 
+Seat 7: WonderGirl007 (35135 in chips) 
+Seat 8: LewisPoker28 (131964 in chips) 
+DonVito38: posts the ante 150
+leitomdq312: posts the ante 150
+Sam01971: posts the ante 150
+Kevin12345Mc: posts the ante 150
+cseristi: posts the ante 150
+MACO10AA: posts the ante 150
+WonderGirl007: posts the ante 150
+LewisPoker28: posts the ante 150
+Kevin12345Mc: posts small blind 600
+cseristi: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah Jc]
+MACO10AA: folds 
+WonderGirl007: folds 
+LewisPoker28: folds 
+DonVito38: folds 
+leitomdq312: folds 
+Sam01971: folds 
+Kevin12345Mc: calls 600
+cseristi: checks 
+*** FLOP *** [7d Ad 2h]
+Kevin12345Mc: bets 1800
+cseristi: calls 1800
+*** TURN *** [7d Ad 2h] [Jd]
+Kevin12345Mc: bets 2376
+cseristi: calls 2376
+*** RIVER *** [7d Ad 2h Jd] [5d]
+Kevin12345Mc: checks 
+cseristi: bets 7200
+Kevin12345Mc: folds 
+Uncalled bet (7200) returned to cseristi
+cseristi collected 11952 from pot
+cseristi: doesn't show hand 
+*** SUMMARY ***
+Total pot 11952 | Rake 0 
+Board [7d Ad 2h Jd 5d]
+Seat 1: DonVito38 folded before Flop (didn't bet)
+Seat 2: leitomdq312 folded before Flop (didn't bet)
+Seat 3: Sam01971 (button) folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (small blind) folded on the River
+Seat 5: cseristi (big blind) collected (11952)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863110284: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 17:29:36 WET [2025/02/14 12:29:36 ET]
+Table '3852792689 270' 8-max Seat #4 is the button
+Seat 1: DonVito38 (116914 in chips) 
+Seat 2: leitomdq312 (22148 in chips) 
+Seat 3: Sam01971 (32010 in chips) 
+Seat 4: Kevin12345Mc (20349 in chips) 
+Seat 5: cseristi (72075 in chips) 
+Seat 6: MACO10AA (24027 in chips) 
+Seat 7: WonderGirl007 (34985 in chips) 
+Seat 8: LewisPoker28 (131814 in chips) 
+DonVito38: posts the ante 150
+leitomdq312: posts the ante 150
+Sam01971: posts the ante 150
+Kevin12345Mc: posts the ante 150
+cseristi: posts the ante 150
+MACO10AA: posts the ante 150
+WonderGirl007: posts the ante 150
+LewisPoker28: posts the ante 150
+cseristi: posts small blind 600
+MACO10AA: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s Kh]
+WonderGirl007: raises 1200 to 2400
+LewisPoker28: calls 2400
+DonVito38: folds 
+leitomdq312: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+cseristi: folds 
+MACO10AA: folds 
+*** FLOP *** [Td 2c 5c]
+WonderGirl007: bets 3600
+LewisPoker28: calls 3600
+*** TURN *** [Td 2c 5c] [8d]
+WonderGirl007: bets 6000
+LewisPoker28: calls 6000
+*** RIVER *** [Td 2c 5c 8d] [3s]
+WonderGirl007: checks 
+LewisPoker28: checks 
+*** SHOW DOWN ***
+WonderGirl007: shows [6s 6d] (a pair of Sixes)
+LewisPoker28: mucks hand 
+WonderGirl007 collected 27000 from pot
+*** SUMMARY ***
+Total pot 27000 | Rake 0 
+Board [Td 2c 5c 8d 3s]
+Seat 1: DonVito38 folded before Flop (didn't bet)
+Seat 2: leitomdq312 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: cseristi (small blind) folded before Flop
+Seat 6: MACO10AA (big blind) folded before Flop
+Seat 7: WonderGirl007 showed [6s 6d] and won (27000) with a pair of Sixes
+Seat 8: LewisPoker28 mucked [Qc 6c]
+
+
+
+PokerStars Hand #254863126132: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 17:30:40 WET [2025/02/14 12:30:40 ET]
+Table '3852792689 270' 8-max Seat #5 is the button
+Seat 1: DonVito38 (116764 in chips) 
+Seat 2: leitomdq312 (21998 in chips) 
+Seat 3: Sam01971 (31860 in chips) 
+Seat 4: Kevin12345Mc (20199 in chips) 
+Seat 5: cseristi (71325 in chips) 
+Seat 6: MACO10AA (22677 in chips) 
+Seat 7: WonderGirl007 (49835 in chips) 
+Seat 8: LewisPoker28 (119664 in chips) 
+DonVito38: posts the ante 150
+leitomdq312: posts the ante 150
+Sam01971: posts the ante 150
+Kevin12345Mc: posts the ante 150
+cseristi: posts the ante 150
+MACO10AA: posts the ante 150
+WonderGirl007: posts the ante 150
+LewisPoker28: posts the ante 150
+MACO10AA: posts small blind 600
+WonderGirl007: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 4c]
+LewisPoker28: folds 
+DonVito38: folds 
+leitomdq312: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+cseristi: calls 1200
+MACO10AA: folds 
+WonderGirl007: checks 
+*** FLOP *** [Kd 7s 9s]
+WonderGirl007: checks 
+cseristi: checks 
+*** TURN *** [Kd 7s 9s] [Qc]
+WonderGirl007: checks 
+cseristi: bets 1200
+WonderGirl007: folds 
+Uncalled bet (1200) returned to cseristi
+cseristi collected 4200 from pot
+cseristi: doesn't show hand 
+*** SUMMARY ***
+Total pot 4200 | Rake 0 
+Board [Kd 7s 9s Qc]
+Seat 1: DonVito38 folded before Flop (didn't bet)
+Seat 2: leitomdq312 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: cseristi (button) collected (4200)
+Seat 6: MACO10AA (small blind) folded before Flop
+Seat 7: WonderGirl007 (big blind) folded on the Turn
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863136044: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 17:31:21 WET [2025/02/14 12:31:21 ET]
+Table '3852792689 270' 8-max Seat #6 is the button
+Seat 1: DonVito38 (116614 in chips) 
+Seat 2: leitomdq312 (21848 in chips) 
+Seat 3: Sam01971 (31710 in chips) 
+Seat 4: Kevin12345Mc (20049 in chips) 
+Seat 5: cseristi (74175 in chips) 
+Seat 6: MACO10AA (21927 in chips) 
+Seat 7: WonderGirl007 (48485 in chips) 
+Seat 8: LewisPoker28 (119514 in chips) 
+DonVito38: posts the ante 150
+leitomdq312: posts the ante 150
+Sam01971: posts the ante 150
+Kevin12345Mc: posts the ante 150
+cseristi: posts the ante 150
+MACO10AA: posts the ante 150
+WonderGirl007: posts the ante 150
+LewisPoker28: posts the ante 150
+WonderGirl007: posts small blind 600
+LewisPoker28: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 8h]
+DonVito38: calls 1200
+leitomdq312: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+cseristi: folds 
+MACO10AA: folds 
+WonderGirl007: calls 600
+LewisPoker28: raises 2400 to 3600
+DonVito38: calls 2400
+WonderGirl007: calls 2400
+*** FLOP *** [4d Jd 3c]
+WonderGirl007: checks 
+LewisPoker28: bets 3360
+DonVito38: calls 3360
+WonderGirl007: folds 
+*** TURN *** [4d Jd 3c] [7c]
+LewisPoker28: bets 7488
+DonVito38: folds 
+Uncalled bet (7488) returned to LewisPoker28
+LewisPoker28 collected 18720 from pot
+LewisPoker28: doesn't show hand 
+*** SUMMARY ***
+Total pot 18720 | Rake 0 
+Board [4d Jd 3c 7c]
+Seat 1: DonVito38 folded on the Turn
+Seat 2: leitomdq312 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: cseristi folded before Flop (didn't bet)
+Seat 6: MACO10AA (button) folded before Flop (didn't bet)
+Seat 7: WonderGirl007 (small blind) folded on the Flop
+Seat 8: LewisPoker28 (big blind) collected (18720)
+
+
+
+PokerStars Hand #254863151572: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 17:32:23 WET [2025/02/14 12:32:23 ET]
+Table '3852792689 270' 8-max Seat #7 is the button
+Seat 1: DonVito38 (109504 in chips) 
+Seat 2: leitomdq312 (21698 in chips) 
+Seat 3: Sam01971 (31560 in chips) 
+Seat 4: Kevin12345Mc (19899 in chips) 
+Seat 5: cseristi (74025 in chips) 
+Seat 6: MACO10AA (21777 in chips) 
+Seat 7: WonderGirl007 (44735 in chips) 
+Seat 8: LewisPoker28 (131124 in chips) 
+DonVito38: posts the ante 150
+leitomdq312: posts the ante 150
+Sam01971: posts the ante 150
+Kevin12345Mc: posts the ante 150
+cseristi: posts the ante 150
+MACO10AA: posts the ante 150
+WonderGirl007: posts the ante 150
+LewisPoker28: posts the ante 150
+LewisPoker28: posts small blind 600
+DonVito38: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Kd]
+leitomdq312: folds 
+Sam01971: folds 
+Kevin12345Mc: folds 
+cseristi: calls 1200
+MACO10AA: raises 20427 to 21627 and is all-in
+WonderGirl007: folds 
+LewisPoker28: folds 
+DonVito38: folds 
+cseristi: folds 
+Uncalled bet (20427) returned to MACO10AA
+MACO10AA collected 5400 from pot
+*** SUMMARY ***
+Total pot 5400 | Rake 0 
+Seat 1: DonVito38 (big blind) folded before Flop
+Seat 2: leitomdq312 folded before Flop (didn't bet)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: cseristi folded before Flop
+Seat 6: MACO10AA collected (5400)
+Seat 7: WonderGirl007 (button) folded before Flop (didn't bet)
+Seat 8: LewisPoker28 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254863158789: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 17:32:53 WET [2025/02/14 12:32:53 ET]
+Table '3852792689 270' 8-max Seat #8 is the button
+Seat 1: DonVito38 (108154 in chips) 
+Seat 2: leitomdq312 (21548 in chips) 
+Seat 3: Sam01971 (31410 in chips) 
+Seat 4: Kevin12345Mc (19749 in chips) 
+Seat 5: cseristi (72675 in chips) 
+Seat 6: MACO10AA (25827 in chips) 
+Seat 7: WonderGirl007 (44585 in chips) 
+Seat 8: LewisPoker28 (130374 in chips) 
+DonVito38: posts the ante 150
+leitomdq312: posts the ante 150
+Sam01971: posts the ante 150
+Kevin12345Mc: posts the ante 150
+cseristi: posts the ante 150
+MACO10AA: posts the ante 150
+WonderGirl007: posts the ante 150
+LewisPoker28: posts the ante 150
+DonVito38: posts small blind 600
+leitomdq312: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 9s]
+Sam01971: folds 
+Kevin12345Mc: folds 
+cseristi: folds 
+MACO10AA: folds 
+WonderGirl007: folds 
+LewisPoker28: raises 2400 to 3600
+DonVito38: folds 
+leitomdq312: calls 2400
+*** FLOP *** [5h 7h Ks]
+leitomdq312: bets 2970
+LewisPoker28: calls 2970
+*** TURN *** [5h 7h Ks] [8s]
+leitomdq312: checks 
+LewisPoker28: checks 
+*** RIVER *** [5h 7h Ks 8s] [Kh]
+leitomdq312: bets 14828 and is all-in
+LewisPoker28: folds 
+Uncalled bet (14828) returned to leitomdq312
+leitomdq312 collected 14940 from pot
+leitomdq312: doesn't show hand 
+*** SUMMARY ***
+Total pot 14940 | Rake 0 
+Board [5h 7h Ks 8s Kh]
+Seat 1: DonVito38 (small blind) folded before Flop
+Seat 2: leitomdq312 (big blind) collected (14940)
+Seat 3: Sam01971 folded before Flop (didn't bet)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: cseristi folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 (button) folded on the River
+
+
+
+PokerStars Hand #254863182366: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (600/1200) - 2025/02/14 17:34:29 WET [2025/02/14 12:34:29 ET]
+Table '3852792689 270' 8-max Seat #1 is the button
+Seat 1: DonVito38 (107404 in chips) 
+Seat 2: leitomdq312 (29768 in chips) 
+Seat 3: Sam01971 (31260 in chips) 
+Seat 4: Kevin12345Mc (19599 in chips) 
+Seat 5: cseristi (72525 in chips) 
+Seat 6: MACO10AA (25677 in chips) 
+Seat 7: WonderGirl007 (44435 in chips) 
+Seat 8: LewisPoker28 (123654 in chips) 
+DonVito38: posts the ante 150
+leitomdq312: posts the ante 150
+Sam01971: posts the ante 150
+Kevin12345Mc: posts the ante 150
+cseristi: posts the ante 150
+MACO10AA: posts the ante 150
+WonderGirl007: posts the ante 150
+LewisPoker28: posts the ante 150
+leitomdq312: posts small blind 600
+Sam01971: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Qh]
+Kevin12345Mc: folds 
+cseristi: folds 
+MACO10AA: folds 
+WonderGirl007: folds 
+LewisPoker28: folds 
+DonVito38: calls 1200
+leitomdq312: calls 600
+Sam01971: checks 
+*** FLOP *** [Kc 3d 5c]
+leitomdq312: checks 
+Sam01971: checks 
+DonVito38: checks 
+*** TURN *** [Kc 3d 5c] [Th]
+leitomdq312: checks 
+Sam01971: bets 1440
+DonVito38: calls 1440
+leitomdq312: folds 
+*** RIVER *** [Kc 3d 5c Th] [6s]
+Sam01971: bets 3840
+DonVito38: folds 
+Uncalled bet (3840) returned to Sam01971
+Sam01971 collected 7680 from pot
+Sam01971: doesn't show hand 
+*** SUMMARY ***
+Total pot 7680 | Rake 0 
+Board [Kc 3d 5c Th 6s]
+Seat 1: DonVito38 (button) folded on the River
+Seat 2: leitomdq312 (small blind) folded on the Turn
+Seat 3: Sam01971 (big blind) collected (7680)
+Seat 4: Kevin12345Mc folded before Flop (didn't bet)
+Seat 5: cseristi folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254863199760: Tournament #3852792689, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XII (700/1400) - 2025/02/14 17:35:41 WET [2025/02/14 12:35:41 ET]
+Table '3852792689 270' 8-max Seat #2 is the button
+Seat 1: DonVito38 (104614 in chips) 
+Seat 2: leitomdq312 (28418 in chips) 
+Seat 3: Sam01971 (36150 in chips) 
+Seat 4: Kevin12345Mc (19449 in chips) 
+Seat 5: cseristi (72375 in chips) 
+Seat 6: MACO10AA (25527 in chips) 
+Seat 7: WonderGirl007 (44285 in chips) 
+Seat 8: LewisPoker28 (123504 in chips) 
+DonVito38: posts the ante 175
+leitomdq312: posts the ante 175
+Sam01971: posts the ante 175
+Kevin12345Mc: posts the ante 175
+cseristi: posts the ante 175
+MACO10AA: posts the ante 175
+WonderGirl007: posts the ante 175
+LewisPoker28: posts the ante 175
+Sam01971: posts small blind 700
+Kevin12345Mc: posts big blind 1400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s Jd]
+cseristi: folds 
+MACO10AA: folds 
+WonderGirl007: folds 
+LewisPoker28: folds 
+DonVito38: calls 1400
+leitomdq312: folds 
+Sam01971: calls 700
+Kevin12345Mc: checks 
+*** FLOP *** [7c Td 6s]
+Sam01971: checks 
+Kevin12345Mc: checks 
+DonVito38: bets 2800
+Sam01971: folds 
+Kevin12345Mc: raises 15074 to 17874 and is all-in
+DonVito38: calls 15074
+*** TURN *** [7c Td 6s] [Qs]
+*** RIVER *** [7c Td 6s Qs] [7d]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9s Jd] (a pair of Sevens)
+DonVito38: shows [Qc 8h] (two pair, Queens and Sevens)
+DonVito38 collected 41348 from pot
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 41348 | Rake 0 
+Board [7c Td 6s Qs 7d]
+Seat 1: DonVito38 showed [Qc 8h] and won (41348) with two pair, Queens and Sevens
+Seat 2: leitomdq312 (button) folded before Flop (didn't bet)
+Seat 3: Sam01971 (small blind) folded on the Flop
+Seat 4: Kevin12345Mc (big blind) showed [9s Jd] and lost with a pair of Sevens
+Seat 5: cseristi folded before Flop (didn't bet)
+Seat 6: MACO10AA folded before Flop (didn't bet)
+Seat 7: WonderGirl007 folded before Flop (didn't bet)
+Seat 8: LewisPoker28 folded before Flop (didn't bet)
+
+
+

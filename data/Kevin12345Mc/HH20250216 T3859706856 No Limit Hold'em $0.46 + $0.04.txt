@@ -1,0 +1,695 @@
+﻿PokerStars Hand #254897432628: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:49:52 WET [2025/02/16 13:49:52 ET]
+Table '3859706856 1' 3-max Seat #1 is the button
+Seat 1: elforgeron67 (500 in chips) 
+Seat 2: Simpleeeeeee (500 in chips) 
+Seat 3: Kevin12345Mc (500 in chips) 
+Simpleeeeeee: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 4h]
+elforgeron67: raises 20 to 40
+Simpleeeeeee: folds 
+Kevin12345Mc: calls 20
+*** FLOP *** [Th Ac Ah]
+Kevin12345Mc: checks 
+elforgeron67: bets 90
+Kevin12345Mc: folds 
+Uncalled bet (90) returned to elforgeron67
+elforgeron67 collected 90 from pot
+elforgeron67: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Board [Th Ac Ah]
+Seat 1: elforgeron67 (button) collected (90)
+Seat 2: Simpleeeeeee (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254897438825: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:50:10 WET [2025/02/16 13:50:10 ET]
+Table '3859706856 1' 3-max Seat #2 is the button
+Seat 1: elforgeron67 (550 in chips) 
+Seat 2: Simpleeeeeee (490 in chips) 
+Seat 3: Kevin12345Mc (460 in chips) 
+Kevin12345Mc: posts small blind 10
+elforgeron67: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Qs]
+Simpleeeeeee: folds 
+Kevin12345Mc: calls 10
+elforgeron67: checks 
+*** FLOP *** [2d Jc 7d]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** TURN *** [2d Jc 7d] [4h]
+Kevin12345Mc: bets 20
+elforgeron67: folds 
+Uncalled bet (20) returned to Kevin12345Mc
+Kevin12345Mc collected 40 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2d Jc 7d 4h]
+Seat 1: elforgeron67 (big blind) folded on the Turn
+Seat 2: Simpleeeeeee (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) collected (40)
+
+
+
+PokerStars Hand #254897444135: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:50:25 WET [2025/02/16 13:50:25 ET]
+Table '3859706856 1' 3-max Seat #3 is the button
+Seat 1: elforgeron67 (530 in chips) 
+Seat 2: Simpleeeeeee (490 in chips) 
+Seat 3: Kevin12345Mc (480 in chips) 
+elforgeron67: posts small blind 10
+Simpleeeeeee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 3d]
+Kevin12345Mc: folds 
+elforgeron67: folds 
+Uncalled bet (10) returned to Simpleeeeeee
+Simpleeeeeee collected 20 from pot
+Simpleeeeeee: doesn't show hand 
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: elforgeron67 (small blind) folded before Flop
+Seat 2: Simpleeeeeee (big blind) collected (20)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254897446741: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:50:32 WET [2025/02/16 13:50:32 ET]
+Table '3859706856 1' 3-max Seat #1 is the button
+Seat 1: elforgeron67 (520 in chips) 
+Seat 2: Simpleeeeeee (500 in chips) 
+Seat 3: Kevin12345Mc (480 in chips) 
+Simpleeeeeee: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 4d]
+elforgeron67: folds 
+Simpleeeeeee: raises 480 to 500 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (480) returned to Simpleeeeeee
+Simpleeeeeee collected 40 from pot
+Simpleeeeeee: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: elforgeron67 (button) folded before Flop (didn't bet)
+Seat 2: Simpleeeeeee (small blind) collected (40)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254897452641: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:50:49 WET [2025/02/16 13:50:49 ET]
+Table '3859706856 1' 3-max Seat #2 is the button
+Seat 1: elforgeron67 (520 in chips) 
+Seat 2: Simpleeeeeee (520 in chips) 
+Seat 3: Kevin12345Mc (460 in chips) 
+Kevin12345Mc: posts small blind 10
+elforgeron67: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Ts]
+Simpleeeeeee: folds 
+Kevin12345Mc: raises 46 to 66
+elforgeron67: calls 46
+*** FLOP *** [8h 7c 5d]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** TURN *** [8h 7c 5d] [8s]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** RIVER *** [8h 7c 5d 8s] [6s]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [As Ts] (a pair of Eights)
+elforgeron67: mucks hand 
+Kevin12345Mc collected 132 from pot
+*** SUMMARY ***
+Total pot 132 | Rake 0 
+Board [8h 7c 5d 8s 6s]
+Seat 1: elforgeron67 (big blind) mucked [Kh 2c]
+Seat 2: Simpleeeeeee (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) showed [As Ts] and won (132) with a pair of Eights
+
+
+
+PokerStars Hand #254897464657: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:51:23 WET [2025/02/16 13:51:23 ET]
+Table '3859706856 1' 3-max Seat #3 is the button
+Seat 1: elforgeron67 (454 in chips) 
+Seat 2: Simpleeeeeee (520 in chips) 
+Seat 3: Kevin12345Mc (526 in chips) 
+elforgeron67: posts small blind 10
+Simpleeeeeee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Qc]
+Kevin12345Mc: raises 20 to 40
+elforgeron67: folds 
+Simpleeeeeee: raises 480 to 520 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (480) returned to Simpleeeeeee
+Simpleeeeeee collected 90 from pot
+Simpleeeeeee: doesn't show hand 
+*** SUMMARY ***
+Total pot 90 | Rake 0 
+Seat 1: elforgeron67 (small blind) folded before Flop
+Seat 2: Simpleeeeeee (big blind) collected (90)
+Seat 3: Kevin12345Mc (button) folded before Flop
+
+
+
+PokerStars Hand #254897474158: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:51:51 WET [2025/02/16 13:51:51 ET]
+Table '3859706856 1' 3-max Seat #1 is the button
+Seat 1: elforgeron67 (444 in chips) 
+Seat 2: Simpleeeeeee (570 in chips) 
+Seat 3: Kevin12345Mc (486 in chips) 
+Simpleeeeeee: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s Jc]
+elforgeron67: calls 20
+Simpleeeeeee: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [9c As 5c]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** TURN *** [9c As 5c] [3h]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** RIVER *** [9c As 5c 3h] [Qd]
+Kevin12345Mc: checks 
+elforgeron67: bets 50
+Kevin12345Mc: calls 50
+*** SHOW DOWN ***
+elforgeron67: shows [Qc 7c] (a pair of Queens)
+Kevin12345Mc: mucks hand 
+elforgeron67 collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [9c As 5c 3h Qd]
+Seat 1: elforgeron67 (button) showed [Qc 7c] and won (150) with a pair of Queens
+Seat 2: Simpleeeeeee (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) mucked [9s Jc]
+
+
+
+PokerStars Hand #254897487015: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/16 18:52:27 WET [2025/02/16 13:52:27 ET]
+Table '3859706856 1' 3-max Seat #2 is the button
+Seat 1: elforgeron67 (524 in chips) 
+Seat 2: Simpleeeeeee (560 in chips) 
+Seat 3: Kevin12345Mc (416 in chips) 
+Kevin12345Mc: posts small blind 15
+elforgeron67: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac Jd]
+Simpleeeeeee: folds 
+Kevin12345Mc: raises 69 to 99
+elforgeron67: folds 
+Uncalled bet (69) returned to Kevin12345Mc
+Kevin12345Mc collected 60 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: elforgeron67 (big blind) folded before Flop
+Seat 2: Simpleeeeeee (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) collected (60)
+
+
+
+PokerStars Hand #254897490811: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/16 18:52:38 WET [2025/02/16 13:52:38 ET]
+Table '3859706856 1' 3-max Seat #3 is the button
+Seat 1: elforgeron67 (494 in chips) 
+Seat 2: Simpleeeeeee (560 in chips) 
+Seat 3: Kevin12345Mc (446 in chips) 
+elforgeron67: posts small blind 15
+Simpleeeeeee: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 4d]
+Kevin12345Mc: folds 
+elforgeron67: folds 
+Uncalled bet (15) returned to Simpleeeeeee
+Simpleeeeeee collected 30 from pot
+Simpleeeeeee: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: elforgeron67 (small blind) folded before Flop
+Seat 2: Simpleeeeeee (big blind) collected (30)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254897492838: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/16 18:52:44 WET [2025/02/16 13:52:44 ET]
+Table '3859706856 1' 3-max Seat #1 is the button
+Seat 1: elforgeron67 (479 in chips) 
+Seat 2: Simpleeeeeee (575 in chips) 
+Seat 3: Kevin12345Mc (446 in chips) 
+Simpleeeeeee: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Ts]
+elforgeron67: folds 
+Simpleeeeeee: folds 
+Uncalled bet (15) returned to Kevin12345Mc
+Kevin12345Mc collected 30 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: elforgeron67 (button) folded before Flop (didn't bet)
+Seat 2: Simpleeeeeee (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) collected (30)
+
+
+
+PokerStars Hand #254897495852: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/16 18:52:53 WET [2025/02/16 13:52:53 ET]
+Table '3859706856 1' 3-max Seat #2 is the button
+Seat 1: elforgeron67 (479 in chips) 
+Seat 2: Simpleeeeeee (560 in chips) 
+Seat 3: Kevin12345Mc (461 in chips) 
+Kevin12345Mc: posts small blind 15
+elforgeron67: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 4c]
+Simpleeeeeee: calls 30
+Kevin12345Mc: calls 15
+elforgeron67: checks 
+*** FLOP *** [8h 3s Ac]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+Simpleeeeeee: bets 45
+Kevin12345Mc: calls 45
+elforgeron67: folds 
+*** TURN *** [8h 3s Ac] [7h]
+Kevin12345Mc: checks 
+Simpleeeeeee: bets 90
+Kevin12345Mc: calls 90
+*** RIVER *** [8h 3s Ac 7h] [9c]
+Kevin12345Mc: checks 
+Simpleeeeeee: bets 180
+Kevin12345Mc: calls 180
+*** SHOW DOWN ***
+Simpleeeeeee: shows [2c Ah] (a pair of Aces)
+Kevin12345Mc: shows [As 4c] (a pair of Aces)
+Kevin12345Mc collected 360 from pot
+Simpleeeeeee collected 360 from pot
+*** SUMMARY ***
+Total pot 720 | Rake 0 
+Board [8h 3s Ac 7h 9c]
+Seat 1: elforgeron67 (big blind) folded on the Flop
+Seat 2: Simpleeeeeee (button) showed [2c Ah] and won (360) with a pair of Aces
+Seat 3: Kevin12345Mc (small blind) showed [As 4c] and won (360) with a pair of Aces
+
+
+
+PokerStars Hand #254897510817: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/16 18:53:36 WET [2025/02/16 13:53:36 ET]
+Table '3859706856 1' 3-max Seat #3 is the button
+Seat 1: elforgeron67 (449 in chips) 
+Seat 2: Simpleeeeeee (575 in chips) 
+Seat 3: Kevin12345Mc (476 in chips) 
+elforgeron67: posts small blind 15
+Simpleeeeeee: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 3c]
+Kevin12345Mc: folds 
+elforgeron67: folds 
+Uncalled bet (15) returned to Simpleeeeeee
+Simpleeeeeee collected 30 from pot
+Simpleeeeeee: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: elforgeron67 (small blind) folded before Flop
+Seat 2: Simpleeeeeee (big blind) collected (30)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254897514640: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/16 18:53:47 WET [2025/02/16 13:53:47 ET]
+Table '3859706856 1' 3-max Seat #1 is the button
+Seat 1: elforgeron67 (434 in chips) 
+Seat 2: Simpleeeeeee (590 in chips) 
+Seat 3: Kevin12345Mc (476 in chips) 
+Simpleeeeeee: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Qc]
+elforgeron67: calls 30
+Simpleeeeeee: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [7h Td Js]
+Kevin12345Mc: checks 
+elforgeron67: bets 30
+Kevin12345Mc: calls 30
+*** TURN *** [7h Td Js] [Kd]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** RIVER *** [7h Td Js Kd] [5h]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [8d Qc] (high card King)
+elforgeron67: shows [2s Ac] (high card Ace)
+elforgeron67 collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [7h Td Js Kd 5h]
+Seat 1: elforgeron67 (button) showed [2s Ac] and won (135) with high card Ace
+Seat 2: Simpleeeeeee (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) showed [8d Qc] and lost with high card King
+
+
+
+PokerStars Hand #254897530873: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:54:34 WET [2025/02/16 13:54:34 ET]
+Table '3859706856 1' 3-max Seat #2 is the button
+Seat 1: elforgeron67 (509 in chips) 
+Seat 2: Simpleeeeeee (575 in chips) 
+Seat 3: Kevin12345Mc (416 in chips) 
+Kevin12345Mc: posts small blind 20
+elforgeron67: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Jd]
+Simpleeeeeee: folds 
+Kevin12345Mc: raises 40 to 80
+elforgeron67: calls 40
+*** FLOP *** [Ad 3h Kc]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** TURN *** [Ad 3h Kc] [Qs]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** RIVER *** [Ad 3h Kc Qs] [7d]
+Kevin12345Mc: checks 
+elforgeron67: bets 160
+Kevin12345Mc: folds 
+Uncalled bet (160) returned to elforgeron67
+elforgeron67 collected 160 from pot
+elforgeron67: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [Ad 3h Kc Qs 7d]
+Seat 1: elforgeron67 (big blind) collected (160)
+Seat 2: Simpleeeeeee (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded on the River
+
+
+
+PokerStars Hand #254897540771: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:55:02 WET [2025/02/16 13:55:02 ET]
+Table '3859706856 1' 3-max Seat #3 is the button
+Seat 1: elforgeron67 (589 in chips) 
+Seat 2: Simpleeeeeee (575 in chips) 
+Seat 3: Kevin12345Mc (336 in chips) 
+elforgeron67: posts small blind 20
+Simpleeeeeee: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Kh]
+Kevin12345Mc: folds 
+elforgeron67: folds 
+Uncalled bet (20) returned to Simpleeeeeee
+Simpleeeeeee collected 40 from pot
+Simpleeeeeee: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: elforgeron67 (small blind) folded before Flop
+Seat 2: Simpleeeeeee (big blind) collected (40)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254897542726: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:55:10 WET [2025/02/16 13:55:10 ET]
+Table '3859706856 1' 3-max Seat #1 is the button
+Seat 1: elforgeron67 (569 in chips) 
+Seat 2: Simpleeeeeee (595 in chips) 
+Seat 3: Kevin12345Mc (336 in chips) 
+Simpleeeeeee: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 7h]
+elforgeron67: folds 
+Simpleeeeeee: raises 555 to 595 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (555) returned to Simpleeeeeee
+Simpleeeeeee collected 80 from pot
+Simpleeeeeee: doesn't show hand 
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Seat 1: elforgeron67 (button) folded before Flop (didn't bet)
+Seat 2: Simpleeeeeee (small blind) collected (80)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254897545053: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:55:21 WET [2025/02/16 13:55:21 ET]
+Table '3859706856 1' 3-max Seat #2 is the button
+Seat 1: elforgeron67 (569 in chips) 
+Seat 2: Simpleeeeeee (635 in chips) 
+Seat 3: Kevin12345Mc (296 in chips) 
+Kevin12345Mc: posts small blind 20
+elforgeron67: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 3c]
+Simpleeeeeee: folds 
+Kevin12345Mc: calls 20
+elforgeron67: checks 
+*** FLOP *** [2s 7d Td]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** TURN *** [2s 7d Td] [6c]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** RIVER *** [2s 7d Td 6c] [9s]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [2c 3c] (a pair of Deuces)
+elforgeron67: mucks hand 
+Kevin12345Mc collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [2s 7d Td 6c 9s]
+Seat 1: elforgeron67 (big blind) mucked [5h As]
+Seat 2: Simpleeeeeee (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) showed [2c 3c] and won (80) with a pair of Deuces
+
+
+
+PokerStars Hand #254897549741: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:55:44 WET [2025/02/16 13:55:44 ET]
+Table '3859706856 1' 3-max Seat #3 is the button
+Seat 1: elforgeron67 (529 in chips) 
+Seat 2: Simpleeeeeee (635 in chips) 
+Seat 3: Kevin12345Mc (336 in chips) 
+elforgeron67: posts small blind 20
+Simpleeeeeee: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd As]
+Kevin12345Mc: raises 40 to 80
+elforgeron67: folds 
+Simpleeeeeee: folds 
+Uncalled bet (40) returned to Kevin12345Mc
+Kevin12345Mc collected 100 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: elforgeron67 (small blind) folded before Flop
+Seat 2: Simpleeeeeee (big blind) folded before Flop
+Seat 3: Kevin12345Mc (button) collected (100)
+
+
+
+PokerStars Hand #254897552351: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/16 18:55:56 WET [2025/02/16 13:55:56 ET]
+Table '3859706856 1' 3-max Seat #1 is the button
+Seat 1: elforgeron67 (509 in chips) 
+Seat 2: Simpleeeeeee (595 in chips) 
+Seat 3: Kevin12345Mc (396 in chips) 
+Simpleeeeeee: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h Th]
+elforgeron67: raises 60 to 120
+Simpleeeeeee: folds 
+Kevin12345Mc: calls 60
+*** FLOP *** [4d 3h 9c]
+Kevin12345Mc: checks 
+elforgeron67: bets 135
+Kevin12345Mc: folds 
+Uncalled bet (135) returned to elforgeron67
+elforgeron67 collected 270 from pot
+elforgeron67: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Board [4d 3h 9c]
+Seat 1: elforgeron67 (button) collected (270)
+Seat 2: Simpleeeeeee (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254897558376: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/16 18:56:25 WET [2025/02/16 13:56:25 ET]
+Table '3859706856 1' 3-max Seat #2 is the button
+Seat 1: elforgeron67 (659 in chips) 
+Seat 2: Simpleeeeeee (565 in chips) 
+Seat 3: Kevin12345Mc (276 in chips) 
+Kevin12345Mc: posts small blind 30
+elforgeron67: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Jh]
+Simpleeeeeee: folds 
+Kevin12345Mc: raises 216 to 276 and is all-in
+elforgeron67: folds 
+Uncalled bet (216) returned to Kevin12345Mc
+Kevin12345Mc collected 120 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 1: elforgeron67 (big blind) folded before Flop
+Seat 2: Simpleeeeeee (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) collected (120)
+
+
+
+PokerStars Hand #254897560628: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/16 18:56:36 WET [2025/02/16 13:56:36 ET]
+Table '3859706856 1' 3-max Seat #3 is the button
+Seat 1: elforgeron67 (599 in chips) 
+Seat 2: Simpleeeeeee (565 in chips) 
+Seat 3: Kevin12345Mc (336 in chips) 
+elforgeron67: posts small blind 30
+Simpleeeeeee: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 6s]
+Kevin12345Mc: folds 
+elforgeron67: calls 30Kh6s
+Simpleeeeeee: checks 
+*** FLOP *** [Ts Qd Th]
+elforgeron67: checks 
+Simpleeeeeee: checks 
+*** TURN *** [Ts Qd Th] [3h]
+elforgeron67: checks 
+Simpleeeeeee: bets 90
+elforgeron67: folds 
+Uncalled bet (90) returned to Simpleeeeeee
+Simpleeeeeee collected 120 from pot
+Simpleeeeeee: doesn't show hand 
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Ts Qd Th 3h]
+Seat 1: elforgeron67 (small blind) folded on the Turn
+Seat 2: Simpleeeeeee (big blind) collected (120)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254897564552: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/16 18:56:56 WET [2025/02/16 13:56:56 ET]
+Table '3859706856 1' 3-max Seat #1 is the button
+Seat 1: elforgeron67 (539 in chips) 
+Seat 2: Simpleeeeeee (625 in chips) 
+Seat 3: Kevin12345Mc (336 in chips) 
+Simpleeeeeee: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad Ac]
+elforgeron67: folds 
+Simpleeeeeee: raises 565 to 625 and is all-in
+Kevin12345Mc: calls 276 and is all-in
+Uncalled bet (289) returned to Simpleeeeeee
+*** FLOP *** [6c 5h 8c]
+*** TURN *** [6c 5h 8c] [5d]
+*** RIVER *** [6c 5h 8c 5d] [Qh]
+*** SHOW DOWN ***
+Simpleeeeeee: shows [8h 9h] (two pair, Eights and Fives)
+Kevin12345Mc: shows [Ad Ac] (two pair, Aces and Fives)
+Kevin12345Mc collected 672 from pot
+*** SUMMARY ***
+Total pot 672 | Rake 0 
+Board [6c 5h 8c 5d Qh]
+Seat 1: elforgeron67 (button) folded before Flop (didn't bet)
+Seat 2: Simpleeeeeee (small blind) showed [8h 9h] and lost with two pair, Eights and Fives
+Seat 3: Kevin12345Mc (big blind) showed [Ad Ac] and won (672) with two pair, Aces and Fives
+
+
+
+PokerStars Hand #254897568310: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/16 18:57:13 WET [2025/02/16 13:57:13 ET]
+Table '3859706856 1' 3-max Seat #2 is the button
+Seat 1: elforgeron67 (539 in chips) 
+Seat 2: Simpleeeeeee (289 in chips) 
+Seat 3: Kevin12345Mc (672 in chips) 
+Kevin12345Mc: posts small blind 30
+elforgeron67: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Ac]
+Simpleeeeeee: folds 
+Kevin12345Mc: raises 60 to 120
+elforgeron67: calls 60
+*** FLOP *** [2c 5d 9h]
+Kevin12345Mc: bets 120
+elforgeron67: calls 120
+*** TURN *** [2c 5d 9h] [8c]
+Kevin12345Mc: checks 
+elforgeron67: checks 
+*** RIVER *** [2c 5d 9h 8c] [4d]
+Kevin12345Mc: bets 432 and is all-in
+elforgeron67: calls 299 and is all-in
+Uncalled bet (133) returned to Kevin12345Mc
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Js Ac] (high card Ace)
+elforgeron67: shows [3d Ad] (a straight, Ace to Five)
+elforgeron67 collected 1078 from pot
+*** SUMMARY ***
+Total pot 1078 | Rake 0 
+Board [2c 5d 9h 8c 4d]
+Seat 1: elforgeron67 (big blind) showed [3d Ad] and won (1078) with a straight, Ace to Five
+Seat 2: Simpleeeeeee (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) showed [Js Ac] and lost with high card Ace
+
+
+
+PokerStars Hand #254897573195: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/16 18:57:37 WET [2025/02/16 13:57:37 ET]
+Table '3859706856 1' 3-max Seat #3 is the button
+Seat 1: elforgeron67 (1078 in chips) 
+Seat 2: Simpleeeeeee (289 in chips) 
+Seat 3: Kevin12345Mc (133 in chips) 
+elforgeron67: posts small blind 30
+Simpleeeeeee: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 5h]
+Kevin12345Mc: folds 
+elforgeron67: folds 
+Uncalled bet (30) returned to Simpleeeeeee
+Simpleeeeeee collected 60 from pot
+Simpleeeeeee: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: elforgeron67 (small blind) folded before Flop
+Seat 2: Simpleeeeeee (big blind) collected (60)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254897574654: Tournament #3859706856, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/16 18:57:44 WET [2025/02/16 13:57:44 ET]
+Table '3859706856 1' 3-max Seat #1 is the button
+Seat 1: elforgeron67 (1048 in chips) 
+Seat 2: Simpleeeeeee (319 in chips) 
+Seat 3: Kevin12345Mc (133 in chips) 
+Simpleeeeeee: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 4d]
+elforgeron67: calls 60
+Simpleeeeeee: raises 259 to 319 and is all-in
+Kevin12345Mc: calls 73 and is all-in
+elforgeron67: folds 
+Uncalled bet (186) returned to Simpleeeeeee
+*** FLOP *** [Ah 9d Kc]
+*** TURN *** [Ah 9d Kc] [Td]
+*** RIVER *** [Ah 9d Kc Td] [7d]
+*** SHOW DOWN ***
+Simpleeeeeee: shows [Qh Th] (a pair of Tens)
+Kevin12345Mc: shows [8h 4d] (high card Ace)
+Simpleeeeeee collected 326 from pot
+Kevin12345Mc finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 326 | Rake 0 
+Board [Ah 9d Kc Td 7d]
+Seat 1: elforgeron67 (button) folded before Flop
+Seat 2: Simpleeeeeee (small blind) showed [Qh Th] and won (326) with a pair of Tens
+Seat 3: Kevin12345Mc (big blind) showed [8h 4d] and lost with high card Ace
+
+
+

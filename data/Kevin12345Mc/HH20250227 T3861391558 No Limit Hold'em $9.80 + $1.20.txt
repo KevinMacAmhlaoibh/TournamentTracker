@@ -1,0 +1,5253 @@
+﻿PokerStars Hand #255060681697: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/27 17:29:59 WET [2025/02/27 12:29:59 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: slacKer1337 (5000 in chips) 
+Seat 2: 05del (5000 in chips) 
+Seat 3: serotonine91 (5000 in chips) 
+Seat 4: poligraf86 (5000 in chips) 
+Seat 5: Ramanenko (5000 in chips) 
+Seat 6: Kevin12345Mc (5000 in chips) 
+Seat 7: aragon139 (5000 in chips) 
+Seat 8: Tordan3312 (5000 in chips) 
+slacKer1337: posts the ante 8
+05del: posts the ante 8
+serotonine91: posts the ante 8
+poligraf86: posts the ante 8
+Ramanenko: posts the ante 8
+Kevin12345Mc: posts the ante 8
+aragon139: posts the ante 8
+Tordan3312: posts the ante 8
+05del: posts small blind 25
+serotonine91: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 8s]
+poligraf86: folds 
+Ramanenko: raises 75 to 125
+Kevin12345Mc: folds 
+aragon139: raises 325 to 450
+Tordan3312: folds 
+slacKer1337: folds 
+05del: folds 
+serotonine91: folds 
+Ramanenko: folds 
+Uncalled bet (325) returned to aragon139
+aragon139 collected 389 from pot
+aragon139: doesn't show hand 
+*** SUMMARY ***
+Total pot 389 | Rake 0 
+Seat 1: slacKer1337 (button) folded before Flop (didn't bet)
+Seat 2: 05del (small blind) folded before Flop
+Seat 3: serotonine91 (big blind) folded before Flop
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 collected (389)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060695618: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/27 17:30:56 WET [2025/02/27 12:30:56 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: slacKer1337 (4992 in chips) 
+Seat 2: 05del (4967 in chips) 
+Seat 3: serotonine91 (4942 in chips) 
+Seat 4: poligraf86 (4992 in chips) 
+Seat 5: Ramanenko (4867 in chips) 
+Seat 6: Kevin12345Mc (4992 in chips) 
+Seat 7: aragon139 (5256 in chips) 
+Seat 8: Tordan3312 (4992 in chips) 
+slacKer1337: posts the ante 8
+05del: posts the ante 8
+serotonine91: posts the ante 8
+poligraf86: posts the ante 8
+Ramanenko: posts the ante 8
+Kevin12345Mc: posts the ante 8
+aragon139: posts the ante 8
+Tordan3312: posts the ante 8
+serotonine91: posts small blind 25
+poligraf86: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Qs]
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: raises 75 to 125
+slacKer1337: folds 
+05del: calls 125
+serotonine91: folds 
+poligraf86: folds 
+*** FLOP *** [8d As 7c]
+Tordan3312: checks 
+05del: bets 150
+Tordan3312: calls 150
+*** TURN *** [8d As 7c] [8h]
+Tordan3312: checks 
+05del: checks 
+*** RIVER *** [8d As 7c 8h] [Qc]
+Tordan3312: bets 482
+05del: folds 
+Uncalled bet (482) returned to Tordan3312
+Tordan3312 collected 689 from pot
+Tordan3312: doesn't show hand 
+*** SUMMARY ***
+Total pot 689 | Rake 0 
+Board [8d As 7c 8h Qc]
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: 05del (button) folded on the River
+Seat 3: serotonine91 (small blind) folded before Flop
+Seat 4: poligraf86 (big blind) folded before Flop
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 collected (689)
+
+
+
+PokerStars Hand #255060713756: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/27 17:32:10 WET [2025/02/27 12:32:10 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: slacKer1337 (4984 in chips) 
+Seat 2: 05del (4684 in chips) 
+Seat 3: serotonine91 (4909 in chips) 
+Seat 4: poligraf86 (4934 in chips) 
+Seat 5: Ramanenko (4859 in chips) 
+Seat 6: Kevin12345Mc (4984 in chips) 
+Seat 7: aragon139 (5248 in chips) 
+Seat 8: Tordan3312 (5398 in chips) 
+slacKer1337: posts the ante 8
+05del: posts the ante 8
+serotonine91: posts the ante 8
+poligraf86: posts the ante 8
+Ramanenko: posts the ante 8
+Kevin12345Mc: posts the ante 8
+aragon139: posts the ante 8
+Tordan3312: posts the ante 8
+poligraf86: posts small blind 25
+Ramanenko: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 3h]
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+slacKer1337: folds 
+05del: raises 75 to 125
+serotonine91: folds 
+poligraf86: folds 
+Ramanenko: calls 75
+*** FLOP *** [9h 8s Jc]
+Ramanenko: checks 
+05del: bets 170
+Ramanenko: folds 
+Uncalled bet (170) returned to 05del
+05del collected 339 from pot
+05del: doesn't show hand 
+*** SUMMARY ***
+Total pot 339 | Rake 0 
+Board [9h 8s Jc]
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: 05del collected (339)
+Seat 3: serotonine91 (button) folded before Flop (didn't bet)
+Seat 4: poligraf86 (small blind) folded before Flop
+Seat 5: Ramanenko (big blind) folded on the Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060734538: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/27 17:33:35 WET [2025/02/27 12:33:35 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: slacKer1337 (4976 in chips) 
+Seat 3: serotonine91 (4901 in chips) 
+Seat 4: poligraf86 (4901 in chips) 
+Seat 5: Ramanenko (4726 in chips) 
+Seat 6: Kevin12345Mc (4976 in chips) 
+Seat 7: aragon139 (5240 in chips) 
+Seat 8: Tordan3312 (5390 in chips) 
+slacKer1337: posts the ante 8
+serotonine91: posts the ante 8
+poligraf86: posts the ante 8
+Ramanenko: posts the ante 8
+Kevin12345Mc: posts the ante 8
+aragon139: posts the ante 8
+Tordan3312: posts the ante 8
+Ramanenko: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Td]
+aragon139: folds 
+Tordan3312: folds 
+leduarte92 is disconnected 
+slacKer1337: folds 
+serotonine91: folds 
+poligraf86: raises 60 to 110
+Ramanenko: folds 
+Kevin12345Mc: calls 60
+*** FLOP *** [2s 5s Jd]
+Kevin12345Mc: checks 
+poligraf86: bets 226
+Kevin12345Mc: folds 
+Uncalled bet (226) returned to poligraf86
+poligraf86 collected 301 from pot
+poligraf86: doesn't show hand 
+*** SUMMARY ***
+Total pot 301 | Rake 0 
+Board [2s 5s Jd]
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 3: serotonine91 folded before Flop (didn't bet)
+Seat 4: poligraf86 (button) collected (301)
+Seat 5: Ramanenko (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded on the Flop
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060748933: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/27 17:34:35 WET [2025/02/27 12:34:35 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: slacKer1337 (4968 in chips) 
+Seat 2: leduarte92 (5000 in chips) 
+Seat 3: serotonine91 (4893 in chips) 
+Seat 4: poligraf86 (5084 in chips) 
+Seat 5: Ramanenko (4693 in chips) 
+Seat 6: Kevin12345Mc (4858 in chips) 
+Seat 7: aragon139 (5232 in chips) 
+Seat 8: Tordan3312 (5382 in chips) 
+slacKer1337: posts the ante 8
+leduarte92: posts the ante 8
+serotonine91: posts the ante 8
+poligraf86: posts the ante 8
+Ramanenko: posts the ante 8
+Kevin12345Mc: posts the ante 8
+aragon139: posts the ante 8
+Tordan3312: posts the ante 8
+Kevin12345Mc: posts small blind 25
+aragon139: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 7c]
+Tordan3312: folds 
+slacKer1337: folds 
+leduarte92: raises 100 to 150
+serotonine91: raises 300 to 450
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: folds 
+leduarte92: raises 550 to 1000
+serotonine91: folds 
+Uncalled bet (550) returned to leduarte92
+leduarte92 collected 1039 from pot
+leduarte92: doesn't show hand 
+*** SUMMARY ***
+Total pot 1039 | Rake 0 
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 collected (1039)
+Seat 3: serotonine91 folded before Flop
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: aragon139 (big blind) folded before Flop
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060764516: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/27 17:35:40 WET [2025/02/27 12:35:40 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: slacKer1337 (4960 in chips) 
+Seat 2: leduarte92 (5581 in chips) 
+Seat 3: serotonine91 (4435 in chips) 
+Seat 4: poligraf86 (5076 in chips) 
+Seat 5: Ramanenko (4685 in chips) 
+Seat 6: Kevin12345Mc (4825 in chips) 
+Seat 7: aragon139 (5174 in chips) 
+Seat 8: Tordan3312 (5374 in chips) 
+slacKer1337: posts the ante 8
+leduarte92: posts the ante 8
+serotonine91: posts the ante 8
+poligraf86: posts the ante 8
+Ramanenko: posts the ante 8
+Kevin12345Mc: posts the ante 8
+aragon139: posts the ante 8
+Tordan3312: posts the ante 8
+aragon139: posts small blind 25
+Tordan3312: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Ad]
+slacKer1337: folds 
+leduarte92: folds 
+serotonine91: folds 
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: raises 65 to 115
+aragon139: raises 335 to 450
+Tordan3312: folds 
+Kevin12345Mc: folds 
+Uncalled bet (335) returned to aragon139
+aragon139 collected 344 from pot
+aragon139: doesn't show hand 
+*** SUMMARY ***
+Total pot 344 | Rake 0 
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: serotonine91 folded before Flop (didn't bet)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop
+Seat 7: aragon139 (small blind) collected (344)
+Seat 8: Tordan3312 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255060776329: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/27 17:36:29 WET [2025/02/27 12:36:29 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 1: slacKer1337 (4952 in chips) 
+Seat 2: leduarte92 (5573 in chips) 
+Seat 3: serotonine91 (4427 in chips) 
+Seat 4: poligraf86 (5068 in chips) 
+Seat 5: Ramanenko (4677 in chips) 
+Seat 6: Kevin12345Mc (4702 in chips) 
+Seat 7: aragon139 (5395 in chips) 
+Seat 8: Tordan3312 (5316 in chips) 
+slacKer1337: posts the ante 8
+leduarte92: posts the ante 8
+serotonine91: posts the ante 8
+poligraf86: posts the ante 8
+Ramanenko: posts the ante 8
+Kevin12345Mc: posts the ante 8
+aragon139: posts the ante 8
+Tordan3312: posts the ante 8
+Tordan3312: posts small blind 25
+slacKer1337: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Ks]
+leduarte92: folds 
+serotonine91: raises 50 to 100
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+slacKer1337: calls 50
+*** FLOP *** [Qs Jd 9h]
+slacKer1337: checks 
+serotonine91: checks 
+*** TURN *** [Qs Jd 9h] [7s]
+slacKer1337 has timed out
+slacKer1337: checks 
+serotonine91: bets 150
+slacKer1337: folds 
+Uncalled bet (150) returned to serotonine91
+serotonine91 collected 289 from pot
+*** SUMMARY ***
+Total pot 289 | Rake 0 
+Board [Qs Jd 9h 7s]
+Seat 1: slacKer1337 (big blind) folded on the Turn
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: serotonine91 collected (289)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 (button) folded before Flop (didn't bet)
+Seat 8: Tordan3312 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255060796215: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level I (25/50) - 2025/02/27 17:37:51 WET [2025/02/27 12:37:51 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: slacKer1337 (4844 in chips) 
+Seat 2: leduarte92 (5565 in chips) 
+Seat 3: serotonine91 (4608 in chips) 
+Seat 4: poligraf86 (5060 in chips) 
+Seat 5: Ramanenko (4669 in chips) 
+Seat 6: Kevin12345Mc (4694 in chips) 
+Seat 7: aragon139 (5387 in chips) 
+Seat 8: Tordan3312 (5283 in chips) 
+slacKer1337: posts the ante 8
+leduarte92: posts the ante 8
+serotonine91: posts the ante 8
+poligraf86: posts the ante 8
+Ramanenko: posts the ante 8
+Kevin12345Mc: posts the ante 8
+aragon139: posts the ante 8
+Tordan3312: posts the ante 8
+slacKer1337: posts small blind 25
+leduarte92: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 4d]
+serotonine91: folds 
+poligraf86: raises 60 to 110
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+slacKer1337: folds 
+leduarte92: calls 60
+*** FLOP *** [9d Kh 3s]
+leduarte92: checks 
+poligraf86: bets 77
+leduarte92: folds 
+Uncalled bet (77) returned to poligraf86
+poligraf86 collected 309 from pot
+poligraf86: doesn't show hand 
+*** SUMMARY ***
+Total pot 309 | Rake 0 
+Board [9d Kh 3s]
+Seat 1: slacKer1337 (small blind) folded before Flop
+Seat 2: leduarte92 (big blind) folded on the Flop
+Seat 3: serotonine91 folded before Flop (didn't bet)
+Seat 4: poligraf86 collected (309)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060805541: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/27 17:38:30 WET [2025/02/27 12:38:30 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: slacKer1337 (4811 in chips) 
+Seat 2: leduarte92 (5447 in chips) 
+Seat 4: poligraf86 (5251 in chips) 
+Seat 5: Ramanenko (4661 in chips) 
+Seat 6: Kevin12345Mc (4686 in chips) 
+Seat 7: aragon139 (5379 in chips) 
+Seat 8: Tordan3312 (5275 in chips) 
+slacKer1337: posts the ante 9
+leduarte92: posts the ante 9
+poligraf86: posts the ante 9
+Ramanenko: posts the ante 9
+Kevin12345Mc: posts the ante 9
+aragon139: posts the ante 9
+Tordan3312: posts the ante 9
+leduarte92: posts small blind 30
+poligraf86: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 9h]
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: folds 
+Novikov_PM is disconnected 
+Tordan3312: raises 72 to 132
+slacKer1337: folds 
+leduarte92: folds 
+poligraf86: raises 408 to 540
+Tordan3312: folds 
+Uncalled bet (408) returned to poligraf86
+poligraf86 collected 357 from pot
+poligraf86: doesn't show hand 
+*** SUMMARY ***
+Total pot 357 | Rake 0 
+Seat 1: slacKer1337 (button) folded before Flop (didn't bet)
+Seat 2: leduarte92 (small blind) folded before Flop
+Seat 4: poligraf86 (big blind) collected (357)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop
+
+
+
+PokerStars Hand #255060811077: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/27 17:38:52 WET [2025/02/27 12:38:52 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: slacKer1337 (4802 in chips) 
+Seat 2: leduarte92 (5408 in chips) 
+Seat 3: Novikov_PM (5000 in chips) out of hand (moved from another table into small blind)
+Seat 4: poligraf86 (5467 in chips) 
+Seat 5: Ramanenko (4652 in chips) 
+Seat 6: Kevin12345Mc (4677 in chips) 
+Seat 7: aragon139 (5370 in chips) 
+Seat 8: Tordan3312 (5134 in chips) 
+Novikov_PM will be allowed to play after the button
+slacKer1337: posts the ante 9
+leduarte92: posts the ante 9
+poligraf86: posts the ante 9
+Ramanenko: posts the ante 9
+Kevin12345Mc: posts the ante 9
+aragon139: posts the ante 9
+Tordan3312: posts the ante 9
+poligraf86: posts small blind 30
+Ramanenko: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 9d]
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+slacKer1337 has timed out
+slacKer1337: folds 
+slacKer1337 is sitting out
+leduarte92: folds 
+slacKer1337 has returned
+poligraf86: calls 30
+Ramanenko: raises 150 to 210
+poligraf86: calls 150
+*** FLOP *** [Td 5d 4h]
+poligraf86: checks 
+Ramanenko: bets 160
+poligraf86: folds 
+Uncalled bet (160) returned to Ramanenko
+Ramanenko collected 483 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 483 | Rake 0 
+Board [Td 5d 4h]
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 (button) folded before Flop (didn't bet)
+Seat 4: poligraf86 (small blind) folded on the Flop
+Seat 5: Ramanenko (big blind) collected (483)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060822350: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/27 17:39:38 WET [2025/02/27 12:39:38 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: slacKer1337 (4793 in chips) 
+Seat 2: leduarte92 (5399 in chips) 
+Seat 3: Novikov_PM (5000 in chips) 
+Seat 4: poligraf86 (5248 in chips) 
+Seat 5: Ramanenko (4916 in chips) 
+Seat 6: Kevin12345Mc (4668 in chips) 
+Seat 7: aragon139 (5361 in chips) 
+Seat 8: Tordan3312 (5125 in chips) 
+slacKer1337: posts the ante 9
+leduarte92: posts the ante 9
+Novikov_PM: posts the ante 9
+poligraf86: posts the ante 9
+Ramanenko: posts the ante 9
+Kevin12345Mc: posts the ante 9
+aragon139: posts the ante 9
+Tordan3312: posts the ante 9
+Ramanenko: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 2d]
+aragon139: folds 
+Tordan3312: folds 
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: raises 60 to 120
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+Uncalled bet (60) returned to Novikov_PM
+Novikov_PM collected 222 from pot
+Novikov_PM: doesn't show hand 
+*** SUMMARY ***
+Total pot 222 | Rake 0 
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM collected (222)
+Seat 4: poligraf86 (button) folded before Flop (didn't bet)
+Seat 5: Ramanenko (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060830437: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/27 17:40:12 WET [2025/02/27 12:40:12 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: slacKer1337 (4784 in chips) 
+Seat 2: leduarte92 (5390 in chips) 
+Seat 3: Novikov_PM (5153 in chips) 
+Seat 4: poligraf86 (5239 in chips) 
+Seat 5: Ramanenko (4877 in chips) 
+Seat 6: Kevin12345Mc (4599 in chips) 
+Seat 7: aragon139 (5352 in chips) 
+Seat 8: Tordan3312 (5116 in chips) 
+slacKer1337: posts the ante 9
+leduarte92: posts the ante 9
+Novikov_PM: posts the ante 9
+poligraf86: posts the ante 9
+Ramanenko: posts the ante 9
+Kevin12345Mc: posts the ante 9
+aragon139: posts the ante 9
+Tordan3312: posts the ante 9
+Kevin12345Mc: posts small blind 30
+aragon139: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Ah]
+Tordan3312: folds 
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: folds 
+poligraf86: folds 
+Ramanenko: raises 60 to 120
+Kevin12345Mc: folds 
+aragon139: raises 420 to 540
+Ramanenko: folds 
+Uncalled bet (420) returned to aragon139
+aragon139 collected 342 from pot
+aragon139: doesn't show hand 
+*** SUMMARY ***
+Total pot 342 | Rake 0 
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko (button) folded before Flop
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: aragon139 (big blind) collected (342)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060845401: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/27 17:41:13 WET [2025/02/27 12:41:13 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: slacKer1337 (4775 in chips) 
+Seat 2: leduarte92 (5381 in chips) 
+Seat 3: Novikov_PM (5144 in chips) 
+Seat 4: poligraf86 (5230 in chips) 
+Seat 5: Ramanenko (4748 in chips) 
+Seat 6: Kevin12345Mc (4560 in chips) 
+Seat 7: aragon139 (5565 in chips) 
+Seat 8: Tordan3312 (5107 in chips) 
+slacKer1337: posts the ante 9
+leduarte92: posts the ante 9
+Novikov_PM: posts the ante 9
+poligraf86: posts the ante 9
+Ramanenko: posts the ante 9
+Kevin12345Mc: posts the ante 9
+aragon139: posts the ante 9
+Tordan3312: posts the ante 9
+aragon139: posts small blind 30
+Tordan3312: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Kh]
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: raises 60 to 120
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: calls 120
+aragon139: folds 
+Tordan3312: calls 60
+*** FLOP *** [6d 4c Th]
+Tordan3312: checks 
+Novikov_PM: bets 226
+Kevin12345Mc: folds 
+Tordan3312: calls 226
+*** TURN *** [6d 4c Th] [5s]
+Tordan3312: checks 
+Novikov_PM: bets 603
+Tordan3312: calls 603
+*** RIVER *** [6d 4c Th 5s] [9c]
+Tordan3312: checks 
+Novikov_PM: checks 
+*** SHOW DOWN ***
+Tordan3312: shows [2c Tc] (a pair of Tens)
+Novikov_PM: mucks hand 
+Tordan3312 collected 2120 from pot
+*** SUMMARY ***
+Total pot 2120 | Rake 0 
+Board [6d 4c Th 5s 9c]
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM mucked [Ah Kd]
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded on the Flop
+Seat 7: aragon139 (small blind) folded before Flop
+Seat 8: Tordan3312 (big blind) showed [2c Tc] and won (2120) with a pair of Tens
+
+
+
+PokerStars Hand #255060871510: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/27 17:43:02 WET [2025/02/27 12:43:02 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 1: slacKer1337 (4766 in chips) 
+Seat 2: leduarte92 (5372 in chips) 
+Seat 3: Novikov_PM (4186 in chips) 
+Seat 4: poligraf86 (5221 in chips) 
+Seat 5: Ramanenko (4739 in chips) 
+Seat 6: Kevin12345Mc (4431 in chips) 
+Seat 7: aragon139 (5526 in chips) 
+Seat 8: Tordan3312 (6269 in chips) 
+slacKer1337: posts the ante 9
+leduarte92: posts the ante 9
+Novikov_PM: posts the ante 9
+poligraf86: posts the ante 9
+Ramanenko: posts the ante 9
+Kevin12345Mc: posts the ante 9
+aragon139: posts the ante 9
+Tordan3312: posts the ante 9
+Tordan3312: posts small blind 30
+slacKer1337: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 9c]
+leduarte92: folds 
+Novikov_PM: folds 
+poligraf86: folds 
+Ramanenko: raises 60 to 120
+Kevin12345Mc: folds 
+aragon139: raises 330 to 450
+Tordan3312: folds 
+slacKer1337: folds 
+Ramanenko: calls 330
+*** FLOP *** [Jd Ac Td]
+Ramanenko: checks 
+aragon139: bets 573
+Ramanenko: calls 573
+*** TURN *** [Jd Ac Td] [3h]
+Ramanenko: checks 
+aragon139: bets 1222
+Ramanenko: calls 1222
+*** RIVER *** [Jd Ac Td 3h] [6c]
+Ramanenko: bets 2485 and is all-in
+aragon139: folds 
+Uncalled bet (2485) returned to Ramanenko
+Ramanenko collected 4652 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 4652 | Rake 0 
+Board [Jd Ac Td 3h 6c]
+Seat 1: slacKer1337 (big blind) folded before Flop
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko collected (4652)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 (button) folded on the River
+Seat 8: Tordan3312 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255060905929: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level II (30/60) - 2025/02/27 17:45:25 WET [2025/02/27 12:45:25 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: slacKer1337 (4697 in chips) 
+Seat 2: leduarte92 (5363 in chips) 
+Seat 3: Novikov_PM (4177 in chips) 
+Seat 4: poligraf86 (5212 in chips) 
+Seat 5: Ramanenko (7137 in chips) 
+Seat 6: Kevin12345Mc (4422 in chips) 
+Seat 7: aragon139 (3272 in chips) 
+Seat 8: Tordan3312 (6230 in chips) 
+slacKer1337: posts the ante 9
+leduarte92: posts the ante 9
+Novikov_PM: posts the ante 9
+poligraf86: posts the ante 9
+Ramanenko: posts the ante 9
+Kevin12345Mc: posts the ante 9
+aragon139: posts the ante 9
+Tordan3312: posts the ante 9
+slacKer1337: posts small blind 30
+leduarte92: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 2s]
+Novikov_PM: folds 
+poligraf86: folds 
+Ramanenko: raises 72 to 132
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+slacKer1337 has timed out
+slacKer1337: folds 
+slacKer1337 is sitting out
+slacKer1337 has returned
+leduarte92: raises 366 to 498
+Ramanenko: folds 
+Uncalled bet (366) returned to leduarte92
+leduarte92 collected 366 from pot
+leduarte92: doesn't show hand 
+*** SUMMARY ***
+Total pot 366 | Rake 0 
+Seat 1: slacKer1337 (small blind) folded before Flop
+Seat 2: leduarte92 (big blind) collected (366)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060917342: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/27 17:46:12 WET [2025/02/27 12:46:12 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: slacKer1337 (4658 in chips) 
+Seat 2: leduarte92 (5588 in chips) 
+Seat 3: Novikov_PM (4168 in chips) 
+Seat 4: poligraf86 (5203 in chips) 
+Seat 5: Ramanenko (6996 in chips) 
+Seat 6: Kevin12345Mc (4413 in chips) 
+Seat 7: aragon139 (3263 in chips) 
+Seat 8: Tordan3312 (6221 in chips) 
+slacKer1337: posts the ante 11
+leduarte92: posts the ante 11
+Novikov_PM: posts the ante 11
+poligraf86: posts the ante 11
+Ramanenko: posts the ante 11
+Kevin12345Mc: posts the ante 11
+aragon139: posts the ante 11
+Tordan3312: posts the ante 11
+leduarte92: posts small blind 35
+Novikov_PM: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 6h]
+poligraf86: folds 
+Ramanenko: raises 105 to 175
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: calls 175
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: folds 
+*** FLOP *** [7c 9d 4s]
+Ramanenko: bets 250
+Tordan3312: folds 
+Uncalled bet (250) returned to Ramanenko
+Ramanenko collected 543 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 543 | Rake 0 
+Board [7c 9d 4s]
+Seat 1: slacKer1337 (button) folded before Flop (didn't bet)
+Seat 2: leduarte92 (small blind) folded before Flop
+Seat 3: Novikov_PM (big blind) folded before Flop
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko collected (543)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded on the Flop
+
+
+
+PokerStars Hand #255060929803: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/27 17:47:04 WET [2025/02/27 12:47:04 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: slacKer1337 (4647 in chips) 
+Seat 2: leduarte92 (5542 in chips) 
+Seat 3: Novikov_PM (4087 in chips) 
+Seat 4: poligraf86 (5192 in chips) 
+Seat 5: Ramanenko (7353 in chips) 
+Seat 6: Kevin12345Mc (4402 in chips) 
+Seat 7: aragon139 (3252 in chips) 
+Seat 8: Tordan3312 (6035 in chips) 
+slacKer1337: posts the ante 11
+leduarte92: posts the ante 11
+Novikov_PM: posts the ante 11
+poligraf86: posts the ante 11
+Ramanenko: posts the ante 11
+Kevin12345Mc: posts the ante 11
+aragon139: posts the ante 11
+Tordan3312: posts the ante 11
+Novikov_PM: posts small blind 35
+poligraf86: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 6h]
+Ramanenko: raises 105 to 175
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: raises 438 to 613
+poligraf86: folds 
+Ramanenko: calls 438
+*** FLOP *** [5s Ah 6d]
+Novikov_PM: bets 346
+Ramanenko: calls 346
+*** TURN *** [5s Ah 6d] [4h]
+Novikov_PM: bets 519
+Ramanenko: calls 519
+*** RIVER *** [5s Ah 6d 4h] [3d]
+Novikov_PM: checks 
+Ramanenko: bets 770
+Novikov_PM: folds 
+Uncalled bet (770) returned to Ramanenko
+Ramanenko collected 3114 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 3114 | Rake 0 
+Board [5s Ah 6d 4h 3d]
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 (button) folded before Flop (didn't bet)
+Seat 3: Novikov_PM (small blind) folded on the River
+Seat 4: poligraf86 (big blind) folded before Flop
+Seat 5: Ramanenko collected (3114)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060951544: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/27 17:48:33 WET [2025/02/27 12:48:33 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: slacKer1337 (4636 in chips) 
+Seat 2: leduarte92 (5531 in chips) 
+Seat 3: Novikov_PM (2598 in chips) 
+Seat 4: poligraf86 (5111 in chips) 
+Seat 5: Ramanenko (8978 in chips) 
+Seat 6: Kevin12345Mc (4391 in chips) 
+Seat 7: aragon139 (3241 in chips) 
+Seat 8: Tordan3312 (6024 in chips) 
+slacKer1337: posts the ante 11
+leduarte92: posts the ante 11
+Novikov_PM: posts the ante 11
+poligraf86: posts the ante 11
+Ramanenko: posts the ante 11
+Kevin12345Mc: posts the ante 11
+aragon139: posts the ante 11
+Tordan3312: posts the ante 11
+poligraf86: posts small blind 35
+Ramanenko: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 6s]
+Kevin12345Mc: folds 
+aragon139: raises 70 to 140
+Tordan3312: calls 140
+slacKer1337: folds 
+leduarte92: raises 403 to 543
+Novikov_PM: folds 
+poligraf86: folds 
+Ramanenko: raises 857 to 1400
+aragon139: folds 
+Tordan3312: folds 
+leduarte92: folds 
+Uncalled bet (857) returned to Ramanenko
+Ramanenko collected 1489 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 1489 | Rake 0 
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop
+Seat 3: Novikov_PM (button) folded before Flop (didn't bet)
+Seat 4: poligraf86 (small blind) folded before Flop
+Seat 5: Ramanenko (big blind) collected (1489)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop
+Seat 8: Tordan3312 folded before Flop
+
+
+
+PokerStars Hand #255060969994: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/27 17:49:49 WET [2025/02/27 12:49:49 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: slacKer1337 (4625 in chips) 
+Seat 2: leduarte92 (4977 in chips) 
+Seat 3: Novikov_PM (2587 in chips) 
+Seat 4: poligraf86 (5065 in chips) 
+Seat 5: Ramanenko (9913 in chips) 
+Seat 6: Kevin12345Mc (4380 in chips) 
+Seat 7: aragon139 (3090 in chips) 
+Seat 8: Tordan3312 (5873 in chips) 
+slacKer1337: posts the ante 11
+leduarte92: posts the ante 11
+Novikov_PM: posts the ante 11
+poligraf86: posts the ante 11
+Ramanenko: posts the ante 11
+Kevin12345Mc: posts the ante 11
+aragon139: posts the ante 11
+Tordan3312: posts the ante 11
+Ramanenko: posts small blind 35
+Kevin12345Mc: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Ks]
+aragon139: raises 70 to 140
+Tordan3312: folds 
+slacKer1337 has timed out
+slacKer1337: folds 
+slacKer1337 is sitting out
+leduarte92: folds 
+Novikov_PM: folds 
+poligraf86: folds 
+slacKer1337 has returned
+Ramanenko: folds 
+Kevin12345Mc: calls 70
+*** FLOP *** [6s 8d 5s]
+Kevin12345Mc: checks 
+aragon139: checks 
+*** TURN *** [6s 8d 5s] [8h]
+Kevin12345Mc: checks 
+aragon139: checks 
+*** RIVER *** [6s 8d 5s 8h] [2h]
+Kevin12345Mc: checks 
+aragon139: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9h Ks] (a pair of Eights)
+aragon139: shows [Qc Kh] (a pair of Eights - King+Queen kicker)
+aragon139 collected 403 from pot
+*** SUMMARY ***
+Total pot 403 | Rake 0 
+Board [6s 8d 5s 8h 2h]
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 (button) folded before Flop (didn't bet)
+Seat 5: Ramanenko (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) showed [9h Ks] and lost with a pair of Eights
+Seat 7: aragon139 showed [Qc Kh] and won (403) with a pair of Eights
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060983139: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/27 17:50:44 WET [2025/02/27 12:50:44 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: slacKer1337 (4614 in chips) 
+Seat 2: leduarte92 (4966 in chips) 
+Seat 3: Novikov_PM (2576 in chips) 
+Seat 4: poligraf86 (5054 in chips) 
+Seat 5: Ramanenko (9867 in chips) 
+Seat 6: Kevin12345Mc (4229 in chips) 
+Seat 7: aragon139 (3342 in chips) 
+Seat 8: Tordan3312 (5862 in chips) 
+slacKer1337: posts the ante 11
+leduarte92: posts the ante 11
+Novikov_PM: posts the ante 11
+poligraf86: posts the ante 11
+Ramanenko: posts the ante 11
+Kevin12345Mc: posts the ante 11
+aragon139: posts the ante 11
+Tordan3312: posts the ante 11
+Kevin12345Mc: posts small blind 35
+aragon139: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 9c]
+Tordan3312: folds 
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: raises 70 to 140
+poligraf86: calls 140
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: calls 70
+*** FLOP *** [As Qc Qs]
+aragon139: checks 
+Novikov_PM: bets 179
+poligraf86: raises 451 to 630
+aragon139: folds 
+Novikov_PM: folds 
+Uncalled bet (451) returned to poligraf86
+poligraf86 collected 901 from pot
+poligraf86: doesn't show hand 
+*** SUMMARY ***
+Total pot 901 | Rake 0 
+Board [As Qc Qs]
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded on the Flop
+Seat 4: poligraf86 collected (901)
+Seat 5: Ramanenko (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: aragon139 (big blind) folded on the Flop
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255060995157: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/27 17:51:34 WET [2025/02/27 12:51:34 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: slacKer1337 (4603 in chips) 
+Seat 2: leduarte92 (4955 in chips) 
+Seat 3: Novikov_PM (2246 in chips) 
+Seat 4: poligraf86 (5625 in chips) 
+Seat 5: Ramanenko (9856 in chips) 
+Seat 6: Kevin12345Mc (4183 in chips) 
+Seat 7: aragon139 (3191 in chips) 
+Seat 8: Tordan3312 (5851 in chips) 
+slacKer1337: posts the ante 11
+leduarte92: posts the ante 11
+Novikov_PM: posts the ante 11
+poligraf86: posts the ante 11
+Ramanenko: posts the ante 11
+Kevin12345Mc: posts the ante 11
+aragon139: posts the ante 11
+Tordan3312: posts the ante 11
+aragon139: posts small blind 35
+Tordan3312: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 9s]
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: raises 70 to 140
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: calls 70
+*** FLOP *** [8d Td 4h]
+Tordan3312: checks 
+Novikov_PM: bets 133
+Tordan3312: calls 133
+*** TURN *** [8d Td 4h] [5c]
+Tordan3312: checks 
+Novikov_PM: bets 535
+Tordan3312: calls 535
+*** RIVER *** [8d Td 4h 5c] [Kc]
+Tordan3312: checks 
+Novikov_PM: bets 1427 and is all-in
+Tordan3312: folds 
+Uncalled bet (1427) returned to Novikov_PM
+Novikov_PM collected 1739 from pot
+Novikov_PM: doesn't show hand 
+*** SUMMARY ***
+Total pot 1739 | Rake 0 
+Board [8d Td 4h 5c Kc]
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM collected (1739)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: aragon139 (small blind) folded before Flop
+Seat 8: Tordan3312 (big blind) folded on the River
+
+
+
+PokerStars Hand #255061013010: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/27 17:52:48 WET [2025/02/27 12:52:48 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 1: slacKer1337 (4592 in chips) 
+Seat 2: leduarte92 (4944 in chips) 
+Seat 3: Novikov_PM (3166 in chips) 
+Seat 4: poligraf86 (5614 in chips) 
+Seat 5: Ramanenko (9845 in chips) 
+Seat 6: Kevin12345Mc (4172 in chips) 
+Seat 7: aragon139 (3145 in chips) 
+Seat 8: Tordan3312 (5032 in chips) 
+slacKer1337: posts the ante 11
+leduarte92: posts the ante 11
+Novikov_PM: posts the ante 11
+poligraf86: posts the ante 11
+Ramanenko: posts the ante 11
+Kevin12345Mc: posts the ante 11
+aragon139: posts the ante 11
+Tordan3312: posts the ante 11
+Tordan3312: posts small blind 35
+slacKer1337: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h As]
+leduarte92: folds 
+Novikov_PM: folds 
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: raises 91 to 161
+aragon139: folds 
+Tordan3312: folds 
+slacKer1337: folds 
+Uncalled bet (91) returned to Kevin12345Mc
+Kevin12345Mc collected 263 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 263 | Rake 0 
+Seat 1: slacKer1337 (big blind) folded before Flop
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc collected (263)
+Seat 7: aragon139 (button) folded before Flop (didn't bet)
+Seat 8: Tordan3312 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255061024343: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level III (35/70) - 2025/02/27 17:53:35 WET [2025/02/27 12:53:35 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: slacKer1337 (4511 in chips) 
+Seat 2: leduarte92 (4933 in chips) 
+Seat 3: Novikov_PM (3155 in chips) 
+Seat 4: poligraf86 (5603 in chips) 
+Seat 5: Ramanenko (9834 in chips) 
+Seat 6: Kevin12345Mc (4354 in chips) 
+Seat 7: aragon139 (3134 in chips) 
+Seat 8: Tordan3312 (4986 in chips) 
+slacKer1337: posts the ante 11
+leduarte92: posts the ante 11
+Novikov_PM: posts the ante 11
+poligraf86: posts the ante 11
+Ramanenko: posts the ante 11
+Kevin12345Mc: posts the ante 11
+aragon139: posts the ante 11
+Tordan3312: posts the ante 11
+slacKer1337: posts small blind 35
+leduarte92: posts big blind 70
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 6s]
+Novikov_PM: folds 
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: raises 70 to 140
+Tordan3312: folds 
+slacKer1337: folds 
+leduarte92: calls 70
+*** FLOP *** [Td 7d 3d]
+leduarte92: checks 
+aragon139: bets 133
+leduarte92: folds 
+Uncalled bet (133) returned to aragon139
+aragon139 collected 403 from pot
+aragon139: doesn't show hand 
+*** SUMMARY ***
+Total pot 403 | Rake 0 
+Board [Td 7d 3d]
+Seat 1: slacKer1337 (small blind) folded before Flop
+Seat 2: leduarte92 (big blind) folded on the Flop
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 collected (403)
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061035287: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/27 17:54:21 WET [2025/02/27 12:54:21 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: slacKer1337 (4465 in chips) 
+Seat 2: leduarte92 (4782 in chips) 
+Seat 3: Novikov_PM (3144 in chips) 
+Seat 4: poligraf86 (5592 in chips) 
+Seat 5: Ramanenko (9823 in chips) 
+Seat 6: Kevin12345Mc (4343 in chips) 
+Seat 7: aragon139 (3386 in chips) 
+Seat 8: Tordan3312 (4975 in chips) 
+slacKer1337: posts the ante 12
+leduarte92: posts the ante 12
+Novikov_PM: posts the ante 12
+poligraf86: posts the ante 12
+Ramanenko: posts the ante 12
+Kevin12345Mc: posts the ante 12
+aragon139: posts the ante 12
+Tordan3312: posts the ante 12
+leduarte92: posts small blind 40
+Novikov_PM: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 3h]
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: raises 80 to 160
+Tordan3312: folds 
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: raises 640 to 800
+aragon139: folds 
+Uncalled bet (640) returned to Novikov_PM
+Novikov_PM collected 456 from pot
+Novikov_PM: doesn't show hand 
+*** SUMMARY ***
+Total pot 456 | Rake 0 
+Seat 1: slacKer1337 (button) folded before Flop (didn't bet)
+Seat 2: leduarte92 (small blind) folded before Flop
+Seat 3: Novikov_PM (big blind) collected (456)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061045864: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/27 17:55:05 WET [2025/02/27 12:55:05 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: slacKer1337 (4453 in chips) 
+Seat 2: leduarte92 (4730 in chips) 
+Seat 3: Novikov_PM (3428 in chips) 
+Seat 4: poligraf86 (5580 in chips) 
+Seat 5: Ramanenko (9811 in chips) 
+Seat 6: Kevin12345Mc (4331 in chips) 
+Seat 7: aragon139 (3214 in chips) 
+Seat 8: Tordan3312 (4963 in chips) 
+slacKer1337: posts the ante 12
+leduarte92: posts the ante 12
+Novikov_PM: posts the ante 12
+poligraf86: posts the ante 12
+Ramanenko: posts the ante 12
+Kevin12345Mc: posts the ante 12
+aragon139: posts the ante 12
+Tordan3312: posts the ante 12
+Novikov_PM: posts small blind 40
+poligraf86: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Ks]
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: calls 40
+poligraf86: checks 
+*** FLOP *** [Qd Qs 5s]
+Novikov_PM: bets 80
+poligraf86: folds 
+Uncalled bet (80) returned to Novikov_PM
+Novikov_PM collected 256 from pot
+Novikov_PM: doesn't show hand 
+*** SUMMARY ***
+Total pot 256 | Rake 0 
+Board [Qd Qs 5s]
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 (button) folded before Flop (didn't bet)
+Seat 3: Novikov_PM (small blind) collected (256)
+Seat 4: poligraf86 (big blind) folded on the Flop
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061142735: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/27 18:03:15 WET [2025/02/27 13:03:15 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: slacKer1337 (4441 in chips) 
+Seat 2: leduarte92 (4718 in chips) 
+Seat 3: Novikov_PM (3592 in chips) 
+Seat 4: poligraf86 (5488 in chips) 
+Seat 5: Ramanenko (9799 in chips) 
+Seat 6: Kevin12345Mc (4319 in chips) 
+Seat 7: aragon139 (3202 in chips) 
+Seat 8: Tordan3312 (4951 in chips) 
+slacKer1337: posts the ante 12
+leduarte92: posts the ante 12
+Novikov_PM: posts the ante 12
+poligraf86: posts the ante 12
+Ramanenko: posts the ante 12
+Kevin12345Mc: posts the ante 12
+aragon139: posts the ante 12
+Tordan3312: posts the ante 12
+poligraf86: posts small blind 40
+Ramanenko: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 2d]
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: raises 80 to 160
+poligraf86: calls 120
+Ramanenko: raises 800 to 960
+Novikov_PM: folds 
+poligraf86: folds 
+Uncalled bet (800) returned to Ramanenko
+Ramanenko collected 576 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 576 | Rake 0 
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM (button) folded before Flop
+Seat 4: poligraf86 (small blind) folded before Flop
+Seat 5: Ramanenko (big blind) collected (576)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061152337: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/27 18:03:54 WET [2025/02/27 13:03:54 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: slacKer1337 (4429 in chips) 
+Seat 2: leduarte92 (4706 in chips) 
+Seat 3: Novikov_PM (3420 in chips) 
+Seat 4: poligraf86 (5316 in chips) 
+Seat 5: Ramanenko (10203 in chips) 
+Seat 6: Kevin12345Mc (4307 in chips) 
+Seat 7: aragon139 (3190 in chips) 
+Seat 8: Tordan3312 (4939 in chips) 
+slacKer1337: posts the ante 12
+leduarte92: posts the ante 12
+Novikov_PM: posts the ante 12
+poligraf86: posts the ante 12
+Ramanenko: posts the ante 12
+Kevin12345Mc: posts the ante 12
+aragon139: posts the ante 12
+Tordan3312: posts the ante 12
+Ramanenko: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 7c]
+aragon139: folds 
+Tordan3312: folds 
+slacKer1337: raises 88 to 168
+leduarte92: folds 
+Novikov_PM: calls 168
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [8h 2s Th]
+slacKer1337: checks 
+Novikov_PM: bets 182
+slacKer1337: folds 
+Uncalled bet (182) returned to Novikov_PM
+Novikov_PM collected 552 from pot
+Novikov_PM: doesn't show hand 
+*** SUMMARY ***
+Total pot 552 | Rake 0 
+Board [8h 2s Th]
+Seat 1: slacKer1337 folded on the Flop
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM collected (552)
+Seat 4: poligraf86 (button) folded before Flop (didn't bet)
+Seat 5: Ramanenko (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061169623: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/27 18:05:03 WET [2025/02/27 13:05:03 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: slacKer1337 (4249 in chips) 
+Seat 2: leduarte92 (4694 in chips) 
+Seat 3: Novikov_PM (3792 in chips) 
+Seat 4: poligraf86 (5304 in chips) 
+Seat 5: Ramanenko (10151 in chips) 
+Seat 6: Kevin12345Mc (4215 in chips) 
+Seat 7: aragon139 (3178 in chips) 
+Seat 8: Tordan3312 (4927 in chips) 
+slacKer1337: posts the ante 12
+leduarte92: posts the ante 12
+Novikov_PM: posts the ante 12
+poligraf86: posts the ante 12
+Ramanenko: posts the ante 12
+Kevin12345Mc: posts the ante 12
+aragon139: posts the ante 12
+Tordan3312: posts the ante 12
+Kevin12345Mc: posts small blind 40
+aragon139: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 5d]
+Tordan3312: folds 
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: folds 
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: calls 40
+aragon139: checks 
+*** FLOP *** [8h 8s Js]
+Kevin12345Mc: checks 
+aragon139: bets 80
+Kevin12345Mc: folds 
+Uncalled bet (80) returned to aragon139
+aragon139 collected 256 from pot
+aragon139: doesn't show hand 
+*** SUMMARY ***
+Total pot 256 | Rake 0 
+Board [8h 8s Js]
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded on the Flop
+Seat 7: aragon139 (big blind) collected (256)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061184006: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/27 18:06:01 WET [2025/02/27 13:06:01 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: slacKer1337 (4237 in chips) 
+Seat 2: leduarte92 (4682 in chips) 
+Seat 3: Novikov_PM (3780 in chips) 
+Seat 4: poligraf86 (5292 in chips) 
+Seat 5: Ramanenko (10139 in chips) 
+Seat 6: Kevin12345Mc (4123 in chips) 
+Seat 7: aragon139 (3342 in chips) 
+Seat 8: Tordan3312 (4915 in chips) 
+slacKer1337: posts the ante 12
+leduarte92: posts the ante 12
+Novikov_PM: posts the ante 12
+poligraf86: posts the ante 12
+Ramanenko: posts the ante 12
+Kevin12345Mc: posts the ante 12
+aragon139: posts the ante 12
+Tordan3312: posts the ante 12
+aragon139: posts small blind 40
+Tordan3312: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h Ts]
+slacKer1337: folds 
+leduarte92: folds 
+Novikov_PM: folds 
+poligraf86: folds 
+Ramanenko: raises 120 to 200
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+Uncalled bet (120) returned to Ramanenko
+Ramanenko collected 296 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 296 | Rake 0 
+Seat 1: slacKer1337 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko collected (296)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: aragon139 (small blind) folded before Flop
+Seat 8: Tordan3312 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255061192507: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/27 18:06:35 WET [2025/02/27 13:06:35 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 2: leduarte92 (4670 in chips) 
+Seat 3: Novikov_PM (3768 in chips) 
+Seat 4: poligraf86 (5280 in chips) 
+Seat 5: Ramanenko (10343 in chips) 
+Seat 6: Kevin12345Mc (4111 in chips) 
+Seat 7: aragon139 (3290 in chips) 
+Seat 8: Tordan3312 (4823 in chips) 
+leduarte92: posts the ante 12
+Novikov_PM: posts the ante 12
+poligraf86: posts the ante 12
+Ramanenko: posts the ante 12
+Kevin12345Mc: posts the ante 12
+aragon139: posts the ante 12
+Tordan3312: posts the ante 12
+Tordan3312: posts small blind 40
+leduarte92: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 3h]
+Novikov_PM: folds 
+poligraf86: folds 
+Ramanenko: raises 120 to 200
+Kevin12345Mc: folds 
+aragon139: raises 440 to 640
+Tordan3312: folds 
+leduarte92: folds 
+Ramanenko: folds 
+Uncalled bet (440) returned to aragon139
+aragon139 collected 604 from pot
+aragon139: doesn't show hand 
+*** SUMMARY ***
+Total pot 604 | Rake 0 
+Seat 2: leduarte92 (big blind) folded before Flop
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 (button) collected (604)
+Seat 8: Tordan3312 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255061198637: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/27 18:06:59 WET [2025/02/27 13:06:59 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: Nohch1 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 2: leduarte92 (4578 in chips) 
+Seat 3: Novikov_PM (3756 in chips) 
+Seat 4: poligraf86 (5268 in chips) 
+Seat 5: Ramanenko (10131 in chips) 
+Seat 6: Kevin12345Mc (4099 in chips) 
+Seat 7: aragon139 (3682 in chips) 
+Seat 8: Tordan3312 (4771 in chips) 
+Nohch1 will be allowed to play after the button
+leduarte92: posts the ante 12
+Novikov_PM: posts the ante 12
+poligraf86: posts the ante 12
+Ramanenko: posts the ante 12
+Kevin12345Mc: posts the ante 12
+aragon139: posts the ante 12
+Tordan3312: posts the ante 12
+leduarte92: posts small blind 40
+Novikov_PM: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Qs]
+poligraf86: folds 
+Ramanenko: raises 120 to 200
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+leduarte92: folds 
+Novikov_PM: folds 
+Uncalled bet (120) returned to Ramanenko
+Ramanenko collected 284 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 284 | Rake 0 
+Seat 2: leduarte92 (small blind) folded before Flop
+Seat 3: Novikov_PM (big blind) folded before Flop
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko collected (284)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061207390: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/27 18:07:34 WET [2025/02/27 13:07:34 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: Nohch1 (5000 in chips) 
+Seat 2: leduarte92 (4526 in chips) 
+Seat 3: Novikov_PM (3664 in chips) 
+Seat 4: poligraf86 (5256 in chips) 
+Seat 5: Ramanenko (10323 in chips) 
+Seat 6: Kevin12345Mc (4087 in chips) 
+Seat 7: aragon139 (3670 in chips) 
+Seat 8: Tordan3312 (4759 in chips) 
+Nohch1: posts the ante 12
+leduarte92: posts the ante 12
+Novikov_PM: posts the ante 12
+poligraf86: posts the ante 12
+Ramanenko: posts the ante 12
+Kevin12345Mc: posts the ante 12
+aragon139: posts the ante 12
+Tordan3312: posts the ante 12
+Novikov_PM: posts small blind 40
+poligraf86: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 8h]
+Ramanenko: raises 120 to 200
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+Nohch1: folds 
+leduarte92: calls 200
+Novikov_PM: folds 
+poligraf86: calls 120
+*** FLOP *** [2d 6c Kc]
+poligraf86: checks 
+Ramanenko: checks 
+leduarte92: bets 243
+poligraf86: folds 
+Ramanenko: calls 243
+*** TURN *** [2d 6c Kc] [Jh]
+Ramanenko: checks 
+leduarte92: checks 
+*** RIVER *** [2d 6c Kc Jh] [9c]
+Ramanenko: bets 323
+leduarte92: folds 
+Uncalled bet (323) returned to Ramanenko
+Ramanenko collected 1222 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 1222 | Rake 0 
+Board [2d 6c Kc Jh 9c]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: leduarte92 (button) folded on the River
+Seat 3: Novikov_PM (small blind) folded before Flop
+Seat 4: poligraf86 (big blind) folded on the Flop
+Seat 5: Ramanenko collected (1222)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061231787: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/27 18:09:12 WET [2025/02/27 13:09:12 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: Nohch1 (4988 in chips) 
+Seat 2: leduarte92 (4071 in chips) 
+Seat 3: Novikov_PM (3612 in chips) 
+Seat 4: poligraf86 (5044 in chips) 
+Seat 5: Ramanenko (11090 in chips) 
+Seat 6: Kevin12345Mc (4075 in chips) 
+Seat 7: aragon139 (3658 in chips) 
+Seat 8: Tordan3312 (4747 in chips) 
+Nohch1: posts the ante 12
+leduarte92: posts the ante 12
+Novikov_PM: posts the ante 12
+poligraf86: posts the ante 12
+Ramanenko: posts the ante 12
+Kevin12345Mc: posts the ante 12
+aragon139: posts the ante 12
+Tordan3312: posts the ante 12
+poligraf86: posts small blind 40
+Ramanenko: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd Th]
+Kevin12345Mc: folds 
+aragon139: raises 80 to 160
+Tordan3312: folds 
+Nohch1: calls 160
+leduarte92: folds 
+Novikov_PM: folds 
+poligraf86: folds 
+Ramanenko: folds 
+*** FLOP *** [9s 8d 4c]
+aragon139: checks 
+Nohch1: checks 
+*** TURN *** [9s 8d 4c] [Tc]
+aragon139: bets 289
+Nohch1: calls 289
+*** RIVER *** [9s 8d 4c Tc] [8h]
+aragon139: checks 
+Nohch1: bets 557
+aragon139: folds 
+Uncalled bet (557) returned to Nohch1
+Nohch1 collected 1114 from pot
+*** SUMMARY ***
+Total pot 1114 | Rake 0 
+Board [9s 8d 4c Tc 8h]
+Seat 1: Nohch1 collected (1114)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM (button) folded before Flop (didn't bet)
+Seat 4: poligraf86 (small blind) folded before Flop
+Seat 5: Ramanenko (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded on the River
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061242937: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IV (40/80) - 2025/02/27 18:09:55 WET [2025/02/27 13:09:55 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: Nohch1 (5641 in chips) 
+Seat 2: leduarte92 (4059 in chips) 
+Seat 3: Novikov_PM (3600 in chips) 
+Seat 4: poligraf86 (4992 in chips) 
+Seat 5: Ramanenko (10998 in chips) 
+Seat 6: Kevin12345Mc (4063 in chips) 
+Seat 7: aragon139 (3197 in chips) 
+Seat 8: Tordan3312 (4735 in chips) 
+Nohch1: posts the ante 12
+leduarte92: posts the ante 12
+Novikov_PM: posts the ante 12
+poligraf86: posts the ante 12
+Ramanenko: posts the ante 12
+Kevin12345Mc: posts the ante 12
+aragon139: posts the ante 12
+Tordan3312: posts the ante 12
+Ramanenko: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 5c]
+aragon139: folds 
+Tordan3312: folds 
+Nohch1: folds 
+leduarte92: folds 
+Novikov_PM: folds 
+poligraf86: raises 96 to 176
+Ramanenko: raises 544 to 720
+Kevin12345Mc: folds 
+poligraf86: folds 
+Uncalled bet (544) returned to Ramanenko
+Ramanenko collected 528 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 528 | Rake 0 
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 (button) folded before Flop
+Seat 5: Ramanenko (small blind) collected (528)
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061253186: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/27 18:10:36 WET [2025/02/27 13:10:36 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: Nohch1 (5629 in chips) 
+Seat 2: leduarte92 (4047 in chips) 
+Seat 3: Novikov_PM (3588 in chips) 
+Seat 4: poligraf86 (4804 in chips) 
+Seat 5: Ramanenko (11338 in chips) 
+Seat 6: Kevin12345Mc (3971 in chips) 
+Seat 7: aragon139 (3185 in chips) 
+Seat 8: Tordan3312 (4723 in chips) 
+Nohch1: posts the ante 14
+leduarte92: posts the ante 14
+Novikov_PM: posts the ante 14
+poligraf86: posts the ante 14
+Ramanenko: posts the ante 14
+Kevin12345Mc: posts the ante 14
+aragon139: posts the ante 14
+Tordan3312: posts the ante 14
+Kevin12345Mc: posts small blind 45
+aragon139: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 7s]
+Tordan3312: raises 108 to 198
+Nohch1: folds 
+leduarte92: folds 
+Novikov_PM: folds 
+poligraf86: calls 198
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: calls 108
+*** FLOP *** [4h 8h 4d]
+aragon139: checks 
+Tordan3312: checks 
+poligraf86: checks 
+*** TURN *** [4h 8h 4d] [Kd]
+aragon139: checks 
+Tordan3312: bets 526
+poligraf86: folds 
+aragon139: folds 
+Uncalled bet (526) returned to Tordan3312
+Tordan3312 collected 751 from pot
+Tordan3312: doesn't show hand 
+*** SUMMARY ***
+Total pot 751 | Rake 0 
+Board [4h 8h 4d Kd]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 folded on the Turn
+Seat 5: Ramanenko (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: aragon139 (big blind) folded on the Turn
+Seat 8: Tordan3312 collected (751)
+
+
+
+PokerStars Hand #255061266269: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/27 18:11:27 WET [2025/02/27 13:11:27 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: Nohch1 (5615 in chips) 
+Seat 2: leduarte92 (4033 in chips) 
+Seat 3: Novikov_PM (3574 in chips) 
+Seat 4: poligraf86 (4592 in chips) 
+Seat 5: Ramanenko (11324 in chips) 
+Seat 6: Kevin12345Mc (3912 in chips) 
+Seat 7: aragon139 (2973 in chips) 
+Seat 8: Tordan3312 (5262 in chips) 
+Nohch1: posts the ante 14
+leduarte92: posts the ante 14
+Novikov_PM: posts the ante 14
+poligraf86: posts the ante 14
+Ramanenko: posts the ante 14
+Kevin12345Mc: posts the ante 14
+aragon139: posts the ante 14
+Tordan3312: posts the ante 14
+aragon139: posts small blind 45
+Tordan3312: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h Kc]
+Nohch1: folds 
+leduarte92: folds 
+Novikov_PM: folds 
+poligraf86: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: raises 225 to 315
+Tordan3312: calls 225
+*** FLOP *** [Kd 6c 9h]
+aragon139: bets 245
+Tordan3312: folds 
+Uncalled bet (245) returned to aragon139
+aragon139 collected 742 from pot
+aragon139: doesn't show hand 
+*** SUMMARY ***
+Total pot 742 | Rake 0 
+Board [Kd 6c 9h]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: aragon139 (small blind) collected (742)
+Seat 8: Tordan3312 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255061273668: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/27 18:11:56 WET [2025/02/27 13:11:56 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 1: Nohch1 (5601 in chips) 
+Seat 2: leduarte92 (4019 in chips) 
+Seat 3: Novikov_PM (3560 in chips) 
+Seat 4: poligraf86 (4578 in chips) 
+Seat 5: Ramanenko (11310 in chips) 
+Seat 6: Kevin12345Mc (3898 in chips) 
+Seat 7: aragon139 (3386 in chips) 
+Seat 8: Tordan3312 (4933 in chips) 
+Nohch1: posts the ante 14
+leduarte92: posts the ante 14
+Novikov_PM: posts the ante 14
+poligraf86: posts the ante 14
+Ramanenko: posts the ante 14
+Kevin12345Mc: posts the ante 14
+aragon139: posts the ante 14
+Tordan3312: posts the ante 14
+Tordan3312: posts small blind 45
+Nohch1: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 5c]
+leduarte92: folds 
+Novikov_PM: folds 
+poligraf86: raises 108 to 198
+Ramanenko: calls 198
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+Nohch1: calls 108
+*** FLOP *** [4d 8d 7h]
+Nohch1: checks 
+poligraf86: checks 
+Ramanenko: checks 
+*** TURN *** [4d 8d 7h] [Kc]
+Nohch1: bets 376
+poligraf86: calls 376
+Ramanenko: calls 376
+*** RIVER *** [4d 8d 7h Kc] [2s]
+Nohch1: checks 
+poligraf86: bets 940
+Ramanenko: folds 
+Nohch1: folds 
+Uncalled bet (940) returned to poligraf86
+poligraf86 collected 1879 from pot
+poligraf86: doesn't show hand 
+*** SUMMARY ***
+Total pot 1879 | Rake 0 
+Board [4d 8d 7h Kc 2s]
+Seat 1: Nohch1 (big blind) folded on the River
+Seat 2: leduarte92 folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: poligraf86 collected (1879)
+Seat 5: Ramanenko folded on the River
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 (button) folded before Flop (didn't bet)
+Seat 8: Tordan3312 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255061294714: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/27 18:13:18 WET [2025/02/27 13:13:18 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: Nohch1 (5013 in chips) 
+Seat 3: Novikov_PM (3546 in chips) 
+Seat 4: poligraf86 (5869 in chips) 
+Seat 5: Ramanenko (10722 in chips) 
+Seat 6: Kevin12345Mc (3884 in chips) 
+Seat 7: aragon139 (3372 in chips) 
+Seat 8: Tordan3312 (4874 in chips) 
+Nohch1: posts the ante 14
+Novikov_PM: posts the ante 14
+poligraf86: posts the ante 14
+Ramanenko: posts the ante 14
+Kevin12345Mc: posts the ante 14
+aragon139: posts the ante 14
+Tordan3312: posts the ante 14
+Nohch1: posts small blind 45
+Novikov_PM: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Ac]
+poligraf86: raises 108 to 198
+Ramanenko: folds 
+Kevin12345Mc: folds 
+The Yasuo is disconnected 
+aragon139: folds 
+Tordan3312: folds 
+Nohch1: folds 
+Novikov_PM: folds 
+Uncalled bet (108) returned to poligraf86
+poligraf86 collected 323 from pot
+poligraf86: doesn't show hand 
+*** SUMMARY ***
+Total pot 323 | Rake 0 
+Seat 1: Nohch1 (small blind) folded before Flop
+Seat 3: Novikov_PM (big blind) folded before Flop
+Seat 4: poligraf86 collected (323)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061298881: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/27 18:13:34 WET [2025/02/27 13:13:34 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: Nohch1 (4954 in chips) 
+Seat 2: The Yasuo (5000 in chips) out of hand (moved from another table into small blind)
+Seat 3: Novikov_PM (3442 in chips) 
+Seat 5: Ramanenko (10708 in chips) 
+Seat 6: Kevin12345Mc (3870 in chips) 
+Seat 7: aragon139 (3358 in chips) 
+Seat 8: Tordan3312 (4860 in chips) 
+The Yasuo will be allowed to play after the button
+Nohch1: posts the ante 14
+Novikov_PM: posts the ante 14
+Ramanenko: posts the ante 14
+Kevin12345Mc: posts the ante 14
+aragon139: posts the ante 14
+Tordan3312: posts the ante 14
+Novikov_PM: posts small blind 45
+Ramanenko: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 8d]
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+Nohch1: raises 90 to 180
+Novikov_PM: folds 
+Ramanenko: calls 90
+*** FLOP *** [9c 7c Td]
+Ramanenko: checks 
+Nohch1: checks 
+*** TURN *** [9c 7c Td] [Qd]
+WzWz27 is disconnected 
+Ramanenko: checks 
+Nohch1: bets 245
+Ramanenko: folds 
+Uncalled bet (245) returned to Nohch1
+Nohch1 collected 489 from pot
+*** SUMMARY ***
+Total pot 489 | Rake 0 
+Board [9c 7c Td Qd]
+Seat 1: Nohch1 (button) collected (489)
+Seat 3: Novikov_PM (small blind) folded before Flop
+Seat 5: Ramanenko (big blind) folded on the Turn
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061314434: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/27 18:14:34 WET [2025/02/27 13:14:34 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: Nohch1 (5249 in chips) 
+Seat 2: The Yasuo (5000 in chips) 
+Seat 3: Novikov_PM (3383 in chips) 
+Seat 4: WzWz27 (5000 in chips) out of hand (moved from another table into small blind)
+Seat 5: Ramanenko (10514 in chips) 
+Seat 6: Kevin12345Mc (3856 in chips) 
+Seat 7: aragon139 (3344 in chips) 
+Seat 8: Tordan3312 (4846 in chips) 
+WzWz27 will be allowed to play after the button
+Nohch1: posts the ante 14
+The Yasuo: posts the ante 14
+Novikov_PM: posts the ante 14
+Ramanenko: posts the ante 14
+Kevin12345Mc: posts the ante 14
+aragon139: posts the ante 14
+Tordan3312: posts the ante 14
+Ramanenko: posts small blind 45
+Kevin12345Mc: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Ks]
+aragon139: folds 
+Tordan3312: folds 
+Nohch1: calls 90
+The Yasuo: raises 225 to 315
+Novikov_PM: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+Nohch1: folds 
+Uncalled bet (225) returned to The Yasuo
+The Yasuo collected 413 from pot
+*** SUMMARY ***
+Total pot 413 | Rake 0 
+Seat 1: Nohch1 folded before Flop
+Seat 2: The Yasuo collected (413)
+Seat 3: Novikov_PM (button) folded before Flop (didn't bet)
+Seat 5: Ramanenko (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061322073: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/27 18:15:04 WET [2025/02/27 13:15:04 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: Nohch1 (5145 in chips) 
+Seat 2: The Yasuo (5309 in chips) 
+Seat 3: Novikov_PM (3369 in chips) 
+Seat 4: WzWz27 (5000 in chips) 
+Seat 5: Ramanenko (10455 in chips) 
+Seat 6: Kevin12345Mc (3752 in chips) 
+Seat 7: aragon139 (3330 in chips) 
+Seat 8: Tordan3312 (4832 in chips) 
+Nohch1: posts the ante 14
+The Yasuo: posts the ante 14
+Novikov_PM: posts the ante 14
+WzWz27: posts the ante 14
+Ramanenko: posts the ante 14
+Kevin12345Mc: posts the ante 14
+aragon139: posts the ante 14
+Tordan3312: posts the ante 14
+Kevin12345Mc: posts small blind 45
+aragon139: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 4c]
+WzWz27 is disconnected 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: raises 90 to 180
+WzWz27 is connected 
+WzWz27 is connected 
+WzWz27: calls 180
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: calls 90
+*** FLOP *** [Th 4d 3s]
+aragon139: checks 
+Novikov_PM: bets 342
+WzWz27: folds 
+aragon139: folds 
+Uncalled bet (342) returned to Novikov_PM
+Novikov_PM collected 697 from pot
+Novikov_PM: doesn't show hand 
+*** SUMMARY ***
+Total pot 697 | Rake 0 
+Board [Th 4d 3s]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM collected (697)
+Seat 4: WzWz27 folded on the Flop
+Seat 5: Ramanenko (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: aragon139 (big blind) folded on the Flop
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061336977: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/27 18:16:03 WET [2025/02/27 13:16:03 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: Nohch1 (5131 in chips) 
+Seat 2: The Yasuo (5295 in chips) 
+Seat 3: Novikov_PM (3872 in chips) 
+Seat 4: WzWz27 (4806 in chips) 
+Seat 5: Ramanenko (10441 in chips) 
+Seat 6: Kevin12345Mc (3693 in chips) 
+Seat 7: aragon139 (3136 in chips) 
+Seat 8: Tordan3312 (4818 in chips) 
+Nohch1: posts the ante 14
+The Yasuo: posts the ante 14
+Novikov_PM: posts the ante 14
+WzWz27: posts the ante 14
+Ramanenko: posts the ante 14
+Kevin12345Mc: posts the ante 14
+aragon139: posts the ante 14
+Tordan3312: posts the ante 14
+aragon139: posts small blind 45
+Tordan3312: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 9c]
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+WzWz27: folds 
+Ramanenko: raises 135 to 225
+Kevin12345Mc: folds 
+aragon139: raises 2897 to 3122 and is all-in
+Tordan3312: folds 
+Ramanenko: folds 
+Uncalled bet (2897) returned to aragon139
+aragon139 collected 652 from pot
+aragon139: doesn't show hand 
+*** SUMMARY ***
+Total pot 652 | Rake 0 
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: WzWz27 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: aragon139 (small blind) collected (652)
+Seat 8: Tordan3312 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255061348917: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/27 18:16:49 WET [2025/02/27 13:16:49 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 1: Nohch1 (5117 in chips) 
+Seat 2: The Yasuo (5281 in chips) 
+Seat 3: Novikov_PM (3858 in chips) 
+Seat 4: WzWz27 (4792 in chips) 
+Seat 5: Ramanenko (10202 in chips) 
+Seat 6: Kevin12345Mc (3679 in chips) 
+Seat 7: aragon139 (3549 in chips) 
+Seat 8: Tordan3312 (4714 in chips) 
+Nohch1: posts the ante 14
+The Yasuo: posts the ante 14
+Novikov_PM: posts the ante 14
+WzWz27: posts the ante 14
+Ramanenko: posts the ante 14
+Kevin12345Mc: posts the ante 14
+aragon139: posts the ante 14
+Tordan3312: posts the ante 14
+Tordan3312: posts small blind 45
+Nohch1: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 8s]
+The Yasuo: folds 
+Novikov_PM: folds 
+WzWz27: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: raises 90 to 180
+Tordan3312: folds 
+Nohch1: calls 90
+*** FLOP *** [4c Kc Qd]
+Nohch1: checks 
+aragon139: bets 383
+Nohch1: folds 
+Uncalled bet (383) returned to aragon139
+aragon139 collected 517 from pot
+aragon139: doesn't show hand 
+*** SUMMARY ***
+Total pot 517 | Rake 0 
+Board [4c Kc Qd]
+Seat 1: Nohch1 (big blind) folded on the Flop
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: WzWz27 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 (button) collected (517)
+Seat 8: Tordan3312 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255061355573: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level V (45/90) - 2025/02/27 18:17:15 WET [2025/02/27 13:17:15 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: Nohch1 (4923 in chips) 
+Seat 2: The Yasuo (5267 in chips) 
+Seat 3: Novikov_PM (3844 in chips) 
+Seat 4: WzWz27 (4778 in chips) 
+Seat 5: Ramanenko (10188 in chips) 
+Seat 6: Kevin12345Mc (3665 in chips) 
+Seat 7: aragon139 (3872 in chips) 
+Seat 8: Tordan3312 (4655 in chips) 
+Nohch1: posts the ante 14
+The Yasuo: posts the ante 14
+Novikov_PM: posts the ante 14
+WzWz27: posts the ante 14
+Ramanenko: posts the ante 14
+Kevin12345Mc: posts the ante 14
+aragon139: posts the ante 14
+Tordan3312: posts the ante 14
+Nohch1: posts small blind 45
+The Yasuo: posts big blind 90
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 3d]
+Novikov_PM: folds 
+WzWz27: calls 90
+Ramanenko: raises 270 to 360
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+WzWz27: calls 270
+*** FLOP *** [Ah 5s Jh]
+WzWz27: checks 
+Ramanenko: bets 270
+WzWz27: raises 270 to 540
+Ramanenko: calls 270
+*** TURN *** [Ah 5s Jh] [5c]
+WzWz27: checks 
+Ramanenko: checks 
+*** RIVER *** [Ah 5s Jh 5c] [3h]
+WzWz27: bets 990
+Ramanenko: folds 
+Uncalled bet (990) returned to WzWz27
+WzWz27 collected 2047 from pot
+WzWz27: doesn't show hand 
+*** SUMMARY ***
+Total pot 2047 | Rake 0 
+Board [Ah 5s Jh 5c 3h]
+Seat 1: Nohch1 (small blind) folded before Flop
+Seat 2: The Yasuo (big blind) folded before Flop
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: WzWz27 collected (2047)
+Seat 5: Ramanenko folded on the River
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061386567: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/27 18:19:16 WET [2025/02/27 13:19:16 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: Nohch1 (4864 in chips) 
+Seat 2: The Yasuo (5163 in chips) 
+Seat 3: Novikov_PM (3830 in chips) 
+Seat 4: WzWz27 (5911 in chips) 
+Seat 5: Ramanenko (9274 in chips) 
+Seat 6: Kevin12345Mc (3651 in chips) 
+Seat 7: aragon139 (3858 in chips) 
+Seat 8: Tordan3312 (4641 in chips) 
+Nohch1: posts the ante 15
+The Yasuo: posts the ante 15
+Novikov_PM: posts the ante 15
+WzWz27: posts the ante 15
+Ramanenko: posts the ante 15
+Kevin12345Mc: posts the ante 15
+aragon139: posts the ante 15
+Tordan3312: posts the ante 15
+The Yasuo: posts small blind 50
+Novikov_PM: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 7d]
+WzWz27: calls 100
+Ramanenko: raises 250 to 350
+Kevin12345Mc: folds 
+aragon139: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+WzWz27: calls 250
+*** FLOP *** [7h 9d 8d]
+WzWz27: checks 
+Ramanenko: checks 
+*** TURN *** [7h 9d 8d] [Kh]
+WzWz27: checks 
+Ramanenko: bets 320
+WzWz27: folds 
+Uncalled bet (320) returned to Ramanenko
+Ramanenko collected 970 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 970 | Rake 0 
+Board [7h 9d 8d Kh]
+Seat 1: Nohch1 (button) folded before Flop (didn't bet)
+Seat 2: The Yasuo (small blind) folded before Flop
+Seat 3: Novikov_PM (big blind) folded before Flop
+Seat 4: WzWz27 folded on the Turn
+Seat 5: Ramanenko collected (970)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061403898: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/27 18:20:24 WET [2025/02/27 13:20:24 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: Nohch1 (4849 in chips) 
+Seat 2: The Yasuo (5098 in chips) 
+Seat 3: Novikov_PM (3715 in chips) 
+Seat 4: WzWz27 (5546 in chips) 
+Seat 5: Ramanenko (9879 in chips) 
+Seat 6: Kevin12345Mc (3636 in chips) 
+Seat 7: aragon139 (3843 in chips) 
+Seat 8: Tordan3312 (4626 in chips) 
+Nohch1: posts the ante 15
+The Yasuo: posts the ante 15
+Novikov_PM: posts the ante 15
+WzWz27: posts the ante 15
+Ramanenko: posts the ante 15
+Kevin12345Mc: posts the ante 15
+aragon139: posts the ante 15
+Tordan3312: posts the ante 15
+Novikov_PM: posts small blind 50
+WzWz27: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 4c]
+Ramanenko: raises 120 to 220
+Kevin12345Mc: folds 
+aragon139: calls 220
+Tordan3312: calls 220
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+WzWz27: calls 120
+*** FLOP *** [4s 8d Th]
+WzWz27: checks 
+Ramanenko: checks 
+aragon139: checks 
+Tordan3312: checks 
+*** TURN *** [4s 8d Th] [5h]
+WzWz27: checks 
+Ramanenko: bets 600
+aragon139: folds 
+Tordan3312: folds 
+WzWz27: folds 
+Uncalled bet (600) returned to Ramanenko
+Ramanenko collected 1050 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 1050 | Rake 0 
+Board [4s 8d Th 5h]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo (button) folded before Flop (didn't bet)
+Seat 3: Novikov_PM (small blind) folded before Flop
+Seat 4: WzWz27 (big blind) folded on the Turn
+Seat 5: Ramanenko collected (1050)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded on the Turn
+Seat 8: Tordan3312 folded on the Turn
+
+
+
+PokerStars Hand #255061423830: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/27 18:21:41 WET [2025/02/27 13:21:41 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: Nohch1 (4834 in chips) 
+Seat 2: The Yasuo (5083 in chips) 
+Seat 3: Novikov_PM (3650 in chips) 
+Seat 4: WzWz27 (5311 in chips) 
+Seat 5: Ramanenko (10694 in chips) 
+Seat 6: Kevin12345Mc (3621 in chips) 
+Seat 7: aragon139 (3608 in chips) 
+Seat 8: Tordan3312 (4391 in chips) 
+Nohch1: posts the ante 15
+The Yasuo: posts the ante 15
+Novikov_PM: posts the ante 15
+WzWz27: posts the ante 15
+Ramanenko: posts the ante 15
+Kevin12345Mc: posts the ante 15
+aragon139: posts the ante 15
+Tordan3312: posts the ante 15
+WzWz27: posts small blind 50
+Ramanenko: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc Ts]
+Kevin12345Mc: folds 
+aragon139: raises 100 to 200
+Tordan3312: calls 200
+Nohch1: raises 770 to 970
+The Yasuo: folds 
+Novikov_PM: folds 
+WzWz27: folds 
+Ramanenko: folds 
+aragon139: folds 
+Tordan3312: folds 
+Uncalled bet (770) returned to Nohch1
+Nohch1 collected 870 from pot
+*** SUMMARY ***
+Total pot 870 | Rake 0 
+Seat 1: Nohch1 collected (870)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM (button) folded before Flop (didn't bet)
+Seat 4: WzWz27 (small blind) folded before Flop
+Seat 5: Ramanenko (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: aragon139 folded before Flop
+Seat 8: Tordan3312 folded before Flop
+
+
+
+PokerStars Hand #255061436832: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/27 18:22:31 WET [2025/02/27 13:22:31 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: Nohch1 (5489 in chips) 
+Seat 2: The Yasuo (5068 in chips) 
+Seat 3: Novikov_PM (3635 in chips) 
+Seat 4: WzWz27 (5246 in chips) 
+Seat 5: Ramanenko (10579 in chips) 
+Seat 6: Kevin12345Mc (3606 in chips) 
+Seat 7: aragon139 (3393 in chips) 
+Seat 8: Tordan3312 (4176 in chips) 
+Nohch1: posts the ante 15
+The Yasuo: posts the ante 15
+Novikov_PM: posts the ante 15
+WzWz27: posts the ante 15
+Ramanenko: posts the ante 15
+Kevin12345Mc: posts the ante 15
+aragon139: posts the ante 15
+Tordan3312: posts the ante 15
+Ramanenko: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts Jd]
+aragon139: raises 100 to 200
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+WzWz27: folds 
+Ramanenko: folds 
+Kevin12345Mc: calls 100
+*** FLOP *** [3d 8d 2c]
+Kevin12345Mc: checks 
+aragon139: bets 188
+Kevin12345Mc: calls 188
+*** TURN *** [3d 8d 2c] [5d]
+Kevin12345Mc: checks 
+aragon139: checks 
+*** RIVER *** [3d 8d 2c 5d] [8h]
+Kevin12345Mc: checks 
+aragon139: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ts Jd] (a pair of Eights)
+aragon139: shows [Jc Kc] (a pair of Eights - King kicker)
+aragon139 collected 946 from pot
+*** SUMMARY ***
+Total pot 946 | Rake 0 
+Board [3d 8d 2c 5d 8h]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: WzWz27 (button) folded before Flop (didn't bet)
+Seat 5: Ramanenko (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) showed [Ts Jd] and lost with a pair of Eights
+Seat 7: aragon139 showed [Jc Kc] and won (946) with a pair of Eights
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061451120: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/27 18:23:27 WET [2025/02/27 13:23:27 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: Nohch1 (5474 in chips) 
+Seat 2: The Yasuo (5053 in chips) 
+Seat 3: Novikov_PM (3620 in chips) 
+Seat 4: WzWz27 (5231 in chips) 
+Seat 5: Ramanenko (10514 in chips) 
+Seat 6: Kevin12345Mc (3203 in chips) 
+Seat 7: aragon139 (3936 in chips) 
+Seat 8: Tordan3312 (4161 in chips) 
+Nohch1: posts the ante 15
+The Yasuo: posts the ante 15
+Novikov_PM: posts the ante 15
+WzWz27: posts the ante 15
+Ramanenko: posts the ante 15
+Kevin12345Mc: posts the ante 15
+aragon139: posts the ante 15
+Tordan3312: posts the ante 15
+Kevin12345Mc: posts small blind 50
+aragon139: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 7d]
+Tordan3312: folds 
+Nohch1: raises 100 to 200
+The Yasuo: folds 
+Novikov_PM: folds 
+WzWz27: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+aragon139: calls 100
+*** FLOP *** [5d 3d 6h]
+aragon139: bets 238
+Nohch1: raises 438 to 676
+aragon139: raises 1038 to 1714
+Nohch1: raises 3545 to 5259 and is all-in
+aragon139: calls 2007 and is all-in
+Uncalled bet (1538) returned to Nohch1
+*** TURN *** [5d 3d 6h] [Js]
+*** RIVER *** [5d 3d 6h Js] [4d]
+*** SHOW DOWN ***
+aragon139: shows [7s 4s] (a straight, Three to Seven)
+Nohch1: shows [Ad 6d] (a flush, Ace high)
+Nohch1 collected 8012 from pot
+aragon139 finished the tournament
+*** SUMMARY ***
+Total pot 8012 | Rake 0 
+Board [5d 3d 6h Js 4d]
+Seat 1: Nohch1 showed [Ad 6d] and won (8012) with a flush, Ace high
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: WzWz27 folded before Flop (didn't bet)
+Seat 5: Ramanenko (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: aragon139 (big blind) showed [7s 4s] and lost with a straight, Three to Seven
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061469360: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VI (50/100) - 2025/02/27 18:24:38 WET [2025/02/27 13:24:38 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: Nohch1 (9550 in chips) 
+Seat 2: The Yasuo (5038 in chips) 
+Seat 3: Novikov_PM (3605 in chips) 
+Seat 4: WzWz27 (5216 in chips) 
+Seat 5: Ramanenko (10499 in chips) 
+Seat 6: Kevin12345Mc (3138 in chips) 
+Seat 8: Tordan3312 (4146 in chips) 
+Nohch1: posts the ante 15
+The Yasuo: posts the ante 15
+Novikov_PM: posts the ante 15
+WzWz27: posts the ante 15
+Ramanenko: posts the ante 15
+Kevin12345Mc: posts the ante 15
+Tordan3312: posts the ante 15
+Tordan3312: posts small blind 50
+Nohch1: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Jh]
+pozt15 is disconnected 
+The Yasuo: raises 100 to 200
+Novikov_PM: folds 
+WzWz27: folds 
+Ramanenko: folds 
+Kevin12345Mc: calls 200
+Tordan3312: calls 150
+Nohch1: calls 100
+*** FLOP *** [7c Jc 4s]
+Tordan3312: checks 
+Nohch1: checks 
+The Yasuo: bets 290
+Kevin12345Mc: calls 290
+Tordan3312: calls 290
+Nohch1: folds 
+*** TURN *** [7c Jc 4s] [2c]
+Tordan3312: checks 
+The Yasuo: bets 568
+Kevin12345Mc: calls 568
+Tordan3312: calls 568
+*** RIVER *** [7c Jc 4s 2c] [7h]
+Tordan3312: checks 
+The Yasuo: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+Tordan3312: shows [5d 5c] (two pair, Sevens and Fives)
+The Yasuo: mucks hand 
+Kevin12345Mc: shows [Qh Jh] (two pair, Jacks and Sevens)
+Kevin12345Mc collected 3479 from pot
+*** SUMMARY ***
+Total pot 3479 | Rake 0 
+Board [7c Jc 4s 2c 7h]
+Seat 1: Nohch1 (big blind) folded on the Flop
+Seat 2: The Yasuo mucked [Ts Qc]
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: WzWz27 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) showed [Qh Jh] and won (3479) with two pair, Jacks and Sevens
+Seat 8: Tordan3312 (small blind) showed [5d 5c] and lost with two pair, Sevens and Fives
+
+
+
+PokerStars Hand #255061499748: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/27 18:26:34 WET [2025/02/27 13:26:34 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: Nohch1 (9335 in chips) 
+Seat 2: The Yasuo (3965 in chips) 
+Seat 3: Novikov_PM (3590 in chips) 
+Seat 4: WzWz27 (5201 in chips) 
+Seat 5: Ramanenko (10484 in chips) 
+Seat 6: Kevin12345Mc (5544 in chips) 
+Seat 7: pozt15 (5000 in chips) 
+Seat 8: Tordan3312 (3073 in chips) 
+Nohch1: posts the ante 18
+The Yasuo: posts the ante 18
+Novikov_PM: posts the ante 18
+WzWz27: posts the ante 18
+Ramanenko: posts the ante 18
+Kevin12345Mc: posts the ante 18
+pozt15: posts the ante 18
+Tordan3312: posts the ante 18
+Nohch1: posts small blind 60
+The Yasuo: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 6h]
+Novikov_PM: folds 
+WzWz27: folds 
+Ramanenko: folds 
+Kevin12345Mc: raises 156 to 276
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: calls 156
+*** FLOP *** [8d 9c 3d]
+The Yasuo: checks 
+Kevin12345Mc: bets 249
+The Yasuo: raises 471 to 720
+Kevin12345Mc: calls 471
+*** TURN *** [8d 9c 3d] [Ks]
+The Yasuo: bets 763
+Kevin12345Mc: folds 
+Uncalled bet (763) returned to The Yasuo
+The Yasuo collected 2196 from pot
+*** SUMMARY ***
+Total pot 2196 | Rake 0 
+Board [8d 9c 3d Ks]
+Seat 1: Nohch1 (small blind) folded before Flop
+Seat 2: The Yasuo (big blind) collected (2196)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: WzWz27 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded on the Turn
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061522575: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/27 18:28:00 WET [2025/02/27 13:28:00 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: Nohch1 (9257 in chips) 
+Seat 2: The Yasuo (5147 in chips) 
+Seat 3: Novikov_PM (3572 in chips) 
+Seat 4: WzWz27 (5183 in chips) 
+Seat 5: Ramanenko (10466 in chips) 
+Seat 6: Kevin12345Mc (4530 in chips) 
+Seat 7: pozt15 (4982 in chips) 
+Seat 8: Tordan3312 (3055 in chips) 
+Nohch1: posts the ante 18
+The Yasuo: posts the ante 18
+Novikov_PM: posts the ante 18
+WzWz27: posts the ante 18
+Ramanenko: posts the ante 18
+Kevin12345Mc: posts the ante 18
+pozt15: posts the ante 18
+Tordan3312: posts the ante 18
+The Yasuo: posts small blind 60
+Novikov_PM: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 2c]
+WzWz27: raises 120 to 240
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: raises 360 to 600
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+WzWz27: calls 360
+*** FLOP *** [8h Qc 7s]
+WzWz27: checks 
+pozt15: bets 381
+WzWz27: calls 381
+*** TURN *** [8h Qc 7s] [5d]
+WzWz27: checks 
+pozt15: checks 
+*** RIVER *** [8h Qc 7s 5d] [Jd]
+WzWz27: bets 960
+pozt15: calls 960
+*** SHOW DOWN ***
+WzWz27: shows [Th 9h] (a straight, Eight to Queen)
+pozt15: mucks hand 
+WzWz27 collected 4206 from pot
+*** SUMMARY ***
+Total pot 4206 | Rake 0 
+Board [8h Qc 7s 5d Jd]
+Seat 1: Nohch1 (button) folded before Flop (didn't bet)
+Seat 2: The Yasuo (small blind) folded before Flop
+Seat 3: Novikov_PM (big blind) folded before Flop
+Seat 4: WzWz27 showed [Th 9h] and won (4206) with a straight, Eight to Queen
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 mucked [Ah Jc]
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061549175: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/27 18:29:41 WET [2025/02/27 13:29:41 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: Nohch1 (9239 in chips) 
+Seat 2: The Yasuo (5069 in chips) 
+Seat 3: Novikov_PM (3434 in chips) 
+Seat 4: WzWz27 (7430 in chips) 
+Seat 5: Ramanenko (10448 in chips) 
+Seat 6: Kevin12345Mc (4512 in chips) 
+Seat 7: pozt15 (3023 in chips) 
+Seat 8: Tordan3312 (3037 in chips) 
+Nohch1: posts the ante 18
+The Yasuo: posts the ante 18
+Novikov_PM: posts the ante 18
+WzWz27: posts the ante 18
+Ramanenko: posts the ante 18
+Kevin12345Mc: posts the ante 18
+pozt15: posts the ante 18
+Tordan3312: posts the ante 18
+Novikov_PM: posts small blind 60
+WzWz27: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c As]
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: raises 120 to 240
+The Yasuo: folds 
+Novikov_PM: folds 
+WzWz27: folds 
+Uncalled bet (120) returned to Nohch1
+Nohch1 collected 444 from pot
+*** SUMMARY ***
+Total pot 444 | Rake 0 
+Seat 1: Nohch1 collected (444)
+Seat 2: The Yasuo (button) folded before Flop (didn't bet)
+Seat 3: Novikov_PM (small blind) folded before Flop
+Seat 4: WzWz27 (big blind) folded before Flop
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061557008: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/27 18:30:10 WET [2025/02/27 13:30:10 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: Nohch1 (9545 in chips) 
+Seat 2: The Yasuo (5051 in chips) 
+Seat 3: Novikov_PM (3356 in chips) 
+Seat 4: WzWz27 (7292 in chips) 
+Seat 5: Ramanenko (10430 in chips) 
+Seat 6: Kevin12345Mc (4494 in chips) 
+Seat 7: pozt15 (3005 in chips) 
+Seat 8: Tordan3312 (3019 in chips) 
+Nohch1: posts the ante 18
+The Yasuo: posts the ante 18
+Novikov_PM: posts the ante 18
+WzWz27: posts the ante 18
+Ramanenko: posts the ante 18
+Kevin12345Mc: posts the ante 18
+pozt15: posts the ante 18
+Tordan3312: posts the ante 18
+WzWz27: posts small blind 60
+Ramanenko: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 8d]
+Kevin12345Mc: folds 
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: raises 120 to 240
+The Yasuo: calls 240
+Novikov_PM: folds 
+WzWz27: folds 
+Ramanenko: folds 
+*** FLOP *** [2d 9c 2s]
+Nohch1: checks 
+The Yasuo: bets 257
+Nohch1: calls 257
+*** TURN *** [2d 9c 2s] [8s]
+Nohch1: checks 
+The Yasuo: checks 
+*** RIVER *** [2d 9c 2s 8s] [7s]
+Nohch1: checks 
+The Yasuo: bets 725
+Nohch1: folds 
+Uncalled bet (725) returned to The Yasuo
+The Yasuo collected 1318 from pot
+*** SUMMARY ***
+Total pot 1318 | Rake 0 
+Board [2d 9c 2s 8s 7s]
+Seat 1: Nohch1 folded on the River
+Seat 2: The Yasuo collected (1318)
+Seat 3: Novikov_PM (button) folded before Flop (didn't bet)
+Seat 4: WzWz27 (small blind) folded before Flop
+Seat 5: Ramanenko (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061588150: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/27 18:32:06 WET [2025/02/27 13:32:06 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: Nohch1 (9030 in chips) 
+Seat 2: The Yasuo (5854 in chips) 
+Seat 3: Novikov_PM (3338 in chips) 
+Seat 4: WzWz27 (7214 in chips) 
+Seat 5: Ramanenko (10292 in chips) 
+Seat 6: Kevin12345Mc (4476 in chips) 
+Seat 7: pozt15 (2987 in chips) 
+Seat 8: Tordan3312 (3001 in chips) 
+Nohch1: posts the ante 18
+The Yasuo: posts the ante 18
+Novikov_PM: posts the ante 18
+WzWz27: posts the ante 18
+Ramanenko: posts the ante 18
+Kevin12345Mc: posts the ante 18
+pozt15: posts the ante 18
+Tordan3312: posts the ante 18
+Ramanenko: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 7c]
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: calls 120
+The Yasuo: folds 
+Novikov_PM: folds 
+WzWz27: raises 240 to 360
+Ramanenko: folds 
+Kevin12345Mc: calls 240
+Nohch1: calls 240
+*** FLOP *** [Js Kc Th]
+Kevin12345Mc: checks 
+Nohch1: checks 
+WzWz27: checks 
+*** TURN *** [Js Kc Th] [7s]
+Kevin12345Mc: checks 
+Nohch1: bets 642
+WzWz27: calls 642
+Kevin12345Mc: raises 3456 to 4098 and is all-in
+Nohch1: folds 
+WzWz27: calls 3456
+*** RIVER *** [Js Kc Th 7s] [Td]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [7h 7c] (a full house, Sevens full of Tens)
+WzWz27: shows [Qs Ah] (a straight, Ten to Ace)
+Kevin12345Mc collected 10122 from pot
+*** SUMMARY ***
+Total pot 10122 | Rake 0 
+Board [Js Kc Th 7s Td]
+Seat 1: Nohch1 folded on the Turn
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: WzWz27 (button) showed [Qs Ah] and lost with a straight, Ten to Ace
+Seat 5: Ramanenko (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) showed [7h 7c] and won (10122) with a full house, Sevens full of Tens
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061609742: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VII (60/120) - 2025/02/27 18:33:28 WET [2025/02/27 13:33:28 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: Nohch1 (8010 in chips) 
+Seat 2: The Yasuo (5836 in chips) 
+Seat 3: Novikov_PM (3320 in chips) 
+Seat 4: WzWz27 (2738 in chips) 
+Seat 5: Ramanenko (10214 in chips) 
+Seat 6: Kevin12345Mc (10122 in chips) 
+Seat 7: pozt15 (2969 in chips) 
+Seat 8: Tordan3312 (2983 in chips) 
+Nohch1: posts the ante 18
+The Yasuo: posts the ante 18
+Novikov_PM: posts the ante 18
+WzWz27: posts the ante 18
+Ramanenko: posts the ante 18
+Kevin12345Mc: posts the ante 18
+pozt15: posts the ante 18
+Tordan3312: posts the ante 18
+Kevin12345Mc: posts small blind 60
+pozt15: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Qd]
+Tordan3312: raises 144 to 264
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+WzWz27: folds 
+Ramanenko: calls 264
+Kevin12345Mc: folds 
+pozt15: folds 
+*** FLOP *** [Jd Kd 8d]
+Tordan3312: checks 
+Ramanenko: bets 240
+Tordan3312: calls 240
+*** TURN *** [Jd Kd 8d] [2d]
+Tordan3312: checks 
+Ramanenko: bets 920
+Tordan3312: folds 
+Uncalled bet (920) returned to Ramanenko
+Ramanenko collected 1332 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 1332 | Rake 0 
+Board [Jd Kd 8d 2d]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: WzWz27 folded before Flop (didn't bet)
+Seat 5: Ramanenko (button) collected (1332)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: pozt15 (big blind) folded before Flop
+Seat 8: Tordan3312 folded on the Turn
+
+
+
+PokerStars Hand #255061632162: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/27 18:34:53 WET [2025/02/27 13:34:53 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: Nohch1 (7992 in chips) 
+Seat 2: The Yasuo (5818 in chips) 
+Seat 3: Novikov_PM (3302 in chips) 
+Seat 4: WzWz27 (2720 in chips) 
+Seat 5: Ramanenko (11024 in chips) 
+Seat 6: Kevin12345Mc (10044 in chips) 
+Seat 7: pozt15 (2831 in chips) 
+Seat 8: Tordan3312 (2461 in chips) 
+Nohch1: posts the ante 21
+The Yasuo: posts the ante 21
+Novikov_PM: posts the ante 21
+WzWz27: posts the ante 21
+Ramanenko: posts the ante 21
+Kevin12345Mc: posts the ante 21
+pozt15: posts the ante 21
+Tordan3312: posts the ante 21
+pozt15: posts small blind 70
+Tordan3312: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Ts]
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: raises 140 to 280
+WzWz27: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: folds 
+Tordan3312: folds 
+Uncalled bet (140) returned to Novikov_PM
+Novikov_PM collected 518 from pot
+Novikov_PM: doesn't show hand 
+*** SUMMARY ***
+Total pot 518 | Rake 0 
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM collected (518)
+Seat 4: WzWz27 folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: pozt15 (small blind) folded before Flop
+Seat 8: Tordan3312 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255061639312: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/27 18:35:19 WET [2025/02/27 13:35:19 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 1: Nohch1 (7971 in chips) 
+Seat 2: The Yasuo (5797 in chips) 
+Seat 3: Novikov_PM (3659 in chips) 
+Seat 5: Ramanenko (11003 in chips) 
+Seat 6: Kevin12345Mc (10023 in chips) 
+Seat 7: pozt15 (2740 in chips) 
+Seat 8: Tordan3312 (2300 in chips) 
+Nohch1: posts the ante 21
+The Yasuo: posts the ante 21
+Novikov_PM: posts the ante 21
+Ramanenko: posts the ante 21
+Kevin12345Mc: posts the ante 21
+pozt15: posts the ante 21
+Tordan3312: posts the ante 21
+Tordan3312: posts small blind 70
+Nohch1: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 7h]
+The Yasuo: folds 
+Novikov_PM: folds 
+Ramanenko: folds 
+Kevin12345Mc: raises 182 to 322
+jannepekka is disconnected 
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: folds 
+Uncalled bet (182) returned to Kevin12345Mc
+Kevin12345Mc collected 497 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 497 | Rake 0 
+Seat 1: Nohch1 (big blind) folded before Flop
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc collected (497)
+Seat 7: pozt15 (button) folded before Flop (didn't bet)
+Seat 8: Tordan3312 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255061648027: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/27 18:35:52 WET [2025/02/27 13:35:52 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: Nohch1 (7810 in chips) 
+Seat 2: The Yasuo (5776 in chips) 
+Seat 3: Novikov_PM (3638 in chips) 
+Seat 4: jannepekka (5000 in chips) 
+Seat 5: Ramanenko (10982 in chips) 
+Seat 6: Kevin12345Mc (10359 in chips) 
+Seat 7: pozt15 (2719 in chips) 
+Seat 8: Tordan3312 (2209 in chips) 
+Nohch1: posts the ante 21
+The Yasuo: posts the ante 21
+Novikov_PM: posts the ante 21
+jannepekka: posts the ante 21
+Ramanenko: posts the ante 21
+Kevin12345Mc: posts the ante 21
+pozt15: posts the ante 21
+Tordan3312: posts the ante 21
+Nohch1: posts small blind 70
+The Yasuo: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 7d]
+Novikov_PM: raises 140 to 280
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Uncalled bet (140) returned to Novikov_PM
+Novikov_PM collected 518 from pot
+Novikov_PM: doesn't show hand 
+*** SUMMARY ***
+Total pot 518 | Rake 0 
+Seat 1: Nohch1 (small blind) folded before Flop
+Seat 2: The Yasuo (big blind) folded before Flop
+Seat 3: Novikov_PM collected (518)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061658827: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/27 18:36:33 WET [2025/02/27 13:36:33 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: Nohch1 (7719 in chips) 
+Seat 2: The Yasuo (5615 in chips) 
+Seat 3: Novikov_PM (3995 in chips) 
+Seat 4: jannepekka (4979 in chips) 
+Seat 5: Ramanenko (10961 in chips) 
+Seat 6: Kevin12345Mc (10338 in chips) 
+Seat 7: pozt15 (2698 in chips) 
+Seat 8: Tordan3312 (2188 in chips) 
+Nohch1: posts the ante 21
+The Yasuo: posts the ante 21
+Novikov_PM: posts the ante 21
+jannepekka: posts the ante 21
+Ramanenko: posts the ante 21
+Kevin12345Mc: posts the ante 21
+pozt15: posts the ante 21
+Tordan3312: posts the ante 21
+The Yasuo: posts small blind 70
+Novikov_PM: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 6s]
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: raises 140 to 280
+The Yasuo: raises 840 to 1120
+Novikov_PM: folds 
+Nohch1: folds 
+Uncalled bet (840) returned to The Yasuo
+The Yasuo collected 868 from pot
+*** SUMMARY ***
+Total pot 868 | Rake 0 
+Seat 1: Nohch1 (button) folded before Flop
+Seat 2: The Yasuo (small blind) collected (868)
+Seat 3: Novikov_PM (big blind) folded before Flop
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061670374: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/27 18:37:16 WET [2025/02/27 13:37:16 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: Nohch1 (7418 in chips) 
+Seat 2: The Yasuo (6182 in chips) 
+Seat 3: Novikov_PM (3834 in chips) 
+Seat 4: jannepekka (4958 in chips) 
+Seat 5: Ramanenko (10940 in chips) 
+Seat 6: Kevin12345Mc (10317 in chips) 
+Seat 7: pozt15 (2677 in chips) 
+Seat 8: Tordan3312 (2167 in chips) 
+Nohch1: posts the ante 21
+The Yasuo: posts the ante 21
+Novikov_PM: posts the ante 21
+jannepekka: posts the ante 21
+Ramanenko: posts the ante 21
+Kevin12345Mc: posts the ante 21
+pozt15: posts the ante 21
+Tordan3312: posts the ante 21
+Novikov_PM: posts small blind 70
+jannepekka: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 2s]
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: calls 70
+jannepekka: checks 
+*** FLOP *** [Ts 3h Jc]
+Novikov_PM: bets 140
+jannepekka: folds 
+Uncalled bet (140) returned to Novikov_PM
+Novikov_PM collected 448 from pot
+Novikov_PM: doesn't show hand 
+*** SUMMARY ***
+Total pot 448 | Rake 0 
+Board [Ts 3h Jc]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo (button) folded before Flop (didn't bet)
+Seat 3: Novikov_PM (small blind) collected (448)
+Seat 4: jannepekka (big blind) folded on the Flop
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061681475: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/27 18:37:58 WET [2025/02/27 13:37:58 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: Nohch1 (7397 in chips) 
+Seat 2: The Yasuo (6161 in chips) 
+Seat 3: Novikov_PM (4121 in chips) 
+Seat 4: jannepekka (4797 in chips) 
+Seat 5: Ramanenko (10919 in chips) 
+Seat 6: Kevin12345Mc (10296 in chips) 
+Seat 7: pozt15 (2656 in chips) 
+Seat 8: Tordan3312 (2146 in chips) 
+Nohch1: posts the ante 21
+The Yasuo: posts the ante 21
+Novikov_PM: posts the ante 21
+jannepekka: posts the ante 21
+Ramanenko: posts the ante 21
+Kevin12345Mc: posts the ante 21
+pozt15: posts the ante 21
+Tordan3312: posts the ante 21
+jannepekka: posts small blind 70
+Ramanenko: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Td]
+Kevin12345Mc: folds 
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: raises 140 to 280
+jannepekka: calls 210
+Ramanenko: calls 140
+*** FLOP *** [7s Ad Qc]
+jannepekka: checks 
+Ramanenko: checks 
+Novikov_PM: bets 333
+jannepekka: folds 
+Ramanenko: calls 333
+*** TURN *** [7s Ad Qc] [Kc]
+Ramanenko: checks 
+Novikov_PM: checks 
+*** RIVER *** [7s Ad Qc Kc] [6d]
+Ramanenko: bets 10285 and is all-in
+Novikov_PM has timed out
+Novikov_PM: folds 
+Novikov_PM is sitting out
+Uncalled bet (10285) returned to Ramanenko
+Novikov_PM has returned
+Ramanenko collected 1674 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 1674 | Rake 0 
+Board [7s Ad Qc Kc 6d]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM (button) folded on the River
+Seat 4: jannepekka (small blind) folded on the Flop
+Seat 5: Ramanenko (big blind) collected (1674)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061720307: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/27 18:40:23 WET [2025/02/27 13:40:23 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: Nohch1 (7376 in chips) 
+Seat 2: The Yasuo (6140 in chips) 
+Seat 3: Novikov_PM (3487 in chips) 
+Seat 4: jannepekka (4496 in chips) 
+Seat 5: Ramanenko (11959 in chips) 
+Seat 6: Kevin12345Mc (10275 in chips) 
+Seat 7: pozt15 (2635 in chips) 
+Seat 8: Tordan3312 (2125 in chips) 
+Nohch1: posts the ante 21
+The Yasuo: posts the ante 21
+Novikov_PM: posts the ante 21
+jannepekka: posts the ante 21
+Ramanenko: posts the ante 21
+Kevin12345Mc: posts the ante 21
+pozt15: posts the ante 21
+Tordan3312: posts the ante 21
+Ramanenko: posts small blind 70
+Kevin12345Mc: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 3d]
+pozt15: folds 
+Tordan3312: raises 140 to 280
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: calls 140
+*** FLOP *** [9h Ad 3c]
+Kevin12345Mc: checks 
+Tordan3312: bets 239
+Kevin12345Mc: calls 239
+*** TURN *** [9h Ad 3c] [Ah]
+Kevin12345Mc: checks 
+Tordan3312: checks 
+*** RIVER *** [9h Ad 3c Ah] [Qh]
+Kevin12345Mc: checks 
+Tordan3312: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [4d 3d] (two pair, Aces and Threes)
+Tordan3312: shows [Qs Kc] (two pair, Aces and Queens)
+Tordan3312 collected 1276 from pot
+*** SUMMARY ***
+Total pot 1276 | Rake 0 
+Board [9h Ad 3c Ah Qh]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka (button) folded before Flop (didn't bet)
+Seat 5: Ramanenko (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) showed [4d 3d] and lost with two pair, Aces and Threes
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 showed [Qs Kc] and won (1276) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #255061731970: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/02/27 18:41:08 WET [2025/02/27 13:41:08 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: Nohch1 (7355 in chips) 
+Seat 2: The Yasuo (6119 in chips) 
+Seat 3: Novikov_PM (3466 in chips) 
+Seat 4: jannepekka (4475 in chips) 
+Seat 5: Ramanenko (11868 in chips) 
+Seat 6: Kevin12345Mc (9735 in chips) 
+Seat 7: pozt15 (2614 in chips) 
+Seat 8: Tordan3312 (2861 in chips) 
+Nohch1: posts the ante 21
+The Yasuo: posts the ante 21
+Novikov_PM: posts the ante 21
+jannepekka: posts the ante 21
+Ramanenko: posts the ante 21
+Kevin12345Mc: posts the ante 21
+pozt15: posts the ante 21
+Tordan3312: posts the ante 21
+Kevin12345Mc: posts small blind 70
+pozt15: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 9c]
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: raises 140 to 280
+Kevin12345Mc: folds 
+pozt15: calls 140
+*** FLOP *** [2s Th Ad]
+pozt15: checks 
+Ramanenko: bets 160
+pozt15: folds 
+Uncalled bet (160) returned to Ramanenko
+Ramanenko collected 798 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 798 | Rake 0 
+Board [2s Th Ad]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko (button) collected (798)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: pozt15 (big blind) folded on the Flop
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061749131: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/27 18:42:12 WET [2025/02/27 13:42:12 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: Nohch1 (7334 in chips) 
+Seat 2: The Yasuo (6098 in chips) 
+Seat 3: Novikov_PM (3445 in chips) 
+Seat 4: jannepekka (4454 in chips) 
+Seat 5: Ramanenko (12365 in chips) 
+Seat 6: Kevin12345Mc (9644 in chips) 
+Seat 7: pozt15 (2313 in chips) 
+Seat 8: Tordan3312 (2840 in chips) 
+Nohch1: posts the ante 24
+The Yasuo: posts the ante 24
+Novikov_PM: posts the ante 24
+jannepekka: posts the ante 24
+Ramanenko: posts the ante 24
+Kevin12345Mc: posts the ante 24
+pozt15: posts the ante 24
+Tordan3312: posts the ante 24
+pozt15: posts small blind 80
+Tordan3312: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks Js]
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: raises 160 to 320
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: calls 320
+pozt15: folds 
+Tordan3312: calls 160
+*** FLOP *** [2s 2c Td]
+Tordan3312: checks 
+Novikov_PM: bets 604
+Kevin12345Mc: folds 
+Tordan3312: folds 
+Uncalled bet (604) returned to Novikov_PM
+Novikov_PM collected 1232 from pot
+Novikov_PM: doesn't show hand 
+*** SUMMARY ***
+Total pot 1232 | Rake 0 
+Board [2s 2c Td]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM collected (1232)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded on the Flop
+Seat 7: pozt15 (small blind) folded before Flop
+Seat 8: Tordan3312 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255061763317: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/27 18:43:06 WET [2025/02/27 13:43:06 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 1: Nohch1 (7310 in chips) 
+Seat 2: The Yasuo (6074 in chips) 
+Seat 3: Novikov_PM (4333 in chips) 
+Seat 4: jannepekka (4430 in chips) 
+Seat 5: Ramanenko (12341 in chips) 
+Seat 6: Kevin12345Mc (9300 in chips) 
+Seat 7: pozt15 (2209 in chips) 
+Seat 8: Tordan3312 (2496 in chips) 
+Nohch1: posts the ante 24
+The Yasuo: posts the ante 24
+Novikov_PM: posts the ante 24
+jannepekka: posts the ante 24
+Ramanenko: posts the ante 24
+Kevin12345Mc: posts the ante 24
+pozt15: posts the ante 24
+Tordan3312: posts the ante 24
+Tordan3312: posts small blind 80
+Nohch1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 5s]
+The Yasuo: folds 
+Novikov_PM: raises 160 to 320
+jannepekka: raises 1072 to 1392
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: folds 
+Novikov_PM: folds 
+Uncalled bet (1072) returned to jannepekka
+jannepekka collected 1072 from pot
+jannepekka: doesn't show hand 
+*** SUMMARY ***
+Total pot 1072 | Rake 0 
+Seat 1: Nohch1 (big blind) folded before Flop
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop
+Seat 4: jannepekka collected (1072)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 (button) folded before Flop (didn't bet)
+Seat 8: Tordan3312 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255061771982: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/27 18:43:39 WET [2025/02/27 13:43:39 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: Nohch1 (7126 in chips) 
+Seat 2: The Yasuo (6050 in chips) 
+Seat 3: Novikov_PM (3989 in chips) 
+Seat 4: jannepekka (5158 in chips) 
+Seat 5: Ramanenko (12317 in chips) 
+Seat 6: Kevin12345Mc (9276 in chips) 
+Seat 7: pozt15 (2185 in chips) 
+Seat 8: Tordan3312 (2392 in chips) 
+Nohch1: posts the ante 24
+The Yasuo: posts the ante 24
+Novikov_PM: posts the ante 24
+jannepekka: posts the ante 24
+Ramanenko: posts the ante 24
+Kevin12345Mc: posts the ante 24
+pozt15: posts the ante 24
+Tordan3312: posts the ante 24
+Nohch1: posts small blind 80
+The Yasuo: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 5d]
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: raises 2001 to 2161 and is all-in
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Uncalled bet (2001) returned to pozt15
+pozt15 collected 592 from pot
+pozt15: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: Nohch1 (small blind) folded before Flop
+Seat 2: The Yasuo (big blind) folded before Flop
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 collected (592)
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061780908: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/27 18:44:13 WET [2025/02/27 13:44:13 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: Nohch1 (7022 in chips) 
+Seat 2: The Yasuo (5866 in chips) 
+Seat 3: Novikov_PM (3965 in chips) 
+Seat 4: jannepekka (5134 in chips) 
+Seat 5: Ramanenko (12293 in chips) 
+Seat 6: Kevin12345Mc (9252 in chips) 
+Seat 7: pozt15 (2593 in chips) 
+Seat 8: Tordan3312 (2368 in chips) 
+Nohch1: posts the ante 24
+The Yasuo: posts the ante 24
+Novikov_PM: posts the ante 24
+jannepekka: posts the ante 24
+Ramanenko: posts the ante 24
+Kevin12345Mc: posts the ante 24
+pozt15: posts the ante 24
+Tordan3312: posts the ante 24
+The Yasuo: posts small blind 80
+Novikov_PM: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c Ac]
+jannepekka: folds 
+Ramanenko: raises 160 to 320
+Kevin12345Mc: calls 320
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+*** FLOP *** [5c Th 2s]
+Ramanenko: bets 356
+Kevin12345Mc: calls 356
+*** TURN *** [5c Th 2s] [9h]
+Ramanenko: bets 1028
+Kevin12345Mc: folds 
+Uncalled bet (1028) returned to Ramanenko
+Ramanenko collected 1784 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 1784 | Rake 0 
+Board [5c Th 2s 9h]
+Seat 1: Nohch1 (button) folded before Flop (didn't bet)
+Seat 2: The Yasuo (small blind) folded before Flop
+Seat 3: Novikov_PM (big blind) folded before Flop
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko collected (1784)
+Seat 6: Kevin12345Mc folded on the Turn
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061796552: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/27 18:45:12 WET [2025/02/27 13:45:12 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: Nohch1 (6998 in chips) 
+Seat 2: The Yasuo (5762 in chips) 
+Seat 3: Novikov_PM (3781 in chips) 
+Seat 4: jannepekka (5110 in chips) 
+Seat 5: Ramanenko (13377 in chips) 
+Seat 6: Kevin12345Mc (8552 in chips) 
+Seat 7: pozt15 (2569 in chips) 
+Seat 8: Tordan3312 (2344 in chips) 
+Nohch1: posts the ante 24
+The Yasuo: posts the ante 24
+Novikov_PM: posts the ante 24
+jannepekka: posts the ante 24
+Ramanenko: posts the ante 24
+Kevin12345Mc: posts the ante 24
+pozt15: posts the ante 24
+Tordan3312: posts the ante 24
+Novikov_PM: posts small blind 80
+jannepekka: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 2d]
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: raises 160 to 320
+Tordan3312: folds 
+Nohch1: calls 320
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: calls 160
+*** FLOP *** [6s 3c 7d]
+jannepekka: checks 
+pozt15: checks 
+Nohch1: checks 
+*** TURN *** [6s 3c 7d] [6d]
+jannepekka: checks 
+pozt15: checks 
+Nohch1: bets 616
+jannepekka: folds 
+pozt15: folds 
+Uncalled bet (616) returned to Nohch1
+Nohch1 collected 1232 from pot
+*** SUMMARY ***
+Total pot 1232 | Rake 0 
+Board [6s 3c 7d 6d]
+Seat 1: Nohch1 collected (1232)
+Seat 2: The Yasuo (button) folded before Flop (didn't bet)
+Seat 3: Novikov_PM (small blind) folded before Flop
+Seat 4: jannepekka (big blind) folded on the Turn
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 folded on the Turn
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061816068: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/27 18:46:26 WET [2025/02/27 13:46:26 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: Nohch1 (7886 in chips) 
+Seat 2: The Yasuo (5738 in chips) 
+Seat 3: Novikov_PM (3677 in chips) 
+Seat 4: jannepekka (4766 in chips) 
+Seat 5: Ramanenko (13353 in chips) 
+Seat 6: Kevin12345Mc (8528 in chips) 
+Seat 7: pozt15 (2225 in chips) 
+Seat 8: Tordan3312 (2320 in chips) 
+Nohch1: posts the ante 24
+The Yasuo: posts the ante 24
+Novikov_PM: posts the ante 24
+jannepekka: posts the ante 24
+Ramanenko: posts the ante 24
+Kevin12345Mc: posts the ante 24
+pozt15: posts the ante 24
+Tordan3312: posts the ante 24
+jannepekka: posts small blind 80
+Ramanenko: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c Jh]
+Kevin12345Mc: folds 
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: raises 160 to 320
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: raises 864 to 1184
+The Yasuo: calls 864
+*** FLOP *** [9h Jc 8c]
+Ramanenko: bets 711
+The Yasuo: raises 1300 to 2011
+Ramanenko: folds 
+Uncalled bet (1300) returned to The Yasuo
+The Yasuo collected 4062 from pot
+*** SUMMARY ***
+Total pot 4062 | Rake 0 
+Board [9h Jc 8c]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo collected (4062)
+Seat 3: Novikov_PM (button) folded before Flop (didn't bet)
+Seat 4: jannepekka (small blind) folded before Flop
+Seat 5: Ramanenko (big blind) folded on the Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061835589: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/27 18:47:40 WET [2025/02/27 13:47:40 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: Nohch1 (7862 in chips) 
+Seat 2: The Yasuo (7881 in chips) 
+Seat 3: Novikov_PM (3653 in chips) 
+Seat 4: jannepekka (4662 in chips) 
+Seat 5: Ramanenko (11434 in chips) 
+Seat 6: Kevin12345Mc (8504 in chips) 
+Seat 7: pozt15 (2201 in chips) 
+Seat 8: Tordan3312 (2296 in chips) 
+Nohch1: posts the ante 24
+The Yasuo: posts the ante 24
+Novikov_PM: posts the ante 24
+jannepekka: posts the ante 24
+Ramanenko: posts the ante 24
+Kevin12345Mc: posts the ante 24
+pozt15: posts the ante 24
+Tordan3312: posts the ante 24
+Ramanenko: posts small blind 80
+Kevin12345Mc: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 9s]
+pozt15: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: raises 160 to 320
+jannepekka: folds 
+Ramanenko: raises 800 to 1120
+Kevin12345Mc: folds 
+Novikov_PM: folds 
+Uncalled bet (800) returned to Ramanenko
+Ramanenko collected 992 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 992 | Rake 0 
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop
+Seat 4: jannepekka (button) folded before Flop (didn't bet)
+Seat 5: Ramanenko (small blind) collected (992)
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: pozt15 folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061844906: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/27 18:48:16 WET [2025/02/27 13:48:16 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: Nohch1 (7838 in chips) 
+Seat 2: The Yasuo (7857 in chips) 
+Seat 3: Novikov_PM (3309 in chips) 
+Seat 4: jannepekka (4638 in chips) 
+Seat 5: Ramanenko (12082 in chips) 
+Seat 6: Kevin12345Mc (8320 in chips) 
+Seat 7: pozt15 (2177 in chips) 
+Seat 8: Tordan3312 (2272 in chips) 
+Nohch1: posts the ante 24
+The Yasuo: posts the ante 24
+Novikov_PM: posts the ante 24
+jannepekka: posts the ante 24
+Ramanenko: posts the ante 24
+Kevin12345Mc: posts the ante 24
+pozt15: posts the ante 24
+Tordan3312: posts the ante 24
+Kevin12345Mc: posts small blind 80
+pozt15: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Ad]
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: raises 160 to 320
+jannepekka: folds 
+Ramanenko: calls 320
+Kevin12345Mc: raises 1120 to 1440
+pozt15: folds 
+Novikov_PM: folds 
+Ramanenko: folds 
+Uncalled bet (1120) returned to Kevin12345Mc
+Kevin12345Mc collected 1312 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1312 | Rake 0 
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko (button) folded before Flop
+Seat 6: Kevin12345Mc (small blind) collected (1312)
+Seat 7: pozt15 (big blind) folded before Flop
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061859313: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/27 18:49:10 WET [2025/02/27 13:49:10 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: Nohch1 (7814 in chips) 
+Seat 2: The Yasuo (7833 in chips) 
+Seat 3: Novikov_PM (2965 in chips) 
+Seat 4: jannepekka (4614 in chips) 
+Seat 5: Ramanenko (11738 in chips) 
+Seat 6: Kevin12345Mc (9288 in chips) 
+Seat 7: pozt15 (1993 in chips) 
+Seat 8: Tordan3312 (2248 in chips) 
+Nohch1: posts the ante 24
+The Yasuo: posts the ante 24
+Novikov_PM: posts the ante 24
+jannepekka: posts the ante 24
+Ramanenko: posts the ante 24
+Kevin12345Mc: posts the ante 24
+pozt15: posts the ante 24
+Tordan3312: posts the ante 24
+pozt15: posts small blind 80
+Tordan3312: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 6h]
+Nohch1: folds 
+The Yasuo: raises 160 to 320
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: folds 
+Tordan3312: folds 
+Uncalled bet (160) returned to The Yasuo
+The Yasuo collected 592 from pot
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo collected (592)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: pozt15 (small blind) folded before Flop
+Seat 8: Tordan3312 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255061866061: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/02/27 18:49:36 WET [2025/02/27 13:49:36 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 1: Nohch1 (7790 in chips) 
+Seat 2: The Yasuo (8241 in chips) 
+Seat 3: Novikov_PM (2941 in chips) 
+Seat 4: jannepekka (4590 in chips) 
+Seat 5: Ramanenko (11714 in chips) 
+Seat 6: Kevin12345Mc (9264 in chips) 
+Seat 7: pozt15 (1889 in chips) 
+Seat 8: Tordan3312 (2064 in chips) 
+Nohch1: posts the ante 24
+The Yasuo: posts the ante 24
+Novikov_PM: posts the ante 24
+jannepekka: posts the ante 24
+Ramanenko: posts the ante 24
+Kevin12345Mc: posts the ante 24
+pozt15: posts the ante 24
+Tordan3312: posts the ante 24
+Tordan3312: posts small blind 80
+Nohch1: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 2d]
+The Yasuo: folds 
+Novikov_PM: raises 160 to 320
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: folds 
+Tordan3312: raises 1720 to 2040 and is all-in
+Nohch1: folds 
+Novikov_PM: folds 
+Uncalled bet (1720) returned to Tordan3312
+Tordan3312 collected 992 from pot
+Tordan3312: doesn't show hand 
+*** SUMMARY ***
+Total pot 992 | Rake 0 
+Seat 1: Nohch1 (big blind) folded before Flop
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 (button) folded before Flop (didn't bet)
+Seat 8: Tordan3312 (small blind) collected (992)
+
+
+
+PokerStars Hand #255061879231: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/27 18:50:26 WET [2025/02/27 13:50:26 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: Nohch1 (7606 in chips) 
+Seat 2: The Yasuo (8217 in chips) 
+Seat 3: Novikov_PM (2597 in chips) 
+Seat 4: jannepekka (4566 in chips) 
+Seat 5: Ramanenko (11690 in chips) 
+Seat 6: Kevin12345Mc (9240 in chips) 
+Seat 7: pozt15 (1865 in chips) 
+Seat 8: Tordan3312 (2712 in chips) 
+Nohch1: posts the ante 27
+The Yasuo: posts the ante 27
+Novikov_PM: posts the ante 27
+jannepekka: posts the ante 27
+Ramanenko: posts the ante 27
+Kevin12345Mc: posts the ante 27
+pozt15: posts the ante 27
+Tordan3312: posts the ante 27
+Nohch1: posts small blind 90
+The Yasuo: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s Jd]
+Novikov_PM: folds 
+jannepekka: raises 180 to 360
+Ramanenko: folds 
+Kevin12345Mc: folds 
+pozt15: raises 1478 to 1838 and is all-in
+Tordan3312: raises 847 to 2685 and is all-in
+Nohch1: folds 
+The Yasuo: folds 
+jannepekka: calls 2325
+*** FLOP *** [Ks Ac 9c]
+*** TURN *** [Ks Ac 9c] [Kc]
+*** RIVER *** [Ks Ac 9c Kc] [6c]
+*** SHOW DOWN ***
+jannepekka: shows [8h 8s] (two pair, Kings and Eights)
+Tordan3312: shows [Kh Ad] (a full house, Kings full of Aces)
+Tordan3312 collected 1694 from side pot
+pozt15: shows [Ah Jc] (a flush, Ace high)
+Tordan3312 collected 6000 from main pot
+pozt15 finished the tournament
+*** SUMMARY ***
+Total pot 7694 Main pot 6000. Side pot 1694. | Rake 0 
+Board [Ks Ac 9c Kc 6c]
+Seat 1: Nohch1 (small blind) folded before Flop
+Seat 2: The Yasuo (big blind) folded before Flop
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka showed [8h 8s] and lost with two pair, Kings and Eights
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: pozt15 showed [Ah Jc] and lost with a flush, Ace high
+Seat 8: Tordan3312 (button) showed [Kh Ad] and won (7694) with a full house, Kings full of Aces
+
+
+
+PokerStars Hand #255061890278: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/27 18:51:09 WET [2025/02/27 13:51:09 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: Nohch1 (7489 in chips) 
+Seat 2: The Yasuo (8010 in chips) 
+Seat 3: Novikov_PM (2570 in chips) 
+Seat 4: jannepekka (1854 in chips) 
+Seat 5: Ramanenko (11663 in chips) 
+Seat 6: Kevin12345Mc (9213 in chips) 
+Seat 8: Tordan3312 (7694 in chips) 
+Nohch1: posts the ante 27
+The Yasuo: posts the ante 27
+Novikov_PM: posts the ante 27
+jannepekka: posts the ante 27
+Ramanenko: posts the ante 27
+Kevin12345Mc: posts the ante 27
+Tordan3312: posts the ante 27
+The Yasuo: posts small blind 90
+Novikov_PM: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Jh]
+alshota is disconnected 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+Tordan3312: folds 
+Nohch1: raises 180 to 360
+The Yasuo: folds 
+Novikov_PM: calls 180
+*** FLOP *** [6s Kd As]
+Novikov_PM: checks 
+Nohch1: bets 360
+Novikov_PM has timed out
+Novikov_PM: folds 
+Novikov_PM is sitting out
+Uncalled bet (360) returned to Nohch1
+Novikov_PM has returned
+Nohch1 collected 999 from pot
+*** SUMMARY ***
+Total pot 999 | Rake 0 
+Board [6s Kd As]
+Seat 1: Nohch1 (button) collected (999)
+Seat 2: The Yasuo (small blind) folded before Flop
+Seat 3: Novikov_PM (big blind) folded on the Flop
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061907755: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/27 18:52:15 WET [2025/02/27 13:52:15 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: Nohch1 (8101 in chips) 
+Seat 2: The Yasuo (7893 in chips) 
+Seat 3: Novikov_PM (2183 in chips) 
+Seat 4: jannepekka (1827 in chips) 
+Seat 5: Ramanenko (11636 in chips) 
+Seat 6: Kevin12345Mc (9186 in chips) 
+Seat 7: alshota (5000 in chips) 
+Seat 8: Tordan3312 (7667 in chips) 
+Nohch1: posts the ante 27
+The Yasuo: posts the ante 27
+Novikov_PM: posts the ante 27
+jannepekka: posts the ante 27
+Ramanenko: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alshota: posts the ante 27
+Tordan3312: posts the ante 27
+Novikov_PM: posts small blind 90
+jannepekka: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 6h]
+Ramanenko: folds 
+Kevin12345Mc: folds 
+alshota: folds 
+Tordan3312: raises 198 to 378
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: calls 198
+*** FLOP *** [Js 6s 8c]
+jannepekka: checks 
+Tordan3312: checks 
+*** TURN *** [Js 6s 8c] [8s]
+jannepekka: checks 
+Tordan3312: bets 319
+jannepekka: folds 
+Uncalled bet (319) returned to Tordan3312
+Tordan3312 collected 1062 from pot
+Tordan3312: doesn't show hand 
+*** SUMMARY ***
+Total pot 1062 | Rake 0 
+Board [Js 6s 8c 8s]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo (button) folded before Flop (didn't bet)
+Seat 3: Novikov_PM (small blind) folded before Flop
+Seat 4: jannepekka (big blind) folded on the Turn
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota folded before Flop (didn't bet)
+Seat 8: Tordan3312 collected (1062)
+
+
+
+PokerStars Hand #255061922079: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/27 18:53:09 WET [2025/02/27 13:53:09 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: Nohch1 (8074 in chips) 
+Seat 2: The Yasuo (7866 in chips) 
+Seat 3: Novikov_PM (2066 in chips) 
+Seat 4: jannepekka (1422 in chips) 
+Seat 5: Ramanenko (11609 in chips) 
+Seat 6: Kevin12345Mc (9159 in chips) 
+Seat 7: alshota (4973 in chips) 
+Seat 8: Tordan3312 (8324 in chips) 
+Nohch1: posts the ante 27
+The Yasuo: posts the ante 27
+Novikov_PM: posts the ante 27
+jannepekka: posts the ante 27
+Ramanenko: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alshota: posts the ante 27
+Tordan3312: posts the ante 27
+jannepekka: posts small blind 90
+Ramanenko: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 7h]
+Kevin12345Mc: folds 
+alshota: raises 180 to 360
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Uncalled bet (180) returned to alshota
+alshota collected 666 from pot
+alshota: doesn't show hand 
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM (button) folded before Flop (didn't bet)
+Seat 4: jannepekka (small blind) folded before Flop
+Seat 5: Ramanenko (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota collected (666)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255061928475: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/27 18:53:33 WET [2025/02/27 13:53:33 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: Nohch1 (8047 in chips) 
+Seat 2: The Yasuo (7839 in chips) 
+Seat 3: Novikov_PM (2039 in chips) 
+Seat 4: jannepekka (1305 in chips) 
+Seat 5: Ramanenko (11402 in chips) 
+Seat 6: Kevin12345Mc (9132 in chips) 
+Seat 7: alshota (5432 in chips) 
+Seat 8: Tordan3312 (8297 in chips) 
+Nohch1: posts the ante 27
+The Yasuo: posts the ante 27
+Novikov_PM: posts the ante 27
+jannepekka: posts the ante 27
+Ramanenko: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alshota: posts the ante 27
+Tordan3312: posts the ante 27
+Ramanenko: posts small blind 90
+Kevin12345Mc: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 2c]
+alshota: folds 
+Tordan3312: raises 198 to 378
+Nohch1: raises 378 to 756
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+Tordan3312: calls 378
+*** FLOP *** [7c 4d Tc]
+Tordan3312: checks 
+Nohch1: bets 1179
+Tordan3312: calls 1179
+*** TURN *** [7c 4d Tc] [As]
+Tordan3312: checks 
+Nohch1: bets 2538
+Tordan3312: folds 
+Uncalled bet (2538) returned to Nohch1
+Nohch1 collected 4356 from pot
+jannepekka is disconnected 
+*** SUMMARY ***
+Total pot 4356 | Rake 0 
+Board [7c 4d Tc As]
+Seat 1: Nohch1 collected (4356)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka (button) folded before Flop (didn't bet)
+Seat 5: Ramanenko (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: alshota folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded on the Turn
+
+
+
+PokerStars Hand #255061946779: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/27 18:54:42 WET [2025/02/27 13:54:42 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: Nohch1 (10441 in chips) 
+Seat 2: The Yasuo (7812 in chips) 
+Seat 3: Novikov_PM (2012 in chips) 
+Seat 4: jannepekka (1278 in chips) 
+Seat 5: Ramanenko (11285 in chips) 
+Seat 6: Kevin12345Mc (8925 in chips) 
+Seat 7: alshota (5405 in chips) 
+Seat 8: Tordan3312 (6335 in chips) 
+Nohch1: posts the ante 27
+The Yasuo: posts the ante 27
+Novikov_PM: posts the ante 27
+jannepekka: posts the ante 27
+Ramanenko: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alshota: posts the ante 27
+Tordan3312: posts the ante 27
+Kevin12345Mc: posts small blind 90
+alshota: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts As]
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka has timed out while disconnected
+jannepekka: folds 
+jannepekka is sitting out
+Ramanenko: raises 180 to 360
+Kevin12345Mc: raises 1080 to 1440
+alshota: folds 
+Ramanenko: folds 
+Uncalled bet (1080) returned to Kevin12345Mc
+Kevin12345Mc collected 1116 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1116 | Rake 0 
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko (button) folded before Flop
+Seat 6: Kevin12345Mc (small blind) collected (1116)
+Seat 7: alshota (big blind) folded before Flop
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062042810: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/27 19:02:26 WET [2025/02/27 14:02:26 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: Nohch1 (10414 in chips) is sitting out
+Seat 2: The Yasuo (7785 in chips) 
+Seat 3: Novikov_PM (1985 in chips) 
+Seat 4: jannepekka (1251 in chips) 
+Seat 5: Ramanenko (10898 in chips) 
+Seat 6: Kevin12345Mc (9654 in chips) 
+Seat 7: alshota (5198 in chips) 
+Seat 8: Tordan3312 (6308 in chips) 
+Nohch1: posts the ante 27
+The Yasuo: posts the ante 27
+Novikov_PM: posts the ante 27
+jannepekka: posts the ante 27
+Ramanenko: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alshota: posts the ante 27
+Tordan3312: posts the ante 27
+alshota: posts small blind 90
+Tordan3312: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 5d]
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: raises 180 to 360
+Kevin12345Mc: folds 
+alshota: folds 
+Tordan3312: calls 180
+*** FLOP *** [3s 3h As]
+Tordan3312: checks 
+Ramanenko: bets 342
+Tordan3312: raises 564 to 906
+Ramanenko: folds 
+Uncalled bet (564) returned to Tordan3312
+Tordan3312 collected 1710 from pot
+Tordan3312: doesn't show hand 
+*** SUMMARY ***
+Total pot 1710 | Rake 0 
+Board [3s 3h As]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded on the Flop
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: alshota (small blind) folded before Flop
+Seat 8: Tordan3312 (big blind) collected (1710)
+
+
+
+PokerStars Hand #255062059787: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/27 19:03:31 WET [2025/02/27 14:03:31 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 1: Nohch1 (10387 in chips) is sitting out
+Seat 2: The Yasuo (7758 in chips) 
+Seat 3: Novikov_PM (1958 in chips) 
+Seat 4: jannepekka (1224 in chips) 
+Seat 5: Ramanenko (10169 in chips) 
+Seat 6: Kevin12345Mc (9627 in chips) 
+Seat 7: alshota (5081 in chips) 
+Seat 8: Tordan3312 (7289 in chips) 
+Nohch1: posts the ante 27
+The Yasuo: posts the ante 27
+Novikov_PM: posts the ante 27
+jannepekka: posts the ante 27
+Ramanenko: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alshota: posts the ante 27
+Tordan3312: posts the ante 27
+Tordan3312: posts small blind 90
+Nohch1: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c As]
+The Yasuo: raises 180 to 360
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+alshota: folds 
+Tordan3312: folds 
+Nohch1: folds 
+Uncalled bet (180) returned to The Yasuo
+The Yasuo collected 666 from pot
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: Nohch1 (big blind) folded before Flop
+Seat 2: The Yasuo collected (666)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota (button) folded before Flop (didn't bet)
+Seat 8: Tordan3312 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255062064995: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/27 19:03:52 WET [2025/02/27 14:03:52 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: Nohch1 (10180 in chips) is sitting out
+Seat 2: The Yasuo (8217 in chips) 
+Seat 3: Novikov_PM (1931 in chips) 
+Seat 4: jannepekka (1197 in chips) 
+Seat 5: Ramanenko (10142 in chips) 
+Seat 6: Kevin12345Mc (9600 in chips) 
+Seat 7: alshota (5054 in chips) 
+Seat 8: Tordan3312 (7172 in chips) 
+Nohch1: posts the ante 27
+The Yasuo: posts the ante 27
+Novikov_PM: posts the ante 27
+jannepekka: posts the ante 27
+Ramanenko: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alshota: posts the ante 27
+Tordan3312: posts the ante 27
+Nohch1: posts small blind 90
+The Yasuo: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 6s]
+Novikov_PM: folds 
+jannepekka: folds 
+Nohch1 is disconnected 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+Nohch1 has returned
+alshota: raises 180 to 360
+Tordan3312: folds 
+Nohch1: calls 270
+The Yasuo: calls 180
+*** FLOP *** [4c Tc 2c]
+Nohch1: checks 
+The Yasuo: checks 
+alshota: bets 518
+Nohch1: folds 
+The Yasuo: calls 518
+*** TURN *** [4c Tc 2c] [Qc]
+The Yasuo: checks 
+alshota: bets 925
+The Yasuo: folds 
+Uncalled bet (925) returned to alshota
+alshota collected 2332 from pot
+alshota: doesn't show hand 
+*** SUMMARY ***
+Total pot 2332 | Rake 0 
+Board [4c Tc 2c Qc]
+Seat 1: Nohch1 (small blind) folded on the Flop
+Seat 2: The Yasuo (big blind) folded on the Turn
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota collected (2332)
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062086606: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/02/27 19:05:15 WET [2025/02/27 14:05:15 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: Nohch1 (9793 in chips) 
+Seat 2: The Yasuo (7312 in chips) 
+Seat 3: Novikov_PM (1904 in chips) 
+Seat 4: jannepekka (1170 in chips) 
+Seat 5: Ramanenko (10115 in chips) 
+Seat 6: Kevin12345Mc (9573 in chips) 
+Seat 7: alshota (6481 in chips) 
+Seat 8: Tordan3312 (7145 in chips) 
+Nohch1: posts the ante 27
+The Yasuo: posts the ante 27
+Novikov_PM: posts the ante 27
+jannepekka: posts the ante 27
+Ramanenko: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alshota: posts the ante 27
+Tordan3312: posts the ante 27
+The Yasuo: posts small blind 90
+Novikov_PM: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c Ks]
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+alshota: folds 
+Tordan3312: folds 
+Nohch1: raises 180 to 360
+The Yasuo: folds 
+Novikov_PM: folds 
+Uncalled bet (180) returned to Nohch1
+Nohch1 collected 666 from pot
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: Nohch1 (button) collected (666)
+Seat 2: The Yasuo (small blind) folded before Flop
+Seat 3: Novikov_PM (big blind) folded before Flop
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062095687: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/27 19:05:49 WET [2025/02/27 14:05:49 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: Nohch1 (10252 in chips) 
+Seat 2: The Yasuo (7195 in chips) 
+Seat 3: Novikov_PM (1697 in chips) 
+Seat 4: jannepekka (1143 in chips) 
+Seat 5: Ramanenko (10088 in chips) 
+Seat 6: Kevin12345Mc (9546 in chips) 
+Seat 7: alshota (6454 in chips) 
+Seat 8: Tordan3312 (7118 in chips) 
+Nohch1: posts the ante 30
+The Yasuo: posts the ante 30
+Novikov_PM: posts the ante 30
+jannepekka: posts the ante 30
+Ramanenko: posts the ante 30
+Kevin12345Mc: posts the ante 30
+alshota: posts the ante 30
+Tordan3312: posts the ante 30
+Novikov_PM: posts small blind 100
+jannepekka: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 4h]
+Ramanenko: folds 
+Kevin12345Mc: folds 
+alshota: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: raises 200 to 400
+Novikov_PM: folds 
+jannepekka: raises 713 to 1113 and is all-in
+The Yasuo: calls 713
+*** FLOP *** [Kh 4c 2d]
+*** TURN *** [Kh 4c 2d] [Qh]
+*** RIVER *** [Kh 4c 2d Qh] [8s]
+*** SHOW DOWN ***
+jannepekka: shows [Kc Ks] (three of a kind, Kings)
+The Yasuo: shows [Ah 4s] (a pair of Fours)
+jannepekka collected 2566 from pot
+*** SUMMARY ***
+Total pot 2566 | Rake 0 
+Board [Kh 4c 2d Qh 8s]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo (button) showed [Ah 4s] and lost with a pair of Fours
+Seat 3: Novikov_PM (small blind) folded before Flop
+Seat 4: jannepekka (big blind) showed [Kc Ks] and won (2566) with three of a kind, Kings
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062107405: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/27 19:06:33 WET [2025/02/27 14:06:33 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: Nohch1 (10222 in chips) 
+Seat 2: The Yasuo (6052 in chips) 
+Seat 3: Novikov_PM (1567 in chips) 
+Seat 4: jannepekka (2566 in chips) 
+Seat 5: Ramanenko (10058 in chips) 
+Seat 6: Kevin12345Mc (9516 in chips) 
+Seat 7: alshota (6424 in chips) 
+Seat 8: Tordan3312 (7088 in chips) 
+Nohch1: posts the ante 30
+The Yasuo: posts the ante 30
+Novikov_PM: posts the ante 30
+jannepekka: posts the ante 30
+Ramanenko: posts the ante 30
+Kevin12345Mc: posts the ante 30
+alshota: posts the ante 30
+Tordan3312: posts the ante 30
+jannepekka: posts small blind 100
+Ramanenko: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Qh]
+Kevin12345Mc: folds 
+alshota: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: raises 1337 to 1537 and is all-in
+jannepekka: folds 
+Ramanenko: folds 
+Uncalled bet (1337) returned to Novikov_PM
+Novikov_PM collected 740 from pot
+Novikov_PM: doesn't show hand 
+*** SUMMARY ***
+Total pot 740 | Rake 0 
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM (button) collected (740)
+Seat 4: jannepekka (small blind) folded before Flop
+Seat 5: Ramanenko (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062114687: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/27 19:07:01 WET [2025/02/27 14:07:01 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: Nohch1 (10192 in chips) 
+Seat 2: The Yasuo (6022 in chips) 
+Seat 3: Novikov_PM (2077 in chips) 
+Seat 4: jannepekka (2436 in chips) 
+Seat 5: Ramanenko (9828 in chips) 
+Seat 6: Kevin12345Mc (9486 in chips) 
+Seat 7: alshota (6394 in chips) 
+Seat 8: Tordan3312 (7058 in chips) 
+Nohch1: posts the ante 30
+The Yasuo: posts the ante 30
+Novikov_PM: posts the ante 30
+jannepekka: posts the ante 30
+Ramanenko: posts the ante 30
+Kevin12345Mc: posts the ante 30
+alshota: posts the ante 30
+Tordan3312: posts the ante 30
+Ramanenko: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 2d]
+alshota: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: raises 200 to 400
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: calls 200
+*** FLOP *** [8h 6d Kc]
+Kevin12345Mc: checks 
+The Yasuo: bets 365
+Kevin12345Mc: calls 365
+*** TURN *** [8h 6d Kc] [4c]
+Kevin12345Mc: checks 
+The Yasuo: bets 1200
+Kevin12345Mc: calls 1200
+*** RIVER *** [8h 6d Kc 4c] [Qd]
+Kevin12345Mc: checks 
+The Yasuo: bets 4027 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (4027) returned to The Yasuo
+The Yasuo collected 4270 from pot
+*** SUMMARY ***
+Total pot 4270 | Rake 0 
+Board [8h 6d Kc 4c Qd]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo collected (4270)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka (button) folded before Flop (didn't bet)
+Seat 5: Ramanenko (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded on the River
+Seat 7: alshota folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062135693: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/27 19:08:20 WET [2025/02/27 14:08:20 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: Nohch1 (10162 in chips) 
+Seat 2: The Yasuo (8297 in chips) 
+Seat 3: Novikov_PM (2047 in chips) 
+Seat 4: jannepekka (2406 in chips) 
+Seat 5: Ramanenko (9698 in chips) 
+Seat 6: Kevin12345Mc (7491 in chips) 
+Seat 7: alshota (6364 in chips) 
+Seat 8: Tordan3312 (7028 in chips) 
+Nohch1: posts the ante 30
+The Yasuo: posts the ante 30
+Novikov_PM: posts the ante 30
+jannepekka: posts the ante 30
+Ramanenko: posts the ante 30
+Kevin12345Mc: posts the ante 30
+alshota: posts the ante 30
+Tordan3312: posts the ante 30
+Kevin12345Mc: posts small blind 100
+alshota: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 2d]
+Tordan3312: raises 240 to 440
+Nohch1: folds 
+The Yasuo: raises 760 to 1200
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+alshota: folds 
+Tordan3312: raises 5798 to 6998 and is all-in
+The Yasuo: calls 5798
+*** FLOP *** [4d Qc 7d]
+*** TURN *** [4d Qc 7d] [Qd]
+*** RIVER *** [4d Qc 7d Qd] [Ac]
+*** SHOW DOWN ***
+Tordan3312: shows [Kc Ah] (two pair, Aces and Queens)
+The Yasuo: shows [Ks Kh] (two pair, Kings and Queens)
+Tordan3312 collected 14536 from pot
+*** SUMMARY ***
+Total pot 14536 | Rake 0 
+Board [4d Qc 7d Qd Ac]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo showed [Ks Kh] and lost with two pair, Kings and Queens
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: alshota (big blind) folded before Flop
+Seat 8: Tordan3312 showed [Kc Ah] and won (14536) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #255062147855: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/27 19:09:06 WET [2025/02/27 14:09:06 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: Nohch1 (10132 in chips) 
+Seat 2: The Yasuo (1269 in chips) 
+Seat 3: Novikov_PM (2017 in chips) 
+Seat 4: jannepekka (2376 in chips) 
+Seat 5: Ramanenko (9668 in chips) 
+Seat 6: Kevin12345Mc (7361 in chips) 
+Seat 7: alshota (6134 in chips) 
+Seat 8: Tordan3312 (14536 in chips) 
+Nohch1: posts the ante 30
+The Yasuo: posts the ante 30
+Novikov_PM: posts the ante 30
+jannepekka: posts the ante 30
+Ramanenko: posts the ante 30
+Kevin12345Mc: posts the ante 30
+alshota: posts the ante 30
+Tordan3312: posts the ante 30
+alshota: posts small blind 100
+Tordan3312: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 8h]
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+alshota: folds 
+Uncalled bet (100) returned to Tordan3312
+Tordan3312 collected 440 from pot
+Tordan3312: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: alshota (small blind) folded before Flop
+Seat 8: Tordan3312 (big blind) collected (440)
+
+
+
+PokerStars Hand #255062153937: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/27 19:09:29 WET [2025/02/27 14:09:29 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 1: Nohch1 (10102 in chips) 
+Seat 2: The Yasuo (1239 in chips) 
+Seat 3: Novikov_PM (1987 in chips) 
+Seat 4: jannepekka (2346 in chips) 
+Seat 5: Ramanenko (9638 in chips) 
+Seat 6: Kevin12345Mc (7331 in chips) 
+Seat 7: alshota (6004 in chips) 
+Seat 8: Tordan3312 (14846 in chips) 
+Nohch1: posts the ante 30
+The Yasuo: posts the ante 30
+Novikov_PM: posts the ante 30
+jannepekka: posts the ante 30
+Ramanenko: posts the ante 30
+Kevin12345Mc: posts the ante 30
+alshota: posts the ante 30
+Tordan3312: posts the ante 30
+Tordan3312: posts small blind 100
+Nohch1: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh Qs]
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: raises 200 to 400
+Kevin12345Mc: calls 400
+alshota: folds 
+Tordan3312: folds 
+Nohch1: folds 
+*** FLOP *** [4d 6h Js]
+Ramanenko: checks 
+Kevin12345Mc: checks 
+*** TURN *** [4d 6h Js] [9s]
+Ramanenko: bets 442
+Kevin12345Mc: calls 442
+*** RIVER *** [4d 6h Js 9s] [3c]
+Ramanenko: bets 1282
+Kevin12345Mc: folds 
+Uncalled bet (1282) returned to Ramanenko
+Ramanenko collected 2224 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 2224 | Rake 0 
+Board [4d 6h Js 9s 3c]
+Seat 1: Nohch1 (big blind) folded before Flop
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko collected (2224)
+Seat 6: Kevin12345Mc folded on the River
+Seat 7: alshota (button) folded before Flop (didn't bet)
+Seat 8: Tordan3312 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255062178867: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/27 19:11:03 WET [2025/02/27 14:11:03 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: Nohch1 (9872 in chips) 
+Seat 2: The Yasuo (1209 in chips) 
+Seat 3: Novikov_PM (1957 in chips) 
+Seat 4: jannepekka (2316 in chips) 
+Seat 5: Ramanenko (10990 in chips) 
+Seat 6: Kevin12345Mc (6459 in chips) 
+Seat 7: alshota (5974 in chips) 
+Seat 8: Tordan3312 (14716 in chips) 
+Nohch1: posts the ante 30
+The Yasuo: posts the ante 30
+Novikov_PM: posts the ante 30
+jannepekka: posts the ante 30
+Ramanenko: posts the ante 30
+Kevin12345Mc: posts the ante 30
+alshota: posts the ante 30
+Tordan3312: posts the ante 30
+Nohch1: posts small blind 100
+The Yasuo: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s Ks]
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: raises 220 to 420
+alshota: raises 608 to 1028
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Kevin12345Mc: calls 608
+*** FLOP *** [3s 4d 5c]
+Kevin12345Mc: checks 
+alshota: checks 
+*** TURN *** [3s 4d 5c] [5h]
+Kevin12345Mc: checks 
+alshota: checks 
+*** RIVER *** [3s 4d 5c 5h] [8d]
+Kevin12345Mc: bets 2596
+alshota: calls 2596
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9s Ks] (a pair of Fives)
+alshota: shows [As Kc] (a pair of Fives - Ace kicker)
+alshota collected 7788 from pot
+*** SUMMARY ***
+Total pot 7788 | Rake 0 
+Board [3s 4d 5c 5h 8d]
+Seat 1: Nohch1 (small blind) folded before Flop
+Seat 2: The Yasuo (big blind) folded before Flop
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc showed [9s Ks] and lost with a pair of Fives
+Seat 7: alshota showed [As Kc] and won (7788) with a pair of Fives
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062206106: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XI (100/200) - 2025/02/27 19:12:45 WET [2025/02/27 14:12:45 ET]
+Table '3861391558 2' 8-max Seat #1 is the button
+Seat 1: Nohch1 (9742 in chips) 
+Seat 2: The Yasuo (979 in chips) 
+Seat 3: Novikov_PM (1927 in chips) 
+Seat 4: jannepekka (2286 in chips) 
+Seat 5: Ramanenko (10960 in chips) 
+Seat 6: Kevin12345Mc (2805 in chips) 
+Seat 7: alshota (10108 in chips) 
+Seat 8: Tordan3312 (14686 in chips) 
+Nohch1: posts the ante 30
+The Yasuo: posts the ante 30
+Novikov_PM: posts the ante 30
+jannepekka: posts the ante 30
+Ramanenko: posts the ante 30
+Kevin12345Mc: posts the ante 30
+alshota: posts the ante 30
+Tordan3312: posts the ante 30
+The Yasuo: posts small blind 100
+Novikov_PM: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 6d]
+jannepekka: folds 
+Ramanenko: raises 200 to 400
+Kevin12345Mc: folds 
+alshota: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: raises 1497 to 1897 and is all-in
+Ramanenko: calls 1497
+*** FLOP *** [7h Qc 4s]
+*** TURN *** [7h Qc 4s] [5h]
+*** RIVER *** [7h Qc 4s 5h] [Qh]
+*** SHOW DOWN ***
+Novikov_PM: shows [Td Ts] (two pair, Queens and Tens)
+Ramanenko: shows [Jd Ks] (a pair of Queens)
+Novikov_PM collected 4134 from pot
+*** SUMMARY ***
+Total pot 4134 | Rake 0 
+Board [7h Qc 4s 5h Qh]
+Seat 1: Nohch1 (button) folded before Flop (didn't bet)
+Seat 2: The Yasuo (small blind) folded before Flop
+Seat 3: Novikov_PM (big blind) showed [Td Ts] and won (4134) with two pair, Queens and Tens
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko showed [Jd Ks] and lost with a pair of Queens
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062217676: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/27 19:13:28 WET [2025/02/27 14:13:28 ET]
+Table '3861391558 2' 8-max Seat #2 is the button
+Seat 1: Nohch1 (9712 in chips) 
+Seat 2: The Yasuo (849 in chips) 
+Seat 3: Novikov_PM (4134 in chips) 
+Seat 4: jannepekka (2256 in chips) 
+Seat 5: Ramanenko (9033 in chips) 
+Seat 6: Kevin12345Mc (2775 in chips) 
+Seat 7: alshota (10078 in chips) 
+Seat 8: Tordan3312 (14656 in chips) 
+Nohch1: posts the ante 36
+The Yasuo: posts the ante 36
+Novikov_PM: posts the ante 36
+jannepekka: posts the ante 36
+Ramanenko: posts the ante 36
+Kevin12345Mc: posts the ante 36
+alshota: posts the ante 36
+Tordan3312: posts the ante 36
+Novikov_PM: posts small blind 125
+jannepekka: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 2h]
+Ramanenko: folds 
+Kevin12345Mc: folds 
+alshota: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: raises 563 to 813 and is all-in
+Novikov_PM: folds 
+jannepekka: calls 563
+*** FLOP *** [9c Kd 3h]
+*** TURN *** [9c Kd 3h] [3s]
+*** RIVER *** [9c Kd 3h 3s] [3c]
+*** SHOW DOWN ***
+jannepekka: shows [4h 9h] (a full house, Threes full of Nines)
+The Yasuo: shows [9s Qc] (a full house, Threes full of Nines)
+jannepekka collected 1020 from pot
+The Yasuo collected 1019 from pot
+*** SUMMARY ***
+Total pot 2039 | Rake 0 
+Board [9c Kd 3h 3s 3c]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo (button) showed [9s Qc] and won (1019) with a full house, Threes full of Nines
+Seat 3: Novikov_PM (small blind) folded before Flop
+Seat 4: jannepekka (big blind) showed [4h 9h] and won (1020) with a full house, Threes full of Nines
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062226091: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/27 19:14:00 WET [2025/02/27 14:14:00 ET]
+Table '3861391558 2' 8-max Seat #3 is the button
+Seat 1: Nohch1 (9676 in chips) 
+Seat 2: The Yasuo (1019 in chips) 
+Seat 3: Novikov_PM (3973 in chips) 
+Seat 4: jannepekka (2427 in chips) 
+Seat 5: Ramanenko (8997 in chips) 
+Seat 6: Kevin12345Mc (2739 in chips) 
+Seat 7: alshota (10042 in chips) 
+Seat 8: Tordan3312 (14620 in chips) 
+Nohch1: posts the ante 36
+The Yasuo: posts the ante 36
+Novikov_PM: posts the ante 36
+jannepekka: posts the ante 36
+Ramanenko: posts the ante 36
+Kevin12345Mc: posts the ante 36
+alshota: posts the ante 36
+Tordan3312: posts the ante 36
+jannepekka: posts small blind 125
+Ramanenko: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 9h]
+Kevin12345Mc: folds 
+alshota: raises 250 to 500
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: calls 250
+*** FLOP *** [6s 6c 5s]
+Ramanenko: bets 470
+alshota: calls 470
+*** TURN *** [6s 6c 5s] [8d]
+Ramanenko: bets 1317
+alshota: calls 1317
+*** RIVER *** [6s 6c 5s 8d] [Tc]
+Ramanenko: checks 
+alshota: checks 
+*** SHOW DOWN ***
+Ramanenko: shows [7c 2c] (a pair of Sixes)
+alshota: shows [9c Ac] (a pair of Sixes - Ace kicker)
+alshota collected 4987 from pot
+*** SUMMARY ***
+Total pot 4987 | Rake 0 
+Board [6s 6c 5s 8d Tc]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM (button) folded before Flop (didn't bet)
+Seat 4: jannepekka (small blind) folded before Flop
+Seat 5: Ramanenko (big blind) showed [7c 2c] and lost with a pair of Sixes
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota showed [9c Ac] and won (4987) with a pair of Sixes
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062248704: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/27 19:15:24 WET [2025/02/27 14:15:24 ET]
+Table '3861391558 2' 8-max Seat #4 is the button
+Seat 1: Nohch1 (9640 in chips) 
+Seat 2: The Yasuo (983 in chips) 
+Seat 3: Novikov_PM (3937 in chips) 
+Seat 4: jannepekka (2266 in chips) 
+Seat 5: Ramanenko (6674 in chips) 
+Seat 6: Kevin12345Mc (2703 in chips) 
+Seat 7: alshota (12706 in chips) 
+Seat 8: Tordan3312 (14584 in chips) 
+Nohch1: posts the ante 36
+The Yasuo: posts the ante 36
+Novikov_PM: posts the ante 36
+jannepekka: posts the ante 36
+Ramanenko: posts the ante 36
+Kevin12345Mc: posts the ante 36
+alshota: posts the ante 36
+Tordan3312: posts the ante 36
+Ramanenko: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 6h]
+alshota: folds 
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: raises 697 to 947 and is all-in
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: calls 697
+*** FLOP *** [Tc 7h Th]
+*** TURN *** [Tc 7h Th] [Ts]
+*** RIVER *** [Tc 7h Th Ts] [Js]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [7s 6h] (a full house, Tens full of Sevens)
+The Yasuo: shows [Jd 9c] (a full house, Tens full of Jacks)
+The Yasuo collected 2307 from pot
+*** SUMMARY ***
+Total pot 2307 | Rake 0 
+Board [Tc 7h Th Ts Js]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo showed [Jd 9c] and won (2307) with a full house, Tens full of Jacks
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka (button) folded before Flop (didn't bet)
+Seat 5: Ramanenko (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) showed [7s 6h] and lost with a full house, Tens full of Sevens
+Seat 7: alshota folded before Flop (didn't bet)
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062262724: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/27 19:16:16 WET [2025/02/27 14:16:16 ET]
+Table '3861391558 2' 8-max Seat #5 is the button
+Seat 1: Nohch1 (9604 in chips) 
+Seat 2: The Yasuo (2307 in chips) 
+Seat 3: Novikov_PM (3901 in chips) 
+Seat 4: jannepekka (2230 in chips) 
+Seat 5: Ramanenko (6513 in chips) 
+Seat 6: Kevin12345Mc (1720 in chips) 
+Seat 7: alshota (12670 in chips) 
+Seat 8: Tordan3312 (14548 in chips) 
+Nohch1: posts the ante 36
+The Yasuo: posts the ante 36
+Novikov_PM: posts the ante 36
+jannepekka: posts the ante 36
+Ramanenko: posts the ante 36
+Kevin12345Mc: posts the ante 36
+alshota: posts the ante 36
+Tordan3312: posts the ante 36
+Kevin12345Mc: posts small blind 125
+alshota: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 7c]
+Tordan3312: folds 
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: raises 250 to 500
+Kevin12345Mc: folds 
+alshota: calls 250
+*** FLOP *** [4s 7h 9h]
+alshota: checks 
+Ramanenko: bets 470
+alshota: raises 640 to 1110
+Ramanenko: calls 640
+*** TURN *** [4s 7h 9h] [6h]
+alshota: checks 
+Ramanenko: checks 
+*** RIVER *** [4s 7h 9h 6h] [Qd]
+alshota: checks 
+Ramanenko: bets 4867 and is all-in
+alshota: folds 
+Uncalled bet (4867) returned to Ramanenko
+Ramanenko collected 3633 from pot
+Ramanenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 3633 | Rake 0 
+Board [4s 7h 9h 6h Qd]
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko (button) collected (3633)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: alshota (big blind) folded on the River
+Seat 8: Tordan3312 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062295503: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/27 19:18:18 WET [2025/02/27 14:18:18 ET]
+Table '3861391558 2' 8-max Seat #6 is the button
+Seat 1: Nohch1 (9568 in chips) 
+Seat 2: The Yasuo (2271 in chips) 
+Seat 3: Novikov_PM (3865 in chips) 
+Seat 4: jannepekka (2194 in chips) 
+Seat 5: Ramanenko (8500 in chips) 
+Seat 6: Kevin12345Mc (1559 in chips) 
+Seat 7: alshota (11024 in chips) 
+Seat 8: Tordan3312 (14512 in chips) 
+Nohch1: posts the ante 36
+The Yasuo: posts the ante 36
+Novikov_PM: posts the ante 36
+jannepekka: posts the ante 36
+Ramanenko: posts the ante 36
+Kevin12345Mc: posts the ante 36
+alshota: posts the ante 36
+Tordan3312: posts the ante 36
+alshota: posts small blind 125
+Tordan3312: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 5h]
+Nohch1: folds 
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+alshota: folds 
+Uncalled bet (125) returned to Tordan3312
+Tordan3312 collected 538 from pot
+Tordan3312: doesn't show hand 
+*** SUMMARY ***
+Total pot 538 | Rake 0 
+Seat 1: Nohch1 folded before Flop (didn't bet)
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: alshota (small blind) folded before Flop
+Seat 8: Tordan3312 (big blind) collected (538)
+
+
+
+PokerStars Hand #255062304286: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/27 19:18:50 WET [2025/02/27 14:18:50 ET]
+Table '3861391558 2' 8-max Seat #7 is the button
+Seat 1: Nohch1 (9532 in chips) 
+Seat 2: The Yasuo (2235 in chips) 
+Seat 3: Novikov_PM (3829 in chips) 
+Seat 4: jannepekka (2158 in chips) 
+Seat 5: Ramanenko (8464 in chips) 
+Seat 6: Kevin12345Mc (1523 in chips) 
+Seat 7: alshota (10863 in chips) 
+Seat 8: Tordan3312 (14889 in chips) 
+Nohch1: posts the ante 36
+The Yasuo: posts the ante 36
+Novikov_PM: posts the ante 36
+jannepekka: posts the ante 36
+Ramanenko: posts the ante 36
+Kevin12345Mc: posts the ante 36
+alshota: posts the ante 36
+Tordan3312: posts the ante 36
+Tordan3312: posts small blind 125
+Nohch1: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Jd]
+The Yasuo: folds 
+Novikov_PM: folds 
+jannepekka: raises 1872 to 2122 and is all-in
+Ramanenko: folds 
+Kevin12345Mc: folds 
+alshota: calls 2122
+Tordan3312: folds 
+Nohch1: folds 
+*** FLOP *** [9d 4h Jh]
+*** TURN *** [9d 4h Jh] [9c]
+*** RIVER *** [9d 4h Jh 9c] [8h]
+*** SHOW DOWN ***
+jannepekka: shows [As Kc] (a pair of Nines)
+alshota: shows [Tc Th] (two pair, Tens and Nines)
+alshota collected 4907 from pot
+jannepekka finished the tournament in 1848th place
+*** SUMMARY ***
+Total pot 4907 | Rake 0 
+Board [9d 4h Jh 9c 8h]
+Seat 1: Nohch1 (big blind) folded before Flop
+Seat 2: The Yasuo folded before Flop (didn't bet)
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 4: jannepekka showed [As Kc] and lost with a pair of Nines
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota (button) showed [Tc Th] and won (4907) with two pair, Tens and Nines
+Seat 8: Tordan3312 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255062311754: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/27 19:19:18 WET [2025/02/27 14:19:18 ET]
+Table '3861391558 2' 8-max Seat #8 is the button
+Seat 1: Nohch1 (9246 in chips) 
+Seat 2: The Yasuo (2199 in chips) 
+Seat 3: Novikov_PM (3793 in chips) 
+Seat 5: Ramanenko (8428 in chips) 
+Seat 6: Kevin12345Mc (1487 in chips) 
+Seat 7: alshota (13612 in chips) 
+Seat 8: Tordan3312 (14728 in chips) 
+Nohch1: posts the ante 36
+The Yasuo: posts the ante 36
+Novikov_PM: posts the ante 36
+Ramanenko: posts the ante 36
+Kevin12345Mc: posts the ante 36
+alshota: posts the ante 36
+Tordan3312: posts the ante 36
+Nohch1: posts small blind 125
+The Yasuo: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 2s]
+Novikov_PM: folds 
+Ramanenko: folds 
+Kevin12345Mc: folds 
+f18ter is disconnected 
+alshota: folds 
+Tordan3312: folds 
+Nohch1: calls 125
+The Yasuo: raises 1913 to 2163 and is all-in
+Nohch1: calls 1913
+*** FLOP *** [Kc 3h 4s]
+*** TURN *** [Kc 3h 4s] [7d]
+*** RIVER *** [Kc 3h 4s 7d] [5c]
+*** SHOW DOWN ***
+Nohch1: shows [Ad Qd] (high card Ace)
+The Yasuo: shows [Qs Jc] (high card King)
+Nohch1 collected 4578 from pot
+The Yasuo finished the tournament in 1825th place
+*** SUMMARY ***
+Total pot 4578 | Rake 0 
+Board [Kc 3h 4s 7d 5c]
+Seat 1: Nohch1 (small blind) showed [Ad Qd] and won (4578) with high card Ace
+Seat 2: The Yasuo (big blind) showed [Qs Jc] and lost with high card King
+Seat 3: Novikov_PM folded before Flop (didn't bet)
+Seat 5: Ramanenko folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alshota folded before Flop (didn't bet)
+Seat 8: Tordan3312 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255062322821: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/27 19:19:59 WET [2025/02/27 14:19:59 ET]
+Table '3861391558 190' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (1451 in chips) 
+Seat 2: ashN10 (6271 in chips) 
+Seat 3: georgeauggusto (22433 in chips) 
+Seat 4: Skruvstäd (16993 in chips) 
+Seat 5: radulika (13104 in chips) 
+Seat 6: 22cosmos (10327 in chips) out of hand (moved from another table into small blind)
+Seat 7: ant1won (6213 in chips) 
+Seat 8: Dududibre (6528 in chips) 
+22cosmos will be allowed to play after the button
+Kevin12345Mc: posts the ante 36
+ashN10: posts the ante 36
+georgeauggusto: posts the ante 36
+Skruvstäd: posts the ante 36
+radulika: posts the ante 36
+ant1won: posts the ante 36
+Dududibre: posts the ante 36
+ant1won: posts small blind 125
+Dududibre: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Kc]
+Kevin12345Mc: raises 1165 to 1415 and is all-in
+ashN10: folds 
+georgeauggusto: folds 
+Skruvstäd: folds 
+radulika: folds 
+ant1won: folds 
+Dududibre: folds 
+Uncalled bet (1165) returned to Kevin12345Mc
+Kevin12345Mc collected 877 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 877 | Rake 0 
+Seat 1: Kevin12345Mc collected (877)
+Seat 2: ashN10 folded before Flop (didn't bet)
+Seat 3: georgeauggusto folded before Flop (didn't bet)
+Seat 4: Skruvstäd folded before Flop (didn't bet)
+Seat 5: radulika (button) folded before Flop (didn't bet)
+Seat 7: ant1won (small blind) folded before Flop
+Seat 8: Dududibre (big blind) folded before Flop
+
+
+
+PokerStars Hand #255062331411: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XII (125/250) - 2025/02/27 19:20:31 WET [2025/02/27 14:20:31 ET]
+Table '3861391558 190' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (2042 in chips) 
+Seat 2: ashN10 (6235 in chips) 
+Seat 3: georgeauggusto (22397 in chips) 
+Seat 4: Skruvstäd (16957 in chips) 
+Seat 5: radulika (13068 in chips) 
+Seat 6: 22cosmos (10327 in chips) 
+Seat 7: ant1won (6052 in chips) 
+Seat 8: Dududibre (6242 in chips) 
+Kevin12345Mc: posts the ante 36
+ashN10: posts the ante 36
+georgeauggusto: posts the ante 36
+Skruvstäd: posts the ante 36
+radulika: posts the ante 36
+22cosmos: posts the ante 36
+ant1won: posts the ante 36
+Dududibre: posts the ante 36
+Dududibre: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 2c]
+ashN10: folds 
+georgeauggusto: folds 
+Skruvstäd: folds 
+radulika: raises 250 to 500
+22cosmos: folds 
+ant1won: calls 500
+Dududibre: folds 
+Kevin12345Mc: folds 
+*** FLOP *** [4h 9s Qs]
+radulika: bets 250
+ant1won: calls 250
+*** TURN *** [4h 9s Qs] [Ks]
+radulika: bets 750
+ant1won: raises 3663 to 4413
+radulika: folds 
+Uncalled bet (3663) returned to ant1won
+ant1won collected 3663 from pot
+*** SUMMARY ***
+Total pot 3663 | Rake 0 
+Board [4h 9s Qs Ks]
+Seat 1: Kevin12345Mc (big blind) folded before Flop
+Seat 2: ashN10 folded before Flop (didn't bet)
+Seat 3: georgeauggusto folded before Flop (didn't bet)
+Seat 4: Skruvstäd folded before Flop (didn't bet)
+Seat 5: radulika folded on the Turn
+Seat 6: 22cosmos folded before Flop (didn't bet)
+Seat 7: ant1won (button) collected (3663)
+Seat 8: Dududibre (small blind) folded before Flop
+
+
+
+PokerStars Hand #255062351471: Tournament #3861391558, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level XIII (150/300) - 2025/02/27 19:21:45 WET [2025/02/27 14:21:45 ET]
+Table '3861391558 190' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (1756 in chips) 
+Seat 2: ashN10 (6199 in chips) 
+Seat 3: georgeauggusto (22361 in chips) 
+Seat 4: Skruvstäd (16921 in chips) 
+Seat 5: radulika (11532 in chips) 
+Seat 6: 22cosmos (10291 in chips) 
+Seat 7: ant1won (8179 in chips) 
+Seat 8: Dududibre (6081 in chips) 
+Kevin12345Mc: posts the ante 42
+ashN10: posts the ante 42
+georgeauggusto: posts the ante 42
+Skruvstäd: posts the ante 42
+radulika: posts the ante 42
+22cosmos: posts the ante 42
+ant1won: posts the ante 42
+Dududibre: posts the ante 42
+Kevin12345Mc: posts small blind 150
+ashN10: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d Qc]
+georgeauggusto: folds 
+Skruvstäd: folds 
+radulika: folds 
+22cosmos: folds 
+ant1won: folds 
+Dududibre: raises 300 to 600
+Kevin12345Mc: raises 1114 to 1714 and is all-in
+ashN10: folds 
+Dududibre: calls 1114
+*** FLOP *** [Td 3h As]
+*** TURN *** [Td 3h As] [8c]
+*** RIVER *** [Td 3h As 8c] [Th]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9d Qc] (a pair of Tens)
+Dududibre: shows [Qd 8h] (two pair, Tens and Eights)
+Dududibre collected 4064 from pot
+Kevin12345Mc finished the tournament in 1732nd place
+*** SUMMARY ***
+Total pot 4064 | Rake 0 
+Board [Td 3h As 8c Th]
+Seat 1: Kevin12345Mc (small blind) showed [9d Qc] and lost with a pair of Tens
+Seat 2: ashN10 (big blind) folded before Flop
+Seat 3: georgeauggusto folded before Flop (didn't bet)
+Seat 4: Skruvstäd folded before Flop (didn't bet)
+Seat 5: radulika folded before Flop (didn't bet)
+Seat 6: 22cosmos folded before Flop (didn't bet)
+Seat 7: ant1won folded before Flop (didn't bet)
+Seat 8: Dududibre (button) showed [Qd 8h] and won (4064) with two pair, Tens and Eights
+
+
+

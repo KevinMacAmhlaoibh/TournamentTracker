@@ -1,0 +1,870 @@
+﻿PokerStars Hand #255241935543: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:36:25 WET [2025/03/11 13:36:25 ET]
+Table '3866282086 143' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (25000 in chips, $2.45 bounty) 
+Seat 2: lilywen (21180 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (34450 in chips, $2.45 bounty) 
+Seat 4: Jodakin (24910 in chips, $2.45 bounty) 
+Seat 5: hocheri (89099 in chips, $4.89 bounty) 
+Seat 6: borri30 (21930 in chips, $2.45 bounty) 
+Seat 7: Instant Karma51 (104800 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (40385 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+gounaris73: posts small blind 350
+Kevin12345Mc: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h 7c]
+lilywen: folds 
+Xelarain: raises 840 to 1540
+Jodakin: folds 
+hocheri: folds 
+borri30: folds 
+Instant Karma51: folds 
+gounaris73: calls 1190
+Kevin12345Mc: folds 
+*** FLOP *** [Kh 7d 6h]
+borri30 is disconnected 
+gounaris73: checks 
+Xelarain: checks 
+*** TURN *** [Kh 7d 6h] [Kc]
+gounaris73: bets 700
+Xelarain: folds 
+Uncalled bet (700) returned to gounaris73
+gounaris73 collected 4500 from pot
+*** SUMMARY ***
+Total pot 4500 | Rake 0 
+Board [Kh 7d 6h Kc]
+Seat 1: Kevin12345Mc (big blind) folded before Flop
+Seat 2: lilywen folded before Flop (didn't bet)
+Seat 3: Xelarain folded on the Turn
+Seat 4: Jodakin folded before Flop (didn't bet)
+Seat 5: hocheri folded before Flop (didn't bet)
+Seat 6: borri30 folded before Flop (didn't bet)
+Seat 7: Instant Karma51 (button) folded before Flop (didn't bet)
+Seat 8: gounaris73 (small blind) collected (4500)
+
+
+
+PokerStars Hand #255241939496: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:36:50 WET [2025/03/11 13:36:50 ET]
+Table '3866282086 143' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (24210 in chips, $2.45 bounty) 
+Seat 2: lilywen (21090 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (32820 in chips, $2.45 bounty) 
+Seat 4: Jodakin (24820 in chips, $2.45 bounty) 
+Seat 5: hocheri (89009 in chips, $4.89 bounty) 
+Seat 6: borri30 (21840 in chips, $2.45 bounty) 
+Seat 7: Instant Karma51 (104710 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (43255 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+Kevin12345Mc: posts small blind 350
+lilywen: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h Ac]
+Xelarain: folds 
+Jodakin: raises 1050 to 1750
+hocheri: folds 
+borri30 has timed out while disconnected
+borri30: folds 
+borri30 is sitting out
+Instant Karma51: calls 1750
+gounaris73: folds 
+Kevin12345Mc: folds 
+lilywen: folds 
+*** FLOP *** [8h 5h Ah]
+Jodakin: bets 2100
+Instant Karma51: folds 
+Uncalled bet (2100) returned to Jodakin
+Jodakin collected 5270 from pot
+*** SUMMARY ***
+Total pot 5270 | Rake 0 
+Board [8h 5h Ah]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: lilywen (big blind) folded before Flop
+Seat 3: Xelarain folded before Flop (didn't bet)
+Seat 4: Jodakin collected (5270)
+Seat 5: hocheri folded before Flop (didn't bet)
+Seat 6: borri30 folded before Flop (didn't bet)
+Seat 7: Instant Karma51 folded on the Flop
+Seat 8: gounaris73 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241944531: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:37:24 WET [2025/03/11 13:37:24 ET]
+Table '3866282086 143' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (23770 in chips, $2.45 bounty) 
+Seat 2: lilywen (20300 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (32730 in chips, $2.45 bounty) 
+Seat 4: Jodakin (28250 in chips, $2.45 bounty) 
+Seat 5: hocheri (88919 in chips, $4.89 bounty) 
+Seat 6: borri30 (21750 in chips, $2.45 bounty) is sitting out
+Seat 7: Instant Karma51 (102870 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (43165 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+lilywen: posts small blind 350
+Xelarain: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 5s]
+Jodakin: folds 
+hocheri: folds 
+borri30: folds 
+Instant Karma51: folds 
+gounaris73: folds 
+Kevin12345Mc: folds 
+lilywen: folds 
+Uncalled bet (350) returned to Xelarain
+Xelarain collected 1420 from pot
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: lilywen (small blind) folded before Flop
+Seat 3: Xelarain (big blind) collected (1420)
+Seat 4: Jodakin folded before Flop (didn't bet)
+Seat 5: hocheri folded before Flop (didn't bet)
+Seat 6: borri30 folded before Flop (didn't bet)
+Seat 7: Instant Karma51 folded before Flop (didn't bet)
+Seat 8: gounaris73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241945778: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:37:31 WET [2025/03/11 13:37:31 ET]
+Table '3866282086 143' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (23680 in chips, $2.45 bounty) 
+Seat 2: lilywen (19860 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (33710 in chips, $2.45 bounty) 
+Seat 4: Jodakin (28160 in chips, $2.45 bounty) 
+Seat 5: hocheri (88829 in chips, $4.89 bounty) 
+Seat 6: borri30 (21660 in chips, $2.45 bounty) is sitting out
+Seat 7: Instant Karma51 (102780 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (43075 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+Xelarain: posts small blind 350
+Jodakin: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 5h]
+hocheri: folds 
+borri30: folds 
+Instant Karma51: folds 
+gounaris73: folds 
+Kevin12345Mc: folds 
+lilywen: folds 
+Xelarain: raises 840 to 1540
+Jodakin: calls 840
+*** FLOP *** [Kh 4h Ts]
+Xelarain: checks 
+Jodakin: checks 
+*** TURN *** [Kh 4h Ts] [8d]
+Xelarain: bets 1400
+Jodakin: folds 
+Uncalled bet (1400) returned to Xelarain
+Xelarain collected 3800 from pot
+*** SUMMARY ***
+Total pot 3800 | Rake 0 
+Board [Kh 4h Ts 8d]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: lilywen (button) folded before Flop (didn't bet)
+Seat 3: Xelarain (small blind) collected (3800)
+Seat 4: Jodakin (big blind) folded on the Turn
+Seat 5: hocheri folded before Flop (didn't bet)
+Seat 6: borri30 folded before Flop (didn't bet)
+Seat 7: Instant Karma51 folded before Flop (didn't bet)
+Seat 8: gounaris73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241949505: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:37:56 WET [2025/03/11 13:37:56 ET]
+Table '3866282086 143' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (23590 in chips, $2.45 bounty) 
+Seat 2: lilywen (19770 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (35880 in chips, $2.45 bounty) 
+Seat 4: Jodakin (26530 in chips, $2.45 bounty) 
+Seat 5: hocheri (88739 in chips, $4.89 bounty) 
+Seat 6: borri30 (21570 in chips, $2.45 bounty) is sitting out
+Seat 7: Instant Karma51 (102690 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (42985 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+Jodakin: posts small blind 350
+hocheri: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 7h]
+borri30: folds 
+Instant Karma51: folds 
+gounaris73: folds 
+Kevin12345Mc: folds 
+lilywen: folds 
+Xelarain: folds 
+Jodakin: folds 
+Uncalled bet (350) returned to hocheri
+hocheri collected 1420 from pot
+hocheri: doesn't show hand 
+*** SUMMARY ***
+Total pot 1420 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: lilywen folded before Flop (didn't bet)
+Seat 3: Xelarain (button) folded before Flop (didn't bet)
+Seat 4: Jodakin (small blind) folded before Flop
+Seat 5: hocheri (big blind) collected (1420)
+Seat 6: borri30 folded before Flop (didn't bet)
+Seat 7: Instant Karma51 folded before Flop (didn't bet)
+Seat 8: gounaris73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241950809: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:38:04 WET [2025/03/11 13:38:04 ET]
+Table '3866282086 143' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (23500 in chips, $2.45 bounty) 
+Seat 2: lilywen (19680 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (35790 in chips, $2.45 bounty) 
+Seat 4: Jodakin (26090 in chips, $2.45 bounty) 
+Seat 5: hocheri (89719 in chips, $4.89 bounty) 
+Seat 6: borri30 (21480 in chips, $2.45 bounty) is sitting out
+Seat 7: Instant Karma51 (102600 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (42895 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+hocheri: posts small blind 350
+borri30: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts Tc]
+Instant Karma51: folds 
+gounaris73: folds 
+Kevin12345Mc: raises 840 to 1540
+lilywen: folds 
+Xelarain: calls 1540
+Jodakin: folds 
+hocheri: folds 
+borri30: folds 
+*** FLOP *** [9d Kc Ad]
+Kevin12345Mc: checks 
+Xelarain: bets 2100
+Kevin12345Mc: calls 2100
+*** TURN *** [9d Kc Ad] [4s]
+Kevin12345Mc: checks 
+borri30 is disconnected 
+Xelarain: checks 
+*** RIVER *** [9d Kc Ad 4s] [5s]
+borri30 has returned
+Kevin12345Mc: checks 
+Xelarain: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ts Tc] (a pair of Tens)
+Xelarain: mucks hand 
+Kevin12345Mc collected 9050 from pot
+*** SUMMARY ***
+Total pot 9050 | Rake 0 
+Board [9d Kc Ad 4s 5s]
+Seat 1: Kevin12345Mc showed [Ts Tc] and won (9050) with a pair of Tens
+Seat 2: lilywen folded before Flop (didn't bet)
+Seat 3: Xelarain mucked [Jc Th]
+Seat 4: Jodakin (button) folded before Flop (didn't bet)
+Seat 5: hocheri (small blind) folded before Flop
+Seat 6: borri30 (big blind) folded before Flop
+Seat 7: Instant Karma51 folded before Flop (didn't bet)
+Seat 8: gounaris73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241956621: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:38:42 WET [2025/03/11 13:38:42 ET]
+Table '3866282086 143' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (28820 in chips, $2.45 bounty) 
+Seat 2: lilywen (19590 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (32060 in chips, $2.45 bounty) 
+Seat 4: Jodakin (26000 in chips, $2.45 bounty) 
+Seat 5: hocheri (89279 in chips, $4.89 bounty) 
+Seat 6: borri30 (20690 in chips, $2.45 bounty) 
+Seat 7: Instant Karma51 (102510 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (42805 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+borri30: posts small blind 350
+Instant Karma51: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 5h]
+gounaris73: calls 700
+Kevin12345Mc: folds 
+lilywen: folds 
+Xelarain: raises 840 to 1540
+Jodakin: folds 
+hocheri: folds 
+borri30: folds 
+Instant Karma51: calls 840
+gounaris73: calls 840
+*** FLOP *** [4d 6d Tc]
+Instant Karma51: checks 
+gounaris73: bets 5690
+Xelarain: calls 5690
+Instant Karma51: folds 
+*** TURN *** [4d 6d Tc] [9d]
+gounaris73: bets 35485 and is all-in
+Xelarain: folds 
+Uncalled bet (35485) returned to gounaris73
+gounaris73 collected 17070 from pot
+*** SUMMARY ***
+Total pot 17070 | Rake 0 
+Board [4d 6d Tc 9d]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: lilywen folded before Flop (didn't bet)
+Seat 3: Xelarain folded on the Turn
+Seat 4: Jodakin folded before Flop (didn't bet)
+Seat 5: hocheri (button) folded before Flop (didn't bet)
+Seat 6: borri30 (small blind) folded before Flop
+Seat 7: Instant Karma51 (big blind) folded on the Flop
+Seat 8: gounaris73 collected (17070)
+
+
+
+PokerStars Hand #255241963121: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:39:25 WET [2025/03/11 13:39:25 ET]
+Table '3866282086 143' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (28730 in chips, $2.45 bounty) 
+Seat 2: lilywen (19500 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (24740 in chips, $2.45 bounty) 
+Seat 4: Jodakin (25910 in chips, $2.45 bounty) 
+Seat 5: hocheri (89189 in chips, $4.89 bounty) 
+Seat 6: borri30 (20250 in chips, $2.45 bounty) 
+Seat 7: Instant Karma51 (100880 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (52555 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+Instant Karma51: posts small blind 350
+gounaris73: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 6h]
+Kevin12345Mc: folds 
+lilywen: folds 
+Xelarain: folds 
+Jodakin: folds 
+hocheri: calls 700
+borri30: folds 
+Instant Karma51: folds 
+gounaris73: checks 
+*** FLOP *** [Kh As 6d]
+gounaris73: checks 
+hocheri: bets 1647
+gounaris73: folds 
+Uncalled bet (1647) returned to hocheri
+hocheri collected 2470 from pot
+hocheri: doesn't show hand 
+*** SUMMARY ***
+Total pot 2470 | Rake 0 
+Board [Kh As 6d]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: lilywen folded before Flop (didn't bet)
+Seat 3: Xelarain folded before Flop (didn't bet)
+Seat 4: Jodakin folded before Flop (didn't bet)
+Seat 5: hocheri collected (2470)
+Seat 6: borri30 (button) folded before Flop (didn't bet)
+Seat 7: Instant Karma51 (small blind) folded before Flop
+Seat 8: gounaris73 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255241966016: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:39:44 WET [2025/03/11 13:39:44 ET]
+Table '3866282086 143' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (28640 in chips, $2.45 bounty) 
+Seat 2: lilywen (19410 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (24650 in chips, $2.45 bounty) 
+Seat 4: Jodakin (25820 in chips, $2.45 bounty) 
+Seat 5: hocheri (90869 in chips, $4.89 bounty) 
+Seat 6: borri30 (20160 in chips, $2.45 bounty) 
+Seat 7: Instant Karma51 (100440 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (51765 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+gounaris73: posts small blind 350
+Kevin12345Mc: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 6s]
+lilywen: folds 
+Xelarain: folds 
+Jodakin: folds 
+hocheri: calls 700
+borri30: folds 
+Instant Karma51: folds 
+gounaris73: calls 350
+Kevin12345Mc: checks 
+*** FLOP *** [7s 2s 3s]
+gounaris73: checks 
+Kevin12345Mc: checks 
+hocheri: checks 
+*** TURN *** [7s 2s 3s] [Ad]
+gounaris73: checks 
+Kevin12345Mc: bets 1861
+hocheri: folds 
+gounaris73: folds 
+Uncalled bet (1861) returned to Kevin12345Mc
+Kevin12345Mc collected 2820 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2820 | Rake 0 
+Board [7s 2s 3s Ad]
+Seat 1: Kevin12345Mc (big blind) collected (2820)
+Seat 2: lilywen folded before Flop (didn't bet)
+Seat 3: Xelarain folded before Flop (didn't bet)
+Seat 4: Jodakin folded before Flop (didn't bet)
+Seat 5: hocheri folded on the Turn
+Seat 6: borri30 folded before Flop (didn't bet)
+Seat 7: Instant Karma51 (button) folded before Flop (didn't bet)
+Seat 8: gounaris73 (small blind) folded on the Turn
+
+
+
+PokerStars Hand #255241970079: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:40:12 WET [2025/03/11 13:40:12 ET]
+Table '3866282086 143' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (30670 in chips, $2.45 bounty) 
+Seat 2: lilywen (19320 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (24560 in chips, $2.45 bounty) 
+Seat 4: Jodakin (25730 in chips, $2.45 bounty) 
+Seat 5: hocheri (90079 in chips, $4.89 bounty) 
+Seat 6: borri30 (20070 in chips, $2.45 bounty) 
+Seat 7: Instant Karma51 (100350 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (50975 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+Kevin12345Mc: posts small blind 350
+lilywen: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 8c]
+Xelarain: folds 
+Jodakin: folds 
+hocheri: folds 
+borri30: calls 700
+Instant Karma51: folds 
+gounaris73: calls 700
+Kevin12345Mc: folds 
+lilywen: folds 
+*** FLOP *** [Jd Kd 5d]
+borri30: bets 700
+gounaris73: calls 700
+*** TURN *** [Jd Kd 5d] [Tc]
+borri30: bets 700
+gounaris73: raises 2100 to 2800
+borri30: calls 2100
+*** RIVER *** [Jd Kd 5d Tc] [6c]
+borri30: checks 
+gounaris73: bets 5085
+borri30: calls 5085
+*** SHOW DOWN ***
+gounaris73: shows [9d Qc] (a straight, Nine to King)
+borri30: mucks hand 
+gounaris73 collected 20340 from pot
+*** SUMMARY ***
+Total pot 20340 | Rake 0 
+Board [Jd Kd 5d Tc 6c]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: lilywen (big blind) folded before Flop
+Seat 3: Xelarain folded before Flop (didn't bet)
+Seat 4: Jodakin folded before Flop (didn't bet)
+Seat 5: hocheri folded before Flop (didn't bet)
+Seat 6: borri30 mucked [Kc 7c]
+Seat 7: Instant Karma51 folded before Flop (didn't bet)
+Seat 8: gounaris73 (button) showed [9d Qc] and won (20340) with a straight, Nine to King
+
+
+
+PokerStars Hand #255241976387: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:40:54 WET [2025/03/11 13:40:54 ET]
+Table '3866282086 143' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (30230 in chips, $2.45 bounty) 
+Seat 2: lilywen (18530 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (24470 in chips, $2.45 bounty) 
+Seat 4: Jodakin (25640 in chips, $2.45 bounty) 
+Seat 5: hocheri (89989 in chips, $4.89 bounty) 
+Seat 6: borri30 (10695 in chips, $2.45 bounty) 
+Seat 7: Instant Karma51 (100260 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (61940 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+lilywen: posts small blind 350
+Xelarain: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 8c]
+Jodakin: folds 
+hocheri: folds 
+borri30: folds 
+Instant Karma51: folds 
+gounaris73: raises 700 to 1400
+Kevin12345Mc: calls 1400
+lilywen: folds 
+Xelarain: calls 700
+*** FLOP *** [5h Jh 4c]
+Xelarain: checks 
+gounaris73: bets 1400
+Kevin12345Mc: folds 
+Xelarain: calls 1400
+*** TURN *** [5h Jh 4c] [3s]
+Xelarain: checks 
+gounaris73: bets 2800
+Xelarain: calls 2800
+*** RIVER *** [5h Jh 4c 3s] [Kh]
+Xelarain: bets 18780 and is all-in
+gounaris73: folds 
+Uncalled bet (18780) returned to Xelarain
+Xelarain collected 13670 from pot
+*** SUMMARY ***
+Total pot 13670 | Rake 0 
+Board [5h Jh 4c 3s Kh]
+Seat 1: Kevin12345Mc (button) folded on the Flop
+Seat 2: lilywen (small blind) folded before Flop
+Seat 3: Xelarain (big blind) collected (13670)
+Seat 4: Jodakin folded before Flop (didn't bet)
+Seat 5: hocheri folded before Flop (didn't bet)
+Seat 6: borri30 folded before Flop (didn't bet)
+Seat 7: Instant Karma51 folded before Flop (didn't bet)
+Seat 8: gounaris73 folded on the River
+
+
+
+PokerStars Hand #255241983869: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:41:44 WET [2025/03/11 13:41:44 ET]
+Table '3866282086 143' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (28740 in chips, $2.45 bounty) 
+Seat 2: lilywen (18090 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (32450 in chips, $2.45 bounty) 
+Seat 4: Jodakin (25550 in chips, $2.45 bounty) 
+Seat 5: hocheri (89899 in chips, $4.89 bounty) 
+Seat 6: borri30 (10605 in chips, $2.45 bounty) 
+Seat 7: Instant Karma51 (100170 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (56250 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Jodakin: posts the ante 90
+hocheri: posts the ante 90
+borri30: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+Xelarain: posts small blind 350
+Jodakin: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 3d]
+hocheri: folds 
+borri30: raises 9815 to 10515 and is all-in
+Instant Karma51: folds 
+gounaris73: folds 
+Kevin12345Mc: folds 
+lilywen: folds 
+Xelarain: raises 21845 to 32360 and is all-in
+Jodakin: calls 24760 and is all-in
+Uncalled bet (6900) returned to Xelarain
+*** FLOP *** [8d Qd Qh]
+*** TURN *** [8d Qd Qh] [5h]
+*** RIVER *** [8d Qd Qh 5h] [Tc]
+*** SHOW DOWN ***
+Xelarain: shows [Qs Td] (a full house, Queens full of Tens)
+Jodakin: shows [Ad Kd] (a pair of Queens)
+Xelarain collected 29890 from side pot
+borri30: shows [Ts Jc] (two pair, Queens and Tens)
+Xelarain collected 32265 from main pot
+Xelarain wins $1.23 for eliminating Jodakin and their own bounty increases by $1.22 to $3.67
+Xelarain wins $1.23 for eliminating borri30 and their own bounty increases by $1.22 to $4.89
+Jodakin finished the tournament
+borri30 finished the tournament
+Brachial/SMC is disconnected 
+*** SUMMARY ***
+Total pot 62155 Main pot 32265. Side pot 29890. | Rake 0 
+Board [8d Qd Qh 5h Tc]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: lilywen (button) folded before Flop (didn't bet)
+Seat 3: Xelarain (small blind) showed [Qs Td] and won (62155) with a full house, Queens full of Tens
+Seat 4: Jodakin (big blind) showed [Ad Kd] and lost with a pair of Queens
+Seat 5: hocheri folded before Flop (didn't bet)
+Seat 6: borri30 showed [Ts Jc] and lost with two pair, Queens and Tens
+Seat 7: Instant Karma51 folded before Flop (didn't bet)
+Seat 8: gounaris73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241988223: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:42:12 WET [2025/03/11 13:42:12 ET]
+Table '3866282086 143' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (28650 in chips, $2.45 bounty) 
+Seat 2: lilywen (18000 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (69055 in chips, $4.89 bounty) 
+Seat 4: Brachial/SMC (28104 in chips) out of hand (moved from another table into small blind)
+Seat 5: hocheri (89809 in chips, $4.89 bounty) 
+Seat 7: Instant Karma51 (100080 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (56160 in chips, $3.67 bounty) 
+Brachial/SMC will be allowed to play after the button
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+hocheri: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+hocheri: posts small blind 350
+Instant Karma51: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Ks]
+gounaris73: folds 
+D0NB0SS is disconnected 
+Kevin12345Mc: raises 840 to 1540
+lilywen: folds 
+Xelarain: calls 1540
+hocheri: folds 
+Instant Karma51: calls 840
+*** FLOP *** [Th Kc 3s]
+Instant Karma51: checks 
+Kevin12345Mc: bets 1818
+Xelarain: calls 1818
+Instant Karma51: folds 
+*** TURN *** [Th Kc 3s] [3c]
+Kevin12345Mc: bets 4573
+Xelarain: calls 4573
+*** RIVER *** [Th Kc 3s 3c] [2c]
+Kevin12345Mc: bets 20629 and is all-in
+Xelarain: folds 
+Uncalled bet (20629) returned to Kevin12345Mc
+Kevin12345Mc collected 18292 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 18292 | Rake 0 
+Board [Th Kc 3s 3c 2c]
+Seat 1: Kevin12345Mc collected (18292)
+Seat 2: lilywen folded before Flop (didn't bet)
+Seat 3: Xelarain (button) folded on the River
+Seat 5: hocheri (small blind) folded before Flop
+Seat 7: Instant Karma51 (big blind) folded on the Flop
+Seat 8: gounaris73 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241995107: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:42:58 WET [2025/03/11 13:42:58 ET]
+Table '3866282086 143' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (38921 in chips, $2.45 bounty) 
+Seat 2: lilywen (17910 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (61034 in chips, $4.89 bounty) 
+Seat 4: Brachial/SMC (28104 in chips, $2.45 bounty) 
+Seat 5: hocheri (89369 in chips, $4.89 bounty) 
+Seat 6: D0NB0SS (25000 in chips) out of hand (moved from another table into small blind)
+Seat 7: Instant Karma51 (98450 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (56070 in chips, $3.67 bounty) 
+D0NB0SS will be allowed to play after the button
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Brachial/SMC: posts the ante 90
+hocheri: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+Instant Karma51: posts small blind 350
+gounaris73: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 5s]
+Kevin12345Mc: folds 
+lilywen: folds 
+Xelarain: folds 
+Brachial/SMC: folds 
+hocheri: calls 700
+Instant Karma51: raises 2730 to 3430
+gounaris73: folds 
+hocheri: calls 2730
+*** FLOP *** [Th Js Ac]
+Instant Karma51: checks 
+hocheri: checks 
+*** TURN *** [Th Js Ac] [2s]
+Instant Karma51: checks 
+hocheri: checks 
+*** RIVER *** [Th Js Ac 2s] [As]
+Instant Karma51: checks 
+hocheri: checks 
+*** SHOW DOWN ***
+Instant Karma51: shows [6d 6c] (two pair, Aces and Sixes)
+hocheri: mucks hand 
+Instant Karma51 collected 8190 from pot
+*** SUMMARY ***
+Total pot 8190 | Rake 0 
+Board [Th Js Ac 2s As]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: lilywen folded before Flop (didn't bet)
+Seat 3: Xelarain folded before Flop (didn't bet)
+Seat 4: Brachial/SMC folded before Flop (didn't bet)
+Seat 5: hocheri (button) mucked [4h 5d]
+Seat 7: Instant Karma51 (small blind) showed [6d 6c] and won (8190) with two pair, Aces and Sixes
+Seat 8: gounaris73 (big blind) folded before Flop
+
+
+
+PokerStars Hand #255241999458: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/03/11 17:43:26 WET [2025/03/11 13:43:26 ET]
+Table '3866282086 143' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (38831 in chips, $2.45 bounty) 
+Seat 2: lilywen (17820 in chips, $2.45 bounty) is sitting out
+Seat 3: Xelarain (60944 in chips, $4.89 bounty) 
+Seat 4: Brachial/SMC (28014 in chips, $2.45 bounty) 
+Seat 5: hocheri (85849 in chips, $4.89 bounty) 
+Seat 6: D0NB0SS (25000 in chips, $2.45 bounty) 
+Seat 7: Instant Karma51 (103120 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (55280 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 90
+lilywen: posts the ante 90
+Xelarain: posts the ante 90
+Brachial/SMC: posts the ante 90
+hocheri: posts the ante 90
+D0NB0SS: posts the ante 90
+Instant Karma51: posts the ante 90
+gounaris73: posts the ante 90
+gounaris73: posts small blind 350
+Kevin12345Mc: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 7c]
+lilywen: folds 
+lilywen is disconnected 
+Xelarain: folds 
+Brachial/SMC: raises 840 to 1540
+lilywen has returned
+hocheri: folds 
+D0NB0SS: folds 
+Instant Karma51: folds 
+gounaris73: folds 
+Kevin12345Mc: calls 840
+*** FLOP *** [8d 6c 3h]
+Kevin12345Mc: checks 
+Brachial/SMC: checks 
+*** TURN *** [8d 6c 3h] [2c]
+Kevin12345Mc: checks 
+Brachial/SMC: checks 
+*** RIVER *** [8d 6c 3h 2c] [Jh]
+Kevin12345Mc: checks 
+Brachial/SMC: bets 1453
+Kevin12345Mc: folds 
+Uncalled bet (1453) returned to Brachial/SMC
+Brachial/SMC collected 4150 from pot
+*** SUMMARY ***
+Total pot 4150 | Rake 0 
+Board [8d 6c 3h 2c Jh]
+Seat 1: Kevin12345Mc (big blind) folded on the River
+Seat 2: lilywen folded before Flop (didn't bet)
+Seat 3: Xelarain folded before Flop (didn't bet)
+Seat 4: Brachial/SMC collected (4150)
+Seat 5: hocheri folded before Flop (didn't bet)
+Seat 6: D0NB0SS folded before Flop (didn't bet)
+Seat 7: Instant Karma51 (button) folded before Flop (didn't bet)
+Seat 8: gounaris73 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255242007523: Tournament #3866282086, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/03/11 17:44:17 WET [2025/03/11 13:44:17 ET]
+Table '3866282086 143' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (37201 in chips, $2.45 bounty) 
+Seat 2: lilywen (17730 in chips, $2.45 bounty) 
+Seat 3: Xelarain (60854 in chips, $4.89 bounty) 
+Seat 4: Brachial/SMC (30534 in chips, $2.45 bounty) 
+Seat 5: hocheri (85759 in chips, $4.89 bounty) 
+Seat 6: D0NB0SS (24910 in chips, $2.45 bounty) 
+Seat 7: Instant Karma51 (103030 in chips, $5.50 bounty) 
+Seat 8: gounaris73 (54840 in chips, $3.67 bounty) 
+Kevin12345Mc: posts the ante 100
+lilywen: posts the ante 100
+Xelarain: posts the ante 100
+Brachial/SMC: posts the ante 100
+hocheri: posts the ante 100
+D0NB0SS: posts the ante 100
+Instant Karma51: posts the ante 100
+gounaris73: posts the ante 100
+Kevin12345Mc: posts small blind 400
+lilywen: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Ah]
+Xelarain: folds 
+Brachial/SMC: folds 
+hocheri: calls 800
+D0NB0SS: folds 
+Instant Karma51: folds 
+gounaris73: folds 
+Kevin12345Mc: raises 2800 to 3600
+lilywen: folds 
+hocheri: calls 2800
+*** FLOP *** [Td Ac 9d]
+Kevin12345Mc: bets 2904
+hocheri: calls 2904
+*** TURN *** [Td Ac 9d] [4s]
+Kevin12345Mc: bets 8104
+hocheri: calls 8104
+*** RIVER *** [Td Ac 9d 4s] [Ks]
+Kevin12345Mc: bets 22493 and is all-in
+hocheri: calls 22493
+*** SHOW DOWN ***
+Kevin12345Mc: shows [As Ah] (three of a kind, Aces)
+hocheri: shows [Qs Jc] (a straight, Ten to Ace)
+hocheri collected 75802 from pot
+hocheri wins $1.23 for eliminating Kevin12345Mc and their own bounty increases by $1.22 to $6.11
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 75802 | Rake 0 
+Board [Td Ac 9d 4s Ks]
+Seat 1: Kevin12345Mc (small blind) showed [As Ah] and lost with three of a kind, Aces
+Seat 2: lilywen (big blind) folded before Flop
+Seat 3: Xelarain folded before Flop (didn't bet)
+Seat 4: Brachial/SMC folded before Flop (didn't bet)
+Seat 5: hocheri showed [Qs Jc] and won (75802) with a straight, Ten to Ace
+Seat 6: D0NB0SS folded before Flop (didn't bet)
+Seat 7: Instant Karma51 folded before Flop (didn't bet)
+Seat 8: gounaris73 (button) folded before Flop (didn't bet)
+
+
+

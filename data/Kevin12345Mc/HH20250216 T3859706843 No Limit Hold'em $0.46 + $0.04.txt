@@ -1,0 +1,557 @@
+﻿PokerStars Hand #254897432207: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:49:51 WET [2025/02/16 13:49:51 ET]
+Table '3859706843 1' 3-max Seat #1 is the button
+Seat 1: pavel2203 (500 in chips) 
+Seat 2: Kevin12345Mc (500 in chips) 
+Seat 3: Simpleeeeeee (500 in chips) 
+Kevin12345Mc: posts small blind 10
+Simpleeeeeee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Ah]
+pavel2203: folds 
+Kevin12345Mc: raises 46 to 66
+Simpleeeeeee: folds 
+Uncalled bet (46) returned to Kevin12345Mc
+Kevin12345Mc collected 40 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pavel2203 (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) collected (40)
+Seat 3: Simpleeeeeee (big blind) folded before Flop
+
+
+
+PokerStars Hand #254897436132: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:50:02 WET [2025/02/16 13:50:02 ET]
+Table '3859706843 1' 3-max Seat #2 is the button
+Seat 1: pavel2203 (500 in chips) 
+Seat 2: Kevin12345Mc (520 in chips) 
+Seat 3: Simpleeeeeee (480 in chips) 
+Simpleeeeeee: posts small blind 10
+pavel2203: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3c 9d]
+Kevin12345Mc: folds 
+Simpleeeeeee: raises 460 to 480 and is all-in
+pavel2203: folds 
+Uncalled bet (460) returned to Simpleeeeeee
+Simpleeeeeee collected 40 from pot
+Simpleeeeeee: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pavel2203 (big blind) folded before Flop
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: Simpleeeeeee (small blind) collected (40)
+
+
+
+PokerStars Hand #254897439002: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:50:10 WET [2025/02/16 13:50:10 ET]
+Table '3859706843 1' 3-max Seat #3 is the button
+Seat 1: pavel2203 (480 in chips) 
+Seat 2: Kevin12345Mc (520 in chips) 
+Seat 3: Simpleeeeeee (500 in chips) 
+pavel2203: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 3s]
+Simpleeeeeee: folds 
+pavel2203: calls 10
+Kevin12345Mc: raises 46 to 66
+pavel2203: calls 46
+*** FLOP *** [2d Th 4h]
+pavel2203: checks 
+Kevin12345Mc: bets 44
+pavel2203: raises 370 to 414 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (370) returned to pavel2203
+pavel2203 collected 220 from pot
+*** SUMMARY ***
+Total pot 220 | Rake 0 
+Board [2d Th 4h]
+Seat 1: pavel2203 (small blind) collected (220)
+Seat 2: Kevin12345Mc (big blind) folded on the Flop
+Seat 3: Simpleeeeeee (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254897449265: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:50:39 WET [2025/02/16 13:50:39 ET]
+Table '3859706843 1' 3-max Seat #1 is the button
+Seat 1: pavel2203 (590 in chips) 
+Seat 2: Kevin12345Mc (410 in chips) 
+Seat 3: Simpleeeeeee (500 in chips) 
+Kevin12345Mc: posts small blind 10
+Simpleeeeeee: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 6c]
+pavel2203: folds 
+Kevin12345Mc: calls 10
+Simpleeeeeee: checks 
+*** FLOP *** [3s 4c 3d]
+Kevin12345Mc: checks 
+Simpleeeeeee: checks 
+*** TURN *** [3s 4c 3d] [8h]
+Kevin12345Mc: checks 
+Simpleeeeeee: checks 
+*** RIVER *** [3s 4c 3d 8h] [5h]
+Kevin12345Mc: checks 
+Simpleeeeeee: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Qc 6c] (a pair of Threes)
+Simpleeeeeee: mucks hand 
+Kevin12345Mc collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [3s 4c 3d 8h 5h]
+Seat 1: pavel2203 (button) folded before Flop (didn't bet)
+Seat 2: Kevin12345Mc (small blind) showed [Qc 6c] and won (40) with a pair of Threes
+Seat 3: Simpleeeeeee (big blind) mucked [Jh 9h]
+
+
+
+PokerStars Hand #254897461590: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:51:14 WET [2025/02/16 13:51:14 ET]
+Table '3859706843 1' 3-max Seat #2 is the button
+Seat 1: pavel2203 (590 in chips) 
+Seat 2: Kevin12345Mc (430 in chips) 
+Seat 3: Simpleeeeeee (480 in chips) 
+Simpleeeeeee: posts small blind 10
+pavel2203: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 2s]
+Kevin12345Mc: folds 
+Simpleeeeeee: folds 
+Uncalled bet (10) returned to pavel2203
+pavel2203 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pavel2203 (big blind) collected (20)
+Seat 2: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: Simpleeeeeee (small blind) folded before Flop
+
+
+
+PokerStars Hand #254897465161: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:51:25 WET [2025/02/16 13:51:25 ET]
+Table '3859706843 1' 3-max Seat #3 is the button
+Seat 1: pavel2203 (600 in chips) 
+Seat 2: Kevin12345Mc (430 in chips) 
+Seat 3: Simpleeeeeee (470 in chips) 
+pavel2203: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 9d]
+Simpleeeeeee: raises 450 to 470 and is all-in
+pavel2203: raises 130 to 600 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (130) returned to pavel2203
+*** FLOP *** [6d 4h 7h]
+*** TURN *** [6d 4h 7h] [7s]
+*** RIVER *** [6d 4h 7h 7s] [5c]
+*** SHOW DOWN ***
+pavel2203: shows [Kh Kd] (two pair, Kings and Sevens)
+Simpleeeeeee: shows [Td Ac] (a pair of Sevens)
+pavel2203 collected 960 from pot
+Simpleeeeeee finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [6d 4h 7h 7s 5c]
+Seat 1: pavel2203 (small blind) showed [Kh Kd] and won (960) with two pair, Kings and Sevens
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+Seat 3: Simpleeeeeee (button) showed [Td Ac] and lost with a pair of Sevens
+
+
+
+PokerStars Hand #254897471744: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:51:44 WET [2025/02/16 13:51:44 ET]
+Table '3859706843 1' 3-max Seat #2 is the button
+Seat 1: pavel2203 (1090 in chips) 
+Seat 2: Kevin12345Mc (410 in chips) 
+Kevin12345Mc: posts small blind 10
+pavel2203: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 5c]
+Kevin12345Mc: folds 
+Uncalled bet (10) returned to pavel2203
+pavel2203 collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 1: pavel2203 (big blind) collected (20)
+Seat 2: Kevin12345Mc (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254897473581: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/16 18:51:49 WET [2025/02/16 13:51:49 ET]
+Table '3859706843 1' 3-max Seat #1 is the button
+Seat 1: pavel2203 (1100 in chips) 
+Seat 2: Kevin12345Mc (400 in chips) 
+pavel2203: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 8h]
+pavel2203: calls 10
+Kevin12345Mc: checks 
+*** FLOP *** [Tc Jd 4h]
+Kevin12345Mc: checks 
+pavel2203: bets 20
+Kevin12345Mc: calls 20
+*** TURN *** [Tc Jd 4h] [2h]
+Kevin12345Mc: checks 
+pavel2203: checks 
+*** RIVER *** [Tc Jd 4h 2h] [As]
+Kevin12345Mc: checks 
+pavel2203: bets 80
+Kevin12345Mc: folds 
+Uncalled bet (80) returned to pavel2203
+pavel2203 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Tc Jd 4h 2h As]
+Seat 1: pavel2203 (button) (small blind) collected (80)
+Seat 2: Kevin12345Mc (big blind) folded on the River
+
+
+
+PokerStars Hand #254897488327: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/16 18:52:31 WET [2025/02/16 13:52:31 ET]
+Table '3859706843 1' 3-max Seat #2 is the button
+Seat 1: pavel2203 (1140 in chips) 
+Seat 2: Kevin12345Mc (360 in chips) 
+Kevin12345Mc: posts small blind 15
+pavel2203: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 2c]
+Kevin12345Mc: calls 15
+pavel2203: checks 
+*** FLOP *** [9h 9d 9s]
+pavel2203: checks 
+Kevin12345Mc: bets 60
+pavel2203: calls 60
+*** TURN *** [9h 9d 9s] [6h]
+pavel2203: bets 90
+Kevin12345Mc: folds 
+Uncalled bet (90) returned to pavel2203
+pavel2203 collected 180 from pot
+*** SUMMARY ***
+Total pot 180 | Rake 0 
+Board [9h 9d 9s 6h]
+Seat 1: pavel2203 (big blind) collected (180)
+Seat 2: Kevin12345Mc (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254897496426: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/16 18:52:54 WET [2025/02/16 13:52:54 ET]
+Table '3859706843 1' 3-max Seat #1 is the button
+Seat 1: pavel2203 (1230 in chips) 
+Seat 2: Kevin12345Mc (270 in chips) 
+pavel2203: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 8h]
+pavel2203: raises 30 to 60
+Kevin12345Mc: folds 
+Uncalled bet (30) returned to pavel2203
+pavel2203 collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 1: pavel2203 (button) (small blind) collected (60)
+Seat 2: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254897499296: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/16 18:53:02 WET [2025/02/16 13:53:02 ET]
+Table '3859706843 1' 3-max Seat #2 is the button
+Seat 1: pavel2203 (1260 in chips) 
+Seat 2: Kevin12345Mc (240 in chips) 
+Kevin12345Mc: posts small blind 15
+pavel2203: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 9s]
+Kevin12345Mc: calls 15
+pavel2203: checks 
+*** FLOP *** [Ks 8s Kh]
+pavel2203: checks 
+Kevin12345Mc: bets 60
+pavel2203: folds 
+Uncalled bet (60) returned to Kevin12345Mc
+Kevin12345Mc collected 60 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [Ks 8s Kh]
+Seat 1: pavel2203 (big blind) folded on the Flop
+Seat 2: Kevin12345Mc (button) (small blind) collected (60)
+
+
+
+PokerStars Hand #254897505240: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/16 18:53:20 WET [2025/02/16 13:53:20 ET]
+Table '3859706843 1' 3-max Seat #1 is the button
+Seat 1: pavel2203 (1230 in chips) 
+Seat 2: Kevin12345Mc (270 in chips) 
+pavel2203: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 6h]
+pavel2203: calls 15
+Kevin12345Mc: checks 
+*** FLOP *** [Tc 5h 4h]
+Kevin12345Mc: checks 
+pavel2203: checks 
+*** TURN *** [Tc 5h 4h] [Ah]
+Kevin12345Mc: checks 
+pavel2203: bets 30
+Kevin12345Mc: calls 30
+*** RIVER *** [Tc 5h 4h Ah] [9d]
+Kevin12345Mc: checks 
+pavel2203: bets 120
+Kevin12345Mc: folds 
+Uncalled bet (120) returned to pavel2203
+pavel2203 collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [Tc 5h 4h Ah 9d]
+Seat 1: pavel2203 (button) (small blind) collected (120)
+Seat 2: Kevin12345Mc (big blind) folded on the River
+
+
+
+PokerStars Hand #254897517592: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:53:55 WET [2025/02/16 13:53:55 ET]
+Table '3859706843 1' 3-max Seat #2 is the button
+Seat 1: pavel2203 (1290 in chips) 
+Seat 2: Kevin12345Mc (210 in chips) 
+Kevin12345Mc: posts small blind 20
+pavel2203: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 7c]
+Kevin12345Mc: folds 
+Uncalled bet (20) returned to pavel2203
+pavel2203 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pavel2203 (big blind) collected (40)
+Seat 2: Kevin12345Mc (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254897519111: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:54:00 WET [2025/02/16 13:54:00 ET]
+Table '3859706843 1' 3-max Seat #1 is the button
+Seat 1: pavel2203 (1310 in chips) 
+Seat 2: Kevin12345Mc (190 in chips) 
+pavel2203: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 2d]
+pavel2203: calls 20
+Kevin12345Mc: checks 
+*** FLOP *** [Qc 5s 5c]
+Kevin12345Mc: checks 
+pavel2203: bets 40
+Kevin12345Mc: folds 
+Uncalled bet (40) returned to pavel2203
+pavel2203 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [Qc 5s 5c]
+Seat 1: pavel2203 (button) (small blind) collected (80)
+Seat 2: Kevin12345Mc (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254897522970: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:54:11 WET [2025/02/16 13:54:11 ET]
+Table '3859706843 1' 3-max Seat #2 is the button
+Seat 1: pavel2203 (1350 in chips) 
+Seat 2: Kevin12345Mc (150 in chips) 
+Kevin12345Mc: posts small blind 20
+pavel2203: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 9s]
+Kevin12345Mc: folds 
+Uncalled bet (20) returned to pavel2203
+pavel2203 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pavel2203 (big blind) collected (40)
+Seat 2: Kevin12345Mc (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254897525014: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:54:17 WET [2025/02/16 13:54:17 ET]
+Table '3859706843 1' 3-max Seat #1 is the button
+Seat 1: pavel2203 (1370 in chips) 
+Seat 2: Kevin12345Mc (130 in chips) 
+pavel2203: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 7h]
+pavel2203: calls 20
+Kevin12345Mc: checks 
+*** FLOP *** [5c Ac 3c]
+Kevin12345Mc: bets 90 and is all-in
+pavel2203: calls 90
+*** TURN *** [5c Ac 3c] [3d]
+*** RIVER *** [5c Ac 3c 3d] [Qd]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [5d 7h] (two pair, Fives and Threes)
+pavel2203: shows [9d Tc] (a pair of Threes)
+Kevin12345Mc collected 260 from pot
+*** SUMMARY ***
+Total pot 260 | Rake 0 
+Board [5c Ac 3c 3d Qd]
+Seat 1: pavel2203 (button) (small blind) showed [9d Tc] and lost with a pair of Threes
+Seat 2: Kevin12345Mc (big blind) showed [5d 7h] and won (260) with two pair, Fives and Threes
+
+
+
+PokerStars Hand #254897531922: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:54:37 WET [2025/02/16 13:54:37 ET]
+Table '3859706843 1' 3-max Seat #2 is the button
+Seat 1: pavel2203 (1240 in chips) 
+Seat 2: Kevin12345Mc (260 in chips) 
+Kevin12345Mc: posts small blind 20
+pavel2203: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Js]
+Kevin12345Mc: raises 40 to 80
+pavel2203: calls 40
+*** FLOP *** [6c 2h 6d]
+pavel2203: checks 
+Kevin12345Mc: bets 180 and is all-in
+pavel2203: calls 180
+*** TURN *** [6c 2h 6d] [Ts]
+*** RIVER *** [6c 2h 6d Ts] [Jh]
+*** SHOW DOWN ***
+pavel2203: shows [Kh 8s] (a pair of Sixes)
+Kevin12345Mc: shows [As Js] (two pair, Jacks and Sixes)
+Kevin12345Mc collected 520 from pot
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [6c 2h 6d Ts Jh]
+Seat 1: pavel2203 (big blind) showed [Kh 8s] and lost with a pair of Sixes
+Seat 2: Kevin12345Mc (button) (small blind) showed [As Js] and won (520) with two pair, Jacks and Sixes
+
+
+
+PokerStars Hand #254897539788: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:55:00 WET [2025/02/16 13:55:00 ET]
+Table '3859706843 1' 3-max Seat #1 is the button
+Seat 1: pavel2203 (980 in chips) 
+Seat 2: Kevin12345Mc (520 in chips) 
+pavel2203: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Ks]
+pavel2203: calls 20
+Kevin12345Mc: checks 
+*** FLOP *** [7d Jh 3d]
+Kevin12345Mc: checks 
+pavel2203: checks 
+*** TURN *** [7d Jh 3d] [Ah]
+Kevin12345Mc: checks 
+pavel2203: checks 
+*** RIVER *** [7d Jh 3d Ah] [Td]
+Kevin12345Mc: checks 
+pavel2203: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [7c Ks] (a pair of Sevens)
+pavel2203: mucks hand 
+Kevin12345Mc collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [7d Jh 3d Ah Td]
+Seat 1: pavel2203 (button) (small blind) mucked [3h Kd]
+Seat 2: Kevin12345Mc (big blind) showed [7c Ks] and won (80) with a pair of Sevens
+
+
+
+PokerStars Hand #254897544604: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:55:19 WET [2025/02/16 13:55:19 ET]
+Table '3859706843 1' 3-max Seat #2 is the button
+Seat 1: pavel2203 (940 in chips) 
+Seat 2: Kevin12345Mc (560 in chips) 
+Kevin12345Mc: posts small blind 20
+pavel2203: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d 4h]
+Kevin12345Mc: folds 
+Uncalled bet (20) returned to pavel2203
+pavel2203 collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: pavel2203 (big blind) collected (40)
+Seat 2: Kevin12345Mc (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254897545879: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:55:25 WET [2025/02/16 13:55:25 ET]
+Table '3859706843 1' 3-max Seat #1 is the button
+Seat 1: pavel2203 (960 in chips) 
+Seat 2: Kevin12345Mc (540 in chips) 
+pavel2203: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 8c]
+pavel2203: calls 20
+Kevin12345Mc: raises 40 to 80
+pavel2203: calls 40
+*** FLOP *** [9c 2h 7c]
+Kevin12345Mc: bets 106
+pavel2203: folds 
+Uncalled bet (106) returned to Kevin12345Mc
+Kevin12345Mc collected 160 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 160 | Rake 0 
+Board [9c 2h 7c]
+Seat 1: pavel2203 (button) (small blind) folded on the Flop
+Seat 2: Kevin12345Mc (big blind) collected (160)
+
+
+
+PokerStars Hand #254897549167: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level III (20/40) - 2025/02/16 18:55:41 WET [2025/02/16 13:55:41 ET]
+Table '3859706843 1' 3-max Seat #2 is the button
+Seat 1: pavel2203 (880 in chips) 
+Seat 2: Kevin12345Mc (620 in chips) 
+Kevin12345Mc: posts small blind 20
+pavel2203: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 2s]
+Kevin12345Mc: calls 20
+pavel2203: checks 
+*** FLOP *** [4h 6c 8s]
+pavel2203: checks 
+Kevin12345Mc: checks 
+*** TURN *** [4h 6c 8s] [3h]
+pavel2203: bets 40
+Kevin12345Mc: folds 
+Uncalled bet (40) returned to pavel2203
+pavel2203 collected 80 from pot
+*** SUMMARY ***
+Total pot 80 | Rake 0 
+Board [4h 6c 8s 3h]
+Seat 1: pavel2203 (big blind) collected (80)
+Seat 2: Kevin12345Mc (button) (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254897553736: Tournament #3859706843, $0.46+$0.04 USD Hold'em No Limit - Level IV (30/60) - 2025/02/16 18:56:03 WET [2025/02/16 13:56:03 ET]
+Table '3859706843 1' 3-max Seat #1 is the button
+Seat 1: pavel2203 (920 in chips) 
+Seat 2: Kevin12345Mc (580 in chips) 
+pavel2203: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 9d]
+pavel2203: calls 30
+Kevin12345Mc: raises 138 to 198
+pavel2203: raises 722 to 920 and is all-in
+Kevin12345Mc: calls 382 and is all-in
+Uncalled bet (340) returned to pavel2203
+*** FLOP *** [6d 6h 7s]
+*** TURN *** [6d 6h 7s] [Qc]
+*** RIVER *** [6d 6h 7s Qc] [Qh]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Td 9d] (two pair, Queens and Sixes)
+pavel2203: shows [7h 8s] (two pair, Queens and Sevens)
+pavel2203 collected 1160 from pot
+Kevin12345Mc finished the tournament in 2nd place
+pavel2203 wins the tournament - congratulations!
+pavel2203 wins a '$1.00 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 1160 | Rake 0 
+Board [6d 6h 7s Qc Qh]
+Seat 1: pavel2203 (button) (small blind) showed [7h 8s] and won (1160) with two pair, Queens and Sevens
+Seat 2: Kevin12345Mc (big blind) showed [Td 9d] and lost with two pair, Queens and Sixes
+
+
+

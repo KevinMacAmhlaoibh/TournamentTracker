@@ -1,0 +1,339 @@
+﻿PokerStars Hand #254971707094: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/21 16:46:46 WET [2025/02/21 11:46:46 ET]
+Table '3861446677 1' 3-max Seat #1 is the button
+Seat 1: gspe1 (500 in chips) 
+Seat 2: pogodaeva (500 in chips) 
+Seat 3: Kevin12345Mc (500 in chips) 
+pogodaeva: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 8d]
+gspe1: folds 
+pogodaeva: raises 480 to 500 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (480) returned to pogodaeva
+pogodaeva collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: gspe1 (button) folded before Flop (didn't bet)
+Seat 2: pogodaeva (small blind) collected (40)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254971709028: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/21 16:46:55 WET [2025/02/21 11:46:55 ET]
+Table '3861446677 1' 3-max Seat #2 is the button
+Seat 1: gspe1 (500 in chips) 
+Seat 2: pogodaeva (520 in chips) 
+Seat 3: Kevin12345Mc (480 in chips) 
+Kevin12345Mc: posts small blind 10
+gspe1: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Th]
+pogodaeva: folds 
+Kevin12345Mc: calls 10
+gspe1: checks 
+*** FLOP *** [8c 5d 3c]
+Kevin12345Mc: checks 
+gspe1: checks 
+*** TURN *** [8c 5d 3c] [Tc]
+Kevin12345Mc: bets 20
+gspe1: calls 20
+*** RIVER *** [8c 5d 3c Tc] [4d]
+Kevin12345Mc: bets 93
+gspe1: raises 367 to 460 and is all-in
+Kevin12345Mc: calls 347 and is all-in
+Uncalled bet (20) returned to gspe1
+*** SHOW DOWN ***
+gspe1: shows [4s Ts] (two pair, Tens and Fours)
+Kevin12345Mc: shows [8d Th] (two pair, Tens and Eights)
+Kevin12345Mc collected 960 from pot
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Board [8c 5d 3c Tc 4d]
+Seat 1: gspe1 (big blind) showed [4s Ts] and lost with two pair, Tens and Fours
+Seat 2: pogodaeva (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) showed [8d Th] and won (960) with two pair, Tens and Eights
+
+
+
+PokerStars Hand #254971716993: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/21 16:47:30 WET [2025/02/21 11:47:30 ET]
+Table '3861446677 1' 3-max Seat #3 is the button
+Seat 1: gspe1 (20 in chips) 
+Seat 2: pogodaeva (520 in chips) 
+Seat 3: Kevin12345Mc (960 in chips) 
+gspe1: posts small blind 10
+pogodaeva: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h Ks]
+Kevin12345Mc: raises 20 to 40
+gspe1: calls 10 and is all-in
+pogodaeva: calls 20
+*** FLOP *** [7c 2h 7d]
+pogodaeva: checks 
+Kevin12345Mc: checks 
+*** TURN *** [7c 2h 7d] [4d]
+pogodaeva: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [7c 2h 7d 4d] [Kd]
+pogodaeva: checks 
+Kevin12345Mc: bets 100
+pogodaeva: folds 
+Uncalled bet (100) returned to Kevin12345Mc
+*** SHOW DOWN ***
+Kevin12345Mc: shows [6h Ks] (two pair, Kings and Sevens)
+Kevin12345Mc collected 40 from side pot
+gspe1: shows [3s 3c] (two pair, Sevens and Threes)
+Kevin12345Mc collected 60 from main pot
+gspe1 finished the tournament in 3rd place
+*** SUMMARY ***
+Total pot 100 Main pot 60. Side pot 40. | Rake 0 
+Board [7c 2h 7d 4d Kd]
+Seat 1: gspe1 (small blind) showed [3s 3c] and lost with two pair, Sevens and Threes
+Seat 2: pogodaeva (big blind) folded on the River
+Seat 3: Kevin12345Mc (button) showed [6h Ks] and won (100) with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #254971722923: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/21 16:47:56 WET [2025/02/21 11:47:56 ET]
+Table '3861446677 1' 3-max Seat #2 is the button
+Seat 2: pogodaeva (480 in chips) 
+Seat 3: Kevin12345Mc (1020 in chips) 
+pogodaeva: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 7d]
+pogodaeva: raises 460 to 480 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (460) returned to pogodaeva
+pogodaeva collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: pogodaeva (button) (small blind) collected (40)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254971724672: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/21 16:48:04 WET [2025/02/21 11:48:04 ET]
+Table '3861446677 1' 3-max Seat #3 is the button
+Seat 2: pogodaeva (500 in chips) 
+Seat 3: Kevin12345Mc (1000 in chips) 
+Kevin12345Mc: posts small blind 10
+pogodaeva: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 2d]
+Kevin12345Mc: folds 
+Uncalled bet (10) returned to pogodaeva
+pogodaeva collected 20 from pot
+*** SUMMARY ***
+Total pot 20 | Rake 0 
+Seat 2: pogodaeva (big blind) collected (20)
+Seat 3: Kevin12345Mc (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254971725579: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/21 16:48:08 WET [2025/02/21 11:48:08 ET]
+Table '3861446677 1' 3-max Seat #2 is the button
+Seat 2: pogodaeva (510 in chips) 
+Seat 3: Kevin12345Mc (990 in chips) 
+pogodaeva: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 5s]
+pogodaeva: raises 490 to 510 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (490) returned to pogodaeva
+pogodaeva collected 40 from pot
+pogodaeva: shows [9h 2h]
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 2: pogodaeva (button) (small blind) collected (40)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254971727084: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/21 16:48:15 WET [2025/02/21 11:48:15 ET]
+Table '3861446677 1' 3-max Seat #3 is the button
+Seat 2: pogodaeva (530 in chips) 
+Seat 3: Kevin12345Mc (970 in chips) 
+Kevin12345Mc: posts small blind 10
+pogodaeva: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 6h]
+Kevin12345Mc: calls 10
+pogodaeva: checks 
+*** FLOP *** [Th Kc Jh]
+pogodaeva: checks 
+Kevin12345Mc: bets 26
+pogodaeva: calls 26
+*** TURN *** [Th Kc Jh] [Kd]
+pogodaeva: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Th Kc Jh Kd] [8h]
+pogodaeva: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+pogodaeva: shows [4s Jd] (two pair, Kings and Jacks)
+Kevin12345Mc: mucks hand 
+pogodaeva collected 92 from pot
+*** SUMMARY ***
+Total pot 92 | Rake 0 
+Board [Th Kc Jh Kd 8h]
+Seat 2: pogodaeva (big blind) showed [4s Jd] and won (92) with two pair, Kings and Jacks
+Seat 3: Kevin12345Mc (button) (small blind) mucked [7s 6h]
+
+
+
+PokerStars Hand #254971731968: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level I (10/20) - 2025/02/21 16:48:36 WET [2025/02/21 11:48:36 ET]
+Table '3861446677 1' 3-max Seat #2 is the button
+Seat 2: pogodaeva (576 in chips) 
+Seat 3: Kevin12345Mc (924 in chips) 
+pogodaeva: posts small blind 10
+Kevin12345Mc: posts big blind 20
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 8h]
+pogodaeva: calls 10
+Kevin12345Mc: checks 
+*** FLOP *** [2c 6d Ts]
+Kevin12345Mc: checks 
+pogodaeva: checks 
+*** TURN *** [2c 6d Ts] [3s]
+Kevin12345Mc: checks 
+pogodaeva: checks 
+*** RIVER *** [2c 6d Ts 3s] [2h]
+Kevin12345Mc: checks 
+pogodaeva: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Qh 8h] (a pair of Deuces)
+pogodaeva: mucks hand 
+Kevin12345Mc collected 40 from pot
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Board [2c 6d Ts 3s 2h]
+Seat 2: pogodaeva (button) (small blind) mucked [5c 9h]
+Seat 3: Kevin12345Mc (big blind) showed [Qh 8h] and won (40) with a pair of Deuces
+
+
+
+PokerStars Hand #254971736633: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/21 16:48:57 WET [2025/02/21 11:48:57 ET]
+Table '3861446677 1' 3-max Seat #3 is the button
+Seat 2: pogodaeva (556 in chips) 
+Seat 3: Kevin12345Mc (944 in chips) 
+Kevin12345Mc: posts small blind 15
+pogodaeva: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s 5s]
+Kevin12345Mc: calls 15
+pogodaeva: checks 
+*** FLOP *** [7d 2d 3d]
+pogodaeva: checks 
+Kevin12345Mc: checks 
+*** TURN *** [7d 2d 3d] [7s]
+pogodaeva: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [7d 2d 3d 7s] [9d]
+pogodaeva: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+pogodaeva: shows [Qd 3h] (a flush, Queen high)
+Kevin12345Mc: mucks hand 
+pogodaeva collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Board [7d 2d 3d 7s 9d]
+Seat 2: pogodaeva (big blind) showed [Qd 3h] and won (60) with a flush, Queen high
+Seat 3: Kevin12345Mc (button) (small blind) mucked [2s 5s]
+
+
+
+PokerStars Hand #254971739752: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/21 16:49:11 WET [2025/02/21 11:49:11 ET]
+Table '3861446677 1' 3-max Seat #2 is the button
+Seat 2: pogodaeva (586 in chips) 
+Seat 3: Kevin12345Mc (914 in chips) 
+pogodaeva: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 2c]
+pogodaeva: raises 556 to 586 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (556) returned to pogodaeva
+pogodaeva collected 60 from pot
+*** SUMMARY ***
+Total pot 60 | Rake 0 
+Seat 2: pogodaeva (button) (small blind) collected (60)
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+
+
+
+PokerStars Hand #254971741630: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/21 16:49:19 WET [2025/02/21 11:49:19 ET]
+Table '3861446677 1' 3-max Seat #3 is the button
+Seat 2: pogodaeva (616 in chips) 
+Seat 3: Kevin12345Mc (884 in chips) 
+Kevin12345Mc: posts small blind 15
+pogodaeva: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 4s]
+Kevin12345Mc: raises 30 to 60
+pogodaeva: raises 556 to 616 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (556) returned to pogodaeva
+pogodaeva collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Seat 2: pogodaeva (big blind) collected (120)
+Seat 3: Kevin12345Mc (button) (small blind) folded before Flop
+
+
+
+PokerStars Hand #254971743203: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/21 16:49:26 WET [2025/02/21 11:49:26 ET]
+Table '3861446677 1' 3-max Seat #2 is the button
+Seat 2: pogodaeva (676 in chips) 
+Seat 3: Kevin12345Mc (824 in chips) 
+pogodaeva: posts small blind 15
+Kevin12345Mc: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 8d]
+pogodaeva: raises 646 to 676 and is all-in
+Kevin12345Mc: calls 646
+*** FLOP *** [9c 2s 5d]
+*** TURN *** [9c 2s 5d] [2h]
+*** RIVER *** [9c 2s 5d 2h] [2c]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Kd 8d] (three of a kind, Deuces)
+pogodaeva: shows [Ac Qd] (three of a kind, Deuces - Ace kicker)
+pogodaeva collected 1352 from pot
+*** SUMMARY ***
+Total pot 1352 | Rake 0 
+Board [9c 2s 5d 2h 2c]
+Seat 2: pogodaeva (button) (small blind) showed [Ac Qd] and won (1352) with three of a kind, Deuces
+Seat 3: Kevin12345Mc (big blind) showed [Kd 8d] and lost with three of a kind, Deuces
+
+
+
+PokerStars Hand #254971746029: Tournament #3861446677, $0.46+$0.04 USD Hold'em No Limit - Level II (15/30) - 2025/02/21 16:49:38 WET [2025/02/21 11:49:38 ET]
+Table '3861446677 1' 3-max Seat #3 is the button
+Seat 2: pogodaeva (1352 in chips) 
+Seat 3: Kevin12345Mc (148 in chips) 
+Kevin12345Mc: posts small blind 15
+pogodaeva: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qd 4h]
+Kevin12345Mc: raises 118 to 148 and is all-in
+pogodaeva: calls 118
+*** FLOP *** [9d 5d 6c]
+*** TURN *** [9d 5d 6c] [Js]
+*** RIVER *** [9d 5d 6c Js] [8s]
+*** SHOW DOWN ***
+pogodaeva: shows [6d 7s] (a straight, Five to Nine)
+Kevin12345Mc: shows [Qd 4h] (high card Queen)
+pogodaeva collected 296 from pot
+Kevin12345Mc finished the tournament in 2nd place
+pogodaeva wins the tournament - congratulations!
+pogodaeva wins a '$1.50 Power Path Step 2 Ticket' ticket
+*** SUMMARY ***
+Total pot 296 | Rake 0 
+Board [9d 5d 6c Js 8s]
+Seat 2: pogodaeva (big blind) showed [6d 7s] and won (296) with a straight, Five to Nine
+Seat 3: Kevin12345Mc (button) (small blind) showed [Qd 4h] and lost with high card Queen
+
+
+

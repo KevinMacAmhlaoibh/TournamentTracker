@@ -1,0 +1,1230 @@
+﻿PokerStars Hand #255241933458: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/03/11 17:36:12 WET [2025/03/11 13:36:12 ET]
+Table '3866282085 49' 8-max Seat #1 is the button
+Seat 1: dncn__789 (3752 in chips) is sitting out
+Seat 2: Caiadas95 (15597 in chips) 
+Seat 3: RiverBlanKO (3159 in chips) 
+Seat 4: FernandesDiz (5461 in chips) 
+Seat 5: SeLLi_G99 (6183 in chips) 
+Seat 6: Kevin12345Mc (5000 in chips) 
+Seat 7: alencarfu (14773 in chips) 
+Seat 8: AndreyIvachenko (10028 in chips) 
+dncn__789: posts the ante 21
+Caiadas95: posts the ante 21
+RiverBlanKO: posts the ante 21
+FernandesDiz: posts the ante 21
+SeLLi_G99: posts the ante 21
+Kevin12345Mc: posts the ante 21
+alencarfu: posts the ante 21
+AndreyIvachenko: posts the ante 21
+Caiadas95: posts small blind 70
+RiverBlanKO: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 4c]
+FernandesDiz: raises 140 to 280
+SeLLi_G99: folds 
+Kevin12345Mc: folds 
+alencarfu: folds 
+AndreyIvachenko: folds 
+dncn__789: folds 
+Caiadas95: folds 
+RiverBlanKO: folds 
+Uncalled bet (140) returned to FernandesDiz
+FernandesDiz collected 518 from pot
+FernandesDiz: doesn't show hand 
+*** SUMMARY ***
+Total pot 518 | Rake 0 
+Seat 1: dncn__789 (button) folded before Flop (didn't bet)
+Seat 2: Caiadas95 (small blind) folded before Flop
+Seat 3: RiverBlanKO (big blind) folded before Flop
+Seat 4: FernandesDiz collected (518)
+Seat 5: SeLLi_G99 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: AndreyIvachenko folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241937391: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/03/11 17:36:37 WET [2025/03/11 13:36:37 ET]
+Table '3866282085 49' 8-max Seat #2 is the button
+Seat 1: dncn__789 (3731 in chips) is sitting out
+Seat 2: Caiadas95 (15506 in chips) 
+Seat 3: RiverBlanKO (2998 in chips) 
+Seat 4: FernandesDiz (5818 in chips) 
+Seat 5: SeLLi_G99 (6162 in chips) 
+Seat 6: Kevin12345Mc (4979 in chips) 
+Seat 7: alencarfu (14752 in chips) 
+Seat 8: AndreyIvachenko (10007 in chips) 
+dncn__789: posts the ante 21
+Caiadas95: posts the ante 21
+RiverBlanKO: posts the ante 21
+FernandesDiz: posts the ante 21
+SeLLi_G99: posts the ante 21
+Kevin12345Mc: posts the ante 21
+alencarfu: posts the ante 21
+AndreyIvachenko: posts the ante 21
+RiverBlanKO: posts small blind 70
+FernandesDiz: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 4c]
+SeLLi_G99: raises 168 to 308
+Kevin12345Mc: folds 
+alencarfu: folds 
+AndreyIvachenko: raises 644 to 952
+dncn__789: folds 
+Caiadas95: folds 
+RiverBlanKO: folds 
+FernandesDiz: folds 
+SeLLi_G99: raises 5189 to 6141 and is all-in
+AndreyIvachenko: calls 5189
+*** FLOP *** [2s Kh 4s]
+*** TURN *** [2s Kh 4s] [Ts]
+*** RIVER *** [2s Kh 4s Ts] [Jh]
+*** SHOW DOWN ***
+SeLLi_G99: shows [Jd Jc] (three of a kind, Jacks)
+AndreyIvachenko: shows [9d 9c] (a pair of Nines)
+SeLLi_G99 collected 12660 from pot
+*** SUMMARY ***
+Total pot 12660 | Rake 0 
+Board [2s Kh 4s Ts Jh]
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 (button) folded before Flop (didn't bet)
+Seat 3: RiverBlanKO (small blind) folded before Flop
+Seat 4: FernandesDiz (big blind) folded before Flop
+Seat 5: SeLLi_G99 showed [Jd Jc] and won (12660) with three of a kind, Jacks
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: AndreyIvachenko showed [9d 9c] and lost with a pair of Nines
+
+
+
+PokerStars Hand #255241945554: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/03/11 17:37:30 WET [2025/03/11 13:37:30 ET]
+Table '3866282085 49' 8-max Seat #3 is the button
+Seat 1: dncn__789 (3710 in chips) is sitting out
+Seat 2: Caiadas95 (15485 in chips) 
+Seat 3: RiverBlanKO (2907 in chips) 
+Seat 4: FernandesDiz (5657 in chips) 
+Seat 5: SeLLi_G99 (12660 in chips) 
+Seat 6: Kevin12345Mc (4958 in chips) 
+Seat 7: alencarfu (14731 in chips) 
+Seat 8: AndreyIvachenko (3845 in chips) 
+dncn__789: posts the ante 21
+Caiadas95: posts the ante 21
+RiverBlanKO: posts the ante 21
+FernandesDiz: posts the ante 21
+SeLLi_G99: posts the ante 21
+Kevin12345Mc: posts the ante 21
+alencarfu: posts the ante 21
+AndreyIvachenko: posts the ante 21
+FernandesDiz: posts small blind 70
+SeLLi_G99: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s 5h]
+Kevin12345Mc: folds 
+alencarfu: raises 140 to 280
+AndreyIvachenko: raises 3544 to 3824 and is all-in
+dncn__789: folds 
+Caiadas95: folds 
+RiverBlanKO: folds 
+FernandesDiz: folds 
+SeLLi_G99: folds 
+alencarfu: folds 
+Uncalled bet (3544) returned to AndreyIvachenko
+AndreyIvachenko collected 938 from pot
+AndreyIvachenko: doesn't show hand 
+*** SUMMARY ***
+Total pot 938 | Rake 0 
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 folded before Flop (didn't bet)
+Seat 3: RiverBlanKO (button) folded before Flop (didn't bet)
+Seat 4: FernandesDiz (small blind) folded before Flop
+Seat 5: SeLLi_G99 (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alencarfu folded before Flop
+Seat 8: AndreyIvachenko collected (938)
+
+
+
+PokerStars Hand #255241951923: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/03/11 17:38:12 WET [2025/03/11 13:38:12 ET]
+Table '3866282085 49' 8-max Seat #4 is the button
+Seat 1: dncn__789 (3689 in chips) is sitting out
+Seat 2: Caiadas95 (15464 in chips) 
+Seat 3: RiverBlanKO (2886 in chips) 
+Seat 4: FernandesDiz (5566 in chips) 
+Seat 5: SeLLi_G99 (12499 in chips) 
+Seat 6: Kevin12345Mc (4937 in chips) 
+Seat 7: alencarfu (14430 in chips) 
+Seat 8: AndreyIvachenko (4482 in chips) 
+dncn__789: posts the ante 21
+Caiadas95: posts the ante 21
+RiverBlanKO: posts the ante 21
+FernandesDiz: posts the ante 21
+SeLLi_G99: posts the ante 21
+Kevin12345Mc: posts the ante 21
+alencarfu: posts the ante 21
+AndreyIvachenko: posts the ante 21
+SeLLi_G99: posts small blind 70
+Kevin12345Mc: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 8h]
+alencarfu: folds 
+AndreyIvachenko: raises 4321 to 4461 and is all-in
+dncn__789: folds 
+Caiadas95: folds 
+RiverBlanKO: folds 
+FernandesDiz: raises 1084 to 5545 and is all-in
+SeLLi_G99: folds 
+Kevin12345Mc: folds 
+Uncalled bet (1084) returned to FernandesDiz
+*** FLOP *** [4c 5d 3h]
+*** TURN *** [4c 5d 3h] [8c]
+*** RIVER *** [4c 5d 3h 8c] [Jc]
+*** SHOW DOWN ***
+AndreyIvachenko: shows [9s Ad] (high card Ace)
+FernandesDiz: shows [Kh Ac] (high card Ace - King kicker)
+FernandesDiz collected 9300 from pot
+AndreyIvachenko finished the tournament
+*** SUMMARY ***
+Total pot 9300 | Rake 0 
+Board [4c 5d 3h 8c Jc]
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 folded before Flop (didn't bet)
+Seat 3: RiverBlanKO folded before Flop (didn't bet)
+Seat 4: FernandesDiz (button) showed [Kh Ac] and won (9300) with high card Ace
+Seat 5: SeLLi_G99 (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: AndreyIvachenko showed [9s Ad] and lost with high card Ace
+
+
+
+PokerStars Hand #255241956234: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/03/11 17:38:39 WET [2025/03/11 13:38:39 ET]
+Table '3866282085 49' 8-max Seat #5 is the button
+Seat 1: dncn__789 (3668 in chips) is sitting out
+Seat 2: Caiadas95 (15443 in chips) 
+Seat 3: RiverBlanKO (2865 in chips) 
+Seat 4: FernandesDiz (10384 in chips) 
+Seat 5: SeLLi_G99 (12408 in chips) 
+Seat 6: Kevin12345Mc (4776 in chips) 
+Seat 7: alencarfu (14409 in chips) 
+dncn__789: posts the ante 21
+Caiadas95: posts the ante 21
+RiverBlanKO: posts the ante 21
+FernandesDiz: posts the ante 21
+SeLLi_G99: posts the ante 21
+Kevin12345Mc: posts the ante 21
+alencarfu: posts the ante 21
+Kevin12345Mc: posts small blind 70
+alencarfu: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s Ac]
+dncn__789: folds 
+Caiadas95: raises 154 to 294
+RiverBlanKO: folds 
+FernandesDiz: calls 294
+SeLLi_G99: folds 
+Kevin12345Mc: folds 
+alencarfu: calls 154
+*** FLOP *** [Ts Ad 3s]
+alencarfu: checks 
+Caiadas95: checks 
+FernandesDiz: bets 363
+alencarfu: folds 
+Caiadas95: calls 363
+*** TURN *** [Ts Ad 3s] [Jd]
+Caiadas95: checks 
+FernandesDiz: checks 
+*** RIVER *** [Ts Ad 3s Jd] [Tc]
+Caiadas95: checks 
+FernandesDiz: checks 
+*** SHOW DOWN ***
+Caiadas95: shows [Ks Kh] (two pair, Kings and Tens)
+FernandesDiz: mucks hand 
+Caiadas95 collected 1825 from pot
+*** SUMMARY ***
+Total pot 1825 | Rake 0 
+Board [Ts Ad 3s Jd Tc]
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 showed [Ks Kh] and won (1825) with two pair, Kings and Tens
+Seat 3: RiverBlanKO folded before Flop (didn't bet)
+Seat 4: FernandesDiz mucked [7h 7d]
+Seat 5: SeLLi_G99 (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: alencarfu (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255241966782: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/03/11 17:39:49 WET [2025/03/11 13:39:49 ET]
+Table '3866282085 49' 8-max Seat #6 is the button
+Seat 1: dncn__789 (3647 in chips) is sitting out
+Seat 2: Caiadas95 (16590 in chips) 
+Seat 3: RiverBlanKO (2844 in chips) 
+Seat 4: FernandesDiz (9706 in chips) 
+Seat 5: SeLLi_G99 (12387 in chips) 
+Seat 6: Kevin12345Mc (4685 in chips) 
+Seat 7: alencarfu (14094 in chips) 
+Seat 8: Tito_sa82 (5000 in chips) 
+dncn__789: posts the ante 21
+Caiadas95: posts the ante 21
+RiverBlanKO: posts the ante 21
+FernandesDiz: posts the ante 21
+SeLLi_G99: posts the ante 21
+Kevin12345Mc: posts the ante 21
+alencarfu: posts the ante 21
+Tito_sa82: posts the ante 21
+alencarfu: posts small blind 70
+Tito_sa82: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Kc]
+dncn__789: folds 
+Caiadas95: folds 
+RiverBlanKO: folds 
+FernandesDiz: folds 
+SeLLi_G99: raises 140 to 280
+Kevin12345Mc: folds 
+alencarfu: folds 
+Tito_sa82: calls 140
+*** FLOP *** [Ad Qs Jd]
+Tito_sa82: bets 140
+SeLLi_G99: raises 367 to 507
+Tito_sa82: calls 367
+*** TURN *** [Ad Qs Jd] [2s]
+Tito_sa82: checks 
+SeLLi_G99: bets 815
+Tito_sa82: calls 815
+*** RIVER *** [Ad Qs Jd 2s] [Kh]
+Tito_sa82: checks 
+SeLLi_G99: checks 
+*** SHOW DOWN ***
+Tito_sa82: shows [Qc 8h] (a pair of Queens)
+SeLLi_G99: shows [Kd 8d] (a pair of Kings)
+SeLLi_G99 collected 3442 from pot
+*** SUMMARY ***
+Total pot 3442 | Rake 0 
+Board [Ad Qs Jd 2s Kh]
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 folded before Flop (didn't bet)
+Seat 3: RiverBlanKO folded before Flop (didn't bet)
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 showed [Kd 8d] and won (3442) with a pair of Kings
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: alencarfu (small blind) folded before Flop
+Seat 8: Tito_sa82 (big blind) showed [Qc 8h] and lost with a pair of Queens
+
+
+
+PokerStars Hand #255241976686: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level VIII (70/140) - 2025/03/11 17:40:56 WET [2025/03/11 13:40:56 ET]
+Table '3866282085 49' 8-max Seat #7 is the button
+Seat 1: dncn__789 (3626 in chips) is sitting out
+Seat 2: Caiadas95 (16569 in chips) 
+Seat 3: RiverBlanKO (2823 in chips) 
+Seat 4: FernandesDiz (9685 in chips) 
+Seat 5: SeLLi_G99 (14206 in chips) 
+Seat 6: Kevin12345Mc (4664 in chips) 
+Seat 7: alencarfu (14003 in chips) 
+Seat 8: Tito_sa82 (3377 in chips) 
+dncn__789: posts the ante 21
+Caiadas95: posts the ante 21
+RiverBlanKO: posts the ante 21
+FernandesDiz: posts the ante 21
+SeLLi_G99: posts the ante 21
+Kevin12345Mc: posts the ante 21
+alencarfu: posts the ante 21
+Tito_sa82: posts the ante 21
+Tito_sa82: posts small blind 70
+dncn__789: posts big blind 140
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 9s]
+Caiadas95: raises 154 to 294
+RiverBlanKO: folds 
+FernandesDiz: folds 
+SeLLi_G99: folds 
+Kevin12345Mc: folds 
+alencarfu: folds 
+Tito_sa82: calls 224
+dncn__789: folds 
+*** FLOP *** [2h Kd 9c]
+Tito_sa82: checks 
+Caiadas95: bets 296
+Tito_sa82: folds 
+Uncalled bet (296) returned to Caiadas95
+Caiadas95 collected 896 from pot
+Caiadas95: doesn't show hand 
+*** SUMMARY ***
+Total pot 896 | Rake 0 
+Board [2h Kd 9c]
+Seat 1: dncn__789 (big blind) folded before Flop
+Seat 2: Caiadas95 collected (896)
+Seat 3: RiverBlanKO folded before Flop (didn't bet)
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alencarfu (button) folded before Flop (didn't bet)
+Seat 8: Tito_sa82 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #255241982306: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/03/11 17:41:33 WET [2025/03/11 13:41:33 ET]
+Table '3866282085 49' 8-max Seat #8 is the button
+Seat 1: dncn__789 (3465 in chips) is sitting out
+Seat 2: Caiadas95 (17150 in chips) 
+Seat 3: RiverBlanKO (2802 in chips) 
+Seat 4: FernandesDiz (9664 in chips) 
+Seat 5: SeLLi_G99 (14185 in chips) 
+Seat 6: Kevin12345Mc (4643 in chips) 
+Seat 7: alencarfu (13982 in chips) 
+Seat 8: Tito_sa82 (3062 in chips) 
+dncn__789: posts the ante 24
+Caiadas95: posts the ante 24
+RiverBlanKO: posts the ante 24
+FernandesDiz: posts the ante 24
+SeLLi_G99: posts the ante 24
+Kevin12345Mc: posts the ante 24
+alencarfu: posts the ante 24
+Tito_sa82: posts the ante 24
+dncn__789: posts small blind 80
+Caiadas95: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 8h]
+RiverBlanKO: folds 
+FernandesDiz: folds 
+SeLLi_G99: raises 160 to 320
+Kevin12345Mc: folds 
+alencarfu: folds 
+Tito_sa82: folds 
+dncn__789: folds 
+Caiadas95: folds 
+Uncalled bet (160) returned to SeLLi_G99
+SeLLi_G99 collected 592 from pot
+SeLLi_G99: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: dncn__789 (small blind) folded before Flop
+Seat 2: Caiadas95 (big blind) folded before Flop
+Seat 3: RiverBlanKO folded before Flop (didn't bet)
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 collected (592)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: Tito_sa82 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241987461: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/03/11 17:42:07 WET [2025/03/11 13:42:07 ET]
+Table '3866282085 49' 8-max Seat #1 is the button
+Seat 1: dncn__789 (3361 in chips) is sitting out
+Seat 2: Caiadas95 (16966 in chips) 
+Seat 3: RiverBlanKO (2778 in chips) 
+Seat 4: FernandesDiz (9640 in chips) 
+Seat 5: SeLLi_G99 (14593 in chips) 
+Seat 6: Kevin12345Mc (4619 in chips) 
+Seat 7: alencarfu (13958 in chips) 
+Seat 8: Tito_sa82 (3038 in chips) 
+dncn__789: posts the ante 24
+Caiadas95: posts the ante 24
+RiverBlanKO: posts the ante 24
+FernandesDiz: posts the ante 24
+SeLLi_G99: posts the ante 24
+Kevin12345Mc: posts the ante 24
+alencarfu: posts the ante 24
+Tito_sa82: posts the ante 24
+Caiadas95: posts small blind 80
+RiverBlanKO: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Ac]
+FernandesDiz: folds 
+SeLLi_G99: folds 
+Kevin12345Mc: raises 176 to 336
+alencarfu: folds 
+Tito_sa82: folds 
+dncn__789: folds 
+Caiadas95: folds 
+RiverBlanKO: folds 
+Uncalled bet (176) returned to Kevin12345Mc
+Kevin12345Mc collected 592 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: dncn__789 (button) folded before Flop (didn't bet)
+Seat 2: Caiadas95 (small blind) folded before Flop
+Seat 3: RiverBlanKO (big blind) folded before Flop
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc collected (592)
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: Tito_sa82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241991352: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/03/11 17:42:33 WET [2025/03/11 13:42:33 ET]
+Table '3866282085 49' 8-max Seat #2 is the button
+Seat 1: dncn__789 (3337 in chips) is sitting out
+Seat 2: Caiadas95 (16862 in chips) 
+Seat 3: RiverBlanKO (2594 in chips) 
+Seat 4: FernandesDiz (9616 in chips) 
+Seat 5: SeLLi_G99 (14569 in chips) 
+Seat 6: Kevin12345Mc (5027 in chips) 
+Seat 7: alencarfu (13934 in chips) 
+Seat 8: Tito_sa82 (3014 in chips) 
+dncn__789: posts the ante 24
+Caiadas95: posts the ante 24
+RiverBlanKO: posts the ante 24
+FernandesDiz: posts the ante 24
+SeLLi_G99: posts the ante 24
+Kevin12345Mc: posts the ante 24
+alencarfu: posts the ante 24
+Tito_sa82: posts the ante 24
+RiverBlanKO: posts small blind 80
+FernandesDiz: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d Jd]
+SeLLi_G99: folds 
+Kevin12345Mc: folds 
+alencarfu: folds 
+Tito_sa82: folds 
+dncn__789: folds 
+Caiadas95: folds 
+RiverBlanKO: folds 
+Uncalled bet (80) returned to FernandesDiz
+FernandesDiz collected 352 from pot
+FernandesDiz: doesn't show hand 
+*** SUMMARY ***
+Total pot 352 | Rake 0 
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 (button) folded before Flop (didn't bet)
+Seat 3: RiverBlanKO (small blind) folded before Flop
+Seat 4: FernandesDiz (big blind) collected (352)
+Seat 5: SeLLi_G99 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: Tito_sa82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241993173: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/03/11 17:42:45 WET [2025/03/11 13:42:45 ET]
+Table '3866282085 49' 8-max Seat #3 is the button
+Seat 1: dncn__789 (3313 in chips) is sitting out
+Seat 2: Caiadas95 (16838 in chips) 
+Seat 3: RiverBlanKO (2490 in chips) 
+Seat 4: FernandesDiz (9864 in chips) 
+Seat 5: SeLLi_G99 (14545 in chips) 
+Seat 6: Kevin12345Mc (5003 in chips) 
+Seat 7: alencarfu (13910 in chips) 
+Seat 8: Tito_sa82 (2990 in chips) 
+dncn__789: posts the ante 24
+Caiadas95: posts the ante 24
+RiverBlanKO: posts the ante 24
+FernandesDiz: posts the ante 24
+SeLLi_G99: posts the ante 24
+Kevin12345Mc: posts the ante 24
+alencarfu: posts the ante 24
+Tito_sa82: posts the ante 24
+FernandesDiz: posts small blind 80
+SeLLi_G99: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 8c]
+Kevin12345Mc: folds 
+alencarfu: folds 
+Tito_sa82: folds 
+dncn__789: folds 
+Caiadas95: raises 176 to 336
+RiverBlanKO: raises 2130 to 2466 and is all-in
+FernandesDiz: folds 
+SeLLi_G99: folds 
+dncn__789 is disconnected 
+dncn__789 has returned
+Caiadas95: folds 
+Uncalled bet (2130) returned to RiverBlanKO
+RiverBlanKO collected 1104 from pot
+RiverBlanKO: doesn't show hand 
+*** SUMMARY ***
+Total pot 1104 | Rake 0 
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 folded before Flop
+Seat 3: RiverBlanKO (button) collected (1104)
+Seat 4: FernandesDiz (small blind) folded before Flop
+Seat 5: SeLLi_G99 (big blind) folded before Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: Tito_sa82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255241999244: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/03/11 17:43:24 WET [2025/03/11 13:43:24 ET]
+Table '3866282085 49' 8-max Seat #4 is the button
+Seat 1: dncn__789 (3289 in chips) 
+Seat 2: Caiadas95 (16478 in chips) 
+Seat 3: RiverBlanKO (3234 in chips) 
+Seat 4: FernandesDiz (9760 in chips) 
+Seat 5: SeLLi_G99 (14361 in chips) 
+Seat 6: Kevin12345Mc (4979 in chips) 
+Seat 7: alencarfu (13886 in chips) 
+Seat 8: Tito_sa82 (2966 in chips) 
+dncn__789: posts the ante 24
+Caiadas95: posts the ante 24
+RiverBlanKO: posts the ante 24
+FernandesDiz: posts the ante 24
+SeLLi_G99: posts the ante 24
+Kevin12345Mc: posts the ante 24
+alencarfu: posts the ante 24
+Tito_sa82: posts the ante 24
+SeLLi_G99: posts small blind 80
+Kevin12345Mc: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 3h]
+alencarfu: folds 
+Tito_sa82: folds 
+dncn__789 has timed out
+dncn__789: folds 
+dncn__789 is sitting out
+Caiadas95: raises 224 to 384
+RiverBlanKO: calls 384
+FernandesDiz: folds 
+SeLLi_G99: folds 
+Kevin12345Mc: calls 224
+*** FLOP *** [Kd 5h 8c]
+Kevin12345Mc: checks 
+Caiadas95: bets 470
+RiverBlanKO: calls 470
+Kevin12345Mc: folds 
+*** TURN *** [Kd 5h 8c] [Ts]
+Caiadas95: checks 
+RiverBlanKO: bets 620
+Caiadas95: calls 620
+*** RIVER *** [Kd 5h 8c Ts] [7c]
+Caiadas95: checks 
+RiverBlanKO: bets 1736 and is all-in
+Caiadas95: calls 1736
+*** SHOW DOWN ***
+RiverBlanKO: shows [Js Ks] (a pair of Kings)
+Caiadas95: shows [Ad Th] (a pair of Tens)
+RiverBlanKO collected 7076 from pot
+*** SUMMARY ***
+Total pot 7076 | Rake 0 
+Board [Kd 5h 8c Ts 7c]
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 showed [Ad Th] and lost with a pair of Tens
+Seat 3: RiverBlanKO showed [Js Ks] and won (7076) with a pair of Kings
+Seat 4: FernandesDiz (button) folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded on the Flop
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: Tito_sa82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242024437: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/03/11 17:45:58 WET [2025/03/11 13:45:58 ET]
+Table '3866282085 49' 8-max Seat #5 is the button
+Seat 1: dncn__789 (3265 in chips) is sitting out
+Seat 2: Caiadas95 (13244 in chips) 
+Seat 3: RiverBlanKO (7076 in chips) 
+Seat 4: FernandesDiz (9736 in chips) 
+Seat 5: SeLLi_G99 (14257 in chips) 
+Seat 6: Kevin12345Mc (4571 in chips) 
+Seat 7: alencarfu (13862 in chips) 
+Seat 8: Tito_sa82 (2942 in chips) 
+dncn__789: posts the ante 24
+Caiadas95: posts the ante 24
+RiverBlanKO: posts the ante 24
+FernandesDiz: posts the ante 24
+SeLLi_G99: posts the ante 24
+Kevin12345Mc: posts the ante 24
+alencarfu: posts the ante 24
+Tito_sa82: posts the ante 24
+Kevin12345Mc: posts small blind 80
+alencarfu: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh 3s]
+Tito_sa82: raises 160 to 320
+dncn__789: folds 
+Caiadas95: folds 
+RiverBlanKO: folds 
+FernandesDiz: folds 
+SeLLi_G99: folds 
+Kevin12345Mc: folds 
+alencarfu: folds 
+Uncalled bet (160) returned to Tito_sa82
+Tito_sa82 collected 592 from pot
+*** SUMMARY ***
+Total pot 592 | Rake 0 
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 folded before Flop (didn't bet)
+Seat 3: RiverBlanKO folded before Flop (didn't bet)
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 (button) folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: alencarfu (big blind) folded before Flop
+Seat 8: Tito_sa82 collected (592)
+
+
+
+PokerStars Hand #255242028399: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/03/11 17:46:21 WET [2025/03/11 13:46:21 ET]
+Table '3866282085 49' 8-max Seat #6 is the button
+Seat 1: dncn__789 (3241 in chips) is sitting out
+Seat 2: Caiadas95 (13220 in chips) 
+Seat 3: RiverBlanKO (7052 in chips) 
+Seat 4: FernandesDiz (9712 in chips) 
+Seat 5: SeLLi_G99 (14233 in chips) 
+Seat 6: Kevin12345Mc (4467 in chips) 
+Seat 7: alencarfu (13678 in chips) 
+Seat 8: Tito_sa82 (3350 in chips) 
+dncn__789: posts the ante 24
+Caiadas95: posts the ante 24
+RiverBlanKO: posts the ante 24
+FernandesDiz: posts the ante 24
+SeLLi_G99: posts the ante 24
+Kevin12345Mc: posts the ante 24
+alencarfu: posts the ante 24
+Tito_sa82: posts the ante 24
+alencarfu: posts small blind 80
+Tito_sa82: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 8h]
+dncn__789: folds 
+Caiadas95: raises 160 to 320
+RiverBlanKO: folds 
+FernandesDiz: folds 
+SeLLi_G99: folds 
+Kevin12345Mc: folds 
+alencarfu: calls 240
+Tito_sa82: calls 160
+*** FLOP *** [Jd 8d Ks]
+alencarfu: checks 
+Tito_sa82: checks 
+Caiadas95: bets 380
+alencarfu: calls 380
+Tito_sa82: calls 380
+*** TURN *** [Jd 8d Ks] [Kd]
+alencarfu: checks 
+Tito_sa82: checks 
+Caiadas95: checks 
+*** RIVER *** [Jd 8d Ks Kd] [Jh]
+alencarfu: bets 1600
+Tito_sa82: folds 
+Caiadas95: folds 
+Uncalled bet (1600) returned to alencarfu
+alencarfu collected 2292 from pot
+*** SUMMARY ***
+Total pot 2292 | Rake 0 
+Board [Jd 8d Ks Kd Jh]
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 folded on the River
+Seat 3: RiverBlanKO folded before Flop (didn't bet)
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: alencarfu (small blind) collected (2292)
+Seat 8: Tito_sa82 (big blind) folded on the River
+
+
+
+PokerStars Hand #255242041614: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/03/11 17:47:35 WET [2025/03/11 13:47:35 ET]
+Table '3866282085 49' 8-max Seat #7 is the button
+Seat 1: dncn__789 (3217 in chips) is sitting out
+Seat 2: Caiadas95 (12496 in chips) 
+Seat 3: RiverBlanKO (7028 in chips) 
+Seat 4: FernandesDiz (9688 in chips) 
+Seat 5: SeLLi_G99 (14209 in chips) 
+Seat 6: Kevin12345Mc (4443 in chips) 
+Seat 7: alencarfu (15246 in chips) 
+Seat 8: Tito_sa82 (2626 in chips) 
+dncn__789: posts the ante 24
+Caiadas95: posts the ante 24
+RiverBlanKO: posts the ante 24
+FernandesDiz: posts the ante 24
+SeLLi_G99: posts the ante 24
+Kevin12345Mc: posts the ante 24
+alencarfu: posts the ante 24
+Tito_sa82: posts the ante 24
+Tito_sa82: posts small blind 80
+dncn__789: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 3c]
+Caiadas95: raises 176 to 336
+RiverBlanKO: folds 
+FernandesDiz: folds 
+SeLLi_G99: folds 
+Kevin12345Mc: calls 336
+alencarfu: folds 
+Tito_sa82: raises 304 to 640
+dncn__789: folds 
+Caiadas95: calls 304
+Kevin12345Mc: calls 304
+*** FLOP *** [Jd Ks 4s]
+Tito_sa82: checks 
+Caiadas95: bets 750
+Kevin12345Mc: folds 
+Tito_sa82: folds 
+Uncalled bet (750) returned to Caiadas95
+Caiadas95 collected 2272 from pot
+Caiadas95: doesn't show hand 
+*** SUMMARY ***
+Total pot 2272 | Rake 0 
+Board [Jd Ks 4s]
+Seat 1: dncn__789 (big blind) folded before Flop
+Seat 2: Caiadas95 collected (2272)
+Seat 3: RiverBlanKO folded before Flop (didn't bet)
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded on the Flop
+Seat 7: alencarfu (button) folded before Flop (didn't bet)
+Seat 8: Tito_sa82 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #255242054546: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level IX (80/160) - 2025/03/11 17:48:45 WET [2025/03/11 13:48:45 ET]
+Table '3866282085 49' 8-max Seat #8 is the button
+Seat 1: dncn__789 (3033 in chips) is sitting out
+Seat 2: Caiadas95 (14104 in chips) 
+Seat 3: RiverBlanKO (7004 in chips) 
+Seat 4: FernandesDiz (9664 in chips) 
+Seat 5: SeLLi_G99 (14185 in chips) 
+Seat 6: Kevin12345Mc (3779 in chips) 
+Seat 7: alencarfu (15222 in chips) 
+Seat 8: Tito_sa82 (1962 in chips) 
+dncn__789: posts the ante 24
+Caiadas95: posts the ante 24
+RiverBlanKO: posts the ante 24
+FernandesDiz: posts the ante 24
+SeLLi_G99: posts the ante 24
+Kevin12345Mc: posts the ante 24
+alencarfu: posts the ante 24
+Tito_sa82: posts the ante 24
+dncn__789: posts small blind 80
+Caiadas95: posts big blind 160
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 7c]
+RiverBlanKO: raises 160 to 320
+FernandesDiz: folds 
+SeLLi_G99: calls 320
+Kevin12345Mc: folds 
+alencarfu: folds 
+Tito_sa82: folds 
+dncn__789: folds 
+Caiadas95: folds 
+*** FLOP *** [5s As Kh]
+RiverBlanKO: checks 
+SeLLi_G99: checks 
+*** TURN *** [5s As Kh] [8c]
+RiverBlanKO: checks 
+SeLLi_G99: bets 482
+RiverBlanKO: calls 482
+*** RIVER *** [5s As Kh 8c] [4h]
+RiverBlanKO: checks 
+SeLLi_G99: checks 
+*** SHOW DOWN ***
+RiverBlanKO: shows [Jh Kd] (a pair of Kings)
+SeLLi_G99: shows [Kc Qc] (a pair of Kings - Ace+Queen kicker)
+SeLLi_G99 collected 2036 from pot
+*** SUMMARY ***
+Total pot 2036 | Rake 0 
+Board [5s As Kh 8c 4h]
+Seat 1: dncn__789 (small blind) folded before Flop
+Seat 2: Caiadas95 (big blind) folded before Flop
+Seat 3: RiverBlanKO showed [Jh Kd] and lost with a pair of Kings
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 showed [Kc Qc] and won (2036) with a pair of Kings
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: Tito_sa82 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242069322: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/03/11 17:50:01 WET [2025/03/11 13:50:01 ET]
+Table '3866282085 49' 8-max Seat #1 is the button
+Seat 1: dncn__789 (2929 in chips) is sitting out
+Seat 2: Caiadas95 (13920 in chips) 
+Seat 3: RiverBlanKO (6178 in chips) 
+Seat 4: FernandesDiz (9640 in chips) 
+Seat 5: SeLLi_G99 (15395 in chips) 
+Seat 6: Kevin12345Mc (3755 in chips) 
+Seat 7: alencarfu (15198 in chips) 
+Seat 8: Tito_sa82 (1938 in chips) 
+dncn__789: posts the ante 27
+Caiadas95: posts the ante 27
+RiverBlanKO: posts the ante 27
+FernandesDiz: posts the ante 27
+SeLLi_G99: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alencarfu: posts the ante 27
+Tito_sa82: posts the ante 27
+Caiadas95: posts small blind 90
+RiverBlanKO: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh As]
+FernandesDiz: folds 
+SeLLi_G99: folds 
+Kevin12345Mc: raises 180 to 360
+alencarfu: folds 
+Tito_sa82: folds 
+dncn__789: folds 
+Caiadas95: folds 
+RiverBlanKO: calls 180
+*** FLOP *** [Kd 5d Ac]
+RiverBlanKO: checks 
+Kevin12345Mc: bets 339
+RiverBlanKO: calls 339
+*** TURN *** [Kd 5d Ac] [2d]
+RiverBlanKO: checks 
+Kevin12345Mc: bets 562
+RiverBlanKO: raises 4890 to 5452 and is all-in
+Kevin12345Mc: folds 
+Uncalled bet (4890) returned to RiverBlanKO
+RiverBlanKO collected 2828 from pot
+RiverBlanKO: doesn't show hand 
+*** SUMMARY ***
+Total pot 2828 | Rake 0 
+Board [Kd 5d Ac 2d]
+Seat 1: dncn__789 (button) folded before Flop (didn't bet)
+Seat 2: Caiadas95 (small blind) folded before Flop
+Seat 3: RiverBlanKO (big blind) collected (2828)
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded on the Turn
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: Tito_sa82 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242090632: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/03/11 17:51:49 WET [2025/03/11 13:51:49 ET]
+Table '3866282085 49' 8-max Seat #2 is the button
+Seat 1: dncn__789 (2902 in chips) is sitting out
+Seat 2: Caiadas95 (13803 in chips) 
+Seat 3: RiverBlanKO (7718 in chips) 
+Seat 4: FernandesDiz (9613 in chips) 
+Seat 5: SeLLi_G99 (15368 in chips) 
+Seat 6: Kevin12345Mc (2467 in chips) 
+Seat 7: alencarfu (15171 in chips) 
+Seat 8: Tito_sa82 (1911 in chips) 
+dncn__789: posts the ante 27
+Caiadas95: posts the ante 27
+RiverBlanKO: posts the ante 27
+FernandesDiz: posts the ante 27
+SeLLi_G99: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alencarfu: posts the ante 27
+Tito_sa82: posts the ante 27
+RiverBlanKO: posts small blind 90
+FernandesDiz: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d 9c]
+SeLLi_G99: folds 
+Kevin12345Mc: raises 2260 to 2440 and is all-in
+alencarfu: folds 
+Tito_sa82: calls 1884 and is all-in
+dncn__789: folds 
+Caiadas95: folds 
+RiverBlanKO: folds 
+FernandesDiz: folds 
+Uncalled bet (556) returned to Kevin12345Mc
+*** FLOP *** [8c 2h 7c]
+*** TURN *** [8c 2h 7c] [As]
+*** RIVER *** [8c 2h 7c As] [5s]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [9d 9c] (a pair of Nines)
+Tito_sa82: shows [Th Jh] (high card Ace)
+Kevin12345Mc collected 4254 from pot
+Tito_sa82 finished the tournament
+*** SUMMARY ***
+Total pot 4254 | Rake 0 
+Board [8c 2h 7c As 5s]
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 (button) folded before Flop (didn't bet)
+Seat 3: RiverBlanKO (small blind) folded before Flop
+Seat 4: FernandesDiz (big blind) folded before Flop
+Seat 5: SeLLi_G99 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc showed [9d 9c] and won (4254) with a pair of Nines
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: Tito_sa82 showed [Th Jh] and lost with high card Ace
+
+
+
+PokerStars Hand #255242097410: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/03/11 17:52:23 WET [2025/03/11 13:52:23 ET]
+Table '3866282085 49' 8-max Seat #3 is the button
+Seat 1: dncn__789 (2875 in chips) is sitting out
+Seat 2: Caiadas95 (13776 in chips) 
+Seat 3: RiverBlanKO (7601 in chips) 
+Seat 4: FernandesDiz (9406 in chips) 
+Seat 5: SeLLi_G99 (15341 in chips) 
+Seat 6: Kevin12345Mc (4810 in chips) 
+Seat 7: alencarfu (15144 in chips) 
+dncn__789: posts the ante 27
+Caiadas95: posts the ante 27
+RiverBlanKO: posts the ante 27
+FernandesDiz: posts the ante 27
+SeLLi_G99: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alencarfu: posts the ante 27
+FernandesDiz: posts small blind 90
+SeLLi_G99: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Jh]
+Kevin12345Mc: folds 
+alencarfu: folds 
+dncn__789: folds 
+Caiadas95: raises 198 to 378
+RiverBlanKO: folds 
+FernandesDiz: folds 
+SeLLi_G99: calls 198
+*** FLOP *** [Jd Th 6d]
+SeLLi_G99: checks 
+Caiadas95: bets 342
+SeLLi_G99: folds 
+Uncalled bet (342) returned to Caiadas95
+Caiadas95 collected 1035 from pot
+Caiadas95: doesn't show hand 
+*** SUMMARY ***
+Total pot 1035 | Rake 0 
+Board [Jd Th 6d]
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 collected (1035)
+Seat 3: RiverBlanKO (button) folded before Flop (didn't bet)
+Seat 4: FernandesDiz (small blind) folded before Flop
+Seat 5: SeLLi_G99 (big blind) folded on the Flop
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alencarfu folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242108649: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/03/11 17:53:18 WET [2025/03/11 13:53:18 ET]
+Table '3866282085 49' 8-max Seat #4 is the button
+Seat 1: dncn__789 (2848 in chips) is sitting out
+Seat 2: Caiadas95 (14406 in chips) 
+Seat 3: RiverBlanKO (7574 in chips) 
+Seat 4: FernandesDiz (9289 in chips) 
+Seat 5: SeLLi_G99 (14936 in chips) 
+Seat 6: Kevin12345Mc (4783 in chips) 
+Seat 7: alencarfu (15117 in chips) 
+Seat 8: Easton01133 (5000 in chips) 
+dncn__789: posts the ante 27
+Caiadas95: posts the ante 27
+RiverBlanKO: posts the ante 27
+FernandesDiz: posts the ante 27
+SeLLi_G99: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alencarfu: posts the ante 27
+Easton01133: posts the ante 27
+SeLLi_G99: posts small blind 90
+Kevin12345Mc: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 6c]
+alencarfu: folds 
+Easton01133: folds 
+dncn__789: folds 
+Caiadas95: raises 198 to 378
+RiverBlanKO: raises 738 to 1116
+FernandesDiz: folds 
+SeLLi_G99: folds 
+Kevin12345Mc: folds 
+Caiadas95: folds 
+Uncalled bet (738) returned to RiverBlanKO
+RiverBlanKO collected 1242 from pot
+RiverBlanKO: doesn't show hand 
+*** SUMMARY ***
+Total pot 1242 | Rake 0 
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 folded before Flop
+Seat 3: RiverBlanKO collected (1242)
+Seat 4: FernandesDiz (button) folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 (small blind) folded before Flop
+Seat 6: Kevin12345Mc (big blind) folded before Flop
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: Easton01133 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242115855: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/03/11 17:53:52 WET [2025/03/11 13:53:52 ET]
+Table '3866282085 49' 8-max Seat #5 is the button
+Seat 1: dncn__789 (2821 in chips) is sitting out
+Seat 2: Caiadas95 (14001 in chips) 
+Seat 3: RiverBlanKO (8411 in chips) 
+Seat 4: FernandesDiz (9262 in chips) 
+Seat 5: SeLLi_G99 (14819 in chips) 
+Seat 6: Kevin12345Mc (4576 in chips) 
+Seat 7: alencarfu (15090 in chips) 
+Seat 8: Easton01133 (4973 in chips) 
+dncn__789: posts the ante 27
+Caiadas95: posts the ante 27
+RiverBlanKO: posts the ante 27
+FernandesDiz: posts the ante 27
+SeLLi_G99: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alencarfu: posts the ante 27
+Easton01133: posts the ante 27
+Kevin12345Mc: posts small blind 90
+alencarfu: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 2h]
+Easton01133: folds 
+dncn__789: folds 
+Caiadas95: folds 
+RiverBlanKO: raises 180 to 360
+FernandesDiz: folds 
+SeLLi_G99: raises 774 to 1134
+Kevin12345Mc: folds 
+alencarfu: folds 
+RiverBlanKO: folds 
+Uncalled bet (774) returned to SeLLi_G99
+SeLLi_G99 collected 1206 from pot
+SeLLi_G99: doesn't show hand 
+*** SUMMARY ***
+Total pot 1206 | Rake 0 
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 2: Caiadas95 folded before Flop (didn't bet)
+Seat 3: RiverBlanKO folded before Flop
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 (button) collected (1206)
+Seat 6: Kevin12345Mc (small blind) folded before Flop
+Seat 7: alencarfu (big blind) folded before Flop
+Seat 8: Easton01133 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #255242126076: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/03/11 17:54:42 WET [2025/03/11 13:54:42 ET]
+Table '3866282085 49' 8-max Seat #6 is the button
+Seat 1: dncn__789 (2794 in chips) is sitting out
+Seat 3: RiverBlanKO (8024 in chips) 
+Seat 4: FernandesDiz (9235 in chips) 
+Seat 5: SeLLi_G99 (15638 in chips) 
+Seat 6: Kevin12345Mc (4459 in chips) 
+Seat 7: alencarfu (14883 in chips) 
+Seat 8: Easton01133 (4946 in chips) 
+dncn__789: posts the ante 27
+RiverBlanKO: posts the ante 27
+FernandesDiz: posts the ante 27
+SeLLi_G99: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alencarfu: posts the ante 27
+Easton01133: posts the ante 27
+alencarfu: posts small blind 90
+Easton01133: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h Ad]
+dncn__789: folds 
+RiverBlanKO: folds 
+nexis1122 is disconnected 
+FernandesDiz: raises 180 to 360
+SeLLi_G99: folds 
+Kevin12345Mc: folds 
+alencarfu: folds 
+Easton01133: calls 180
+*** FLOP *** [Ac Qh 5d]
+Easton01133: checks 
+FernandesDiz: bets 330
+Easton01133: folds 
+Uncalled bet (330) returned to FernandesDiz
+FernandesDiz collected 999 from pot
+FernandesDiz: doesn't show hand 
+*** SUMMARY ***
+Total pot 999 | Rake 0 
+Board [Ac Qh 5d]
+Seat 1: dncn__789 folded before Flop (didn't bet)
+Seat 3: RiverBlanKO folded before Flop (didn't bet)
+Seat 4: FernandesDiz collected (999)
+Seat 5: SeLLi_G99 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 7: alencarfu (small blind) folded before Flop
+Seat 8: Easton01133 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #255242214660: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/03/11 18:02:50 WET [2025/03/11 14:02:50 ET]
+Table '3866282085 49' 8-max Seat #7 is the button
+Seat 1: dncn__789 (2767 in chips) 
+Seat 2: nexis1122 (5000 in chips) 
+Seat 3: RiverBlanKO (7997 in chips) 
+Seat 4: FernandesDiz (9847 in chips) 
+Seat 5: SeLLi_G99 (15611 in chips) 
+Seat 6: Kevin12345Mc (4432 in chips) 
+Seat 7: alencarfu (14766 in chips) 
+Seat 8: Easton01133 (4559 in chips) 
+dncn__789: posts the ante 27
+nexis1122: posts the ante 27
+RiverBlanKO: posts the ante 27
+FernandesDiz: posts the ante 27
+SeLLi_G99: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alencarfu: posts the ante 27
+Easton01133: posts the ante 27
+Easton01133: posts small blind 90
+dncn__789: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Jd]
+nexis1122: folds 
+RiverBlanKO: folds 
+FernandesDiz: folds 
+SeLLi_G99: folds 
+Kevin12345Mc: folds 
+alencarfu: raises 216 to 396
+Easton01133: folds 
+dncn__789 has timed out
+dncn__789: folds 
+dncn__789 is sitting out
+Uncalled bet (216) returned to alencarfu
+alencarfu collected 666 from pot
+*** SUMMARY ***
+Total pot 666 | Rake 0 
+Seat 1: dncn__789 (big blind) folded before Flop
+Seat 2: nexis1122 folded before Flop (didn't bet)
+Seat 3: RiverBlanKO folded before Flop (didn't bet)
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc folded before Flop (didn't bet)
+Seat 7: alencarfu (button) collected (666)
+Seat 8: Easton01133 (small blind) folded before Flop
+
+
+
+PokerStars Hand #255242225826: Tournament #3866282085, $4.90+$4.90+$1.20 USD Hold'em No Limit - Level X (90/180) - 2025/03/11 18:03:40 WET [2025/03/11 14:03:40 ET]
+Table '3866282085 49' 8-max Seat #8 is the button
+Seat 1: dncn__789 (2560 in chips) is sitting out
+Seat 2: nexis1122 (4973 in chips) 
+Seat 4: FernandesDiz (9820 in chips) 
+Seat 5: SeLLi_G99 (15584 in chips) 
+Seat 6: Kevin12345Mc (4405 in chips) 
+Seat 7: alencarfu (15225 in chips) 
+Seat 8: Easton01133 (4442 in chips) 
+dncn__789: posts the ante 27
+nexis1122: posts the ante 27
+FernandesDiz: posts the ante 27
+SeLLi_G99: posts the ante 27
+Kevin12345Mc: posts the ante 27
+alencarfu: posts the ante 27
+Easton01133: posts the ante 27
+dncn__789: posts small blind 90
+nexis1122: posts big blind 180
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Kh]
+Jonathanhj1 is disconnected 
+FernandesDiz: folds 
+SeLLi_G99: folds 
+Kevin12345Mc: raises 198 to 378
+alencarfu: folds 
+Easton01133: raises 1152 to 1530
+dncn__789: folds 
+nexis1122: folds 
+Kevin12345Mc: calls 1152
+*** FLOP *** [Ts 8c 7c]
+Kevin12345Mc: checks 
+Easton01133: bets 2885 and is all-in
+Kevin12345Mc: calls 2848 and is all-in
+Uncalled bet (37) returned to Easton01133
+*** TURN *** [Ts 8c 7c] [2s]
+*** RIVER *** [Ts 8c 7c 2s] [2h]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [8h Kh] (two pair, Eights and Deuces)
+Easton01133: shows [Qh Qc] (two pair, Queens and Deuces)
+Easton01133 collected 9215 from pot
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 9215 | Rake 0 
+Board [Ts 8c 7c 2s 2h]
+Seat 1: dncn__789 (small blind) folded before Flop
+Seat 2: nexis1122 (big blind) folded before Flop
+Seat 4: FernandesDiz folded before Flop (didn't bet)
+Seat 5: SeLLi_G99 folded before Flop (didn't bet)
+Seat 6: Kevin12345Mc showed [8h Kh] and lost with two pair, Eights and Deuces
+Seat 7: alencarfu folded before Flop (didn't bet)
+Seat 8: Easton01133 (button) showed [Qh Qc] and won (9215) with two pair, Queens and Deuces
+
+
+

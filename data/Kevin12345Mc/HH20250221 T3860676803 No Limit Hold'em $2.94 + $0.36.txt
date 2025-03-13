@@ -1,0 +1,3826 @@
+﻿PokerStars Hand #254971871328: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/21 16:59:57 WET [2025/02/21 11:59:57 ET]
+Table '3860676803 11' 8-max Seat #1 is the button
+Seat 1: 6363N6977 (5000 in chips) 
+Seat 2: miro surf (5000 in chips) 
+Seat 3: xxxESCOxxx1 (5000 in chips) 
+Seat 4: Oraz1966 (5000 in chips) 
+Seat 6: colombo1976 (5000 in chips) 
+Seat 7: x krako x (5000 in chips) 
+Seat 8: Kevin12345Mc (5000 in chips) 
+6363N6977: posts the ante 4
+miro surf: posts the ante 4
+xxxESCOxxx1: posts the ante 4
+Oraz1966: posts the ante 4
+colombo1976: posts the ante 4
+x krako x: posts the ante 4
+Kevin12345Mc: posts the ante 4
+miro surf: posts small blind 15
+xxxESCOxxx1: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 8c]
+Oraz1966: folds 
+Anderson RT2 is disconnected 
+colombo1976: raises 30 to 60
+x krako x: folds 
+Kevin12345Mc: folds 
+6363N6977: folds 
+miro surf: calls 45
+xxxESCOxxx1: calls 30
+*** FLOP *** [As Qs Jh]
+miro surf: checks 
+xxxESCOxxx1: bets 104
+colombo1976: folds 
+miro surf: calls 104
+*** TURN *** [As Qs Jh] [6h]
+miro surf: checks 
+xxxESCOxxx1: bets 416
+miro surf: calls 416
+*** RIVER *** [As Qs Jh 6h] [8h]
+miro surf: checks 
+xxxESCOxxx1: bets 624
+miro surf: calls 624
+*** SHOW DOWN ***
+xxxESCOxxx1: shows [Ks 2s] (high card Ace)
+miro surf: shows [Th Kd] (a straight, Ten to Ace)
+miro surf collected 2496 from pot
+*** SUMMARY ***
+Total pot 2496 | Rake 0 
+Board [As Qs Jh 6h 8h]
+Seat 1: 6363N6977 (button) folded before Flop (didn't bet)
+Seat 2: miro surf (small blind) showed [Th Kd] and won (2496) with a straight, Ten to Ace
+Seat 3: xxxESCOxxx1 (big blind) showed [Ks 2s] and lost with high card Ace
+Seat 4: Oraz1966 folded before Flop (didn't bet)
+Seat 6: colombo1976 folded on the Flop
+Seat 7: x krako x folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971902710: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/21 17:02:31 WET [2025/02/21 12:02:31 ET]
+Table '3860676803 11' 8-max Seat #2 is the button
+Seat 1: 6363N6977 (4996 in chips) 
+Seat 2: miro surf (6288 in chips) 
+Seat 3: xxxESCOxxx1 (3792 in chips) 
+Seat 4: Oraz1966 (4996 in chips) 
+Seat 5: Anderson RT2 (5000 in chips) 
+Seat 6: colombo1976 (4936 in chips) 
+Seat 7: x krako x (4996 in chips) 
+Seat 8: Kevin12345Mc (4996 in chips) 
+6363N6977: posts the ante 4
+miro surf: posts the ante 4
+xxxESCOxxx1: posts the ante 4
+Oraz1966: posts the ante 4
+Anderson RT2: posts the ante 4
+colombo1976: posts the ante 4
+x krako x: posts the ante 4
+Kevin12345Mc: posts the ante 4
+xxxESCOxxx1: posts small blind 15
+Oraz1966: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Qs]
+Anderson RT2: folds 
+colombo1976: raises 30 to 60
+x krako x: folds 
+Kevin12345Mc: folds 
+6363N6977: folds 
+miro surf: calls 60
+xxxESCOxxx1: calls 45
+Oraz1966: calls 30
+*** FLOP *** [Ad Js 3c]
+xxxESCOxxx1: checks 
+Oraz1966: checks 
+colombo1976: bets 60
+miro surf: calls 60
+xxxESCOxxx1: folds 
+Oraz1966: raises 226 to 286
+colombo1976: calls 226
+miro surf: folds 
+*** TURN *** [Ad Js 3c] [6d]
+Oraz1966: bets 452
+colombo1976: calls 452
+*** RIVER *** [Ad Js 3c 6d] [2c]
+Oraz1966: checks 
+colombo1976: checks 
+*** SHOW DOWN ***
+Oraz1966: shows [Td Ah] (a pair of Aces)
+colombo1976: mucks hand 
+Oraz1966 collected 1808 from pot
+*** SUMMARY ***
+Total pot 1808 | Rake 0 
+Board [Ad Js 3c 6d 2c]
+Seat 1: 6363N6977 folded before Flop (didn't bet)
+Seat 2: miro surf (button) folded on the Flop
+Seat 3: xxxESCOxxx1 (small blind) folded on the Flop
+Seat 4: Oraz1966 (big blind) showed [Td Ah] and won (1808) with a pair of Aces
+Seat 5: Anderson RT2 folded before Flop (didn't bet)
+Seat 6: colombo1976 mucked [Th Jh]
+Seat 7: x krako x folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971917693: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/21 17:03:37 WET [2025/02/21 12:03:37 ET]
+Table '3860676803 11' 8-max Seat #3 is the button
+Seat 1: 6363N6977 (4992 in chips) 
+Seat 2: miro surf (6164 in chips) 
+Seat 3: xxxESCOxxx1 (3728 in chips) 
+Seat 4: Oraz1966 (6002 in chips) 
+Seat 5: Anderson RT2 (4996 in chips) 
+Seat 6: colombo1976 (4134 in chips) 
+Seat 7: x krako x (4992 in chips) 
+Seat 8: Kevin12345Mc (4992 in chips) 
+6363N6977: posts the ante 4
+miro surf: posts the ante 4
+xxxESCOxxx1: posts the ante 4
+Oraz1966: posts the ante 4
+Anderson RT2: posts the ante 4
+colombo1976: posts the ante 4
+x krako x: posts the ante 4
+Kevin12345Mc: posts the ante 4
+Oraz1966: posts small blind 15
+Anderson RT2: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h Ts]
+colombo1976: folds 
+x krako x: folds 
+Kevin12345Mc: folds 
+6363N6977: folds 
+miro surf: raises 30 to 60
+xxxESCOxxx1: calls 60
+Oraz1966: folds 
+Anderson RT2: folds 
+*** FLOP *** [Qs Kd 3d]
+miro surf: bets 65
+xxxESCOxxx1: raises 65 to 130
+miro surf: calls 65
+*** TURN *** [Qs Kd 3d] [9c]
+miro surf: checks 
+xxxESCOxxx1: bets 229
+miro surf: folds 
+Uncalled bet (229) returned to xxxESCOxxx1
+xxxESCOxxx1 collected 457 from pot
+xxxESCOxxx1: doesn't show hand 
+*** SUMMARY ***
+Total pot 457 | Rake 0 
+Board [Qs Kd 3d 9c]
+Seat 1: 6363N6977 folded before Flop (didn't bet)
+Seat 2: miro surf folded on the Turn
+Seat 3: xxxESCOxxx1 (button) collected (457)
+Seat 4: Oraz1966 (small blind) folded before Flop
+Seat 5: Anderson RT2 (big blind) folded before Flop
+Seat 6: colombo1976 folded before Flop (didn't bet)
+Seat 7: x krako x folded before Flop (didn't bet)
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971929747: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/21 17:04:29 WET [2025/02/21 12:04:29 ET]
+Table '3860676803 11' 8-max Seat #4 is the button
+Seat 1: 6363N6977 (4988 in chips) 
+Seat 2: miro surf (5970 in chips) 
+Seat 3: xxxESCOxxx1 (3991 in chips) 
+Seat 4: Oraz1966 (5983 in chips) 
+Seat 5: Anderson RT2 (4962 in chips) 
+Seat 6: colombo1976 (4130 in chips) 
+Seat 7: x krako x (4988 in chips) 
+Seat 8: Kevin12345Mc (4988 in chips) 
+6363N6977: posts the ante 4
+miro surf: posts the ante 4
+xxxESCOxxx1: posts the ante 4
+Oraz1966: posts the ante 4
+Anderson RT2: posts the ante 4
+colombo1976: posts the ante 4
+x krako x: posts the ante 4
+Kevin12345Mc: posts the ante 4
+Anderson RT2: posts small blind 15
+colombo1976: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Qs]
+x krako x: raises 36 to 66
+Kevin12345Mc: folds 
+6363N6977: folds 
+miro surf: calls 66
+xxxESCOxxx1: folds 
+Oraz1966: folds 
+Anderson RT2: folds 
+colombo1976: calls 36
+*** FLOP *** [5d Kc 5h]
+colombo1976: checks 
+x krako x: bets 81
+miro surf: calls 81
+colombo1976: calls 81
+*** TURN *** [5d Kc 5h] [4c]
+colombo1976: checks 
+x krako x: checks 
+miro surf: bets 122
+colombo1976: raises 366 to 488
+x krako x: calls 488
+miro surf: calls 366
+*** RIVER *** [5d Kc 5h 4c] [4h]
+colombo1976: bets 1952
+x krako x: calls 1952
+miro surf: calls 1952
+*** SHOW DOWN ***
+colombo1976: shows [5c Qh] (a full house, Fives full of Fours)
+x krako x: mucks hand 
+miro surf: mucks hand 
+colombo1976 collected 7808 from pot
+*** SUMMARY ***
+Total pot 7808 | Rake 0 
+Board [5d Kc 5h 4c 4h]
+Seat 1: 6363N6977 folded before Flop (didn't bet)
+Seat 2: miro surf mucked [Jd Ks]
+Seat 3: xxxESCOxxx1 folded before Flop (didn't bet)
+Seat 4: Oraz1966 (button) folded before Flop (didn't bet)
+Seat 5: Anderson RT2 (small blind) folded before Flop
+Seat 6: colombo1976 (big blind) showed [5c Qh] and won (7808) with a full house, Fives full of Fours
+Seat 7: x krako x mucked [Kh Th]
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971960503: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/21 17:06:42 WET [2025/02/21 12:06:42 ET]
+Table '3860676803 11' 8-max Seat #5 is the button
+Seat 1: 6363N6977 (4984 in chips) 
+Seat 2: miro surf (3379 in chips) 
+Seat 3: xxxESCOxxx1 (3987 in chips) 
+Seat 4: Oraz1966 (5979 in chips) 
+Seat 5: Anderson RT2 (4943 in chips) 
+Seat 6: colombo1976 (9347 in chips) 
+Seat 7: x krako x (2397 in chips) 
+Seat 8: Kevin12345Mc (4984 in chips) 
+6363N6977: posts the ante 4
+miro surf: posts the ante 4
+xxxESCOxxx1: posts the ante 4
+Oraz1966: posts the ante 4
+Anderson RT2: posts the ante 4
+colombo1976: posts the ante 4
+x krako x: posts the ante 4
+Kevin12345Mc: posts the ante 4
+colombo1976: posts small blind 15
+x krako x: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Qc]
+Kevin12345Mc: folds 
+6363N6977: raises 45 to 75
+miro surf: folds 
+xxxESCOxxx1: folds 
+Oraz1966: folds 
+Anderson RT2: folds 
+colombo1976: folds 
+x krako x: calls 45
+*** FLOP *** [4s Kd Ad]
+x krako x: checks 
+6363N6977: bets 59
+x krako x: folds 
+Uncalled bet (59) returned to 6363N6977
+6363N6977 collected 197 from pot
+6363N6977: doesn't show hand 
+*** SUMMARY ***
+Total pot 197 | Rake 0 
+Board [4s Kd Ad]
+Seat 1: 6363N6977 collected (197)
+Seat 2: miro surf folded before Flop (didn't bet)
+Seat 3: xxxESCOxxx1 folded before Flop (didn't bet)
+Seat 4: Oraz1966 folded before Flop (didn't bet)
+Seat 5: Anderson RT2 (button) folded before Flop (didn't bet)
+Seat 6: colombo1976 (small blind) folded before Flop
+Seat 7: x krako x (big blind) folded on the Flop
+Seat 8: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971972448: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/21 17:07:33 WET [2025/02/21 12:07:33 ET]
+Table '3860676803 28' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (4980 in chips) 
+Seat 2: Dominusoid (4950 in chips) 
+Seat 3: johnneilson (5000 in chips) 
+Seat 4: Porstua (4919 in chips) 
+Seat 5: Schaffi999 (4932 in chips) 
+Kevin12345Mc: posts the ante 4
+Dominusoid: posts the ante 4
+johnneilson: posts the ante 4
+Porstua: posts the ante 4
+Schaffi999: posts the ante 4
+Dominusoid: posts small blind 15
+johnneilson: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd Kd]
+johnneilson is disconnected 
+BazzaG32 is disconnected 
+Porstua: folds 
+kangalha is disconnected 
+Schaffi999: folds 
+Kevin12345Mc: raises 39 to 69
+Dominusoid: folds 
+johnneilson: calls 39
+*** FLOP *** [7c 9s As]
+johnneilson: checks 
+Kevin12345Mc: bets 57
+johnneilson: folds 
+Uncalled bet (57) returned to Kevin12345Mc
+Kevin12345Mc collected 173 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 173 | Rake 0 
+Board [7c 9s As]
+Seat 1: Kevin12345Mc (button) collected (173)
+Seat 2: Dominusoid (small blind) folded before Flop
+Seat 3: johnneilson (big blind) folded on the Flop
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254971980759: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/21 17:08:10 WET [2025/02/21 12:08:10 ET]
+Table '3860676803 28' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (5080 in chips) 
+Seat 2: Dominusoid (4931 in chips) 
+Seat 3: johnneilson (4927 in chips) 
+Seat 4: Porstua (4915 in chips) 
+Seat 5: Schaffi999 (4928 in chips) 
+Seat 6: BazzaG32 (9395 in chips) 
+Seat 7: kangalha (4626 in chips) 
+Kevin12345Mc: posts the ante 4
+Dominusoid: posts the ante 4
+johnneilson: posts the ante 4
+Porstua: posts the ante 4
+Schaffi999: posts the ante 4
+BazzaG32: posts the ante 4
+kangalha: posts the ante 4
+johnneilson: posts small blind 15
+Porstua: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 3c]
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: raises 45 to 75
+Kevin12345Mc: folds 
+Dominusoid: folds 
+TazutZ is disconnected 
+johnneilson: folds 
+Porstua: calls 45
+*** FLOP *** [Js 5h Jh]
+Porstua: checks 
+kangalha: checks 
+*** TURN *** [Js 5h Jh] [Td]
+Porstua: checks 
+kangalha: checks 
+*** RIVER *** [Js 5h Jh Td] [2h]
+Porstua: bets 105
+kangalha: folds 
+Uncalled bet (105) returned to Porstua
+Porstua collected 193 from pot
+Porstua: doesn't show hand 
+*** SUMMARY ***
+Total pot 193 | Rake 0 
+Board [Js 5h Jh Td 2h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: Dominusoid (button) folded before Flop (didn't bet)
+Seat 3: johnneilson (small blind) folded before Flop
+Seat 4: Porstua (big blind) collected (193)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded on the River
+
+
+
+PokerStars Hand #254971992964: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level I (15/30) - 2025/02/21 17:09:02 WET [2025/02/21 12:09:02 ET]
+Table '3860676803 28' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (5076 in chips) 
+Seat 2: Dominusoid (4927 in chips) 
+Seat 3: johnneilson (4908 in chips) 
+Seat 4: Porstua (5029 in chips) 
+Seat 5: Schaffi999 (4924 in chips) 
+Seat 6: BazzaG32 (9391 in chips) 
+Seat 7: kangalha (4547 in chips) 
+Seat 8: TazutZ (5000 in chips) 
+Kevin12345Mc: posts the ante 4
+Dominusoid: posts the ante 4
+johnneilson: posts the ante 4
+Porstua: posts the ante 4
+Schaffi999: posts the ante 4
+BazzaG32: posts the ante 4
+kangalha: posts the ante 4
+TazutZ: posts the ante 4
+Porstua: posts small blind 15
+Schaffi999: posts big blind 30
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Ac]
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: folds 
+Kevin12345Mc: folds 
+Dominusoid: folds 
+johnneilson: raises 30 to 60
+Porstua: calls 45
+Schaffi999: calls 30
+*** FLOP *** [Ah 9c 3s]
+Porstua: checks 
+Schaffi999: checks 
+johnneilson: checks 
+*** TURN *** [Ah 9c 3s] [3d]
+Porstua: checks 
+Schaffi999: checks 
+johnneilson: bets 90
+Porstua: folds 
+Schaffi999: calls 90
+*** RIVER *** [Ah 9c 3s 3d] [6h]
+Schaffi999: checks 
+johnneilson: bets 286
+Schaffi999: folds 
+Uncalled bet (286) returned to johnneilson
+johnneilson collected 392 from pot
+johnneilson: doesn't show hand 
+*** SUMMARY ***
+Total pot 392 | Rake 0 
+Board [Ah 9c 3s 3d 6h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: Dominusoid folded before Flop (didn't bet)
+Seat 3: johnneilson (button) collected (392)
+Seat 4: Porstua (small blind) folded on the Turn
+Seat 5: Schaffi999 (big blind) folded on the River
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972022920: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/21 17:11:09 WET [2025/02/21 12:11:09 ET]
+Table '3860676803 28' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (5072 in chips) 
+Seat 2: Dominusoid (4923 in chips) 
+Seat 3: johnneilson (5146 in chips) 
+Seat 4: Porstua (4965 in chips) 
+Seat 5: Schaffi999 (4770 in chips) 
+Seat 6: BazzaG32 (9387 in chips) 
+Seat 7: kangalha (4543 in chips) 
+Seat 8: TazutZ (4996 in chips) 
+Kevin12345Mc: posts the ante 5
+Dominusoid: posts the ante 5
+johnneilson: posts the ante 5
+Porstua: posts the ante 5
+Schaffi999: posts the ante 5
+BazzaG32: posts the ante 5
+kangalha: posts the ante 5
+TazutZ: posts the ante 5
+Schaffi999: posts small blind 20
+BazzaG32: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh Jc]
+kangalha: folds 
+TazutZ: raises 80 to 120
+Kevin12345Mc: calls 120
+Dominusoid: folds 
+johnneilson: folds 
+Porstua: folds 
+Schaffi999: calls 100
+BazzaG32: folds 
+*** FLOP *** [5c 9d 9h]
+Schaffi999: checks 
+TazutZ: bets 280
+Kevin12345Mc: folds 
+Schaffi999: folds 
+Uncalled bet (280) returned to TazutZ
+TazutZ collected 440 from pot
+TazutZ: doesn't show hand 
+*** SUMMARY ***
+Total pot 440 | Rake 0 
+Board [5c 9d 9h]
+Seat 1: Kevin12345Mc folded on the Flop
+Seat 2: Dominusoid folded before Flop (didn't bet)
+Seat 3: johnneilson folded before Flop (didn't bet)
+Seat 4: Porstua (button) folded before Flop (didn't bet)
+Seat 5: Schaffi999 (small blind) folded on the Flop
+Seat 6: BazzaG32 (big blind) folded before Flop
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ collected (440)
+
+
+
+PokerStars Hand #254972040533: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/21 17:12:21 WET [2025/02/21 12:12:21 ET]
+Table '3860676803 28' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (4947 in chips) 
+Seat 2: Dominusoid (4918 in chips) 
+Seat 3: johnneilson (5141 in chips) 
+Seat 4: Porstua (4960 in chips) 
+Seat 5: Schaffi999 (4645 in chips) 
+Seat 6: BazzaG32 (9342 in chips) 
+Seat 7: kangalha (4538 in chips) 
+Seat 8: TazutZ (5311 in chips) 
+Kevin12345Mc: posts the ante 5
+Dominusoid: posts the ante 5
+johnneilson: posts the ante 5
+Porstua: posts the ante 5
+Schaffi999: posts the ante 5
+BazzaG32: posts the ante 5
+kangalha: posts the ante 5
+TazutZ: posts the ante 5
+BazzaG32: posts small blind 20
+kangalha: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 4s]
+TazutZ: folds 
+Kevin12345Mc: folds 
+Dominusoid: folds 
+johnneilson: folds 
+Porstua: folds 
+Schaffi999: raises 80 to 120
+BazzaG32: calls 100
+kangalha: calls 80
+*** FLOP *** [5h 5d 4h]
+BazzaG32: checks 
+kangalha: checks 
+Schaffi999: checks 
+*** TURN *** [5h 5d 4h] [9h]
+BazzaG32: checks 
+kangalha: bets 120
+Schaffi999: folds 
+BazzaG32: folds 
+Uncalled bet (120) returned to kangalha
+kangalha collected 400 from pot
+kangalha: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Board [5h 5d 4h 9h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: Dominusoid folded before Flop (didn't bet)
+Seat 3: johnneilson folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 (button) folded on the Turn
+Seat 6: BazzaG32 (small blind) folded on the Turn
+Seat 7: kangalha (big blind) collected (400)
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972055939: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/21 17:13:25 WET [2025/02/21 12:13:25 ET]
+Table '3860676803 28' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (4942 in chips) 
+Seat 2: Dominusoid (4913 in chips) 
+Seat 3: johnneilson (5136 in chips) 
+Seat 4: Porstua (4955 in chips) 
+Seat 5: Schaffi999 (4520 in chips) 
+Seat 6: BazzaG32 (9217 in chips) 
+Seat 7: kangalha (4813 in chips) 
+Seat 8: TazutZ (5306 in chips) 
+Kevin12345Mc: posts the ante 5
+Dominusoid: posts the ante 5
+johnneilson: posts the ante 5
+Porstua: posts the ante 5
+Schaffi999: posts the ante 5
+BazzaG32: posts the ante 5
+kangalha: posts the ante 5
+TazutZ: posts the ante 5
+kangalha: posts small blind 20
+TazutZ: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 3d]
+Kevin12345Mc: folds 
+Dominusoid: folds 
+johnneilson: folds 
+Porstua: raises 52 to 92
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: calls 52
+*** FLOP *** [5h 9h 9d]
+TazutZ: checks 
+Porstua: bets 76
+TazutZ: folds 
+Uncalled bet (76) returned to Porstua
+Porstua collected 244 from pot
+Porstua: doesn't show hand 
+*** SUMMARY ***
+Total pot 244 | Rake 0 
+Board [5h 9h 9d]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: Dominusoid folded before Flop (didn't bet)
+Seat 3: johnneilson folded before Flop (didn't bet)
+Seat 4: Porstua collected (244)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 (button) folded before Flop (didn't bet)
+Seat 7: kangalha (small blind) folded before Flop
+Seat 8: TazutZ (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254972075995: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/21 17:14:48 WET [2025/02/21 12:14:48 ET]
+Table '3860676803 28' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (4937 in chips) 
+Seat 2: Dominusoid (4908 in chips) 
+Seat 3: johnneilson (5131 in chips) 
+Seat 4: Porstua (5102 in chips) 
+Seat 5: Schaffi999 (4515 in chips) 
+Seat 6: BazzaG32 (9212 in chips) 
+Seat 7: kangalha (4788 in chips) 
+Seat 8: TazutZ (5209 in chips) 
+Kevin12345Mc: posts the ante 5
+Dominusoid: posts the ante 5
+johnneilson: posts the ante 5
+Porstua: posts the ante 5
+Schaffi999: posts the ante 5
+BazzaG32: posts the ante 5
+kangalha: posts the ante 5
+TazutZ: posts the ante 5
+TazutZ: posts small blind 20
+Kevin12345Mc: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Kh]
+Dominusoid: raises 40 to 80
+johnneilson: calls 80
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: folds 
+Kevin12345Mc: raises 280 to 360
+Dominusoid: calls 280
+johnneilson: folds 
+*** FLOP *** [Jh 3s 4s]
+Kevin12345Mc: bets 284
+Dominusoid: calls 284
+*** TURN *** [Jh 3s 4s] [Qc]
+Kevin12345Mc: bets 471
+Dominusoid: calls 471
+*** RIVER *** [Jh 3s 4s Qc] [3h]
+Kevin12345Mc: bets 3817 and is all-in
+Dominusoid: folds 
+Uncalled bet (3817) returned to Kevin12345Mc
+Kevin12345Mc collected 2370 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 2370 | Rake 0 
+Board [Jh 3s 4s Qc 3h]
+Seat 1: Kevin12345Mc (big blind) collected (2370)
+Seat 2: Dominusoid folded on the River
+Seat 3: johnneilson folded before Flop
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha (button) folded before Flop (didn't bet)
+Seat 8: TazutZ (small blind) folded before Flop
+
+
+
+PokerStars Hand #254972100547: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/21 17:16:28 WET [2025/02/21 12:16:28 ET]
+Table '3860676803 28' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (6187 in chips) 
+Seat 3: johnneilson (5046 in chips) 
+Seat 4: Porstua (5097 in chips) 
+Seat 5: Schaffi999 (4510 in chips) 
+Seat 6: BazzaG32 (9207 in chips) 
+Seat 7: kangalha (4783 in chips) 
+Seat 8: TazutZ (5184 in chips) 
+Kevin12345Mc: posts the ante 5
+johnneilson: posts the ante 5
+Porstua: posts the ante 5
+Schaffi999: posts the ante 5
+BazzaG32: posts the ante 5
+kangalha: posts the ante 5
+TazutZ: posts the ante 5
+Kevin12345Mc: posts small blind 20
+johnneilson: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 3d]
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: raises 114 to 154
+kangalha: folds 
+TazutZ: raises 320 to 474
+Kevin12345Mc: folds 
+johnneilson: folds 
+BazzaG32: calls 320
+*** FLOP *** [Th Qs Js]
+BazzaG32: bets 887
+FehVitor#PQD is disconnected 
+TazutZ: calls 887
+*** TURN *** [Th Qs Js] [8h]
+BazzaG32: checks 
+TazutZ: checks 
+*** RIVER *** [Th Qs Js 8h] [Kd]
+BazzaG32: bets 2394
+TazutZ: calls 2394
+*** SHOW DOWN ***
+BazzaG32: shows [Ah Ac] (a straight, Ten to Ace)
+TazutZ: shows [As Tc] (a straight, Ten to Ace)
+BazzaG32 collected 3803 from pot
+TazutZ collected 3802 from pot
+*** SUMMARY ***
+Total pot 7605 | Rake 0 
+Board [Th Qs Js 8h Kd]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 3: johnneilson (big blind) folded before Flop
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 showed [Ah Ac] and won (3803) with a straight, Ten to Ace
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ (button) showed [As Tc] and won (3802) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #254972119793: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/21 17:17:45 WET [2025/02/21 12:17:45 ET]
+Table '3860676803 28' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (6162 in chips) 
+Seat 2: FehVitor#PQD (5000 in chips) out of hand (moved from another table into small blind)
+Seat 3: johnneilson (5001 in chips) 
+Seat 4: Porstua (5092 in chips) 
+Seat 5: Schaffi999 (4505 in chips) 
+Seat 6: BazzaG32 (9250 in chips) 
+Seat 7: kangalha (4778 in chips) 
+Seat 8: TazutZ (5226 in chips) 
+FehVitor#PQD will be allowed to play after the button
+Kevin12345Mc: posts the ante 5
+johnneilson: posts the ante 5
+Porstua: posts the ante 5
+Schaffi999: posts the ante 5
+BazzaG32: posts the ante 5
+kangalha: posts the ante 5
+TazutZ: posts the ante 5
+johnneilson: posts small blind 20
+Porstua: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d 2h]
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: folds 
+Kevin12345Mc: folds 
+johnneilson: raises 40 to 80
+Porstua: calls 40
+*** FLOP *** [6h 3c 4h]
+johnneilson: checks 
+Porstua: checks 
+*** TURN *** [6h 3c 4h] [9h]
+johnneilson: checks 
+Porstua: bets 94
+johnneilson: folds 
+Uncalled bet (94) returned to Porstua
+Porstua collected 195 from pot
+Porstua: doesn't show hand 
+*** SUMMARY ***
+Total pot 195 | Rake 0 
+Board [6h 3c 4h 9h]
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 3: johnneilson (small blind) folded on the Turn
+Seat 4: Porstua (big blind) collected (195)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972134539: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level II (20/40) - 2025/02/21 17:18:45 WET [2025/02/21 12:18:45 ET]
+Table '3860676803 28' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (6157 in chips) 
+Seat 2: FehVitor#PQD (5000 in chips) 
+Seat 3: johnneilson (4916 in chips) 
+Seat 4: Porstua (5202 in chips) 
+Seat 5: Schaffi999 (4500 in chips) 
+Seat 6: BazzaG32 (9245 in chips) 
+Seat 7: kangalha (4773 in chips) 
+Seat 8: TazutZ (5221 in chips) 
+Kevin12345Mc: posts the ante 5
+FehVitor#PQD: posts the ante 5
+johnneilson: posts the ante 5
+Porstua: posts the ante 5
+Schaffi999: posts the ante 5
+BazzaG32: posts the ante 5
+kangalha: posts the ante 5
+TazutZ: posts the ante 5
+Porstua: posts small blind 20
+Schaffi999: posts big blind 40
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 6c]
+BazzaG32: folds 
+kangalha: raises 44 to 84
+TazutZ: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+johnneilson: calls 84
+Porstua: folds 
+Schaffi999: folds 
+*** FLOP *** [3c Kh 9h]
+kangalha: checks 
+johnneilson: checks 
+*** TURN *** [3c Kh 9h] [5c]
+kangalha: checks 
+johnneilson: bets 134
+kangalha: calls 134
+*** RIVER *** [3c Kh 9h 5c] [3h]
+kangalha: checks 
+johnneilson: bets 308
+kangalha: folds 
+Uncalled bet (308) returned to johnneilson
+johnneilson collected 536 from pot
+johnneilson: doesn't show hand 
+*** SUMMARY ***
+Total pot 536 | Rake 0 
+Board [3c Kh 9h 5c 3h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: johnneilson (button) collected (536)
+Seat 4: Porstua (small blind) folded before Flop
+Seat 5: Schaffi999 (big blind) folded before Flop
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded on the River
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972160871: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/21 17:20:31 WET [2025/02/21 12:20:31 ET]
+Table '3860676803 28' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (6152 in chips) 
+Seat 2: FehVitor#PQD (4995 in chips) 
+Seat 3: johnneilson (5229 in chips) 
+Seat 4: Porstua (5177 in chips) 
+Seat 5: Schaffi999 (4455 in chips) 
+Seat 6: BazzaG32 (9240 in chips) 
+Seat 7: kangalha (4550 in chips) 
+Seat 8: TazutZ (5216 in chips) 
+Kevin12345Mc: posts the ante 6
+FehVitor#PQD: posts the ante 6
+johnneilson: posts the ante 6
+Porstua: posts the ante 6
+Schaffi999: posts the ante 6
+BazzaG32: posts the ante 6
+kangalha: posts the ante 6
+TazutZ: posts the ante 6
+Schaffi999: posts small blind 25
+BazzaG32: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s Ks]
+kangalha: folds 
+TazutZ: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+johnneilson: folds 
+Porstua: raises 65 to 115
+Schaffi999: folds 
+BazzaG32: calls 65
+*** FLOP *** [4c 9c Ac]
+BazzaG32: checks 
+Porstua: bets 145
+BazzaG32: calls 145
+*** TURN *** [4c 9c Ac] [4h]
+BazzaG32: checks 
+Porstua: bets 463
+BazzaG32: calls 463
+*** RIVER *** [4c 9c Ac 4h] [3c]
+BazzaG32: checks 
+Porstua: checks 
+*** SHOW DOWN ***
+BazzaG32: shows [6d 6s] (two pair, Sixes and Fours)
+Porstua: shows [Kh Ad] (two pair, Aces and Fours)
+Porstua collected 1519 from pot
+*** SUMMARY ***
+Total pot 1519 | Rake 0 
+Board [4c 9c Ac 4h 3c]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: johnneilson folded before Flop (didn't bet)
+Seat 4: Porstua (button) showed [Kh Ad] and won (1519) with two pair, Aces and Fours
+Seat 5: Schaffi999 (small blind) folded before Flop
+Seat 6: BazzaG32 (big blind) showed [6d 6s] and lost with two pair, Sixes and Fours
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972175093: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/21 17:21:29 WET [2025/02/21 12:21:29 ET]
+Table '3860676803 28' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (6146 in chips) 
+Seat 2: FehVitor#PQD (4989 in chips) 
+Seat 3: johnneilson (5223 in chips) 
+Seat 4: Porstua (5967 in chips) 
+Seat 5: Schaffi999 (4424 in chips) 
+Seat 6: BazzaG32 (8511 in chips) 
+Seat 7: kangalha (4544 in chips) 
+Seat 8: TazutZ (5210 in chips) 
+Kevin12345Mc: posts the ante 6
+FehVitor#PQD: posts the ante 6
+johnneilson: posts the ante 6
+Porstua: posts the ante 6
+Schaffi999: posts the ante 6
+BazzaG32: posts the ante 6
+kangalha: posts the ante 6
+TazutZ: posts the ante 6
+BazzaG32: posts small blind 25
+kangalha: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c 9s]
+TazutZ: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+johnneilson: folds 
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: folds 
+Uncalled bet (25) returned to kangalha
+kangalha collected 98 from pot
+kangalha: doesn't show hand 
+*** SUMMARY ***
+Total pot 98 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: johnneilson folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 (button) folded before Flop (didn't bet)
+Seat 6: BazzaG32 (small blind) folded before Flop
+Seat 7: kangalha (big blind) collected (98)
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972184258: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/21 17:22:07 WET [2025/02/21 12:22:07 ET]
+Table '3860676803 28' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (6140 in chips) 
+Seat 2: FehVitor#PQD (4983 in chips) 
+Seat 3: johnneilson (5217 in chips) 
+Seat 4: Porstua (5961 in chips) 
+Seat 5: Schaffi999 (4418 in chips) 
+Seat 6: BazzaG32 (8480 in chips) 
+Seat 7: kangalha (4611 in chips) 
+Seat 8: TazutZ (5204 in chips) 
+Kevin12345Mc: posts the ante 6
+FehVitor#PQD: posts the ante 6
+johnneilson: posts the ante 6
+Porstua: posts the ante 6
+Schaffi999: posts the ante 6
+BazzaG32: posts the ante 6
+kangalha: posts the ante 6
+TazutZ: posts the ante 6
+kangalha: posts small blind 25
+TazutZ: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Td]
+Kevin12345Mc: folds 
+FehVitor#PQD: raises 100 to 150
+johnneilson: folds 
+Porstua: folds 
+Schaffi999: calls 150
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: calls 100
+*** FLOP *** [Qh 9s 8h]
+TazutZ: checks 
+FehVitor#PQD: bets 173
+Schaffi999: folds 
+TazutZ: calls 173
+*** TURN *** [Qh 9s 8h] [3c]
+TazutZ: checks 
+FehVitor#PQD: bets 450
+TazutZ: calls 450
+*** RIVER *** [Qh 9s 8h 3c] [Qd]
+TazutZ: checks 
+FehVitor#PQD: bets 1256
+TazutZ: calls 1256
+*** SHOW DOWN ***
+FehVitor#PQD: shows [9c 9h] (a full house, Nines full of Queens)
+TazutZ: mucks hand 
+FehVitor#PQD collected 4281 from pot
+*** SUMMARY ***
+Total pot 4281 | Rake 0 
+Board [Qh 9s 8h 3c Qd]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD showed [9c 9h] and won (4281) with a full house, Nines full of Queens
+Seat 3: johnneilson folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded on the Flop
+Seat 6: BazzaG32 (button) folded before Flop (didn't bet)
+Seat 7: kangalha (small blind) folded before Flop
+Seat 8: TazutZ (big blind) mucked [Qc Js]
+
+
+
+PokerStars Hand #254972207705: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/21 17:23:42 WET [2025/02/21 12:23:42 ET]
+Table '3860676803 28' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (6134 in chips) 
+Seat 2: FehVitor#PQD (7229 in chips) 
+Seat 3: johnneilson (5211 in chips) 
+Seat 4: Porstua (5955 in chips) 
+Seat 5: Schaffi999 (4262 in chips) 
+Seat 6: BazzaG32 (8474 in chips) 
+Seat 7: kangalha (4580 in chips) 
+Seat 8: TazutZ (3169 in chips) 
+Kevin12345Mc: posts the ante 6
+FehVitor#PQD: posts the ante 6
+johnneilson: posts the ante 6
+Porstua: posts the ante 6
+Schaffi999: posts the ante 6
+BazzaG32: posts the ante 6
+kangalha: posts the ante 6
+TazutZ: posts the ante 6
+TazutZ: posts small blind 25
+Kevin12345Mc: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Qh]
+FehVitor#PQD: raises 100 to 150
+johnneilson: calls 150
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: calls 125
+Kevin12345Mc: calls 100
+*** FLOP *** [5h 5d 2c]
+TazutZ: checks 
+Kevin12345Mc: checks 
+FehVitor#PQD: checks 
+johnneilson: checks 
+*** TURN *** [5h 5d 2c] [8c]
+TazutZ: checks 
+Kevin12345Mc: bets 324
+FehVitor#PQD: folds 
+johnneilson: calls 324
+TazutZ: folds 
+*** RIVER *** [5h 5d 2c 8c] [8d]
+Kevin12345Mc: bets 5654 and is all-in
+johnneilson: folds [2d 2s]
+Uncalled bet (5654) returned to Kevin12345Mc
+Kevin12345Mc collected 1296 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1296 | Rake 0 
+Board [5h 5d 2c 8c 8d]
+Seat 1: Kevin12345Mc (big blind) collected (1296)
+Seat 2: FehVitor#PQD folded on the Turn
+Seat 3: johnneilson folded on the River
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha (button) folded before Flop (didn't bet)
+Seat 8: TazutZ (small blind) folded on the Turn
+
+
+
+PokerStars Hand #254972243936: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/21 17:26:10 WET [2025/02/21 12:26:10 ET]
+Table '3860676803 28' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (6950 in chips) 
+Seat 2: FehVitor#PQD (7073 in chips) 
+Seat 3: johnneilson (4731 in chips) 
+Seat 4: Porstua (5949 in chips) 
+Seat 5: Schaffi999 (4256 in chips) 
+Seat 6: BazzaG32 (8468 in chips) 
+Seat 7: kangalha (4574 in chips) 
+Seat 8: TazutZ (3013 in chips) 
+Kevin12345Mc: posts the ante 6
+FehVitor#PQD: posts the ante 6
+johnneilson: posts the ante 6
+Porstua: posts the ante 6
+Schaffi999: posts the ante 6
+BazzaG32: posts the ante 6
+kangalha: posts the ante 6
+TazutZ: posts the ante 6
+Kevin12345Mc: posts small blind 25
+FehVitor#PQD: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Kh]
+johnneilson: folds 
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: raises 75 to 125
+Kevin12345Mc: folds 
+FehVitor#PQD: calls 75
+*** FLOP *** [5d Ah 4c]
+FehVitor#PQD: checks 
+TazutZ: checks 
+*** TURN *** [5d Ah 4c] [3s]
+FehVitor#PQD: checks 
+TazutZ: checks 
+*** RIVER *** [5d Ah 4c 3s] [9s]
+FehVitor#PQD: bets 229
+TazutZ: calls 229
+*** SHOW DOWN ***
+FehVitor#PQD: shows [Tc 8c] (high card Ace)
+TazutZ: shows [Jc Jh] (a pair of Jacks)
+TazutZ collected 781 from pot
+*** SUMMARY ***
+Total pot 781 | Rake 0 
+Board [5d Ah 4c 3s 9s]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: FehVitor#PQD (big blind) showed [Tc 8c] and lost with high card Ace
+Seat 3: johnneilson folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ (button) showed [Jc Jh] and won (781) with a pair of Jacks
+
+
+
+PokerStars Hand #254972268763: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/21 17:27:51 WET [2025/02/21 12:27:51 ET]
+Table '3860676803 28' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (6919 in chips) 
+Seat 2: FehVitor#PQD (6713 in chips) 
+Seat 3: johnneilson (4725 in chips) 
+Seat 4: Porstua (5943 in chips) 
+Seat 5: Schaffi999 (4250 in chips) 
+Seat 6: BazzaG32 (8462 in chips) 
+Seat 7: kangalha (4568 in chips) 
+Seat 8: TazutZ (3434 in chips) 
+Kevin12345Mc: posts the ante 6
+FehVitor#PQD: posts the ante 6
+johnneilson: posts the ante 6
+Porstua: posts the ante 6
+Schaffi999: posts the ante 6
+BazzaG32: posts the ante 6
+kangalha: posts the ante 6
+TazutZ: posts the ante 6
+FehVitor#PQD: posts small blind 25
+johnneilson: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Jd]
+Porstua: raises 50 to 100
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: folds 
+Kevin12345Mc: raises 250 to 350
+FehVitor#PQD: folds 
+johnneilson: calls 300
+Porstua: calls 250
+*** FLOP *** [Kd 2d Ts]
+johnneilson: checks 
+Porstua: checks 
+Kevin12345Mc: checks 
+*** TURN *** [Kd 2d Ts] [8d]
+johnneilson: checks 
+Porstua: bets 575
+Kevin12345Mc: folds 
+johnneilson: folds 
+Uncalled bet (575) returned to Porstua
+Porstua collected 1123 from pot
+Porstua: doesn't show hand 
+*** SUMMARY ***
+Total pot 1123 | Rake 0 
+Board [Kd 2d Ts 8d]
+Seat 1: Kevin12345Mc (button) folded on the Turn
+Seat 2: FehVitor#PQD (small blind) folded before Flop
+Seat 3: johnneilson (big blind) folded on the Turn
+Seat 4: Porstua collected (1123)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972292986: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level III (25/50) - 2025/02/21 17:29:31 WET [2025/02/21 12:29:31 ET]
+Table '3860676803 28' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (6563 in chips) 
+Seat 2: FehVitor#PQD (6682 in chips) 
+Seat 3: johnneilson (4369 in chips) 
+Seat 4: Porstua (6710 in chips) 
+Seat 5: Schaffi999 (4244 in chips) 
+Seat 6: BazzaG32 (8456 in chips) 
+Seat 7: kangalha (4562 in chips) 
+Seat 8: TazutZ (3428 in chips) 
+Kevin12345Mc: posts the ante 6
+FehVitor#PQD: posts the ante 6
+johnneilson: posts the ante 6
+Porstua: posts the ante 6
+Schaffi999: posts the ante 6
+BazzaG32: posts the ante 6
+kangalha: posts the ante 6
+TazutZ: posts the ante 6
+johnneilson: posts small blind 25
+Porstua: posts big blind 50
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc Ah]
+Schaffi999: calls 50
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: folds 
+Kevin12345Mc: raises 65 to 115
+FehVitor#PQD: calls 115
+johnneilson: folds 
+Porstua: calls 65
+Schaffi999: calls 65
+*** FLOP *** [3s 9s Kh]
+Porstua: checks 
+Schaffi999: checks 
+Kevin12345Mc: checks 
+FehVitor#PQD: checks 
+*** TURN *** [3s 9s Kh] [6c]
+Porstua: bets 175
+Schaffi999: calls 175
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+*** RIVER *** [3s 9s Kh 6c] [3c]
+Porstua: checks 
+Schaffi999: checks 
+*** SHOW DOWN ***
+Porstua: shows [2s Ks] (two pair, Kings and Threes)
+Schaffi999: mucks hand 
+Porstua collected 883 from pot
+*** SUMMARY ***
+Total pot 883 | Rake 0 
+Board [3s 9s Kh 6c 3c]
+Seat 1: Kevin12345Mc folded on the Turn
+Seat 2: FehVitor#PQD (button) folded on the Turn
+Seat 3: johnneilson (small blind) folded before Flop
+Seat 4: Porstua (big blind) showed [2s Ks] and won (883) with two pair, Kings and Threes
+Seat 5: Schaffi999 mucked [7s 8s]
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972318331: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/21 17:31:12 WET [2025/02/21 12:31:12 ET]
+Table '3860676803 28' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (6442 in chips) 
+Seat 2: FehVitor#PQD (6561 in chips) 
+Seat 3: johnneilson (4338 in chips) 
+Seat 4: Porstua (7297 in chips) 
+Seat 5: Schaffi999 (3948 in chips) 
+Seat 6: BazzaG32 (8450 in chips) 
+Seat 7: kangalha (4556 in chips) 
+Seat 8: TazutZ (3422 in chips) 
+Kevin12345Mc: posts the ante 8
+FehVitor#PQD: posts the ante 8
+johnneilson: posts the ante 8
+Porstua: posts the ante 8
+Schaffi999: posts the ante 8
+BazzaG32: posts the ante 8
+kangalha: posts the ante 8
+TazutZ: posts the ante 8
+Porstua: posts small blind 30
+Schaffi999: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 7s]
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: raises 72 to 132
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+johnneilson: folds 
+Porstua: folds 
+Schaffi999: folds 
+Uncalled bet (72) returned to TazutZ
+TazutZ collected 214 from pot
+TazutZ: doesn't show hand 
+*** SUMMARY ***
+Total pot 214 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: johnneilson (button) folded before Flop (didn't bet)
+Seat 4: Porstua (small blind) folded before Flop
+Seat 5: Schaffi999 (big blind) folded before Flop
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ collected (214)
+
+
+
+PokerStars Hand #254972326506: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/21 17:31:45 WET [2025/02/21 12:31:45 ET]
+Table '3860676803 28' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (6434 in chips) 
+Seat 2: FehVitor#PQD (6553 in chips) 
+Seat 3: johnneilson (4330 in chips) 
+Seat 4: Porstua (7259 in chips) 
+Seat 5: Schaffi999 (3880 in chips) 
+Seat 6: BazzaG32 (8442 in chips) 
+Seat 7: kangalha (4548 in chips) 
+Seat 8: TazutZ (3568 in chips) 
+Kevin12345Mc: posts the ante 8
+FehVitor#PQD: posts the ante 8
+johnneilson: posts the ante 8
+Porstua: posts the ante 8
+Schaffi999: posts the ante 8
+BazzaG32: posts the ante 8
+kangalha: posts the ante 8
+TazutZ: posts the ante 8
+Schaffi999: posts small blind 30
+BazzaG32: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2h Kh]
+kangalha: folds 
+TazutZ: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+johnneilson: raises 60 to 120
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: folds 
+Uncalled bet (60) returned to johnneilson
+johnneilson collected 214 from pot
+johnneilson: doesn't show hand 
+*** SUMMARY ***
+Total pot 214 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: johnneilson collected (214)
+Seat 4: Porstua (button) folded before Flop (didn't bet)
+Seat 5: Schaffi999 (small blind) folded before Flop
+Seat 6: BazzaG32 (big blind) folded before Flop
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972334412: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/21 17:32:17 WET [2025/02/21 12:32:17 ET]
+Table '3860676803 28' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (6426 in chips) 
+Seat 2: FehVitor#PQD (6545 in chips) 
+Seat 3: johnneilson (4476 in chips) 
+Seat 4: Porstua (7251 in chips) 
+Seat 5: Schaffi999 (3842 in chips) 
+Seat 6: BazzaG32 (8374 in chips) 
+Seat 7: kangalha (4540 in chips) 
+Seat 8: TazutZ (3560 in chips) 
+Kevin12345Mc: posts the ante 8
+FehVitor#PQD: posts the ante 8
+johnneilson: posts the ante 8
+Porstua: posts the ante 8
+Schaffi999: posts the ante 8
+BazzaG32: posts the ante 8
+kangalha: posts the ante 8
+TazutZ: posts the ante 8
+BazzaG32: posts small blind 30
+kangalha: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 5d]
+TazutZ: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+johnneilson: raises 60 to 120
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: calls 90
+kangalha: calls 60
+*** FLOP *** [7s 4c Jd]
+BazzaG32: checks 
+kangalha: checks 
+johnneilson: checks 
+*** TURN *** [7s 4c Jd] [6d]
+BazzaG32: checks 
+kangalha: checks 
+johnneilson: checks 
+*** RIVER *** [7s 4c Jd 6d] [4d]
+BazzaG32: checks 
+kangalha: checks 
+johnneilson: checks 
+*** SHOW DOWN ***
+BazzaG32: shows [Tc Kh] (a pair of Fours)
+kangalha: mucks hand 
+johnneilson: shows [Qd Ac] (a pair of Fours - Ace kicker)
+johnneilson collected 424 from pot
+*** SUMMARY ***
+Total pot 424 | Rake 0 
+Board [7s 4c Jd 6d 4d]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: johnneilson showed [Qd Ac] and won (424) with a pair of Fours
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 (button) folded before Flop (didn't bet)
+Seat 6: BazzaG32 (small blind) showed [Tc Kh] and lost with a pair of Fours
+Seat 7: kangalha (big blind) mucked [5h 2h]
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972351600: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/21 17:33:26 WET [2025/02/21 12:33:26 ET]
+Table '3860676803 28' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (6418 in chips) 
+Seat 2: FehVitor#PQD (6537 in chips) 
+Seat 3: johnneilson (4772 in chips) 
+Seat 4: Porstua (7243 in chips) 
+Seat 5: Schaffi999 (3834 in chips) 
+Seat 6: BazzaG32 (8246 in chips) 
+Seat 7: kangalha (4412 in chips) 
+Seat 8: TazutZ (3552 in chips) 
+Kevin12345Mc: posts the ante 8
+FehVitor#PQD: posts the ante 8
+johnneilson: posts the ante 8
+Porstua: posts the ante 8
+Schaffi999: posts the ante 8
+BazzaG32: posts the ante 8
+kangalha: posts the ante 8
+TazutZ: posts the ante 8
+kangalha: posts small blind 30
+TazutZ: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs Jd]
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+johnneilson: folds 
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha has timed out
+kangalha: folds 
+kangalha is sitting out
+Uncalled bet (30) returned to TazutZ
+TazutZ collected 124 from pot
+TazutZ: doesn't show hand 
+kangalha has returned
+*** SUMMARY ***
+Total pot 124 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: johnneilson folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 (button) folded before Flop (didn't bet)
+Seat 7: kangalha (small blind) folded before Flop
+Seat 8: TazutZ (big blind) collected (124)
+
+
+
+PokerStars Hand #254972360679: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/21 17:34:03 WET [2025/02/21 12:34:03 ET]
+Table '3860676803 28' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (6410 in chips) 
+Seat 2: FehVitor#PQD (6529 in chips) 
+Seat 3: johnneilson (4764 in chips) 
+Seat 4: Porstua (7235 in chips) 
+Seat 5: Schaffi999 (3826 in chips) 
+Seat 6: BazzaG32 (8238 in chips) 
+Seat 7: kangalha (4374 in chips) 
+Seat 8: TazutZ (3638 in chips) 
+Kevin12345Mc: posts the ante 8
+FehVitor#PQD: posts the ante 8
+johnneilson: posts the ante 8
+Porstua: posts the ante 8
+Schaffi999: posts the ante 8
+BazzaG32: posts the ante 8
+kangalha: posts the ante 8
+TazutZ: posts the ante 8
+TazutZ: posts small blind 30
+Kevin12345Mc: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7s Kc]
+FehVitor#PQD: folds 
+johnneilson: folds 
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: calls 30
+Kevin12345Mc: checks 
+*** FLOP *** [Th 9c 4s]
+TazutZ: checks 
+Kevin12345Mc: checks 
+*** TURN *** [Th 9c 4s] [6d]
+TazutZ: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Th 9c 4s 6d] [2c]
+TazutZ: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+TazutZ: shows [7d Jd] (high card Jack)
+Kevin12345Mc: shows [7s Kc] (high card King)
+Kevin12345Mc collected 184 from pot
+*** SUMMARY ***
+Total pot 184 | Rake 0 
+Board [Th 9c 4s 6d 2c]
+Seat 1: Kevin12345Mc (big blind) showed [7s Kc] and won (184) with high card King
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: johnneilson folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha (button) folded before Flop (didn't bet)
+Seat 8: TazutZ (small blind) showed [7d Jd] and lost with high card Jack
+
+
+
+PokerStars Hand #254972374248: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/21 17:34:57 WET [2025/02/21 12:34:57 ET]
+Table '3860676803 28' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (6526 in chips) 
+Seat 2: FehVitor#PQD (6521 in chips) 
+Seat 3: johnneilson (4756 in chips) 
+Seat 4: Porstua (7227 in chips) 
+Seat 5: Schaffi999 (3818 in chips) 
+Seat 6: BazzaG32 (8230 in chips) 
+Seat 7: kangalha (4366 in chips) 
+Seat 8: TazutZ (3570 in chips) 
+Kevin12345Mc: posts the ante 8
+FehVitor#PQD: posts the ante 8
+johnneilson: posts the ante 8
+Porstua: posts the ante 8
+Schaffi999: posts the ante 8
+BazzaG32: posts the ante 8
+kangalha: posts the ante 8
+TazutZ: posts the ante 8
+Kevin12345Mc: posts small blind 30
+FehVitor#PQD: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Jh]
+johnneilson: raises 60 to 120
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: calls 120
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+*** FLOP *** [4s 3h 6s]
+johnneilson: checks 
+TazutZ: checks 
+*** TURN *** [4s 3h 6s] [7s]
+johnneilson: checks 
+TazutZ: checks 
+*** RIVER *** [4s 3h 6s 7s] [8s]
+johnneilson: bets 257
+TazutZ: folds 
+Uncalled bet (257) returned to johnneilson
+johnneilson collected 394 from pot
+johnneilson: doesn't show hand 
+*** SUMMARY ***
+Total pot 394 | Rake 0 
+Board [4s 3h 6s 7s 8s]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: FehVitor#PQD (big blind) folded before Flop
+Seat 3: johnneilson collected (394)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ (button) folded on the River
+
+
+
+PokerStars Hand #254972395917: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/21 17:36:25 WET [2025/02/21 12:36:25 ET]
+Table '3860676803 28' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (6488 in chips) 
+Seat 2: FehVitor#PQD (6453 in chips) 
+Seat 3: johnneilson (5022 in chips) 
+Seat 4: Porstua (7219 in chips) 
+Seat 5: Schaffi999 (3810 in chips) 
+Seat 6: BazzaG32 (8222 in chips) 
+Seat 7: kangalha (4358 in chips) 
+Seat 8: TazutZ (3442 in chips) 
+Kevin12345Mc: posts the ante 8
+FehVitor#PQD: posts the ante 8
+johnneilson: posts the ante 8
+Porstua: posts the ante 8
+Schaffi999: posts the ante 8
+BazzaG32: posts the ante 8
+kangalha: posts the ante 8
+TazutZ: posts the ante 8
+FehVitor#PQD: posts small blind 30
+johnneilson: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 6s]
+Porstua: folds 
+Schaffi999: calls 60
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+johnneilson: checks 
+*** FLOP *** [7c Js 2h]
+johnneilson: checks 
+Schaffi999: checks 
+*** TURN *** [7c Js 2h] [Ad]
+johnneilson: checks 
+Schaffi999: checks 
+*** RIVER *** [7c Js 2h Ad] [Qd]
+johnneilson: bets 120
+Schaffi999: folds 
+Uncalled bet (120) returned to johnneilson
+johnneilson collected 214 from pot
+johnneilson: doesn't show hand 
+*** SUMMARY ***
+Total pot 214 | Rake 0 
+Board [7c Js 2h Ad Qd]
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD (small blind) folded before Flop
+Seat 3: johnneilson (big blind) collected (214)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded on the River
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972415070: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/21 17:37:43 WET [2025/02/21 12:37:43 ET]
+Table '3860676803 28' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (6480 in chips) 
+Seat 2: FehVitor#PQD (6415 in chips) 
+Seat 3: johnneilson (5168 in chips) 
+Seat 4: Porstua (7211 in chips) 
+Seat 5: Schaffi999 (3742 in chips) 
+Seat 6: BazzaG32 (8214 in chips) 
+Seat 7: kangalha (4350 in chips) 
+Seat 8: TazutZ (3434 in chips) 
+Kevin12345Mc: posts the ante 8
+FehVitor#PQD: posts the ante 8
+johnneilson: posts the ante 8
+Porstua: posts the ante 8
+Schaffi999: posts the ante 8
+BazzaG32: posts the ante 8
+kangalha: posts the ante 8
+TazutZ: posts the ante 8
+johnneilson: posts small blind 30
+Porstua: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 9d]
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: raises 120 to 180
+johnneilson: folds 
+Porstua: calls 120
+*** FLOP *** [8c Ac 3d]
+Porstua: checks 
+FehVitor#PQD: bets 150
+Porstua: calls 150
+*** TURN *** [8c Ac 3d] [2c]
+Porstua: checks 
+FehVitor#PQD: bets 377
+Porstua: folds 
+Uncalled bet (377) returned to FehVitor#PQD
+FehVitor#PQD collected 754 from pot
+FehVitor#PQD: doesn't show hand 
+*** SUMMARY ***
+Total pot 754 | Rake 0 
+Board [8c Ac 3d 2c]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD (button) collected (754)
+Seat 3: johnneilson (small blind) folded before Flop
+Seat 4: Porstua (big blind) folded on the Turn
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972431030: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level IV (30/60) - 2025/02/21 17:38:48 WET [2025/02/21 12:38:48 ET]
+Table '3860676803 28' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (6472 in chips) 
+Seat 2: FehVitor#PQD (6831 in chips) 
+Seat 3: johnneilson (5130 in chips) 
+Seat 4: Porstua (6873 in chips) 
+Seat 5: Schaffi999 (3734 in chips) 
+Seat 6: BazzaG32 (8206 in chips) 
+Seat 7: kangalha (4342 in chips) 
+Seat 8: TazutZ (3426 in chips) 
+Kevin12345Mc: posts the ante 8
+FehVitor#PQD: posts the ante 8
+johnneilson: posts the ante 8
+Porstua: posts the ante 8
+Schaffi999: posts the ante 8
+BazzaG32: posts the ante 8
+kangalha: posts the ante 8
+TazutZ: posts the ante 8
+Porstua: posts small blind 30
+Schaffi999: posts big blind 60
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 9d]
+BazzaG32: folds 
+kangalha: folds 
+TazutZ: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+johnneilson: raises 60 to 120
+Porstua: calls 90
+Schaffi999: folds 
+*** FLOP *** [Ah 7c 6c]
+Porstua: checks 
+johnneilson: bets 180
+Porstua: calls 180
+*** TURN *** [Ah 7c 6c] [3h]
+Porstua: checks 
+johnneilson: bets 362
+Porstua: calls 362
+*** RIVER *** [Ah 7c 6c 3h] [Qc]
+Porstua: checks 
+johnneilson: bets 964
+Porstua: folds 
+Uncalled bet (964) returned to johnneilson
+johnneilson collected 1448 from pot
+johnneilson: doesn't show hand 
+*** SUMMARY ***
+Total pot 1448 | Rake 0 
+Board [Ah 7c 6c 3h Qc]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: johnneilson (button) collected (1448)
+Seat 4: Porstua (small blind) folded on the River
+Seat 5: Schaffi999 (big blind) folded before Flop
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: TazutZ folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972456331: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/21 17:40:29 WET [2025/02/21 12:40:29 ET]
+Table '3860676803 28' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (6464 in chips) 
+Seat 2: FehVitor#PQD (6823 in chips) 
+Seat 3: johnneilson (5908 in chips) 
+Seat 4: Porstua (6203 in chips) 
+Seat 5: Schaffi999 (3666 in chips) 
+Seat 6: BazzaG32 (8198 in chips) 
+Seat 7: kangalha (4334 in chips) 
+Kevin12345Mc: posts the ante 10
+FehVitor#PQD: posts the ante 10
+johnneilson: posts the ante 10
+Porstua: posts the ante 10
+Schaffi999: posts the ante 10
+BazzaG32: posts the ante 10
+kangalha: posts the ante 10
+Schaffi999: posts small blind 40
+BazzaG32: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 3d]
+kangalha: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+johnneilson: folds 
+Porstua: raises 88 to 168
+Schaffi999: folds 
+BazzaG32: folds 
+Uncalled bet (88) returned to Porstua
+Porstua collected 270 from pot
+Timbirim is disconnected 
+Porstua: doesn't show hand 
+*** SUMMARY ***
+Total pot 270 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: johnneilson folded before Flop (didn't bet)
+Seat 4: Porstua (button) collected (270)
+Seat 5: Schaffi999 (small blind) folded before Flop
+Seat 6: BazzaG32 (big blind) folded before Flop
+Seat 7: kangalha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972464053: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/21 17:41:00 WET [2025/02/21 12:41:00 ET]
+Table '3860676803 28' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (6454 in chips) 
+Seat 2: FehVitor#PQD (6813 in chips) 
+Seat 3: johnneilson (5898 in chips) 
+Seat 4: Porstua (6383 in chips) 
+Seat 5: Schaffi999 (3616 in chips) 
+Seat 6: BazzaG32 (8108 in chips) 
+Seat 7: kangalha (4324 in chips) 
+Seat 8: Timbirim (5000 in chips) 
+Kevin12345Mc: posts the ante 10
+FehVitor#PQD: posts the ante 10
+johnneilson: posts the ante 10
+Porstua: posts the ante 10
+Schaffi999: posts the ante 10
+BazzaG32: posts the ante 10
+kangalha: posts the ante 10
+Timbirim: posts the ante 10
+BazzaG32: posts small blind 40
+kangalha: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 4s]
+Timbirim: raises 104 to 184
+Kevin12345Mc: folds 
+FehVitor#PQD: raises 296 to 480
+johnneilson: folds 
+Porstua: folds 
+Schaffi999: calls 480
+BazzaG32: folds 
+kangalha: folds 
+Timbirim: folds 
+*** FLOP *** [2s 4c 2c]
+FehVitor#PQD: bets 444
+Schaffi999: calls 444
+*** TURN *** [2s 4c 2c] [7s]
+FehVitor#PQD: bets 5879 and is all-in
+Schaffi999: folds 
+Uncalled bet (5879) returned to FehVitor#PQD
+FehVitor#PQD collected 2232 from pot
+FehVitor#PQD: doesn't show hand 
+*** SUMMARY ***
+Total pot 2232 | Rake 0 
+Board [2s 4c 2c 7s]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD collected (2232)
+Seat 3: johnneilson folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 (button) folded on the Turn
+Seat 6: BazzaG32 (small blind) folded before Flop
+Seat 7: kangalha (big blind) folded before Flop
+Seat 8: Timbirim folded before Flop
+
+
+
+PokerStars Hand #254972490280: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/21 17:42:46 WET [2025/02/21 12:42:46 ET]
+Table '3860676803 28' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (6444 in chips) 
+Seat 2: FehVitor#PQD (8111 in chips) 
+Seat 4: Porstua (6373 in chips) 
+Seat 5: Schaffi999 (2682 in chips) 
+Seat 6: BazzaG32 (8058 in chips) 
+Seat 7: kangalha (4234 in chips) 
+Seat 8: Timbirim (4806 in chips) 
+Kevin12345Mc: posts the ante 10
+FehVitor#PQD: posts the ante 10
+Porstua: posts the ante 10
+Schaffi999: posts the ante 10
+BazzaG32: posts the ante 10
+kangalha: posts the ante 10
+Timbirim: posts the ante 10
+kangalha: posts small blind 40
+Timbirim: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h Tc]
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: raises 120 to 200
+Timbirim: calls 120
+*** FLOP *** [3h 5c 8s]
+kangalha: bets 160
+Timbirim: calls 160
+*** TURN *** [3h 5c 8s] [2h]
+kangalha: bets 240
+Timbirim: folds 
+Uncalled bet (240) returned to kangalha
+kangalha collected 790 from pot
+kangalha: doesn't show hand 
+*** SUMMARY ***
+Total pot 790 | Rake 0 
+Board [3h 5c 8s 2h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 (button) folded before Flop (didn't bet)
+Seat 7: kangalha (small blind) collected (790)
+Seat 8: Timbirim (big blind) folded on the Turn
+
+
+
+PokerStars Hand #254972504208: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/21 17:43:41 WET [2025/02/21 12:43:41 ET]
+Table '3860676803 28' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (6434 in chips) 
+Seat 2: FehVitor#PQD (8101 in chips) 
+Seat 4: Porstua (6363 in chips) 
+Seat 5: Schaffi999 (2672 in chips) 
+Seat 6: BazzaG32 (8048 in chips) 
+Seat 7: kangalha (4654 in chips) 
+Seat 8: Timbirim (4436 in chips) 
+Kevin12345Mc: posts the ante 10
+FehVitor#PQD: posts the ante 10
+Porstua: posts the ante 10
+Schaffi999: posts the ante 10
+BazzaG32: posts the ante 10
+kangalha: posts the ante 10
+Timbirim: posts the ante 10
+Timbirim: posts small blind 40
+Kevin12345Mc: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Qh]
+FehVitor#PQD: folds 
+Porstua: folds 
+Schaffi999: calls 80
+BazzaG32: folds 
+kangalha: folds 
+bornrdy is disconnected 
+Timbirim: raises 240 to 320
+Kevin12345Mc: folds 
+Schaffi999: folds 
+Uncalled bet (240) returned to Timbirim
+Timbirim collected 310 from pot
+Timbirim: doesn't show hand 
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Seat 1: Kevin12345Mc (big blind) folded before Flop
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha (button) folded before Flop (didn't bet)
+Seat 8: Timbirim (small blind) collected (310)
+
+
+
+PokerStars Hand #254972519654: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/21 17:44:42 WET [2025/02/21 12:44:42 ET]
+Table '3860676803 28' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (6344 in chips) 
+Seat 2: FehVitor#PQD (8091 in chips) 
+Seat 3: bornrdy (5000 in chips) 
+Seat 4: Porstua (6353 in chips) 
+Seat 5: Schaffi999 (2582 in chips) 
+Seat 6: BazzaG32 (8038 in chips) 
+Seat 7: kangalha (4644 in chips) 
+Seat 8: Timbirim (4656 in chips) 
+Kevin12345Mc: posts the ante 10
+FehVitor#PQD: posts the ante 10
+bornrdy: posts the ante 10
+Porstua: posts the ante 10
+Schaffi999: posts the ante 10
+BazzaG32: posts the ante 10
+kangalha: posts the ante 10
+Timbirim: posts the ante 10
+Kevin12345Mc: posts small blind 40
+FehVitor#PQD: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc Kh]
+bornrdy: folds 
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: raises 120 to 200
+Timbirim: folds 
+Kevin12345Mc: raises 600 to 800
+FehVitor#PQD: folds 
+kangalha: folds 
+Uncalled bet (600) returned to Kevin12345Mc
+Kevin12345Mc collected 560 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 560 | Rake 0 
+Seat 1: Kevin12345Mc (small blind) collected (560)
+Seat 2: FehVitor#PQD (big blind) folded before Flop
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop
+Seat 8: Timbirim (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972533446: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/21 17:45:37 WET [2025/02/21 12:45:37 ET]
+Table '3860676803 28' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (6694 in chips) 
+Seat 2: FehVitor#PQD (8001 in chips) 
+Seat 3: bornrdy (4990 in chips) 
+Seat 4: Porstua (6343 in chips) 
+Seat 5: Schaffi999 (2572 in chips) 
+Seat 6: BazzaG32 (8028 in chips) 
+Seat 7: kangalha (4434 in chips) 
+Seat 8: Timbirim (4646 in chips) 
+Kevin12345Mc: posts the ante 10
+FehVitor#PQD: posts the ante 10
+bornrdy: posts the ante 10
+Porstua: posts the ante 10
+Schaffi999: posts the ante 10
+BazzaG32: posts the ante 10
+kangalha: posts the ante 10
+Timbirim: posts the ante 10
+FehVitor#PQD: posts small blind 40
+bornrdy: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 4s]
+Porstua: folds 
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: raises 120 to 200
+Timbirim: raises 360 to 560
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+kangalha: folds 
+Uncalled bet (360) returned to Timbirim
+Timbirim collected 600 from pot
+Timbirim: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD (small blind) folded before Flop
+Seat 3: bornrdy (big blind) folded before Flop
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop
+Seat 8: Timbirim collected (600)
+
+
+
+PokerStars Hand #254972543984: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/21 17:46:19 WET [2025/02/21 12:46:19 ET]
+Table '3860676803 28' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (6684 in chips) 
+Seat 2: FehVitor#PQD (7951 in chips) 
+Seat 3: bornrdy (4900 in chips) 
+Seat 4: Porstua (6333 in chips) 
+Seat 5: Schaffi999 (2562 in chips) 
+Seat 6: BazzaG32 (8018 in chips) 
+Seat 7: kangalha (4224 in chips) 
+Seat 8: Timbirim (5036 in chips) 
+Kevin12345Mc: posts the ante 10
+FehVitor#PQD: posts the ante 10
+bornrdy: posts the ante 10
+Porstua: posts the ante 10
+Schaffi999: posts the ante 10
+BazzaG32: posts the ante 10
+kangalha: posts the ante 10
+Timbirim: posts the ante 10
+bornrdy: posts small blind 40
+Porstua: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 5c]
+Schaffi999: folds 
+BazzaG32: folds 
+kangalha: folds 
+Timbirim: folds 
+Kevin12345Mc: raises 104 to 184
+FehVitor#PQD: calls 184
+bornrdy: folds 
+Porstua: calls 104
+*** FLOP *** [Ks 4d 9h]
+Porstua: checks 
+Kevin12345Mc: checks 
+FehVitor#PQD: checks 
+*** TURN *** [Ks 4d 9h] [8c]
+Porstua: bets 320
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+Uncalled bet (320) returned to Porstua
+Porstua collected 672 from pot
+Porstua: doesn't show hand 
+*** SUMMARY ***
+Total pot 672 | Rake 0 
+Board [Ks 4d 9h 8c]
+Seat 1: Kevin12345Mc folded on the Turn
+Seat 2: FehVitor#PQD (button) folded on the Turn
+Seat 3: bornrdy (small blind) folded before Flop
+Seat 4: Porstua (big blind) collected (672)
+Seat 5: Schaffi999 folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: Timbirim folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972562854: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/21 17:47:34 WET [2025/02/21 12:47:34 ET]
+Table '3860676803 28' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (6490 in chips) 
+Seat 2: FehVitor#PQD (7757 in chips) 
+Seat 3: bornrdy (4850 in chips) 
+Seat 4: Porstua (6811 in chips) 
+Seat 6: BazzaG32 (8008 in chips) 
+Seat 7: kangalha (4214 in chips) 
+Seat 8: Timbirim (5026 in chips) 
+Kevin12345Mc: posts the ante 10
+FehVitor#PQD: posts the ante 10
+bornrdy: posts the ante 10
+Porstua: posts the ante 10
+BazzaG32: posts the ante 10
+kangalha: posts the ante 10
+Timbirim: posts the ante 10
+Porstua: posts small blind 40
+BazzaG32: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 2h]
+kangalha: folds 
+Timbirim: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: calls 40
+BazzaG32: checks 
+*** FLOP *** [5s 7c Js]
+Porstua: checks 
+BazzaG32: checks 
+*** TURN *** [5s 7c Js] [5h]
+Porstua: checks 
+BazzaG32: checks 
+*** RIVER *** [5s 7c Js 5h] [Jh]
+Porstua: checks 
+BazzaG32: checks 
+*** SHOW DOWN ***
+Porstua: shows [8d Qh] (two pair, Jacks and Fives)
+BazzaG32: shows [Ah 2d] (two pair, Jacks and Fives - Ace kicker)
+BazzaG32 collected 230 from pot
+*** SUMMARY ***
+Total pot 230 | Rake 0 
+Board [5s 7c Js 5h Jh]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy (button) folded before Flop (didn't bet)
+Seat 4: Porstua (small blind) showed [8d Qh] and lost with two pair, Jacks and Fives
+Seat 6: BazzaG32 (big blind) showed [Ah 2d] and won (230) with two pair, Jacks and Fives
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: Timbirim folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972570288: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/21 17:48:04 WET [2025/02/21 12:48:04 ET]
+Table '3860676803 28' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (6480 in chips) 
+Seat 2: FehVitor#PQD (7747 in chips) 
+Seat 3: bornrdy (4840 in chips) 
+Seat 4: Porstua (6721 in chips) 
+Seat 6: BazzaG32 (8148 in chips) 
+Seat 7: kangalha (4204 in chips) 
+Seat 8: Timbirim (5016 in chips) 
+Kevin12345Mc: posts the ante 10
+FehVitor#PQD: posts the ante 10
+bornrdy: posts the ante 10
+Porstua: posts the ante 10
+BazzaG32: posts the ante 10
+kangalha: posts the ante 10
+Timbirim: posts the ante 10
+BazzaG32: posts small blind 40
+kangalha: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 8c]
+Timbirim: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+BazzaG32: raises 117 to 197
+kangalha: raises 283 to 480
+BazzaG32: calls 283
+*** FLOP *** [Qc Tc Jh]
+BazzaG32: bets 391
+kangalha: raises 3323 to 3714 and is all-in
+BazzaG32: calls 3323
+*** TURN *** [Qc Tc Jh] [2h]
+*** RIVER *** [Qc Tc Jh 2h] [3s]
+*** SHOW DOWN ***
+BazzaG32: shows [Kh Jc] (a pair of Jacks)
+kangalha: shows [Ah Qs] (a pair of Queens)
+ONEV@N is disconnected 
+kangalha collected 8458 from pot
+*** SUMMARY ***
+Total pot 8458 | Rake 0 
+Board [Qc Tc Jh 2h 3s]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua (button) folded before Flop (didn't bet)
+Seat 6: BazzaG32 (small blind) showed [Kh Jc] and lost with a pair of Jacks
+Seat 7: kangalha (big blind) showed [Ah Qs] and won (8458) with a pair of Queens
+Seat 8: Timbirim folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972585333: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level V (40/80) - 2025/02/21 17:49:03 WET [2025/02/21 12:49:03 ET]
+Table '3860676803 28' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (6470 in chips) 
+Seat 2: FehVitor#PQD (7737 in chips) 
+Seat 3: bornrdy (4830 in chips) 
+Seat 4: Porstua (6711 in chips) 
+Seat 5: ONEV@N (5000 in chips) 
+Seat 6: BazzaG32 (3944 in chips) 
+Seat 7: kangalha (8458 in chips) 
+Seat 8: Timbirim (5006 in chips) 
+Kevin12345Mc: posts the ante 10
+FehVitor#PQD: posts the ante 10
+bornrdy: posts the ante 10
+Porstua: posts the ante 10
+ONEV@N: posts the ante 10
+BazzaG32: posts the ante 10
+kangalha: posts the ante 10
+Timbirim: posts the ante 10
+kangalha: posts small blind 40
+Timbirim: posts big blind 80
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 2c]
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: raises 117 to 197
+kangalha: folds 
+Timbirim: calls 117
+*** FLOP *** [Td Ah 5c]
+Timbirim: checks 
+BazzaG32: checks 
+*** TURN *** [Td Ah 5c] [3h]
+Timbirim: checks 
+BazzaG32: checks 
+*** RIVER *** [Td Ah 5c 3h] [6h]
+Timbirim: bets 283
+BazzaG32: calls 283
+*** SHOW DOWN ***
+Timbirim: shows [9s Qs] (high card Ace)
+BazzaG32: shows [Qh Qc] (a pair of Queens)
+BazzaG32 collected 1080 from pot
+*** SUMMARY ***
+Total pot 1080 | Rake 0 
+Board [Td Ah 5c 3h 6h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 (button) showed [Qh Qc] and won (1080) with a pair of Queens
+Seat 7: kangalha (small blind) folded before Flop
+Seat 8: Timbirim (big blind) showed [9s Qs] and lost with high card Ace
+
+
+
+PokerStars Hand #254972608745: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:50:37 WET [2025/02/21 12:50:37 ET]
+Table '3860676803 28' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (6460 in chips) 
+Seat 2: FehVitor#PQD (7727 in chips) 
+Seat 3: bornrdy (4820 in chips) 
+Seat 4: Porstua (6701 in chips) 
+Seat 5: ONEV@N (4990 in chips) 
+Seat 6: BazzaG32 (4534 in chips) 
+Seat 7: kangalha (8408 in chips) 
+Seat 8: Timbirim (4516 in chips) 
+Kevin12345Mc: posts the ante 12
+FehVitor#PQD: posts the ante 12
+bornrdy: posts the ante 12
+Porstua: posts the ante 12
+ONEV@N: posts the ante 12
+BazzaG32: posts the ante 12
+kangalha: posts the ante 12
+Timbirim: posts the ante 12
+Timbirim: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8s Ah]
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: raises 100 to 200
+BazzaG32: folds 
+kangalha: folds 
+Timbirim: raises 700 to 900
+Kevin12345Mc: folds 
+ONEV@N: raises 4078 to 4978 and is all-in
+Timbirim: calls 3604 and is all-in
+Uncalled bet (474) returned to ONEV@N
+*** FLOP *** [8h 4d Jd]
+*** TURN *** [8h 4d Jd] [6c]
+*** RIVER *** [8h 4d Jd 6c] [5d]
+*** SHOW DOWN ***
+Timbirim: shows [Td Tc] (a pair of Tens)
+ONEV@N: shows [Qd Qs] (a pair of Queens)
+ONEV@N collected 9204 from pot
+Timbirim finished the tournament
+*** SUMMARY ***
+Total pot 9204 | Rake 0 
+Board [8h 4d Jd 6c 5d]
+Seat 1: Kevin12345Mc (big blind) folded before Flop
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N showed [Qd Qs] and won (9204) with a pair of Queens
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha (button) folded before Flop (didn't bet)
+Seat 8: Timbirim (small blind) showed [Td Tc] and lost with a pair of Tens
+
+
+
+PokerStars Hand #254972623159: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:51:35 WET [2025/02/21 12:51:35 ET]
+Table '3860676803 28' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (6348 in chips) 
+Seat 2: FehVitor#PQD (7715 in chips) 
+Seat 3: bornrdy (4808 in chips) 
+Seat 4: Porstua (6689 in chips) 
+Seat 5: ONEV@N (9678 in chips) 
+Seat 6: BazzaG32 (4522 in chips) 
+Seat 7: kangalha (8396 in chips) 
+Kevin12345Mc: posts the ante 12
+FehVitor#PQD: posts the ante 12
+bornrdy: posts the ante 12
+Porstua: posts the ante 12
+ONEV@N: posts the ante 12
+BazzaG32: posts the ante 12
+kangalha: posts the ante 12
+FehVitor#PQD: posts small blind 50
+bornrdy: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 5h]
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: folds 
+cletusotto22 is disconnected 
+kangalha: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: raises 200 to 300
+bornrdy: folds 
+Uncalled bet (200) returned to FehVitor#PQD
+FehVitor#PQD collected 284 from pot
+FehVitor#PQD: doesn't show hand 
+*** SUMMARY ***
+Total pot 284 | Rake 0 
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD (small blind) collected (284)
+Seat 3: bornrdy (big blind) folded before Flop
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972634982: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:52:22 WET [2025/02/21 12:52:22 ET]
+Table '3860676803 28' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (6336 in chips) 
+Seat 2: FehVitor#PQD (7887 in chips) 
+Seat 3: bornrdy (4696 in chips) 
+Seat 4: Porstua (6677 in chips) 
+Seat 5: ONEV@N (9666 in chips) 
+Seat 6: BazzaG32 (4510 in chips) 
+Seat 7: kangalha (8384 in chips) 
+Seat 8: cletusotto22 (5000 in chips) 
+Kevin12345Mc: posts the ante 12
+FehVitor#PQD: posts the ante 12
+bornrdy: posts the ante 12
+Porstua: posts the ante 12
+ONEV@N: posts the ante 12
+BazzaG32: posts the ante 12
+kangalha: posts the ante 12
+cletusotto22: posts the ante 12
+bornrdy: posts small blind 50
+Porstua: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 9c]
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: folds 
+cletusotto22: raises 110 to 210
+Kevin12345Mc: raises 420 to 630
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+cletusotto22: calls 420
+*** FLOP *** [8c As Ah]
+cletusotto22: checks 
+Kevin12345Mc: bets 497
+cletusotto22: folds 
+Uncalled bet (497) returned to Kevin12345Mc
+Kevin12345Mc collected 1506 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1506 | Rake 0 
+Board [8c As Ah]
+Seat 1: Kevin12345Mc collected (1506)
+Seat 2: FehVitor#PQD (button) folded before Flop (didn't bet)
+Seat 3: bornrdy (small blind) folded before Flop
+Seat 4: Porstua (big blind) folded before Flop
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: cletusotto22 folded on the Flop
+
+
+
+PokerStars Hand #254972648968: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:53:18 WET [2025/02/21 12:53:18 ET]
+Table '3860676803 28' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (7200 in chips) 
+Seat 2: FehVitor#PQD (7875 in chips) 
+Seat 3: bornrdy (4634 in chips) 
+Seat 4: Porstua (6565 in chips) 
+Seat 5: ONEV@N (9654 in chips) 
+Seat 6: BazzaG32 (4498 in chips) 
+Seat 7: kangalha (8372 in chips) 
+Seat 8: cletusotto22 (4358 in chips) 
+Kevin12345Mc: posts the ante 12
+FehVitor#PQD: posts the ante 12
+bornrdy: posts the ante 12
+Porstua: posts the ante 12
+ONEV@N: posts the ante 12
+BazzaG32: posts the ante 12
+kangalha: posts the ante 12
+cletusotto22: posts the ante 12
+Porstua: posts small blind 50
+ONEV@N: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5h 4c]
+BazzaG32: folds 
+kangalha: folds 
+cletusotto22: raises 120 to 220
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: raises 380 to 600
+ONEV@N: folds 
+cletusotto22: raises 1050 to 1650
+Porstua: folds 
+Uncalled bet (1050) returned to cletusotto22
+cletusotto22 collected 1396 from pot
+cletusotto22: doesn't show hand 
+*** SUMMARY ***
+Total pot 1396 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy (button) folded before Flop (didn't bet)
+Seat 4: Porstua (small blind) folded before Flop
+Seat 5: ONEV@N (big blind) folded before Flop
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: cletusotto22 collected (1396)
+
+
+
+PokerStars Hand #254972659651: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:54:01 WET [2025/02/21 12:54:01 ET]
+Table '3860676803 28' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (7188 in chips) 
+Seat 2: FehVitor#PQD (7863 in chips) 
+Seat 3: bornrdy (4622 in chips) 
+Seat 4: Porstua (5953 in chips) 
+Seat 5: ONEV@N (9542 in chips) 
+Seat 6: BazzaG32 (4486 in chips) 
+Seat 7: kangalha (8360 in chips) 
+Seat 8: cletusotto22 (5142 in chips) 
+Kevin12345Mc: posts the ante 12
+FehVitor#PQD: posts the ante 12
+bornrdy: posts the ante 12
+Porstua: posts the ante 12
+ONEV@N: posts the ante 12
+BazzaG32: posts the ante 12
+kangalha: posts the ante 12
+cletusotto22: posts the ante 12
+ONEV@N: posts small blind 50
+BazzaG32: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 4s]
+kangalha: folds 
+cletusotto22: raises 120 to 220
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: calls 220
+ONEV@N: folds 
+BazzaG32: folds 
+*** FLOP *** [Qh As 3d]
+cletusotto22: bets 172
+Porstua: calls 172
+*** TURN *** [Qh As 3d] [Ah]
+cletusotto22: bets 670
+Porstua: calls 670
+*** RIVER *** [Qh As 3d Ah] [8s]
+cletusotto22: bets 2300
+Porstua: folds 
+Uncalled bet (2300) returned to cletusotto22
+cletusotto22 collected 2370 from pot
+cletusotto22: doesn't show hand 
+*** SUMMARY ***
+Total pot 2370 | Rake 0 
+Board [Qh As 3d Ah 8s]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua (button) folded on the River
+Seat 5: ONEV@N (small blind) folded before Flop
+Seat 6: BazzaG32 (big blind) folded before Flop
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: cletusotto22 collected (2370)
+
+
+
+PokerStars Hand #254972675581: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 17:55:05 WET [2025/02/21 12:55:05 ET]
+Table '3860676803 28' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (7176 in chips) 
+Seat 2: FehVitor#PQD (7851 in chips) 
+Seat 3: bornrdy (4610 in chips) 
+Seat 4: Porstua (4879 in chips) 
+Seat 5: ONEV@N (9480 in chips) 
+Seat 6: BazzaG32 (4374 in chips) 
+Seat 7: kangalha (8348 in chips) 
+Seat 8: cletusotto22 (6438 in chips) 
+Kevin12345Mc: posts the ante 12
+FehVitor#PQD: posts the ante 12
+bornrdy: posts the ante 12
+Porstua: posts the ante 12
+ONEV@N: posts the ante 12
+BazzaG32: posts the ante 12
+kangalha: posts the ante 12
+cletusotto22: posts the ante 12
+BazzaG32: posts small blind 50
+kangalha: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 2s]
+cletusotto22: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: raises 100 to 200
+BazzaG32: folds 
+kangalha: calls 100
+*** FLOP *** [4h 7c 3h]
+kangalha: checks 
+ONEV@N: bets 180
+kangalha: calls 180
+*** TURN *** [4h 7c 3h] [Js]
+kangalha: checks 
+ONEV@N: checks 
+*** RIVER *** [4h 7c 3h Js] [Th]
+kangalha: bets 680
+ONEV@N: folds 
+Uncalled bet (680) returned to kangalha
+kangalha collected 906 from pot
+kangalha: doesn't show hand 
+*** SUMMARY ***
+Total pot 906 | Rake 0 
+Board [4h 7c 3h Js Th]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N (button) folded on the River
+Seat 6: BazzaG32 (small blind) folded before Flop
+Seat 7: kangalha (big blind) collected (906)
+Seat 8: cletusotto22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972753241: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 18:01:52 WET [2025/02/21 13:01:52 ET]
+Table '3860676803 28' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (7164 in chips) 
+Seat 2: FehVitor#PQD (7839 in chips) 
+Seat 3: bornrdy (4598 in chips) 
+Seat 4: Porstua (4867 in chips) 
+Seat 5: ONEV@N (9088 in chips) 
+Seat 6: BazzaG32 (4312 in chips) 
+Seat 7: kangalha (8862 in chips) 
+Seat 8: foxstar22 (5000 in chips) 
+Kevin12345Mc: posts the ante 12
+FehVitor#PQD: posts the ante 12
+bornrdy: posts the ante 12
+Porstua: posts the ante 12
+ONEV@N: posts the ante 12
+BazzaG32: posts the ante 12
+kangalha: posts the ante 12
+foxstar22: posts the ante 12
+kangalha: posts small blind 50
+foxstar22: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s Kc]
+Kevin12345Mc: folds 
+FehVitor#PQD: raises 100 to 200
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: calls 150
+foxstar22: calls 100
+*** FLOP *** [Ad 3d Qc]
+kangalha: checks 
+foxstar22: bets 100
+FehVitor#PQD: calls 100
+kangalha: calls 100
+*** TURN *** [Ad 3d Qc] [8c]
+kangalha: checks 
+foxstar22: bets 100
+FehVitor#PQD: calls 100
+kangalha: calls 100
+*** RIVER *** [Ad 3d Qc 8c] [Qd]
+kangalha: checks 
+foxstar22: bets 4588 and is all-in
+FehVitor#PQD: calls 4588
+kangalha: folds 
+*** SHOW DOWN ***
+foxstar22: shows [Jd 5d] (a flush, Ace high)
+FehVitor#PQD: shows [9s Qs] (three of a kind, Queens)
+foxstar22 collected 10472 from pot
+*** SUMMARY ***
+Total pot 10472 | Rake 0 
+Board [Ad 3d Qc 8c Qd]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD showed [9s Qs] and lost with three of a kind, Queens
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 (button) folded before Flop (didn't bet)
+Seat 7: kangalha (small blind) folded on the River
+Seat 8: foxstar22 (big blind) showed [Jd 5d] and won (10472) with a flush, Ace high
+
+
+
+PokerStars Hand #254972788767: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 18:04:14 WET [2025/02/21 13:04:14 ET]
+Table '3860676803 28' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (7152 in chips) 
+Seat 2: FehVitor#PQD (2839 in chips) 
+Seat 3: bornrdy (4586 in chips) 
+Seat 4: Porstua (4855 in chips) 
+Seat 5: ONEV@N (9076 in chips) 
+Seat 6: BazzaG32 (4300 in chips) 
+Seat 7: kangalha (8450 in chips) 
+Seat 8: foxstar22 (10472 in chips) 
+Kevin12345Mc: posts the ante 12
+FehVitor#PQD: posts the ante 12
+bornrdy: posts the ante 12
+Porstua: posts the ante 12
+ONEV@N: posts the ante 12
+BazzaG32: posts the ante 12
+kangalha: posts the ante 12
+foxstar22: posts the ante 12
+foxstar22: posts small blind 50
+Kevin12345Mc: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 7d]
+FehVitor#PQD: raises 100 to 200
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: calls 200
+kangalha: calls 200
+foxstar22: folds 
+Kevin12345Mc: calls 100
+*** FLOP *** [Kd Qs 7s]
+Kevin12345Mc: checks 
+FehVitor#PQD: bets 473
+BazzaG32: folds 
+kangalha: folds 
+Kevin12345Mc: calls 473
+*** TURN *** [Kd Qs 7s] [6h]
+Kevin12345Mc: checks 
+FehVitor#PQD: checks 
+*** RIVER *** [Kd Qs 7s 6h] [Tc]
+Kevin12345Mc: checks 
+FehVitor#PQD: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Ad 7d] (a pair of Sevens)
+FehVitor#PQD: shows [Jd Ks] (a pair of Kings)
+FehVitor#PQD collected 1892 from pot
+*** SUMMARY ***
+Total pot 1892 | Rake 0 
+Board [Kd Qs 7s 6h Tc]
+Seat 1: Kevin12345Mc (big blind) showed [Ad 7d] and lost with a pair of Sevens
+Seat 2: FehVitor#PQD showed [Jd Ks] and won (1892) with a pair of Kings
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded on the Flop
+Seat 7: kangalha (button) folded on the Flop
+Seat 8: foxstar22 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254972814281: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VI (50/100) - 2025/02/21 18:05:55 WET [2025/02/21 13:05:55 ET]
+Table '3860676803 28' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (6467 in chips) 
+Seat 2: FehVitor#PQD (4046 in chips) 
+Seat 3: bornrdy (4574 in chips) 
+Seat 4: Porstua (4843 in chips) 
+Seat 5: ONEV@N (9064 in chips) 
+Seat 6: BazzaG32 (4088 in chips) 
+Seat 7: kangalha (8238 in chips) 
+Seat 8: foxstar22 (10410 in chips) 
+Kevin12345Mc: posts the ante 12
+FehVitor#PQD: posts the ante 12
+bornrdy: posts the ante 12
+Porstua: posts the ante 12
+ONEV@N: posts the ante 12
+BazzaG32: posts the ante 12
+kangalha: posts the ante 12
+foxstar22: posts the ante 12
+Kevin12345Mc: posts small blind 50
+FehVitor#PQD: posts big blind 100
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s Kc]
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: folds 
+foxstar22: calls 100
+Kevin12345Mc: calls 50
+FehVitor#PQD: raises 400 to 500
+foxstar22: calls 400
+Kevin12345Mc: folds 
+*** FLOP *** [Jd 2c 6d]
+FehVitor#PQD has timed out
+FehVitor#PQD: checks 
+foxstar22: bets 100
+FehVitor#PQD: raises 300 to 400
+foxstar22: calls 300
+*** TURN *** [Jd 2c 6d] [Ah]
+FehVitor#PQD: checks 
+foxstar22: bets 100
+FehVitor#PQD: calls 100
+*** RIVER *** [Jd 2c 6d Ah] [5h]
+FehVitor#PQD: checks 
+foxstar22: bets 1400
+FehVitor#PQD has timed out
+FehVitor#PQD: folds 
+FehVitor#PQD is sitting out
+Uncalled bet (1400) returned to foxstar22
+foxstar22 collected 2196 from pot
+FehVitor#PQD has returned
+*** SUMMARY ***
+Total pot 2196 | Rake 0 
+Board [Jd 2c 6d Ah 5h]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: FehVitor#PQD (big blind) folded on the River
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: foxstar22 (button) collected (2196)
+
+
+
+PokerStars Hand #254972851076: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 18:08:19 WET [2025/02/21 13:08:19 ET]
+Table '3860676803 28' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (6355 in chips) 
+Seat 2: FehVitor#PQD (3034 in chips) 
+Seat 3: bornrdy (4562 in chips) 
+Seat 4: Porstua (4831 in chips) 
+Seat 5: ONEV@N (9052 in chips) 
+Seat 6: BazzaG32 (4076 in chips) 
+Seat 7: kangalha (8226 in chips) 
+Seat 8: foxstar22 (11594 in chips) 
+Kevin12345Mc: posts the ante 15
+FehVitor#PQD: posts the ante 15
+bornrdy: posts the ante 15
+Porstua: posts the ante 15
+ONEV@N: posts the ante 15
+BazzaG32: posts the ante 15
+kangalha: posts the ante 15
+foxstar22: posts the ante 15
+FehVitor#PQD: posts small blind 60
+bornrdy: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 2c]
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: folds 
+foxstar22: calls 120
+Kevin12345Mc: folds 
+FehVitor#PQD: calls 60
+bornrdy: checks 
+*** FLOP *** [Ad Td 6d]
+FehVitor#PQD: checks 
+bornrdy: checks 
+foxstar22: bets 120
+FehVitor#PQD: calls 120
+bornrdy: folds 
+*** TURN *** [Ad Td 6d] [8c]
+FehVitor#PQD: checks 
+foxstar22: bets 240
+FehVitor#PQD: calls 240
+*** RIVER *** [Ad Td 6d 8c] [Kh]
+FehVitor#PQD: checks 
+foxstar22: checks 
+*** SHOW DOWN ***
+FehVitor#PQD: shows [3h Kd] (a pair of Kings)
+foxstar22: shows [Kc Jc] (a pair of Kings - Ace+Jack kicker)
+foxstar22 collected 1200 from pot
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [Ad Td 6d 8c Kh]
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD (small blind) showed [3h Kd] and lost with a pair of Kings
+Seat 3: bornrdy (big blind) folded on the Flop
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: foxstar22 showed [Kc Jc] and won (1200) with a pair of Kings
+
+
+
+PokerStars Hand #254972871709: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 18:09:40 WET [2025/02/21 13:09:40 ET]
+Table '3860676803 28' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (6340 in chips) 
+Seat 2: FehVitor#PQD (2539 in chips) 
+Seat 3: bornrdy (4427 in chips) 
+Seat 4: Porstua (4816 in chips) 
+Seat 5: ONEV@N (9037 in chips) 
+Seat 6: BazzaG32 (4061 in chips) 
+Seat 7: kangalha (8211 in chips) 
+Seat 8: foxstar22 (12299 in chips) 
+Kevin12345Mc: posts the ante 15
+FehVitor#PQD: posts the ante 15
+bornrdy: posts the ante 15
+Porstua: posts the ante 15
+ONEV@N: posts the ante 15
+BazzaG32: posts the ante 15
+kangalha: posts the ante 15
+foxstar22: posts the ante 15
+bornrdy: posts small blind 60
+Porstua: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Jh]
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: folds 
+foxstar22: calls 120
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: checks 
+*** FLOP *** [4s Qs Ad]
+Porstua: checks 
+foxstar22: bets 120
+Porstua: calls 120
+*** TURN *** [4s Qs Ad] [As]
+Porstua: checks 
+foxstar22: bets 120
+Porstua: calls 120
+*** RIVER *** [4s Qs Ad As] [Jc]
+Porstua: checks 
+foxstar22: bets 120
+Porstua: calls 120
+*** SHOW DOWN ***
+foxstar22: shows [Qc 5d] (two pair, Aces and Queens)
+Porstua: mucks hand 
+foxstar22 collected 1140 from pot
+*** SUMMARY ***
+Total pot 1140 | Rake 0 
+Board [4s Qs Ad As Jc]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD (button) folded before Flop (didn't bet)
+Seat 3: bornrdy (small blind) folded before Flop
+Seat 4: Porstua (big blind) mucked [Js 4d]
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: foxstar22 showed [Qc 5d] and won (1140) with two pair, Aces and Queens
+
+
+
+PokerStars Hand #254972886274: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 18:10:36 WET [2025/02/21 13:10:36 ET]
+Table '3860676803 28' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (6325 in chips) 
+Seat 2: FehVitor#PQD (2524 in chips) 
+Seat 3: bornrdy (4352 in chips) 
+Seat 4: Porstua (4321 in chips) 
+Seat 5: ONEV@N (9022 in chips) 
+Seat 6: BazzaG32 (4046 in chips) 
+Seat 7: kangalha (8196 in chips) 
+Seat 8: foxstar22 (12944 in chips) 
+Kevin12345Mc: posts the ante 15
+FehVitor#PQD: posts the ante 15
+bornrdy: posts the ante 15
+Porstua: posts the ante 15
+ONEV@N: posts the ante 15
+BazzaG32: posts the ante 15
+kangalha: posts the ante 15
+foxstar22: posts the ante 15
+Porstua: posts small blind 60
+ONEV@N: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 8d]
+BazzaG32: folds 
+kangalha: folds 
+foxstar22: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: raises 300 to 420
+ONEV@N: raises 8587 to 9007 and is all-in
+Porstua: folds 
+Uncalled bet (8587) returned to ONEV@N
+ONEV@N collected 960 from pot
+ONEV@N: doesn't show hand 
+*** SUMMARY ***
+Total pot 960 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy (button) folded before Flop (didn't bet)
+Seat 4: Porstua (small blind) folded before Flop
+Seat 5: ONEV@N (big blind) collected (960)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: foxstar22 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972897621: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 18:11:21 WET [2025/02/21 13:11:21 ET]
+Table '3860676803 28' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (6310 in chips) 
+Seat 2: FehVitor#PQD (2509 in chips) 
+Seat 3: bornrdy (4337 in chips) 
+Seat 4: Porstua (3886 in chips) 
+Seat 5: ONEV@N (9547 in chips) 
+Seat 6: BazzaG32 (4031 in chips) 
+Seat 7: kangalha (8181 in chips) 
+Seat 8: foxstar22 (12929 in chips) 
+Kevin12345Mc: posts the ante 15
+FehVitor#PQD: posts the ante 15
+bornrdy: posts the ante 15
+Porstua: posts the ante 15
+ONEV@N: posts the ante 15
+BazzaG32: posts the ante 15
+kangalha: posts the ante 15
+foxstar22: posts the ante 15
+ONEV@N: posts small blind 60
+BazzaG32: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 5s]
+kangalha: folds 
+foxstar22: calls 120
+Kevin12345Mc: folds 
+FehVitor#PQD: raises 360 to 480
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: folds 
+foxstar22: calls 360
+*** FLOP *** [8s 9s 2s]
+foxstar22: bets 120
+FehVitor#PQD: raises 1894 to 2014 and is all-in
+foxstar22: calls 1894
+*** TURN *** [8s 9s 2s] [9d]
+*** RIVER *** [8s 9s 2s 9d] [Tc]
+*** SHOW DOWN ***
+foxstar22: shows [As Kh] (a pair of Nines)
+FehVitor#PQD: shows [Ks Th] (two pair, Tens and Nines)
+FehVitor#PQD collected 5288 from pot
+*** SUMMARY ***
+Total pot 5288 | Rake 0 
+Board [8s 9s 2s 9d Tc]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD showed [Ks Th] and won (5288) with two pair, Tens and Nines
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua (button) folded before Flop (didn't bet)
+Seat 5: ONEV@N (small blind) folded before Flop
+Seat 6: BazzaG32 (big blind) folded before Flop
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: foxstar22 showed [As Kh] and lost with a pair of Nines
+
+
+
+PokerStars Hand #254972913166: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 18:12:21 WET [2025/02/21 13:12:21 ET]
+Table '3860676803 28' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (6295 in chips) 
+Seat 2: FehVitor#PQD (5288 in chips) 
+Seat 3: bornrdy (4322 in chips) 
+Seat 4: Porstua (3871 in chips) 
+Seat 5: ONEV@N (9472 in chips) 
+Seat 6: BazzaG32 (3896 in chips) 
+Seat 7: kangalha (8166 in chips) 
+Kevin12345Mc: posts the ante 15
+FehVitor#PQD: posts the ante 15
+bornrdy: posts the ante 15
+Porstua: posts the ante 15
+ONEV@N: posts the ante 15
+BazzaG32: posts the ante 15
+kangalha: posts the ante 15
+BazzaG32: posts small blind 60
+kangalha: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts Js]
+Kevin12345Mc: raises 156 to 276
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+Tompilomp is disconnected 
+BazzaG32: folds 
+kangalha: calls 156
+*** FLOP *** [6s As Td]
+kangalha: checks 
+Kevin12345Mc: bets 237
+kangalha: folds 
+Uncalled bet (237) returned to Kevin12345Mc
+Kevin12345Mc collected 717 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 717 | Rake 0 
+Board [6s As Td]
+Seat 1: Kevin12345Mc collected (717)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N (button) folded before Flop (didn't bet)
+Seat 6: BazzaG32 (small blind) folded before Flop
+Seat 7: kangalha (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254972924588: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 18:13:05 WET [2025/02/21 13:13:05 ET]
+Table '3860676803 28' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (6721 in chips) 
+Seat 2: FehVitor#PQD (5273 in chips) 
+Seat 3: bornrdy (4307 in chips) 
+Seat 4: Porstua (3856 in chips) 
+Seat 5: ONEV@N (9457 in chips) 
+Seat 6: BazzaG32 (3821 in chips) 
+Seat 7: kangalha (7875 in chips) 
+Seat 8: Tompilomp (5000 in chips) 
+Kevin12345Mc: posts the ante 15
+FehVitor#PQD: posts the ante 15
+bornrdy: posts the ante 15
+Porstua: posts the ante 15
+ONEV@N: posts the ante 15
+BazzaG32: posts the ante 15
+kangalha: posts the ante 15
+Tompilomp: posts the ante 15
+kangalha: posts small blind 60
+Tompilomp: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As 2d]
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: raises 120 to 240
+BazzaG32: folds 
+kangalha: folds 
+Tompilomp: calls 120
+*** FLOP *** [Kd 2h 7h]
+Tompilomp: checks 
+ONEV@N: checks 
+*** TURN *** [Kd 2h 7h] [Qd]
+Tompilomp: checks 
+ONEV@N: checks 
+*** RIVER *** [Kd 2h 7h Qd] [Jh]
+Tompilomp: checks 
+ONEV@N: checks 
+*** SHOW DOWN ***
+Tompilomp: shows [3s Js] (a pair of Jacks)
+ONEV@N: mucks hand 
+Tompilomp collected 660 from pot
+*** SUMMARY ***
+Total pot 660 | Rake 0 
+Board [Kd 2h 7h Qd Jh]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N mucked [5c 9c]
+Seat 6: BazzaG32 (button) folded before Flop (didn't bet)
+Seat 7: kangalha (small blind) folded before Flop
+Seat 8: Tompilomp (big blind) showed [3s Js] and won (660) with a pair of Jacks
+
+
+
+PokerStars Hand #254972940165: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 18:14:05 WET [2025/02/21 13:14:05 ET]
+Table '3860676803 28' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (6706 in chips) 
+Seat 2: FehVitor#PQD (5258 in chips) 
+Seat 3: bornrdy (4292 in chips) 
+Seat 4: Porstua (3841 in chips) 
+Seat 5: ONEV@N (9202 in chips) 
+Seat 6: BazzaG32 (3806 in chips) 
+Seat 7: kangalha (7800 in chips) 
+Seat 8: Tompilomp (5405 in chips) 
+Kevin12345Mc: posts the ante 15
+FehVitor#PQD: posts the ante 15
+bornrdy: posts the ante 15
+Porstua: posts the ante 15
+ONEV@N: posts the ante 15
+BazzaG32: posts the ante 15
+kangalha: posts the ante 15
+Tompilomp: posts the ante 15
+Tompilomp: posts small blind 60
+Kevin12345Mc: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Ts]
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: folds 
+Tompilomp: folds 
+Uncalled bet (60) returned to Kevin12345Mc
+Kevin12345Mc collected 240 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 240 | Rake 0 
+Seat 1: Kevin12345Mc (big blind) collected (240)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha (button) folded before Flop (didn't bet)
+Seat 8: Tompilomp (small blind) folded before Flop
+
+
+
+PokerStars Hand #254972948966: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 18:14:40 WET [2025/02/21 13:14:40 ET]
+Table '3860676803 28' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (6871 in chips) 
+Seat 2: FehVitor#PQD (5243 in chips) 
+Seat 3: bornrdy (4277 in chips) 
+Seat 4: Porstua (3826 in chips) 
+Seat 5: ONEV@N (9187 in chips) 
+Seat 6: BazzaG32 (3791 in chips) 
+Seat 7: kangalha (7785 in chips) 
+Seat 8: Tompilomp (5330 in chips) 
+Kevin12345Mc: posts the ante 15
+FehVitor#PQD: posts the ante 15
+bornrdy: posts the ante 15
+Porstua: posts the ante 15
+ONEV@N: posts the ante 15
+BazzaG32: posts the ante 15
+kangalha: posts the ante 15
+Tompilomp: posts the ante 15
+Kevin12345Mc: posts small blind 60
+FehVitor#PQD: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 9d]
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: raises 132 to 252
+Tompilomp: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+Uncalled bet (132) returned to kangalha
+kangalha collected 420 from pot
+kangalha: doesn't show hand 
+*** SUMMARY ***
+Total pot 420 | Rake 0 
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: FehVitor#PQD (big blind) folded before Flop
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha collected (420)
+Seat 8: Tompilomp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972961939: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 18:15:31 WET [2025/02/21 13:15:31 ET]
+Table '3860676803 28' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (6796 in chips) 
+Seat 2: FehVitor#PQD (5108 in chips) 
+Seat 3: bornrdy (4262 in chips) 
+Seat 4: Porstua (3811 in chips) 
+Seat 5: ONEV@N (9172 in chips) 
+Seat 6: BazzaG32 (3776 in chips) 
+Seat 7: kangalha (8070 in chips) 
+Seat 8: Tompilomp (5315 in chips) 
+Kevin12345Mc: posts the ante 15
+FehVitor#PQD: posts the ante 15
+bornrdy: posts the ante 15
+Porstua: posts the ante 15
+ONEV@N: posts the ante 15
+BazzaG32: posts the ante 15
+kangalha: posts the ante 15
+Tompilomp: posts the ante 15
+FehVitor#PQD: posts small blind 60
+bornrdy: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 2d]
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: folds 
+Tompilomp: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: raises 240 to 360
+bornrdy: raises 660 to 1020
+FehVitor#PQD: folds 
+Uncalled bet (660) returned to bornrdy
+bornrdy collected 840 from pot
+bornrdy: doesn't show hand 
+*** SUMMARY ***
+Total pot 840 | Rake 0 
+Seat 1: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD (small blind) folded before Flop
+Seat 3: bornrdy (big blind) collected (840)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: Tompilomp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254972976541: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VII (60/120) - 2025/02/21 18:16:27 WET [2025/02/21 13:16:27 ET]
+Table '3860676803 28' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (6781 in chips) 
+Seat 2: FehVitor#PQD (4733 in chips) 
+Seat 3: bornrdy (4727 in chips) 
+Seat 4: Porstua (3796 in chips) 
+Seat 5: ONEV@N (9157 in chips) 
+Seat 6: BazzaG32 (3761 in chips) 
+Seat 7: kangalha (8055 in chips) 
+Seat 8: Tompilomp (5300 in chips) 
+Kevin12345Mc: posts the ante 15
+FehVitor#PQD: posts the ante 15
+bornrdy: posts the ante 15
+Porstua: posts the ante 15
+ONEV@N: posts the ante 15
+BazzaG32: posts the ante 15
+kangalha: posts the ante 15
+Tompilomp: posts the ante 15
+bornrdy: posts small blind 60
+Porstua: posts big blind 120
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 2s]
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: folds 
+Tompilomp: raises 120 to 240
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: calls 120
+*** FLOP *** [7s Jd 9h]
+Porstua: checks 
+Tompilomp: checks 
+*** TURN *** [7s Jd 9h] [3d]
+Porstua: bets 205
+Tompilomp: calls 205
+*** RIVER *** [7s Jd 9h 3d] [5d]
+Porstua: checks 
+Tompilomp: bets 775
+Porstua: folds 
+Uncalled bet (775) returned to Tompilomp
+Tompilomp collected 1070 from pot
+Tompilomp: doesn't show hand 
+*** SUMMARY ***
+Total pot 1070 | Rake 0 
+Board [7s Jd 9h 3d 5d]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD (button) folded before Flop (didn't bet)
+Seat 3: bornrdy (small blind) folded before Flop
+Seat 4: Porstua (big blind) folded on the River
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: Tompilomp collected (1070)
+
+
+
+PokerStars Hand #254972992665: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/21 18:17:30 WET [2025/02/21 13:17:30 ET]
+Table '3860676803 28' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (6766 in chips) 
+Seat 2: FehVitor#PQD (4718 in chips) 
+Seat 3: bornrdy (4652 in chips) 
+Seat 4: Porstua (3336 in chips) 
+Seat 5: ONEV@N (9142 in chips) 
+Seat 6: BazzaG32 (3746 in chips) 
+Seat 7: kangalha (8040 in chips) 
+Seat 8: Tompilomp (5910 in chips) 
+Kevin12345Mc: posts the ante 20
+FehVitor#PQD: posts the ante 20
+bornrdy: posts the ante 20
+Porstua: posts the ante 20
+ONEV@N: posts the ante 20
+BazzaG32: posts the ante 20
+kangalha: posts the ante 20
+Tompilomp: posts the ante 20
+Porstua: posts small blind 75
+ONEV@N: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Kh]
+BazzaG32: folds 
+kangalha: raises 165 to 315
+Tompilomp: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: calls 165
+*** FLOP *** [2h 8d Ad]
+ONEV@N: checks 
+kangalha: bets 268
+ONEV@N: folds 
+Uncalled bet (268) returned to kangalha
+kangalha collected 865 from pot
+kangalha: doesn't show hand 
+*** SUMMARY ***
+Total pot 865 | Rake 0 
+Board [2h 8d Ad]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy (button) folded before Flop (didn't bet)
+Seat 4: Porstua (small blind) folded before Flop
+Seat 5: ONEV@N (big blind) folded on the Flop
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha collected (865)
+Seat 8: Tompilomp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973003720: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/21 18:18:13 WET [2025/02/21 13:18:13 ET]
+Table '3860676803 28' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (6746 in chips) 
+Seat 2: FehVitor#PQD (4698 in chips) 
+Seat 3: bornrdy (4632 in chips) 
+Seat 4: Porstua (3241 in chips) 
+Seat 5: ONEV@N (8807 in chips) 
+Seat 6: BazzaG32 (3726 in chips) 
+Seat 7: kangalha (8570 in chips) 
+Seat 8: Tompilomp (5890 in chips) 
+Kevin12345Mc: posts the ante 20
+FehVitor#PQD: posts the ante 20
+bornrdy: posts the ante 20
+Porstua: posts the ante 20
+ONEV@N: posts the ante 20
+BazzaG32: posts the ante 20
+kangalha: posts the ante 20
+Tompilomp: posts the ante 20
+ONEV@N: posts small blind 75
+BazzaG32: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h 5c]
+kangalha: folds 
+Tompilomp: raises 150 to 300
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: folds 
+Uncalled bet (150) returned to Tompilomp
+Tompilomp collected 535 from pot
+Tompilomp: doesn't show hand 
+*** SUMMARY ***
+Total pot 535 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua (button) folded before Flop (didn't bet)
+Seat 5: ONEV@N (small blind) folded before Flop
+Seat 6: BazzaG32 (big blind) folded before Flop
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: Tompilomp collected (535)
+
+
+
+PokerStars Hand #254973011177: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/21 18:18:42 WET [2025/02/21 13:18:42 ET]
+Table '3860676803 28' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (6726 in chips) 
+Seat 2: FehVitor#PQD (4678 in chips) 
+Seat 3: bornrdy (4612 in chips) 
+Seat 4: Porstua (3221 in chips) 
+Seat 5: ONEV@N (8712 in chips) 
+Seat 6: BazzaG32 (3556 in chips) 
+Seat 7: kangalha (8550 in chips) 
+Seat 8: Tompilomp (6255 in chips) 
+Kevin12345Mc: posts the ante 20
+FehVitor#PQD: posts the ante 20
+bornrdy: posts the ante 20
+Porstua: posts the ante 20
+ONEV@N: posts the ante 20
+BazzaG32: posts the ante 20
+kangalha: posts the ante 20
+Tompilomp: posts the ante 20
+BazzaG32: posts small blind 75
+kangalha: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 4c]
+Tompilomp: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: raises 150 to 300
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: calls 150
+*** FLOP *** [8d 3h Td]
+kangalha: checks 
+Porstua: bets 225
+kangalha: calls 225
+*** TURN *** [8d 3h Td] [8h]
+kangalha: checks 
+Porstua: bets 825
+kangalha: folds 
+Uncalled bet (825) returned to Porstua
+Porstua collected 1285 from pot
+Porstua: doesn't show hand 
+*** SUMMARY ***
+Total pot 1285 | Rake 0 
+Board [8d 3h Td 8h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua collected (1285)
+Seat 5: ONEV@N (button) folded before Flop (didn't bet)
+Seat 6: BazzaG32 (small blind) folded before Flop
+Seat 7: kangalha (big blind) folded on the Turn
+Seat 8: Tompilomp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973033640: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/21 18:20:08 WET [2025/02/21 13:20:08 ET]
+Table '3860676803 28' 8-max Seat #6 is the button
+Seat 1: Kevin12345Mc (6706 in chips) 
+Seat 2: FehVitor#PQD (4658 in chips) 
+Seat 3: bornrdy (4592 in chips) 
+Seat 4: Porstua (3961 in chips) 
+Seat 5: ONEV@N (8692 in chips) 
+Seat 6: BazzaG32 (3461 in chips) 
+Seat 7: kangalha (8005 in chips) 
+Seat 8: Tompilomp (6235 in chips) 
+Kevin12345Mc: posts the ante 20
+FehVitor#PQD: posts the ante 20
+bornrdy: posts the ante 20
+Porstua: posts the ante 20
+ONEV@N: posts the ante 20
+BazzaG32: posts the ante 20
+kangalha: posts the ante 20
+Tompilomp: posts the ante 20
+kangalha: posts small blind 75
+Tompilomp: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh Ad]
+Kevin12345Mc: raises 195 to 345
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: folds 
+Tompilomp: calls 195
+*** FLOP *** [Kh 7s 6c]
+Tompilomp: checks 
+Kevin12345Mc: bets 305
+Tompilomp: calls 305
+*** TURN *** [Kh 7s 6c] [Th]
+Tompilomp: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Kh 7s 6c Th] [5s]
+Tompilomp: checks 
+Kevin12345Mc: bets 1163
+Tompilomp: folds 
+Uncalled bet (1163) returned to Kevin12345Mc
+Kevin12345Mc collected 1535 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1535 | Rake 0 
+Board [Kh 7s 6c Th 5s]
+Seat 1: Kevin12345Mc collected (1535)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 (button) folded before Flop (didn't bet)
+Seat 7: kangalha (small blind) folded before Flop
+Seat 8: Tompilomp (big blind) folded on the River
+
+
+
+PokerStars Hand #254973055245: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/21 18:21:31 WET [2025/02/21 13:21:31 ET]
+Table '3860676803 28' 8-max Seat #7 is the button
+Seat 1: Kevin12345Mc (7571 in chips) 
+Seat 2: FehVitor#PQD (4638 in chips) 
+Seat 3: bornrdy (4572 in chips) 
+Seat 4: Porstua (3941 in chips) 
+Seat 5: ONEV@N (8672 in chips) 
+Seat 6: BazzaG32 (3441 in chips) 
+Seat 7: kangalha (7910 in chips) 
+Seat 8: Tompilomp (5565 in chips) 
+Kevin12345Mc: posts the ante 20
+FehVitor#PQD: posts the ante 20
+bornrdy: posts the ante 20
+Porstua: posts the ante 20
+ONEV@N: posts the ante 20
+BazzaG32: posts the ante 20
+kangalha: posts the ante 20
+Tompilomp: posts the ante 20
+Tompilomp: posts small blind 75
+Kevin12345Mc: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 8s]
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: folds 
+Tompilomp: raises 150 to 300
+Kevin12345Mc: calls 150
+*** FLOP *** [Ks 4d Th]
+Tompilomp: bets 150
+Kevin12345Mc: calls 150
+*** TURN *** [Ks 4d Th] [Jd]
+Tompilomp: bets 530
+Kevin12345Mc: calls 530
+*** RIVER *** [Ks 4d Th Jd] [7c]
+Tompilomp: bets 2120
+Kevin12345Mc: calls 2120
+*** SHOW DOWN ***
+Tompilomp: shows [Jh Kd] (two pair, Kings and Jacks)
+Kevin12345Mc: mucks hand 
+Tompilomp collected 6360 from pot
+*** SUMMARY ***
+Total pot 6360 | Rake 0 
+Board [Ks 4d Th Jd 7c]
+Seat 1: Kevin12345Mc (big blind) mucked [Kh 8s]
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha (button) folded before Flop (didn't bet)
+Seat 8: Tompilomp (small blind) showed [Jh Kd] and won (6360) with two pair, Kings and Jacks
+
+
+
+PokerStars Hand #254973074098: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/21 18:22:42 WET [2025/02/21 13:22:42 ET]
+Table '3860676803 28' 8-max Seat #8 is the button
+Seat 1: Kevin12345Mc (4451 in chips) 
+Seat 2: FehVitor#PQD (4618 in chips) 
+Seat 3: bornrdy (4552 in chips) 
+Seat 4: Porstua (3921 in chips) 
+Seat 5: ONEV@N (8652 in chips) 
+Seat 6: BazzaG32 (3421 in chips) 
+Seat 7: kangalha (7890 in chips) 
+Seat 8: Tompilomp (8805 in chips) 
+Kevin12345Mc: posts the ante 20
+FehVitor#PQD: posts the ante 20
+bornrdy: posts the ante 20
+Porstua: posts the ante 20
+ONEV@N: posts the ante 20
+BazzaG32: posts the ante 20
+kangalha: posts the ante 20
+Tompilomp: posts the ante 20
+Kevin12345Mc: posts small blind 75
+FehVitor#PQD: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 9h]
+bornrdy: folds 
+Porstua: raises 150 to 300
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: folds 
+Tompilomp: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: calls 150
+*** FLOP *** [Jh Th As]
+FehVitor#PQD: checks 
+Porstua: bets 300
+FehVitor#PQD: calls 300
+*** TURN *** [Jh Th As] [Ah]
+FehVitor#PQD: checks 
+Porstua: checks 
+*** RIVER *** [Jh Th As Ah] [Ad]
+FehVitor#PQD: bets 718
+Porstua: raises 2583 to 3301 and is all-in
+FehVitor#PQD: calls 2583
+*** SHOW DOWN ***
+Porstua: shows [Ac 2c] (four of a kind, Aces)
+FehVitor#PQD: shows [Jc Qs] (a full house, Aces full of Jacks)
+Porstua collected 8037 from pot
+*** SUMMARY ***
+Total pot 8037 | Rake 0 
+Board [Jh Th As Ah Ad]
+Seat 1: Kevin12345Mc (small blind) folded before Flop
+Seat 2: FehVitor#PQD (big blind) showed [Jc Qs] and lost with a full house, Aces full of Jacks
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua showed [Ac 2c] and won (8037) with four of a kind, Aces
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: Tompilomp (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973096238: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/21 18:24:07 WET [2025/02/21 13:24:07 ET]
+Table '3860676803 28' 8-max Seat #1 is the button
+Seat 1: Kevin12345Mc (4356 in chips) 
+Seat 2: FehVitor#PQD (697 in chips) 
+Seat 3: bornrdy (4532 in chips) 
+Seat 4: Porstua (8037 in chips) 
+Seat 5: ONEV@N (8632 in chips) 
+Seat 6: BazzaG32 (3401 in chips) 
+Seat 7: kangalha (7870 in chips) 
+Seat 8: Tompilomp (8785 in chips) 
+Kevin12345Mc: posts the ante 20
+FehVitor#PQD: posts the ante 20
+bornrdy: posts the ante 20
+Porstua: posts the ante 20
+ONEV@N: posts the ante 20
+BazzaG32: posts the ante 20
+kangalha: posts the ante 20
+Tompilomp: posts the ante 20
+FehVitor#PQD: posts small blind 75
+bornrdy: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh Kd]
+Porstua: folds 
+ONEV@N: raises 150 to 300
+BazzaG32: folds 
+kangalha: raises 600 to 900
+Tompilomp: folds 
+Kevin12345Mc: raises 3436 to 4336 and is all-in
+FehVitor#PQD: calls 602 and is all-in
+bornrdy: folds 
+ONEV@N: raises 4276 to 8612 and is all-in
+kangalha: folds 
+Uncalled bet (4276) returned to ONEV@N
+*** FLOP *** [As 8h 9h]
+*** TURN *** [As 8h 9h] [6h]
+*** RIVER *** [As 8h 9h 6h] [6c]
+*** SHOW DOWN ***
+ONEV@N: shows [Js Jc] (two pair, Jacks and Sixes)
+Kevin12345Mc: shows [Kh Kd] (two pair, Kings and Sixes)
+Kevin12345Mc collected 7541 from side pot
+FehVitor#PQD: shows [2h Ad] (two pair, Aces and Sixes)
+FehVitor#PQD collected 3018 from main pot
+*** SUMMARY ***
+Total pot 10559 Main pot 3018. Side pot 7541. | Rake 0 
+Board [As 8h 9h 6h 6c]
+Seat 1: Kevin12345Mc (button) showed [Kh Kd] and won (7541) with two pair, Kings and Sixes
+Seat 2: FehVitor#PQD (small blind) showed [2h Ad] and won (3018) with two pair, Aces and Sixes
+Seat 3: bornrdy (big blind) folded before Flop
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N showed [Js Jc] and lost with two pair, Jacks and Sixes
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop
+Seat 8: Tompilomp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973110220: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/21 18:25:00 WET [2025/02/21 13:25:00 ET]
+Table '3860676803 28' 8-max Seat #2 is the button
+Seat 1: Kevin12345Mc (7541 in chips) 
+Seat 2: FehVitor#PQD (3018 in chips) 
+Seat 3: bornrdy (4362 in chips) 
+Seat 4: Porstua (8017 in chips) 
+Seat 5: ONEV@N (4276 in chips) 
+Seat 6: BazzaG32 (3381 in chips) 
+Seat 7: kangalha (6950 in chips) 
+Seat 8: Tompilomp (8765 in chips) 
+Kevin12345Mc: posts the ante 20
+FehVitor#PQD: posts the ante 20
+bornrdy: posts the ante 20
+Porstua: posts the ante 20
+ONEV@N: posts the ante 20
+BazzaG32: posts the ante 20
+kangalha: posts the ante 20
+Tompilomp: posts the ante 20
+bornrdy: posts small blind 75
+Porstua: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Th]
+ONEV@N: folds 
+BazzaG32: folds 
+kangalha: folds 
+Tompilomp: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: folds 
+Uncalled bet (75) returned to Porstua
+Porstua collected 310 from pot
+Porstua: doesn't show hand 
+*** SUMMARY ***
+Total pot 310 | Rake 0 
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD (button) folded before Flop (didn't bet)
+Seat 3: bornrdy (small blind) folded before Flop
+Seat 4: Porstua (big blind) collected (310)
+Seat 5: ONEV@N folded before Flop (didn't bet)
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: Tompilomp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973118727: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/21 18:25:32 WET [2025/02/21 13:25:32 ET]
+Table '3860676803 28' 8-max Seat #3 is the button
+Seat 1: Kevin12345Mc (7521 in chips) 
+Seat 2: FehVitor#PQD (2998 in chips) 
+Seat 3: bornrdy (4267 in chips) 
+Seat 4: Porstua (8232 in chips) 
+Seat 5: ONEV@N (4256 in chips) 
+Seat 6: BazzaG32 (3361 in chips) 
+Seat 7: kangalha (6930 in chips) 
+Seat 8: Tompilomp (8745 in chips) 
+Kevin12345Mc: posts the ante 20
+FehVitor#PQD: posts the ante 20
+bornrdy: posts the ante 20
+Porstua: posts the ante 20
+ONEV@N: posts the ante 20
+BazzaG32: posts the ante 20
+kangalha: posts the ante 20
+Tompilomp: posts the ante 20
+Porstua: posts small blind 75
+ONEV@N: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 7c]
+BazzaG32: folds 
+kangalha: folds 
+Tompilomp: raises 150 to 300
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: calls 300
+Porstua: folds 
+ONEV@N: folds 
+*** FLOP *** [9c 8c Jd]
+Tompilomp: bets 343
+bornrdy: raises 707 to 1050
+Tompilomp: folds 
+Uncalled bet (707) returned to bornrdy
+bornrdy collected 1671 from pot
+bornrdy: doesn't show hand 
+*** SUMMARY ***
+Total pot 1671 | Rake 0 
+Board [9c 8c Jd]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy (button) collected (1671)
+Seat 4: Porstua (small blind) folded before Flop
+Seat 5: ONEV@N (big blind) folded before Flop
+Seat 6: BazzaG32 folded before Flop (didn't bet)
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: Tompilomp folded on the Flop
+
+
+
+PokerStars Hand #254973135297: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level VIII (75/150) - 2025/02/21 18:26:35 WET [2025/02/21 13:26:35 ET]
+Table '3860676803 28' 8-max Seat #4 is the button
+Seat 1: Kevin12345Mc (7501 in chips) 
+Seat 2: FehVitor#PQD (2978 in chips) 
+Seat 3: bornrdy (5275 in chips) 
+Seat 4: Porstua (8137 in chips) 
+Seat 5: ONEV@N (4086 in chips) 
+Seat 6: BazzaG32 (3341 in chips) 
+Seat 7: kangalha (6910 in chips) 
+Seat 8: Tompilomp (8082 in chips) 
+Kevin12345Mc: posts the ante 20
+FehVitor#PQD: posts the ante 20
+bornrdy: posts the ante 20
+Porstua: posts the ante 20
+ONEV@N: posts the ante 20
+BazzaG32: posts the ante 20
+kangalha: posts the ante 20
+Tompilomp: posts the ante 20
+ONEV@N: posts small blind 75
+BazzaG32: posts big blind 150
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7d Jh]
+kangalha: folds 
+Tompilomp: folds 
+Kevin12345Mc: folds 
+FehVitor#PQD: folds 
+bornrdy: raises 150 to 300
+Porstua: folds 
+ONEV@N: raises 3766 to 4066 and is all-in
+BazzaG32: calls 3171 and is all-in
+bornrdy: folds 
+Uncalled bet (745) returned to ONEV@N
+*** FLOP *** [Kc 7h 9c]
+*** TURN *** [Kc 7h 9c] [Qc]
+*** RIVER *** [Kc 7h 9c Qc] [3h]
+*** SHOW DOWN ***
+ONEV@N: shows [Jd Tc] (a straight, Nine to King)
+BazzaG32: shows [Qh Qd] (three of a kind, Queens)
+ONEV@N collected 7102 from pot
+BazzaG32 finished the tournament
+*** SUMMARY ***
+Total pot 7102 | Rake 0 
+Board [Kc 7h 9c Qc 3h]
+Seat 1: Kevin12345Mc folded before Flop (didn't bet)
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop
+Seat 4: Porstua (button) folded before Flop (didn't bet)
+Seat 5: ONEV@N (small blind) showed [Jd Tc] and won (7102) with a straight, Nine to King
+Seat 6: BazzaG32 (big blind) showed [Qh Qd] and lost with three of a kind, Queens
+Seat 7: kangalha folded before Flop (didn't bet)
+Seat 8: Tompilomp folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254973146779: Tournament #3860676803, $2.94+$0.36 USD Hold'em No Limit - Level IX (100/200) - 2025/02/21 18:27:18 WET [2025/02/21 13:27:18 ET]
+Table '3860676803 28' 8-max Seat #5 is the button
+Seat 1: Kevin12345Mc (7481 in chips) 
+Seat 2: FehVitor#PQD (2958 in chips) 
+Seat 3: bornrdy (4955 in chips) 
+Seat 4: Porstua (8117 in chips) 
+Seat 5: ONEV@N (7847 in chips) 
+Seat 7: kangalha (6890 in chips) 
+Seat 8: Tompilomp (8062 in chips) 
+Kevin12345Mc: posts the ante 25
+FehVitor#PQD: posts the ante 25
+bornrdy: posts the ante 25
+Porstua: posts the ante 25
+ONEV@N: posts the ante 25
+kangalha: posts the ante 25
+Tompilomp: posts the ante 25
+kangalha: posts small blind 100
+Tompilomp: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s 9c]
+Kevin12345Mc: raises 240 to 440
+FehVitor#PQD: folds 
+bornrdy: folds 
+Porstua: folds 
+ONEV@N: folds 
+kangalha: folds 
+Tompilomp: raises 955 to 1395
+Kevin12345Mc: calls 955
+*** FLOP *** [4d 4h 7d]
+Tompilomp: bets 1000
+Kevin12345Mc: calls 1000
+*** TURN *** [4d 4h 7d] [8h]
+Tompilomp: bets 5642 and is all-in
+Kevin12345Mc: calls 5061 and is all-in
+Uncalled bet (581) returned to Tompilomp
+*** RIVER *** [4d 4h 7d 8h] [Ah]
+*** SHOW DOWN ***
+Tompilomp: shows [Kc As] (two pair, Aces and Fours)
+Kevin12345Mc: shows [9s 9c] (two pair, Nines and Fours)
+Tompilomp collected 15187 from pot
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 15187 | Rake 0 
+Board [4d 4h 7d 8h Ah]
+Seat 1: Kevin12345Mc showed [9s 9c] and lost with two pair, Nines and Fours
+Seat 2: FehVitor#PQD folded before Flop (didn't bet)
+Seat 3: bornrdy folded before Flop (didn't bet)
+Seat 4: Porstua folded before Flop (didn't bet)
+Seat 5: ONEV@N (button) folded before Flop (didn't bet)
+Seat 7: kangalha (small blind) folded before Flop
+Seat 8: Tompilomp (big blind) showed [Kc As] and won (15187) with two pair, Aces and Fours
+
+
+

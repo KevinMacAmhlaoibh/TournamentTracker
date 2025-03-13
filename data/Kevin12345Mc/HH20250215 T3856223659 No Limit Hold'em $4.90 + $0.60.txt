@@ -1,0 +1,5315 @@
+﻿PokerStars Hand #254879381574: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/15 17:29:47 WET [2025/02/15 12:29:47 ET]
+Table '3856223659 20' 8-max Seat #1 is the button
+Seat 1: smokergrace (25000 in chips, $2.45 bounty) 
+Seat 2: lars1952 (25000 in chips, $2.45 bounty) 
+Seat 3: Kevin12345Mc (25000 in chips, $2.45 bounty) 
+Seat 4: Daralo96 (25000 in chips, $2.45 bounty) 
+Seat 5: Der_AL13 (25000 in chips, $2.45 bounty) 
+Seat 6: Mr.SmAyKs (25000 in chips, $2.45 bounty) 
+Seat 7: jonathan93xx (25000 in chips, $2.45 bounty) 
+Seat 8: Chaloeil (25000 in chips, $2.45 bounty) 
+smokergrace: posts the ante 25
+lars1952: posts the ante 25
+Kevin12345Mc: posts the ante 25
+Daralo96: posts the ante 25
+Der_AL13: posts the ante 25
+Mr.SmAyKs: posts the ante 25
+jonathan93xx: posts the ante 25
+Chaloeil: posts the ante 25
+lars1952: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ts 6c]
+Daralo96: folds 
+Der_AL13: folds 
+Mr.SmAyKs: folds 
+jonathan93xx: calls 200
+Chaloeil: calls 200
+smokergrace: raises 800 to 1000
+lars1952: folds 
+Kevin12345Mc: folds 
+jonathan93xx: folds 
+Chaloeil: calls 800
+*** FLOP *** [Js Kc Jh]
+Chaloeil: checks 
+smokergrace: bets 800
+Chaloeil: folds 
+Uncalled bet (800) returned to smokergrace
+smokergrace collected 2700 from pot
+smokergrace: doesn't show hand 
+*** SUMMARY ***
+Total pot 2700 | Rake 0 
+Board [Js Kc Jh]
+Seat 1: smokergrace (button) collected (2700)
+Seat 2: lars1952 (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) folded before Flop
+Seat 4: Daralo96 folded before Flop (didn't bet)
+Seat 5: Der_AL13 folded before Flop (didn't bet)
+Seat 6: Mr.SmAyKs folded before Flop (didn't bet)
+Seat 7: jonathan93xx folded before Flop
+Seat 8: Chaloeil folded on the Flop
+
+
+
+PokerStars Hand #254879393329: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/15 17:30:30 WET [2025/02/15 12:30:30 ET]
+Table '3856223659 20' 8-max Seat #2 is the button
+Seat 1: smokergrace (26675 in chips, $2.45 bounty) 
+Seat 2: lars1952 (24875 in chips, $2.45 bounty) 
+Seat 3: Kevin12345Mc (24775 in chips, $2.45 bounty) 
+Seat 5: Der_AL13 (24975 in chips, $2.45 bounty) 
+Seat 6: Mr.SmAyKs (24975 in chips, $2.45 bounty) 
+Seat 7: jonathan93xx (24775 in chips, $2.45 bounty) 
+Seat 8: Chaloeil (23975 in chips, $2.45 bounty) 
+smokergrace: posts the ante 25
+lars1952: posts the ante 25
+Kevin12345Mc: posts the ante 25
+Der_AL13: posts the ante 25
+Mr.SmAyKs: posts the ante 25
+jonathan93xx: posts the ante 25
+Chaloeil: posts the ante 25
+Kevin12345Mc: posts small blind 100
+Der_AL13: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh Qc]
+Jonas123 is disconnected 
+Mr.SmAyKs: raises 220 to 420
+jonathan93xx: folds 
+Chaloeil: folds 
+smokergrace: raises 620 to 1040
+lars1952: folds 
+Kevin12345Mc: folds 
+Der_AL13: folds 
+Mr.SmAyKs: raises 23910 to 24950 and is all-in
+smokergrace: calls 23910
+*** FLOP *** [8d 8c 2s]
+*** TURN *** [8d 8c 2s] [7c]
+*** RIVER *** [8d 8c 2s 7c] [Jd]
+*** SHOW DOWN ***
+Mr.SmAyKs: shows [Ks As] (a pair of Eights)
+smokergrace: shows [Ah Qh] (a pair of Eights - lower kicker)
+Mr.SmAyKs collected 50375 from pot
+*** SUMMARY ***
+Total pot 50375 | Rake 0 
+Board [8d 8c 2s 7c Jd]
+Seat 1: smokergrace showed [Ah Qh] and lost with a pair of Eights
+Seat 2: lars1952 (button) folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 5: Der_AL13 (big blind) folded before Flop
+Seat 6: Mr.SmAyKs showed [Ks As] and won (50375) with a pair of Eights
+Seat 7: jonathan93xx folded before Flop (didn't bet)
+Seat 8: Chaloeil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879403397: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/15 17:31:09 WET [2025/02/15 12:31:09 ET]
+Table '3856223659 20' 8-max Seat #3 is the button
+Seat 1: smokergrace (1700 in chips, $2.45 bounty) 
+Seat 2: lars1952 (24850 in chips, $2.45 bounty) 
+Seat 3: Kevin12345Mc (24650 in chips, $2.45 bounty) 
+Seat 4: Jonas123 (25000 in chips) out of hand (moved from another table into small blind)
+Seat 5: Der_AL13 (24750 in chips, $2.45 bounty) 
+Seat 6: Mr.SmAyKs (50375 in chips, $2.45 bounty) 
+Seat 7: jonathan93xx (24750 in chips, $2.45 bounty) 
+Seat 8: Chaloeil (23950 in chips, $2.45 bounty) 
+Jonas123 will be allowed to play after the button
+smokergrace: posts the ante 25
+lars1952: posts the ante 25
+Kevin12345Mc: posts the ante 25
+Der_AL13: posts the ante 25
+Mr.SmAyKs: posts the ante 25
+jonathan93xx: posts the ante 25
+Chaloeil: posts the ante 25
+Der_AL13: posts small blind 100
+Mr.SmAyKs: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 8c]
+jonathan93xx: folds 
+Chaloeil: folds 
+smokergrace: raises 1475 to 1675 and is all-in
+lars1952: folds 
+Kevin12345Mc: folds 
+Der_AL13: folds 
+Mr.SmAyKs: calls 1475
+*** FLOP *** [6c 2h Ac]
+*** TURN *** [6c 2h Ac] [Ad]
+*** RIVER *** [6c 2h Ac Ad] [7c]
+*** SHOW DOWN ***
+Mr.SmAyKs: shows [6s Tc] (two pair, Aces and Sixes)
+smokergrace: shows [Qh Ks] (a pair of Aces)
+Mr.SmAyKs collected 3625 from pot
+Mr.SmAyKs wins $1.23 for eliminating smokergrace and their own bounty increases by $1.22 to $3.67
+smokergrace finished the tournament
+*** SUMMARY ***
+Total pot 3625 | Rake 0 
+Board [6c 2h Ac Ad 7c]
+Seat 1: smokergrace showed [Qh Ks] and lost with a pair of Aces
+Seat 2: lars1952 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 5: Der_AL13 (small blind) folded before Flop
+Seat 6: Mr.SmAyKs (big blind) showed [6s Tc] and won (3625) with two pair, Aces and Sixes
+Seat 7: jonathan93xx folded before Flop (didn't bet)
+Seat 8: Chaloeil folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879415291: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/15 17:31:54 WET [2025/02/15 12:31:54 ET]
+Table '3856223659 20' 8-max Seat #5 is the button
+Seat 2: lars1952 (24825 in chips, $2.45 bounty) 
+Seat 3: Kevin12345Mc (24625 in chips, $2.45 bounty) 
+Seat 4: Jonas123 (25000 in chips, $2.45 bounty) 
+Seat 5: Der_AL13 (24625 in chips, $2.45 bounty) 
+Seat 6: Mr.SmAyKs (52300 in chips, $3.67 bounty) 
+Seat 7: jonathan93xx (24725 in chips, $2.45 bounty) 
+Seat 8: Chaloeil (23925 in chips, $2.45 bounty) 
+lars1952: posts the ante 25
+Kevin12345Mc: posts the ante 25
+Jonas123: posts the ante 25
+Der_AL13: posts the ante 25
+Mr.SmAyKs: posts the ante 25
+jonathan93xx: posts the ante 25
+Chaloeil: posts the ante 25
+Mr.SmAyKs: posts small blind 100
+jonathan93xx: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah Ad]
+union1978668 is disconnected 
+Chaloeil: raises 200 to 400
+lars1952: folds 
+Kevin12345Mc: raises 1200 to 1600
+Jonas123: folds 
+Der_AL13: folds 
+Mr.SmAyKs: folds 
+jonathan93xx: folds 
+Chaloeil: raises 3675 to 5275
+Kevin12345Mc: raises 19325 to 24600 and is all-in
+Chaloeil: calls 18625 and is all-in
+Uncalled bet (700) returned to Kevin12345Mc
+*** FLOP *** [8h Ks Th]
+*** TURN *** [8h Ks Th] [4c]
+*** RIVER *** [8h Ks Th 4c] [2h]
+*** SHOW DOWN ***
+Chaloeil: shows [9c 9h] (a pair of Nines)
+Kevin12345Mc: shows [Ah Ad] (a pair of Aces)
+Kevin12345Mc collected 48275 from pot
+Kevin12345Mc wins $1.23 for eliminating Chaloeil and their own bounty increases by $1.22 to $3.67
+Chaloeil finished the tournament
+*** SUMMARY ***
+Total pot 48275 | Rake 0 
+Board [8h Ks Th 4c 2h]
+Seat 2: lars1952 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc showed [Ah Ad] and won (48275) with a pair of Aces
+Seat 4: Jonas123 folded before Flop (didn't bet)
+Seat 5: Der_AL13 (button) folded before Flop (didn't bet)
+Seat 6: Mr.SmAyKs (small blind) folded before Flop
+Seat 7: jonathan93xx (big blind) folded before Flop
+Seat 8: Chaloeil showed [9c 9h] and lost with a pair of Nines
+
+
+
+PokerStars Hand #254879431218: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/15 17:32:55 WET [2025/02/15 12:32:55 ET]
+Table '3856223659 20' 8-max Seat #6 is the button
+Seat 1: union1978668 (25000 in chips, $2.45 bounty) 
+Seat 2: lars1952 (24800 in chips, $2.45 bounty) 
+Seat 3: Kevin12345Mc (48975 in chips, $3.67 bounty) 
+Seat 4: Jonas123 (24975 in chips, $2.45 bounty) 
+Seat 5: Der_AL13 (24600 in chips, $2.45 bounty) 
+Seat 6: Mr.SmAyKs (52175 in chips, $3.67 bounty) 
+Seat 7: jonathan93xx (24500 in chips, $2.45 bounty) 
+union1978668: posts the ante 25
+lars1952: posts the ante 25
+Kevin12345Mc: posts the ante 25
+Jonas123: posts the ante 25
+Der_AL13: posts the ante 25
+Mr.SmAyKs: posts the ante 25
+jonathan93xx: posts the ante 25
+jonathan93xx: posts small blind 100
+union1978668: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 4h]
+lars1952: folds 
+Kevin12345Mc: folds 
+Jonas123: folds 
+Der_AL13: raises 300 to 500
+Mr.SmAyKs: folds 
+jonathan93xx: raises 1375 to 1875
+union1978668: calls 1675
+Der_AL13: calls 1375
+*** FLOP *** [3h 6h Jc]
+jonathan93xx: bets 2900
+union1978668: folds 
+Der_AL13: calls 2900
+*** TURN *** [3h 6h Jc] [Qd]
+jonathan93xx: bets 5800
+Der_AL13: calls 5800
+*** RIVER *** [3h 6h Jc Qd] [7c]
+jonathan93xx: bets 11600
+Der_AL13: folds 
+Uncalled bet (11600) returned to jonathan93xx
+jonathan93xx collected 23200 from pot
+jonathan93xx: doesn't show hand 
+*** SUMMARY ***
+Total pot 23200 | Rake 0 
+Board [3h 6h Jc Qd 7c]
+Seat 1: union1978668 (big blind) folded on the Flop
+Seat 2: lars1952 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Jonas123 folded before Flop (didn't bet)
+Seat 5: Der_AL13 folded on the River
+Seat 6: Mr.SmAyKs (button) folded before Flop (didn't bet)
+Seat 7: jonathan93xx (small blind) collected (23200)
+
+
+
+PokerStars Hand #254879449718: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/15 17:34:05 WET [2025/02/15 12:34:05 ET]
+Table '3856223659 20' 8-max Seat #7 is the button
+Seat 1: union1978668 (23100 in chips, $2.45 bounty) 
+Seat 2: lars1952 (24775 in chips, $2.45 bounty) 
+Seat 3: Kevin12345Mc (48950 in chips, $3.67 bounty) 
+Seat 4: Jonas123 (24950 in chips, $2.45 bounty) 
+Seat 5: Der_AL13 (14000 in chips, $2.45 bounty) 
+Seat 6: Mr.SmAyKs (52150 in chips, $3.67 bounty) 
+Seat 7: jonathan93xx (37100 in chips, $2.45 bounty) 
+Seat 8: Clouudd. (25000 in chips) out of hand (moved from another table into small blind)
+Clouudd. will be allowed to play after the button
+union1978668: posts the ante 25
+lars1952: posts the ante 25
+Kevin12345Mc: posts the ante 25
+Jonas123: posts the ante 25
+Der_AL13: posts the ante 25
+Mr.SmAyKs: posts the ante 25
+jonathan93xx: posts the ante 25
+union1978668: posts small blind 100
+lars1952: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js As]
+Kevin12345Mc: raises 260 to 460
+Jonas123: folds 
+Der_AL13: folds 
+Mr.SmAyKs: folds 
+jonathan93xx: calls 460
+union1978668: calls 360
+lars1952: calls 260
+*** FLOP *** [4d 6d 9c]
+union1978668: checks 
+lars1952: checks 
+Kevin12345Mc: checks 
+jonathan93xx: checks 
+*** TURN *** [4d 6d 9c] [8c]
+union1978668: bets 1008
+lars1952: calls 1008
+Kevin12345Mc: folds 
+jonathan93xx: folds 
+*** RIVER *** [4d 6d 9c 8c] [Ts]
+union1978668: bets 2016
+lars1952: calls 2016
+*** SHOW DOWN ***
+union1978668: shows [Tc 6s] (two pair, Tens and Sixes)
+lars1952: mucks hand 
+union1978668 collected 8063 from pot
+*** SUMMARY ***
+Total pot 8063 | Rake 0 
+Board [4d 6d 9c 8c Ts]
+Seat 1: union1978668 (small blind) showed [Tc 6s] and won (8063) with two pair, Tens and Sixes
+Seat 2: lars1952 (big blind) mucked [Td 3d]
+Seat 3: Kevin12345Mc folded on the Turn
+Seat 4: Jonas123 folded before Flop (didn't bet)
+Seat 5: Der_AL13 folded before Flop (didn't bet)
+Seat 6: Mr.SmAyKs folded before Flop (didn't bet)
+Seat 7: jonathan93xx (button) folded on the Turn
+
+
+
+PokerStars Hand #254879469134: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/15 17:35:18 WET [2025/02/15 12:35:18 ET]
+Table '3856223659 20' 8-max Seat #1 is the button
+Seat 1: union1978668 (27654 in chips, $2.45 bounty) 
+Seat 2: lars1952 (21266 in chips, $2.45 bounty) 
+Seat 3: Kevin12345Mc (48465 in chips, $3.67 bounty) 
+Seat 4: Jonas123 (24925 in chips, $2.45 bounty) 
+Seat 5: Der_AL13 (13975 in chips, $2.45 bounty) 
+Seat 6: Mr.SmAyKs (52125 in chips, $3.67 bounty) 
+Seat 7: jonathan93xx (36615 in chips, $2.45 bounty) 
+Seat 8: Clouudd. (25000 in chips, $2.45 bounty) 
+union1978668: posts the ante 25
+lars1952: posts the ante 25
+Kevin12345Mc: posts the ante 25
+Jonas123: posts the ante 25
+Der_AL13: posts the ante 25
+Mr.SmAyKs: posts the ante 25
+jonathan93xx: posts the ante 25
+Clouudd.: posts the ante 25
+lars1952: posts small blind 100
+Kevin12345Mc: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Kc]
+Jonas123: folds 
+Der_AL13: folds 
+Mr.SmAyKs: folds 
+jonathan93xx: folds 
+Clouudd.: raises 200 to 400
+union1978668: folds 
+lars1952: folds 
+Kevin12345Mc: calls 200
+*** FLOP *** [8h Ts Qd]
+Kevin12345Mc: checks 
+Clouudd.: bets 363
+Kevin12345Mc: calls 363
+*** TURN *** [8h Ts Qd] [9h]
+Kevin12345Mc: checks 
+Clouudd.: bets 913
+Kevin12345Mc: calls 913
+*** RIVER *** [8h Ts Qd 9h] [Jh]
+Kevin12345Mc: checks 
+Clouudd.: bets 3720
+Kevin12345Mc: calls 3720
+*** SHOW DOWN ***
+Clouudd.: shows [Kh As] (a straight, Ten to Ace)
+Kevin12345Mc: mucks hand 
+Clouudd. collected 11092 from pot
+*** SUMMARY ***
+Total pot 11092 | Rake 0 
+Board [8h Ts Qd 9h Jh]
+Seat 1: union1978668 (button) folded before Flop (didn't bet)
+Seat 2: lars1952 (small blind) folded before Flop
+Seat 3: Kevin12345Mc (big blind) mucked [Td Kc]
+Seat 4: Jonas123 folded before Flop (didn't bet)
+Seat 5: Der_AL13 folded before Flop (didn't bet)
+Seat 6: Mr.SmAyKs folded before Flop (didn't bet)
+Seat 7: jonathan93xx folded before Flop (didn't bet)
+Seat 8: Clouudd. showed [Kh As] and won (11092) with a straight, Ten to Ace
+
+
+
+PokerStars Hand #254879488180: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/15 17:36:30 WET [2025/02/15 12:36:30 ET]
+Table '3856223659 20' 8-max Seat #2 is the button
+Seat 1: union1978668 (27629 in chips, $2.45 bounty) 
+Seat 2: lars1952 (21141 in chips, $2.45 bounty) 
+Seat 3: Kevin12345Mc (43044 in chips, $3.67 bounty) 
+Seat 4: Jonas123 (24900 in chips, $2.45 bounty) 
+Seat 5: Der_AL13 (13950 in chips, $2.45 bounty) 
+Seat 6: Mr.SmAyKs (52100 in chips, $3.67 bounty) 
+Seat 7: jonathan93xx (36590 in chips, $2.45 bounty) 
+Seat 8: Clouudd. (30671 in chips, $2.45 bounty) 
+union1978668: posts the ante 25
+lars1952: posts the ante 25
+Kevin12345Mc: posts the ante 25
+Jonas123: posts the ante 25
+Der_AL13: posts the ante 25
+Mr.SmAyKs: posts the ante 25
+jonathan93xx: posts the ante 25
+Clouudd.: posts the ante 25
+Kevin12345Mc: posts small blind 100
+Jonas123: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qs 5d]
+Der_AL13: folds 
+Mr.SmAyKs: folds 
+jonathan93xx: calls 200
+Clouudd.: folds 
+union1978668: folds 
+lars1952: calls 200
+Kevin12345Mc: folds 
+Jonas123: checks 
+*** FLOP *** [Ts Ac Kd]
+Jonas123: checks 
+jonathan93xx: checks 
+lars1952: checks 
+*** TURN *** [Ts Ac Kd] [Ad]
+Jonas123: checks 
+jonathan93xx: checks 
+lars1952: checks 
+*** RIVER *** [Ts Ac Kd Ad] [4c]
+Jonas123: checks 
+jonathan93xx: checks 
+lars1952: checks 
+*** SHOW DOWN ***
+Jonas123: shows [Qh 9c] (a pair of Aces)
+jonathan93xx: mucks hand 
+lars1952: shows [Qc Td] (two pair, Aces and Tens)
+lars1952 collected 900 from pot
+*** SUMMARY ***
+Total pot 900 | Rake 0 
+Board [Ts Ac Kd Ad 4c]
+Seat 1: union1978668 folded before Flop (didn't bet)
+Seat 2: lars1952 (button) showed [Qc Td] and won (900) with two pair, Aces and Tens
+Seat 3: Kevin12345Mc (small blind) folded before Flop
+Seat 4: Jonas123 (big blind) showed [Qh 9c] and lost with a pair of Aces
+Seat 5: Der_AL13 folded before Flop (didn't bet)
+Seat 6: Mr.SmAyKs folded before Flop (didn't bet)
+Seat 7: jonathan93xx mucked [7s 2s]
+Seat 8: Clouudd. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879507342: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level I (100/200) - 2025/02/15 17:37:44 WET [2025/02/15 12:37:44 ET]
+Table '3856223659 20' 8-max Seat #3 is the button
+Seat 1: union1978668 (27604 in chips, $2.45 bounty) 
+Seat 2: lars1952 (21816 in chips, $2.45 bounty) 
+Seat 3: Kevin12345Mc (42919 in chips, $3.67 bounty) 
+Seat 4: Jonas123 (24675 in chips, $2.45 bounty) 
+Seat 5: Der_AL13 (13925 in chips, $2.45 bounty) 
+Seat 6: Mr.SmAyKs (52075 in chips, $3.67 bounty) 
+Seat 7: jonathan93xx (36365 in chips, $2.45 bounty) 
+Seat 8: Clouudd. (30646 in chips, $2.45 bounty) 
+union1978668: posts the ante 25
+lars1952: posts the ante 25
+Kevin12345Mc: posts the ante 25
+Jonas123: posts the ante 25
+Der_AL13: posts the ante 25
+Mr.SmAyKs: posts the ante 25
+jonathan93xx: posts the ante 25
+Clouudd.: posts the ante 25
+Jonas123: posts small blind 100
+Der_AL13: posts big blind 200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac Kc]
+Mr.SmAyKs: folds 
+jonathan93xx: calls 200
+Clouudd.: folds 
+union1978668: folds 
+lars1952: folds 
+Kevin12345Mc: raises 460 to 660
+Jonas123: folds 
+Der_AL13: folds 
+jonathan93xx: calls 460
+*** FLOP *** [2s 7c 2c]
+jonathan93xx: checks 
+Kevin12345Mc: bets 601
+jonathan93xx: folds 
+Uncalled bet (601) returned to Kevin12345Mc
+Kevin12345Mc collected 1820 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1820 | Rake 0 
+Board [2s 7c 2c]
+Seat 1: union1978668 folded before Flop (didn't bet)
+Seat 2: lars1952 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc (button) collected (1820)
+Seat 4: Jonas123 (small blind) folded before Flop
+Seat 5: Der_AL13 (big blind) folded before Flop
+Seat 6: Mr.SmAyKs folded before Flop (didn't bet)
+Seat 7: jonathan93xx folded on the Flop
+Seat 8: Clouudd. folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879522396: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/15 17:38:41 WET [2025/02/15 12:38:41 ET]
+Table '3856223659 20' 8-max Seat #4 is the button
+Seat 1: union1978668 (27579 in chips, $2.45 bounty) 
+Seat 2: lars1952 (21791 in chips, $2.45 bounty) 
+Seat 3: Kevin12345Mc (44054 in chips, $3.67 bounty) 
+Seat 4: Jonas123 (24550 in chips, $2.45 bounty) 
+Seat 5: Der_AL13 (13700 in chips, $2.45 bounty) 
+Seat 6: Mr.SmAyKs (52050 in chips, $3.67 bounty) 
+Seat 7: jonathan93xx (35680 in chips, $2.45 bounty) 
+Seat 8: Clouudd. (30621 in chips, $2.45 bounty) 
+union1978668: posts the ante 30
+lars1952: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Jonas123: posts the ante 30
+Der_AL13: posts the ante 30
+Mr.SmAyKs: posts the ante 30
+jonathan93xx: posts the ante 30
+Clouudd.: posts the ante 30
+Der_AL13: posts small blind 125
+Mr.SmAyKs: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d Ah]
+jonathan93xx: calls 250
+Clouudd.: raises 625 to 875
+union1978668: folds 
+lars1952: folds 
+Kevin12345Mc: folds 
+Jonas123: folds 
+Der_AL13: calls 750
+Mr.SmAyKs: folds 
+jonathan93xx: calls 625
+*** FLOP *** [6s 6h Jh]
+Der_AL13: checks 
+jonathan93xx: checks 
+Clouudd.: checks 
+*** TURN *** [6s 6h Jh] [5c]
+Der_AL13: bets 3115
+jonathan93xx: raises 4673 to 7788
+Clouudd.: folds 
+Der_AL13: calls 4673
+*** RIVER *** [6s 6h Jh 5c] [8d]
+Der_AL13: checks 
+jonathan93xx: bets 18691
+Der_AL13: folds 
+Uncalled bet (18691) returned to jonathan93xx
+jonathan93xx collected 18691 from pot
+jonathan93xx: doesn't show hand 
+*** SUMMARY ***
+Total pot 18691 | Rake 0 
+Board [6s 6h Jh 5c 8d]
+Seat 1: union1978668 folded before Flop (didn't bet)
+Seat 2: lars1952 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc folded before Flop (didn't bet)
+Seat 4: Jonas123 (button) folded before Flop (didn't bet)
+Seat 5: Der_AL13 (small blind) folded on the River
+Seat 6: Mr.SmAyKs (big blind) folded before Flop
+Seat 7: jonathan93xx collected (18691)
+Seat 8: Clouudd. folded on the Turn
+
+
+
+PokerStars Hand #254879546430: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/15 17:40:13 WET [2025/02/15 12:40:13 ET]
+Table '3856223659 20' 8-max Seat #5 is the button
+Seat 2: lars1952 (21761 in chips, $2.45 bounty) 
+Seat 3: Kevin12345Mc (44024 in chips, $3.67 bounty) 
+Seat 4: Jonas123 (24520 in chips, $2.45 bounty) 
+Seat 5: Der_AL13 (5007 in chips, $2.45 bounty) 
+Seat 6: Mr.SmAyKs (51770 in chips, $3.67 bounty) 
+Seat 7: jonathan93xx (45678 in chips, $2.45 bounty) 
+Seat 8: Clouudd. (29716 in chips, $2.45 bounty) 
+lars1952: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Jonas123: posts the ante 30
+Der_AL13: posts the ante 30
+Mr.SmAyKs: posts the ante 30
+jonathan93xx: posts the ante 30
+Clouudd.: posts the ante 30
+Mr.SmAyKs: posts small blind 125
+jonathan93xx: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Jh]
+Clouudd.: raises 250 to 500
+lars1952: folds 
+diep178 is disconnected 
+Kevin12345Mc: raises 1250 to 1750
+Jonas123: folds 
+Der_AL13: folds 
+Mr.SmAyKs: calls 1625
+jonathan93xx: folds 
+Clouudd.: calls 1250
+*** FLOP *** [5c 8s 2d]
+Mr.SmAyKs: checks 
+Clouudd.: checks 
+Kevin12345Mc: bets 1884
+Mr.SmAyKs: calls 1884
+Clouudd.: folds 
+*** TURN *** [5c 8s 2d] [5h]
+Mr.SmAyKs: checks 
+Kevin12345Mc: bets 6755
+Mr.SmAyKs: calls 6755
+*** RIVER *** [5c 8s 2d 5h] [4c]
+Mr.SmAyKs: bets 41351 and is all-in
+Kevin12345Mc: calls 33605 and is all-in
+Uncalled bet (7746) returned to Mr.SmAyKs
+*** SHOW DOWN ***
+Mr.SmAyKs: shows [Ah Ad] (two pair, Aces and Fives)
+Kevin12345Mc: shows [Js Jh] (two pair, Jacks and Fives)
+Mr.SmAyKs collected 90198 from pot
+Mr.SmAyKs wins $1.84 for eliminating Kevin12345Mc and their own bounty increases by $1.83 to $5.50
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 90198 | Rake 0 
+Board [5c 8s 2d 5h 4c]
+Seat 2: lars1952 folded before Flop (didn't bet)
+Seat 3: Kevin12345Mc showed [Js Jh] and lost with two pair, Jacks and Fives
+Seat 4: Jonas123 folded before Flop (didn't bet)
+Seat 5: Der_AL13 (button) folded before Flop (didn't bet)
+Seat 6: Mr.SmAyKs (small blind) showed [Ah Ad] and won (90198) with two pair, Aces and Fives
+Seat 7: jonathan93xx (big blind) folded before Flop
+Seat 8: Clouudd. folded on the Flop
+
+
+
+PokerStars Hand #254879594310: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/15 17:43:13 WET [2025/02/15 12:43:13 ET]
+Table '3856223659 128' 8-max Seat #5 is the button
+Seat 1: KennenLt (26180 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (60158 in chips, $3.67 bounty) 
+Seat 3: viktoreo (18446 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (25000 in chips, $2.45 bounty) 
+Seat 5: pubhater (18831 in chips, $2.45 bounty) 
+Seat 6: eMs15 (27959 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (25000 in chips, $2.45 bounty) 
+Seat 8: Pokermon8722 (30991 in chips, $2.45 bounty) 
+KennenLt: posts the ante 30
+Bpj434343: posts the ante 30
+viktoreo: posts the ante 30
+Mick92109: posts the ante 30
+pubhater: posts the ante 30
+eMs15: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Pokermon8722: posts the ante 30
+eMs15: posts small blind 125
+Kevin12345Mc: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 3c]
+Pokermon8722: folds 
+KennenLt: folds 
+Bpj434343: folds 
+viktoreo: raises 250 to 500
+Mick92109: folds 
+pubhater: folds 
+eMs15: folds 
+Kevin12345Mc: calls 250
+*** FLOP *** [As Ts 2h]
+Kevin12345Mc: checks 
+viktoreo: bets 500
+Kevin12345Mc: calls 500
+*** TURN *** [As Ts 2h] [Kh]
+Kevin12345Mc: checks 
+viktoreo: bets 1500
+Kevin12345Mc: folds 
+Uncalled bet (1500) returned to viktoreo
+viktoreo collected 2365 from pot
+viktoreo: doesn't show hand 
+*** SUMMARY ***
+Total pot 2365 | Rake 0 
+Board [As Ts 2h Kh]
+Seat 1: KennenLt folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: viktoreo collected (2365)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: pubhater (button) folded before Flop (didn't bet)
+Seat 6: eMs15 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Turn
+Seat 8: Pokermon8722 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879602202: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/15 17:43:44 WET [2025/02/15 12:43:44 ET]
+Table '3856223659 128' 8-max Seat #6 is the button
+Seat 1: KennenLt (26150 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (60128 in chips, $3.67 bounty) 
+Seat 3: viktoreo (19781 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (24970 in chips, $2.45 bounty) 
+Seat 5: pubhater (18801 in chips, $2.45 bounty) 
+Seat 6: eMs15 (27804 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (23970 in chips, $2.45 bounty) 
+Seat 8: Pokermon8722 (30961 in chips, $2.45 bounty) 
+KennenLt: posts the ante 30
+Bpj434343: posts the ante 30
+viktoreo: posts the ante 30
+Mick92109: posts the ante 30
+pubhater: posts the ante 30
+eMs15: posts the ante 30
+Kevin12345Mc: posts the ante 30
+Pokermon8722: posts the ante 30
+Kevin12345Mc: posts small blind 125
+Pokermon8722: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5d 7h]
+KennenLt: folds 
+Bpj434343: calls 250
+viktoreo: folds 
+Mick92109: folds 
+pubhater: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Pokermon8722: raises 865 to 1115
+Bpj434343: calls 865
+*** FLOP *** [6s 6c Kc]
+Pokermon8722: bets 2595
+Bpj434343: calls 2595
+*** TURN *** [6s 6c Kc] [7d]
+Pokermon8722: bets 7785
+Bpj434343: calls 7785
+*** RIVER *** [6s 6c Kc 7d] [7c]
+Pokermon8722: bets 19436 and is all-in
+Bpj434343: calls 19436
+*** SHOW DOWN ***
+Pokermon8722: shows [Kd 4d] (two pair, Kings and Sevens)
+Bpj434343: shows [Ks 9s] (two pair, Kings and Sevens - Nine kicker)
+Bpj434343 collected 62227 from pot
+Bpj434343 wins $1.23 for eliminating Pokermon8722 and their own bounty increases by $1.22 to $4.89
+Pokermon8722 finished the tournament
+*** SUMMARY ***
+Total pot 62227 | Rake 0 
+Board [6s 6c Kc 7d 7c]
+Seat 1: KennenLt folded before Flop (didn't bet)
+Seat 2: Bpj434343 showed [Ks 9s] and won (62227) with two pair, Kings and Sevens
+Seat 3: viktoreo folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: pubhater folded before Flop (didn't bet)
+Seat 6: eMs15 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Pokermon8722 (big blind) showed [Kd 4d] and lost with two pair, Kings and Sevens
+
+
+
+PokerStars Hand #254879615053: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/15 17:44:33 WET [2025/02/15 12:44:33 ET]
+Table '3856223659 128' 8-max Seat #7 is the button
+Seat 1: KennenLt (26120 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (91394 in chips, $4.89 bounty) 
+Seat 3: viktoreo (19751 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (24940 in chips, $2.45 bounty) 
+Seat 5: pubhater (18771 in chips, $2.45 bounty) 
+Seat 6: eMs15 (27774 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (23815 in chips, $2.45 bounty) 
+KennenLt: posts the ante 30
+Bpj434343: posts the ante 30
+viktoreo: posts the ante 30
+Mick92109: posts the ante 30
+pubhater: posts the ante 30
+eMs15: posts the ante 30
+Kevin12345Mc: posts the ante 30
+KennenLt: posts small blind 125
+Bpj434343: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [As Jh]
+isphobie is disconnected 
+viktoreo: folds 
+Mick92109: folds 
+pubhater: folds 
+eMs15: folds 
+Kevin12345Mc: raises 325 to 575
+KennenLt: folds 
+Bpj434343: calls 325
+*** FLOP *** [Ad 7s 4c]
+Bpj434343: checks 
+Kevin12345Mc: bets 490
+Bpj434343: folds 
+Uncalled bet (490) returned to Kevin12345Mc
+Kevin12345Mc collected 1485 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1485 | Rake 0 
+Board [Ad 7s 4c]
+Seat 1: KennenLt (small blind) folded before Flop
+Seat 2: Bpj434343 (big blind) folded on the Flop
+Seat 3: viktoreo folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: pubhater folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) collected (1485)
+
+
+
+PokerStars Hand #254879623933: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/15 17:45:06 WET [2025/02/15 12:45:06 ET]
+Table '3856223659 128' 8-max Seat #1 is the button
+Seat 1: KennenLt (25965 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (90789 in chips, $4.89 bounty) 
+Seat 3: viktoreo (19721 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (24910 in chips, $2.45 bounty) 
+Seat 5: pubhater (18741 in chips, $2.45 bounty) 
+Seat 6: eMs15 (27744 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24695 in chips, $2.45 bounty) 
+Seat 8: isphobie (25000 in chips, $2.45 bounty) 
+KennenLt: posts the ante 30
+Bpj434343: posts the ante 30
+viktoreo: posts the ante 30
+Mick92109: posts the ante 30
+pubhater: posts the ante 30
+eMs15: posts the ante 30
+Kevin12345Mc: posts the ante 30
+isphobie: posts the ante 30
+Bpj434343: posts small blind 125
+viktoreo: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9s Qs]
+Mick92109: calls 250
+pubhater: folds 
+eMs15: folds 
+Kevin12345Mc: raises 325 to 575
+isphobie: folds 
+KennenLt: folds 
+Bpj434343: folds 
+viktoreo: folds 
+Mick92109: calls 325
+*** FLOP *** [Kh 2c Kd]
+Mick92109: checks 
+Kevin12345Mc: bets 582
+Mick92109: folds 
+Uncalled bet (582) returned to Kevin12345Mc
+Kevin12345Mc collected 1765 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1765 | Rake 0 
+Board [Kh 2c Kd]
+Seat 1: KennenLt (button) folded before Flop (didn't bet)
+Seat 2: Bpj434343 (small blind) folded before Flop
+Seat 3: viktoreo (big blind) folded before Flop
+Seat 4: Mick92109 folded on the Flop
+Seat 5: pubhater folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (1765)
+Seat 8: isphobie folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879634315: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level II (125/250) - 2025/02/15 17:45:46 WET [2025/02/15 12:45:46 ET]
+Table '3856223659 128' 8-max Seat #2 is the button
+Seat 1: KennenLt (25935 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (90634 in chips, $4.89 bounty) 
+Seat 3: viktoreo (19441 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (24305 in chips, $2.45 bounty) 
+Seat 5: pubhater (18711 in chips, $2.45 bounty) 
+Seat 6: eMs15 (27714 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (25855 in chips, $2.45 bounty) 
+Seat 8: isphobie (24970 in chips, $2.45 bounty) 
+KennenLt: posts the ante 30
+Bpj434343: posts the ante 30
+viktoreo: posts the ante 30
+Mick92109: posts the ante 30
+pubhater: posts the ante 30
+eMs15: posts the ante 30
+Kevin12345Mc: posts the ante 30
+isphobie: posts the ante 30
+viktoreo: posts small blind 125
+Mick92109: posts big blind 250
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c Jd]
+pubhater: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+isphobie: folds 
+KennenLt: folds 
+Bpj434343: calls 250
+viktoreo: calls 125
+Mick92109: checks 
+*** FLOP *** [9h 8d Ad]
+viktoreo: checks 
+Mick92109: checks 
+Bpj434343: checks 
+*** TURN *** [9h 8d Ad] [9c]
+viktoreo: checks 
+Mick92109: checks 
+Bpj434343: checks 
+*** RIVER *** [9h 8d Ad 9c] [Kc]
+viktoreo: checks 
+Mick92109: checks 
+Bpj434343: checks 
+*** SHOW DOWN ***
+viktoreo: shows [2s Ks] (two pair, Kings and Nines)
+Mick92109: mucks hand 
+Bpj434343: mucks hand 
+viktoreo collected 990 from pot
+*** SUMMARY ***
+Total pot 990 | Rake 0 
+Board [9h 8d Ad 9c Kc]
+Seat 1: KennenLt folded before Flop (didn't bet)
+Seat 2: Bpj434343 (button) mucked [Tc Qh]
+Seat 3: viktoreo (small blind) showed [2s Ks] and won (990) with two pair, Kings and Nines
+Seat 4: Mick92109 (big blind) mucked [3c 5d]
+Seat 5: pubhater folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: isphobie folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879644519: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/15 17:46:24 WET [2025/02/15 12:46:24 ET]
+Table '3856223659 128' 8-max Seat #3 is the button
+Seat 1: KennenLt (25905 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (90354 in chips, $4.89 bounty) 
+Seat 3: viktoreo (20151 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (24025 in chips, $2.45 bounty) 
+Seat 5: pubhater (18681 in chips, $2.45 bounty) 
+Seat 6: eMs15 (27684 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (25825 in chips, $2.45 bounty) 
+Seat 8: isphobie (24940 in chips, $2.45 bounty) 
+KennenLt: posts the ante 40
+Bpj434343: posts the ante 40
+viktoreo: posts the ante 40
+Mick92109: posts the ante 40
+pubhater: posts the ante 40
+eMs15: posts the ante 40
+Kevin12345Mc: posts the ante 40
+isphobie: posts the ante 40
+Mick92109: posts small blind 150
+pubhater: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd 8c]
+eMs15: folds 
+Kevin12345Mc: folds 
+isphobie: folds 
+KennenLt: folds 
+Bpj434343: calls 300
+viktoreo: folds 
+Mick92109: calls 150
+pubhater: checks 
+*** FLOP *** [Jc 7h Jh]
+Mick92109: checks 
+pubhater: checks 
+Bpj434343: checks 
+*** TURN *** [Jc 7h Jh] [8s]
+Mick92109: bets 300
+pubhater: folds 
+Bpj434343: folds 
+Uncalled bet (300) returned to Mick92109
+Mick92109 collected 1220 from pot
+*** SUMMARY ***
+Total pot 1220 | Rake 0 
+Board [Jc 7h Jh 8s]
+Seat 1: KennenLt folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded on the Turn
+Seat 3: viktoreo (button) folded before Flop (didn't bet)
+Seat 4: Mick92109 (small blind) collected (1220)
+Seat 5: pubhater (big blind) folded on the Turn
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: isphobie folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879656254: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/15 17:47:08 WET [2025/02/15 12:47:08 ET]
+Table '3856223659 128' 8-max Seat #4 is the button
+Seat 1: KennenLt (25865 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (90014 in chips, $4.89 bounty) 
+Seat 3: viktoreo (20111 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (24905 in chips, $2.45 bounty) 
+Seat 5: pubhater (18341 in chips, $2.45 bounty) 
+Seat 6: eMs15 (27644 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (25785 in chips, $2.45 bounty) 
+Seat 8: isphobie (24900 in chips, $2.45 bounty) 
+KennenLt: posts the ante 40
+Bpj434343: posts the ante 40
+viktoreo: posts the ante 40
+Mick92109: posts the ante 40
+pubhater: posts the ante 40
+eMs15: posts the ante 40
+Kevin12345Mc: posts the ante 40
+isphobie: posts the ante 40
+pubhater: posts small blind 150
+eMs15: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js Jd]
+Kevin12345Mc: raises 390 to 690
+isphobie: folds 
+KennenLt: folds 
+Bpj434343: calls 690
+viktoreo: folds 
+Mick92109: calls 690
+pubhater: calls 540
+eMs15: folds 
+*** FLOP *** [5h 5s 9s]
+pubhater: checks 
+Kevin12345Mc: bets 1690
+Bpj434343: folds 
+Mick92109: folds 
+pubhater: calls 1690
+*** TURN *** [5h 5s 9s] [3d]
+pubhater: checks 
+Kevin12345Mc: bets 3380
+pubhater: calls 3380
+*** RIVER *** [5h 5s 9s 3d] [6c]
+pubhater: checks 
+Kevin12345Mc: bets 16200
+pubhater: calls 12541 and is all-in
+Uncalled bet (3659) returned to Kevin12345Mc
+*** SHOW DOWN ***
+Kevin12345Mc: shows [Js Jd] (two pair, Jacks and Fives)
+pubhater: shows [Th Ts] (two pair, Tens and Fives)
+Kevin12345Mc collected 38602 from pot
+Kevin12345Mc wins $1.23 for eliminating pubhater and their own bounty increases by $1.22 to $3.67
+pubhater finished the tournament
+*** SUMMARY ***
+Total pot 38602 | Rake 0 
+Board [5h 5s 9s 3d 6c]
+Seat 1: KennenLt folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded on the Flop
+Seat 3: viktoreo folded before Flop (didn't bet)
+Seat 4: Mick92109 (button) folded on the Flop
+Seat 5: pubhater (small blind) showed [Th Ts] and lost with two pair, Tens and Fives
+Seat 6: eMs15 (big blind) folded before Flop
+Seat 7: Kevin12345Mc showed [Js Jd] and won (38602) with two pair, Jacks and Fives
+Seat 8: isphobie folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879678747: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/15 17:48:33 WET [2025/02/15 12:48:33 ET]
+Table '3856223659 128' 8-max Seat #6 is the button
+Seat 1: KennenLt (25825 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (89284 in chips, $4.89 bounty) 
+Seat 3: viktoreo (20071 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (24175 in chips, $2.45 bounty) 
+Seat 6: eMs15 (27304 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (46046 in chips, $3.67 bounty) 
+Seat 8: isphobie (24860 in chips, $2.45 bounty) 
+KennenLt: posts the ante 40
+Bpj434343: posts the ante 40
+viktoreo: posts the ante 40
+Mick92109: posts the ante 40
+eMs15: posts the ante 40
+Kevin12345Mc: posts the ante 40
+isphobie: posts the ante 40
+Kevin12345Mc: posts small blind 150
+isphobie: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d Js]
+dw.kid is disconnected 
+KennenLt: folds 
+Bpj434343: folds 
+viktoreo: folds 
+Mick92109: calls 300
+eMs15: folds 
+Kevin12345Mc: folds 
+isphobie: checks 
+*** FLOP *** [2c Ah Jh]
+isphobie: checks 
+Mick92109: checks 
+*** TURN *** [2c Ah Jh] [4c]
+isphobie: checks 
+Mick92109: checks 
+*** RIVER *** [2c Ah Jh 4c] [4h]
+isphobie: checks 
+Mick92109: checks 
+*** SHOW DOWN ***
+isphobie: shows [8d Qd] (a pair of Fours)
+Mick92109: shows [7c Kc] (a pair of Fours - Ace+King kicker)
+Mick92109 collected 1030 from pot
+*** SUMMARY ***
+Total pot 1030 | Rake 0 
+Board [2c Ah Jh 4c 4h]
+Seat 1: KennenLt folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: viktoreo folded before Flop (didn't bet)
+Seat 4: Mick92109 showed [7c Kc] and won (1030) with a pair of Fours
+Seat 6: eMs15 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: isphobie (big blind) showed [8d Qd] and lost with a pair of Fours
+
+
+
+PokerStars Hand #254879690201: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/15 17:49:17 WET [2025/02/15 12:49:17 ET]
+Table '3856223659 128' 8-max Seat #7 is the button
+Seat 1: KennenLt (25785 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (89244 in chips, $4.89 bounty) 
+Seat 3: viktoreo (20031 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (24865 in chips, $2.45 bounty) 
+Seat 5: dw.kid (25000 in chips, $2.45 bounty) 
+Seat 6: eMs15 (27264 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (45856 in chips, $3.67 bounty) 
+Seat 8: isphobie (24520 in chips, $2.45 bounty) 
+KennenLt: posts the ante 40
+Bpj434343: posts the ante 40
+viktoreo: posts the ante 40
+Mick92109: posts the ante 40
+dw.kid: posts the ante 40
+eMs15: posts the ante 40
+Kevin12345Mc: posts the ante 40
+isphobie: posts the ante 40
+isphobie: posts small blind 150
+KennenLt: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 8s]
+Bpj434343: folds 
+viktoreo: raises 450 to 750
+Mick92109: calls 750
+dw.kid: raises 3020 to 3770
+eMs15: folds 
+Kevin12345Mc: folds 
+isphobie: folds 
+KennenLt: folds 
+viktoreo: folds 
+Mick92109: folds 
+Uncalled bet (3020) returned to dw.kid
+dw.kid collected 3020 from pot
+dw.kid: doesn't show hand 
+*** SUMMARY ***
+Total pot 3020 | Rake 0 
+Seat 1: KennenLt (big blind) folded before Flop
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: viktoreo folded before Flop
+Seat 4: Mick92109 folded before Flop
+Seat 5: dw.kid collected (3020)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: isphobie (small blind) folded before Flop
+
+
+
+PokerStars Hand #254879697384: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/15 17:49:44 WET [2025/02/15 12:49:44 ET]
+Table '3856223659 128' 8-max Seat #8 is the button
+Seat 1: KennenLt (25445 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (89204 in chips, $4.89 bounty) 
+Seat 3: viktoreo (19241 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (24075 in chips, $2.45 bounty) 
+Seat 5: dw.kid (27230 in chips, $2.45 bounty) 
+Seat 6: eMs15 (27224 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (45816 in chips, $3.67 bounty) 
+Seat 8: isphobie (24330 in chips, $2.45 bounty) 
+KennenLt: posts the ante 40
+Bpj434343: posts the ante 40
+viktoreo: posts the ante 40
+Mick92109: posts the ante 40
+dw.kid: posts the ante 40
+eMs15: posts the ante 40
+Kevin12345Mc: posts the ante 40
+isphobie: posts the ante 40
+KennenLt: posts small blind 150
+Bpj434343: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2c 6h]
+viktoreo: raises 300 to 600
+Mick92109: folds 
+dw.kid: folds 
+eMs15: raises 1050 to 1650
+Kevin12345Mc: folds 
+isphobie: folds 
+KennenLt: calls 1500
+Bpj434343: folds 
+viktoreo: calls 1050
+*** FLOP *** [8c Jc 9d]
+KennenLt: checks 
+viktoreo: checks 
+eMs15: bets 1800
+KennenLt: calls 1800
+viktoreo: folds 
+*** TURN *** [8c Jc 9d] [Js]
+KennenLt: checks 
+eMs15: checks 
+*** RIVER *** [8c Jc 9d Js] [Qs]
+KennenLt: bets 9000
+eMs15: calls 9000
+*** SHOW DOWN ***
+KennenLt: shows [Qh Jh] (a full house, Jacks full of Queens)
+eMs15: mucks hand 
+KennenLt collected 27170 from pot
+*** SUMMARY ***
+Total pot 27170 | Rake 0 
+Board [8c Jc 9d Js Qs]
+Seat 1: KennenLt (small blind) showed [Qh Jh] and won (27170) with a full house, Jacks full of Queens
+Seat 2: Bpj434343 (big blind) folded before Flop
+Seat 3: viktoreo folded on the Flop
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 mucked [Ac Qd]
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: isphobie (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879717177: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/15 17:50:59 WET [2025/02/15 12:50:59 ET]
+Table '3856223659 128' 8-max Seat #1 is the button
+Seat 1: KennenLt (40125 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (88864 in chips, $4.89 bounty) 
+Seat 3: viktoreo (17551 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (24035 in chips, $2.45 bounty) 
+Seat 5: dw.kid (27190 in chips, $2.45 bounty) 
+Seat 6: eMs15 (14734 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (45776 in chips, $3.67 bounty) 
+Seat 8: isphobie (24290 in chips, $2.45 bounty) 
+KennenLt: posts the ante 40
+Bpj434343: posts the ante 40
+viktoreo: posts the ante 40
+Mick92109: posts the ante 40
+dw.kid: posts the ante 40
+eMs15: posts the ante 40
+Kevin12345Mc: posts the ante 40
+isphobie: posts the ante 40
+Bpj434343: posts small blind 150
+viktoreo: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s Qh]
+Mick92109: folds 
+dw.kid: folds 
+eMs15: raises 360 to 660
+Kevin12345Mc: folds 
+isphobie: folds 
+KennenLt: folds 
+Bpj434343: calls 510
+viktoreo: calls 360
+*** FLOP *** [3c 7h 7c]
+Bpj434343: checks 
+viktoreo: checks 
+eMs15: checks 
+*** TURN *** [3c 7h 7c] [6s]
+Bpj434343: checks 
+viktoreo: bets 1748
+eMs15: calls 1748
+Bpj434343: calls 1748
+*** RIVER *** [3c 7h 7c 6s] [Ks]
+Bpj434343: checks 
+viktoreo: checks 
+eMs15: checks 
+*** SHOW DOWN ***
+Bpj434343: shows [6c Qc] (two pair, Sevens and Sixes)
+viktoreo: shows [6d 5c] (two pair, Sevens and Sixes)
+eMs15: mucks hand 
+Bpj434343 collected 3772 from pot
+viktoreo collected 3772 from pot
+*** SUMMARY ***
+Total pot 7544 | Rake 0 
+Board [3c 7h 7c 6s Ks]
+Seat 1: KennenLt (button) folded before Flop (didn't bet)
+Seat 2: Bpj434343 (small blind) showed [6c Qc] and won (3772) with two pair, Sevens and Sixes
+Seat 3: viktoreo (big blind) showed [6d 5c] and won (3772) with two pair, Sevens and Sixes
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 mucked [5s 5d]
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: isphobie folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879728493: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/15 17:51:42 WET [2025/02/15 12:51:42 ET]
+Table '3856223659 128' 8-max Seat #2 is the button
+Seat 1: KennenLt (40085 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (90188 in chips, $4.89 bounty) 
+Seat 3: viktoreo (18875 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (23995 in chips, $2.45 bounty) 
+Seat 5: dw.kid (27150 in chips, $2.45 bounty) 
+Seat 6: eMs15 (12286 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (45736 in chips, $3.67 bounty) 
+Seat 8: isphobie (24250 in chips, $2.45 bounty) 
+KennenLt: posts the ante 40
+Bpj434343: posts the ante 40
+viktoreo: posts the ante 40
+Mick92109: posts the ante 40
+dw.kid: posts the ante 40
+eMs15: posts the ante 40
+Kevin12345Mc: posts the ante 40
+isphobie: posts the ante 40
+viktoreo: posts small blind 150
+Mick92109: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 7d]
+dw.kid: raises 450 to 750
+eMs15: folds 
+Kevin12345Mc: folds 
+isphobie: folds 
+KennenLt: folds 
+Bpj434343: folds 
+viktoreo: raises 1800 to 2550
+Mick92109: folds 
+dw.kid: calls 1800
+*** FLOP *** [9d 7h 5s]
+viktoreo: bets 2116
+dw.kid: calls 2116
+*** TURN *** [9d 7h 5s] [2c]
+viktoreo: bets 5550
+dw.kid: folds 
+Uncalled bet (5550) returned to viktoreo
+viktoreo collected 9952 from pot
+viktoreo: doesn't show hand 
+*** SUMMARY ***
+Total pot 9952 | Rake 0 
+Board [9d 7h 5s 2c]
+Seat 1: KennenLt folded before Flop (didn't bet)
+Seat 2: Bpj434343 (button) folded before Flop (didn't bet)
+Seat 3: viktoreo (small blind) collected (9952)
+Seat 4: Mick92109 (big blind) folded before Flop
+Seat 5: dw.kid folded on the Turn
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: isphobie folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254879740802: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/15 17:52:29 WET [2025/02/15 12:52:29 ET]
+Table '3856223659 128' 8-max Seat #3 is the button
+Seat 1: KennenLt (40045 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (90148 in chips, $4.89 bounty) 
+Seat 3: viktoreo (24121 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (23655 in chips, $2.45 bounty) 
+Seat 5: dw.kid (22444 in chips, $2.45 bounty) 
+Seat 6: eMs15 (12246 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (45696 in chips, $3.67 bounty) 
+Seat 8: isphobie (24210 in chips, $2.45 bounty) 
+KennenLt: posts the ante 40
+Bpj434343: posts the ante 40
+viktoreo: posts the ante 40
+Mick92109: posts the ante 40
+dw.kid: posts the ante 40
+eMs15: posts the ante 40
+Kevin12345Mc: posts the ante 40
+isphobie: posts the ante 40
+Mick92109: posts small blind 150
+dw.kid: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 3h]
+eMs15: folds 
+Kevin12345Mc: folds 
+isphobie: raises 1070 to 1370
+KennenLt: folds 
+Bpj434343: folds 
+viktoreo: calls 1370
+Mick92109: calls 1220
+dw.kid: calls 1070
+*** FLOP *** [5c Ah 7d]
+Mick92109: checks 
+dw.kid: checks 
+isphobie: checks 
+viktoreo: bets 2146
+Mick92109: folds 
+dw.kid: folds 
+isphobie: calls 2146
+*** TURN *** [5c Ah 7d] [2h]
+isphobie: checks 
+viktoreo: bets 5248
+isphobie: folds 
+Uncalled bet (5248) returned to viktoreo
+viktoreo collected 10092 from pot
+viktoreo: doesn't show hand 
+*** SUMMARY ***
+Total pot 10092 | Rake 0 
+Board [5c Ah 7d 2h]
+Seat 1: KennenLt folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: viktoreo (button) collected (10092)
+Seat 4: Mick92109 (small blind) folded on the Flop
+Seat 5: dw.kid (big blind) folded on the Flop
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: isphobie folded on the Turn
+
+
+
+PokerStars Hand #254879760118: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level III (150/300) - 2025/02/15 17:53:43 WET [2025/02/15 12:53:43 ET]
+Table '3856223659 128' 8-max Seat #4 is the button
+Seat 1: KennenLt (40005 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (90108 in chips, $4.89 bounty) 
+Seat 3: viktoreo (30657 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (22245 in chips, $2.45 bounty) 
+Seat 5: dw.kid (21034 in chips, $2.45 bounty) 
+Seat 6: eMs15 (12206 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (45656 in chips, $3.67 bounty) 
+Seat 8: isphobie (20654 in chips, $2.45 bounty) 
+KennenLt: posts the ante 40
+Bpj434343: posts the ante 40
+viktoreo: posts the ante 40
+Mick92109: posts the ante 40
+dw.kid: posts the ante 40
+eMs15: posts the ante 40
+Kevin12345Mc: posts the ante 40
+isphobie: posts the ante 40
+dw.kid: posts small blind 150
+eMs15: posts big blind 300
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 4h]
+Kevin12345Mc: folds 
+isphobie: calls 300
+KennenLt: raises 600 to 900
+Bpj434343: folds 
+viktoreo: folds 
+Mick92109: folds 
+dw.kid: folds 
+eMs15: folds 
+isphobie: raises 19714 to 20614 and is all-in
+KennenLt: calls 19714
+*** FLOP *** [Jd Tc 2h]
+*** TURN *** [Jd Tc 2h] [3h]
+*** RIVER *** [Jd Tc 2h 3h] [Th]
+*** SHOW DOWN ***
+isphobie: shows [8s 8d] (two pair, Tens and Eights)
+KennenLt: shows [Jc Ad] (two pair, Jacks and Tens)
+KennenLt collected 41998 from pot
+KennenLt wins $1.23 for eliminating isphobie and their own bounty increases by $1.22 to $3.67
+isphobie finished the tournament
+*** SUMMARY ***
+Total pot 41998 | Rake 0 
+Board [Jd Tc 2h 3h Th]
+Seat 1: KennenLt showed [Jc Ad] and won (41998) with two pair, Jacks and Tens
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: viktoreo folded before Flop (didn't bet)
+Seat 4: Mick92109 (button) folded before Flop (didn't bet)
+Seat 5: dw.kid (small blind) folded before Flop
+Seat 6: eMs15 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: isphobie showed [8s 8d] and lost with two pair, Tens and Eights
+
+
+
+PokerStars Hand #254879770521: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/15 17:54:23 WET [2025/02/15 12:54:23 ET]
+Table '3856223659 128' 8-max Seat #5 is the button
+Seat 1: KennenLt (61349 in chips, $3.67 bounty) 
+Seat 2: Bpj434343 (90068 in chips, $4.89 bounty) 
+Seat 3: viktoreo (30617 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (22205 in chips, $2.45 bounty) 
+Seat 5: dw.kid (20844 in chips, $2.45 bounty) 
+Seat 6: eMs15 (11866 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (45616 in chips, $3.67 bounty) 
+KennenLt: posts the ante 50
+Bpj434343: posts the ante 50
+viktoreo: posts the ante 50
+Mick92109: posts the ante 50
+dw.kid: posts the ante 50
+eMs15: posts the ante 50
+Kevin12345Mc: posts the ante 50
+eMs15: posts small blind 175
+Kevin12345Mc: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Jc]
+KennenLt: raises 455 to 805
+Bpj434343: calls 805
+viktoreo: folds 
+Mick92109: folds 
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: calls 455
+*** FLOP *** [Jh 4h Kd]
+Kevin12345Mc: checks 
+KennenLt: bets 1852
+Bpj434343: calls 1852
+Kevin12345Mc: calls 1852
+*** TURN *** [Jh 4h Kd] [Ac]
+Kevin12345Mc: checks 
+KennenLt: checks 
+Bpj434343: checks 
+*** RIVER *** [Jh 4h Kd Ac] [5c]
+Kevin12345Mc: checks 
+KennenLt: checks 
+Bpj434343: checks 
+*** SHOW DOWN ***
+Kevin12345Mc: shows [6c Jc] (a pair of Jacks)
+KennenLt: mucks hand 
+Bpj434343: shows [Qh Ks] (a pair of Kings)
+Bpj434343 collected 8496 from pot
+*** SUMMARY ***
+Total pot 8496 | Rake 0 
+Board [Jh 4h Kd Ac 5c]
+Seat 1: KennenLt mucked [9s 9c]
+Seat 2: Bpj434343 showed [Qh Ks] and won (8496) with a pair of Kings
+Seat 3: viktoreo folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid (button) folded before Flop (didn't bet)
+Seat 6: eMs15 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) showed [6c Jc] and lost with a pair of Jacks
+
+
+
+PokerStars Hand #254879877883: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/15 18:02:56 WET [2025/02/15 13:02:56 ET]
+Table '3856223659 128' 8-max Seat #6 is the button
+Seat 1: KennenLt (58642 in chips, $3.67 bounty) 
+Seat 2: Bpj434343 (95857 in chips, $4.89 bounty) 
+Seat 3: viktoreo (30567 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (22155 in chips, $2.45 bounty) 
+Seat 5: dw.kid (20794 in chips, $2.45 bounty) 
+Seat 6: eMs15 (11641 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (42909 in chips, $3.67 bounty) 
+Seat 8: Noideajee (25000 in chips, $2.45 bounty) 
+KennenLt: posts the ante 50
+Bpj434343: posts the ante 50
+viktoreo: posts the ante 50
+Mick92109: posts the ante 50
+dw.kid: posts the ante 50
+eMs15: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Noideajee: posts the ante 50
+Kevin12345Mc: posts small blind 175
+Noideajee: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h Kc]
+KennenLt: folds 
+Bpj434343: folds 
+viktoreo: folds 
+Mick92109: folds 
+dw.kid: raises 420 to 770
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: calls 420
+*** FLOP *** [9s Kd 5h]
+Noideajee: checks 
+dw.kid: bets 698
+Noideajee: folds 
+Uncalled bet (698) returned to dw.kid
+dw.kid collected 2115 from pot
+dw.kid: doesn't show hand 
+*** SUMMARY ***
+Total pot 2115 | Rake 0 
+Board [9s Kd 5h]
+Seat 1: KennenLt folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: viktoreo folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid collected (2115)
+Seat 6: eMs15 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Noideajee (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254879890378: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/15 18:03:42 WET [2025/02/15 13:03:42 ET]
+Table '3856223659 128' 8-max Seat #7 is the button
+Seat 2: Bpj434343 (95807 in chips, $4.89 bounty) 
+Seat 3: viktoreo (30517 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (22105 in chips, $2.45 bounty) 
+Seat 5: dw.kid (22089 in chips, $2.45 bounty) 
+Seat 6: eMs15 (11591 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (42684 in chips, $3.67 bounty) 
+Seat 8: Noideajee (24180 in chips, $2.45 bounty) 
+Bpj434343: posts the ante 50
+viktoreo: posts the ante 50
+Mick92109: posts the ante 50
+dw.kid: posts the ante 50
+eMs15: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Noideajee: posts the ante 50
+Noideajee: posts small blind 175
+Bpj434343: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 9s]
+viktoreo: folds 
+Mick92109: folds 
+rbcp92 is disconnected 
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: raises 350 to 700
+Bpj434343: calls 350
+*** FLOP *** [5c Ks 4d]
+Noideajee: checks 
+Bpj434343: checks 
+*** TURN *** [5c Ks 4d] [3d]
+Noideajee: checks 
+Bpj434343: checks 
+*** RIVER *** [5c Ks 4d 3d] [5s]
+Noideajee: checks 
+Bpj434343: bets 700
+Noideajee: folds 
+Uncalled bet (700) returned to Bpj434343
+Bpj434343 collected 1750 from pot
+Bpj434343: doesn't show hand 
+*** SUMMARY ***
+Total pot 1750 | Rake 0 
+Board [5c Ks 4d 3d 5s]
+Seat 2: Bpj434343 (big blind) collected (1750)
+Seat 3: viktoreo folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Noideajee (small blind) folded on the River
+
+
+
+PokerStars Hand #254879904532: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/15 18:04:35 WET [2025/02/15 13:04:35 ET]
+Table '3856223659 128' 8-max Seat #8 is the button
+Seat 1: rbcp92 (25000 in chips) out of hand (moved from another table into small blind)
+Seat 2: Bpj434343 (96807 in chips, $4.89 bounty) 
+Seat 3: viktoreo (30467 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (22055 in chips, $2.45 bounty) 
+Seat 5: dw.kid (22039 in chips, $2.45 bounty) 
+Seat 6: eMs15 (11541 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (42634 in chips, $3.67 bounty) 
+Seat 8: Noideajee (23430 in chips, $2.45 bounty) 
+rbcp92 will be allowed to play after the button
+Bpj434343: posts the ante 50
+viktoreo: posts the ante 50
+Mick92109: posts the ante 50
+dw.kid: posts the ante 50
+eMs15: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Noideajee: posts the ante 50
+Bpj434343: posts small blind 175
+viktoreo: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s Qh]
+Mick92109: calls 350
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: calls 350
+Bpj434343: calls 175
+viktoreo: raises 1925 to 2275
+Mick92109: calls 1925
+Noideajee: calls 1925
+Bpj434343: calls 1925
+*** FLOP *** [2c 9h 3d]
+Bpj434343: checks 
+viktoreo: bets 3497
+Mick92109: folds 
+Noideajee: calls 3497
+Bpj434343: folds 
+*** TURN *** [2c 9h 3d] [3s]
+viktoreo: bets 24645 and is all-in
+Noideajee: calls 17608 and is all-in
+Uncalled bet (7037) returned to viktoreo
+*** RIVER *** [2c 9h 3d 3s] [9c]
+*** SHOW DOWN ***
+viktoreo: shows [5h 4h] (two pair, Nines and Threes)
+Noideajee: shows [9s 8c] (a full house, Nines full of Threes)
+Noideajee collected 51660 from pot
+*** SUMMARY ***
+Total pot 51660 | Rake 0 
+Board [2c 9h 3d 3s 9c]
+Seat 2: Bpj434343 (small blind) folded on the Flop
+Seat 3: viktoreo (big blind) showed [5h 4h] and lost with two pair, Nines and Threes
+Seat 4: Mick92109 folded on the Flop
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee (button) showed [9s 8c] and won (51660) with a full house, Nines full of Threes
+
+
+
+PokerStars Hand #254879920374: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/15 18:05:33 WET [2025/02/15 13:05:33 ET]
+Table '3856223659 128' 8-max Seat #2 is the button
+Seat 1: rbcp92 (25000 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (94482 in chips, $4.89 bounty) 
+Seat 3: viktoreo (7037 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (19730 in chips, $2.45 bounty) 
+Seat 5: dw.kid (21989 in chips, $2.45 bounty) 
+Seat 6: eMs15 (11491 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (42584 in chips, $3.67 bounty) 
+Seat 8: Noideajee (51660 in chips, $2.45 bounty) 
+rbcp92: posts the ante 50
+Bpj434343: posts the ante 50
+viktoreo: posts the ante 50
+Mick92109: posts the ante 50
+dw.kid: posts the ante 50
+eMs15: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Noideajee: posts the ante 50
+viktoreo: posts small blind 175
+Mick92109: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3s 4h]
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: calls 350
+rbcp92: calls 350
+Bpj434343: calls 350
+viktoreo: folds 
+Mick92109: checks 
+*** FLOP *** [2h 9c Kc]
+Mick92109: checks 
+Noideajee: checks 
+rbcp92: bets 2469
+Bpj434343: folds 
+Mick92109: folds 
+Noideajee: calls 2469
+*** TURN *** [2h 9c Kc] [Ac]
+Noideajee: checks 
+rbcp92: checks 
+*** RIVER *** [2h 9c Kc Ac] [Qs]
+Noideajee: checks 
+rbcp92: checks 
+*** SHOW DOWN ***
+Noideajee: shows [2c 6s] (a pair of Deuces)
+rbcp92: shows [Kd 5s] (a pair of Kings)
+rbcp92 collected 6913 from pot
+*** SUMMARY ***
+Total pot 6913 | Rake 0 
+Board [2h 9c Kc Ac Qs]
+Seat 1: rbcp92 showed [Kd 5s] and won (6913) with a pair of Kings
+Seat 2: Bpj434343 (button) folded on the Flop
+Seat 3: viktoreo (small blind) folded before Flop
+Seat 4: Mick92109 (big blind) folded on the Flop
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee showed [2c 6s] and lost with a pair of Deuces
+
+
+
+PokerStars Hand #254879933150: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/15 18:06:20 WET [2025/02/15 13:06:20 ET]
+Table '3856223659 128' 8-max Seat #3 is the button
+Seat 1: rbcp92 (29044 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (94082 in chips, $4.89 bounty) 
+Seat 3: viktoreo (6812 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (19330 in chips, $2.45 bounty) 
+Seat 5: dw.kid (21939 in chips, $2.45 bounty) 
+Seat 6: eMs15 (11441 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (42534 in chips, $3.67 bounty) 
+Seat 8: Noideajee (48791 in chips, $2.45 bounty) 
+rbcp92: posts the ante 50
+Bpj434343: posts the ante 50
+viktoreo: posts the ante 50
+Mick92109: posts the ante 50
+dw.kid: posts the ante 50
+eMs15: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Noideajee: posts the ante 50
+Mick92109: posts small blind 175
+dw.kid: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ks 8c]
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: raises 350 to 700
+rbcp92: folds 
+Bpj434343: folds 
+viktoreo: calls 700
+Mick92109: folds 
+dw.kid: calls 350
+*** FLOP *** [7s 4s Ad]
+dw.kid: checks 
+Noideajee: checks 
+viktoreo: checks 
+*** TURN *** [7s 4s Ad] [7c]
+dw.kid: checks 
+Noideajee: bets 1050
+viktoreo: folds 
+dw.kid: folds 
+Uncalled bet (1050) returned to Noideajee
+Noideajee collected 2675 from pot
+Noideajee: doesn't show hand 
+*** SUMMARY ***
+Total pot 2675 | Rake 0 
+Board [7s 4s Ad 7c]
+Seat 1: rbcp92 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: viktoreo (button) folded on the Turn
+Seat 4: Mick92109 (small blind) folded before Flop
+Seat 5: dw.kid (big blind) folded on the Turn
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee collected (2675)
+
+
+
+PokerStars Hand #254879946176: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/15 18:07:08 WET [2025/02/15 13:07:08 ET]
+Table '3856223659 128' 8-max Seat #4 is the button
+Seat 1: rbcp92 (28994 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (94032 in chips, $4.89 bounty) 
+Seat 3: viktoreo (6062 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (19105 in chips, $2.45 bounty) 
+Seat 5: dw.kid (21189 in chips, $2.45 bounty) 
+Seat 6: eMs15 (11391 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (42484 in chips, $3.67 bounty) 
+Seat 8: Noideajee (50716 in chips, $2.45 bounty) 
+rbcp92: posts the ante 50
+Bpj434343: posts the ante 50
+viktoreo: posts the ante 50
+Mick92109: posts the ante 50
+dw.kid: posts the ante 50
+eMs15: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Noideajee: posts the ante 50
+dw.kid: posts small blind 175
+eMs15: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 5s]
+Kevin12345Mc: folds 
+Noideajee: raises 350 to 700
+rbcp92: calls 700
+Bpj434343: calls 700
+viktoreo: folds 
+Mick92109: folds 
+dw.kid: folds 
+eMs15: calls 350
+*** FLOP *** [8c As 6d]
+eMs15: checks 
+Noideajee: checks 
+rbcp92: checks 
+Bpj434343: checks 
+*** TURN *** [8c As 6d] [8d]
+eMs15: checks 
+Noideajee: checks 
+rbcp92: checks 
+Bpj434343: checks 
+*** RIVER *** [8c As 6d 8d] [3c]
+eMs15: checks 
+Noideajee: checks 
+rbcp92: checks 
+Bpj434343: checks 
+*** SHOW DOWN ***
+eMs15: shows [5h Kh] (a pair of Eights)
+Noideajee: mucks hand 
+rbcp92: mucks hand 
+Bpj434343: mucks hand 
+eMs15 collected 3375 from pot
+*** SUMMARY ***
+Total pot 3375 | Rake 0 
+Board [8c As 6d 8d 3c]
+Seat 1: rbcp92 mucked [4c 7c]
+Seat 2: Bpj434343 mucked [Td Jh]
+Seat 3: viktoreo folded before Flop (didn't bet)
+Seat 4: Mick92109 (button) folded before Flop (didn't bet)
+Seat 5: dw.kid (small blind) folded before Flop
+Seat 6: eMs15 (big blind) showed [5h Kh] and won (3375) with a pair of Eights
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee mucked [7h Js]
+
+
+
+PokerStars Hand #254879958726: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/15 18:07:54 WET [2025/02/15 13:07:54 ET]
+Table '3856223659 128' 8-max Seat #5 is the button
+Seat 1: rbcp92 (28244 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (93282 in chips, $4.89 bounty) 
+Seat 3: viktoreo (6012 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (19055 in chips, $2.45 bounty) 
+Seat 5: dw.kid (20964 in chips, $2.45 bounty) 
+Seat 6: eMs15 (14016 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (42434 in chips, $3.67 bounty) 
+Seat 8: Noideajee (49966 in chips, $2.45 bounty) 
+rbcp92: posts the ante 50
+Bpj434343: posts the ante 50
+viktoreo: posts the ante 50
+Mick92109: posts the ante 50
+dw.kid: posts the ante 50
+eMs15: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Noideajee: posts the ante 50
+eMs15: posts small blind 175
+Kevin12345Mc: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jd 6d]
+Noideajee: calls 350
+rbcp92: folds 
+Bpj434343: folds 
+viktoreo: folds 
+Mick92109: folds 
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: checks 
+*** FLOP *** [Qc 6s 8s]
+Kevin12345Mc: checks 
+Noideajee: bets 700
+Kevin12345Mc: folds 
+Uncalled bet (700) returned to Noideajee
+Noideajee collected 1275 from pot
+Noideajee: doesn't show hand 
+*** SUMMARY ***
+Total pot 1275 | Rake 0 
+Board [Qc 6s 8s]
+Seat 1: rbcp92 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: viktoreo folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid (button) folded before Flop (didn't bet)
+Seat 6: eMs15 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Flop
+Seat 8: Noideajee collected (1275)
+
+
+
+PokerStars Hand #254879969007: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/15 18:08:32 WET [2025/02/15 13:08:32 ET]
+Table '3856223659 128' 8-max Seat #6 is the button
+Seat 1: rbcp92 (28194 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (93232 in chips, $4.89 bounty) 
+Seat 3: viktoreo (5962 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (19005 in chips, $2.45 bounty) 
+Seat 5: dw.kid (20914 in chips, $2.45 bounty) 
+Seat 6: eMs15 (13791 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (42034 in chips, $3.67 bounty) 
+Seat 8: Noideajee (50841 in chips, $2.45 bounty) 
+rbcp92: posts the ante 50
+Bpj434343: posts the ante 50
+viktoreo: posts the ante 50
+Mick92109: posts the ante 50
+dw.kid: posts the ante 50
+eMs15: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Noideajee: posts the ante 50
+Kevin12345Mc: posts small blind 175
+Noideajee: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2s Qh]
+rbcp92: folds 
+Bpj434343: calls 350
+viktoreo: folds 
+Mick92109: folds 
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: checks 
+*** FLOP *** [4s Ts 9d]
+Noideajee: checks 
+Bpj434343: checks 
+*** TURN *** [4s Ts 9d] [3h]
+Noideajee: bets 1050
+Bpj434343: calls 1050
+*** RIVER *** [4s Ts 9d 3h] [5s]
+Noideajee: bets 1688
+Bpj434343: calls 1688
+*** SHOW DOWN ***
+Noideajee: shows [Kc Th] (a pair of Tens)
+Bpj434343: mucks hand 
+Noideajee collected 6751 from pot
+*** SUMMARY ***
+Total pot 6751 | Rake 0 
+Board [4s Ts 9d 3h 5s]
+Seat 1: rbcp92 folded before Flop (didn't bet)
+Seat 2: Bpj434343 mucked [Jc Td]
+Seat 3: viktoreo folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Noideajee (big blind) showed [Kc Th] and won (6751) with a pair of Tens
+
+
+
+PokerStars Hand #254879980443: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IV (175/350) - 2025/02/15 18:09:15 WET [2025/02/15 13:09:15 ET]
+Table '3856223659 128' 8-max Seat #7 is the button
+Seat 1: rbcp92 (28144 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (90094 in chips, $4.89 bounty) 
+Seat 3: viktoreo (5912 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (18955 in chips, $2.45 bounty) 
+Seat 5: dw.kid (20864 in chips, $2.45 bounty) 
+Seat 6: eMs15 (13741 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (41809 in chips, $3.67 bounty) 
+Seat 8: Noideajee (54454 in chips, $2.45 bounty) 
+rbcp92: posts the ante 50
+Bpj434343: posts the ante 50
+viktoreo: posts the ante 50
+Mick92109: posts the ante 50
+dw.kid: posts the ante 50
+eMs15: posts the ante 50
+Kevin12345Mc: posts the ante 50
+Noideajee: posts the ante 50
+Noideajee: posts small blind 175
+rbcp92: posts big blind 350
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 3h]
+Bpj434343: folds 
+viktoreo: raises 5512 to 5862 and is all-in
+Mick92109: folds 
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: calls 5862
+Noideajee: calls 5687
+rbcp92: calls 5512
+*** FLOP *** [Qh Jd Th]
+Noideajee: checks 
+rbcp92: checks 
+Kevin12345Mc: checks 
+*** TURN *** [Qh Jd Th] [4s]
+Noideajee: checks 
+rbcp92: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Qh Jd Th 4s] [Td]
+Noideajee: checks 
+rbcp92: checks 
+Kevin12345Mc: checks 
+*** SHOW DOWN ***
+Noideajee: shows [9d 9h] (two pair, Tens and Nines)
+rbcp92: mucks hand 
+viktoreo: mucks hand 
+Kevin12345Mc: mucks hand 
+Noideajee collected 23848 from pot
+Noideajee wins $1.23 for eliminating viktoreo and their own bounty increases by $1.22 to $3.67
+viktoreo finished the tournament
+*** SUMMARY ***
+Total pot 23848 | Rake 0 
+Board [Qh Jd Th 4s Td]
+Seat 1: rbcp92 (big blind) mucked [3s As]
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: viktoreo mucked [7c Kc]
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) mucked [3d 3h]
+Seat 8: Noideajee (small blind) showed [9d 9h] and won (23848) with two pair, Tens and Nines
+
+
+
+PokerStars Hand #254879999870: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/15 18:10:27 WET [2025/02/15 13:10:27 ET]
+Table '3856223659 128' 8-max Seat #8 is the button
+Seat 1: rbcp92 (22232 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (90044 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (25000 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (18905 in chips, $2.45 bounty) 
+Seat 5: dw.kid (20814 in chips, $2.45 bounty) 
+Seat 6: eMs15 (13691 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (35897 in chips, $3.67 bounty) 
+Seat 8: Noideajee (72390 in chips, $3.67 bounty) 
+rbcp92: posts the ante 60
+Bpj434343: posts the ante 60
+nagyrobi01: posts the ante 60
+Mick92109: posts the ante 60
+dw.kid: posts the ante 60
+eMs15: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Noideajee: posts the ante 60
+rbcp92: posts small blind 200
+Bpj434343: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9d Jd]
+nagyrobi01: folds 
+Mick92109: folds 
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: raises 520 to 920
+Noideajee: calls 920
+rbcp92: folds 
+Bpj434343: calls 520
+*** FLOP *** [3c 5s Ac]
+Bpj434343: checks 
+Kevin12345Mc: checks 
+Noideajee: checks 
+*** TURN *** [3c 5s Ac] [Ts]
+Bpj434343: checks 
+Kevin12345Mc: checks 
+Noideajee: checks 
+*** RIVER *** [3c 5s Ac Ts] [Ah]
+Bpj434343: checks 
+Kevin12345Mc: checks 
+Noideajee: checks 
+*** SHOW DOWN ***
+Bpj434343: shows [6c Kc] (a pair of Aces)
+Kevin12345Mc: mucks hand 
+Noideajee: mucks hand 
+Bpj434343 collected 3440 from pot
+*** SUMMARY ***
+Total pot 3440 | Rake 0 
+Board [3c 5s Ac Ts Ah]
+Seat 1: rbcp92 (small blind) folded before Flop
+Seat 2: Bpj434343 (big blind) showed [6c Kc] and won (3440) with a pair of Aces
+Seat 3: nagyrobi01 folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc mucked [9d Jd]
+Seat 8: Noideajee (button) mucked [7d Js]
+
+
+
+PokerStars Hand #254880014561: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/15 18:11:22 WET [2025/02/15 13:11:22 ET]
+Table '3856223659 128' 8-max Seat #1 is the button
+Seat 1: rbcp92 (21972 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (92504 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (24940 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (18845 in chips, $2.45 bounty) 
+Seat 5: dw.kid (20754 in chips, $2.45 bounty) 
+Seat 6: eMs15 (13631 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (34917 in chips, $3.67 bounty) 
+Seat 8: Noideajee (71410 in chips, $3.67 bounty) 
+rbcp92: posts the ante 60
+Bpj434343: posts the ante 60
+nagyrobi01: posts the ante 60
+Mick92109: posts the ante 60
+dw.kid: posts the ante 60
+eMs15: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Noideajee: posts the ante 60
+Bpj434343: posts small blind 200
+nagyrobi01: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Tc 8s]
+Mick92109: folds 
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: calls 400
+rbcp92: calls 400
+Bpj434343: calls 200
+nagyrobi01: checks 
+*** FLOP *** [4h Qh 5s]
+Bpj434343: checks 
+nagyrobi01: checks 
+Noideajee: checks 
+rbcp92: checks 
+*** TURN *** [4h Qh 5s] [Jc]
+Bpj434343: checks 
+nagyrobi01: bets 400
+Noideajee: calls 400
+rbcp92: calls 400
+Bpj434343: calls 400
+*** RIVER *** [4h Qh 5s Jc] [9d]
+Bpj434343: checks 
+nagyrobi01: bets 800
+Noideajee: folds 
+rbcp92: folds 
+Bpj434343: folds 
+Uncalled bet (800) returned to nagyrobi01
+nagyrobi01 collected 3680 from pot
+*** SUMMARY ***
+Total pot 3680 | Rake 0 
+Board [4h Qh 5s Jc 9d]
+Seat 1: rbcp92 (button) folded on the River
+Seat 2: Bpj434343 (small blind) folded on the River
+Seat 3: nagyrobi01 (big blind) collected (3680)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee folded on the River
+
+
+
+PokerStars Hand #254880039119: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/15 18:12:53 WET [2025/02/15 13:12:53 ET]
+Table '3856223659 128' 8-max Seat #2 is the button
+Seat 1: rbcp92 (21112 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (91644 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (27760 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (18785 in chips, $2.45 bounty) 
+Seat 5: dw.kid (20694 in chips, $2.45 bounty) 
+Seat 6: eMs15 (13571 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (34857 in chips, $3.67 bounty) 
+Seat 8: Noideajee (70550 in chips, $3.67 bounty) 
+rbcp92: posts the ante 60
+Bpj434343: posts the ante 60
+nagyrobi01: posts the ante 60
+Mick92109: posts the ante 60
+dw.kid: posts the ante 60
+eMs15: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Noideajee: posts the ante 60
+nagyrobi01: posts small blind 200
+Mick92109: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 5h]
+dw.kid: folds 
+eMs15: raises 600 to 1000
+Kevin12345Mc: folds 
+Noideajee: calls 1000
+rbcp92: folds 
+Bpj434343: calls 1000
+nagyrobi01: folds 
+Mick92109: calls 600
+*** FLOP *** [Qh 3h Td]
+Mick92109: checks 
+eMs15: bets 2434
+Noideajee: calls 2434
+Bpj434343: folds 
+Mick92109: folds 
+*** TURN *** [Qh 3h Td] [Js]
+eMs15: bets 10077 and is all-in
+Noideajee: folds 
+Uncalled bet (10077) returned to eMs15
+eMs15 collected 9548 from pot
+eMs15: doesn't show hand 
+*** SUMMARY ***
+Total pot 9548 | Rake 0 
+Board [Qh 3h Td Js]
+Seat 1: rbcp92 folded before Flop (didn't bet)
+Seat 2: Bpj434343 (button) folded on the Flop
+Seat 3: nagyrobi01 (small blind) folded before Flop
+Seat 4: Mick92109 (big blind) folded on the Flop
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 collected (9548)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee folded on the Turn
+
+
+
+PokerStars Hand #254880062390: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/15 18:14:20 WET [2025/02/15 13:14:20 ET]
+Table '3856223659 128' 8-max Seat #3 is the button
+Seat 1: rbcp92 (21052 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (90584 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (27500 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (17725 in chips, $2.45 bounty) 
+Seat 5: dw.kid (20634 in chips, $2.45 bounty) 
+Seat 6: eMs15 (19625 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (34797 in chips, $3.67 bounty) 
+Seat 8: Noideajee (67056 in chips, $3.67 bounty) 
+rbcp92: posts the ante 60
+Bpj434343: posts the ante 60
+nagyrobi01: posts the ante 60
+Mick92109: posts the ante 60
+dw.kid: posts the ante 60
+eMs15: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Noideajee: posts the ante 60
+Mick92109: posts small blind 200
+dw.kid: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Jd]
+eMs15: raises 400 to 800
+Kevin12345Mc: folds 
+Noideajee: calls 800
+rbcp92: folds 
+Bpj434343: calls 800
+nagyrobi01: folds 
+Mick92109: folds 
+dw.kid: calls 400
+*** FLOP *** [7c Kd 6s]
+dw.kid: checks 
+eMs15: checks 
+Noideajee: checks 
+Bpj434343: checks 
+*** TURN *** [7c Kd 6s] [9d]
+dw.kid: bets 2444
+eMs15: folds 
+Noideajee: calls 2444
+Bpj434343: folds 
+*** RIVER *** [7c Kd 6s 9d] [8s]
+dw.kid: checks 
+Noideajee: bets 4384
+dw.kid: calls 4384
+*** SHOW DOWN ***
+Noideajee: shows [5h 5s] (a straight, Five to Nine)
+dw.kid: mucks hand 
+Noideajee collected 17536 from pot
+*** SUMMARY ***
+Total pot 17536 | Rake 0 
+Board [7c Kd 6s 9d 8s]
+Seat 1: rbcp92 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded on the Turn
+Seat 3: nagyrobi01 (button) folded before Flop (didn't bet)
+Seat 4: Mick92109 (small blind) folded before Flop
+Seat 5: dw.kid (big blind) mucked [6h 7s]
+Seat 6: eMs15 folded on the Turn
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee showed [5h 5s] and won (17536) with a straight, Five to Nine
+
+
+
+PokerStars Hand #254880077126: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/15 18:15:13 WET [2025/02/15 13:15:13 ET]
+Table '3856223659 128' 8-max Seat #4 is the button
+Seat 1: rbcp92 (20992 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (89724 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (27440 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (17465 in chips, $2.45 bounty) 
+Seat 5: dw.kid (12946 in chips, $2.45 bounty) 
+Seat 6: eMs15 (18765 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (34737 in chips, $3.67 bounty) 
+Seat 8: Noideajee (76904 in chips, $3.67 bounty) 
+rbcp92: posts the ante 60
+Bpj434343: posts the ante 60
+nagyrobi01: posts the ante 60
+Mick92109: posts the ante 60
+dw.kid: posts the ante 60
+eMs15: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Noideajee: posts the ante 60
+dw.kid: posts small blind 200
+eMs15: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c Qd]
+Kevin12345Mc: folds 
+Noideajee: raises 400 to 800
+rbcp92: folds 
+Bpj434343: folds 
+nagyrobi01: folds 
+Mick92109: calls 800
+dw.kid: folds 
+eMs15: calls 400
+*** FLOP *** [4s 8s 2c]
+eMs15: checks 
+Noideajee: checks 
+Mick92109: checks 
+*** TURN *** [4s 8s 2c] [2s]
+eMs15: checks 
+Noideajee: checks 
+Mick92109: checks 
+*** RIVER *** [4s 8s 2c 2s] [4d]
+eMs15: bets 1602
+Noideajee: folds 
+Mick92109: folds 
+Uncalled bet (1602) returned to eMs15
+eMs15 collected 3080 from pot
+eMs15: doesn't show hand 
+*** SUMMARY ***
+Total pot 3080 | Rake 0 
+Board [4s 8s 2c 2s 4d]
+Seat 1: rbcp92 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: nagyrobi01 folded before Flop (didn't bet)
+Seat 4: Mick92109 (button) folded on the River
+Seat 5: dw.kid (small blind) folded before Flop
+Seat 6: eMs15 (big blind) collected (3080)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee folded on the River
+
+
+
+PokerStars Hand #254880093612: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/15 18:16:12 WET [2025/02/15 13:16:12 ET]
+Table '3856223659 128' 8-max Seat #5 is the button
+Seat 1: rbcp92 (20932 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (89664 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (27380 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (16605 in chips, $2.45 bounty) 
+Seat 5: dw.kid (12686 in chips, $2.45 bounty) 
+Seat 6: eMs15 (20985 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (34677 in chips, $3.67 bounty) 
+Seat 8: Noideajee (76044 in chips, $3.67 bounty) 
+rbcp92: posts the ante 60
+Bpj434343: posts the ante 60
+nagyrobi01: posts the ante 60
+Mick92109: posts the ante 60
+dw.kid: posts the ante 60
+eMs15: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Noideajee: posts the ante 60
+eMs15: posts small blind 200
+Kevin12345Mc: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Kh]
+Noideajee: folds 
+rbcp92: folds 
+Bpj434343: folds 
+nagyrobi01: folds 
+Mick92109: folds 
+dw.kid: folds 
+eMs15: calls 200
+Kevin12345Mc: checks 
+*** FLOP *** [Tc Ks Jc]
+eMs15: checks 
+Kevin12345Mc: bets 400
+eMs15: folds 
+Uncalled bet (400) returned to Kevin12345Mc
+Kevin12345Mc collected 1280 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 1280 | Rake 0 
+Board [Tc Ks Jc]
+Seat 1: rbcp92 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: nagyrobi01 folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid (button) folded before Flop (didn't bet)
+Seat 6: eMs15 (small blind) folded on the Flop
+Seat 7: Kevin12345Mc (big blind) collected (1280)
+Seat 8: Noideajee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880100577: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/15 18:16:36 WET [2025/02/15 13:16:36 ET]
+Table '3856223659 128' 8-max Seat #6 is the button
+Seat 1: rbcp92 (20872 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (89604 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (27320 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (16545 in chips, $2.45 bounty) 
+Seat 5: dw.kid (12626 in chips, $2.45 bounty) 
+Seat 6: eMs15 (20525 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (35497 in chips, $3.67 bounty) 
+Seat 8: Noideajee (75984 in chips, $3.67 bounty) 
+rbcp92: posts the ante 60
+Bpj434343: posts the ante 60
+nagyrobi01: posts the ante 60
+Mick92109: posts the ante 60
+dw.kid: posts the ante 60
+eMs15: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Noideajee: posts the ante 60
+Kevin12345Mc: posts small blind 200
+Noideajee: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 3c]
+rbcp92: calls 400
+Bpj434343: folds 
+nagyrobi01: folds 
+Mick92109: calls 400
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: checks 
+*** FLOP *** [9s 5c Qd]
+Noideajee: checks 
+rbcp92: checks 
+Mick92109: checks 
+*** TURN *** [9s 5c Qd] [Js]
+Noideajee: checks 
+rbcp92: checks 
+Mick92109: checks 
+*** RIVER *** [9s 5c Qd Js] [6d]
+Noideajee: checks 
+rbcp92: checks 
+Mick92109: checks 
+*** SHOW DOWN ***
+Noideajee: shows [As 2s] (high card Ace)
+rbcp92: shows [4h 6h] (a pair of Sixes)
+Mick92109: shows [9c Kh] (a pair of Nines)
+Mick92109 collected 1880 from pot
+*** SUMMARY ***
+Total pot 1880 | Rake 0 
+Board [9s 5c Qd Js 6d]
+Seat 1: rbcp92 showed [4h 6h] and lost with a pair of Sixes
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: nagyrobi01 folded before Flop (didn't bet)
+Seat 4: Mick92109 showed [9c Kh] and won (1880) with a pair of Nines
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Noideajee (big blind) showed [As 2s] and lost with high card Ace
+
+
+
+PokerStars Hand #254880113832: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level V (200/400) - 2025/02/15 18:17:23 WET [2025/02/15 13:17:23 ET]
+Table '3856223659 128' 8-max Seat #7 is the button
+Seat 1: rbcp92 (20412 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (89544 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (27260 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (17965 in chips, $2.45 bounty) 
+Seat 5: dw.kid (12566 in chips, $2.45 bounty) 
+Seat 6: eMs15 (20465 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (35237 in chips, $3.67 bounty) 
+Seat 8: Noideajee (75524 in chips, $3.67 bounty) 
+rbcp92: posts the ante 60
+Bpj434343: posts the ante 60
+nagyrobi01: posts the ante 60
+Mick92109: posts the ante 60
+dw.kid: posts the ante 60
+eMs15: posts the ante 60
+Kevin12345Mc: posts the ante 60
+Noideajee: posts the ante 60
+Noideajee: posts small blind 200
+rbcp92: posts big blind 400
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7c 8d]
+Bpj434343: folds 
+nagyrobi01: calls 400
+Mick92109: folds 
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: calls 200
+rbcp92: checks 
+*** FLOP *** [Js 9h 5h]
+Noideajee: checks 
+rbcp92: checks 
+nagyrobi01: bets 800
+Noideajee: folds 
+rbcp92: calls 800
+*** TURN *** [Js 9h 5h] [7h]
+rbcp92: checks 
+nagyrobi01: checks 
+*** RIVER *** [Js 9h 5h 7h] [As]
+rbcp92: checks 
+nagyrobi01: bets 2000
+rbcp92: raises 4800 to 6800
+nagyrobi01: folds 
+Uncalled bet (4800) returned to rbcp92
+rbcp92 collected 7280 from pot
+rbcp92: doesn't show hand 
+*** SUMMARY ***
+Total pot 7280 | Rake 0 
+Board [Js 9h 5h 7h As]
+Seat 1: rbcp92 (big blind) collected (7280)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: nagyrobi01 folded on the River
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Noideajee (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254880134568: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/15 18:18:35 WET [2025/02/15 13:18:35 ET]
+Table '3856223659 128' 8-max Seat #8 is the button
+Seat 1: rbcp92 (24432 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (89484 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (24000 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (17905 in chips, $2.45 bounty) 
+Seat 5: dw.kid (12506 in chips, $2.45 bounty) 
+Seat 6: eMs15 (20405 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (35177 in chips, $3.67 bounty) 
+Seat 8: Noideajee (75064 in chips, $3.67 bounty) 
+rbcp92: posts the ante 70
+Bpj434343: posts the ante 70
+nagyrobi01: posts the ante 70
+Mick92109: posts the ante 70
+dw.kid: posts the ante 70
+eMs15: posts the ante 70
+Kevin12345Mc: posts the ante 70
+Noideajee: posts the ante 70
+rbcp92: posts small blind 250
+Bpj434343: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd Jh]
+nagyrobi01: folds 
+Mick92109: calls 500
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: calls 500
+Noideajee: calls 500
+rbcp92: folds 
+Bpj434343: checks 
+*** FLOP *** [9h 5s 3d]
+Bpj434343: checks 
+Mick92109: checks 
+Kevin12345Mc: checks 
+Noideajee: checks 
+*** TURN *** [9h 5s 3d] [Ad]
+Bpj434343: checks 
+Mick92109: checks 
+Kevin12345Mc: checks 
+Noideajee: checks 
+*** RIVER *** [9h 5s 3d Ad] [6s]
+Bpj434343: checks 
+Mick92109: checks 
+Kevin12345Mc: checks 
+Noideajee: checks 
+*** SHOW DOWN ***
+Bpj434343: shows [Js 8d] (high card Ace)
+Mick92109: shows [8h Kh] (high card Ace - King kicker)
+Kevin12345Mc: shows [Kd Jh] (high card Ace - King+Jack kicker)
+Noideajee: mucks hand 
+Kevin12345Mc collected 2810 from pot
+*** SUMMARY ***
+Total pot 2810 | Rake 0 
+Board [9h 5s 3d Ad 6s]
+Seat 1: rbcp92 (small blind) folded before Flop
+Seat 2: Bpj434343 (big blind) showed [Js 8d] and lost with high card Ace
+Seat 3: nagyrobi01 folded before Flop (didn't bet)
+Seat 4: Mick92109 showed [8h Kh] and lost with high card Ace
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc showed [Kd Jh] and won (2810) with high card Ace
+Seat 8: Noideajee (button) mucked [4h Td]
+
+
+
+PokerStars Hand #254880148553: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/15 18:19:23 WET [2025/02/15 13:19:23 ET]
+Table '3856223659 128' 8-max Seat #1 is the button
+Seat 1: rbcp92 (24112 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (88914 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (23930 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (17335 in chips, $2.45 bounty) 
+Seat 5: dw.kid (12436 in chips, $2.45 bounty) 
+Seat 6: eMs15 (20335 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (37417 in chips, $3.67 bounty) 
+Seat 8: Noideajee (74494 in chips, $3.67 bounty) 
+rbcp92: posts the ante 70
+Bpj434343: posts the ante 70
+nagyrobi01: posts the ante 70
+Mick92109: posts the ante 70
+dw.kid: posts the ante 70
+eMs15: posts the ante 70
+Kevin12345Mc: posts the ante 70
+Noideajee: posts the ante 70
+Bpj434343: posts small blind 250
+nagyrobi01: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jh Th]
+Mick92109: folds 
+dw.kid: raises 750 to 1250
+eMs15: folds 
+Kevin12345Mc: calls 1250
+Noideajee: folds 
+rbcp92: calls 1250
+Bpj434343: folds 
+nagyrobi01: calls 750
+*** FLOP *** [Ts 4s 5c]
+nagyrobi01: checks 
+dw.kid: bets 3660
+Kevin12345Mc: calls 3660
+rbcp92: calls 3660
+nagyrobi01: folds 
+*** TURN *** [Ts 4s 5c] [2s]
+dw.kid: bets 7456 and is all-in
+Kevin12345Mc: calls 7456
+rbcp92: folds 
+*** RIVER *** [Ts 4s 5c 2s] [5d]
+*** SHOW DOWN ***
+dw.kid: shows [Ks Kc] (two pair, Kings and Fives)
+Kevin12345Mc: shows [Jh Th] (two pair, Tens and Fives)
+dw.kid collected 31702 from pot
+*** SUMMARY ***
+Total pot 31702 | Rake 0 
+Board [Ts 4s 5c 2s 5d]
+Seat 1: rbcp92 (button) folded on the Turn
+Seat 2: Bpj434343 (small blind) folded before Flop
+Seat 3: nagyrobi01 (big blind) folded on the Flop
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid showed [Ks Kc] and won (31702) with two pair, Kings and Fives
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc showed [Jh Th] and lost with two pair, Tens and Fives
+Seat 8: Noideajee folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880183629: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/15 18:21:24 WET [2025/02/15 13:21:24 ET]
+Table '3856223659 128' 8-max Seat #2 is the button
+Seat 1: rbcp92 (19132 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (88594 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (22610 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (17265 in chips, $2.45 bounty) 
+Seat 5: dw.kid (31702 in chips, $2.45 bounty) 
+Seat 6: eMs15 (20265 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24981 in chips, $3.67 bounty) 
+Seat 8: Noideajee (74424 in chips, $3.67 bounty) 
+rbcp92: posts the ante 70
+Bpj434343: posts the ante 70
+nagyrobi01: posts the ante 70
+Mick92109: posts the ante 70
+dw.kid: posts the ante 70
+eMs15: posts the ante 70
+Kevin12345Mc: posts the ante 70
+Noideajee: posts the ante 70
+nagyrobi01: posts small blind 250
+Mick92109: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 2c]
+dw.kid: raises 750 to 1250
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: calls 1250
+rbcp92: raises 3750 to 5000
+Bpj434343: folds 
+nagyrobi01: folds 
+Mick92109: folds 
+dw.kid: calls 3750
+Noideajee: folds 
+*** FLOP *** [6h 7c Tc]
+dw.kid: checks 
+rbcp92: bets 14062 and is all-in
+dw.kid: calls 14062
+*** TURN *** [6h 7c Tc] [5d]
+*** RIVER *** [6h 7c Tc 5d] [4h]
+*** SHOW DOWN ***
+dw.kid: shows [9d 8d] (a straight, Six to Ten)
+rbcp92: shows [Jh 9s] (high card Jack)
+dw.kid collected 40684 from pot
+dw.kid wins $1.23 for eliminating rbcp92 and their own bounty increases by $1.22 to $3.67
+rbcp92 finished the tournament
+*** SUMMARY ***
+Total pot 40684 | Rake 0 
+Board [6h 7c Tc 5d 4h]
+Seat 1: rbcp92 showed [Jh 9s] and lost with high card Jack
+Seat 2: Bpj434343 (button) folded before Flop (didn't bet)
+Seat 3: nagyrobi01 (small blind) folded before Flop
+Seat 4: Mick92109 (big blind) folded before Flop
+Seat 5: dw.kid showed [9d 8d] and won (40684) with a straight, Six to Ten
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee folded before Flop
+
+
+
+PokerStars Hand #254880202114: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/15 18:22:27 WET [2025/02/15 13:22:27 ET]
+Table '3856223659 128' 8-max Seat #3 is the button
+Seat 2: Bpj434343 (88524 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (22290 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (16695 in chips, $2.45 bounty) 
+Seat 5: dw.kid (53254 in chips, $3.67 bounty) 
+Seat 6: eMs15 (20195 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24911 in chips, $3.67 bounty) 
+Seat 8: Noideajee (73104 in chips, $3.67 bounty) 
+Bpj434343: posts the ante 70
+nagyrobi01: posts the ante 70
+Mick92109: posts the ante 70
+dw.kid: posts the ante 70
+eMs15: posts the ante 70
+Kevin12345Mc: posts the ante 70
+Noideajee: posts the ante 70
+Mick92109: posts small blind 250
+dw.kid: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 2h]
+kogam20590 is disconnected 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: raises 500 to 1000
+Bpj434343: folds 
+nagyrobi01: calls 1000
+Mick92109: calls 750
+dw.kid: folds 
+*** FLOP *** [6d 8h Tc]
+Mick92109: checks 
+Noideajee: checks 
+nagyrobi01: bets 1000
+Mick92109: calls 1000
+Noideajee: calls 1000
+*** TURN *** [6d 8h Tc] [3s]
+Mick92109: checks 
+Noideajee: checks 
+nagyrobi01: bets 2000
+Mick92109: folds 
+Noideajee: calls 2000
+*** RIVER *** [6d 8h Tc 3s] [Jc]
+Noideajee: checks 
+nagyrobi01: bets 5495
+Noideajee: folds 
+Uncalled bet (5495) returned to nagyrobi01
+nagyrobi01 collected 10990 from pot
+*** SUMMARY ***
+Total pot 10990 | Rake 0 
+Board [6d 8h Tc 3s Jc]
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: nagyrobi01 (button) collected (10990)
+Seat 4: Mick92109 (small blind) folded on the Turn
+Seat 5: dw.kid (big blind) folded before Flop
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee folded on the River
+
+
+
+PokerStars Hand #254880223868: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/15 18:23:43 WET [2025/02/15 13:23:43 ET]
+Table '3856223659 128' 8-max Seat #4 is the button
+Seat 1: kogam20590 (25000 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (88454 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (29210 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (14625 in chips, $2.45 bounty) 
+Seat 5: dw.kid (52684 in chips, $3.67 bounty) 
+Seat 6: eMs15 (20125 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24841 in chips, $3.67 bounty) 
+Seat 8: Noideajee (69034 in chips, $3.67 bounty) 
+kogam20590: posts the ante 70
+Bpj434343: posts the ante 70
+nagyrobi01: posts the ante 70
+Mick92109: posts the ante 70
+dw.kid: posts the ante 70
+eMs15: posts the ante 70
+Kevin12345Mc: posts the ante 70
+Noideajee: posts the ante 70
+dw.kid: posts small blind 250
+eMs15: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s Kc]
+Kevin12345Mc: folds 
+Noideajee: raises 500 to 1000
+kogam20590: folds 
+Bpj434343: calls 1000
+nagyrobi01: calls 1000
+Mick92109: raises 13555 to 14555 and is all-in
+dw.kid: folds 
+eMs15: folds 
+Noideajee: folds 
+Bpj434343: folds 
+nagyrobi01: folds 
+Uncalled bet (13555) returned to Mick92109
+Mick92109 collected 5310 from pot
+*** SUMMARY ***
+Total pot 5310 | Rake 0 
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop
+Seat 3: nagyrobi01 folded before Flop
+Seat 4: Mick92109 (button) collected (5310)
+Seat 5: dw.kid (small blind) folded before Flop
+Seat 6: eMs15 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee folded before Flop
+
+
+
+PokerStars Hand #254880239845: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VI (250/500) - 2025/02/15 18:24:39 WET [2025/02/15 13:24:39 ET]
+Table '3856223659 128' 8-max Seat #5 is the button
+Seat 1: kogam20590 (24930 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (87384 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (28140 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (18865 in chips, $2.45 bounty) 
+Seat 5: dw.kid (52364 in chips, $3.67 bounty) 
+Seat 6: eMs15 (19555 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24771 in chips, $3.67 bounty) 
+Seat 8: Noideajee (67964 in chips, $3.67 bounty) 
+kogam20590: posts the ante 70
+Bpj434343: posts the ante 70
+nagyrobi01: posts the ante 70
+Mick92109: posts the ante 70
+dw.kid: posts the ante 70
+eMs15: posts the ante 70
+Kevin12345Mc: posts the ante 70
+Noideajee: posts the ante 70
+eMs15: posts small blind 250
+Kevin12345Mc: posts big blind 500
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3d 9d]
+Noideajee: calls 500
+kogam20590: folds 
+Bpj434343: calls 500
+nagyrobi01: calls 500
+Mick92109: folds 
+dw.kid: folds 
+eMs15: calls 250
+Kevin12345Mc: checks 
+*** FLOP *** [4s 8c 6h]
+eMs15: checks 
+Kevin12345Mc: checks 
+Noideajee: checks 
+Bpj434343: checks 
+nagyrobi01: checks 
+*** TURN *** [4s 8c 6h] [Qc]
+eMs15: checks 
+Kevin12345Mc: checks 
+Noideajee: checks 
+Bpj434343: checks 
+nagyrobi01: checks 
+*** RIVER *** [4s 8c 6h Qc] [Jd]
+eMs15: checks 
+Kevin12345Mc: checks 
+Noideajee: checks 
+Bpj434343: checks 
+nagyrobi01: checks 
+*** SHOW DOWN ***
+eMs15: shows [Th Ad] (high card Ace)
+Kevin12345Mc: mucks hand 
+Noideajee: mucks hand 
+Bpj434343: mucks hand 
+nagyrobi01: shows [Kd 6c] (a pair of Sixes)
+nagyrobi01 collected 3060 from pot
+*** SUMMARY ***
+Total pot 3060 | Rake 0 
+Board [4s 8c 6h Qc Jd]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 mucked [Ks 5s]
+Seat 3: nagyrobi01 showed [Kd 6c] and won (3060) with a pair of Sixes
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid (button) folded before Flop (didn't bet)
+Seat 6: eMs15 (small blind) showed [Th Ad] and lost with high card Ace
+Seat 7: Kevin12345Mc (big blind) mucked [3d 9d]
+Seat 8: Noideajee mucked [9h 7h]
+
+
+
+PokerStars Hand #254880260193: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VII (300/600) - 2025/02/15 18:25:49 WET [2025/02/15 13:25:49 ET]
+Table '3856223659 128' 8-max Seat #6 is the button
+Seat 1: kogam20590 (24860 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (86814 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (30630 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (18795 in chips, $2.45 bounty) 
+Seat 5: dw.kid (52294 in chips, $3.67 bounty) 
+Seat 6: eMs15 (18985 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24201 in chips, $3.67 bounty) 
+Seat 8: Noideajee (67394 in chips, $3.67 bounty) 
+kogam20590: posts the ante 80
+Bpj434343: posts the ante 80
+nagyrobi01: posts the ante 80
+Mick92109: posts the ante 80
+dw.kid: posts the ante 80
+eMs15: posts the ante 80
+Kevin12345Mc: posts the ante 80
+Noideajee: posts the ante 80
+Kevin12345Mc: posts small blind 300
+Noideajee: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c Ks]
+kogam20590: folds 
+Bpj434343: calls 600
+nagyrobi01: folds 
+Mick92109: folds 
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: checks 
+*** FLOP *** [As 6c Qd]
+Noideajee: checks 
+Bpj434343: checks 
+*** TURN *** [As 6c Qd] [5h]
+Noideajee: bets 600
+Bpj434343: calls 600
+*** RIVER *** [As 6c Qd 5h] [Qs]
+Noideajee: checks 
+Bpj434343: bets 600
+Noideajee: calls 600
+*** SHOW DOWN ***
+Bpj434343: shows [Ac Js] (two pair, Aces and Queens)
+Noideajee: mucks hand 
+Bpj434343 collected 4540 from pot
+*** SUMMARY ***
+Total pot 4540 | Rake 0 
+Board [As 6c Qd 5h Qs]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 showed [Ac Js] and won (4540) with two pair, Aces and Queens
+Seat 3: nagyrobi01 folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Noideajee (big blind) mucked [3c 6s]
+
+
+
+PokerStars Hand #254880273336: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VII (300/600) - 2025/02/15 18:26:35 WET [2025/02/15 13:26:35 ET]
+Table '3856223659 128' 8-max Seat #7 is the button
+Seat 1: kogam20590 (24780 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (89474 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (30550 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (18715 in chips, $2.45 bounty) 
+Seat 5: dw.kid (52214 in chips, $3.67 bounty) 
+Seat 6: eMs15 (18905 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (23821 in chips, $3.67 bounty) 
+Seat 8: Noideajee (65514 in chips, $3.67 bounty) 
+kogam20590: posts the ante 80
+Bpj434343: posts the ante 80
+nagyrobi01: posts the ante 80
+Mick92109: posts the ante 80
+dw.kid: posts the ante 80
+eMs15: posts the ante 80
+Kevin12345Mc: posts the ante 80
+Noideajee: posts the ante 80
+Noideajee: posts small blind 300
+kogam20590: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Th 7h]
+Bpj434343: calls 600
+nagyrobi01: folds 
+Mick92109: folds 
+dw.kid: raises 1840 to 2440
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: folds 
+kogam20590: folds 
+Bpj434343: calls 1840
+*** FLOP *** [8h 9s 8d]
+Bpj434343: checks 
+dw.kid: bets 2119
+Bpj434343: calls 2119
+*** TURN *** [8h 9s 8d] [9c]
+Bpj434343: checks 
+dw.kid: checks 
+*** RIVER *** [8h 9s 8d 9c] [5h]
+Bpj434343: checks 
+dw.kid: bets 3517
+Bpj434343: calls 3517
+*** SHOW DOWN ***
+dw.kid: shows [Kh Kd] (two pair, Kings and Nines)
+Bpj434343: mucks hand 
+dw.kid collected 17692 from pot
+*** SUMMARY ***
+Total pot 17692 | Rake 0 
+Board [8h 9s 8d 9c 5h]
+Seat 1: kogam20590 (big blind) folded before Flop
+Seat 2: Bpj434343 mucked [Ac Tc]
+Seat 3: nagyrobi01 folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid showed [Kh Kd] and won (17692) with two pair, Kings and Nines
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Noideajee (small blind) folded before Flop
+
+
+
+PokerStars Hand #254880292510: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VII (300/600) - 2025/02/15 18:27:40 WET [2025/02/15 13:27:40 ET]
+Table '3856223659 128' 8-max Seat #8 is the button
+Seat 1: kogam20590 (24100 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (81318 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (30470 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (18635 in chips, $2.45 bounty) 
+Seat 5: dw.kid (61750 in chips, $3.67 bounty) 
+Seat 6: eMs15 (18825 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (23741 in chips, $3.67 bounty) 
+Seat 8: Noideajee (65134 in chips, $3.67 bounty) 
+kogam20590: posts the ante 80
+Bpj434343: posts the ante 80
+nagyrobi01: posts the ante 80
+Mick92109: posts the ante 80
+dw.kid: posts the ante 80
+eMs15: posts the ante 80
+Kevin12345Mc: posts the ante 80
+Noideajee: posts the ante 80
+kogam20590: posts small blind 300
+Bpj434343: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 4d]
+nagyrobi01: folds 
+Mick92109: folds 
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: raises 720 to 1320
+Noideajee: calls 1320
+kogam20590: raises 5200 to 6520
+Bpj434343: folds 
+Kevin12345Mc: folds 
+Noideajee: folds 
+Uncalled bet (5200) returned to kogam20590
+kogam20590 collected 5200 from pot
+kogam20590: doesn't show hand 
+*** SUMMARY ***
+Total pot 5200 | Rake 0 
+Seat 1: kogam20590 (small blind) collected (5200)
+Seat 2: Bpj434343 (big blind) folded before Flop
+Seat 3: nagyrobi01 folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop
+Seat 8: Noideajee (button) folded before Flop
+
+
+
+PokerStars Hand #254880308580: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VII (300/600) - 2025/02/15 18:28:35 WET [2025/02/15 13:28:35 ET]
+Table '3856223659 128' 8-max Seat #1 is the button
+Seat 1: kogam20590 (27900 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (80638 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (30390 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (18555 in chips, $2.45 bounty) 
+Seat 5: dw.kid (61670 in chips, $3.67 bounty) 
+Seat 6: eMs15 (18745 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (22341 in chips, $3.67 bounty) 
+Seat 8: Noideajee (63734 in chips, $3.67 bounty) 
+kogam20590: posts the ante 80
+Bpj434343: posts the ante 80
+nagyrobi01: posts the ante 80
+Mick92109: posts the ante 80
+dw.kid: posts the ante 80
+eMs15: posts the ante 80
+Kevin12345Mc: posts the ante 80
+Noideajee: posts the ante 80
+Bpj434343: posts small blind 300
+nagyrobi01: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js 2d]
+Mick92109: calls 600
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: calls 600
+kogam20590: folds 
+Bpj434343: calls 300
+nagyrobi01: checks 
+*** FLOP *** [7c 5h Kh]
+Bpj434343: checks 
+nagyrobi01: checks 
+Mick92109: checks 
+Noideajee: checks 
+*** TURN *** [7c 5h Kh] [4s]
+Bpj434343: checks 
+nagyrobi01: bets 1200
+Mick92109: folds 
+Noideajee: folds 
+Bpj434343: calls 1200
+*** RIVER *** [7c 5h Kh 4s] [6h]
+Bpj434343: checks 
+nagyrobi01: checks 
+*** SHOW DOWN ***
+Bpj434343: shows [8d 8s] (a straight, Four to Eight)
+nagyrobi01: mucks hand 
+Bpj434343 collected 5440 from pot
+*** SUMMARY ***
+Total pot 5440 | Rake 0 
+Board [7c 5h Kh 4s 6h]
+Seat 1: kogam20590 (button) folded before Flop (didn't bet)
+Seat 2: Bpj434343 (small blind) showed [8d 8s] and won (5440) with a straight, Four to Eight
+Seat 3: nagyrobi01 (big blind) mucked [5s 4d]
+Seat 4: Mick92109 folded on the Turn
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee folded on the Turn
+
+
+
+PokerStars Hand #254880329834: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VII (300/600) - 2025/02/15 18:29:49 WET [2025/02/15 13:29:49 ET]
+Table '3856223659 128' 8-max Seat #2 is the button
+Seat 1: kogam20590 (27820 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (84198 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (28510 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (17875 in chips, $2.45 bounty) 
+Seat 5: dw.kid (61590 in chips, $3.67 bounty) 
+Seat 6: eMs15 (18665 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (22261 in chips, $3.67 bounty) 
+Seat 8: Noideajee (63054 in chips, $3.67 bounty) 
+kogam20590: posts the ante 80
+Bpj434343: posts the ante 80
+nagyrobi01: posts the ante 80
+Mick92109: posts the ante 80
+dw.kid: posts the ante 80
+eMs15: posts the ante 80
+Kevin12345Mc: posts the ante 80
+Noideajee: posts the ante 80
+nagyrobi01: posts small blind 300
+Mick92109: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d 6c]
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: calls 600
+kogam20590: folds 
+Bpj434343: folds 
+nagyrobi01: calls 300
+Mick92109: checks 
+*** FLOP *** [5c Kc Ac]
+nagyrobi01: checks 
+Mick92109: checks 
+Noideajee: checks 
+*** TURN *** [5c Kc Ac] [8d]
+nagyrobi01: checks 
+Mick92109: checks 
+Noideajee: checks 
+*** RIVER *** [5c Kc Ac 8d] [Js]
+nagyrobi01: checks 
+Mick92109: checks 
+Noideajee: checks 
+*** SHOW DOWN ***
+nagyrobi01: shows [9d Th] (high card Ace)
+Mick92109: shows [3s 8h] (a pair of Eights)
+Noideajee: mucks hand 
+Mick92109 collected 2440 from pot
+*** SUMMARY ***
+Total pot 2440 | Rake 0 
+Board [5c Kc Ac 8d Js]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 (button) folded before Flop (didn't bet)
+Seat 3: nagyrobi01 (small blind) showed [9d Th] and lost with high card Ace
+Seat 4: Mick92109 (big blind) showed [3s 8h] and won (2440) with a pair of Eights
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee mucked [4c 7d]
+
+
+
+PokerStars Hand #254880345926: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VII (300/600) - 2025/02/15 18:30:43 WET [2025/02/15 13:30:43 ET]
+Table '3856223659 128' 8-max Seat #3 is the button
+Seat 1: kogam20590 (27740 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (84118 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (27830 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (19635 in chips, $2.45 bounty) 
+Seat 5: dw.kid (61510 in chips, $3.67 bounty) 
+Seat 6: eMs15 (18585 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (22181 in chips, $3.67 bounty) 
+Seat 8: Noideajee (62374 in chips, $3.67 bounty) 
+kogam20590: posts the ante 80
+Bpj434343: posts the ante 80
+nagyrobi01: posts the ante 80
+Mick92109: posts the ante 80
+dw.kid: posts the ante 80
+eMs15: posts the ante 80
+Kevin12345Mc: posts the ante 80
+Noideajee: posts the ante 80
+Mick92109: posts small blind 300
+dw.kid: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Ah]
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: raises 600 to 1200
+kogam20590: folds 
+Bpj434343: folds 
+nagyrobi01: raises 600 to 1800
+Mick92109: folds 
+dw.kid: folds 
+Noideajee: calls 600
+*** FLOP *** [2c Kd Qs]
+Noideajee: checks 
+nagyrobi01: bets 1200
+Noideajee: calls 1200
+*** TURN *** [2c Kd Qs] [6d]
+Noideajee: checks 
+nagyrobi01: bets 1800
+Noideajee: calls 1800
+*** RIVER *** [2c Kd Qs 6d] [6h]
+Noideajee: bets 1200
+nagyrobi01: calls 1200
+*** SHOW DOWN ***
+Noideajee: shows [3s Kh] (two pair, Kings and Sixes)
+nagyrobi01: mucks hand 
+Noideajee collected 13540 from pot
+*** SUMMARY ***
+Total pot 13540 | Rake 0 
+Board [2c Kd Qs 6d 6h]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: nagyrobi01 (button) mucked [Tc Ts]
+Seat 4: Mick92109 (small blind) folded before Flop
+Seat 5: dw.kid (big blind) folded before Flop
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee showed [3s Kh] and won (13540) with two pair, Kings and Sixes
+
+
+
+PokerStars Hand #254880361461: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VII (300/600) - 2025/02/15 18:31:36 WET [2025/02/15 13:31:36 ET]
+Table '3856223659 128' 8-max Seat #4 is the button
+Seat 1: kogam20590 (27660 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (84038 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (21750 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (19255 in chips, $2.45 bounty) 
+Seat 5: dw.kid (60830 in chips, $3.67 bounty) 
+Seat 6: eMs15 (18505 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (22101 in chips, $3.67 bounty) 
+Seat 8: Noideajee (69834 in chips, $3.67 bounty) 
+kogam20590: posts the ante 80
+Bpj434343: posts the ante 80
+nagyrobi01: posts the ante 80
+Mick92109: posts the ante 80
+dw.kid: posts the ante 80
+eMs15: posts the ante 80
+Kevin12345Mc: posts the ante 80
+Noideajee: posts the ante 80
+dw.kid: posts small blind 300
+eMs15: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h Ac]
+Kevin12345Mc: folds 
+Noideajee: raises 600 to 1200
+kogam20590: raises 3340 to 4540
+Bpj434343: folds 
+nagyrobi01: folds 
+Mick92109: calls 4540
+dw.kid: folds 
+eMs15: folds 
+Noideajee: calls 3340
+*** FLOP *** [8d 2c Th]
+Noideajee: checks 
+kogam20590: bets 23040 and is all-in
+Mick92109: folds 
+Noideajee: folds 
+Uncalled bet (23040) returned to kogam20590
+kogam20590 collected 15160 from pot
+kogam20590: doesn't show hand 
+*** SUMMARY ***
+Total pot 15160 | Rake 0 
+Board [8d 2c Th]
+Seat 1: kogam20590 collected (15160)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: nagyrobi01 folded before Flop (didn't bet)
+Seat 4: Mick92109 (button) folded on the Flop
+Seat 5: dw.kid (small blind) folded before Flop
+Seat 6: eMs15 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Noideajee folded on the Flop
+
+
+
+PokerStars Hand #254880377487: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VII (300/600) - 2025/02/15 18:32:30 WET [2025/02/15 13:32:30 ET]
+Table '3856223659 128' 8-max Seat #5 is the button
+Seat 1: kogam20590 (38200 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (83958 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (21670 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (14635 in chips, $2.45 bounty) 
+Seat 5: dw.kid (60450 in chips, $3.67 bounty) 
+Seat 6: eMs15 (17825 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (22021 in chips, $3.67 bounty) 
+Seat 8: Noideajee (65214 in chips, $3.67 bounty) 
+kogam20590: posts the ante 80
+Bpj434343: posts the ante 80
+nagyrobi01: posts the ante 80
+Mick92109: posts the ante 80
+dw.kid: posts the ante 80
+eMs15: posts the ante 80
+Kevin12345Mc: posts the ante 80
+Noideajee: posts the ante 80
+eMs15: posts small blind 300
+Kevin12345Mc: posts big blind 600
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9h As]
+Noideajee: calls 600
+kogam20590: folds 
+Bpj434343: folds 
+nagyrobi01: raises 1200 to 1800
+Mick92109: raises 1200 to 3000
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: folds 
+nagyrobi01: calls 1200
+*** FLOP *** [3c 2d Kc]
+nagyrobi01: checks 
+Mick92109: bets 11555 and is all-in
+nagyrobi01: calls 11555
+*** TURN *** [3c 2d Kc] [5s]
+*** RIVER *** [3c 2d Kc 5s] [7d]
+*** SHOW DOWN ***
+nagyrobi01: shows [8c 9c] (high card King)
+Mick92109: shows [Qs Qd] (a pair of Queens)
+Mick92109 collected 31250 from pot
+*** SUMMARY ***
+Total pot 31250 | Rake 0 
+Board [3c 2d Kc 5s 7d]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: nagyrobi01 showed [8c 9c] and lost with high card King
+Seat 4: Mick92109 showed [Qs Qd] and won (31250) with a pair of Queens
+Seat 5: dw.kid (button) folded before Flop (didn't bet)
+Seat 6: eMs15 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded before Flop
+Seat 8: Noideajee folded before Flop
+
+
+
+PokerStars Hand #254880404298: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/15 18:33:59 WET [2025/02/15 13:33:59 ET]
+Table '3856223659 128' 8-max Seat #6 is the button
+Seat 1: kogam20590 (38120 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (83878 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (7035 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (31250 in chips, $2.45 bounty) 
+Seat 5: dw.kid (60370 in chips, $3.67 bounty) 
+Seat 6: eMs15 (17445 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (21341 in chips, $3.67 bounty) 
+Seat 8: Noideajee (64534 in chips, $3.67 bounty) 
+kogam20590: posts the ante 90
+Bpj434343: posts the ante 90
+nagyrobi01: posts the ante 90
+Mick92109: posts the ante 90
+dw.kid: posts the ante 90
+eMs15: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Noideajee: posts the ante 90
+Kevin12345Mc: posts small blind 350
+Noideajee: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6c Jh]
+kogam20590: folds 
+Bpj434343: calls 700
+nagyrobi01: folds 
+Mick92109: folds 
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: checks 
+*** FLOP *** [9h 4c As]
+Noideajee: checks 
+Bpj434343: checks 
+*** TURN *** [9h 4c As] [Qd]
+Noideajee: bets 2100
+Bpj434343: calls 2100
+*** RIVER *** [9h 4c As Qd] [8d]
+Noideajee: checks 
+Bpj434343: checks 
+*** SHOW DOWN ***
+Noideajee: shows [Jd 9c] (a pair of Nines)
+Bpj434343: shows [Kd Qc] (a pair of Queens)
+Bpj434343 collected 6670 from pot
+*** SUMMARY ***
+Total pot 6670 | Rake 0 
+Board [9h 4c As Qd 8d]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 showed [Kd Qc] and won (6670) with a pair of Queens
+Seat 3: nagyrobi01 folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Noideajee (big blind) showed [Jd 9c] and lost with a pair of Nines
+
+
+
+PokerStars Hand #254880418034: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/15 18:34:45 WET [2025/02/15 13:34:45 ET]
+Table '3856223659 128' 8-max Seat #7 is the button
+Seat 1: kogam20590 (38030 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (87658 in chips, $4.89 bounty) 
+Seat 3: nagyrobi01 (6945 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (31160 in chips, $2.45 bounty) 
+Seat 5: dw.kid (60280 in chips, $3.67 bounty) 
+Seat 6: eMs15 (17355 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (20901 in chips, $3.67 bounty) 
+Seat 8: Noideajee (61644 in chips, $3.67 bounty) 
+kogam20590: posts the ante 90
+Bpj434343: posts the ante 90
+nagyrobi01: posts the ante 90
+Mick92109: posts the ante 90
+dw.kid: posts the ante 90
+eMs15: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Noideajee: posts the ante 90
+Noideajee: posts small blind 350
+kogam20590: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4d 9d]
+Bpj434343: calls 700
+nagyrobi01: calls 700
+Mick92109: calls 700
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+Noideajee: calls 350
+kogam20590: checks 
+*** FLOP *** [Tc 3h Ts]
+Noideajee: checks 
+kogam20590: checks 
+Bpj434343: checks 
+nagyrobi01: checks 
+Mick92109: checks 
+*** TURN *** [Tc 3h Ts] [6s]
+Noideajee: bets 2110
+kogam20590: folds 
+Bpj434343: calls 2110
+nagyrobi01: folds 
+Mick92109: folds 
+*** RIVER *** [Tc 3h Ts 6s] [Jc]
+Noideajee: bets 8440
+Bpj434343: raises 10460 to 18900
+Noideajee: raises 39844 to 58744 and is all-in
+Bpj434343: calls 39844
+*** SHOW DOWN ***
+Noideajee: shows [Th 2d] (three of a kind, Tens)
+Bpj434343: shows [Js Jd] (a full house, Jacks full of Tens)
+Bpj434343 collected 125928 from pot
+Bpj434343 wins $1.84 for eliminating Noideajee and their own bounty increases by $1.83 to $6.72
+Noideajee finished the tournament
+*** SUMMARY ***
+Total pot 125928 | Rake 0 
+Board [Tc 3h Ts 6s Jc]
+Seat 1: kogam20590 (big blind) folded on the Turn
+Seat 2: Bpj434343 showed [Js Jd] and won (125928) with a full house, Jacks full of Tens
+Seat 3: nagyrobi01 folded on the Turn
+Seat 4: Mick92109 folded on the Turn
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Noideajee (small blind) showed [Th 2d] and lost with three of a kind, Tens
+
+
+
+PokerStars Hand #254880439143: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/15 18:35:56 WET [2025/02/15 13:35:56 ET]
+Table '3856223659 128' 8-max Seat #1 is the button
+Seat 1: kogam20590 (37240 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (151942 in chips, $6.72 bounty) 
+Seat 3: nagyrobi01 (6155 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (30370 in chips, $2.45 bounty) 
+Seat 5: dw.kid (60190 in chips, $3.67 bounty) 
+Seat 6: eMs15 (17265 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (20811 in chips, $3.67 bounty) 
+kogam20590: posts the ante 90
+Bpj434343: posts the ante 90
+nagyrobi01: posts the ante 90
+Mick92109: posts the ante 90
+dw.kid: posts the ante 90
+eMs15: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Bpj434343: posts small blind 350
+nagyrobi01: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ah 4c]
+lukoluko11 is disconnected 
+Mick92109: calls 700
+dw.kid: folds 
+eMs15: folds 
+Kevin12345Mc: folds 
+kogam20590: folds 
+Bpj434343: calls 350
+nagyrobi01: checks 
+*** FLOP *** [7s 7h 6s]
+Bpj434343: checks 
+nagyrobi01: checks 
+Mick92109: checks 
+*** TURN *** [7s 7h 6s] [Ac]
+Bpj434343: checks 
+nagyrobi01: checks 
+Mick92109: checks 
+*** RIVER *** [7s 7h 6s Ac] [3d]
+Bpj434343: checks 
+nagyrobi01: checks 
+Mick92109: bets 700
+Bpj434343: folds 
+nagyrobi01: folds 
+Uncalled bet (700) returned to Mick92109
+Mick92109 collected 2730 from pot
+*** SUMMARY ***
+Total pot 2730 | Rake 0 
+Board [7s 7h 6s Ac 3d]
+Seat 1: kogam20590 (button) folded before Flop (didn't bet)
+Seat 2: Bpj434343 (small blind) folded on the River
+Seat 3: nagyrobi01 (big blind) folded on the River
+Seat 4: Mick92109 collected (2730)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880477423: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/15 18:38:05 WET [2025/02/15 13:38:05 ET]
+Table '3856223659 128' 8-max Seat #2 is the button
+Seat 1: kogam20590 (37150 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (151152 in chips, $6.72 bounty) 
+Seat 3: nagyrobi01 (5365 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (32310 in chips, $2.45 bounty) 
+Seat 5: dw.kid (60100 in chips, $3.67 bounty) 
+Seat 6: eMs15 (17175 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (20721 in chips, $3.67 bounty) 
+Seat 8: lukoluko11 (25000 in chips, $2.45 bounty) 
+kogam20590: posts the ante 90
+Bpj434343: posts the ante 90
+nagyrobi01: posts the ante 90
+Mick92109: posts the ante 90
+dw.kid: posts the ante 90
+eMs15: posts the ante 90
+Kevin12345Mc: posts the ante 90
+lukoluko11: posts the ante 90
+nagyrobi01: posts small blind 350
+Mick92109: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 2h]
+dw.kid: raises 1050 to 1750
+eMs15: folds 
+Kevin12345Mc: folds 
+lukoluko11: folds 
+kogam20590: folds 
+Bpj434343: calls 1750
+nagyrobi01: calls 1400
+Mick92109: folds 
+*** FLOP *** [7h 4d 4h]
+nagyrobi01: checks 
+dw.kid: bets 4200
+Bpj434343: calls 4200
+nagyrobi01: folds 
+*** TURN *** [7h 4d 4h] [Js]
+dw.kid: bets 4973
+Bpj434343: calls 4973
+*** RIVER *** [7h 4d 4h Js] [Jh]
+dw.kid: checks 
+Bpj434343: bets 12508
+dw.kid: folds 
+Uncalled bet (12508) returned to Bpj434343
+Bpj434343 collected 25016 from pot
+Bpj434343: doesn't show hand 
+*** SUMMARY ***
+Total pot 25016 | Rake 0 
+Board [7h 4d 4h Js Jh]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 (button) collected (25016)
+Seat 3: nagyrobi01 (small blind) folded on the Flop
+Seat 4: Mick92109 (big blind) folded before Flop
+Seat 5: dw.kid folded on the River
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: lukoluko11 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880503037: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/15 18:39:31 WET [2025/02/15 13:39:31 ET]
+Table '3856223659 128' 8-max Seat #3 is the button
+Seat 1: kogam20590 (37060 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (165155 in chips, $6.72 bounty) 
+Seat 3: nagyrobi01 (3525 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (31520 in chips, $2.45 bounty) 
+Seat 5: dw.kid (49087 in chips, $3.67 bounty) 
+Seat 6: eMs15 (17085 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (20631 in chips, $3.67 bounty) 
+Seat 8: lukoluko11 (24910 in chips, $2.45 bounty) 
+kogam20590: posts the ante 90
+Bpj434343: posts the ante 90
+nagyrobi01: posts the ante 90
+Mick92109: posts the ante 90
+dw.kid: posts the ante 90
+eMs15: posts the ante 90
+Kevin12345Mc: posts the ante 90
+lukoluko11: posts the ante 90
+Mick92109: posts small blind 350
+dw.kid: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [9c 5h]
+eMs15: folds 
+Kevin12345Mc: folds 
+lukoluko11: raises 700 to 1400
+kogam20590: folds 
+Bpj434343: folds 
+nagyrobi01: folds 
+Mick92109: calls 1050
+dw.kid: raises 4920 to 6320
+lukoluko11: calls 4920
+Mick92109: folds 
+*** FLOP *** [7c 8d Qd]
+dw.kid: bets 9299
+lukoluko11: folds 
+Uncalled bet (9299) returned to dw.kid
+dw.kid collected 14760 from pot
+dw.kid: doesn't show hand 
+*** SUMMARY ***
+Total pot 14760 | Rake 0 
+Board [7c 8d Qd]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: nagyrobi01 (button) folded before Flop (didn't bet)
+Seat 4: Mick92109 (small blind) folded before Flop
+Seat 5: dw.kid (big blind) collected (14760)
+Seat 6: eMs15 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: lukoluko11 folded on the Flop
+
+
+
+PokerStars Hand #254880517050: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/15 18:40:18 WET [2025/02/15 13:40:18 ET]
+Table '3856223659 128' 8-max Seat #4 is the button
+Seat 1: kogam20590 (36970 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (165065 in chips, $6.72 bounty) 
+Seat 3: nagyrobi01 (3435 in chips, $2.45 bounty) 
+Seat 4: Mick92109 (30030 in chips, $2.45 bounty) 
+Seat 5: dw.kid (57437 in chips, $3.67 bounty) 
+Seat 6: eMs15 (16995 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (20541 in chips, $3.67 bounty) 
+Seat 8: lukoluko11 (18500 in chips, $2.45 bounty) 
+kogam20590: posts the ante 90
+Bpj434343: posts the ante 90
+nagyrobi01: posts the ante 90
+Mick92109: posts the ante 90
+dw.kid: posts the ante 90
+eMs15: posts the ante 90
+Kevin12345Mc: posts the ante 90
+lukoluko11: posts the ante 90
+dw.kid: posts small blind 350
+eMs15: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4h 4s]
+Kevin12345Mc: folds 
+lukoluko11: raises 700 to 1400
+kogam20590: folds 
+Bpj434343: folds 
+nagyrobi01: raises 1945 to 3345 and is all-in
+Mick92109: folds 
+dw.kid: calls 2995
+eMs15: calls 2645
+lukoluko11: raises 15065 to 18410 and is all-in
+dw.kid: calls 15065
+eMs15: calls 13560 and is all-in
+*** FLOP *** [9s Tc Ad]
+*** TURN *** [9s Tc Ad] [8h]
+*** RIVER *** [9s Tc Ad 8h] [7c]
+*** SHOW DOWN ***
+dw.kid: shows [5d 6c] (a straight, Six to Ten)
+lukoluko11: shows [Th 7s] (two pair, Tens and Sevens)
+dw.kid collected 3010 from side pot-2 
+eMs15: shows [5s 7h] (a pair of Sevens)
+dw.kid collected 40680 from side pot-1 
+nagyrobi01: shows [Kc 2c] (high card Ace)
+dw.kid collected 14100 from main pot
+dw.kid wins $1.23 for eliminating nagyrobi01 and their own bounty increases by $1.22 to $4.89
+dw.kid wins $1.23 for eliminating eMs15 and their own bounty increases by $1.22 to $6.11
+dw.kid wins $1.23 for eliminating lukoluko11 and their own bounty increases by $1.22 to $7.33
+lukoluko11 finished the tournament
+eMs15 finished the tournament
+nagyrobi01 finished the tournament
+FlamingoBet is disconnected 
+*** SUMMARY ***
+Total pot 57790 Main pot 14100. Side pot-1 40680. Side pot-2 3010. | Rake 0 
+Board [9s Tc Ad 8h 7c]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: nagyrobi01 showed [Kc 2c] and lost with high card Ace
+Seat 4: Mick92109 (button) folded before Flop (didn't bet)
+Seat 5: dw.kid (small blind) showed [5d 6c] and won (57790) with a straight, Six to Ten
+Seat 6: eMs15 (big blind) showed [5s 7h] and lost with a pair of Sevens
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: lukoluko11 showed [Th 7s] and lost with two pair, Tens and Sevens
+
+
+
+PokerStars Hand #254880539220: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level VIII (350/700) - 2025/02/15 18:41:34 WET [2025/02/15 13:41:34 ET]
+Table '3856223659 128' 8-max Seat #5 is the button
+Seat 1: kogam20590 (36880 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (164975 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (106787 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (29940 in chips, $2.45 bounty) 
+Seat 5: dw.kid (96727 in chips, $7.33 bounty) 
+Seat 7: Kevin12345Mc (20451 in chips, $3.67 bounty) 
+Seat 8: Valente18 (22526 in chips, $2.45 bounty) 
+kogam20590: posts the ante 90
+Bpj434343: posts the ante 90
+FlamingoBet: posts the ante 90
+Mick92109: posts the ante 90
+dw.kid: posts the ante 90
+Kevin12345Mc: posts the ante 90
+Valente18: posts the ante 90
+Kevin12345Mc: posts small blind 350
+Valente18: posts big blind 700
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h 3s]
+kogam20590: folds 
+MrUller20 is disconnected 
+Bpj434343: folds 
+FlamingoBet: folds 
+Mick92109: folds 
+dw.kid: raises 840 to 1540
+Kevin12345Mc: folds 
+Valente18: calls 840
+*** FLOP *** [Ac 6c 2c]
+Valente18: checks 
+dw.kid: checks 
+*** TURN *** [Ac 6c 2c] [7c]
+Valente18: checks 
+dw.kid: checks 
+*** RIVER *** [Ac 6c 2c 7c] [5d]
+Valente18: bets 3045
+dw.kid: folds 
+Uncalled bet (3045) returned to Valente18
+Valente18 collected 4060 from pot
+Valente18: doesn't show hand 
+*** SUMMARY ***
+Total pot 4060 | Rake 0 
+Board [Ac 6c 2c 7c 5d]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid (button) folded on the River
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Valente18 (big blind) collected (4060)
+
+
+
+PokerStars Hand #254880554824: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/15 18:42:27 WET [2025/02/15 13:42:27 ET]
+Table '3856223659 128' 8-max Seat #7 is the button
+Seat 1: kogam20590 (36790 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (164885 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (106697 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (29850 in chips, $2.45 bounty) 
+Seat 5: dw.kid (95097 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (25000 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (20011 in chips, $3.67 bounty) 
+Seat 8: Valente18 (24956 in chips, $2.45 bounty) 
+kogam20590: posts the ante 100
+Bpj434343: posts the ante 100
+FlamingoBet: posts the ante 100
+Mick92109: posts the ante 100
+dw.kid: posts the ante 100
+MrUller20: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Valente18: posts the ante 100
+Valente18: posts small blind 400
+kogam20590: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6h Qd]
+Bpj434343: folds 
+FlamingoBet: folds 
+Mick92109: folds 
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: raises 2000 to 2800
+kogam20590: calls 2000
+*** FLOP *** [2d Js Ks]
+Valente18: bets 2112
+kogam20590: folds 
+Uncalled bet (2112) returned to Valente18
+Valente18 collected 6400 from pot
+Valente18: doesn't show hand 
+*** SUMMARY ***
+Total pot 6400 | Rake 0 
+Board [2d Js Ks]
+Seat 1: kogam20590 (big blind) folded on the Flop
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Valente18 (small blind) collected (6400)
+
+
+
+PokerStars Hand #254880564483: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/15 18:43:00 WET [2025/02/15 13:43:00 ET]
+Table '3856223659 128' 8-max Seat #8 is the button
+Seat 1: kogam20590 (33890 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (164785 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (106597 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (29750 in chips, $2.45 bounty) 
+Seat 5: dw.kid (94997 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (24900 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (19911 in chips, $3.67 bounty) 
+Seat 8: Valente18 (28456 in chips, $2.45 bounty) 
+kogam20590: posts the ante 100
+Bpj434343: posts the ante 100
+FlamingoBet: posts the ante 100
+Mick92109: posts the ante 100
+dw.kid: posts the ante 100
+MrUller20: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Valente18: posts the ante 100
+kogam20590: posts small blind 400
+Bpj434343: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 9s]
+FlamingoBet: folds 
+Mick92109: folds 
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: calls 400
+Bpj434343: checks 
+*** FLOP *** [Ad 9c 7h]
+kogam20590: checks 
+Bpj434343: checks 
+*** TURN *** [Ad 9c 7h] [4d]
+kogam20590: bets 800
+Bpj434343: folds 
+Uncalled bet (800) returned to kogam20590
+kogam20590 collected 2400 from pot
+kogam20590: doesn't show hand 
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [Ad 9c 7h 4d]
+Seat 1: kogam20590 (small blind) collected (2400)
+Seat 2: Bpj434343 (big blind) folded on the Turn
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880578805: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/15 18:43:49 WET [2025/02/15 13:43:49 ET]
+Table '3856223659 128' 8-max Seat #1 is the button
+Seat 1: kogam20590 (35390 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (163885 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (106497 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (29650 in chips, $2.45 bounty) 
+Seat 5: dw.kid (94897 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (24800 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (19811 in chips, $3.67 bounty) 
+Seat 8: Valente18 (28356 in chips, $2.45 bounty) 
+kogam20590: posts the ante 100
+Bpj434343: posts the ante 100
+FlamingoBet: posts the ante 100
+Mick92109: posts the ante 100
+dw.kid: posts the ante 100
+MrUller20: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Valente18: posts the ante 100
+Bpj434343: posts small blind 400
+FlamingoBet: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad Jh]
+Mick92109: calls 800
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: raises 880 to 1680
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: calls 1280
+FlamingoBet: folds 
+Mick92109: calls 880
+*** FLOP *** [Th Jd Ts]
+Bpj434343: checks 
+Mick92109: checks 
+Kevin12345Mc: bets 2191
+Bpj434343: folds 
+Mick92109: folds 
+Uncalled bet (2191) returned to Kevin12345Mc
+Kevin12345Mc collected 6640 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 6640 | Rake 0 
+Board [Th Jd Ts]
+Seat 1: kogam20590 (button) folded before Flop (didn't bet)
+Seat 2: Bpj434343 (small blind) folded on the Flop
+Seat 3: FlamingoBet (big blind) folded before Flop
+Seat 4: Mick92109 folded on the Flop
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc collected (6640)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880608800: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/15 18:45:31 WET [2025/02/15 13:45:31 ET]
+Table '3856223659 128' 8-max Seat #2 is the button
+Seat 1: kogam20590 (35290 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (162105 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (105597 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (27870 in chips, $2.45 bounty) 
+Seat 5: dw.kid (94797 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (24700 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24671 in chips, $3.67 bounty) 
+Seat 8: Valente18 (28256 in chips, $2.45 bounty) 
+kogam20590: posts the ante 100
+Bpj434343: posts the ante 100
+FlamingoBet: posts the ante 100
+Mick92109: posts the ante 100
+dw.kid: posts the ante 100
+MrUller20: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Valente18: posts the ante 100
+FlamingoBet: posts small blind 400
+Mick92109: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 5s]
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: raises 800 to 1600
+kogam20590: folds 
+Bpj434343: calls 1600
+FlamingoBet: folds 
+Mick92109: folds 
+*** FLOP *** [Tc 5c Jc]
+Valente18: checks 
+Bpj434343: checks 
+*** TURN *** [Tc 5c Jc] [8d]
+Valente18: bets 1716
+Bpj434343: calls 1716
+*** RIVER *** [Tc 5c Jc 8d] [Ah]
+Valente18: checks 
+Bpj434343: bets 1600
+Valente18: calls 1600
+*** SHOW DOWN ***
+Bpj434343: shows [Td Jh] (two pair, Jacks and Tens)
+Valente18: mucks hand 
+Bpj434343 collected 11832 from pot
+*** SUMMARY ***
+Total pot 11832 | Rake 0 
+Board [Tc 5c Jc 8d Ah]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 (button) showed [Td Jh] and won (11832) with two pair, Jacks and Tens
+Seat 3: FlamingoBet (small blind) folded before Flop
+Seat 4: Mick92109 (big blind) folded before Flop
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 mucked [9s 9h]
+
+
+
+PokerStars Hand #254880628886: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/15 18:46:40 WET [2025/02/15 13:46:40 ET]
+Table '3856223659 128' 8-max Seat #3 is the button
+Seat 1: kogam20590 (35190 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (168921 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (105097 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (26970 in chips, $2.45 bounty) 
+Seat 5: dw.kid (94697 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (24600 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24571 in chips, $3.67 bounty) 
+Seat 8: Valente18 (23240 in chips, $2.45 bounty) 
+kogam20590: posts the ante 100
+Bpj434343: posts the ante 100
+FlamingoBet: posts the ante 100
+Mick92109: posts the ante 100
+dw.kid: posts the ante 100
+MrUller20: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Valente18: posts the ante 100
+Mick92109: posts small blind 400
+dw.kid: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kh 3s]
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: folds 
+FlamingoBet: folds 
+Mick92109: calls 400
+dw.kid: checks 
+*** FLOP *** [Ks 9h 8c]
+Mick92109: checks 
+dw.kid: checks 
+*** TURN *** [Ks 9h 8c] [Jc]
+Mick92109: checks 
+dw.kid: checks 
+*** RIVER *** [Ks 9h 8c Jc] [Jh]
+Mick92109: bets 800
+dw.kid: folds 
+Uncalled bet (800) returned to Mick92109
+Mick92109 collected 2400 from pot
+*** SUMMARY ***
+Total pot 2400 | Rake 0 
+Board [Ks 9h 8c Jc Jh]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet (button) folded before Flop (didn't bet)
+Seat 4: Mick92109 (small blind) collected (2400)
+Seat 5: dw.kid (big blind) folded on the River
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880641084: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/15 18:47:21 WET [2025/02/15 13:47:21 ET]
+Table '3856223659 128' 8-max Seat #4 is the button
+Seat 1: kogam20590 (35090 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (168821 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (104997 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (28470 in chips, $2.45 bounty) 
+Seat 5: dw.kid (93797 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (24500 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24471 in chips, $3.67 bounty) 
+Seat 8: Valente18 (23140 in chips, $2.45 bounty) 
+kogam20590: posts the ante 100
+Bpj434343: posts the ante 100
+FlamingoBet: posts the ante 100
+Mick92109: posts the ante 100
+dw.kid: posts the ante 100
+MrUller20: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Valente18: posts the ante 100
+dw.kid: posts small blind 400
+MrUller20: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h Th]
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: folds 
+FlamingoBet: raises 1200 to 2000
+Mick92109: folds 
+dw.kid: folds 
+MrUller20: calls 1200
+*** FLOP *** [2h Js Kc]
+MrUller20: checks 
+FlamingoBet: checks 
+*** TURN *** [2h Js Kc] [7c]
+MrUller20: checks 
+FlamingoBet: bets 2684
+MrUller20: calls 2684
+*** RIVER *** [2h Js Kc 7c] [4d]
+MrUller20: bets 5284
+FlamingoBet: folds 
+Uncalled bet (5284) returned to MrUller20
+MrUller20 collected 10568 from pot
+MrUller20: doesn't show hand 
+*** SUMMARY ***
+Total pot 10568 | Rake 0 
+Board [2h Js Kc 7c 4d]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded on the River
+Seat 4: Mick92109 (button) folded before Flop (didn't bet)
+Seat 5: dw.kid (small blind) folded before Flop
+Seat 6: MrUller20 (big blind) collected (10568)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880667689: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/15 18:48:52 WET [2025/02/15 13:48:52 ET]
+Table '3856223659 128' 8-max Seat #5 is the button
+Seat 1: kogam20590 (34990 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (168721 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (100213 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (28370 in chips, $2.45 bounty) 
+Seat 5: dw.kid (93297 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (30284 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24371 in chips, $3.67 bounty) 
+Seat 8: Valente18 (23040 in chips, $2.45 bounty) 
+kogam20590: posts the ante 100
+Bpj434343: posts the ante 100
+FlamingoBet: posts the ante 100
+Mick92109: posts the ante 100
+dw.kid: posts the ante 100
+MrUller20: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Valente18: posts the ante 100
+MrUller20: posts small blind 400
+Kevin12345Mc: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ad 7h]
+Valente18: raises 800 to 1600
+kogam20590: folds 
+Bpj434343: folds 
+FlamingoBet: folds 
+Mick92109: folds 
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: calls 800
+*** FLOP *** [Js 8s 2c]
+Kevin12345Mc: checks 
+Valente18: bets 1452
+Kevin12345Mc: folds 
+Uncalled bet (1452) returned to Valente18
+Valente18 collected 4400 from pot
+Valente18: doesn't show hand 
+*** SUMMARY ***
+Total pot 4400 | Rake 0 
+Board [Js 8s 2c]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid (button) folded before Flop (didn't bet)
+Seat 6: MrUller20 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Flop
+Seat 8: Valente18 collected (4400)
+
+
+
+PokerStars Hand #254880679401: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level IX (400/800) - 2025/02/15 18:49:32 WET [2025/02/15 13:49:32 ET]
+Table '3856223659 128' 8-max Seat #6 is the button
+Seat 1: kogam20590 (34890 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (168621 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (100113 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (28270 in chips, $2.45 bounty) 
+Seat 5: dw.kid (93197 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (29784 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (22671 in chips, $3.67 bounty) 
+Seat 8: Valente18 (25740 in chips, $2.45 bounty) 
+kogam20590: posts the ante 100
+Bpj434343: posts the ante 100
+FlamingoBet: posts the ante 100
+Mick92109: posts the ante 100
+dw.kid: posts the ante 100
+MrUller20: posts the ante 100
+Kevin12345Mc: posts the ante 100
+Valente18: posts the ante 100
+Kevin12345Mc: posts small blind 400
+Valente18: posts big blind 800
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8d Qs]
+kogam20590: folds 
+Bpj434343: folds 
+FlamingoBet: raises 1200 to 2000
+Mick92109: folds 
+dw.kid: calls 2000
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: calls 1200
+*** FLOP *** [5h Ad 2h]
+Valente18: checks 
+FlamingoBet: bets 2736
+dw.kid: folds 
+Valente18: raises 4182 to 6918
+FlamingoBet: folds 
+Uncalled bet (4182) returned to Valente18
+Valente18 collected 12672 from pot
+Valente18: doesn't show hand 
+*** SUMMARY ***
+Total pot 12672 | Rake 0 
+Board [5h Ad 2h]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded on the Flop
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded on the Flop
+Seat 6: MrUller20 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Valente18 (big blind) collected (12672)
+
+
+
+PokerStars Hand #254880699940: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (450/900) - 2025/02/15 18:50:42 WET [2025/02/15 13:50:42 ET]
+Table '3856223659 128' 8-max Seat #7 is the button
+Seat 1: kogam20590 (34790 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (168521 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (95277 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (28170 in chips, $2.45 bounty) 
+Seat 5: dw.kid (91097 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (29684 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (22171 in chips, $3.67 bounty) 
+Seat 8: Valente18 (33576 in chips, $2.45 bounty) 
+kogam20590: posts the ante 125
+Bpj434343: posts the ante 125
+FlamingoBet: posts the ante 125
+Mick92109: posts the ante 125
+dw.kid: posts the ante 125
+MrUller20: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Valente18: posts the ante 125
+Valente18: posts small blind 450
+kogam20590: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [2d Jc]
+Bpj434343: folds 
+FlamingoBet: folds 
+Mick92109: calls 900
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: calls 450
+kogam20590: checks 
+*** FLOP *** [5d Qc 6s]
+Valente18: checks 
+kogam20590: checks 
+Mick92109: checks 
+*** TURN *** [5d Qc 6s] [9d]
+Valente18: checks 
+kogam20590: checks 
+Mick92109: checks 
+*** RIVER *** [5d Qc 6s 9d] [5h]
+Valente18: bets 1221
+kogam20590: folds 
+Mick92109: folds 
+Uncalled bet (1221) returned to Valente18
+Valente18 collected 3700 from pot
+Valente18: doesn't show hand 
+*** SUMMARY ***
+Total pot 3700 | Rake 0 
+Board [5d Qc 6s 9d 5h]
+Seat 1: kogam20590 (big blind) folded on the River
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Mick92109 folded on the River
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Valente18 (small blind) collected (3700)
+
+
+
+PokerStars Hand #254880730340: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (450/900) - 2025/02/15 18:52:28 WET [2025/02/15 13:52:28 ET]
+Table '3856223659 128' 8-max Seat #8 is the button
+Seat 1: kogam20590 (33765 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (168396 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (95152 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (27145 in chips, $2.45 bounty) 
+Seat 5: dw.kid (90972 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (29559 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (22046 in chips, $3.67 bounty) 
+Seat 8: Valente18 (36251 in chips, $2.45 bounty) 
+kogam20590: posts the ante 125
+Bpj434343: posts the ante 125
+FlamingoBet: posts the ante 125
+Mick92109: posts the ante 125
+dw.kid: posts the ante 125
+MrUller20: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Valente18: posts the ante 125
+kogam20590: posts small blind 450
+Bpj434343: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td Jh]
+FlamingoBet: raises 1350 to 2250
+Mick92109: calls 2250
+dw.kid: calls 2250
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: folds 
+*** FLOP *** [2h Ad 5h]
+FlamingoBet: checks 
+Mick92109: checks 
+dw.kid: bets 4950
+FlamingoBet: folds 
+Mick92109: calls 4950
+*** TURN *** [2h Ad 5h] [Jc]
+Mick92109: checks 
+dw.kid: bets 20250
+Mick92109: folds 
+Uncalled bet (20250) returned to dw.kid
+dw.kid collected 19000 from pot
+dw.kid: doesn't show hand 
+*** SUMMARY ***
+Total pot 19000 | Rake 0 
+Board [2h Ad 5h Jc]
+Seat 1: kogam20590 (small blind) folded before Flop
+Seat 2: Bpj434343 (big blind) folded before Flop
+Seat 3: FlamingoBet folded on the Flop
+Seat 4: Mick92109 folded on the Turn
+Seat 5: dw.kid collected (19000)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880751137: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (450/900) - 2025/02/15 18:53:39 WET [2025/02/15 13:53:39 ET]
+Table '3856223659 128' 8-max Seat #1 is the button
+Seat 1: kogam20590 (33190 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (167371 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (92777 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (19820 in chips, $2.45 bounty) 
+Seat 5: dw.kid (102647 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (29434 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (21921 in chips, $3.67 bounty) 
+Seat 8: Valente18 (36126 in chips, $2.45 bounty) 
+kogam20590: posts the ante 125
+Bpj434343: posts the ante 125
+FlamingoBet: posts the ante 125
+Mick92109: posts the ante 125
+dw.kid: posts the ante 125
+MrUller20: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Valente18: posts the ante 125
+Bpj434343: posts small blind 450
+FlamingoBet: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kc 7c]
+Mick92109: folds 
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: folds 
+Uncalled bet (450) returned to FlamingoBet
+FlamingoBet collected 1900 from pot
+FlamingoBet: doesn't show hand 
+*** SUMMARY ***
+Total pot 1900 | Rake 0 
+Seat 1: kogam20590 (button) folded before Flop (didn't bet)
+Seat 2: Bpj434343 (small blind) folded before Flop
+Seat 3: FlamingoBet (big blind) collected (1900)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880758169: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (450/900) - 2025/02/15 18:54:04 WET [2025/02/15 13:54:04 ET]
+Table '3856223659 128' 8-max Seat #2 is the button
+Seat 1: kogam20590 (33065 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (166796 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (94102 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (19695 in chips, $2.45 bounty) 
+Seat 5: dw.kid (102522 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (29309 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (21796 in chips, $3.67 bounty) 
+Seat 8: Valente18 (36001 in chips, $2.45 bounty) 
+kogam20590: posts the ante 125
+Bpj434343: posts the ante 125
+FlamingoBet: posts the ante 125
+Mick92109: posts the ante 125
+dw.kid: posts the ante 125
+MrUller20: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Valente18: posts the ante 125
+FlamingoBet: posts small blind 450
+Mick92109: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6s 3h]
+dw.kid: raises 1350 to 2250
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: calls 2250
+Bpj434343: folds 
+FlamingoBet: folds 
+Mick92109: folds 
+*** FLOP *** [7c 6c 8d]
+dw.kid: checks 
+kogam20590: bets 3425
+dw.kid: calls 3425
+*** TURN *** [7c 6c 8d] [3s]
+dw.kid: checks 
+kogam20590: bets 6850
+dw.kid: folds 
+Uncalled bet (6850) returned to kogam20590
+kogam20590 collected 13700 from pot
+kogam20590: doesn't show hand 
+*** SUMMARY ***
+Total pot 13700 | Rake 0 
+Board [7c 6c 8d 3s]
+Seat 1: kogam20590 collected (13700)
+Seat 2: Bpj434343 (button) folded before Flop (didn't bet)
+Seat 3: FlamingoBet (small blind) folded before Flop
+Seat 4: Mick92109 (big blind) folded before Flop
+Seat 5: dw.kid folded on the Turn
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880769452: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (450/900) - 2025/02/15 18:54:42 WET [2025/02/15 13:54:42 ET]
+Table '3856223659 128' 8-max Seat #3 is the button
+Seat 1: kogam20590 (40965 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (166671 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (93527 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (18670 in chips, $2.45 bounty) 
+Seat 5: dw.kid (96722 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (29184 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (21671 in chips, $3.67 bounty) 
+Seat 8: Valente18 (35876 in chips, $2.45 bounty) 
+kogam20590: posts the ante 125
+Bpj434343: posts the ante 125
+FlamingoBet: posts the ante 125
+Mick92109: posts the ante 125
+dw.kid: posts the ante 125
+MrUller20: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Valente18: posts the ante 125
+Mick92109: posts small blind 450
+dw.kid: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5s 8s]
+MrUller20: raises 900 to 1800
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: calls 1800
+FlamingoBet: folds 
+Mick92109: folds 
+dw.kid: raises 5950 to 7750
+MrUller20: folds 
+Bpj434343: calls 5950
+*** FLOP *** [Qs 9c 9d]
+dw.kid: checks 
+Bpj434343: checks 
+*** TURN *** [Qs 9c 9d] [Ah]
+dw.kid: checks 
+Bpj434343: checks 
+*** RIVER *** [Qs 9c 9d Ah] [7s]
+dw.kid: bets 11813
+Bpj434343: raises 11813 to 23626
+dw.kid: calls 11813
+*** SHOW DOWN ***
+Bpj434343: shows [7h 7d] (a full house, Sevens full of Nines)
+dw.kid: mucks hand 
+Bpj434343 collected 66002 from pot
+*** SUMMARY ***
+Total pot 66002 | Rake 0 
+Board [Qs 9c 9d Ah 7s]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 showed [7h 7d] and won (66002) with a full house, Sevens full of Nines
+Seat 3: FlamingoBet (button) folded before Flop (didn't bet)
+Seat 4: Mick92109 (small blind) folded before Flop
+Seat 5: dw.kid (big blind) mucked [Jd Ad]
+Seat 6: MrUller20 folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880876580: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (450/900) - 2025/02/15 19:02:54 WET [2025/02/15 14:02:54 ET]
+Table '3856223659 128' 8-max Seat #4 is the button
+Seat 1: kogam20590 (40840 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (201172 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (93402 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (18095 in chips, $2.45 bounty) 
+Seat 5: dw.kid (65221 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (27259 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (21546 in chips, $3.67 bounty) 
+Seat 8: Valente18 (35751 in chips, $2.45 bounty) 
+kogam20590: posts the ante 125
+Bpj434343: posts the ante 125
+FlamingoBet: posts the ante 125
+Mick92109: posts the ante 125
+dw.kid: posts the ante 125
+MrUller20: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Valente18: posts the ante 125
+dw.kid: posts small blind 450
+MrUller20: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 2s]
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: folds 
+FlamingoBet: folds 
+Mick92109: folds 
+dw.kid: raises 1350 to 2250
+MrUller20: raises 24884 to 27134 and is all-in
+dw.kid: folds 
+Uncalled bet (24884) returned to MrUller20
+MrUller20 collected 5500 from pot
+MrUller20: doesn't show hand 
+*** SUMMARY ***
+Total pot 5500 | Rake 0 
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Mick92109 (button) folded before Flop (didn't bet)
+Seat 5: dw.kid (small blind) folded before Flop
+Seat 6: MrUller20 (big blind) collected (5500)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880886583: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (450/900) - 2025/02/15 19:03:28 WET [2025/02/15 14:03:28 ET]
+Table '3856223659 128' 8-max Seat #5 is the button
+Seat 1: kogam20590 (40715 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (201047 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (93277 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (17970 in chips, $2.45 bounty) 
+Seat 5: dw.kid (62846 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (30384 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (21421 in chips, $3.67 bounty) 
+Seat 8: Valente18 (35626 in chips, $2.45 bounty) 
+kogam20590: posts the ante 125
+Bpj434343: posts the ante 125
+FlamingoBet: posts the ante 125
+Mick92109: posts the ante 125
+dw.kid: posts the ante 125
+MrUller20: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Valente18: posts the ante 125
+MrUller20: posts small blind 450
+Kevin12345Mc: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Kd Kh]
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: calls 900
+FlamingoBet: folds 
+Mick92109: calls 900
+dw.kid: raises 3250 to 4150
+MrUller20: folds 
+Kevin12345Mc: raises 17146 to 21296 and is all-in
+Bpj434343: folds 
+Mick92109: folds 
+dw.kid: folds 
+Uncalled bet (17146) returned to Kevin12345Mc
+Kevin12345Mc collected 11550 from pot
+Kevin12345Mc: doesn't show hand 
+*** SUMMARY ***
+Total pot 11550 | Rake 0 
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop
+Seat 5: dw.kid (button) folded before Flop
+Seat 6: MrUller20 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) collected (11550)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880903987: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (450/900) - 2025/02/15 19:04:26 WET [2025/02/15 14:04:26 ET]
+Table '3856223659 128' 8-max Seat #6 is the button
+Seat 1: kogam20590 (40590 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (200022 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (93152 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (16945 in chips, $2.45 bounty) 
+Seat 5: dw.kid (58571 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (29809 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (28696 in chips, $3.67 bounty) 
+Seat 8: Valente18 (35501 in chips, $2.45 bounty) 
+kogam20590: posts the ante 125
+Bpj434343: posts the ante 125
+FlamingoBet: posts the ante 125
+Mick92109: posts the ante 125
+dw.kid: posts the ante 125
+MrUller20: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Valente18: posts the ante 125
+Kevin12345Mc: posts small blind 450
+Valente18: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8h 6c]
+kogam20590: folds 
+Bpj434343: folds 
+FlamingoBet: folds 
+Mick92109: folds 
+dw.kid: folds 
+MrUller20: raises 900 to 1800
+Kevin12345Mc: folds 
+Valente18: calls 900
+*** FLOP *** [3h 2s Jc]
+Valente18: checks 
+MrUller20: bets 1515
+Valente18: folds 
+Uncalled bet (1515) returned to MrUller20
+MrUller20 collected 5050 from pot
+MrUller20: doesn't show hand 
+*** SUMMARY ***
+Total pot 5050 | Rake 0 
+Board [3h 2s Jc]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 (button) collected (5050)
+Seat 7: Kevin12345Mc (small blind) folded before Flop
+Seat 8: Valente18 (big blind) folded on the Flop
+
+
+
+PokerStars Hand #254880917994: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level X (450/900) - 2025/02/15 19:05:13 WET [2025/02/15 14:05:13 ET]
+Table '3856223659 128' 8-max Seat #7 is the button
+Seat 1: kogam20590 (40465 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (199897 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (93027 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (16820 in chips, $2.45 bounty) 
+Seat 5: dw.kid (58446 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (32934 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (28121 in chips, $3.67 bounty) 
+Seat 8: Valente18 (33576 in chips, $2.45 bounty) 
+kogam20590: posts the ante 125
+Bpj434343: posts the ante 125
+FlamingoBet: posts the ante 125
+Mick92109: posts the ante 125
+dw.kid: posts the ante 125
+MrUller20: posts the ante 125
+Kevin12345Mc: posts the ante 125
+Valente18: posts the ante 125
+Valente18: posts small blind 450
+kogam20590: posts big blind 900
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qh 5h]
+Bpj434343: calls 900
+FlamingoBet: folds 
+Mick92109: calls 900
+dw.kid: raises 3250 to 4150
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: calls 3250
+Mick92109: folds 
+*** FLOP *** [3s 7h 2d]
+Bpj434343: checks 
+dw.kid: checks 
+*** TURN *** [3s 7h 2d] [3c]
+Bpj434343: checks 
+dw.kid: checks 
+*** RIVER *** [3s 7h 2d 3c] [As]
+Bpj434343: checks 
+dw.kid: bets 7277
+Bpj434343: folds 
+Uncalled bet (7277) returned to dw.kid
+dw.kid collected 11550 from pot
+dw.kid: doesn't show hand 
+*** SUMMARY ***
+Total pot 11550 | Rake 0 
+Board [3s 7h 2d 3c As]
+Seat 1: kogam20590 (big blind) folded before Flop
+Seat 2: Bpj434343 folded on the River
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop
+Seat 5: dw.kid collected (11550)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded before Flop (didn't bet)
+Seat 8: Valente18 (small blind) folded before Flop
+
+
+
+PokerStars Hand #254880933421: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/15 19:06:06 WET [2025/02/15 14:06:06 ET]
+Table '3856223659 128' 8-max Seat #8 is the button
+Seat 1: kogam20590 (39440 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (195622 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (92902 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (15795 in chips, $2.45 bounty) 
+Seat 5: dw.kid (65721 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (32809 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (27996 in chips, $3.67 bounty) 
+Seat 8: Valente18 (33001 in chips, $2.45 bounty) 
+kogam20590: posts the ante 150
+Bpj434343: posts the ante 150
+FlamingoBet: posts the ante 150
+Mick92109: posts the ante 150
+dw.kid: posts the ante 150
+MrUller20: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Valente18: posts the ante 150
+kogam20590: posts small blind 500
+Bpj434343: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Js As]
+FlamingoBet: folds 
+Mick92109: folds 
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: raises 1100 to 2100
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: calls 1100
+*** FLOP *** [Th Qd 4s]
+Bpj434343: checks 
+Kevin12345Mc: bets 1947
+Bpj434343: calls 1947
+*** TURN *** [Th Qd 4s] [3c]
+Bpj434343: checks 
+Kevin12345Mc: checks 
+*** RIVER *** [Th Qd 4s 3c] [6c]
+Bpj434343: bets 9794
+Kevin12345Mc: folds 
+Uncalled bet (9794) returned to Bpj434343
+Bpj434343 collected 9794 from pot
+Bpj434343: doesn't show hand 
+*** SUMMARY ***
+Total pot 9794 | Rake 0 
+Board [Th Qd 4s 3c 6c]
+Seat 1: kogam20590 (small blind) folded before Flop
+Seat 2: Bpj434343 (big blind) collected (9794)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Mick92109 folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded on the River
+Seat 8: Valente18 (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880948603: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/15 19:06:56 WET [2025/02/15 14:06:56 ET]
+Table '3856223659 128' 8-max Seat #1 is the button
+Seat 1: kogam20590 (38790 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (201219 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (92752 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (15645 in chips, $2.45 bounty) 
+Seat 5: dw.kid (65571 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (32659 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (23799 in chips, $3.67 bounty) 
+Seat 8: Valente18 (32851 in chips, $2.45 bounty) 
+kogam20590: posts the ante 150
+Bpj434343: posts the ante 150
+FlamingoBet: posts the ante 150
+Mick92109: posts the ante 150
+dw.kid: posts the ante 150
+MrUller20: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Valente18: posts the ante 150
+Bpj434343: posts small blind 500
+FlamingoBet: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4s 5c]
+Mick92109: calls 1000
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: raises 2500 to 3500
+kogam20590: folds 
+Bpj434343: folds 
+FlamingoBet: folds 
+Mick92109: calls 2500
+*** FLOP *** [As 8c 3c]
+Mick92109: checks 
+Valente18: bets 2425
+Mick92109: folds 
+Uncalled bet (2425) returned to Valente18
+Valente18 collected 9700 from pot
+Valente18: doesn't show hand 
+*** SUMMARY ***
+Total pot 9700 | Rake 0 
+Board [As 8c 3c]
+Seat 1: kogam20590 (button) folded before Flop (didn't bet)
+Seat 2: Bpj434343 (small blind) folded before Flop
+Seat 3: FlamingoBet (big blind) folded before Flop
+Seat 4: Mick92109 folded on the Flop
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 collected (9700)
+
+
+
+PokerStars Hand #254880959534: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/15 19:07:33 WET [2025/02/15 14:07:33 ET]
+Table '3856223659 128' 8-max Seat #2 is the button
+Seat 1: kogam20590 (38640 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (200569 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (91602 in chips, $6.72 bounty) 
+Seat 4: Mick92109 (11995 in chips, $2.45 bounty) 
+Seat 5: dw.kid (65421 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (32509 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (23649 in chips, $3.67 bounty) 
+Seat 8: Valente18 (38901 in chips, $2.45 bounty) 
+kogam20590: posts the ante 150
+Bpj434343: posts the ante 150
+FlamingoBet: posts the ante 150
+Mick92109: posts the ante 150
+dw.kid: posts the ante 150
+MrUller20: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Valente18: posts the ante 150
+FlamingoBet: posts small blind 500
+Mick92109: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [3h 7d]
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: raises 1000 to 2000
+kogam20590: folds 
+Bpj434343: folds 
+FlamingoBet: folds 
+Mick92109: calls 1000
+*** FLOP *** [Kh 6d Ah]
+Mick92109: checks 
+Valente18: checks 
+*** TURN *** [Kh 6d Ah] [Ks]
+Mick92109: checks 
+Valente18: checks 
+*** RIVER *** [Kh 6d Ah Ks] [7c]
+Mick92109: bets 2850
+Valente18: raises 13680 to 16530
+Mick92109: calls 6995 and is all-in
+Uncalled bet (6685) returned to Valente18
+*** SHOW DOWN ***
+Valente18: shows [Kd Ad] (a full house, Kings full of Aces)
+Mick92109: shows [Kc Js] (three of a kind, Kings)
+Valente18 collected 25390 from pot
+Valente18 wins $1.23 for eliminating Mick92109 and their own bounty increases by $1.22 to $3.67
+Mick92109 finished the tournament
+*** SUMMARY ***
+Total pot 25390 | Rake 0 
+Board [Kh 6d Ah Ks 7c]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 (button) folded before Flop (didn't bet)
+Seat 3: FlamingoBet (small blind) folded before Flop
+Seat 4: Mick92109 (big blind) showed [Kc Js] and lost with three of a kind, Kings
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 showed [Kd Ad] and won (25390) with a full house, Kings full of Aces
+
+
+
+PokerStars Hand #254880972487: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/15 19:08:16 WET [2025/02/15 14:08:16 ET]
+Table '3856223659 128' 8-max Seat #3 is the button
+Seat 1: kogam20590 (38490 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (200419 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (90952 in chips, $6.72 bounty) 
+Seat 5: dw.kid (65271 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (32359 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (23499 in chips, $3.67 bounty) 
+Seat 8: Valente18 (52296 in chips, $3.67 bounty) 
+kogam20590: posts the ante 150
+Bpj434343: posts the ante 150
+FlamingoBet: posts the ante 150
+dw.kid: posts the ante 150
+MrUller20: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Valente18: posts the ante 150
+dw.kid: posts small blind 500
+MrUller20: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 9c]
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: folds 
+FlamingoBet: raises 1300 to 2300
+dw.kid: raises 6200 to 8500
+MrUller20: folds 
+FlamingoBet: raises 73500 to 82000
+dw.kid: calls 56621 and is all-in
+Uncalled bet (16879) returned to FlamingoBet
+*** FLOP *** [5c Tc 2s]
+*** TURN *** [5c Tc 2s] [8s]
+*** RIVER *** [5c Tc 2s 8s] [2h]
+*** SHOW DOWN ***
+dw.kid: shows [Js As] (a pair of Deuces)
+FlamingoBet: shows [Ah 3c] (a pair of Deuces - lower kicker)
+dw.kid collected 132292 from pot
+*** SUMMARY ***
+Total pot 132292 | Rake 0 
+Board [5c Tc 2s 8s 2h]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet (button) showed [Ah 3c] and lost with a pair of Deuces
+Seat 5: dw.kid (small blind) showed [Js As] and won (132292) with a pair of Deuces
+Seat 6: MrUller20 (big blind) folded before Flop
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254880990865: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/15 19:09:18 WET [2025/02/15 14:09:18 ET]
+Table '3856223659 128' 8-max Seat #5 is the button
+Seat 1: kogam20590 (38340 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (200269 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (25681 in chips, $6.72 bounty) 
+Seat 4: smokeon (3664 in chips, $3.67 bounty) 
+Seat 5: dw.kid (132292 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (31209 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (23349 in chips, $3.67 bounty) 
+Seat 8: Valente18 (52146 in chips, $3.67 bounty) 
+kogam20590: posts the ante 150
+Bpj434343: posts the ante 150
+FlamingoBet: posts the ante 150
+smokeon: posts the ante 150
+dw.kid: posts the ante 150
+MrUller20: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Valente18: posts the ante 150
+MrUller20: posts small blind 500
+Kevin12345Mc: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Jc 9h]
+Valente18: raises 1000 to 2000
+kogam20590: calls 2000
+Bpj434343: folds 
+FlamingoBet: folds 
+smokeon: folds 
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: calls 1000
+*** FLOP *** [Kd Tc Ks]
+Kevin12345Mc: checks 
+Valente18: checks 
+kogam20590: checks 
+*** TURN *** [Kd Tc Ks] [6h]
+Kevin12345Mc: checks 
+Valente18: bets 1925
+kogam20590: calls 1925
+Kevin12345Mc: folds 
+*** RIVER *** [Kd Tc Ks 6h] [7h]
+Valente18: bets 9663
+kogam20590: calls 9663
+*** SHOW DOWN ***
+Valente18: shows [Qh Ah] (a pair of Kings)
+kogam20590: shows [Jd Js] (two pair, Kings and Jacks)
+kogam20590 collected 30876 from pot
+*** SUMMARY ***
+Total pot 30876 | Rake 0 
+Board [Kd Tc Ks 6h 7h]
+Seat 1: kogam20590 showed [Jd Js] and won (30876) with two pair, Kings and Jacks
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: smokeon folded before Flop (didn't bet)
+Seat 5: dw.kid (button) folded before Flop (didn't bet)
+Seat 6: MrUller20 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) folded on the Turn
+Seat 8: Valente18 showed [Qh Ah] and lost with a pair of Kings
+
+
+
+PokerStars Hand #254881005893: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/15 19:10:09 WET [2025/02/15 14:10:09 ET]
+Table '3856223659 128' 8-max Seat #6 is the button
+Seat 1: kogam20590 (55478 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (200119 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (25531 in chips, $6.72 bounty) 
+Seat 4: smokeon (3514 in chips, $3.67 bounty) 
+Seat 5: dw.kid (132142 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (30559 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (21199 in chips, $3.67 bounty) 
+Seat 8: Valente18 (38408 in chips, $3.67 bounty) 
+kogam20590: posts the ante 150
+Bpj434343: posts the ante 150
+FlamingoBet: posts the ante 150
+smokeon: posts the ante 150
+dw.kid: posts the ante 150
+MrUller20: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Valente18: posts the ante 150
+Kevin12345Mc: posts small blind 500
+Valente18: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [8c 8h]
+kogam20590: folds 
+Bpj434343: folds 
+FlamingoBet: folds 
+smokeon: raises 2364 to 3364 and is all-in
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: raises 17685 to 21049 and is all-in
+Valente18: folds 
+Uncalled bet (17685) returned to Kevin12345Mc
+*** FLOP *** [Jd Qc 5c]
+*** TURN *** [Jd Qc 5c] [3c]
+*** RIVER *** [Jd Qc 5c 3c] [4h]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [8c 8h] (a pair of Eights)
+smokeon: shows [9h 8d] (high card Queen)
+Kevin12345Mc collected 8928 from pot
+Kevin12345Mc wins $1.84 for eliminating smokeon and their own bounty increases by $1.83 to $5.50
+smokeon finished the tournament
+*** SUMMARY ***
+Total pot 8928 | Rake 0 
+Board [Jd Qc 5c 3c 4h]
+Seat 1: kogam20590 folded before Flop (didn't bet)
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: smokeon showed [9h 8d] and lost with high card Queen
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 (button) folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (small blind) showed [8c 8h] and won (8928) with a pair of Eights
+Seat 8: Valente18 (big blind) folded before Flop
+
+
+
+PokerStars Hand #254881015664: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/15 19:10:42 WET [2025/02/15 14:10:42 ET]
+Table '3856223659 128' 8-max Seat #7 is the button
+Seat 1: kogam20590 (55328 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (199969 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (25381 in chips, $6.72 bounty) 
+Seat 5: dw.kid (131992 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (30409 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (26613 in chips, $5.50 bounty) 
+Seat 8: Valente18 (37258 in chips, $3.67 bounty) 
+kogam20590: posts the ante 150
+Bpj434343: posts the ante 150
+FlamingoBet: posts the ante 150
+dw.kid: posts the ante 150
+MrUller20: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Valente18: posts the ante 150
+Valente18: posts small blind 500
+kogam20590: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Qc 7c]
+Nim-0l is disconnected 
+Bpj434343: calls 1000
+FlamingoBet: folds 
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: calls 1000
+Valente18: calls 500
+kogam20590: checks 
+*** FLOP *** [3h 9h Qh]
+Valente18: checks 
+kogam20590: checks 
+Bpj434343: bets 5050
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: folds 
+Uncalled bet (5050) returned to Bpj434343
+Bpj434343 collected 5050 from pot
+Bpj434343: doesn't show hand 
+*** SUMMARY ***
+Total pot 5050 | Rake 0 
+Board [3h 9h Qh]
+Seat 1: kogam20590 (big blind) folded on the Flop
+Seat 2: Bpj434343 collected (5050)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc (button) folded on the Flop
+Seat 8: Valente18 (small blind) folded on the Flop
+
+
+
+PokerStars Hand #254881029017: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/15 19:11:27 WET [2025/02/15 14:11:27 ET]
+Table '3856223659 128' 8-max Seat #8 is the button
+Seat 1: kogam20590 (54178 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (203869 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (25231 in chips, $6.72 bounty) 
+Seat 4: Nim-0l (25000 in chips, $2.45 bounty) 
+Seat 5: dw.kid (131842 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (30259 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (25463 in chips, $5.50 bounty) 
+Seat 8: Valente18 (36108 in chips, $3.67 bounty) 
+kogam20590: posts the ante 150
+Bpj434343: posts the ante 150
+FlamingoBet: posts the ante 150
+Nim-0l: posts the ante 150
+dw.kid: posts the ante 150
+MrUller20: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Valente18: posts the ante 150
+kogam20590: posts small blind 500
+Bpj434343: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [4c 2s]
+FlamingoBet: folds 
+Nim-0l: folds 
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: raises 1000 to 2000
+kogam20590: folds 
+Bpj434343: calls 1000
+*** FLOP *** [5h 3c Jh]
+Bpj434343: checks 
+Valente18: checks 
+*** TURN *** [5h 3c Jh] [Qh]
+Bpj434343: checks 
+Valente18: bets 1425
+Bpj434343: calls 1425
+*** RIVER *** [5h 3c Jh Qh] [Ac]
+Bpj434343: checks 
+Valente18: bets 10260
+Bpj434343: folds 
+Uncalled bet (10260) returned to Valente18
+Valente18 collected 8550 from pot
+Valente18: doesn't show hand 
+*** SUMMARY ***
+Total pot 8550 | Rake 0 
+Board [5h 3c Jh Qh Ac]
+Seat 1: kogam20590 (small blind) folded before Flop
+Seat 2: Bpj434343 (big blind) folded on the River
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Nim-0l folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 (button) collected (8550)
+
+
+
+PokerStars Hand #254881038656: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/15 19:12:00 WET [2025/02/15 14:12:00 ET]
+Table '3856223659 128' 8-max Seat #1 is the button
+Seat 1: kogam20590 (53528 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (200294 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (25081 in chips, $6.72 bounty) 
+Seat 4: Nim-0l (24850 in chips, $2.45 bounty) 
+Seat 5: dw.kid (131692 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (30109 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (25313 in chips, $5.50 bounty) 
+Seat 8: Valente18 (41083 in chips, $3.67 bounty) 
+kogam20590: posts the ante 150
+Bpj434343: posts the ante 150
+FlamingoBet: posts the ante 150
+Nim-0l: posts the ante 150
+dw.kid: posts the ante 150
+MrUller20: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Valente18: posts the ante 150
+Bpj434343: posts small blind 500
+FlamingoBet: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Ac 4s]
+Nim-0l: folds 
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: folds 
+kogam20590: folds 
+Bpj434343: calls 500
+FlamingoBet: checks 
+*** FLOP *** [9d 3s 8c]
+Bpj434343: checks 
+FlamingoBet: bets 1216
+Bpj434343: folds 
+Uncalled bet (1216) returned to FlamingoBet
+FlamingoBet collected 3200 from pot
+FlamingoBet: doesn't show hand 
+*** SUMMARY ***
+Total pot 3200 | Rake 0 
+Board [9d 3s 8c]
+Seat 1: kogam20590 (button) folded before Flop (didn't bet)
+Seat 2: Bpj434343 (small blind) folded on the Flop
+Seat 3: FlamingoBet (big blind) collected (3200)
+Seat 4: Nim-0l folded before Flop (didn't bet)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254881049518: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/15 19:12:37 WET [2025/02/15 14:12:37 ET]
+Table '3856223659 128' 8-max Seat #2 is the button
+Seat 2: Bpj434343 (199144 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (27131 in chips, $6.72 bounty) 
+Seat 4: Nim-0l (24700 in chips, $2.45 bounty) 
+Seat 5: dw.kid (131542 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (29959 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (25163 in chips, $5.50 bounty) 
+Seat 8: Valente18 (40933 in chips, $3.67 bounty) 
+Bpj434343: posts the ante 150
+FlamingoBet: posts the ante 150
+Nim-0l: posts the ante 150
+dw.kid: posts the ante 150
+MrUller20: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Valente18: posts the ante 150
+FlamingoBet: posts small blind 500
+Nim-0l: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [Td 6h]
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: folds 
+blazsej73 is disconnected 
+Valente18: folds 
+Bpj434343: calls 1000
+FlamingoBet: folds 
+Nim-0l: raises 3550 to 4550
+Bpj434343: calls 3550
+*** FLOP *** [Kc 8s Ah]
+Nim-0l: bets 5325
+Bpj434343: folds 
+Uncalled bet (5325) returned to Nim-0l
+Nim-0l collected 10650 from pot
+Nim-0l: doesn't show hand 
+*** SUMMARY ***
+Total pot 10650 | Rake 0 
+Board [Kc 8s Ah]
+Seat 2: Bpj434343 (button) folded on the Flop
+Seat 3: FlamingoBet (small blind) folded before Flop
+Seat 4: Nim-0l (big blind) collected (10650)
+Seat 5: dw.kid folded before Flop (didn't bet)
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254881058617: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XI (500/1000) - 2025/02/15 19:13:08 WET [2025/02/15 14:13:08 ET]
+Table '3856223659 128' 8-max Seat #3 is the button
+Seat 1: blazsej73 (25000 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (194444 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (26481 in chips, $6.72 bounty) 
+Seat 4: Nim-0l (30650 in chips, $2.45 bounty) 
+Seat 5: dw.kid (131392 in chips, $7.33 bounty) 
+Seat 6: MrUller20 (29809 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (25013 in chips, $5.50 bounty) 
+Seat 8: Valente18 (40783 in chips, $3.67 bounty) 
+blazsej73: posts the ante 150
+Bpj434343: posts the ante 150
+FlamingoBet: posts the ante 150
+Nim-0l: posts the ante 150
+dw.kid: posts the ante 150
+MrUller20: posts the ante 150
+Kevin12345Mc: posts the ante 150
+Valente18: posts the ante 150
+Nim-0l: posts small blind 500
+dw.kid: posts big blind 1000
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [6d 5s]
+MrUller20: folds 
+Kevin12345Mc: folds 
+Valente18: raises 1000 to 2000
+blazsej73: calls 2000
+Bpj434343: folds 
+FlamingoBet: folds 
+Nim-0l: folds 
+dw.kid: calls 1000
+*** FLOP *** [5h Ah Th]
+dw.kid: checks 
+Valente18: checks 
+blazsej73: bets 6000
+dw.kid: calls 6000
+Valente18: folds 
+*** TURN *** [5h Ah Th] [8h]
+dw.kid: checks 
+blazsej73: bets 13000
+dw.kid: calls 13000
+*** RIVER *** [5h Ah Th 8h] [5d]
+dw.kid: bets 15081
+blazsej73: calls 3850 and is all-in
+Uncalled bet (11231) returned to dw.kid
+*** SHOW DOWN ***
+dw.kid: shows [Jh Ac] (a flush, Ace high)
+blazsej73: shows [As 7c] (two pair, Aces and Fives)
+dw.kid collected 53400 from pot
+dw.kid wins $1.23 for eliminating blazsej73 and their own bounty increases by $1.22 to $8.55
+blazsej73 finished the tournament
+*** SUMMARY ***
+Total pot 53400 | Rake 0 
+Board [5h Ah Th 8h 5d]
+Seat 1: blazsej73 showed [As 7c] and lost with two pair, Aces and Fives
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet (button) folded before Flop (didn't bet)
+Seat 4: Nim-0l (small blind) folded before Flop
+Seat 5: dw.kid (big blind) showed [Jh Ac] and won (53400) with a flush, Ace high
+Seat 6: MrUller20 folded before Flop (didn't bet)
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 folded on the Flop
+
+
+
+PokerStars Hand #254881079843: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/15 19:14:21 WET [2025/02/15 14:14:21 ET]
+Table '3856223659 128' 8-max Seat #4 is the button
+Seat 2: Bpj434343 (194294 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (26331 in chips, $6.72 bounty) 
+Seat 4: Nim-0l (30000 in chips, $2.45 bounty) 
+Seat 5: dw.kid (159792 in chips, $8.55 bounty) 
+Seat 6: MrUller20 (29659 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24863 in chips, $5.50 bounty) 
+Seat 8: Valente18 (38633 in chips, $3.67 bounty) 
+Bpj434343: posts the ante 175
+FlamingoBet: posts the ante 175
+Nim-0l: posts the ante 175
+dw.kid: posts the ante 175
+MrUller20: posts the ante 175
+Kevin12345Mc: posts the ante 175
+Valente18: posts the ante 175
+dw.kid: posts small blind 600
+MrUller20: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [7h 5d]
+Kevin12345Mc: folds 
+Valente18: folds 
+Bpj434343: folds 
+FlamingoBet: folds 
+Nim-0l: folds 
+dw.kid: raises 1800 to 3000
+MrUller20: calls 1800
+*** FLOP *** [8d 5s 6d]
+dw.kid: checks 
+MrUller20: checks 
+*** TURN *** [8d 5s 6d] [8c]
+dw.kid: checks 
+MrUller20: bets 2168
+dw.kid: calls 2168
+*** RIVER *** [8d 5s 6d 8c] [Kh]
+dw.kid: checks 
+MrUller20: checks 
+*** SHOW DOWN ***
+dw.kid: shows [7d 5h] (two pair, Eights and Fives)
+MrUller20: mucks hand 
+dw.kid collected 11561 from pot
+*** SUMMARY ***
+Total pot 11561 | Rake 0 
+Board [8d 5s 6d 8c Kh]
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Nim-0l (button) folded before Flop (didn't bet)
+Seat 5: dw.kid (small blind) showed [7d 5h] and won (11561) with two pair, Eights and Fives
+Seat 6: MrUller20 (big blind) mucked [Ah Ts]
+Seat 7: Kevin12345Mc folded before Flop (didn't bet)
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #254881095383: Tournament #3856223659, $2.45+$2.45+$0.60 USD Hold'em No Limit - Level XII (600/1200) - 2025/02/15 19:15:14 WET [2025/02/15 14:15:14 ET]
+Table '3856223659 128' 8-max Seat #5 is the button
+Seat 1: PatsDievas (71591 in chips, $2.45 bounty) 
+Seat 2: Bpj434343 (194119 in chips, $6.72 bounty) 
+Seat 3: FlamingoBet (26156 in chips, $6.72 bounty) 
+Seat 4: Nim-0l (29825 in chips, $2.45 bounty) 
+Seat 5: dw.kid (166010 in chips, $8.55 bounty) 
+Seat 6: MrUller20 (24316 in chips, $2.45 bounty) 
+Seat 7: Kevin12345Mc (24688 in chips, $5.50 bounty) 
+Seat 8: Valente18 (38458 in chips, $3.67 bounty) 
+PatsDievas: posts the ante 175
+Bpj434343: posts the ante 175
+FlamingoBet: posts the ante 175
+Nim-0l: posts the ante 175
+dw.kid: posts the ante 175
+MrUller20: posts the ante 175
+Kevin12345Mc: posts the ante 175
+Valente18: posts the ante 175
+MrUller20: posts small blind 600
+Kevin12345Mc: posts big blind 1200
+*** HOLE CARDS ***
+Dealt to Kevin12345Mc [5c 5s]
+Valente18: folds 
+PatsDievas: raises 1200 to 2400
+Bpj434343: folds 
+FlamingoBet: folds 
+Nim-0l: folds 
+dw.kid: folds 
+MrUller20: folds 
+Kevin12345Mc: calls 1200
+*** FLOP *** [3c 2s 7h]
+Kevin12345Mc: checks 
+PatsDievas: checks 
+*** TURN *** [3c 2s 7h] [6s]
+Kevin12345Mc: bets 5688
+PatsDievas: raises 5688 to 11376
+Kevin12345Mc: raises 10737 to 22113 and is all-in
+PatsDievas: calls 10737
+*** RIVER *** [3c 2s 7h 6s] [6c]
+*** SHOW DOWN ***
+Kevin12345Mc: shows [5c 5s] (two pair, Sixes and Fives)
+PatsDievas: shows [Ah As] (two pair, Aces and Sixes)
+PatsDievas collected 51026 from pot
+PatsDievas wins $2.75 for eliminating Kevin12345Mc and their own bounty increases by $2.75 to $5.20
+Kevin12345Mc finished the tournament
+*** SUMMARY ***
+Total pot 51026 | Rake 0 
+Board [3c 2s 7h 6s 6c]
+Seat 1: PatsDievas showed [Ah As] and won (51026) with two pair, Aces and Sixes
+Seat 2: Bpj434343 folded before Flop (didn't bet)
+Seat 3: FlamingoBet folded before Flop (didn't bet)
+Seat 4: Nim-0l folded before Flop (didn't bet)
+Seat 5: dw.kid (button) folded before Flop (didn't bet)
+Seat 6: MrUller20 (small blind) folded before Flop
+Seat 7: Kevin12345Mc (big blind) showed [5c 5s] and lost with two pair, Sixes and Fives
+Seat 8: Valente18 folded before Flop (didn't bet)
+
+
+
