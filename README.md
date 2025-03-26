@@ -9,6 +9,7 @@ Poker tournament and hand analyzer project
     - Total Winnings
     - Net Profit/Loss
     - ROI %
+    - Average Tournament Cost
 
 ### Secondary Metrics
 
