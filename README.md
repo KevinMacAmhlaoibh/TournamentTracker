@@ -19,7 +19,8 @@ Poker tournament and hand analyzer project
 ### Process
 
     1. Read hand/tournament in Python
-    2. Write hand/tournament to SQL tables
+    2a. Write hand/tournament to SQL tables
+       - 2b. Archive txt file so duplicate data is not inserted, keep check on previous tournaments to stop duplicate data from being inserted. 
     3. Retrieve data from SQL tables
     4. Display data in metrics and visualizations
 
